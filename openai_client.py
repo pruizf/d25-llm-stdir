@@ -66,9 +66,7 @@ if __name__ == "__main__":
   oa_client = OpenAI()
   stdirs = ut.get_and_format_data()
   for idx, row in stdirs.iterrows():
-    if idx == 0:
-      continue
-    elif idx > 3:
+    if idx > 3:
       break
     prompt = pr.gen_promt.format(
       numbered_categories=pr.number_categories(pr.categs_as13),
@@ -81,10 +79,11 @@ if __name__ == "__main__":
     jresp["response_time"] = td
     jresp["model"] = cf.oai_models[0]
     jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
-    print(f"Stage direction: {row['stgdir']}")
-    print(f"Response: {resp[0]}")
-    print(f'Response categ: {json.loads(resp[0])["category"]}. {pr.categs_as13[int(json.loads(resp[0])["category"])]}')
-    print(f"Response time: {td} ms")
+    print(f"# Processing stage direction: {idx}")
+    print(f"- Stage direction: {row['stgdir']}")
+    print(f"- Response: {resp[0]}")
+    print(f'- Response categ: {json.loads(resp[0])["category"]}. {pr.categs_as13[int(json.loads(resp[0])["category"])]}')
+    print(f"- Response time: {td} ms")
     print()
     out_comp_fn = os.path.join(cf.completions_dir, f"completion_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.json")
     with (open(out_comp_fn, "w") as out_comp_fh):

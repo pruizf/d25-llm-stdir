@@ -79,10 +79,14 @@ cat_info_fr_en = """
     - Example 4: Celestial music
 - Category 9
   - Name: narration
-  - Definition: Long, “narrative quality”, for readers
+  - Definition: Long stage direction, with narrative quality, inteded for readers
   - Examples
     - Example 1: Cependant VENDE, qui avait été mandée, survient après les acclamations du peuple, elle commande à son Chancelier de déclarer ses intentions à l’Assemblée
-    - Example 2: However, VENDE, who had been summoned, appears after the cheers of the people; she commands her Chancellor to declare her intentions to the Assembly
+    - Example 2: Cette scène est très divertissante, et jouée parfaitement par le Pédant, qui devient amoureux à son tour de Colombine. D'abord il lui donne un mouchoir pour cacher sa gorge ; mais incontinent il se laisse entraîner au pouvoir de l'amour. L'écolier survient qui voit le Pédant embrasser Colombine : il lui rend avec usure les coups de bâton ; ce qui finit la scène.
+    - Example 3: Pendant le dernier couplet, la force armée est entrée et a passé devant les citoyens, de manière que les jacobins quiont tous la figure du côté du public, ne peuvent la voir à la fin du couplet.
+    - Example 4: However, VENDE, who had been summoned, appears after the cheers of the people; she commands her Chancellor to declare her intentions to the Assembly
+    - Example 5: This scene is very entertaining, and perfectly played by the Pedant, who in turn falls in love with Columbine. At first he gives her a handkerchief to hide her throat; but immediately he lets himself be carried away by the power of love. The schoolboy arrives who sees the Pedant kissing Columbine: he returns the blows with the stick with usury; which ends the scene.
+    - Example 6: During the last verse, the armed force entered and passed in front of the citizens, so that the Jacobins, who all had their faces on the side of the audience, could not see it at the end of the verse.
 - Category 10
   - Name: object
   - Definition: Describes object or interaction with it
@@ -170,9 +174,11 @@ cat_info_fr_only = """
     - Example 2: Musique céleste
 - Category 9
   - Name: narration
-  - Definition: Long, “narrative quality”, for readers
+  - Definition: Long stage direction, with narrative quality, inteded for readers
   - Examples
     - Example 1: Cependant VENDE, qui avait été mandée, survient après les acclamations du peuple, elle commande à son Chancelier de déclarer ses intentions à l’Assemblée
+    - Example 2: Cette scène est très divertissante, et jouée parfaitement par le Pédant, qui devient amoureux à son tour de Colombine. D'abord il lui donne un mouchoir pour cacher sa gorge ; mais incontinent il se laisse entraîner au pouvoir de l'amour. L'écolier survient qui voit le Pédant embrasser Colombine : il lui rend avec usure les coups de bâton ; ce qui finit la scène.
+    - Example 3: Pendant le dernier couplet, la force armée est entrée et a passé devant les citoyens, de manière que les jacobins quiont tous la figure du côté du public, ne peuvent la voir à la fin du couplet.
 - Category 10
   - Name: object
   - Definition: Describes object or interaction with it
