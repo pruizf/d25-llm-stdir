@@ -1,0 +1,194 @@
+"""Examples for categories to classify stage directions against"""
+
+cat_info_fr_en = """
+- Category 1
+  - Name: action
+  - Definition: General character action
+  - Examples
+    - Example 1: Il désigne le garçon de café
+    - Example 2: Il lit
+    - Example 3: Elle s'assied
+    - Example 4: He points to the waiter
+    - Example 5: He reads
+    - Example 6: She sits down
+- Category 2
+  - Name: aggression
+  - Definition: Violent action
+  - Examples
+    - Example 1: Il tire son épée
+    - Example 2: Il se donne un coup
+    - Example 3: He draws his sword
+    - Example 4: He strikes himself
+- Category 3
+  - Name: aparte
+  - Definition: Aside (character addresses audience or is alone)
+  - Examples
+    - Example 1: À part
+    - Example 2: Seule
+    - Example 3: Aside
+    - Example 4: Alone
+- Category 4
+  - Name: delivery
+  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion
+  - Examples
+      - Example 1: En riant
+      - Example 2: À demi-voix
+      - Example 3: Laughing
+      - Example 4: In a low voice
+- Category 5
+  - Name: entrance
+  - Definition: Character enters stage
+  - Examples
+    - Example 1: Ils entrent en scène
+    - Example 2: Il rentre chez lui
+    - Example 3: They enter the stage
+    - Example 4: He enters his home
+- Category 6
+  - Name: exit
+  - Definition: Character exits
+  - Examples
+    - Example 1: Il sort
+    - Example 2: Il rentre
+    - Example 3: She exits
+    - Example 4: He re-enters
+- Category 7
+  - Name: interaction
+  - Definition: Non-verbal character interaction
+  - Examples
+    - Example 1: Elle va aussi pour l’embrasser
+    - Example 2: Elle prend sa main
+    - Example 3: She moves to kiss him
+    - Example 4: He takes her hand
+- Category 8
+  - Name: movement
+  - Definition: Character movement (but not exit/entrance)
+  - Examples
+    - Example 1: Il continue sa marche
+    - Example 2: Il recule d’un autre côté
+    - Example 3: Il veut sortir
+    - Example 4: He continues his walk
+    - Example 5: He retreats to the other side
+    - Example 6: He wants to exit
+- Category 9
+  - Name: music
+  - Definition: Tune names (plays with songs); music description
+  - Examples
+    - Example 1: Air en duo
+    - Example 2: Musique céleste
+    - Example 3: Duet melody
+    - Example 4: Celestial music
+- Category 10
+  - Name: narration
+  - Definition: Long, “narrative quality”, for readers
+  - Examples
+    - Example 1: Cependant VENDE, qui avait été mandée, survient après les acclamations du peuple, elle commande à son Chancelier de déclarer ses intentions à l’Assemblée
+    - Example 2: However, VENDE, who had been summoned, appears after the cheers of the people; she commands her Chancellor to declare her intentions to the Assembly
+- Category 11
+  - Name: object
+  - Definition: Describes object or interaction with it
+  - Examples
+    - Example 1: Il lui donne un écu
+    - Example 2: Elle froisse la lettre
+    - Example 3: He gives her a coin
+    - Example 4: She crumples the letter
+- Category 12
+  - Name: setting
+  - Definition: Stage description or play location
+  - Examples
+    - Example 1: Le théâtre représente un salon
+    - Example 2: À Sicilie
+    - Example 3: The theater represents a living room
+    - Example 4: In Sicily
+- Category 13
+  - Name: Toward
+  - Definition: Indicates the addressee of a speech
+  - Examples
+    - Example 1: À Julie
+    - Example 2: Au commandeur et au comte
+    - Example 3: Toward Julie
+    - Example 4: To the commander and the count
+"""
+
+"""Examples for categories to classify stage directions against"""
+
+cat_info_fr_only = """
+- Category 1
+  - Name: action
+  - Definition: General character action
+  - Examples
+    - Example 1: Il désigne le garçon de café
+    - Example 2: Il lit
+    - Example 3: Elle s'assied
+- Category 2
+  - Name: aggression
+  - Definition: Violent action
+  - Examples
+    - Example 1: Il tire son épée
+    - Example 2: Il se donne un coup
+- Category 3
+  - Name: aparte
+  - Definition: Aside (character addresses audience or is alone)
+  - Examples
+    - Example 1: À part
+    - Example 2: Seule
+- Category 4
+  - Name: delivery
+  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion
+  - Examples
+      - Example 1: En riant
+      - Example 2: À demi-voix
+- Category 5
+  - Name: entrance
+  - Definition: Character enters stage
+  - Examples
+    - Example 1: Ils entrent en scène
+    - Example 2: Il rentre chez lui
+- Category 6
+  - Name: exit
+  - Definition: Character exits
+  - Examples
+    - Example 1: Il sort
+    - Example 2: Il rentre
+- Category 7
+  - Name: interaction
+  - Definition: Non-verbal character interaction
+  - Examples
+    - Example 1: Elle va aussi pour l’embrasser
+    - Example 2: Elle prend sa main
+- Category 8
+  - Name: movement
+  - Definition: Character movement (but not exit/entrance)
+  - Examples
+    - Example 1: Il continue sa marche
+    - Example 2: Il recule d’un autre côté
+    - Example 3: Il veut sortir
+- Category 9
+  - Name: music
+  - Definition: Tune names (plays with songs); music description
+  - Examples
+    - Example 1: Air en duo
+    - Example 2: Musique céleste
+- Category 10
+  - Name: narration
+  - Definition: Long, “narrative quality”, for readers
+  - Examples
+    - Example 1: Cependant VENDE, qui avait été mandée, survient après les acclamations du peuple, elle commande à son Chancelier de déclarer ses intentions à l’Assemblée
+- Category 11
+  - Name: object
+  - Definition: Describes object or interaction with it
+  - Examples
+    - Example 1: Il lui donne un écu
+    - Example 2: Elle froisse la lettre
+- Category 12
+  - Name: setting
+  - Definition: Stage description or play location
+  - Examples
+    - Example 1: Le théâtre représente un salon
+    - Example 2: À Sicilie
+- Category 13
+  - Name: toward
+  - Definition: Indicates the addressee of a speech
+  - Examples
+    - Example 1: À Julie
+    - Example 2: Au commandeur et au comte
+"""
