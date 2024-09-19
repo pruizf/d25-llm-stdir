@@ -17,6 +17,8 @@ completions_dir = "outputs/model_responses/completions"
 postpro_response_dir = "outputs/model_responses/postprocessed"
 prompts_dir = "outputs/prompts_run"
 
+plot_dir = "outputs/plots"
+
 # Open AI ---------------------------------------------------------------------
 oai_config = {
   "temperature": 1,

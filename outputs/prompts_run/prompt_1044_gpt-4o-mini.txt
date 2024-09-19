@@ -1,0 +1,117 @@
+
+Classify the stage direction into one of the categories provided below it:
+
+Stage direction: Apollon descend sur un trône de lumière. Cette pompe est jointe à une musique douce. Il est entouré des Heures, qui chantent ces mots. 
+
+Category list:
+0. action
+1. aggression
+2. aparte
+3. delivery
+4. entrance
+5. exit
+6. interaction
+7. movement
+8. music
+9. narration
+10. object
+11. setting
+12. toward
+
+To help classification, here is a definition for each category along with some examples:
+
+- Category 0
+  - Name: action
+  - Definition: General character action
+  - Examples
+    - Example 1: Il désigne le garçon de café
+    - Example 2: Il lit
+    - Example 3: Elle s'assied
+- Category 1
+  - Name: aggression
+  - Definition: Violent action
+  - Examples
+    - Example 1: Il tire son épée
+    - Example 2: Il se donne un coup
+- Category 2
+  - Name: aparte
+  - Definition: Aside (character addresses audience or is alone)
+  - Examples
+    - Example 1: À part
+    - Example 2: Seule
+- Category 3
+  - Name: delivery
+  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion
+  - Examples
+      - Example 1: En riant
+      - Example 2: À demi-voix
+- Category 4
+  - Name: entrance
+  - Definition: Character enters stage
+  - Examples
+    - Example 1: Ils entrent en scène
+    - Example 2: Il rentre chez lui
+- Category 5
+  - Name: exit
+  - Definition: Character exits
+  - Examples
+    - Example 1: Il sort
+    - Example 2: Il rentre
+- Category 6
+  - Name: interaction
+  - Definition: Non-verbal character interaction
+  - Examples
+    - Example 1: Elle va aussi pour l’embrasser
+    - Example 2: Elle prend sa main
+- Category 7
+  - Name: movement
+  - Definition: Character movement (but not exit/entrance)
+  - Examples
+    - Example 1: Il continue sa marche
+    - Example 2: Il recule d’un autre côté
+    - Example 3: Il veut sortir
+- Category 8
+  - Name: music
+  - Definition: Tune names (plays with songs); music description
+  - Examples
+    - Example 1: Air en duo
+    - Example 2: Musique céleste
+- Category 9
+  - Name: narration
+  - Definition: Long stage direction, with narrative quality, inteded for readers
+  - Examples
+    - Example 1: Cependant VENDE, qui avait été mandée, survient après les acclamations du peuple, elle commande à son Chancelier de déclarer ses intentions à l’Assemblée
+    - Example 2: Cette scène est très divertissante, et jouée parfaitement par le Pédant, qui devient amoureux à son tour de Colombine. D'abord il lui donne un mouchoir pour cacher sa gorge ; mais incontinent il se laisse entraîner au pouvoir de l'amour. L'écolier survient qui voit le Pédant embrasser Colombine : il lui rend avec usure les coups de bâton ; ce qui finit la scène.
+    - Example 3: Pendant le dernier couplet, la force armée est entrée et a passé devant les citoyens, de manière que les jacobins quiont tous la figure du côté du public, ne peuvent la voir à la fin du couplet.
+- Category 10
+  - Name: object
+  - Definition: Describes object or interaction with it
+  - Examples
+    - Example 1: Il lui donne un écu
+    - Example 2: Elle froisse la lettre
+- Category 11
+  - Name: setting
+  - Definition: Stage description or play location
+  - Examples
+    - Example 1: Le théâtre représente un salon
+    - Example 2: À Sicilie
+- Category 12
+  - Name: toward
+  - Definition: Indicates the addressee of a speech
+  - Examples
+    - Example 1: À Julie
+    - Example 2: Au commandeur et au comte
+
+
+Provide a JSON response. In your response, provide the number for the category that
+best fits the stage direction type, and an explanation for your choice,
+using the following format:
+
+{
+  "category": "number",
+  "explanation": "explanation for choice"
+}
+
+Express your confidence in your response in a 0 to 1 scale, where 1 is the most confident, output this
+in the same JSON object as the category and explanation, using the key "confidence".
+

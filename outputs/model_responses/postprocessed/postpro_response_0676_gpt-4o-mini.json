@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort' includes 'sort', which indicates that the character is exiting the stage. The other actions (making the sign of the cross, lowering the veil, and standing up) are part of her character action leading to the exit but do not change the primary categorization of the exit itself.",
+  "confidence": 0.9,
+  "stgdir": "Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort.",
+  "response_time": 3099.334239959717,
+  "model": "gpt-4o-mini",
+  "categFull": "exit"
+}

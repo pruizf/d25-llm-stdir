@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction describes a series of actions performed by the effigy of the Count, such as rising, taking a pen and parchment, signing, dropping the parchment, and lying back down. These actions are general character movements, fitting the definition of 'action' as they do not fit into categories like interaction, exit, or entrance.",
+  "confidence": 0.9,
+  "stgdir": "L'effigie du Comte se soul\u00e8ve lentement sur le tombeau, prend la plume et le parchemin des mains de Don Jos\u00e8s, signe, laisse tomber le parchemin, et se recouche sans pousser un soupir, sans prononcer une parole.",
+  "response_time": 2573.5480785369873,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

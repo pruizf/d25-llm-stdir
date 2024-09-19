@@ -1,3 +1,6 @@
+import json
+import os
+
 import pandas as pd
 
 import config as cf
@@ -21,3 +24,25 @@ def get_and_format_data(mode="testset"):
     #df['categNbr'] = df['categ'].apply(lambda x: pr.categs_as13.index(x) + 1)
     df['categNbr'] = df['categ'].apply(lambda x: pr.categs_as13.index(x))
   return df
+
+
+def get_judgement_info_for_dir(resdir):
+  all_res = []
+  for fn in sorted(os.listdir(resdir)):
+    if not "response" in fn:
+      continue
+    with open(os.path.join(resdir, fn), "r") as f:
+      jo = json.load(f)
+      all_res.append(int(jo["category"]))
+  return all_res
+
+
+def judgement_info_to_df(resdir):
+  all_lines = []
+  for fn in sorted(os.listdir(resdir)):
+    if not "response" in fn:
+      continue
+    with open(os.path.join(resdir, fn), "r") as f:
+      jo = json.load(f)
+      all_lines.append([jo["stgdir"], jo["category"]])
+  return pd.DataFrame(all_lines, columns=["stgdir", "categNbr"])
