@@ -13,7 +13,7 @@ categs_as13 = ["action", "aggression", "aparte", "delivery", "entrance",
 def number_categories(clist):
   out = []
   for cat in clist:
-    out.append(f"{clist.index(cat) + 1}. {cat}")
+    out.append(f"{clist.index(cat)}. {cat}")
   return "\n".join(out)
 
 

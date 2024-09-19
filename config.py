@@ -7,10 +7,14 @@ import os
 # IO --------------------------------------------------------------------------
 corpus_dir = "data"
 corpus_file  = os.path.join(corpus_dir, "stgdir_labelGeneric_woDuplicates.csv")
+testset_file = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test.csv")
 sep = "|"
-log_dir = "../logs"
+sep_test = ","
+log_dir = "logs"
 
 response_dir = "outputs/model_responses"
+completions_dir = "outputs/model_responses/completions"
+postpro_response_dir = "outputs/model_responses/postprocessed"
 
 # Open AI ---------------------------------------------------------------------
 oai_config = {
