@@ -15,6 +15,7 @@ log_dir = "logs"
 response_dir = "outputs/model_responses"
 completions_dir = "outputs/model_responses/completions"
 postpro_response_dir = "outputs/model_responses/postprocessed"
+prompts_dir = "outputs/prompts_run"
 
 # Open AI ---------------------------------------------------------------------
 oai_config = {

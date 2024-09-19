@@ -58,7 +58,8 @@ if __name__ == "__main__":
   reload(pr.catinfo)
 
   # IO
-  for mydir in [cf.log_dir, cf.response_dir, cf.completions_dir, cf.postpro_response_dir]:
+  for mydir in [cf.log_dir, cf.response_dir, cf.completions_dir, cf.postpro_response_dir,
+                cf.prompts_dir]:
     if not os.path.exists(mydir):
       os.makedirs(mydir)
 
@@ -66,7 +67,7 @@ if __name__ == "__main__":
   oa_client = OpenAI()
   stdirs = ut.get_and_format_data()
   for idx, row in stdirs.iterrows():
-    if idx > 3:
+    if False and idx > 3:
       break
     prompt = pr.gen_promt.format(
       numbered_categories=pr.number_categories(pr.categs_as13),
@@ -92,4 +93,7 @@ if __name__ == "__main__":
     out_resp_fn = os.path.join(cf.postpro_response_dir, f"postpro_response_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.json")
     with (open(out_resp_fn, "w") as out_resp_fh):
       json.dump(jresp, out_resp_fh, indent=2)
+    out_prompt_fn = os.path.join(cf.prompts_dir, f"prompt_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.txt")
+    with (open(out_prompt_fn, "w") as out_prompt_fh):
+      out_prompt_fh.write(prompt)
 

@@ -43,4 +43,7 @@ using the following format:
   "explanation": "explanation for choice"
 }}
 
+Express your confidence in your response in a 0 to 1 scale, where 1 is the most confident, output this
+in the same JSON object as the category and explanation, using the key "confidence".
+
 """
