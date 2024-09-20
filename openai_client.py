@@ -10,15 +10,10 @@ from openai import OpenAI
 from openai.types.chat import ChatCompletion
 import pandas as pd
 
+from data import category_info as catinfo
 import config as cf
 import prompts as pr
 import utils as ut
-
-"""TODO
-- log responses
-- then will parse them to get the category etc.
-- restrict this to the test set
-"""
 
 
 def get_openai_response(oa_client, model, prompt, cf):
@@ -53,9 +48,9 @@ def get_openai_response(oa_client, model, prompt, cf):
 
 if __name__ == "__main__":
   # make sure to import updated modules
-  for module in [cf, pr, ut]:
+  for module in [cf, pr, ut, catinfo, pr.catinfo]:
     reload(module)
-  reload(pr.catinfo)
+  #reload(pr.catinfo)
 
   # IO
   for mydir in [cf.log_dir, cf.response_dir, cf.completions_dir, cf.postpro_response_dir,
@@ -69,10 +64,17 @@ if __name__ == "__main__":
   for idx, row in stdirs.iterrows():
     if False and idx > 3:
       break
-    prompt = pr.gen_promt.format(
+    # general prompt
+    if False:
+      prompt = pr.gen_promt.format(
+        numbered_categories=pr.number_categories(pr.categs_as13),
+        stdir=row["stgdir"],
+        category_details=pr.get_category_info(cf))
+    # prompt with definition only
+    prompt = pr.prompt_def_only.format(
       numbered_categories=pr.number_categories(pr.categs_as13),
       stdir=row["stgdir"],
-      category_details=pr.get_category_info(cf))
+      category_details=catinfo.cat_info_defs_only_fr_only)
     completion, resp, td = get_openai_response(oa_client, cf.oai_models[0], prompt, cf)
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])
@@ -96,4 +98,3 @@ if __name__ == "__main__":
     out_prompt_fn = os.path.join(cf.prompts_dir, f"prompt_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.txt")
     with (open(out_prompt_fn, "w") as out_prompt_fh):
       out_prompt_fh.write(prompt)
-

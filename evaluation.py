@@ -70,7 +70,7 @@ if __name__ == "__main__":
   results_dir = cf.postpro_response_dir
   golden = ut.get_and_format_data("testset")
 
-  eval_data = eval_res(results_dir, golden, "gpt-4o-mini", batch_sfx="001")
+  eval_data = eval_res(results_dir, golden, "gpt-4o-mini", batch_sfx="002")
   print(eval_data["cr"])
   print()
   with open(os.path.join(cf.plot_dir, "cr_gpt-4o-mini_001.txt"), "w") as out_cr:

@@ -1,5 +1,47 @@
 """Examples for categories to classify stage directions against"""
 
+cat_info_defs_only_fr_only = """
+- Category 0
+  - Name: action
+  - Definition: General character action. Use it only when other categories do not describe the action. Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.
+- Category 1
+  - Name: aggression
+  - Definition: Violent action. Related to notions like kill, fight, hit, suicide or threat.
+- Category 2
+  - Name: aparte
+  - Definition: Aside (character addresses audience or is alone).
+- Category 3
+  - Name: delivery
+  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings.
+- Category 4
+  - Name: entrance
+  - Definition: Character enters stage.
+- Category 5
+  - Name: exit
+  - Definition: Character exits.
+- Category 6
+  - Name: interaction
+  - Definition: Non-verbal character interaction. The interaction must be non-verbal, e.g. looking at, pointing at, touching, helping, pulling, pushing among other non-verbal interaction types.
+- Category 7
+  - Name: movement
+  - Definition: Character movement (but not exit/entrance). Sometimes related to getting closer, moving away, walking away, following a character, moving back.
+- Category 8
+  - Name: music
+  - Definition: Tune names (plays with songs). Music description. Not used when the stage direction describes the character singing. Often starts with the word "AIR" (which can be in uppercase or lowercase).
+- Category 9
+  - Name: narration
+  - Definition: Long stage direction, with narrative quality, inteded for readers.
+- Category 10
+  - Name: object
+  - Definition: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. The object may be a costume or dress for instance. Verbs related to this category are throw, tear, get, give, dress, drop, close among others. 
+- Category 11
+  - Name: setting
+  - Definition: Stage description or play location.
+- Category 12
+  - Name: toward
+  - Definition: Indicates the addressee of a speech.
+"""
+
 cat_info_fr_en = """
 - Category 0
   - Name: action
@@ -89,7 +131,7 @@ cat_info_fr_en = """
     - Example 6: During the last verse, the armed force entered and passed in front of the citizens, so that the Jacobins, who all had their faces on the side of the audience, could not see it at the end of the verse.
 - Category 10
   - Name: object
-  - Definition: Describes object or interaction with it
+  - Definition: Describes an object or interaction with it
   - Examples
     - Example 1: Il lui donne un écu
     - Example 2: Elle froisse la lettre
