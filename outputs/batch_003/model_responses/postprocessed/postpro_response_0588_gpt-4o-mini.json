@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction narrates a sequence of character actions involving Octave, Arlequin, and the Doctor, as well as their interactions and movements on stage. It provides a description of events rather than just a single action, warranting classification as narration.",
+  "confidence": 0.9,
+  "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+  "response_time": 1083.894968032837,
+  "model": "gpt-4o-mini",
+  "categFull": "narration"
+}

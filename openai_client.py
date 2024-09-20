@@ -84,8 +84,8 @@ if __name__ == "__main__":
     jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
     print(f"# Processing stage direction: {idx}")
     print(f"- Stage direction: {row['stgdir']}")
-    print(f"- Response: {resp[0]}")
     print(f'- Response categ: {json.loads(resp[0])["category"]}. {pr.categs_as13[int(json.loads(resp[0])["category"])]}')
+    print(f"- Response: {resp[0]}")
     print(f"- Response time: {td} ms")
     print()
     out_comp_fn = os.path.join(cf.completions_dir, f"completion_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.json")

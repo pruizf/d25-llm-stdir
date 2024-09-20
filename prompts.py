@@ -24,7 +24,7 @@ def get_category_info(cf, mode="fr"):
     return catinfo.cat_info_fr_en
 
 gen_promt = """
-Classify the stage direction into one of the categories provided below it:
+Classify the following stage direction in French into one of the categories provided below it:
 
 Stage direction: {stdir} 
 

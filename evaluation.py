@@ -70,9 +70,9 @@ if __name__ == "__main__":
   results_dir = cf.postpro_response_dir
   golden = ut.get_and_format_data("testset")
 
-  eval_data = eval_res(results_dir, golden, "gpt-4o-mini", batch_sfx="002")
+  eval_data = eval_res(results_dir, golden, "gpt-4o-mini", batch_sfx=cf.batch_id.replace("batch_", ""))
   print(eval_data["cr"])
   print()
-  with open(os.path.join(cf.plot_dir, "cr_gpt-4o-mini_001.txt"), "w") as out_cr:
+  with open(os.path.join(cf.plot_dir, f"cr_gpt-4o-mini_{cf.batch_id.replace('batch_', '')}.txt"), "w") as out_cr:
     out_cr.write(eval_data["cr"])
   #print(eval_data["cm"])

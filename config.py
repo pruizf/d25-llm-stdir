@@ -5,7 +5,7 @@ import os
 # OpenAI API key
 
 # IO --------------------------------------------------------------------------
-batch_id = "batch_002"
+batch_id = "batch_003"
 
 corpus_dir = "data"
 corpus_file  = os.path.join(corpus_dir, "stgdir_labelGeneric_woDuplicates.csv")

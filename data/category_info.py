@@ -12,13 +12,13 @@ cat_info_defs_only_fr_only = """
   - Definition: Aside (character addresses audience or is alone).
 - Category 3
   - Name: delivery
-  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings.
+  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings. Can refer to notions like the character showing anger or being furious, being serious, happy, hesitant, showing enthousiasm, emotion, emphasis, being friendly, making a grimace, showing a feeling, or repeating an expression.
 - Category 4
   - Name: entrance
   - Definition: Character enters stage.
 - Category 5
   - Name: exit
-  - Definition: Character exits.
+  - Definition: Character exits. Verbs related to this type of stage direction are (in French) "se retirer", "sortir", "s'en aller" and other close verbs.
 - Category 6
   - Name: interaction
   - Definition: Non-verbal character interaction. The interaction must be non-verbal, e.g. looking at, pointing at, touching, helping, pulling, pushing among other non-verbal interaction types.
@@ -27,13 +27,13 @@ cat_info_defs_only_fr_only = """
   - Definition: Character movement (but not exit/entrance). Sometimes related to getting closer, moving away, walking away, following a character, moving back.
 - Category 8
   - Name: music
-  - Definition: Tune names (plays with songs). Music description. Not used when the stage direction describes the character singing. Often starts with the word "AIR" (which can be in uppercase or lowercase).
+  - Definition: Tune names (plays with songs). Music description. Not used when the stage direction describes the character singing. Often starts with the word "AIR" or "Air". If it starts with these words, it is most likely a music stage direction and the content following these words is the name of the tune.
 - Category 9
   - Name: narration
-  - Definition: Long stage direction, with narrative quality, inteded for readers.
+  - Definition: Long stage direction, with narrative quality, inteded for readers. Generally long stage directions, they can narrate a sequence of character actions. They can also refer to noises or to weather events.
 - Category 10
   - Name: object
-  - Definition: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. The object may be a costume or dress for instance. Verbs related to this category are throw, tear, get, give, dress, drop, close among others. 
+  - Definition: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. The object may be a costume or a dress for instance. Verbs related to this category are throw, tear, get, give, dress, drop, close among others. 
 - Category 11
   - Name: setting
   - Definition: Stage description or play location.
