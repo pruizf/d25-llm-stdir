@@ -58,6 +58,8 @@ def add_category_names(df, categ_dict):
   """
   df_new = copy(df)
   for idx, (ke, va) in enumerate(categ_dict.items()):
+    if not ke in df.columns:
+      continue
     ke_idx = df.columns.get_loc(ke)
     df_new.insert(ke_idx + 1 + idx, va, None)
     df_new[va] = df_new[ke].apply(lambda x: pr.categs_as13[x])

@@ -1,6 +1,6 @@
 """Examples for categories to classify stage directions against"""
 
-cat_info_defs_only_fr_only = """
+cat_info_defs_only_en = """
 - Category 0
   - Name: action
   - Definition: General character action. Use it only when other categories do not describe the action. Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.

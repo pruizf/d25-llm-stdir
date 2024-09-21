@@ -12,7 +12,7 @@ import prompts as pr
 import utils as ut
 
 # constants
-clrmap_dict = {"gpt-4o-mini": "Greens"}
+clrmap_dict = {"gpt-4o-mini": "Greens", "gpt-4o": "Blues"}
 
 def plot_confusion_matrix(y_preds, y_true, labels, color_key,
                           batch_sfx=None, normalize=None):
@@ -32,13 +32,14 @@ def plot_confusion_matrix(y_preds, y_true, labels, color_key,
   if normalize:
     disp.plot(cmap=clrmap_dict[color_key], values_format=".2f", ax=ax, colorbar=False)
     norm_prefix = "Normalized "
-    title_text = "confusion matrix"
+    title_text = f"confusion matrix ({cf.oai_models[0]})"
   else:
     disp.plot(cmap=clrmap_dict[color_key], ax=ax, colorbar=False)
     norm_prefix = ""
-    title_text = ""
+    title_text = f"Confusion matrix ({cf.oai_models[0]})"
   #disp.plot(cmap=clrmap_dict[color_key], values_format=".2f", ax=ax, colorbar=False)
-  ax.tick_params(axis='x', rotation=90)
+  ax.tick_params(axis='x', rotation=45)
+  plt.xticks(ha='right')
   plt.title(f"{norm_prefix}{title_text}")
   #plt.show()
   out_fname = f"cm_{color_key}_{batch_sfx}.pdf" if batch_sfx is not None else f"cm_{color_key}.pdf"
@@ -70,9 +71,9 @@ if __name__ == "__main__":
   results_dir = cf.postpro_response_dir
   golden = ut.get_and_format_data("testset")
 
-  eval_data = eval_res(results_dir, golden, "gpt-4o-mini", batch_sfx=cf.batch_id.replace("batch_", ""))
+  eval_data = eval_res(results_dir, golden, cf.oai_models[0], batch_sfx=cf.batch_id.replace("batch_", ""))
   print(eval_data["cr"])
   print()
-  with open(os.path.join(cf.plot_dir, f"cr_gpt-4o-mini_{cf.batch_id.replace('batch_', '')}.txt"), "w") as out_cr:
+  with open(os.path.join(cf.plot_dir, f"cr_{cf.oai_models[0]}_{cf.batch_id.replace('batch_', '')}.txt"), "w") as out_cr:
     out_cr.write(eval_data["cr"])
   #print(eval_data["cm"])

@@ -5,16 +5,16 @@ import os
 # OpenAI API key
 
 # IO --------------------------------------------------------------------------
-batch_id = "batch_003"
+batch_id = "batch_005"
 
 corpus_dir = "data"
 corpus_file  = os.path.join(corpus_dir, "stgdir_labelGeneric_woDuplicates.csv")
-#testset_file = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test.csv")
+testset_file = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test.csv")
 testset_30 = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test_30.csv")
-testset_file = testset_30
+#testset_file = testset_30
 sep = "|"
 sep_test = ","
-sep_test = "\t"
+#sep_test = "\t"
 log_dir = "logs"
 
 response_base_dir = "outputs"
@@ -32,12 +32,9 @@ oai_config = {
   "seed": 14
 }
 
-#oai_models = ["gpt-3.5-turbo"]  # , "gpt-4", "gpt-4-turbo", "gpt-4o"]
-#oai_models = ["gpt-4o"]  # , "gpt-4", "gpt-4-turbo", "gpt-4o"]
-oai_models = ["gpt-4o-mini"]  # , "gpt-4", "gpt-4-turbo", "gpt-4o"]
-#oai_models = ["gpt-3.5-turbo", "gpt-4o"]  # , "gpt-4", "gpt-4-turbo", "gpt-4o"]
+oai_models = ["gpt-4o", "gpt-4o-mini"]  # , "gpt-4", "gpt-4-turbo"]
 
 # Other
 
-categ_col_map = {"gold": "goldStr", "sys": "sysStr"}
+categ_col_map = {"gold": "goldStr", "sys": "sysStr", "label": "labelStr"}
 categ_col_order = ["text", "gold", "goldStr", "text2", "sys", "sysStr", "cf_sents"]

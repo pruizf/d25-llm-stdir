@@ -51,7 +51,7 @@ Note that all stage directions are in French.
 """
 
 prompt_def_only = """
-Classify the stage direction into one of the categories provided below it:
+Classify the following stage direction in French into one of the categories provided below it:
 
 Stage direction: {stdir} 
 
@@ -72,5 +72,7 @@ using the following format:
 
 Express your confidence in your response in a 0 to 1 scale, where 1 is the most confident, output this
 in the same JSON object as the category and explanation, using the key "confidence".
+
+Note that all stage directions are in French.
 
 """

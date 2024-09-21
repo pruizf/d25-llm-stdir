@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "The stage direction describes a series of general character actions including 'montrer' (showing), 'bouger' (moving), and 'affubler' (putting on). These actions do not fit into more specific categories like aggression, object interaction, or character movement. Therefore, it falls under general character action.",
+  "confidence": 0.9,
+  "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+  "response_time": 1126.8248558044434,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

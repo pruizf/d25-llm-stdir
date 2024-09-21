@@ -74,7 +74,7 @@ if __name__ == "__main__":
     prompt = pr.prompt_def_only.format(
       numbered_categories=pr.number_categories(pr.categs_as13),
       stdir=row["stgdir"],
-      category_details=catinfo.cat_info_defs_only_fr_only)
+      category_details=catinfo.cat_info_defs_only_en)
     completion, resp, td = get_openai_response(oa_client, cf.oai_models[0], prompt, cf)
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])
