@@ -75,6 +75,7 @@ if __name__ == "__main__":
       {"role": "user", "content": prompt},
     ]
 
+    t1 = time.time()
     resp = pipeline(
       messages,
       max_new_tokens=256,
@@ -83,11 +84,11 @@ if __name__ == "__main__":
       #temperature=1,
       #top_p=1,
     )
+    td = 1000 * (time.time() - t1)
 
-    jresp = json.loads(resp[0]["generated_text"][-1])
+    jresp = json.loads(json.dumps(resp[0]["generated_text"][-1]))
     jresp["stgdir"] = row["stgdir"]
     jresp["response_time"] = td
-    jresp["model"] = args.model
     jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
     print(f"# Processing stage direction: {idx}")
     print(f"- Stage direction: {row['stgdir']}")
@@ -98,7 +99,7 @@ if __name__ == "__main__":
     out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
                                f"completion_{str.zfill(str(idx), 4)}_{args.model}.json")
     with (open(out_comp_fn, "w") as out_comp_fh):
-      jso = json.loads(resp)
+      jso = json.loads(json.dumps(resp))
       json.dump(jso, out_comp_fh, indent=2)
     out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
                                f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
