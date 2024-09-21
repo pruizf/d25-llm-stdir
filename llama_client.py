@@ -113,4 +113,5 @@ if __name__ == "__main__":
     out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
                                f"postpro_response_{str.zfill(str(idx), 4)}_llama.json")
     with open(out_resp_fn, "w") as out_resp_fh:
-      out_resp_fh.write(resp)
+      #out_resp_fh.write(resp)
+      json.dump(resp, out_resp_fh, indent=2)
