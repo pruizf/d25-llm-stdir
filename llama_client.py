@@ -92,7 +92,7 @@ if __name__ == "__main__":
   # run the client
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
-  for idx, row in stdirs.iterrows():
+  for idx, row in stdirs.iterrows()[0:3]:
     if False and idx > 3:
       break
     # general prompt
@@ -116,11 +116,11 @@ if __name__ == "__main__":
       max_new_tokens=256,
       eos_token_id=terminators,
       do_sample=True,
-      temperature=1,
-      top_p=1,
+      #temperature=1,
+      #top_p=1,
     )
 
-    jresp = json.loads(resp[0])
+    jresp = json.loads(resp[0]["generated_text"][-1])
     jresp["stgdir"] = row["stgdir"]
     jresp["response_time"] = td
     jresp["model"] = args.model
@@ -134,7 +134,7 @@ if __name__ == "__main__":
     out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
                                f"completion_{str.zfill(str(idx), 4)}_{args.model}.json")
     with (open(out_comp_fn, "w") as out_comp_fh):
-      jso = completion.model_dump_json()
+      jso = json.loads(resp)
       json.dump(jso, out_comp_fh, indent=2)
     out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
                                f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
