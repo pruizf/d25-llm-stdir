@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "L'action 'Il ouvre le tiroir' implique une manipulation d'objet, ce qui correspond \u00e0 la d\u00e9finition g\u00e9n\u00e9rale d'une action. Bien que cela indique une interaction avec un objet, elle est mieux classifi\u00e9e sous la cat\u00e9gorie g\u00e9n\u00e9rale 'action' car il s'agit simplement de l'acte d'ouvrir quelque chose sans autre contexte explicite.",
+  "confidence": 0.9,
+  "stgdir": "Il ouvre le tiroir.",
+  "response_time": 1290.2908325195312,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

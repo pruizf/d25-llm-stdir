@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "Le docteur se l\u00e8ve indique un mouvement du personnage, sp\u00e9cifiquement qu'il passe de la position assise \u00e0 une position debout. Ce type d'action est mieux d\u00e9crit par la cat\u00e9gorie mouvement, car il s'agit simplement d'une transformation de l'emplacement du personnage sans qu'il entre ou sorte de la sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "Le docteur se l\u00e8ve.",
+  "response_time": 1878.9188861846924,
+  "model": "gpt-4o-mini",
+  "categFull": "movement"
+}

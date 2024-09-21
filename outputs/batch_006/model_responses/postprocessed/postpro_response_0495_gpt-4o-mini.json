@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il fait un mouvement pour s'\u00e9loigner' describes a character's movement away from a position, indicating a type of movement rather than an exit from the stage, which would fall under category 5. Therefore, it best fits category 7, which deals specifically with character movements.",
+  "confidence": 0.9,
+  "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+  "response_time": 1324.1140842437744,
+  "model": "gpt-4o-mini",
+  "categFull": "movement"
+}

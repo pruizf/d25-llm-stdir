@@ -1,0 +1,9 @@
+{
+  "category": "2",
+  "explanation": "The stage direction begins with 'AIR', indicating that the character is addressing the audience or is in a soliloquy manner. This fits the definition of an 'aparte', which is when a character speaks directly to the audience or is speaking their thoughts aloud without interactions with other characters.",
+  "confidence": 0.9,
+  "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+  "response_time": 1216.0224914550781,
+  "model": "gpt-4o-mini",
+  "categFull": "aparte"
+}
