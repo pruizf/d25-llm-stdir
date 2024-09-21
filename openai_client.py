@@ -51,12 +51,13 @@ def get_openai_response(oa_client, model, prompt, cf):
 if __name__ == "__main__":
   # cli args
   parser = argparse.ArgumentParser(description="Open AI client")
-  parser.add_argument("batch_name", nargs="+", help="Batch name used as prefix on outputs")
-  parser.add_argument("corpus", nargs="+", help="Corpus to run the model on")
-  parser.add_argument("model", nargs="+", help="Model to use for generating the response")
+  parser.add_argument("batch_name", help="Batch name used as prefix on outputs")
+  parser.add_argument("corpus", help="Corpus to run the model on")
+  parser.add_argument("model", help="Model to use for generating the response")
   args = parser.parse_args()
   assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
   assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
+  assert args.batch.startswith("batch_"), "Batch name must start with 'batch_'"
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
 
   # make sure to import updated modules
@@ -71,7 +72,8 @@ if __name__ == "__main__":
 
   # run the client
   oa_client = OpenAI()
-  stdirs = ut.get_and_format_data()
+  corpus_sep = "\t" if "30" in args.corpus else ","
+  stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   for idx, row in stdirs.iterrows():
     if False and idx > 3:
       break

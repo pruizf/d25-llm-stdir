@@ -1,5 +1,6 @@
 """Evaluating LLM-based classification"""
 
+import argparse
 from importlib import reload
 import os
 
@@ -12,10 +13,11 @@ import prompts as pr
 import utils as ut
 
 # constants
-clrmap_dict = {"gpt-4o-mini": "Greens", "gpt-4o": "Blues"}
+clrmap_dict = {"gpt-4o-mini": "Blues", "gpt-4o": "Greens"}
+for ke in clrmap_dict:
+  assert ke in cf.oai_models, f"Model {ke} not in {cf.oai_models}"
 
-def plot_confusion_matrix(y_preds, y_true, labels, color_key,
-                          batch_sfx=None, normalize=None):
+def plot_confusion_matrix(y_preds, y_true, labels, color_key, batch_sfx=None, normalize=None):
   cm = confusion_matrix(y_true, y_preds, normalize=normalize)
   fig, ax = plt.subplots(figsize=(6, 6))
   plt.grid(False)
@@ -32,18 +34,18 @@ def plot_confusion_matrix(y_preds, y_true, labels, color_key,
   if normalize:
     disp.plot(cmap=clrmap_dict[color_key], values_format=".2f", ax=ax, colorbar=False)
     norm_prefix = "Normalized "
-    title_text = f"confusion matrix ({cf.oai_models[0]})"
+    title_text = f"confusion matrix ({color_key})"
   else:
     disp.plot(cmap=clrmap_dict[color_key], ax=ax, colorbar=False)
     norm_prefix = ""
-    title_text = f"Confusion matrix ({cf.oai_models[0]})"
+    title_text = f"Confusion matrix ({color_key})"
   #disp.plot(cmap=clrmap_dict[color_key], values_format=".2f", ax=ax, colorbar=False)
   ax.tick_params(axis='x', rotation=45)
   plt.xticks(ha='right')
   plt.title(f"{norm_prefix}{title_text}")
   #plt.show()
   out_fname = f"cm_{color_key}_{batch_sfx}.pdf" if batch_sfx is not None else f"cm_{color_key}.pdf"
-  plt.savefig(os.path.join(cf.plot_dir, out_fname), format='pdf',
+  plt.savefig(os.path.join(cf.plot_dir.format(batch_id=args.batch_name), out_fname), format='pdf',
               bbox_inches='tight')
 
 
@@ -60,20 +62,32 @@ def eval_res(res_dir, golden_df, color_mode, batch_sfx=None):
 
 
 if __name__ == "__main__":
+  parser = argparse.ArgumentParser(description="Evaluation of LLM-based classification")
+  parser.add_argument("batch_name", help="Batch name used as prefix on outputs")
+  parser.add_argument("corpus", help="Corpus to run the model on")
+  parser.add_argument("model", help="Model to use for generating the response")
+  args = parser.parse_args()
+  assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
+  assert args.batch_name in os.listdir(cf.response_base_dir), f"Results for batch {args.batch_name} not available"
+  assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
+  print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
+
   # make sure to import updated modules
   for module in [cf, pr, ut, pr.catinfo]:
     reload(module)
 
   #IO
-  if not os.path.exists(cf.plot_dir):
-    os.makedirs(cf.plot_dir)
+  if not os.path.exists(cf.plot_dir.format(batch_id=args.batch_name)):
+    os.makedirs(cf.plot_dir.format(batch_id=args.batch_name))
 
-  results_dir = cf.postpro_response_dir.format(batch_id=cf.batch_id)
-  golden = ut.get_and_format_data("testset")
+  results_dir = cf.postpro_response_dir.format(batch_id=args.batch_name)
+  corpus_sep = "\t" if "30" in args.corpus else ","
+  golden = ut.get_and_format_data(args.corpus, corpus_sep)
 
-  eval_data = eval_res(results_dir, golden, cf.oai_models[0], batch_sfx=cf.batch_id.replace("batch_", ""))
+  eval_data = eval_res(results_dir, golden, args.model, batch_sfx=args.batch_name.replace("batch_", ""))
   print(eval_data["cr"])
   print()
-  with open(os.path.join(cf.plot_dir, f"cr_{cf.oai_models[0]}_{cf.batch_id.replace('batch_', '')}.txt"), "w") as out_cr:
+  with open(os.path.join(cf.plot_dir.format(batch_id=args.batch_name),
+                         f"cr_{args.model}_{args.batch_name.replace('batch_', '')}.txt"), "w") as out_cr:
     out_cr.write(eval_data["cr"])
   #print(eval_data["cm"])
