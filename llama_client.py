@@ -8,47 +8,13 @@ import re
 import sys
 import time
 
-from openai import OpenAI
 import torch
 import transformers
-
-from openai.types.chat import ChatCompletion
-import pandas as pd
 
 from data import category_info as catinfo
 import config as cf
 import prompts as pr
 import utils as ut
-
-
-def get_openai_response(oa_client, model, prompt, cf):
-  """
-  Returns Open AI response and response time.
-
-  Args:
-      oa_client (openai.OpenAI): The OpenAI client.
-      model (str): The model to use for generating the response.
-      prompt: The prompt to use for generating the response.
-      cf (module): The configuration module.
-
-  Returns:
-      tuple: A tuple containing the humor response and the response time in seconds.
-  """
-  t1 = time.time()
-  completion = oa_client.chat.completions.create(
-    model=model,
-    messages=[
-      {"role": "user", "content": prompt},
-    ],
-    temperature=cf.oai_config["temperature"],
-    top_p=cf.oai_config["top_p"],
-    response_format={"type": "json_object"},
-    seed=cf.oai_config["seed"]
-  )
-  td = 1000 * (time.time() - t1)
-  #breakpoint()
-  resps = [resp.message.content for resp in completion.choices]
-  return completion, resps, td
 
 
 if __name__ == "__main__":
@@ -86,8 +52,6 @@ if __name__ == "__main__":
     pipeline.tokenizer.eos_token_id,
     pipeline.tokenizer.convert_tokens_to_ids("<|eot_id|>")
   ]
-
-
 
   # run the client
   corpus_sep = "\t" if "30" in args.corpus else ","
