@@ -25,7 +25,7 @@ if __name__ == "__main__":
   args = parser.parse_args()
   assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
-  print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
+  print(f"{args.batch_name}: Running [llama3] on [{args.corpus}]\n")
 
   # make sure to import updated modules
   for module in [cf, pr, ut, catinfo, pr.catinfo]:
