@@ -57,7 +57,7 @@ if __name__ == "__main__":
   args = parser.parse_args()
   assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
   assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
-  assert args.batch.startswith("batch_"), "Batch name must start with 'batch_'"
+  assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
 
   # make sure to import updated modules
@@ -65,10 +65,12 @@ if __name__ == "__main__":
     reload(module)
 
   # IO
-  for mydir in [cf.log_dir, cf.response_dir, cf.completions_dir, cf.postpro_response_dir,
+  for mydir in [cf.response_dir, cf.completions_dir, cf.postpro_response_dir,
                 cf.prompts_dir]:
-    if not os.path.exists(mydir):
-      os.makedirs(mydir)
+    if not os.path.exists(mydir.format(batch_id=args.batch_name)):
+      os.makedirs(mydir.format(batch_id=args.batch_name))
+  if not os.path.exists(cf.log_dir):
+    os.makedirs(cf.log_dir)
 
   # run the client
   oa_client = OpenAI()
