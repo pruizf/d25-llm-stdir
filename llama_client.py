@@ -86,26 +86,29 @@ if __name__ == "__main__":
     )
     td = 1000 * (time.time() - t1)
 
-    jresp = json.loads(json.dumps(resp[0]["generated_text"][-1]))
-    jresp["stgdir"] = row["stgdir"]
-    jresp["response_time"] = td
-    jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
-    print(f"# Processing stage direction: {idx}")
-    print(f"- Stage direction: {row['stgdir']}")
-    print(f'- Response categ: {json.loads(resp[0])["category"]}. {pr.categs_as13[int(json.loads(resp[0])["category"])]}')
-    print(f"- Response: {resp[0]}")
-    print(f"- Response time: {td} ms")
-    print()
-    out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
-                               f"completion_{str.zfill(str(idx), 4)}_{args.model}.json")
-    with (open(out_comp_fn, "w") as out_comp_fh):
-      jso = json.loads(json.dumps(resp))
-      json.dump(jso, out_comp_fh, indent=2)
-    out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
-                               f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
-    with (open(out_resp_fn, "w") as out_resp_fh):
-      json.dump(jresp, out_resp_fh, indent=2)
-    out_prompt_fn = os.path.join(cf.prompts_dir.format(batch_id=args.batch_name),
-                                 f"prompt_{str.zfill(str(idx), 4)}_{args.model}.txt")
-    with (open(out_prompt_fn, "w") as out_prompt_fh):
-      out_prompt_fh.write(prompt)
+    if False:
+      jresp = json.loads(json.dumps(resp[0]["generated_text"][-1]))
+      jresp["stgdir"] = row["stgdir"]
+      jresp["response_time"] = td
+      jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
+      print(f"# Processing stage direction: {idx}")
+      print(f"- Stage direction: {row['stgdir']}")
+      print(f'- Response categ: {json.loads(resp[0])["category"]}. {pr.categs_as13[int(json.loads(resp[0])["category"])]}')
+      print(f"- Response: {resp[0]}")
+      print(f"- Response time: {td} ms")
+      print()
+      out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
+                                 f"completion_{str.zfill(str(idx), 4)}_{args.model}.json")
+      with (open(out_comp_fn, "w") as out_comp_fh):
+        jso = json.loads(json.dumps(resp))
+        json.dump(jso, out_comp_fh, indent=2)
+      out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
+                                 f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
+      with (open(out_resp_fn, "w") as out_resp_fh):
+        json.dump(jresp, out_resp_fh, indent=2)
+      out_prompt_fn = os.path.join(cf.prompts_dir.format(batch_id=args.batch_name),
+                                   f"prompt_{str.zfill(str(idx), 4)}_{args.model}.txt")
+      with (open(out_prompt_fn, "w") as out_prompt_fh):
+        out_prompt_fh.write(prompt)
+    with open(out_resp_fn, "w") as out_resp_fh:
+      out_resp_fh.write(resp)
