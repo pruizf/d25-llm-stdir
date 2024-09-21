@@ -56,7 +56,7 @@ if __name__ == "__main__":
   # run the client
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
-  for idx, row in stdirs.iterrows()[0:3]:
+  for idx, row in stdirs.iterrows():
     if False and idx > 3:
       break
     # general prompt
