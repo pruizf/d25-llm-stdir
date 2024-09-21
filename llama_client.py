@@ -110,5 +110,7 @@ if __name__ == "__main__":
                                    f"prompt_{str.zfill(str(idx), 4)}_{args.model}.txt")
       with (open(out_prompt_fn, "w") as out_prompt_fh):
         out_prompt_fh.write(prompt)
+    out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
+                               f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
     with open(out_resp_fn, "w") as out_resp_fh:
       out_resp_fh.write(resp)
