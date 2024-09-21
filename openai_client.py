@@ -1,9 +1,11 @@
 """Open AI client"""
 
+import argparse
 from importlib import reload
 import json
 import os
 import re
+import sys
 import time
 
 from openai import OpenAI
@@ -47,10 +49,19 @@ def get_openai_response(oa_client, model, prompt, cf):
 
 
 if __name__ == "__main__":
+  # cli args
+  parser = argparse.ArgumentParser(description="Open AI client")
+  parser.add_argument("batch_name", nargs="+", help="Batch name used as prefix on outputs")
+  parser.add_argument("corpus", nargs="+", help="Corpus to run the model on")
+  parser.add_argument("model", nargs="+", help="Model to use for generating the response")
+  args = parser.parse_args()
+  assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
+  assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
+  print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
+
   # make sure to import updated modules
   for module in [cf, pr, ut, catinfo, pr.catinfo]:
     reload(module)
-  #reload(pr.catinfo)
 
   # IO
   for mydir in [cf.log_dir, cf.response_dir, cf.completions_dir, cf.postpro_response_dir,
@@ -75,12 +86,12 @@ if __name__ == "__main__":
       numbered_categories=pr.number_categories(pr.categs_as13),
       stdir=row["stgdir"],
       category_details=catinfo.cat_info_defs_only_en)
-    completion, resp, td = get_openai_response(oa_client, cf.oai_models[0], prompt, cf)
+    completion, resp, td = get_openai_response(oa_client, args.model, prompt, cf)
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])
     jresp["stgdir"] = row["stgdir"]
     jresp["response_time"] = td
-    jresp["model"] = cf.oai_models[0]
+    jresp["model"] = args.model
     jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
     print(f"# Processing stage direction: {idx}")
     print(f"- Stage direction: {row['stgdir']}")
@@ -88,13 +99,16 @@ if __name__ == "__main__":
     print(f"- Response: {resp[0]}")
     print(f"- Response time: {td} ms")
     print()
-    out_comp_fn = os.path.join(cf.completions_dir, f"completion_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.json")
+    out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
+                               f"completion_{str.zfill(str(idx), 4)}_{args.model}.json")
     with (open(out_comp_fn, "w") as out_comp_fh):
       jso = completion.model_dump_json()
       json.dump(jso, out_comp_fh, indent=2)
-    out_resp_fn = os.path.join(cf.postpro_response_dir, f"postpro_response_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.json")
+    out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
+                               f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
     with (open(out_resp_fn, "w") as out_resp_fh):
       json.dump(jresp, out_resp_fh, indent=2)
-    out_prompt_fn = os.path.join(cf.prompts_dir, f"prompt_{str.zfill(str(idx), 4)}_{cf.oai_models[0]}.txt")
+    out_prompt_fn = os.path.join(cf.prompts_dir.format(batch_id=args.batch_name),
+                                 f"prompt_{str.zfill(str(idx), 4)}_{args.model}.txt")
     with (open(out_prompt_fn, "w") as out_prompt_fh):
       out_prompt_fh.write(prompt)

@@ -18,12 +18,12 @@ sep_test = ","
 log_dir = "logs"
 
 response_base_dir = "outputs"
-response_dir = f"outputs/{batch_id}/model_responses"
-completions_dir = f"outputs/{batch_id}/model_responses/completions"
-postpro_response_dir = f"outputs/{batch_id}/model_responses/postprocessed"
+response_dir = "outputs/{batch_id}/model_responses"
+completions_dir = "outputs/{batch_id}/model_responses/completions"
+postpro_response_dir = "outputs/{batch_id}/model_responses/postprocessed".format(batch_id=batch_id)
 prompts_dir = f"outputs/{batch_id}/prompts_run"
 
-plot_dir = f"outputs/{batch_id}/plots"
+plot_dir = "outputs/{batch_id}/plots"
 
 # Open AI ---------------------------------------------------------------------
 oai_config = {

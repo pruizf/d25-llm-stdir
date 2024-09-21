@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Il s'assied \u00e0 table. Lafor\u00eat et de Brie vont et viennent par la porte du fond, et apportent une collation.' includes general actions like sitting at the table and bringing a snack, which fall under the general character action category. The actions described do not fit into more specific categories like movement (focused purely on movement), delivery, interaction, etc.",
+  "confidence": 0.9,
+  "stgdir": "Il s'assied \u00e0 table. Lafor\u00eat et de Brie vont et viennent par la porte du fond, et apportent une collation.",
+  "response_time": 2126.133441925049,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

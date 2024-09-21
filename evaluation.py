@@ -68,7 +68,7 @@ if __name__ == "__main__":
   if not os.path.exists(cf.plot_dir):
     os.makedirs(cf.plot_dir)
 
-  results_dir = cf.postpro_response_dir
+  results_dir = cf.postpro_response_dir.format(batch_id=cf.batch_id)
   golden = ut.get_and_format_data("testset")
 
   eval_data = eval_res(results_dir, golden, cf.oai_models[0], batch_sfx=cf.batch_id.replace("batch_", ""))

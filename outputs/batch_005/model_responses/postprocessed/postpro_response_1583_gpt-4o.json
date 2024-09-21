@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The provided stage direction has a narrative quality and describes a sequence of actions and events, intended for readers to understand the plot and context of the play. It explains the storyline involving a farmer, his wife, their niece, and a young man from Paris. This long description does not fit into the other specified categories, such as action, setting, or character interaction, and is best classified under 'narration.'",
+  "confidence": 0.9,
+  "stgdir": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce.",
+  "response_time": 1581.493854522705,
+  "model": "gpt-4o",
+  "categFull": "narration"
+}
