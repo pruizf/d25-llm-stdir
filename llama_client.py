@@ -57,7 +57,7 @@ if __name__ == "__main__":
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   for idx, row in stdirs.iterrows():
-    if False and idx > 3:
+    if True and idx > 10:
       break
     # general prompt
     if False:
@@ -111,6 +111,6 @@ if __name__ == "__main__":
       with (open(out_prompt_fn, "w") as out_prompt_fh):
         out_prompt_fh.write(prompt)
     out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
-                               f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
+                               f"postpro_response_{str.zfill(str(idx), 4)}_llama.json")
     with open(out_resp_fn, "w") as out_resp_fh:
       out_resp_fh.write(resp)
