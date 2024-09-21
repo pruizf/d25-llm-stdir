@@ -5,8 +5,9 @@
 #SBATCH -p publicgpu
 #SBATCH -N 1
 #SBATCH -A lilpa
-#SBATCH --gres=gpu:1
-#SBATCH --constraint="gpup100|gpuv100|gpurtx5000|gpua100"
+##SBATCH --gres=gpu:1
+##SBATCH --constraint="gpup100|gpuv100|gpurtx5000|gpua100"
+#SBATCH --constraint="gpup100|gpuv100|gpurtx5000|gpurtx6000|gpua100"
 
 # llama_client.py batch_name corpus_name
 # batch_name starts with 'batch_'
