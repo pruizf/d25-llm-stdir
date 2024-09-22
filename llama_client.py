@@ -57,7 +57,7 @@ if __name__ == "__main__":
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   for idx, row in stdirs.iterrows():
-    if True and idx > 10:
+    if False and idx > 10:
       break
     # general prompt
     if False:
@@ -85,6 +85,7 @@ if __name__ == "__main__":
       #top_p=1,
     )
     td = 1000 * (time.time() - t1)
+    resp.append(td)
 
     if False:
       jresp = json.loads(json.dumps(resp[0]["generated_text"][-1]))
