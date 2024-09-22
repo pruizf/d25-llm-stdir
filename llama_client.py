@@ -29,8 +29,10 @@ if __name__ == "__main__":
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
 
   # log gpu info
-  batch_log_fn = os.path.join(cf.response_base_dir + os.sep + args.batch_name,
-                              f"gpu_infos_{args.batch_name}.txt")
+  batch_dir = os.path.join(cf.response_base_dir, args.batch_name)
+  if not os.path.exists(batch_dir):
+    os.makedirs(batch_dir)
+  batch_log_fn = os.path.join(batch_dir, f"gpu_infos_{args.batch_name}.txt")
   if torch.cuda.is_available():
     with open(batch_log_fn, "w") as batch_log_fh:
       batch_log_fh.write(f"Cur GPU: {torch.cuda.current_device()}\n")
