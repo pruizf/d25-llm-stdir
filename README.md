@@ -17,8 +17,13 @@
 ## Meaning of "prompt" column
 - **general**: Classification prompt with a short definition and a varying number of examples for each category.
 - **definition**: A short definition is given for each category, without examples.
-- "verbs": A list of expressions (but not stage directions, not direct examples) that may be related to the category is given.
-- fr: The prompt explicitly mentions that the text to classify is in French. The reasoning is that we asked the model to generate a text to "explain" its classification, and in some ambiguous cases like "Evelyn sort" it was interpreting the text as English (as someone sorting something) instead of French (as someone going out).
+- **"verbs"**: A list of expressions (but not stage directions, not direct examples) that may be related to the category is given.
+- **fr**: The prompt explicitly mentions that the text to classify is in French. The reasoning is that we asked the models to generate a text to "explain" each classification, and in some ambiguous cases like "Evelyn sort" it (gpt-4o-mini) was interpreting the text as English (as a way of "sorting" something) instead of French (as someone exiting).
+
+## Data fractions
+
+- **1**: 100% of the testset from [Schneider & Ruiz (2024)](https://aclanthology.org/2024.latechclfl-1.28/), available at https://nakala.fr/10.34847/nkl.fde37ug3.
+- **0.3 stratified**: 30% of the testset, stratified by category.
 
 ## Some notes about the batches
 
@@ -30,5 +35,5 @@
 - 006: Definition only prompt (zero shot) but gives a list of expressions (not stage directions) that may be related to the category and explicitly mentions that they are in French, 100% of testset, gpt-4o-mini
 - 007: General prompt with a short definition for each category and 20 examples for each. Explicitly mentions that text to classify is in French, 0.3 frac, stratified, gpt-4o-mini
 - 102: Definition only prompt (zero shot) but gives a list of expressions (not stage directions) that may be related to the category and explicitly mentions that they are in French, 100% of testset, llama-3-8B-Instruct
-- 103: Definition only prompt (zero shot) but gives a list of expressions (not stage directions) that may be related to the category and explicitly mentions that they are in French, 100% of testset, llama-3.1-8B-Instruct. Uses 2 Quadro RTX 5000 GPUs, ca. 32GB.
+- 103: Definition only prompt (zero shot) but gives a list of expressions (not stage directions) that may be related to the category and explicitly mentions that they are in French, 100% of testset, llama-3.1-8B-Instruct. Uses 2 Quadro RTX 5000 GPUs (ca. 32GB) from Unistra HPC.
 
