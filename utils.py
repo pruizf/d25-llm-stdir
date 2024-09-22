@@ -108,9 +108,26 @@ def sample_dataframe(df, category_col, frac=0.3):
     return sampled_df
 
 
+def sample_n_examples_per_category(df, n=20):
+  """
+  Sample n examples for each category in the dataframe.
+  Args:
+      df (pd.DataFrame): The input dataframe.
+      n (int): The number of examples to sample for each category.
+  Returns:
+      pd.DataFrame: The sampled dataframe.
+  """
+  df_sampled = df.groupby('label', group_keys=False).apply(lambda x: x.sample(min(len(x), n)))
+  return df_sampled
+
+
 def extract_category_from_llama_output(res_dir):
   """
   Extract the category number from the output of the Llama model.
+  Args:
+      res_dir (str): The directory with the response files.
+  Returns:
+      list: The list of category numbers.
   """
   categs = []
   for idx, fn in enumerate(sorted(os.listdir(res_dir))):
@@ -123,4 +140,3 @@ def extract_category_from_llama_output(res_dir):
         assert catnbr, f"Category number not found in response for item {str.zfill(str(idx), 4)}"
         categs.append(int(catnbr.group(1)))
   return categs
-  # return llama_output[0]["generated_text"][-1]["category"]
