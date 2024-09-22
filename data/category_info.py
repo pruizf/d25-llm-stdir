@@ -257,7 +257,7 @@ cat_info_fr_only_few_shot = """
 - CATEGORY 2
   - Name: aparte
   - DEFINITION: Aside (character addresses audience or is alone)
-  - EXAMPLES: 
+  - EXAMPLES:     
 {examples_2}
 - CATEGORY 3
   - NAME: delivery

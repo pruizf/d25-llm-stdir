@@ -87,11 +87,17 @@ def sample_examples_per_category(df_fn, n=20):
   return df_sampled
 
 
-def format_examples_for_few_shot_prompt(sampled_df, categ_list):
+def format_examples_for_few_shot_prompt(sampled_df_fn):
+  out_dict = {}
+  sampled_df = pd.read_csv(sampled_df_fn, sep="\t")
   for idx, row in sampled_df.iterrows():
-    print(f"## {row['label']}")
-    print(row['text'])
-    print()
+    label_key = f"examples_{row['label']}"
+    out_dict.setdefault(label_key, [])
+    out_dict[label_key].append(f"{row['stgdir']} // Category: {row['label']}")
+  for ke, va in out_dict.items():
+    out_dict[ke] = "    - " + "\n    - ".join(va)
+  return out_dict
+
 
 # EVALUATION ------------------------------------------------------------------
 

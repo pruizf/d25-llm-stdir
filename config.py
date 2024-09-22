@@ -4,21 +4,21 @@ import os
 
 
 # IO --------------------------------------------------------------------------
-batch_id = "batch_005" # obsolete, this is now passed as an argument
 few_shot_examples_id = "0001"
 
 corpus_dir = "data"
 log_dir = "logs"
-corpus_file  = os.path.join(corpus_dir, "stgdir_labelGeneric_woDuplicates.csv")
+corpus_file = os.path.join(corpus_dir, "stgdir_labelGeneric_woDuplicates.csv")
 testset_file = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test.csv")
 testset_30 = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test_30.csv")
-sampled_df_for_prompts = os.path.join(corpus_dir, f"sampled_df_for_prompts.tsv_{few_shot_examples_id}")
+sampled_df_for_prompts = os.path.join(corpus_dir, f"sampled_df_for_prompts_{few_shot_examples_id}.tsv")
 
 response_base_dir = "outputs"
+# batch_id is filled based on cli args
 response_dir = "outputs/{batch_id}/model_responses"
 completions_dir = "outputs/{batch_id}/model_responses/completions"
 postpro_response_dir = "outputs/{batch_id}/model_responses/postprocessed"
-prompts_dir = f"outputs/{batch_id}/prompts_run"
+prompts_dir = "outputs/{batch_id}/prompts_run"
 
 plot_dir = "outputs/{batch_id}/plots"
 

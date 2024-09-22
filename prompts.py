@@ -1,7 +1,7 @@
 """Prompts for project"""
 
 
-gen_promt = """
+gen_prompt = """
 Classify the following stage direction in French into one of the categories provided below it:
 
 Stage direction: {stdir} 

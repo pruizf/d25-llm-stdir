@@ -79,7 +79,7 @@ if __name__ == "__main__":
       break
     # general prompt
     if False:
-      prompt = pr.gen_promt.format(
+      prompt = pr.gen_prompt.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
         category_details=ut.get_category_info_two_shot())

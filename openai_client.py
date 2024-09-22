@@ -57,7 +57,7 @@ if __name__ == "__main__":
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
   assert args.prompt_mode in cf.prompting_modes, f"Prompting strategy {args.prompting} not in {cf.prompting_modes}"
 
-  print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
+  print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}], mode [{args.prompt_mode}]\n")
 
   # make sure to import updated modules
   for module in [cf, pr, ut, catinfo, ut.catinfo]:
@@ -80,7 +80,7 @@ if __name__ == "__main__":
       break
     # general prompt
     if args.prompt_mode == "two-shot":
-      prompt = pr.gen_promt.format(
+      prompt = pr.gen_prompt.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
         category_details=ut.get_category_info_two_shot())
@@ -90,6 +90,11 @@ if __name__ == "__main__":
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
         category_details=catinfo.cat_info_defs_only_en)
+    elif args.prompt_mode == "few-shot":
+      prompt = pr.gen_prompt.format(
+        numbered_categories=ut.number_categories(cf.categs_as13),
+        stdir=row["stgdir"],
+        category_details=ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts))
     completion, resp, td = get_openai_response(oa_client, args.model, prompt, cf)
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])
@@ -103,15 +108,19 @@ if __name__ == "__main__":
     print(f"- Response: {resp[0]}")
     print(f"- Response time: {td} ms")
     print()
+
     out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
                                f"completion_{str.zfill(str(idx), 4)}_{args.model}.json")
     with (open(out_comp_fn, "w") as out_comp_fh):
       jso = completion.model_dump_json()
       json.dump(jso, out_comp_fh, indent=2)
+
     out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
                                f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
     with (open(out_resp_fn, "w") as out_resp_fh):
       json.dump(jresp, out_resp_fh, indent=2)
+
+    breakpoint()
     out_prompt_fn = os.path.join(cf.prompts_dir.format(batch_id=args.batch_name),
                                  f"prompt_{str.zfill(str(idx), 4)}_{args.model}.txt")
     with (open(out_prompt_fn, "w") as out_prompt_fh):
