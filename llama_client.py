@@ -24,7 +24,7 @@ if __name__ == "__main__":
   parser.add_argument("corpus", help="Corpus to run the model on")
   parser.add_argument("model", help="Model to use for generating the response")
   args = parser.parse_args()
-  assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
+  assert args.model in cf.llm_list, f"Model {args.model} not in {cf.llm_list}"
   assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
 
@@ -42,7 +42,7 @@ if __name__ == "__main__":
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]. Start {time.strftime('%H:%M:%S')}\n")
 
   # make sure to import updated modules
-  for module in [cf, pr, ut, catinfo, pr.catinfo]:
+  for module in [cf, pr, ut, catinfo, ut.catinfo]:
     reload(module)
 
   # IO
@@ -62,6 +62,7 @@ if __name__ == "__main__":
     model_kwargs={"torch_dtype": torch.bfloat16},
     device_map="auto",
   )
+  print()
   print(f"Done loading model {time.strftime('%H:%M:%S')}")
 
   terminators = [
@@ -79,12 +80,12 @@ if __name__ == "__main__":
     # general prompt
     if False:
       prompt = pr.gen_promt.format(
-        numbered_categories=pr.number_categories(pr.categs_as13),
+        numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=pr.get_category_info(cf))
+        category_details=ut.get_category_info_two_shot())
     # prompt with definition only
     prompt = pr.prompt_def_only.format(
-      numbered_categories=pr.number_categories(pr.categs_as13),
+      numbered_categories=ut.number_categories(cf.categs_as13),
       stdir=row["stgdir"],
       category_details=catinfo.cat_info_defs_only_en)
 
