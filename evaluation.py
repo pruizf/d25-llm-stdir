@@ -51,7 +51,7 @@ def plot_confusion_matrix(y_preds, y_true, labels, color_key, batch_sfx=None, no
 
 def eval_res(res_dir, golden_df, color_mode, batch_sfx=None):
   assert color_mode in clrmap_dict
-  sys_jmt = ut.get_judgement_info_for_dir(res_dir)
+  sys_jmt = ut.extract_category_from_openai_output(res_dir)
   #gold_df = pd.read_csv(golden_fn, sep=cf.sep_test)
   ref_jmt = golden_df['categNbr'].tolist()
   labels = pr.categs_as13

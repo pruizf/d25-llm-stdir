@@ -10,6 +10,7 @@ import config as cf
 import prompts as pr
 
 
+# DATA PREPARATION ------------------------------------------------------------
 def get_and_format_data(fname, sep, label_type="number"):
   """
   Get and format the stage directions and labels from dataframe.
@@ -28,6 +29,23 @@ def get_and_format_data(fname, sep, label_type="number"):
     df['categNbr'] = df['categ'].apply(lambda x: pr.categs_as13.index(x))
   return df
 
+def sample_dataframe(df, category_col, frac=0.3):
+    """
+    Randomly sample 30% of rows for each category in the dataframe.
+
+    Args:
+        df (pd.DataFrame): The input dataframe.
+        category_col (str): The name of the column with category labels.
+        frac (float): The fraction of rows to sample for each category.
+
+    Returns:
+        pd.DataFrame: The sampled dataframe.
+    """
+    sampled_df = df.groupby(category_col).apply(lambda x: x.sample(frac=frac)).reset_index(drop=True)
+    return sampled_df
+
+
+# PROMPT DEVELOPMENT ----------------------------------------------------------
 
 def number_categories(clist):
   """
@@ -52,7 +70,26 @@ def get_category_info_two_shot(cf, mode="fr"):
     return catinfo.cat_info_fr_en_two_shot
 
 
-def get_judgement_info_for_dir(resdir):
+def sample_n_examples_per_category(df, n=20):
+  """
+  Sample n examples for each category in the dataframe.
+  Args:
+    df (pd.DataFrame): The input dataframe.
+    n (int): The number of examples to sample for each category.
+  Returns:
+    pd.DataFrame: The sampled dataframe.
+  """
+  df_sampled = df.groupby('label', group_keys=False).apply(lambda x: x.sample(min(len(x), n)))
+  return df_sampled
+
+
+# EVALUATION ------------------------------------------------------------------
+
+def extract_category_from_openai_output(resdir):
+  """
+  Get OpenAI classification results into a list. Assumes that the response files
+  contain a JSON field "category" with the category number.
+  """
   all_res = []
   for fn in sorted(os.listdir(resdir)):
     if not "response" in fn:
@@ -63,8 +100,31 @@ def get_judgement_info_for_dir(resdir):
   return all_res
 
 
-def judgement_info_to_df(resdir):
-  """Get system results into a dataframe"""
+def extract_category_from_llama_output(res_dir):
+  """
+  Extract the category number from the output of the Llama model.
+  Args:
+    res_dir (str): The directory with the response files.
+  Returns:
+    list: The list of category numbers.
+  """
+  categs = []
+  for idx, fn in enumerate(sorted(os.listdir(res_dir))):
+    if "response" in fn:
+      with open(os.path.join(res_dir, fn), "r") as f:
+        res = json.load(f)
+        #catnbr = re.search(r'category":\s(\d+)', res[0][-2]["generated_text"][-1]["content"])
+        # sometimes the number is in quotation marks
+        catnbr = re.search(r'category":\s[\'"]?(\d+)[\'"]?', res[0]["generated_text"][-1]["content"])
+        assert catnbr, f"Category number not found in response for item {str.zfill(str(idx), 4)}"
+        categs.append(int(catnbr.group(1)))
+  return categs
+
+
+def classification_results_to_df(resdir):
+  """
+  Get classification results into a dataframe.
+  """
   all_lines = []
   for fn in sorted(os.listdir(resdir)):
     if not "response" in fn:
@@ -73,6 +133,7 @@ def judgement_info_to_df(resdir):
       jo = json.load(f)
       all_lines.append([jo["stgdir"], jo["category"]])
   return pd.DataFrame(all_lines, columns=["stgdir", "categNbr"])
+
 
 def add_category_names(df, categ_dict):
   """
@@ -91,52 +152,3 @@ def add_category_names(df, categ_dict):
     df_new[va] = df_new[ke].apply(lambda x: pr.categs_as13[x])
   #df_new.columns = cf.categ_col_order
   return df_new
-
-def sample_dataframe(df, category_col, frac=0.3):
-    """
-    Randomly sample 30% of rows for each category in the dataframe.
-
-    Args:
-        df (pd.DataFrame): The input dataframe.
-        category_col (str): The name of the column with category labels.
-        frac (float): The fraction of rows to sample for each category.
-
-    Returns:
-        pd.DataFrame: The sampled dataframe.
-    """
-    sampled_df = df.groupby(category_col).apply(lambda x: x.sample(frac=frac)).reset_index(drop=True)
-    return sampled_df
-
-
-def sample_n_examples_per_category(df, n=20):
-  """
-  Sample n examples for each category in the dataframe.
-  Args:
-      df (pd.DataFrame): The input dataframe.
-      n (int): The number of examples to sample for each category.
-  Returns:
-      pd.DataFrame: The sampled dataframe.
-  """
-  df_sampled = df.groupby('label', group_keys=False).apply(lambda x: x.sample(min(len(x), n)))
-  return df_sampled
-
-
-def extract_category_from_llama_output(res_dir):
-  """
-  Extract the category number from the output of the Llama model.
-  Args:
-      res_dir (str): The directory with the response files.
-  Returns:
-      list: The list of category numbers.
-  """
-  categs = []
-  for idx, fn in enumerate(sorted(os.listdir(res_dir))):
-    if "response" in fn:
-      with open(os.path.join(res_dir, fn), "r") as f:
-        res = json.load(f)
-        #catnbr = re.search(r'category":\s(\d+)', res[0][-2]["generated_text"][-1]["content"])
-        # sometimes the number is in quotation marks
-        catnbr = re.search(r'category":\s[\'"]?(\d+)[\'"]?', res[0]["generated_text"][-1]["content"])
-        assert catnbr, f"Category number not found in response for item {str.zfill(str(idx), 4)}"
-        categs.append(int(catnbr.group(1)))
-  return categs
