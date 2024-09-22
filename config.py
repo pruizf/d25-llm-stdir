@@ -2,16 +2,17 @@
 
 import os
 
-# OpenAI API key
 
 # IO --------------------------------------------------------------------------
-batch_id = "batch_005"
+batch_id = "batch_005" # obsolete, this is now passed as an argument
+few_shot_examples_id = "0001"
 
 corpus_dir = "data"
+log_dir = "logs"
 corpus_file  = os.path.join(corpus_dir, "stgdir_labelGeneric_woDuplicates.csv")
 testset_file = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test.csv")
 testset_30 = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test_30.csv")
-log_dir = "logs"
+sampled_df_for_prompts = os.path.join(corpus_dir, f"sampled_df_for_prompts.tsv_{few_shot_examples_id}")
 
 response_base_dir = "outputs"
 response_dir = "outputs/{batch_id}/model_responses"
@@ -28,9 +29,15 @@ oai_config = {
   "seed": 14
 }
 
-oai_models = ["gpt-4o", "gpt-4o-mini", "llama-3", "llama-3.1"]  # , "gpt-4", "gpt-4-turbo"]
+# Other ----------------------------------------------------------------------
 
-# Other
+categs_as13 = ["action", "aggression", "aparte", "delivery", "entrance",
+               "exit", "interaction", "movement", "music",
+               "narration", "object", "setting", "toward",]
+
+prompting_modes = ["definition", "two-shot", "few-shot"]
+
+llm_list = ["gpt-4o", "gpt-4o-mini", "llama-3", "llama-3.1"]  # , "gpt-4", "gpt-4-turbo"]
 
 categ_col_map = {"gold": "goldStr", "sys": "sysStr", "label": "labelStr"}
 categ_col_order = ["text", "gold", "goldStr", "text2", "sys", "sysStr", "cf_sents"]

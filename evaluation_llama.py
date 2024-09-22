@@ -13,9 +13,10 @@ import prompts as pr
 import utils as ut
 
 # constants
-clrmap_dict = {"gpt-4o-mini": "Blues", "gpt-4o": "Greens", "llama-3": "Purples"}
+clrmap_dict = {"gpt-4o-mini": "Blues", "gpt-4o": "Greens",
+               "llama-3": "Purples", "llama-3.1": "Purples"}
 for ke in clrmap_dict:
-  assert ke in cf.oai_models, f"Model {ke} not in {cf.oai_models}"
+  assert ke in cf.llm_list, f"Model {ke} not in {cf.llm_list}"
 
 def plot_confusion_matrix(y_preds, y_true, labels, color_key, batch_sfx=None, normalize=None):
   cm = confusion_matrix(y_true, y_preds, normalize=normalize)
@@ -54,7 +55,7 @@ def eval_res(res_dir, golden_df, color_mode, batch_sfx=None):
   sys_jmt = ut.extract_category_from_llama_output(res_dir)
   #gold_df = pd.read_csv(golden_fn, sep=cf.sep_test)
   ref_jmt = golden_df['categNbr'].tolist()
-  labels = pr.categs_as13
+  labels = cf.categs_as13
   classif_report = classification_report(ref_jmt, sys_jmt, target_names=labels)
   plot_confusion_matrix(sys_jmt, ref_jmt, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
   plain_cm = confusion_matrix(ref_jmt, sys_jmt, normalize="true")
@@ -67,13 +68,13 @@ if __name__ == "__main__":
   parser.add_argument("corpus", help="Corpus to run the model on")
   parser.add_argument("model", help="Model to use for generating the response")
   args = parser.parse_args()
-  assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
+  assert args.model in cf.llm_list, f"Model {args.model} not in {cf.llm_list}"
   assert args.batch_name in os.listdir(cf.response_base_dir), f"Results for batch {args.batch_name} not available"
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
 
   # make sure to import updated modules
-  for module in [cf, pr, ut, pr.catinfo]:
+  for module in [cf, pr, ut, ut.catinfo]:
     reload(module)
 
   #IO
