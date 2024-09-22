@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Elle passe \u00e0 gauche.' indicates that a character is moving in a specified direction (to the left), which falls under the category of movement rather than any other category like exit or entrance since there is no indication of departing from or entering the stage.",
+  "confidence": 0.9,
+  "stgdir": "Elle passe \u00e0 gauche.",
+  "response_time": 2453.2742500305176,
+  "model": "gpt-4o-mini",
+  "categFull": "movement"
+}

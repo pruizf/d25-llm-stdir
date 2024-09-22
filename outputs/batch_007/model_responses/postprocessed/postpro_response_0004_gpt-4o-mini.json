@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction describes a general action of the character trying to open something without success, which does not fit more specific categories like interaction or movement. Therefore, it is categorized as general action.",
+  "confidence": 0.9,
+  "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+  "response_time": 1925.2395629882812,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

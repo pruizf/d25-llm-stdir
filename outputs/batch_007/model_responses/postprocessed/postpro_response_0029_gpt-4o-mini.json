@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "L'action 'Il lit l'affiche' est une action g\u00e9n\u00e9rale qui ne correspond pas aux autres cat\u00e9gories comme interaction ou exit. C'est simplement une action o\u00f9 le personnage lit un objet, mais il ne s'agit pas d'une manipulation sp\u00e9cifique ou d'une interaction avec d'autres personnages.",
+  "confidence": 0.9,
+  "stgdir": "Il lit l'affiche.",
+  "response_time": 1455.8818340301514,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

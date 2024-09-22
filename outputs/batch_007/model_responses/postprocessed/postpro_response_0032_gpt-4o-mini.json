@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La direction 'Regardant du cot\u00e9 oppos\u00e9' indique un mouvement du personnage, o\u00f9 il se tourne ou regarde dans une autre direction. Cela ne correspond pas \u00e0 une entr\u00e9e, sortie, interaction ou autre cat\u00e9gorie, mais s'inscrit clairement dans le mouvement du corps.",
+  "confidence": 0.9,
+  "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+  "response_time": 1835.7765674591064,
+  "model": "gpt-4o-mini",
+  "categFull": "movement"
+}
