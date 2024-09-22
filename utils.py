@@ -1,6 +1,7 @@
 from copy import copy
 import json
 import os
+import re
 
 import pandas as pd
 
@@ -79,3 +80,21 @@ def sample_dataframe(df, category_col, frac=0.3):
     """
     sampled_df = df.groupby(category_col).apply(lambda x: x.sample(frac=frac)).reset_index(drop=True)
     return sampled_df
+
+
+def extract_category_from_llama_output(res_dir):
+  """
+  Extract the category number from the output of the Llama model.
+  """
+  categs = []
+  for idx, fn in enumerate(sorted(os.listdir(res_dir))):
+    if "response" in fn:
+      with open(os.path.join(res_dir, fn), "r") as f:
+        res = json.load(f)
+        #catnbr = re.search(r'category":\s(\d+)', res[0][-2]["generated_text"][-1]["content"])
+        # sometimes the number is in quotation marks
+        catnbr = re.search(r'category":\s[\'"]?(\d+)[\'"]?', res[0]["generated_text"][-1]["content"])
+        assert catnbr, f"Category number not found in response for item {str.zfill(str(idx), 4)}"
+        categs.append(int(catnbr.group(1)))
+  return categs
+  # return llama_output[0]["generated_text"][-1]["category"]
