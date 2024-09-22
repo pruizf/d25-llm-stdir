@@ -143,13 +143,13 @@ def classification_results_to_df(resdir):
       all_lines.append([jo["stgdir"], jo["category"]])
   return pd.DataFrame(all_lines, columns=["stgdir", "categNbr"])
 
-
-def add_category_names(df, categ_dict):
+# Manual analyses ---------------------
+def add_category_names(df, categ_dict=cf.categ_col_map):
   """
   Given a dataframe where categories are expressed as numbers
   and a dictionary with the column names containing those categories,
   add a new column where the category names are expressed as strings,
-  based on the category name list (in `prompts.py`).
+  based on the category name list (in `config.py`).
   The numbers are indices for that list.
   """
   df_new = copy(df)
@@ -159,5 +159,21 @@ def add_category_names(df, categ_dict):
     ke_idx = df.columns.get_loc(ke)
     df_new.insert(ke_idx + 1 + idx, va, None)
     df_new[va] = df_new[ke].apply(lambda x: cf.categs_as13[x])
-  #df_new.columns = cf.categ_col_order
+  return df_new
+
+def add_category_numbers(df, categ_dict=cf.categ_col_map):
+  """
+  Given a dataframe where categories are expressed as strings
+  and a dictionary with the column names containing those categories,
+  add a new column where the category names are expressed as a numbers,
+  based on the index for the category name in the list at `config.py`.
+  """
+  df_new = copy(df)
+  for idx, (ke, va) in enumerate(categ_dict.items()):
+    breakpoint()
+    if ke not in df.columns:
+      continue
+    ke_idx = df.columns.get_loc(ke)
+    df_new.insert(ke_idx, va, None)
+    df_new[va] = df_new[ke].apply(lambda x: cf.categs_as13.index(x))
   return df_new

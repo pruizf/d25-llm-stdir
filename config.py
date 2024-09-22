@@ -37,7 +37,7 @@ categs_as13 = ["action", "aggression", "aparte", "delivery", "entrance",
 
 prompting_modes = ["definition", "two-shot", "few-shot"]
 
-llm_list = ["gpt-4o", "gpt-4o-mini", "llama-3", "llama-3.1"]  # , "gpt-4", "gpt-4-turbo"]
+llm_list = ["gpt-4o", "gpt-4o-mini", "llama-3.0", "llama-3.1"]  # , "gpt-4", "gpt-4-turbo"]
 
-categ_col_map = {"gold": "goldStr", "sys": "sysStr", "label": "labelStr"}
+categ_col_map = {"gold": "goldStr", "sys": "sysStr", "label": "labelStr", "labelStr": "label"}
 categ_col_order = ["text", "gold", "goldStr", "text2", "sys", "sysStr", "cf_sents"]
