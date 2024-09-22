@@ -106,10 +106,11 @@ if __name__ == "__main__":
         stdir=row["stgdir"],
         category_details=catinfo.cat_info_defs_only_en)
     elif args.prompt_mode == "few-shot":
+      shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts)
       prompt = pr.gen_prompt.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts))
+        category_details=catinfo.cat_info_fr_only_few_shot.format(**shots_per_cat))
     completion, resp, td = get_openai_response(oa_client, args.model, prompt, cf)
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])
