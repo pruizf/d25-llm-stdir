@@ -22,10 +22,22 @@ if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Open AI client")
   parser.add_argument("batch_name", help="Batch name used as prefix on outputs")
   parser.add_argument("corpus", help="Corpus to run the model on")
+  parser.add_argument("model", help="Model to use for generating the response")
   args = parser.parse_args()
+  assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
   assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
-  print(f"{args.batch_name}: Running [llama3] on [{args.corpus}]\n")
+
+  # log gpu info
+  batch_log_fn = os.path.join(cf.response_base_dir + os.sep + args.batch_name,
+                              f"gpu_infos_{args.batch_name}.txt")
+  if torch.cuda.is_available():
+    with open(batch_log_fn, "w") as batch_log_fh:
+      batch_log_fh.write(f"Cur GPU: {torch.cuda.current_device()}\n")
+      batch_log_fh.write(f"GPU name: {torch.cuda.get_device_name(torch.cuda.current_device())}\n")
+      batch_log_fh.write(f"GPU count: {torch.cuda.device_count()}\n")
+
+  print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]. Start {time.strftime('%H:%M:%S')}\n")
 
   # make sure to import updated modules
   for module in [cf, pr, ut, catinfo, pr.catinfo]:
@@ -40,13 +52,15 @@ if __name__ == "__main__":
     os.makedirs(cf.log_dir)
 
   # prepare client
-  model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
+  print(f"Start loading model {time.strftime('%H:%M:%S')}")
+  model_id = "meta-llama/Meta-Llama-3-8B-Instruct" if args.model == "llama-3" else "meta-llama/Meta-Llama-3.1-8B-Instruct"
   pipeline = transformers.pipeline(
     "text-generation",
     model=model_id,
     model_kwargs={"torch_dtype": torch.bfloat16},
     device_map="auto",
   )
+  print(f"Done loading model {time.strftime('%H:%M:%S')}")
 
   terminators = [
     pipeline.tokenizer.eos_token_id,
@@ -57,6 +71,7 @@ if __name__ == "__main__":
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   for idx, row in stdirs.iterrows():
+    print(f"# Processing stage direction: {idx}")
     if False and idx > 10:
       break
     # general prompt
@@ -87,32 +102,8 @@ if __name__ == "__main__":
     td = 1000 * (time.time() - t1)
     resp.append(td)
 
-    if False:
-      jresp = json.loads(json.dumps(resp[0]["generated_text"][-1]))
-      jresp["stgdir"] = row["stgdir"]
-      jresp["response_time"] = td
-      jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
-      print(f"# Processing stage direction: {idx}")
-      print(f"- Stage direction: {row['stgdir']}")
-      print(f'- Response categ: {json.loads(resp[0])["category"]}. {pr.categs_as13[int(json.loads(resp[0])["category"])]}')
-      print(f"- Response: {resp[0]}")
-      print(f"- Response time: {td} ms")
-      print()
-      out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
-                                 f"completion_{str.zfill(str(idx), 4)}_{args.model}.json")
-      with (open(out_comp_fn, "w") as out_comp_fh):
-        jso = json.loads(json.dumps(resp))
-        json.dump(jso, out_comp_fh, indent=2)
-      out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
-                                 f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
-      with (open(out_resp_fn, "w") as out_resp_fh):
-        json.dump(jresp, out_resp_fh, indent=2)
-      out_prompt_fn = os.path.join(cf.prompts_dir.format(batch_id=args.batch_name),
-                                   f"prompt_{str.zfill(str(idx), 4)}_{args.model}.txt")
-      with (open(out_prompt_fn, "w") as out_prompt_fh):
-        out_prompt_fh.write(prompt)
     out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
-                               f"postpro_response_{str.zfill(str(idx), 4)}_llama.json")
+                               f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
     with open(out_resp_fn, "w") as out_resp_fh:
       #out_resp_fh.write(resp)
       json.dump(resp, out_resp_fh, indent=2)

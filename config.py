@@ -28,7 +28,7 @@ oai_config = {
   "seed": 14
 }
 
-oai_models = ["gpt-4o", "gpt-4o-mini"]  # , "gpt-4", "gpt-4-turbo"]
+oai_models = ["gpt-4o", "gpt-4o-mini", "llama-3", "llama-3.1"]  # , "gpt-4", "gpt-4-turbo"]
 
 # Other
 
