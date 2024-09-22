@@ -4,13 +4,9 @@ import argparse
 from importlib import reload
 import json
 import os
-import re
-import sys
 import time
 
 from openai import OpenAI
-from openai.types.chat import ChatCompletion
-import pandas as pd
 
 from data import category_info as catinfo
 import config as cf
@@ -85,13 +81,13 @@ if __name__ == "__main__":
     # general prompt
     if args.prompt_mode == "two-shot":
       prompt = pr.gen_promt.format(
-        numbered_categories=ut.number_categories(pr.categs_as13),
+        numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=ut.get_category_info_two_shot(cf))
+        category_details=ut.get_category_info_two_shot())
     # prompt with definition only
     elif args.prompt_mode == "definition":
       prompt = pr.prompt_def_only.format(
-        numbered_categories=ut.number_categories(pr.categs_as13),
+        numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
         category_details=catinfo.cat_info_defs_only_en)
     completion, resp, td = get_openai_response(oa_client, args.model, prompt, cf)
@@ -100,10 +96,10 @@ if __name__ == "__main__":
     jresp["stgdir"] = row["stgdir"]
     jresp["response_time"] = td
     jresp["model"] = args.model
-    jresp["categFull"] = pr.categs_as13[int(json.loads(resp[0])["category"])]
+    jresp["categFull"] = cf.categs_as13[int(json.loads(resp[0])["category"])]
     print(f"# Processing stage direction: {idx}")
     print(f"- Stage direction: {row['stgdir']}")
-    print(f'- Response categ: {json.loads(resp[0])["category"]}. {pr.categs_as13[int(json.loads(resp[0])["category"])]}')
+    print(f'- Response categ: {json.loads(resp[0])["category"]}. {cf.categs_as13[int(json.loads(resp[0])["category"])]}')
     print(f"- Response: {resp[0]}")
     print(f"- Response time: {td} ms")
     print()

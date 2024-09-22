@@ -7,7 +7,6 @@ import pandas as pd
 
 from data import category_info as catinfo
 import config as cf
-import prompts as pr
 
 
 # DATA PREPARATION ------------------------------------------------------------
@@ -25,8 +24,8 @@ def get_and_format_data(fname, sep, label_type="number"):
   if label_type == "number":
     df['categNbr'] = df['categ']
   else:
-    #df['categNbr'] = df['categ'].apply(lambda x: pr.categs_as13.index(x) + 1)
-    df['categNbr'] = df['categ'].apply(lambda x: pr.categs_as13.index(x))
+    #df['categNbr'] = df['categ'].apply(lambda x: cf.categs_as13.index(x) + 1)
+    df['categNbr'] = df['categ'].apply(lambda x: cf.categs_as13.index(x))
   return df
 
 def sample_dataframe(df, category_col, frac=0.3):
@@ -58,7 +57,7 @@ def number_categories(clist):
   return "\n".join(out)
 
 
-def get_category_info_two_shot(cf, mode="fr"):
+def get_category_info_two_shot(mode="fr"):
   """
   Get the category information to include in the prompt.
   This function is only used with the two-shot classification mode,
@@ -70,18 +69,29 @@ def get_category_info_two_shot(cf, mode="fr"):
     return catinfo.cat_info_fr_en_two_shot
 
 
-def sample_n_examples_per_category(df, n=20):
+def sample_examples_per_category(df_fn, n=20):
   """
   Sample n examples for each category in the dataframe.
   Args:
-    df (pd.DataFrame): The input dataframe.
+    df_fn (str): Path to the input dataframe.
     n (int): The number of examples to sample for each category.
   Returns:
     pd.DataFrame: The sampled dataframe.
   """
+  sep = "\t" if "30" in df_fn else "|" if "woDuplicates" in df_fn else ","
+  df = pd.read_csv(df_fn, sep=sep)
+  df.columns = ["stgdir", "label"]
   df_sampled = df.groupby('label', group_keys=False).apply(lambda x: x.sample(min(len(x), n)))
+  if not os.path.exists(cf.sampled_df_for_prompts):
+    df_sampled.to_csv(cf.sampled_df_for_prompts, sep="\t", index=False)
   return df_sampled
 
+
+def format_examples_for_few_shot_prompt(sampled_df, categ_list):
+  for idx, row in sampled_df.iterrows():
+    print(f"## {row['label']}")
+    print(row['text'])
+    print()
 
 # EVALUATION ------------------------------------------------------------------
 
@@ -92,7 +102,7 @@ def extract_category_from_openai_output(resdir):
   """
   all_res = []
   for fn in sorted(os.listdir(resdir)):
-    if not "response" in fn:
+    if "response" not in fn:
       continue
     with open(os.path.join(resdir, fn), "r") as f:
       jo = json.load(f)
@@ -113,7 +123,6 @@ def extract_category_from_llama_output(res_dir):
     if "response" in fn:
       with open(os.path.join(res_dir, fn), "r") as f:
         res = json.load(f)
-        #catnbr = re.search(r'category":\s(\d+)', res[0][-2]["generated_text"][-1]["content"])
         # sometimes the number is in quotation marks
         catnbr = re.search(r'category":\s[\'"]?(\d+)[\'"]?', res[0]["generated_text"][-1]["content"])
         assert catnbr, f"Category number not found in response for item {str.zfill(str(idx), 4)}"
@@ -127,7 +136,7 @@ def classification_results_to_df(resdir):
   """
   all_lines = []
   for fn in sorted(os.listdir(resdir)):
-    if not "response" in fn:
+    if "response" not in fn:
       continue
     with open(os.path.join(resdir, fn), "r") as f:
       jo = json.load(f)
@@ -145,10 +154,10 @@ def add_category_names(df, categ_dict):
   """
   df_new = copy(df)
   for idx, (ke, va) in enumerate(categ_dict.items()):
-    if not ke in df.columns:
+    if ke not in df.columns:
       continue
     ke_idx = df.columns.get_loc(ke)
     df_new.insert(ke_idx + 1 + idx, va, None)
-    df_new[va] = df_new[ke].apply(lambda x: pr.categs_as13[x])
+    df_new[va] = df_new[ke].apply(lambda x: cf.categs_as13[x])
   #df_new.columns = cf.categ_col_order
   return df_new

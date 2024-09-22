@@ -1,15 +1,5 @@
 """Prompts for project"""
 
-from importlib import reload
-
-from data import category_info as catinfo
-reload(catinfo)
-import config as cf
-
-categs_as13 = ["action", "aggression", "aparte", "delivery", "entrance",
-               "exit", "interaction", "movement", "music",
-               "narration", "object", "setting", "toward",]
-
 
 gen_promt = """
 Classify the following stage direction in French into one of the categories provided below it:

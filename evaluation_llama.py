@@ -55,7 +55,7 @@ def eval_res(res_dir, golden_df, color_mode, batch_sfx=None):
   sys_jmt = ut.extract_category_from_llama_output(res_dir)
   #gold_df = pd.read_csv(golden_fn, sep=cf.sep_test)
   ref_jmt = golden_df['categNbr'].tolist()
-  labels = pr.categs_as13
+  labels = cf.categs_as13
   classif_report = classification_report(ref_jmt, sys_jmt, target_names=labels)
   plot_confusion_matrix(sys_jmt, ref_jmt, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
   plain_cm = confusion_matrix(ref_jmt, sys_jmt, normalize="true")
@@ -74,7 +74,7 @@ if __name__ == "__main__":
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
 
   # make sure to import updated modules
-  for module in [cf, pr, ut, pr.catinfo]:
+  for module in [cf, pr, ut, ut.catinfo]:
     reload(module)
 
   #IO

@@ -1,4 +1,7 @@
-"""Examples for categories to classify stage directions against"""
+"""
+Examples for categories to classify stage directions against.
+"""
+
 
 cat_info_defs_only_en = """
 - Category 0
@@ -239,4 +242,71 @@ cat_info_fr_only_two_shot = """
   - Examples
     - Example 1: À Julie
     - Example 2: Au commandeur et au comte
+"""
+
+cat_info_fr_only_few_shot = """
+- CATEGORY 0
+  - NAME: action
+  - DEFINITION: General character action. Use it only when other categories do not describe the action. 
+  - EXAMPLES:
+{examples_0}
+- CATEGORY 1
+  - Name: aggression
+  - DEFINITION: Violent action.
+{examples_1}
+- CATEGORY 2
+  - Name: aparte
+  - DEFINITION: Aside (character addresses audience or is alone)
+  - EXAMPLES: 
+{examples_2}
+- CATEGORY 3
+  - NAME: delivery
+  - DEFINITION: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings. 
+  - EXAMPLES: 
+{examples_3}
+- CATEGORY 4
+  - NAME: entrance
+  - DEFINITION: Character enters stage.
+  - EXAMPLES: 
+{examples_4}
+- CATEGORY 5
+  - NAME: exit
+  - DEFINITION: Character exits.
+  - EXAMPLES: 
+{examples_5}
+- CATEGORY 6
+  - NAME: interaction
+  - DEFINITION: Non-verbal character interaction. The interaction must be non-verbal.
+  - EXAMPLES: 
+{examples_6}
+- CATEGORY 7
+  - NAME: movement
+  - DEFINITION: Character movement (but not exit/entrance).
+  - EXAMPLES: 
+{examples_7}
+- CATEGORY 8
+  - NAME: music
+  - DEFINITION: Tune names (plays with songs). Music description.  Not used when the stage direction describes the character singing. Often starts with the word "AIR" or "Air". If it starts with these words, it is most likely a music stage direction and the content following these words is the name of the tune.
+  - EXAMPLES: 
+{examples_8}
+- CATEGORY 9
+  - NAME: narration
+  - DEFINITION: Long stage direction, with narrative quality, inteded for readers.  Generally long stage directions, they can narrate a sequence of character actions. They can also refer to noises or to weather events.
+  - EXAMPLES: 
+{examples_9}
+- CATEGORY 10
+  - NAME: object
+  - DEFINITION: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. 
+  - EXAMPLES: 
+{examples_10}
+- CATEGORY 11
+  - NAME: setting
+  - DEFINITION: Stage description or play location.
+  - EXAMPLES: 
+{examples_11}
+- CATEGORY 12
+  - NAME: toward
+  - DEFINITION: Indicates the addressee of a speech.
+  - EXAMPLES: 
+{examples_12}
 """

@@ -80,12 +80,12 @@ if __name__ == "__main__":
     # general prompt
     if False:
       prompt = pr.gen_promt.format(
-        numbered_categories=ut.number_categories(pr.categs_as13),
+        numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=ut.get_category_info_two_shot(cf))
+        category_details=ut.get_category_info_two_shot())
     # prompt with definition only
     prompt = pr.prompt_def_only.format(
-      numbered_categories=ut.number_categories(pr.categs_as13),
+      numbered_categories=ut.number_categories(cf.categs_as13),
       stdir=row["stgdir"],
       category_details=catinfo.cat_info_defs_only_en)
 
