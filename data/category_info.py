@@ -42,7 +42,7 @@ cat_info_defs_only_en = """
   - Definition: Indicates the addressee of a speech.
 """
 
-cat_info_fr_en = """
+cat_info_fr_en_two_shot = """
 - Category 0
   - Name: action
   - Definition: General character action
@@ -157,7 +157,7 @@ cat_info_fr_en = """
 
 """Examples for categories to classify stage directions against"""
 
-cat_info_fr_only = """
+cat_info_fr_only_two_shot = """
 - Category 0
   - Name: action
   - Definition: General character action

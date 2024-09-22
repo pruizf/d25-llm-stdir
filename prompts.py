@@ -10,18 +10,6 @@ categs_as13 = ["action", "aggression", "aparte", "delivery", "entrance",
                "exit", "interaction", "movement", "music",
                "narration", "object", "setting", "toward",]
 
-def number_categories(clist):
-  out = []
-  for cat in clist:
-    out.append(f"{clist.index(cat)}. {cat}")
-  return "\n".join(out)
-
-
-def get_category_info(cf, mode="fr"):
-  if mode == "fr":
-    return catinfo.cat_info_fr_only
-  else:
-    return catinfo.cat_info_fr_en
 
 gen_promt = """
 Classify the following stage direction in French into one of the categories provided below it:

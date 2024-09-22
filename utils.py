@@ -5,8 +5,10 @@ import re
 
 import pandas as pd
 
+from data import category_info as catinfo
 import config as cf
 import prompts as pr
+
 
 def get_and_format_data(fname, sep, label_type="number"):
   """
@@ -27,6 +29,29 @@ def get_and_format_data(fname, sep, label_type="number"):
   return df
 
 
+def number_categories(clist):
+  """
+  Output a list of category labels as a numbered list,
+  based on the index for the category in the list
+  """
+  out = []
+  for cat in clist:
+    out.append(f"{clist.index(cat)}. {cat}")
+  return "\n".join(out)
+
+
+def get_category_info_two_shot(cf, mode="fr"):
+  """
+  Get the category information to include in the prompt.
+  This function is only used with the two-shot classification mode,
+  the other modes get this part of the prompt with other means.
+  """
+  if mode == "fr":
+    return catinfo.cat_info_fr_only_two_shot
+  else:
+    return catinfo.cat_info_fr_en_two_shot
+
+
 def get_judgement_info_for_dir(resdir):
   all_res = []
   for fn in sorted(os.listdir(resdir)):
@@ -39,6 +64,7 @@ def get_judgement_info_for_dir(resdir):
 
 
 def judgement_info_to_df(resdir):
+  """Get system results into a dataframe"""
   all_lines = []
   for fn in sorted(os.listdir(resdir)):
     if not "response" in fn:

@@ -13,9 +13,10 @@ import prompts as pr
 import utils as ut
 
 # constants
-clrmap_dict = {"gpt-4o-mini": "Blues", "gpt-4o": "Greens", "llama-3": "Purples"}
+clrmap_dict = {"gpt-4o-mini": "Blues", "gpt-4o": "Greens",
+               "llama-3": "Purples", "llama-3.1": "Purples"}
 for ke in clrmap_dict:
-  assert ke in cf.oai_models, f"Model {ke} not in {cf.oai_models}"
+  assert ke in cf.llm_list, f"Model {ke} not in {cf.llm_list}"
 
 def plot_confusion_matrix(y_preds, y_true, labels, color_key, batch_sfx=None, normalize=None):
   cm = confusion_matrix(y_true, y_preds, normalize=normalize)
@@ -67,7 +68,7 @@ if __name__ == "__main__":
   parser.add_argument("corpus", help="Corpus to run the model on")
   parser.add_argument("model", help="Model to use for generating the response")
   args = parser.parse_args()
-  assert args.model in cf.oai_models, f"Model {args.model} not in {cf.oai_models}"
+  assert args.model in cf.llm_list, f"Model {args.model} not in {cf.llm_list}"
   assert args.batch_name in os.listdir(cf.response_base_dir), f"Results for batch {args.batch_name} not available"
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}]\n")
