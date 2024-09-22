@@ -310,3 +310,71 @@ cat_info_fr_only_few_shot = """
   - EXAMPLES: 
 {examples_12}
 """
+
+
+cat_info_fr_only_few_shot_detailed_defs = """
+- CATEGORY 0
+  - NAME: action
+  - DEFINITION: General character action. Use it only when other categories do not describe the action.  Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.
+  - EXAMPLES:
+{examples_0}
+- CATEGORY 1
+  - Name: aggression
+  - DEFINITION: Violent action. Related to notions like kill, fight, hit, suicide or threat.
+{examples_1}
+- CATEGORY 2
+  - Name: aparte
+  - DEFINITION: Aside (character addresses audience or is alone).
+  - EXAMPLES:     
+{examples_2}
+- CATEGORY 3
+  - NAME: delivery
+  - DEFINITION: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings. Can refer to notions like the character showing anger or being furious, being serious, happy, hesitant, showing enthousiasm, emotion, emphasis, being friendly, making a grimace, showing a feeling, or repeating an expression.
+  - EXAMPLES: 
+{examples_3}
+- CATEGORY 4
+  - NAME: entrance
+  - DEFINITION: Character enters stage.
+  - EXAMPLES: 
+{examples_4}
+- CATEGORY 5
+  - NAME: exit
+  - DEFINITION: Character exits. Verbs related to this type of stage direction are (in French) "se retirer", "sortir", "s'en aller" and other close verbs.
+  - EXAMPLES: 
+{examples_5}
+- CATEGORY 6
+  - NAME: interaction
+  - DEFINITION: Non-verbal character interaction. The interaction must be non-verbal, e.g. looking at, pointing at, touching, helping, pulling, pushing among other non-verbal interaction types.
+  - EXAMPLES: 
+{examples_6}
+- CATEGORY 7
+  - NAME: movement
+  - DEFINITION: Character movement (but not exit/entrance). Sometimes related to getting closer, moving away, walking away, following a character, moving back.
+  - EXAMPLES: 
+{examples_7}
+- CATEGORY 8
+  - NAME: music
+  - DEFINITION: Tune names (plays with songs). Music description.  Not used when the stage direction describes the character singing. Often starts with the word "AIR" or "Air". If it starts with these words, it is most likely a music stage direction and the content following these words is the name of the tune.
+  - EXAMPLES: 
+{examples_8}
+- CATEGORY 9
+  - NAME: narration
+  - DEFINITION: Long stage direction, with narrative quality, inteded for readers.  Generally long stage directions, they can narrate a sequence of character actions. They can also refer to noises or to weather events.
+  - EXAMPLES: 
+{examples_9}
+- CATEGORY 10
+  - NAME: object
+  - DEFINITION: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. The object may be a costume or a dress for instance. Verbs related to this category are throw, tear, get, give, dress, drop, close among others. 
+  - EXAMPLES: 
+{examples_10}
+- CATEGORY 11
+  - NAME: setting
+  - DEFINITION: Stage description or play location.
+  - EXAMPLES: 
+{examples_11}
+- CATEGORY 12
+  - NAME: toward
+  - DEFINITION: Indicates the addressee of a speech.
+  - EXAMPLES: 
+{examples_12}
+"""

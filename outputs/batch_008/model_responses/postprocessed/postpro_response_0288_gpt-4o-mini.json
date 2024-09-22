@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La direction de sc\u00e8ne 'Baptiste se sauve.' indique que Baptiste quitte la sc\u00e8ne. Cela correspond \u00e0 la cat\u00e9gorie d'exit, car l'usage de 'se sauve' implique qu'il part de la sc\u00e8ne en courant ou rapidement, ce qui est typique des directions de sortie.",
+  "confidence": 0.9,
+  "stgdir": "Baptiste se sauve.",
+  "response_time": 1485.0051403045654,
+  "model": "gpt-4o-mini",
+  "categFull": "exit"
+}

@@ -35,7 +35,7 @@ categs_as13 = ["action", "aggression", "aparte", "delivery", "entrance",
                "exit", "interaction", "movement", "music",
                "narration", "object", "setting", "toward",]
 
-prompting_modes = ["definition", "two-shot", "few-shot"]
+prompting_modes = ["definition", "two-shot", "few-shot", "def-few-shot"]
 
 llm_list = ["gpt-4o", "gpt-4o-mini", "llama-3.0", "llama-3.1"]  # , "gpt-4", "gpt-4-turbo"]
 

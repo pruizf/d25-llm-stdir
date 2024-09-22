@@ -22,7 +22,7 @@
 
 ## Data fractions
 
-- **1**: 100% of the testset from [Schneider & Ruiz (2024)](https://aclanthology.org/2024.latechclfl-1.28/), available at https://nakala.fr/10.34847/nkl.fde37ug3.
+- **1**: 100% of the testset (2923 examples) from [Schneider & Ruiz Fabo (2024)](https://aclanthology.org/2024.latechclfl-1.28/), available at https://nakala.fr/10.34847/nkl.fde37ug3.
 - **0.3 stratified**: 30% of the testset, stratified by category.
 
 ## Some notes about the batches
