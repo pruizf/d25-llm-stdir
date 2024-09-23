@@ -55,7 +55,7 @@ def eval_res(res_dir, golden_df, color_mode, batch_sfx=None):
   #gold_df = pd.read_csv(golden_fn, sep=cf.sep_test)
   ref_jmt = golden_df['categNbr'].tolist()
   labels = cf.categs_as13
-  classif_report = classification_report(ref_jmt, sys_jmt, target_names=labels)
+  classif_report = classification_report(ref_jmt, sys_jmt, target_names=labels, digits=3)
   plot_confusion_matrix(sys_jmt, ref_jmt, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
   plain_cm = confusion_matrix(ref_jmt, sys_jmt, normalize="true")
   return {"sys_res": sys_jmt, "ref_res": ref_jmt, "cm": plain_cm, "cr": classif_report}
