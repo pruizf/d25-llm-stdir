@@ -77,18 +77,26 @@ if __name__ == "__main__":
     print(f"# Processing stage direction: {idx}")
     if False and idx > 10:
       break
-    # general prompt
-    if False:
+    # general prompt (brief definition and two or three examples)
+    if args.prompt_mode == "two-shot":
       prompt = pr.gen_prompt.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
         category_details=ut.get_category_info_two_shot())
-    # prompt with definition only
-    prompt = pr.prompt_def_only.format(
-      numbered_categories=ut.number_categories(cf.categs_as13),
-      stdir=row["stgdir"],
-      category_details=catinfo.cat_info_defs_only_en)
-
+    # prompt with a detailed definition only (no examples)
+    elif args.prompt_mode == "definition":
+      prompt = pr.prompt_def_only.format(
+        numbered_categories=ut.number_categories(cf.categs_as13),
+        stdir=row["stgdir"],
+        category_details=catinfo.cat_info_defs_only_en)
+    # few-shot, with or without detailed definition
+    elif args.prompt_mode == "few-shot" or args.prompt_mode == "def-few-shot":
+      shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts)
+      prompt = pr.gen_prompt.format(
+        numbered_categories=ut.number_categories(cf.categs_as13),
+        stdir=row["stgdir"],
+        category_details=catinfo.cat_info_fr_only_few_shot.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
+          else catinfo.cat_info_fr_only_few_shot_detailed_defs.format(**shots_per_cat))
     messages = [
       {"role": "user", "content": prompt},
     ]
