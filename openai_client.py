@@ -51,6 +51,7 @@ if __name__ == "__main__":
   parser.add_argument("corpus", help="Corpus to run the model on")
   parser.add_argument("model", help="Model to use for generating the response")
   parser.add_argument("prompt_mode", help="Prompting strategy to use")
+  parser.add_argument("prompt_lang", help="Language for prompts")
   parser.add_argument("--ignore-existing", "-i", action="store_true",
                       help="Run even if results for same batch_name already exist (Used to continue an interrupted batch")
   args = parser.parse_args()
@@ -59,6 +60,7 @@ if __name__ == "__main__":
     assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
   assert args.prompt_mode in cf.prompting_modes, f"Prompting strategy {args.prompting} not in {cf.prompting_modes}"
+  assert args.prompt_lang in cf.prompting_langs, f"Prompting language {args.prompt_lang} not in {cf.prompting_langs}"
 
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}], mode [{args.prompt_mode}]\n")
 
@@ -95,24 +97,30 @@ if __name__ == "__main__":
 
     # general prompt (brief definition and two or three examples)
     if args.prompt_mode == "two-shot":
-      prompt = pr.gen_prompt.format(
+      # Note: Prompt is English, the two examples are in French, and we did
+      # not implement the choice to use a French prompt here
+      prompt_template = pr.gen_prompt if args.prompt_lang == "en" else pr.gen_prompt_fr
+      prompt = prompt_template.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
         category_details=ut.get_category_info_two_shot())
     # prompt with a detailed definition only (no examples)
     elif args.prompt_mode == "definition":
-      prompt = pr.prompt_def_only.format(
+      prompt_template = pr.prompt_def_only if args.prompt_lang == "en" else pr.prompt_def_only_fr
+      prompt = prompt_template.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=catinfo.cat_info_defs_only_en)
+        category_details=catinfo.defs_detailed_en)
     # few-shot, with or without detailed definition
     elif args.prompt_mode == "few-shot" or args.prompt_mode == "def-few-shot":
-      shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts)
-      prompt = pr.gen_prompt.format(
+      prompt_template = pr.gen_prompt if args.prompt_lang == "en" else pr.gen_prompt_fr
+      shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts, args.prompt_lang)
+      prompt = prompt_template.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=catinfo.cat_info_fr_only_few_shot.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
-          else catinfo.cat_info_fr_only_few_shot_detailed_defs.format(**shots_per_cat))
+        category_details=catinfo.few_shot_defs_simple.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
+          else catinfo.few_shot_defs_detailed.format(**shots_per_cat))
+
     completion, resp, td = get_openai_response(oa_client, args.model, prompt, cf)
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])

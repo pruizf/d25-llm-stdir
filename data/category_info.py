@@ -1,9 +1,27 @@
 """
 Examples for categories to classify stage directions against.
+
+The mention to "detailed" in variable names refers to including expressions related to labels from FreDraCor annotations in the category definitions used in the propmts.
+
+We have the following variables:
+
+- defs_detailed_en: Detailed definitions only ("detailed" in the sense described above), in English
+- defs_detailed_fr: Detailed definitions only, in French
+- two_shot_fr_en: Definitions (without details) in English and two or three examples for each language
+- two_shot_fr: Definitions (without details) in English and two or three examples in French only
+- few_shot_defs_simple: Definitions (without details) in English and examples in French only,
+  in a few-shot manner (so far 20 examples per category)
+- few_shot_defs_detailed: Detailed definitions in English and examples in French only,
+  in a few-shot manner (so far 20 examples per category)
+- few_shot_defs_detailed_fr: Detailed definitions in French and examples in French only,
+  in a few-shot manner (so far 20 examples per category)
 """
 
 
-cat_info_defs_only_en = """
+# ENGLISH PROMPTS -------------------------------------------------------------
+
+# Detailed definition, no examples
+defs_detailed_en = """
 - Category 0
   - Name: action
   - Definition: General character action. Use it only when other categories do not describe the action. Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.
@@ -46,7 +64,8 @@ cat_info_defs_only_en = """
 
 """
 
-cat_info_fr_en_two_shot = """
+# Two shot (definition without details), two to three examples
+two_shot_fr_en = """
 - Category 0
   - Name: action
   - Definition: General character action
@@ -160,7 +179,7 @@ cat_info_fr_en_two_shot = """
 
 """
 
-cat_info_fr_only_two_shot = """
+two_shot_fr = """
 - Category 0
   - Name: action
   - Definition: General character action
@@ -244,7 +263,8 @@ cat_info_fr_only_two_shot = """
     - Example 2: Au commandeur et au comte
 """
 
-cat_info_fr_only_few_shot = """
+# Few shot (definition without details)
+few_shot_defs_simple = """
 - CATEGORY 0
   - NAME: action
   - DEFINITION: General character action. Use it only when other categories do not describe the action. 
@@ -312,77 +332,8 @@ cat_info_fr_only_few_shot = """
 {examples_12}
 """
 
-cat_info_fr_only_few_shot_fr_defs = """
-- CATÉGORIE 0
-  - NOM: action
-  - DÉFINITION: Catégorie générale pour les actions des personnages. Utilisez cette catégorie uniquement lorsque d'autres catégories ne décrivent pas l'action.
-  - EXEMPLES:
-{examples_0}
-- CATÉGORIE 1
-  - NOM: aggression
-  - DÉFINITION: Action violente.
-  - EXEMPLES:
-{examples_1}
-- CATÉGORIE 2
-  - NOM: aparte
-  - DÉFINITION: Aparté (le personnage s'adresse au public ou est seul).
-  - EXEMPLES:     
-{examples_2}
-- CATÉGORIE 3
-  - NOM: delivery
-  - DÉFINITION: Décrivent comment est interprétée une réplique, par exemple en ce qui concerne la voix ou l'expression vocale d'une émotion. Utilisée également lorsque le personnage chante.
-  - EXEMPLES: 
-{examples_3}
-- CATÉGORIE 4
-  - NOM: entrance
-  - DÉFINITION: Le personnage entre en scène.
-  - EXEMPLES: 
-{examples_4}
-- CATÉGORIE 5
-  - NOM: exit
-  - DÉFINITION: Le personnage sort, quitte la scène.
-  - EXEMPLES: 
-{examples_5}
-- CATÉGORIE 6
-  - NOM: interaction
-  - DÉFINITION: Interaction non verbale entre les personnages. L'interaction doit être non verbale.
-  - EXEMPLES: 
-{examples_6}
-- CATÉGORIE 7
-  - NOM: movement
-  - DÉFINITION: Déplacement du personnage (mais pas une entrée ou sortie).
-  - EXEMPLES: 
-{examples_7}
-- CATÉGORIE 8
-  - NOM: music
-  - DÉFINITION:  Noms des airs (dans les pièces de théâtre avec des chansons), ou description de la musique. Catégorie non utilisée lorsque la didascalie fait référence à un personnage qui chante. La didascalie commence souvent par le mot « AIR » ou « Air ». Si la didascalie commence par ces mots, il s'agit très probablement d'une didascalie de cette catégorie, et les mots suivants constituent le nom de l'air.
-  - EXEMPLES: 
-{examples_8}
-- CATÉGORIE 9
-  - NOM: narration
-  - DÉFINITION: Didascalie longue, à caractère narratif, à destination des lecteurs. Généralement de longues didascalies. Elles peuvent relater une séquence d'actions des personnages. Elles peuvent également faire référence à des bruits ou à des phénomènes météorologiques.
-  - EXEMPLES: 
-{examples_9}
-- CATÉGORIE 10
-  - NOM: object
-  - DÉFINITION: Décrit un objet ou l'interaction d'un personnage avec un objet, y compris donner ou recevoir un objet ou manipuler l'objet de quelque manière que ce soit, entre autres interactions.
-  - EXEMPLES: 
-{examples_10}
-- CATÉGORIE 11
-  - NOM: setting
-  - DÉFINITION: Description de la scène ou lieu de la pièce.
-  - EXEMPLES: 
-{examples_11}
-- CATÉGORIE 12
-  - NOM: toward
-  - DÉFINITION: Indique le destinataire d'une réplique.
-  - EXEMPLES: 
-{examples_12}
-
-"""
-
-
-cat_info_fr_only_few_shot_detailed_defs = """
+# Few shot (detailed definitions)
+few_shot_defs_detailed = """
 - CATEGORY 0
   - NAME: action
   - DEFINITION: General character action. Use it only when other categories do not describe the action.  Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.
@@ -450,7 +401,54 @@ cat_info_fr_only_few_shot_detailed_defs = """
 {examples_12}
 """
 
-cat_info_fr_only_few_shot_detailed_defs_fr_defs = """
+# FRENCH PROMPTS --------------------------------------------------------------
+
+# Detailed definition, no examples
+defs_detailed_fr = """
+- Catégorie 0
+  - Nom: action
+  - Définition: Catégorie générale pour les actions des personnages. Utilisez cette catégorie uniquement lorsque d'autres catégories ne décrivent pas l'action. Quelques verbes liés à cette catégorie sont regarder, montrer, peindre, prier, sauter, lire, s'agenouiller, tomber, frapper, écrire, boire, chercher, ouvrir, manger, dormir, être debout, s'asseoir, bouger, écouter, sonner parmi d'autres.
+- Catégorie 1
+  - Nom: aggression
+  - Définition: Action violente. Liée à des notions comme tuer, se battre, frapper, le suicide ou la menace.
+- Catégorie 2
+  - Nom: aparte
+  - Définition: Aparté (le personnage s'adresse au public ou est seul).
+- Catégorie 3
+  - Nom: delivery
+  - Définition: Décrivent comment est interprétée une réplique, par exemple en ce qui concerne la voix ou l'expression vocale d'une émotion. Utilisée également lorsque le personnage chante. Peut se référer à des notions telles que le personnage montrant de la colère ou étant furieux, étant sérieux, heureux, hésitant, montrant de l'enthousiasme, de l'émotion, de l'emphase, se montrant gentil, faisant une grimace, montrant un sentiment, ou répétant une expression.
+- Catégorie 4
+  - Nom: entrance
+  - Définition: Le personnage entre en scène.
+- Catégorie 5
+  - Nom: exit
+  - Définition: Le personnage sort, quitte la scène.
+- Catégorie 6
+  - Nom: interaction
+  - Définition: Interaction non verbale entre les personnages. L'interaction doit être non verbale, par exemple regarder, pointer du doigt, toucher, aider, tirer, pousser parmi d'autres types d'interactions non verbales.
+- Catégorie 7
+  - Nom: movement
+  - Définition: Déplacement du personnage (mais pas une entrée ou sortie). Parfois lié à des notions comme s'approcher, s'éloigner, suivre un personnage, reculer.
+- Catégorie 8
+  - Nom: music
+  - Définition:  Noms des airs (dans les pièces de théâtre avec des chansons), ou description de la musique. Catégorie non utilisée lorsque la didascalie fait référence à un personnage qui chante. La didascalie commence souvent par le mot « AIR » ou « Air ». Si la didascalie commence par ces mots, il s'agit très probablement d'une didascalie de cette catégorie, et les mots suivants constituent le nom de l'air.
+- Catégorie 9
+  - Nom: narration
+  - Définition: Didascalie longue, à caractère narratif, à destination des lecteurs. Généralement de longues didascalies. Elles peuvent relater une séquence d'actions des personnages. Elles peuvent également faire référence à des bruits ou à des phénomènes météorologiques.
+- Catégorie 10
+  - Nom: object
+  - Définition: Décrit un objet ou l'interaction d'un personnage avec un objet, y compris donner ou recevoir un objet ou manipuler l'objet de quelque manière que ce soit, entre autres interactions. L'objet peut être des vêtements, des costumes. Quelques verbes liés à cette catégorie sont jeter, déchirer, obtenir, donner, habiller, laisser tomber, fermer parmi d'autres.
+- Catégorie 11
+  - Nom: setting
+  - Définition: Description de la scène ou lieu de la pièce.
+- Catégorie 12
+  - Nom: toward
+  - Définition: Indique le destinataire d'une réplique.
+
+"""
+
+# Few shot (detailed definitions)
+few_shot_defs_detailed_fr = """
 - CATÉGORIE 0
   - NOM: action
   - DÉFINITION: Catégorie générale pour les actions des personnages. Utilisez cette catégorie uniquement lorsque d'autres catégories ne décrivent pas l'action. Quelques verbes liés à cette catégorie sont regarder, montrer, peindre, prier, sauter, lire, s'agenouiller, tomber, frapper, écrire, boire, chercher, ouvrir, manger, dormir, être debout, s'asseoir, bouger, écouter, sonner parmi d'autres.
@@ -503,7 +501,7 @@ cat_info_fr_only_few_shot_detailed_defs_fr_defs = """
 {examples_9}
 - CATÉGORIE 10
   - NOM: object
-  - DÉFINITION: Décrit un objet ou l'interaction d'un personnage avec un objet, y compris donner ou recevoir un objet ou manipuler l'objet de quelque manière que ce soit, entre autres interactions. L'objet peut être des vêtements, des habits. Quelques verbes liés à cette catégorie sont jeter, déchirer, obtenir, donner, habiller, laisser tomber, fermer parmi d'autres.
+  - DÉFINITION: Décrit un objet ou l'interaction d'un personnage avec un objet, y compris donner ou recevoir un objet ou manipuler l'objet de quelque manière que ce soit, entre autres interactions. L'objet peut être des vêtements, des costumes. Quelques verbes liés à cette catégorie sont jeter, déchirer, obtenir, donner, habiller, laisser tomber, fermer parmi d'autres.
   - EXEMPLES: 
 {examples_10}
 - CATÉGORIE 11

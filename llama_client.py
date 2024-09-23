@@ -93,15 +93,15 @@ if __name__ == "__main__":
       prompt = pr.prompt_def_only.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=catinfo.cat_info_defs_only_en)
+        category_details=catinfo.defs_detailed_en)
     # few-shot, with or without detailed definition
     elif args.prompt_mode == "few-shot" or args.prompt_mode == "def-few-shot":
-      shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts)
+      shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts, "en")
       prompt = pr.gen_prompt.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=catinfo.cat_info_fr_only_few_shot.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
-          else catinfo.cat_info_fr_only_few_shot_detailed_defs.format(**shots_per_cat))
+        category_details=catinfo.few_shot_defs_simple.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
+          else catinfo.few_shot_defs_detailed.format(**shots_per_cat))
     messages = [
       {"role": "user", "content": prompt},
     ]

@@ -68,10 +68,10 @@ Pour vous aider à la classification, voici une définition de chaque catégorie
 
 Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
 
-{
+{{
   "category": "numéro de la catégorie",
   "explanation": "explication du choix"
-}
+}}
 
 Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
 
@@ -90,10 +90,10 @@ Pour vous aider à la classification, voici une définition de chaque catégorie
 
 Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
 
-{
+{{
   "category": "numéro de la catégorie",
   "explanation": "explication du choix"
-}
+}}
 
 Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
 
