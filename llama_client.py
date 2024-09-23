@@ -23,10 +23,15 @@ if __name__ == "__main__":
   parser.add_argument("batch_name", help="Batch name used as prefix on outputs")
   parser.add_argument("corpus", help="Corpus to run the model on")
   parser.add_argument("model", help="Model to use for generating the response")
+  parser.add_argument("prompt_mode", help="Prompting strategy to use")
+  parser.add_argument("--ignore-existing", "-i", action="store_true",
+                      help="Run even if results for same batch_name already exist (Used to continue an interrupted batch")
   args = parser.parse_args()
   assert args.model in cf.llm_list, f"Model {args.model} not in {cf.llm_list}"
-  assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
+  if not args.ignore_existing:
+    assert args.batch_name not in os.listdir(cf.response_base_dir), f"Batch {args.batch_name} already exists"
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
+  assert args.prompt_mode in cf.prompting_modes, f"Prompting strategy {args.prompting} not in {cf.prompting_modes}"
 
   # log gpu info
   batch_dir = os.path.join(cf.response_base_dir, args.batch_name)
