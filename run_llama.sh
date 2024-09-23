@@ -6,8 +6,9 @@
 #SBATCH -N 1
 #SBATCH -A lilpa
 ##SBATCH --gres=gpu:1
-##SBATCH --constraint="gpup100|gpuv100|gpurtx5000|gpua100"
-#SBATCH --constraint="gpup100|gpuv100|gpurtx5000|gpurtx6000|gpua100"
+##SBATCH --constraint="gpup100|gpuv100|gpurtx5000|gpua100" # 16, 32, 16, 40 GB
+##SBATCH --constraint="gpup100|gpuv100|gpurtx5000|gpurtx6000|gpua100" # 16, 32, 16, 22.7, 40 GB
+#SBATCH --constraint="gpuv100|gpurtx6000|gpua100" # 32, 22.7, 40, 48 GB
 
 # Usage: llama_client.py batch_name corpus_name model_name prompt_mode
 #   - batch_name starts with 'batch_'
