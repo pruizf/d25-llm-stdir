@@ -10,8 +10,8 @@
 | 005 | definition + "verbs" + fr |         1          | gpt-4o      |          zero-shot          |     0.71     |      0.74       | 0.73 |
 | 006 | definition + "verbs" + fr |         1          | gpt-4o-mini |          zero-shot          |     0.58     |      0.64       | 0.61 |
 | 007 | general + fr              | 0.3<br/>stratified | gpt-4o-mini | few-shot<br/>(20 per class) |     0.57     |      0.64       | 0.63 |
-| 008 | definition + "verbs" + fr  | 0.3<br/>stratified | gpt-4o-mini | few-shot<br/>(20 per class) |     0.58     |      0.65       | 0.67 |
-| 009 | definition + "verbs" + fr  | 0.3<br/>stratified | gpt-4o | few-shot<br/>(20 per class) |     0.73     |      0.79       | 0.78 |
+| 008 | general + "verbs" + fr    | 0.3<br/>stratified | gpt-4o-mini | few-shot<br/>(20 per class) |     0.58     |      0.65       | 0.67 |
+| 009 | general + "verbs" + fr    | 0.3<br/>stratified | gpt-4o | few-shot<br/>(20 per class) |     0.73     |      0.79       | 0.78 |
 | 102 | definition + "verbs" + fr |         1          | llama-3     |          zero-shot          |     0.43     |      0.52       | 0.49 |
 | 103 | definition + "verbs" + fr |         1          | llama-3.1   |          zero-shot          |     0.56     |      0.63       | 0.61 |
 
