@@ -1,5 +1,5 @@
 """
-Examples for categories to classify stage directions against.
+Informations about categories to classify stage directions against.
 
 The mention to "detailed" in variable names refers to including expressions related to labels from FreDraCor annotations in the category definitions used in the propmts.
 
@@ -15,6 +15,10 @@ We have the following variables:
   in a few-shot manner (so far 20 examples per category)
 - few_shot_defs_detailed_fr: Detailed definitions in French and examples in French only,
   in a few-shot manner (so far 20 examples per category)
+
+In few-shot prompts, the examples are inserted in the client, applying the
+`.format()` method with the output of the `ut.format_examples_for_few_shot_prompt` function.
+
 """
 
 

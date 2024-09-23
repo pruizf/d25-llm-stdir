@@ -21,7 +21,8 @@
 - **general**: Classification prompt with a short definition and a varying number of examples for each category.
 - **definition**: A short definition is given for each category, without examples.
 - **"verbs"**: A list of expressions (but not stage directions, not direct examples) that may be related to the category is given.
-- **fr**: The prompt explicitly mentions that the text to classify is in French. The reasoning is that we asked the models to generate a text to "explain" each classification, and in some ambiguous cases like "Evelyn sort" it (gpt-4o-mini) was interpreting the text as English (as a way of "sorting" something) instead of French (as someone exiting).
+- **fr**: The prompt explicitly mentions that the text to classify is in French. The reasoning is that we asked the models to generate a text to "explain" each classification, and in some ambiguous cases like "Evelyn sort",gpt-4o-mini was interpreting the text as English (as a way of "sorting" something) instead of French (as someone exiting).
+- **frPrompt**: The prompt is written in French. This makes it superfluous to mention that the text to classify is in French.
 
 ## Data fractions
 
