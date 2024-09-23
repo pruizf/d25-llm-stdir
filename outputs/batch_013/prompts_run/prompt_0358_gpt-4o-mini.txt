@@ -1,0 +1,346 @@
+
+Classifiez la didascalie suivante dans l'une des catégories fournies ci-dessous :
+
+Didascalie : Air : Lon la landerirette.
+
+Liste des catégories :
+0. action
+1. aggression
+2. aparte
+3. delivery
+4. entrance
+5. exit
+6. interaction
+7. movement
+8. music
+9. narration
+10. object
+11. setting
+12. toward
+
+Pour vous aider à la classification, voici une définition de chaque catégorie avec quelques exemples :
+
+- CATÉGORIE 0
+  - NOM: action
+  - DÉFINITION: Catégorie générale pour les actions des personnages. Utilisez cette catégorie uniquement lorsque d'autres catégories ne décrivent pas l'action. Quelques verbes liés à cette catégorie sont regarder, montrer, peindre, prier, sauter, lire, s'agenouiller, tomber, frapper, écrire, boire, chercher, ouvrir, manger, dormir, être debout, s'asseoir, bouger, écouter, sonner parmi d'autres.
+  - EXEMPLES:
+    - Il fouille dans sa poche. // Catégorie: 0
+    - En montrant la colonne. // Catégorie: 0
+    - Montrant Pierrot. // Catégorie: 0
+    - Levant les yeux au ciel. // Catégorie: 0
+    - Il frappe à la porte d'Isabelle. // Catégorie: 0
+    - II ouvre le treillage, et l'on voit la Comtesse à la place de la statue. // Catégorie: 0
+    - Il frappe à sa porte. // Catégorie: 0
+    - Elle tire de sa poche un coffre dans lequel est un écrin de diamants. // Catégorie: 0
+    - Le Comte lit. // Catégorie: 0
+    - Montrant la fenêtre qui n'est pas éclairée. // Catégorie: 0
+    - Elle ouvre le médaillon, et fait voir à la Comtesse le portrait de Napoléon. // Catégorie: 0
+    - Job écarte lé drap noir avec épouvante. Les hommes masqués le laissent faire. Le comte lève le suaire et voit une figure pâle. C'est Régina. // Catégorie: 0
+    - Tamarin tire un billet. // Catégorie: 0
+    - Il se remet en attitude. // Catégorie: 0
+    - Indiquant du geste. // Catégorie: 0
+    - Il lit en lui donnant la main. // Catégorie: 0
+    - Il fouille dans ses poches et en tire un papier. // Catégorie: 0
+    - Il lit en parcourant. // Catégorie: 0
+    - Le Courtisan la regarde sans répondre. // Catégorie: 0
+    - Elle se lève de genoux. // Catégorie: 0
+- CATÉGORIE 1
+  - NOM: aggression
+  - DÉFINITION: Action violente. Liée à des notions comme tuer, se battre, frapper, le suicide ou la menace.
+  - EXEMPLES:
+    - Il prend Hector à la cravate. // Catégorie: 1
+    - Luville voyant Delval foncer sur lui, rompt précipitamment, dans la crainte de le blesser, Delval saute au désarmement, et lui ôte son épée. // Catégorie: 1
+    - Roger doit avoir les armes de Léon, sous lesquelles il avait combattu. // Catégorie: 1
+    - Ils se battent en finissant le deuxième acte. // Catégorie: 1
+    - Il frappe le chapeau trois fois avec son bâton. // Catégorie: 1
+    - Elle bande un autre arc dont elle s'arme à son tour. // Catégorie: 1
+    - Il lui découd la boudouille d'un terrible coup d'épée. // Catégorie: 1
+    - Là ils se battent. // Catégorie: 1
+    - Les Esclaves armés sont remplacés par les esclaves sans armes. // Catégorie: 1
+    - Il prend son épée par la pointe et l'élève au-dessus de sa tête. // Catégorie: 1
+    - Il met la main sur la garde de son épée. // Catégorie: 1
+    - Il veut encore prendre son épée. // Catégorie: 1
+    - Elle lui plonge le coutelas dans le corps, et paraît vouloir le séparer en deux comme pour le dévorer ; les soldats attirés de nouveau par la faim, reviennent, et l'un d'eux, en se reculant d'horreur, dit à l'arrière-scène : // Catégorie: 1
+    - Elle tire un poignard sur son sein. // Catégorie: 1
+    - Ils se tuent. // Catégorie: 1
+    - Là, Maître Godard le menace, encor, du geste, et Champagne poursuit, après. // Catégorie: 1
+    - Elle se frappe. // Catégorie: 1
+    - Là, ils recommencent de le battre. // Catégorie: 1
+    - Elle porte la bague à ses lèvres. // Catégorie: 1
+    - En même temps, il donne des coups de batte sur l'estomac des Ogres. // Catégorie: 1
+- CATÉGORIE 2
+  - NOM: aparte
+  - DÉFINITION: Aparté (le personnage s'adresse au public ou est seul).
+  - EXEMPLES:     
+    - Elle dit ces mots un peu éloignée des autres. // Catégorie: 2
+    - Étant seule. // Catégorie: 2
+    - Le Capitan seul. // Catégorie: 2
+    - À part, avec ironie. // Catégorie: 2
+    - Aparte. // Catégorie: 2
+    - Il continue, étant seul. // Catégorie: 2
+    - Antoine, ce vieux Serviteur plein de zèle et d'affection pour son maître, reste seul dans la tente ; il déplace tout en voulant le mettre en ordre, il écoute de temps en temps les différents [qui] indiquent la situation des deux armées. // Catégorie: 2
+    - Croyant être seule. // Catégorie: 2
+    - À lui-même. // Catégorie: 2
+    - À part // Catégorie: 2
+    - Puis, étant seul. // Catégorie: 2
+    - Elle est seule. // Catégorie: 2
+    - Il demeure seul. // Catégorie: 2
+    - Parlant à part à son Capitaine des Gardes. // Catégorie: 2
+    - Un domestique vient lui dire que son carrosse est prêt. // Catégorie: 2
+    - Restée seule. // Catégorie: 2
+    - À Picard. // Catégorie: 2
+    - Puis à part. // Catégorie: 2
+    - [Ostorius continue en aparté, en pensant à Sarcide]. // Catégorie: 2
+    - [À part.] // Catégorie: 2
+- CATÉGORIE 3
+  - NOM: delivery
+  - DÉFINITION: Décrivent comment est interprétée une réplique, par exemple en ce qui concerne la voix ou l'expression vocale d'une émotion. Utilisée également lorsque le personnage chante. Peut se référer à des notions telles que le personnage montrant de la colère ou étant furieux, étant sérieux, heureux, hésitant, montrant de l'enthousiasme, de l'émotion, de l'emphase, se montrant gentil, faisant une grimace, montrant un sentiment, ou répétant une expression.
+  - EXEMPLES: 
+    - Tout bas. // Catégorie: 3
+    - D'une voix caverneuse. // Catégorie: 3
+    - Ribercour continue. // Catégorie: 3
+    - Elle chante cet air italien. // Catégorie: 3
+    - La suite de Bacchus danse. // Catégorie: 3
+    - Ces deux vers bas. // Catégorie: 3
+    - On entend crier en dehors. // Catégorie: 3
+    - Il prélude. // Catégorie: 3
+    - Julie rit. // Catégorie: 3
+    - Elle pleure en sanglotant. // Catégorie: 3
+    - Baissant la voix. // Catégorie: 3
+    - Criant au travers de la porte. // Catégorie: 3
+    - Alors Dieu menacera te serpent, en disant : // Catégorie: 3
+    - Les Rossignols de la Grotte de Versailles mêlent leurs Concerts à celui de plusieurs Instruments Champêtres, et les Bergères Iris et Caliste joignent leurs voix ensemble pour leur répondre. // Catégorie: 3
+    - Il chante sur un Vaudeville. // Catégorie: 3
+    - Il répète encore ces quatre derniers vers. // Catégorie: 3
+    - Il appelle André. // Catégorie: 3
+    - Achevant l'air. // Catégorie: 3
+    - L'enfant pleure. // Catégorie: 3
+    - Sainte Cécile chante. // Catégorie: 3
+- CATÉGORIE 4
+  - NOM: entrance
+  - DÉFINITION: Le personnage entre en scène.
+  - EXEMPLES: 
+    - Ils entrent d'un pas dégagé l'un du jardin, l'autre de la cour. // Catégorie: 4
+    - Entrée de jardiniers qui portent leurs corbeilles à Lucile. // Catégorie: 4
+    - Il entre dans la maison de Caton. // Catégorie: 4
+    - Roseline paraît au bout du théâtre. // Catégorie: 4
+    - ENTRÉE. // Catégorie: 4
+    - Chompré paraît. // Catégorie: 4
+    - II. Entrée du Flamand et de la Flamande. // Catégorie: 4
+    - Elle arrive par la porte de droite, et va d'abord écouter au pan de la cloison. // Catégorie: 4
+    - Alphée et Arethuse sortent des enfers. // Catégorie: 4
+    - Une tête de vieillard couronnée, à barbe ruisselante, est apparue dans l'encadrement, à la lueur d'un éclair. // Catégorie: 4
+    - Un médecin entre. // Catégorie: 4
+    - Ils entrent avec précaution. // Catégorie: 4
+    - Ici un page et deux dames masquées précédent Olympe avec deux flambeaux. // Catégorie: 4
+    - Le Comte de Salsbury entre. // Catégorie: 4
+    - Elle entre par le côté opposé à celui où est sortie Julie. Elle est coiffée en cheveux avec des rubans et porte une toilette élégante. // Catégorie: 4
+    - Illo paraît avec des soldats. // Catégorie: 4
+    - Nouvelle apparition. // Catégorie: 4
+    - Vénus et Momus paraissent sur la scène. // Catégorie: 4
+    - Crispin entre seul. // Catégorie: 4
+    - Alain rentre. // Catégorie: 4
+- CATÉGORIE 5
+  - NOM: exit
+  - DÉFINITION: Le personnage sort, quitte la scène.
+  - EXEMPLES: 
+    - Elle sort avec le choeur. // Catégorie: 5
+    - Tous sortent excepté Molière. // Catégorie: 5
+    - Et quand ils sont partis. // Catégorie: 5
+    - La magie se retire. // Catégorie: 5
+    - Deux druides sortent. // Catégorie: 5
+    - Sophar rentre dans la maison. // Catégorie: 5
+    - Elle sort avec Carabosse. // Catégorie: 5
+    - Oropaste sort. // Catégorie: 5
+    - Sortie par la droite. // Catégorie: 5
+    - Emire sort. // Catégorie: 5
+    - Cléante sort d'un côté, et Dymas de l'autre, environ quatre vers après Cléante. // Catégorie: 5
+    - Un Chariot sort. // Catégorie: 5
+    - Il sort avec le Commandeur et le Comte. // Catégorie: 5
+    - Julie sort. // Catégorie: 5
+    - Ils sortent avec les valets et les flambeaux. Le duc précédant le roi une cire à la main. // Catégorie: 5
+    - Killegre sort. // Catégorie: 5
+    - Villiers disparaît. // Catégorie: 5
+    - Ariane sort. // Catégorie: 5
+    - Rosalie et Picard sortent. // Catégorie: 5
+    - On donne congé au notaire. // Catégorie: 5
+- CATÉGORIE 6
+  - NOM: interaction
+  - DÉFINITION: Interaction non verbale entre les personnages. L'interaction doit être non verbale, par exemple regarder, pointer du doigt, toucher, aider, tirer, pousser parmi d'autres types d'interactions non verbales.
+  - EXEMPLES: 
+    - Elle va chercher les enfants et les amène. // Catégorie: 6
+    - Il lui met la main dans la poche // Catégorie: 6
+    - Lui prenant le pouls. // Catégorie: 6
+    - Il embrasse sa fille. // Catégorie: 6
+    - Lui baisant la bouche. // Catégorie: 6
+    - Le poussant du coude. // Catégorie: 6
+    - Les lutins veulent rebrousser et reporter Léandre dans l'Île Noire. // Catégorie: 6
+    - Elle prend contre lui toutes les précautions imaginables. // Catégorie: 6
+    - Elle prend une main de Pauline. // Catégorie: 6
+    - Phénice lui frappe sur l'épaule. // Catégorie: 6
+    - Les suivants d'Arcalaüs emmènent Corisande. // Catégorie: 6
+    - Elle se frotte la joue. // Catégorie: 6
+    - Madame La Thorillière arrive repoussant tout le monde. // Catégorie: 6
+    - Arnolphe lui prend la main sans qu'elle le reconnaisse. // Catégorie: 6
+    - Valcour pousse vivement Florval. // Catégorie: 6
+    - Il désigne son coeur. // Catégorie: 6
+    - Il l'embrasse encore. // Catégorie: 6
+    - Ils s'embrassent. // Catégorie: 6
+    - Elle prend la main de l'aîné. // Catégorie: 6
+    - Elle va aussi pour l'embrasser. // Catégorie: 6
+- CATÉGORIE 7
+  - NOM: movement
+  - DÉFINITION: Déplacement du personnage (mais pas une entrée ou sortie). Parfois lié à des notions comme s'approcher, s'éloigner, suivre un personnage, reculer.
+  - EXEMPLES: 
+    - Mercure veut s'en aller. // Catégorie: 7
+    - Ils le suivent. // Catégorie: 7
+    - Il va vers Arons. // Catégorie: 7
+    - Ils veulent tous s'en aller. // Catégorie: 7
+    - Sur un signe de Berthe, les jeunes filles s'approchent d'Antoinette. // Catégorie: 7
+    - Il s'enfuit. // Catégorie: 7
+    - Il se tire à l'écart. // Catégorie: 7
+    - Polidor doit avoir suivi Tirsis. // Catégorie: 7
+    - Ils l'entourent tous ensemble. // Catégorie: 7
+    - Elle va pour s'en aller. // Catégorie: 7
+    - Revenant à Gourville l'aîné. // Catégorie: 7
+    - Catherine s'avance vers François. // Catégorie: 7
+    - Pierrot et les sauvages s'en retournent avec le Gougou. // Catégorie: 7
+    - Il continue en marchant. // Catégorie: 7
+    - Il se dispose à s'en aller. // Catégorie: 7
+    - Ils s'approchent de lui. // Catégorie: 7
+    - S'approchant de Julie et de Miss Jackson. // Catégorie: 7
+    - Elle agit en parlant. // Catégorie: 7
+    - Elle veut s'éloigner. // Catégorie: 7
+    - Ils rapprochent les feuilles et lisent très vite. // Catégorie: 7
+- CATÉGORIE 8
+  - NOM: music
+  - DÉFINITION: Noms des airs (dans les pièces de théâtre avec des chansons), ou description de la musique. Catégorie non utilisée lorsque la didascalie fait référence à un personnage qui chante. La didascalie commence souvent par le mot « AIR » ou « Air ». Si la didascalie commence par ces mots, il s'agit très probablement d'une didascalie de cette catégorie, et les mots suivants constituent le nom de l'air.
+  - EXEMPLES: 
+    - Stances. // Catégorie: 8
+    - Antistrophe VI. // Catégorie: 8
+    - Air : La rose et le bouton. // Catégorie: 8
+    - Air. Allez donc, jouez violon. // Catégorie: 8
+    - Air : Comment faire. // Catégorie: 8
+    - AIR 76. ( Ha, qui vous a, qui vous ai qui vous a. ) // Catégorie: 8
+    - AIR d'Yelva. // Catégorie: 8
+    - Air : Belle Chanoinesse. // Catégorie: 8
+    - SEXTUOR. // Catégorie: 8
+    - AIR : Je veux une robe. // Catégorie: 8
+    - AIR 202 : Gorgones de Persée. // Catégorie: 8
+    - Air : Babet que t'es gentille. // Catégorie: 8
+    - AIR. Un jour le malheureux Lisandre. // Catégorie: 8
+    - Symphonie. // Catégorie: 8
+    - III COUPLET. // Catégorie: 8
+    - Air tendre. // Catégorie: 8
+    - Air : Point de bruit, etc. // Catégorie: 8
+    - AIR : Donnez, Amants, mais donnez bien. // Catégorie: 8
+    - Air : Fournissez un canal au ruisseau. // Catégorie: 8
+    - COUPLETS. // Catégorie: 8
+- CATÉGORIE 9
+  - NOM: narration
+  - DÉFINITION: Didascalie longue, à caractère narratif, à destination des lecteurs. Généralement de longues didascalies. Elles peuvent relater une séquence d'actions des personnages. Elles peuvent également faire référence à des bruits ou à des phénomènes météorologiques.
+  - EXEMPLES: 
+    - Une tempête survient. // Catégorie: 9
+    - Le paysan veut à son tour prendre Ninette ; mais l'âne, qui s'impatiente, commence à sauter et lancer des ruades à droite et à gauche. Le paysan, pour en éviter une dans le ventre, se retourne et la reçoit dans le derrière. Ninette, qui, pendant ce débat, n'a cessé de crier Maman ! pique son âne et se sauve en disant : // Catégorie: 9
+    - Il lui arrache sa perruque de dessus la tête. Frac est d'abord tout interdit de se trouver sans perruque ; mais il prend son parti et en lève celle de Tressant, qui métamorphose à son tour en enfant de choeur ; et il se sauve en se coiffant avec. Les bras tombent au sublime Monsieur Tressant, et Madame Lavade et le garçon de boutique étouffent de rire de voir cette tête pelée et cette figure stupidement étonnée ne pas songer seulement à se couvrir de celle qu'il vient d'ôter au tailleur, et qu'il tient encore dans sa main. // Catégorie: 9
+    - On entend des tambours. // Catégorie: 9
+    - Le fiacre franchit des obstacles, disperse des piétons aux épaules rondes, et les lumières, lancées comme des boules de feu, éclatent sur ses vitres et s'éteignent. // Catégorie: 9
+    - La bouteille d'Aï achevée, la Marquise, le Chevalier, le Président, Eglante, le Baron se lèvent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures. // Catégorie: 9
+    - Le Théâtre représente un paysage agreste, orné de quelques maisons ; celle de Monsieur de Kerkabon est la première, à gauche ; la seconde appartient à Monsieur de Saint-Yves ; elles sont à peu de distance l'une de l'autre, et seulement séparées par quelques arbres, annonçant une avenue. Le fond du théâtre est occupé par trois collines opposées. Au dessus de la seconde, à droite du spectateur, s'élève un mur de couvent, hérissé de pointes de fer, et renfermant une espèce de parc, à l'extrémité duquel on aperçoit une partie du monastère, surmonté d'un clocher en dehors. Sur le portail attenant au mur de clôture, on lit : COUVENT DES URSULINES. Le reste de la scène est orné de groupes d'arbres, de gazons, de fleurs, de berceaux, etc. etc. // Catégorie: 9
+    - Sa tête tombe sur sa poitrine; il sort à pas lents par le fond du théâtre. Otbert, qui est entré depuis quelques instants, le suit des yeux. Le mendiant s'enfonce sous les arcades de la galerie. Tout à coup le visage d'Otbert s'éclaire d'une expression de joie et de surprise. Régina apparaît au fond du théâtre, du côté opposé à celui par lequel le mendiant est sorti. Régina radieuse de bonheur et de santé. // Catégorie: 9
+    - Thérèse. restée seule, demeure un instant immobile, regardant autour d'elle, respirant enfin. Jeu muet. Elle descend la scène, s'étire dans un geste de lassitude et d'ennui. Puis, elle entend Laurent entrer par la petite porte, à gauche, et elle sourit, frémissante d'une joie subite. - Pendant cette scène, la nuit se fait de plus en plus. // Catégorie: 9
+    - Pendant qu'il songe, les yeux baissés, Maximienne a détaché l'agrafe qui retenait sur l'épaule droite son manteau blanc, de la même blancheur que la tunique ; elle le jette sur le dossier de la bancelle, et apparaît les bras nus et couverts de bracelets, le cou un peu dévêtu et ceint d'un collier, d'où pendent sur sa poitrine deux petites bulles d'argent, pareilles à des grelots. Toute riante, les mains en avant, elle s'approche de Théodat, qui sursaute, lui échappe et vient s'appuyer contre la bancelle, où elle le rejoint, suppliante. // Catégorie: 9
+    - Le ciel s'éclaircit, l'orage cesse, et la mer s'apaise. // Catégorie: 9
+    - Il se met dans le confessionnal ; Girolamo va ouvrir la porte à droite ; entre Loretta couverte d'un voile. Elle s'approche, du confessionnal, s'agenouille et commence sa prière. Girolamo est sorti. // Catégorie: 9
+    - Cette scène est encore italienne et étrangère au sujet de la pièce : elle consiste en jeux de théâtre et lazzis italiens entre Pierrot et Pasquariel, qui sont amoureux l'un et l'autre de Marinette. Leur rivalité et leurs querelles font l'objet de cette scène. // Catégorie: 9
+    - Il frappe de nouveau des mains. // Catégorie: 9
+    - Ici il se fait un grand tintamarre de Trompettes et de Tambours, ils tournent derrière le théâtre du côté du Château, et l'on entend que le bruit. // Catégorie: 9
+    - Melpomène qui préside à la tragédie et Euterpe qui a inventé l'Harmonie pastorale s'avancent sur deux nuages. Melpomène paraît au milieu de plusieurs trophées d'armes ; et Euterpe environnée de festons et de couronnes de fleurs. Elles sont précédées de deux symphonies opposées, dont l'une est très forte, et l'autre extrêmement douce, et qui forment une espèce de combat, tandis que les deux muses viennent se placer aux deux côtés de Polymnie pour la prier d'embellir les divertissements qu'elles veulent préparer. // Catégorie: 9
+    - Dans cette obscurité soudaine, l'Envie sort de son antre qui s'ouvre au milieu du théâtre : elle évoque le monstrueux Serpent Python, qui paraît dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumière qui éclaire le théâtre : elle appelle les Vents les plus impétueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous après avoir volé et s'être croisés dans l'air, viennent se ranger autour d'elle, pour l'aider à troubler les beaux jours que le Soleil donne au monde. // Catégorie: 9
+    - Le Ciel s'ouvre. // Catégorie: 9
+    - Bruit de cloches au loin. // Catégorie: 9
+    - Aussitôt il fait comme s'il relevait ses cheveux sous son chapeau et, prenant sa secousse, il est prêt à se précipiter dans la gueule de l'animal, quand il s'arrête tout d'un coup et dit à Léandre : // Catégorie: 9
+- CATÉGORIE 10
+  - NOM: object
+  - DÉFINITION: Décrit un objet ou l'interaction d'un personnage avec un objet, y compris donner ou recevoir un objet ou manipuler l'objet de quelque manière que ce soit, entre autres interactions. L'objet peut être des vêtements, des costumes. Quelques verbes liés à cette catégorie sont jeter, déchirer, obtenir, donner, habiller, laisser tomber, fermer parmi d'autres.
+  - EXEMPLES: 
+    - La pesant. // Catégorie: 10
+    - Alphonse lui donne la rose qu'il tient à la main. // Catégorie: 10
+    - Ils se jettent à genoux, // Catégorie: 10
+    - Elles présentent des Lys et des Lauriers. // Catégorie: 10
+    - Il met la perruque, puis, la robe de chambre du côté qui n'est pas noir. // Catégorie: 10
+    - Il ajuste son col. // Catégorie: 10
+    - Elle laisse tomber la plume. // Catégorie: 10
+    - Prenant une lettre ouverte. // Catégorie: 10
+    - Le Démon donne à Aristandre la robe qu'il a apportée. // Catégorie: 10
+    - Il remet une lettre à Arétaphile. // Catégorie: 10
+    - Il se met l'habit. // Catégorie: 10
+    - Ils remplissent leurs poches. // Catégorie: 10
+    - Elle tire de son doigt une petite bague. // Catégorie: 10
+    - Déchirant la requête. // Catégorie: 10
+    - Elle laisse l'épée à la main de Théodat. // Catégorie: 10
+    - Il ôte le paletot et le jette à terre. Il en fait ensuite autant de la perruque. // Catégorie: 10
+    - Il lui donne un livre. // Catégorie: 10
+    - Il lui met un bracelet. // Catégorie: 10
+    - Le Marquis est en frac fort simple. Lépine et les Laquais ont des habits gris galonnés en argent, et des chapeaux avec des plumets blancs. // Catégorie: 10
+    - Il ôte ses gants. // Catégorie: 10
+- CATÉGORIE 11
+  - NOM: setting
+  - DÉFINITION: Description de la scène ou lieu de la pièce.
+  - EXEMPLES: 
+    - Elle approche de l'armoire. // Catégorie: 11
+    - Le théâtre représente une campagne et la maison de Pantalon. // Catégorie: 11
+    - Cette scène est dans une salle préparée pour un bal, où il y a compagnie, et des violons. // Catégorie: 11
+    - On apporte un fauteuil au Parterre. // Catégorie: 11
+    - Le théâtre change et représente les rivages du Nil et l'un des embranchements par où ce fleuve entre dans la mer. // Catégorie: 11
+    - Cette présentation et la suivante ont lieu au fond du théâtre. Georges seul descend la scène. // Catégorie: 11
+    - Claudine et Lucas sont dans le fond du Théâtre. // Catégorie: 11
+    - Le Théâtre représente un salon à manger. L'action se passe sur les sept heures du soir. // Catégorie: 11
+    - Le Théâtre représente un endroit du Palais de Mélisse, borné de la mer. // Catégorie: 11
+    - Le Théâtre représente une vue de Rome, on apperçoit le pont Sublicius et une des principales portes. Dans l'intervalle qui sépare la Tibre des murs de la ville est un tombeau élevé à Brutus, Le camp de Porsenna se distingue dans le lointain. // Catégorie: 11
+    - La scène change. // Catégorie: 11
+    - Le théâtre représente un palais. // Catégorie: 11
+    - Le théâtre représente un des carrefours de la Foire. // Catégorie: 11
+    - Le Théâtre représente une prison. // Catégorie: 11
+    - La scène se passe sur la terrasse, qui est derrière l'église d'Uzès. Au fond le pavillon de Racine ; à droite, la boutique de Courtès ; à gauche, la maison de Georges. // Catégorie: 11
+    - Il s'avance pour traverser les flammes. // Catégorie: 11
+    - La scène représente l'appartement de Florville, aussi dénué que celui de Béverley, avec de vieux tableaux. // Catégorie: 11
+    - Revenant sur le devant de la scène. // Catégorie: 11
+    - Ils se promènent de long en large sur le Théâtre, en attendant que les Comédiens arrivent. // Catégorie: 11
+    - C'est une grande salle aux baies romanes, étroites, hautes et profondes. Les murs sont tendus de tapis et le plafond, de toiles peintes : sur les tapis d'un sombre jaune, des lions rouges dardent leurs langues, ainsi que des flammes, et le bleu des toiles peintes est semé d'étoiles d'or, comme un firmament, et de croix d'or, comme un paradis. Tout autour, le long des murs, s'applique un banc recouvert d'une draperie pourpre, et en quatre endroits ce banc est coupé : par le lit de bronze, incliné de la tête aux pieds ; il est bas et large, porte un seul coussin ; au-dessus pend une lampe d'argile rouge ; — par la haute cheminée où flambent d'énormes bûches de hêtres et des troncs résineux de sapin ; — par le bahut peint où se voient représentées, en des couleurs vives, des scènes de l'Evangile - par un orgue emboîté dans la muraille, et qui fait face à la cheminée. Les briques du pavage sont de forme octogone. Devant le lit, il y a un escabeau avec une marche pour s'agenouiller, et, devant le feu, une large bancelle à dossier. Vêtu de la robe verte épiscopale, à demi-cachée par la dalmatique blanche brodée d'or, l'évêque est à genoux, la tête dans ses mains qui s'appuient à l'escabeau. Les clercs, en tunique noire, prient également, agenouillés devant le banc circulaire. Le jour s'achève ; Paulin, sur un signe de l'évêque, allume la lampe d'argile, car il n'est pas bon que les hommes assemblés restent dans les ténèbres ; mais l'âtre éclaire la grande salle bien plus que la petite lampe ; à ses larges et momentanés flamboiements, les lions s'agitent, les étoiles luisent, les croix d'or du plafond resplendissent. On n'entend que le crépitement de la mèche dans l'huile de faines, le ronronnement du foyer, le murmure bas des voix lentes, priantes, le halètement contenu des poitrines sonnant sous les poings qui les martèlent. // Catégorie: 11
+- CATÉGORIE 12
+  - NOM: toward
+  - DÉFINITION: Indique le destinataire d'une réplique.
+  - EXEMPLES: 
+    - Au bijoutier. // Catégorie: 12
+    - À Kerlonte. // Catégorie: 12
+    - À Gaston. // Catégorie: 12
+    - À Bérénice. // Catégorie: 12
+    - À Mascarille. // Catégorie: 12
+    - À Pigmalion. // Catégorie: 12
+    - À Énée. // Catégorie: 12
+    - Aux deux jeunes gens. // Catégorie: 12
+    - À Alcipe. // Catégorie: 12
+    - À Alceste. // Catégorie: 12
+    - Au colonel. // Catégorie: 12
+    - À Madame Germain. // Catégorie: 12
+    - À tout le monde. // Catégorie: 12
+    - À Sudmer. // Catégorie: 12
+    - À Lisidan. // Catégorie: 12
+    - À Blanche. // Catégorie: 12
+    - À Anselme. // Catégorie: 12
+    - À Brutus. // Catégorie: 12
+    - Aux Villageois. // Catégorie: 12
+    - À Hauteroche. // Catégorie: 12
+
+
+
+Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
+
+{
+  "category": "numéro de la catégorie",
+  "explanation": "explication du choix"
+}
+
+Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
+

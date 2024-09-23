@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie d\u00e9crit des mouvements des personnages. Elle indique qu'un personnage 's'assied \u00e0 table' et que d'autres personnages 'vont et viennent', ce qui correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'movement' qui concerne le d\u00e9placement des personnages (mais pas une entr\u00e9e ou sortie de sc\u00e8ne).",
+  "confidence": 0.9,
+  "stgdir": "Il s'assied \u00e0 table. Lafor\u00eat et de Brie vont et viennent par la porte du fond, et apportent une collation.",
+  "response_time": 1858.7243556976318,
+  "model": "gpt-4o",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique du personnage qui consiste \u00e0 \u00f4ter ses gants puis \u00e0 les remettre, ce qui implique un d\u00e9placement de ses mains. C'est un acte physique et de manipulation qui est mieux classifi\u00e9 sous la cat\u00e9gorie 'movement', car il ne s'agit pas d'une entr\u00e9e ou d'une sortie de sc\u00e8ne, ni d'une action verbale ou d'une interaction avec un autre personnage.",
+  "confidence": 0.9,
+  "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+  "response_time": 2130.6586265563965,
+  "model": "gpt-4o-mini",
+  "categFull": "movement"
+}

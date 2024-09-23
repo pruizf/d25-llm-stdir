@@ -1,0 +1,73 @@
+
+Classifiez la didascalie suivante dans l'une des catégories fournies ci-dessous :
+
+Didascalie : À Clidamis.
+
+Liste des catégories :
+0. action
+1. aggression
+2. aparte
+3. delivery
+4. entrance
+5. exit
+6. interaction
+7. movement
+8. music
+9. narration
+10. object
+11. setting
+12. toward
+
+Pour vous aider à la classification, voici une définition de chaque catégorie:
+
+- Catégorie 0
+  - Nom: action
+  - Définition: Catégorie générale pour les actions des personnages. Utilisez cette catégorie uniquement lorsque d'autres catégories ne décrivent pas l'action. Quelques verbes liés à cette catégorie sont regarder, montrer, peindre, prier, sauter, lire, s'agenouiller, tomber, frapper, écrire, boire, chercher, ouvrir, manger, dormir, être debout, s'asseoir, bouger, écouter, sonner parmi d'autres.
+- Catégorie 1
+  - Nom: aggression
+  - Définition: Action violente. Liée à des notions comme tuer, se battre, frapper, le suicide ou la menace.
+- Catégorie 2
+  - Nom: aparte
+  - Définition: Aparté (le personnage s'adresse au public ou est seul).
+- Catégorie 3
+  - Nom: delivery
+  - Définition: Décrit comment est interprétée une réplique, par exemple en ce qui concerne la voix ou l'expression vocale d'une émotion. Utilisée également lorsque le personnage chante. Peut se référer à des notions telles que le personnage montrant de la colère ou étant furieux, étant sérieux, heureux, hésitant, montrant de l'enthousiasme, de l'émotion, de l'emphase, se montrant gentil, faisant une grimace, montrant un sentiment, ou répétant une expression.
+- Catégorie 4
+  - Nom: entrance
+  - Définition: Le personnage entre en scène.
+- Catégorie 5
+  - Nom: exit
+  - Définition: Le personnage sort, quitte la scène.
+- Catégorie 6
+  - Nom: interaction
+  - Définition: Interaction non verbale entre les personnages. L'interaction doit être non verbale, par exemple regarder, pointer du doigt, toucher, aider, tirer, pousser parmi d'autres types d'interactions non verbales.
+- Catégorie 7
+  - Nom: movement
+  - Définition: Déplacement du personnage (mais pas une entrée ou sortie). Parfois lié à des notions comme s'approcher, s'éloigner, suivre un personnage, reculer.
+- Catégorie 8
+  - Nom: music
+  - Définition:  Noms des airs (dans les pièces de théâtre avec des chansons), ou description de la musique. Catégorie non utilisée lorsque la didascalie fait référence à un personnage qui chante. La didascalie commence souvent par le mot « AIR » ou « Air ». Si la didascalie commence par ces mots, il s'agit très probablement d'une didascalie de cette catégorie, et les mots suivants constituent le nom de l'air.
+- Catégorie 9
+  - Nom: narration
+  - Définition: Didascalie longue, à caractère narratif, à destination des lecteurs. Généralement de longues didascalies. Elles peuvent relater une séquence d'actions des personnages. Elles peuvent également faire référence à des bruits ou à des phénomènes météorologiques.
+- Catégorie 10
+  - Nom: object
+  - Définition: Décrit un objet ou l'interaction d'un personnage avec un objet, y compris donner ou recevoir un objet ou manipuler l'objet de quelque manière que ce soit, entre autres interactions. L'objet peut être des vêtements, des costumes. Quelques verbes liés à cette catégorie sont jeter, déchirer, obtenir, donner, habiller, laisser tomber, fermer parmi d'autres.
+- Catégorie 11
+  - Nom: setting
+  - Définition: Description de la scène ou lieu de la pièce.
+- Catégorie 12
+  - Nom: toward
+  - Définition: Indique le destinataire d'une réplique.
+
+
+
+Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
+
+{
+  "category": "numéro de la catégorie",
+  "explanation": "explication du choix"
+}
+
+Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
+

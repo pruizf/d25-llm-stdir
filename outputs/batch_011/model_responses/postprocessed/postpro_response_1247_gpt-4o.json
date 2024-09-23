@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action g\u00e9n\u00e9rale, o\u00f9 un personnage s'accroche \u00e0 un des rosiers. Puisque cette action ne correspond \u00e0 aucune des cat\u00e9gories sp\u00e9cifiques comme 'movement', 'interaction' ou 'object', elle est mieux d\u00e9crite sous la cat\u00e9gorie g\u00e9n\u00e9rale 'action'.",
+  "confidence": 0.9,
+  "stgdir": "Il s'accroche \u00e0 un des rosiers de l'Ecole des Femmes.",
+  "response_time": 2001.920223236084,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

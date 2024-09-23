@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie 'Personne ne bouge' indique l'absence de mouvement, mais elle se r\u00e9f\u00e8re sp\u00e9cifiquement \u00e0 une situation o\u00f9 aucune action de d\u00e9placement n\u2019est entreprise par les personnages. Cela correspond \u00e0 la cat\u00e9gorie 'movement', qui englobe les d\u00e9placements des personnages m\u00eame s'ils ne se d\u00e9placent pas dans ce cas. Cela indique alors un \u00e9tat de stagnation par opposition au mouvement.",
+  "confidence": 0.8,
+  "stgdir": "Personne ne bouge.",
+  "response_time": 1573.0845928192139,
+  "model": "gpt-4o-mini",
+  "categFull": "movement"
+}

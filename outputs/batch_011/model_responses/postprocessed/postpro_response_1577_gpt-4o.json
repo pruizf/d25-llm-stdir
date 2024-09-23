@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action r\u00e9alis\u00e9e par un personnage (montrer un mur qui tourne sur un pivot de fer). Cette action ne correspond pas \u00e0 d'autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'entr\u00e9e, la sortie, ou l'interaction avec un objet sp\u00e9cifique. Par cons\u00e9quent, elle appartient \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+  "response_time": 4542.280197143555,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

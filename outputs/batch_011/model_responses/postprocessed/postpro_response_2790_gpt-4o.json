@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'On entend frapper \u00e0 la porte' d\u00e9crit une action indirectement li\u00e9e au personnage, qui est un bruit de coup frapp\u00e9. Elle ne correspond pas \u00e0 d'autres cat\u00e9gories sp\u00e9cifiques comme l'entr\u00e9e ou la sortie d'un personnage. Elle est mieux class\u00e9e sous 'action' car elle implique une action g\u00e9n\u00e9rale cr\u00e9\u00e9e par un personnage ou un \u00e9l\u00e9ment ext\u00e9rieur.",
+  "confidence": 0.8,
+  "stgdir": "On entend frapper \u00e0 la porte.",
+  "response_time": 1646.282434463501,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

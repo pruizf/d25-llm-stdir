@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "La didascalie d\u00e9crit principalement des interactions non verbales entre les personnages : le charpentier entre (cat\u00e9gorie 4), la ma\u00eetresse le menace (une interaction verbale, donc non applicable ici), puis elle le pousse au vol (action physique et non verbale, relevant donc de la cat\u00e9gorie interaction). Les actions principales \u00e9tant \u2018entre\u2019 et \u2018pousser\u2019, avec seulement 'pousser' n\u00e9cessitant un choix parmi les interactions non verbales.",
+  "confidence": 0.8,
+  "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+  "response_time": 1612.2472286224365,
+  "model": "gpt-4o",
+  "categFull": "interaction"
+}

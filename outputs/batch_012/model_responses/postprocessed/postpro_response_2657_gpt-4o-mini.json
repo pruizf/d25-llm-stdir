@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit une interaction sp\u00e9cifique entre un personnage et un objet (la bouteille). Le personnage prend une bouteille et remplace une autre, ce qui implique une manipulation directe d'un objet. Cela correspond donc \u00e0 la cat\u00e9gorie qui se concentre sur l'objet et son interaction avec le personnage.",
+  "confidence": 0.9,
+  "stgdir": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive.",
+  "response_time": 1370.5897331237793,
+  "model": "gpt-4o-mini",
+  "categFull": "object"
+}

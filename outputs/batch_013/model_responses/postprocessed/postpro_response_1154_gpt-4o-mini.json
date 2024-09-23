@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action o\u00f9 le personnage d\u00e9chire ses billets tout en compl\u00e9tant la description du repas. Cela correspond \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions des personnages, qui ne sont pas sp\u00e9cifiquement d\u00e9crites par d'autres cat\u00e9gories comme l'interaction ou l'objet.",
+  "confidence": 0.9,
+  "stgdir": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets pour compl\u00e9ter la description du repas qu'il fait.",
+  "response_time": 1996.6566562652588,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

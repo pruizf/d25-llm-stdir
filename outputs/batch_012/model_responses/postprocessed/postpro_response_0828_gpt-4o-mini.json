@@ -1,0 +1,9 @@
+{
+  "category": "4",
+  "explanation": "La didascalie d\u00e9crit une sortie de sc\u00e8ne avec des personnages, notamment le duc et le roi, qui sortent accompagn\u00e9s de valets et de flambeaux, ce qui correspond \u00e0 une entr\u00e9e et une sortie de personnages. Cependant, comme cela se passe simultan\u00e9ment, cela se classe le mieux sous la cat\u00e9gorie d'entr\u00e9e, puisque le mouvement vers la sc\u00e8ne commence par le duc pr\u00e9c\u00e9dant le roi.",
+  "confidence": 0.8,
+  "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+  "response_time": 1584.1000080108643,
+  "model": "gpt-4o-mini",
+  "categFull": "entrance"
+}
