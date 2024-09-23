@@ -15,10 +15,10 @@
 | 010 | general + "verbs" + frPrompt         | 0.3<br/>stratified  | gpt-4o-mini | few-shot<br/>(20 per class) |     0.62     |      0.70       | 0.69 |
 | 011 | definition + "verbs" + frPrompt      | 1 | gpt-4o      |          zero-shot          |     0.69     |      0.72       | 0.71 |
 | 012 | definition + "verbs" + frPrompt      | 1 | gpt-4o-mini |          zero-shot          |     0.54     |      0.59       | 0.57 |
-| 013 | general + "verbs" + frPrompt      | 1 | gpt-4o-mini | few-shot<br/>(20 per class) |     0.61     |       0.68       | 0.67 |
+| 013 | general + "verbs" + frPrompt      | 1 | gpt-4o-mini | few-shot<br/>(20 per class) |     0.61     |      0.68       | 0.67 |
 | 102 | definition + "verbs" + fr            |          1          | llama-3     |          zero-shot          |     0.43     |      0.52       | 0.49 |
 | 103 | definition + "verbs" + fr            |          1          | llama-3.1   |          zero-shot          |     0.56     |      0.63       | 0.61 |
-| 104 | definition + "verbs" + fr + frPrompt |          1          | llama-3.1   |          zero-shot          |    inprog    |       xxx       | xxx  |
+| 104 | definition + "verbs" + fr + frPrompt |          1          | llama-3.1   |          zero-shot          |     0.52     |       0.6       | 0.62 |
 
 
 ## Meaning of "prompt" column
