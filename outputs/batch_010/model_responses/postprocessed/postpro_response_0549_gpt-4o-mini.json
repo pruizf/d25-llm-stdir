@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action o\u00f9 Nicolas va voir Jeanne, ce qui correspond \u00e0 une action g\u00e9n\u00e9rale, plut\u00f4t qu'\u00e0 un type sp\u00e9cifique comme l'entr\u00e9e, la sortie ou l'interaction. Elle ne semble pas indiquer une aggression, un aparte, une livraison, un mouvement sp\u00e9cifique, de la musique, de la narration, un objet, un cadre, ou une direction. Par cons\u00e9quent, elle est classifi\u00e9e comme une action.",
+  "confidence": 0.9,
+  "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+  "response_time": 2200.2522945404053,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}
