@@ -86,18 +86,6 @@ if __name__ == "__main__":
       break
     # general prompt (brief definition and two or three examples)
     if args.prompt_mode == "two-shot":
-      prompt = pr.gen_prompt.format(
-        numbered_categories=ut.number_categories(cf.categs_as13),
-        stdir=row["stgdir"],
-        category_details=ut.get_category_info_two_shot())
-    # prompt with a detailed definition only (no examples)
-    elif args.prompt_mode == "definition":
-      prompt = pr.prompt_def_only.format(
-        numbered_categories=ut.number_categories(cf.categs_as13),
-        stdir=row["stgdir"],
-        category_details=catinfo.defs_detailed_en)
-    # general prompt (brief definition and two or three examples)
-    if args.prompt_mode == "two-shot":
       # Note: Prompt is English, the two examples are in French, and we did
       # not implement the choice to use a French prompt here
       prompt_template = pr.gen_prompt if args.prompt_lang == "en" else pr.gen_prompt_fr
