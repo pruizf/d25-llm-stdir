@@ -100,8 +100,8 @@ if __name__ == "__main__":
       prompt = pr.gen_prompt.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=catinfo.few_shot_defs_simple.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
-          else catinfo.few_shot_defs_detailed.format(**shots_per_cat))
+        category_details=catinfo.few_shot_defs_simple_en.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
+          else catinfo.few_shot_defs_detailed_en.format(**shots_per_cat))
     messages = [
       {"role": "user", "content": prompt},
     ]

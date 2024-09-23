@@ -107,19 +107,29 @@ if __name__ == "__main__":
     # prompt with a detailed definition only (no examples)
     elif args.prompt_mode == "definition":
       prompt_template = pr.prompt_def_only if args.prompt_lang == "en" else pr.prompt_def_only_fr
+      catinfo_template = catinfo.defs_detailed_en if args.prompt_lang == "en" else catinfo.defs_detailed_fr
       prompt = prompt_template.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=catinfo.defs_detailed_en)
-    # few-shot, with or without detailed definition
-    elif args.prompt_mode == "few-shot" or args.prompt_mode == "def-few-shot":
+        category_details=catinfo_template)
+    # few-shot, without detailed definition
+    elif args.prompt_mode == "few-shot":
       prompt_template = pr.gen_prompt if args.prompt_lang == "en" else pr.gen_prompt_fr
+      catinfo_template = catinfo.few_shot_defs_simple_en if args.prompt_lang == "en" else catinfo.few_shot_defs_simple_fr
       shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts, args.prompt_lang)
       prompt = prompt_template.format(
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
-        category_details=catinfo.few_shot_defs_simple.format(**shots_per_cat) if args.prompt_mode == "few-shot" \
-          else catinfo.few_shot_defs_detailed.format(**shots_per_cat))
+        category_details=catinfo_template.format(**shots_per_cat))
+    # few-shot, with detailed definition
+    else:
+      prompt_template = pr.gen_prompt if args.prompt_lang == "en" else pr.gen_prompt_fr
+      catinfo_template = catinfo.few_shot_defs_detailed_en if args.prompt_lang == "en" else catinfo.few_shot_defs_detailed_fr
+      shots_per_cat = ut.format_examples_for_few_shot_prompt(cf.sampled_df_for_prompts, args.prompt_lang)
+      prompt = prompt_template.format(
+        numbered_categories=ut.number_categories(cf.categs_as13),
+        stdir=row["stgdir"],
+        category_details=catinfo_template.format(**shots_per_cat))
 
     completion, resp, td = get_openai_response(oa_client, args.model, prompt, cf)
     #print(f"Prompt: {prompt}")
