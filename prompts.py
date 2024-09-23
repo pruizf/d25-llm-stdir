@@ -54,3 +54,47 @@ in the same JSON object as the category and explanation, using the key "confiden
 Note that all stage directions are in French.
 
 """
+
+gen_prompt_fr = """
+Classifiez la didascalie suivante dans l'une des catégories fournies ci-dessous :
+
+Didascalie : {stdir}
+
+Liste des catégories :
+{numbered_categories}
+
+Pour vous aider à la classification, voici une définition de chaque catégorie avec quelques exemples :
+{category_details}
+
+Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
+
+{{
+  "category": "numéro de la catégorie",
+  "explanation": "explication du choix"
+}}
+
+Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
+
+"""
+
+prompt_def_only_fr = """
+Classifiez la didascalie suivante dans l'une des catégories fournies ci-dessous :
+
+Didascalie : {stdir}
+
+Liste des catégories :
+{numbered_categories}
+
+Pour vous aider à la classification, voici une définition de chaque catégorie:
+{category_details}
+
+Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
+
+{{
+  "category": "numéro de la catégorie",
+  "explanation": "explication du choix"
+}}
+
+Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
+
+"""

@@ -64,9 +64,9 @@ def get_category_info_two_shot(mode="fr"):
   the other modes get this part of the prompt with other means.
   """
   if mode == "fr":
-    return catinfo.cat_info_fr_only_two_shot
+    return catinfo.two_shot_fr
   else:
-    return catinfo.cat_info_fr_en_two_shot
+    return catinfo.two_shot_fr_en
 
 
 def sample_examples_per_category(df_fn, n=20):
@@ -87,13 +87,25 @@ def sample_examples_per_category(df_fn, n=20):
   return df_sampled
 
 
-def format_examples_for_few_shot_prompt(sampled_df_fn):
+def format_examples_for_few_shot_prompt(sampled_df_fn, lang):
+  """
+  Formats the examples for the few-shot prompt as follows:
+  `    - text for the example // Category | Catégorie: label`
+  Args:
+    sampled_df_fn (str): The path to the sampled dataframe.
+    lang (str): The language of the examples to choose the category indicator.
+  Returns:
+    dict: A dictionary with strings `example_n`, where `n` is the int category label
+    as key and the formatted examples as value. The keys are then used to populate
+    the prompt template in the client calling this function.
+  """
   out_dict = {}
   sampled_df = pd.read_csv(sampled_df_fn, sep="\t")
   for idx, row in sampled_df.iterrows():
     label_key = f"examples_{row['label']}"
     out_dict.setdefault(label_key, [])
-    out_dict[label_key].append(f"{row['stgdir']} // Category: {row['label']}")
+    cat_indicator = "Category" if lang == "en" else "Catégorie"
+    out_dict[label_key].append(f"{row['stgdir']} // {cat_indicator}: {row['label']}")
   for ke, va in out_dict.items():
     out_dict[ke] = "    - " + "\n    - ".join(va)
   return out_dict
