@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il donne une ordonnance' d\u00e9crit une action sp\u00e9cifique effectu\u00e9e par le personnage, qui consiste \u00e0 donner quelque chose (en l'occurrence, une ordonnance). Aucun autre contexte sp\u00e9cifique n'est fourni qui pourrait rattacher cette action \u00e0 d'autres cat\u00e9gories telles que 'interaction', 'object', etc., donc la cat\u00e9gorie g\u00e9n\u00e9rale 'action' est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Il donne une ordonnance.",
+  "response_time": 3483.241558074951,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

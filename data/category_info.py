@@ -470,7 +470,7 @@ few_shot_defs_simple_fr = """
 {examples_2}
 - CATÉGORIE 3
   - NOM: delivery
-  - DÉFINITION: Décriqt comment est interprétée une réplique, par exemple en ce qui concerne la voix ou l'expression vocale d'une émotion. Utilisée également lorsque le personnage chante.
+  - DÉFINITION: Décrit comment est interprétée une réplique, par exemple en ce qui concerne la voix ou l'expression vocale d'une émotion. Utilisée également lorsque le personnage chante.
   - EXEMPLES: 
 {examples_3}
 - CATÉGORIE 4

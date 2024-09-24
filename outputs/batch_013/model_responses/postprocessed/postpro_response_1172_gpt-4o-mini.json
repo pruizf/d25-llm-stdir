@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La didascalie d\u00e9crit la sc\u00e8ne et le cadre du th\u00e9\u00e2tre, en pr\u00e9cisant o\u00f9 se d\u00e9roule l'action (une cour, un pavillon, un mur avec une fen\u00eatre, un jardin, etc.). Cela correspond \u00e0 la cat\u00e9gorie 'setting', qui est utilis\u00e9e pour les descriptions de l'environnement de la pi\u00e8ce.",
+  "confidence": 1,
+  "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une cour. - A gauche du public un pavillon au premier plan.- Au deuxi\u00e8me plan, un mur avec une fen\u00eatre et un balcon. -\u00c0 droite, un jardin, au fond, un mur avec une grille. - Il fait nuit.",
+  "response_time": 1534.4979763031006,
+  "model": "gpt-4o-mini",
+  "categFull": "setting"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La didascalie indique que Valentin sort, ce qui correspond \u00e0 la cat\u00e9gorie de sortie (exit) d'un personnage sur sc\u00e8ne. En outre, elle mentionne \u00e9galement des hommes portant des torches qui r\u00f4dent, ce qui ajoute un \u00e9l\u00e9ment de mouvement mais ne modifie pas la classification principale qui est la sortie de Valentin.",
+  "confidence": 0.9,
+  "stgdir": "Valentin sort. On voit des hommes qui portent des torches, r\u00f4der \u00e0 travers la for\u00eat. Entrent la baronne et l'abb\u00e9.",
+  "response_time": 1926.2809753417969,
+  "model": "gpt-4o-mini",
+  "categFull": "exit"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique qui n'est ni une interaction verbale, ni un mouvement vers un autre personnage, ni une entr\u00e9e ou sortie. 'Tous reviennent' implique que les personnages retournent \u00e0 un endroit, et 'Madame Raquin remet la lampe sur la table' d\u00e9crit pr\u00e9cis\u00e9ment une action de remise d'objet sur une surface. Ces \u00e9l\u00e9ments soutiennent qu'il s'agit d'une action g\u00e9n\u00e9rale.",
+  "confidence": 0.9,
+  "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+  "response_time": 1813.1678104400635,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

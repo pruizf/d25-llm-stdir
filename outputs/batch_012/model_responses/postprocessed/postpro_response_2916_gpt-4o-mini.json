@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action o\u00f9 Adam l\u00e8ve la main et montre un objet, ce qui rel\u00e8ve de l'action g\u00e9n\u00e9rale des personnages. Bien qu'il s'agit d'un geste sp\u00e9cifique (montrer le fruit d\u00e9fendu), cela ne correspond pas \u00e0 d'autres cat\u00e9gories plus sp\u00e9cifiques. Ainsi, la cat\u00e9gorie 'action' est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+  "response_time": 1344.2449569702148,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

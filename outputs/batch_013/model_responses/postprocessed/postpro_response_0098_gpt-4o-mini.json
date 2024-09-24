@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La didascalie indique que 'La Plume sort', ce qui correspond \u00e0 une sortie, et 'Madame Savon, et Th\u00e9riaque entrent dans l'autre chambre', ce qui correspond \u00e9galement \u00e0 une entr\u00e9e des personnages. La partie concernant 'La Plume' alors qu'elle sort est clairement une action de sortie.",
+  "confidence": 0.9,
+  "stgdir": "La Plume sort ; Madame Savon, et Th\u00e9riaque entrent dans l'autre chambre.",
+  "response_time": 2721.9460010528564,
+  "model": "gpt-4o-mini",
+  "categFull": "exit"
+}

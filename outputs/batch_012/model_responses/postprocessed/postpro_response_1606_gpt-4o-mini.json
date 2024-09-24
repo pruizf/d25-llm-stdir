@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit l'action d'\u00f4ter un objet (un couvre-chef) de la t\u00eate d'un personnage, ce qui implique une interaction avec un objet sp\u00e9cifique. Cela correspond \u00e0 la cat\u00e9gorie 'object', car il s'agit de la manipulation d'un v\u00eatement ou d'un accessoire.",
+  "confidence": 0.9,
+  "stgdir": "Elle se met en devoir d'\u00f4ter celui qui est sur sa t\u00eate.",
+  "response_time": 2017.6105499267578,
+  "model": "gpt-4o-mini",
+  "categFull": "object"
+}

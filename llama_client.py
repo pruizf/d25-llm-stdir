@@ -110,7 +110,7 @@ if __name__ == "__main__":
         numbered_categories=ut.number_categories(cf.categs_as13),
         stdir=row["stgdir"],
         category_details=catinfo_template.format(**shots_per_cat))
-    # few-shot, with detailed definition
+    # few-shot, with detailed definition (mode def-few-shot)
     else:
       prompt_template = pr.gen_prompt if args.prompt_lang == "en" else pr.gen_prompt_fr
       catinfo_template = catinfo.few_shot_defs_detailed_en if args.prompt_lang == "en" else catinfo.few_shot_defs_detailed_fr

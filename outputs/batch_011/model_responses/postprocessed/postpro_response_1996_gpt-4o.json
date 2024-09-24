@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie 'En s'\u00e9loignant' d\u00e9crit un d\u00e9placement du personnage, mais ne sp\u00e9cifie pas que ce d\u00e9placement est une entr\u00e9e ou une sortie de sc\u00e8ne. Cela correspond donc \u00e0 la cat\u00e9gorie 'movement', qui englobe les d\u00e9placements des personnages comme s'\u00e9loigner ou suivre un autre personnage.",
+  "confidence": 1,
+  "stgdir": "En s'\u00e9loignant.",
+  "response_time": 1234.8332405090332,
+  "model": "gpt-4o",
+  "categFull": "movement"
+}

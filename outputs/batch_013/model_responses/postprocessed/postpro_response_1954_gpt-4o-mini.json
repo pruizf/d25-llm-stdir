@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie indique une action sp\u00e9cifique o\u00f9 plusieurs personnages se mettent \u00e0 genoux, ce qui correspond \u00e0 la cat\u00e9gorie des actions. Elle ne correspond pas \u00e0 d'autres cat\u00e9gories comme l'agression, l'interaction ou la narration, car elle d\u00e9crit simplement un mouvement commun \u00e0 plusieurs personnages sans interaction verbale ou sp\u00e9cificit\u00e9s d'un personnage particulier.",
+  "confidence": 0.9,
+  "stgdir": "Tous se mettent \u00e0 genoux, except\u00e9 le Juge et les Soldats.",
+  "response_time": 2262.042284011841,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie d\u00e9crit le mouvement d'un personnage qui 'sautille sous ces fen\u00eatres', ce qui correspond \u00e0 la cat\u00e9gorie de d\u00e9placement sans qu'il s'agisse d'une entr\u00e9e ou d'une sortie. Le fait qu'il ait aussi une 'viole \u00e0 la main' indique que c'est un mouvement actif et dynamique, renfor\u00e7ant le choix de la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+  "response_time": 1349.0471839904785,
+  "model": "gpt-4o-mini",
+  "categFull": "movement"
+}

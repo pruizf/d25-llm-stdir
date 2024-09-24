@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il montre son pouce' rel\u00e8ve d'une action r\u00e9alis\u00e9e par le personnage, qui correspond \u00e0 la description g\u00e9n\u00e9rale des actions des personnages telle que d\u00e9finie dans la cat\u00e9gorie 0. Il ne s'agit ni d'une interaction violente (cat\u00e9gorie 1), ni d'un apart\u00e9 (cat\u00e9gorie 2), ni d'une description de la mani\u00e8re dont une r\u00e9plique est livr\u00e9e (cat\u00e9gorie 3), ni d'une entr\u00e9e ou sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni d'une interaction non verbale avec un autre personnage (cat\u00e9gorie 6), ni d'un mouvement sur la sc\u00e8ne (cat\u00e9gorie 7), ni de musique (cat\u00e9gorie 8), ni de narration (cat\u00e9gorie 9), ni d'une description ou manipulation d'objet (cat\u00e9gorie 10), ni de la description d'une sc\u00e8ne (cat\u00e9gorie 11), ni de l'indication du destinataire d'une r\u00e9plique (cat\u00e9gorie 12).",
+  "confidence": 0.95,
+  "stgdir": "Il montre son pouce.",
+  "response_time": 2986.3052368164062,
+  "model": "gpt-4o",
+  "categFull": "action"
+}
