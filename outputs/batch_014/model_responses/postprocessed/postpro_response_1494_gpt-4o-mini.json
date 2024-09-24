@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "L'action '\u00e9cartant le verre' d\u00e9crit une action g\u00e9n\u00e9rale du personnage qui interagit avec un objet (un verre) en l'\u00f4tant ou le d\u00e9pla\u00e7ant. Cela ne correspond pas \u00e0 d'autres cat\u00e9gories sp\u00e9cifiques comme exit, entrance, ou interaction, ce qui justifie son classement comme action g\u00e9n\u00e9rale.",
+  "confidence": 0.9,
+  "stgdir": "\u00c9cartant le verre.",
+  "response_time": 2381.7601203918457,
+  "model": "gpt-4o-mini",
+  "categFull": "action"
+}

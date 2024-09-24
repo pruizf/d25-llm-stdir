@@ -1,0 +1,350 @@
+
+Classify the following stage direction in French into one of the categories provided below it:
+
+Stage direction: Il lui parle à l'oreille. 
+
+Category list:
+0. action
+1. aggression
+2. aparte
+3. delivery
+4. entrance
+5. exit
+6. interaction
+7. movement
+8. music
+9. narration
+10. object
+11. setting
+12. toward
+
+To help classification, here is a definition for each category along with some examples:
+
+- CATEGORY 0
+  - NAME: action
+  - DEFINITION: General character action. Use it only when other categories do not describe the action.  Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.
+  - EXAMPLES:
+    - Il fouille dans sa poche. // Category: 0
+    - En montrant la colonne. // Category: 0
+    - Montrant Pierrot. // Category: 0
+    - Levant les yeux au ciel. // Category: 0
+    - Il frappe à la porte d'Isabelle. // Category: 0
+    - II ouvre le treillage, et l'on voit la Comtesse à la place de la statue. // Category: 0
+    - Il frappe à sa porte. // Category: 0
+    - Elle tire de sa poche un coffre dans lequel est un écrin de diamants. // Category: 0
+    - Le Comte lit. // Category: 0
+    - Montrant la fenêtre qui n'est pas éclairée. // Category: 0
+    - Elle ouvre le médaillon, et fait voir à la Comtesse le portrait de Napoléon. // Category: 0
+    - Job écarte lé drap noir avec épouvante. Les hommes masqués le laissent faire. Le comte lève le suaire et voit une figure pâle. C'est Régina. // Category: 0
+    - Tamarin tire un billet. // Category: 0
+    - Il se remet en attitude. // Category: 0
+    - Indiquant du geste. // Category: 0
+    - Il lit en lui donnant la main. // Category: 0
+    - Il fouille dans ses poches et en tire un papier. // Category: 0
+    - Il lit en parcourant. // Category: 0
+    - Le Courtisan la regarde sans répondre. // Category: 0
+    - Elle se lève de genoux. // Category: 0
+- CATEGORY 1
+  - Name: aggression
+  - DEFINITION: Violent action. Related to notions like kill, fight, hit, suicide or threat.
+  - EXAMPLES:
+    - Il prend Hector à la cravate. // Category: 1
+    - Luville voyant Delval foncer sur lui, rompt précipitamment, dans la crainte de le blesser, Delval saute au désarmement, et lui ôte son épée. // Category: 1
+    - Roger doit avoir les armes de Léon, sous lesquelles il avait combattu. // Category: 1
+    - Ils se battent en finissant le deuxième acte. // Category: 1
+    - Il frappe le chapeau trois fois avec son bâton. // Category: 1
+    - Elle bande un autre arc dont elle s'arme à son tour. // Category: 1
+    - Il lui découd la boudouille d'un terrible coup d'épée. // Category: 1
+    - Là ils se battent. // Category: 1
+    - Les Esclaves armés sont remplacés par les esclaves sans armes. // Category: 1
+    - Il prend son épée par la pointe et l'élève au-dessus de sa tête. // Category: 1
+    - Il met la main sur la garde de son épée. // Category: 1
+    - Il veut encore prendre son épée. // Category: 1
+    - Elle lui plonge le coutelas dans le corps, et paraît vouloir le séparer en deux comme pour le dévorer ; les soldats attirés de nouveau par la faim, reviennent, et l'un d'eux, en se reculant d'horreur, dit à l'arrière-scène : // Category: 1
+    - Elle tire un poignard sur son sein. // Category: 1
+    - Ils se tuent. // Category: 1
+    - Là, Maître Godard le menace, encor, du geste, et Champagne poursuit, après. // Category: 1
+    - Elle se frappe. // Category: 1
+    - Là, ils recommencent de le battre. // Category: 1
+    - Elle porte la bague à ses lèvres. // Category: 1
+    - En même temps, il donne des coups de batte sur l'estomac des Ogres. // Category: 1
+- CATEGORY 2
+  - Name: aparte
+  - DEFINITION: Aside (character addresses audience or is alone).
+  - EXAMPLES:     
+    - Elle dit ces mots un peu éloignée des autres. // Category: 2
+    - Étant seule. // Category: 2
+    - Le Capitan seul. // Category: 2
+    - À part, avec ironie. // Category: 2
+    - Aparte. // Category: 2
+    - Il continue, étant seul. // Category: 2
+    - Antoine, ce vieux Serviteur plein de zèle et d'affection pour son maître, reste seul dans la tente ; il déplace tout en voulant le mettre en ordre, il écoute de temps en temps les différents [qui] indiquent la situation des deux armées. // Category: 2
+    - Croyant être seule. // Category: 2
+    - À lui-même. // Category: 2
+    - À part // Category: 2
+    - Puis, étant seul. // Category: 2
+    - Elle est seule. // Category: 2
+    - Il demeure seul. // Category: 2
+    - Parlant à part à son Capitaine des Gardes. // Category: 2
+    - Un domestique vient lui dire que son carrosse est prêt. // Category: 2
+    - Restée seule. // Category: 2
+    - À Picard. // Category: 2
+    - Puis à part. // Category: 2
+    - [Ostorius continue en aparté, en pensant à Sarcide]. // Category: 2
+    - [À part.] // Category: 2
+- CATEGORY 3
+  - NAME: delivery
+  - DEFINITION: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings. Can refer to notions like the character showing anger or being furious, being serious, happy, hesitant, showing enthousiasm, emotion, emphasis, being friendly, making a grimace, showing a feeling, or repeating an expression.
+  - EXAMPLES: 
+    - Tout bas. // Category: 3
+    - D'une voix caverneuse. // Category: 3
+    - Ribercour continue. // Category: 3
+    - Elle chante cet air italien. // Category: 3
+    - La suite de Bacchus danse. // Category: 3
+    - Ces deux vers bas. // Category: 3
+    - On entend crier en dehors. // Category: 3
+    - Il prélude. // Category: 3
+    - Julie rit. // Category: 3
+    - Elle pleure en sanglotant. // Category: 3
+    - Baissant la voix. // Category: 3
+    - Criant au travers de la porte. // Category: 3
+    - Alors Dieu menacera te serpent, en disant : // Category: 3
+    - Les Rossignols de la Grotte de Versailles mêlent leurs Concerts à celui de plusieurs Instruments Champêtres, et les Bergères Iris et Caliste joignent leurs voix ensemble pour leur répondre. // Category: 3
+    - Il chante sur un Vaudeville. // Category: 3
+    - Il répète encore ces quatre derniers vers. // Category: 3
+    - Il appelle André. // Category: 3
+    - Achevant l'air. // Category: 3
+    - L'enfant pleure. // Category: 3
+    - Sainte Cécile chante. // Category: 3
+- CATEGORY 4
+  - NAME: entrance
+  - DEFINITION: Character enters stage.
+  - EXAMPLES: 
+    - Ils entrent d'un pas dégagé l'un du jardin, l'autre de la cour. // Category: 4
+    - Entrée de jardiniers qui portent leurs corbeilles à Lucile. // Category: 4
+    - Il entre dans la maison de Caton. // Category: 4
+    - Roseline paraît au bout du théâtre. // Category: 4
+    - ENTRÉE. // Category: 4
+    - Chompré paraît. // Category: 4
+    - II. Entrée du Flamand et de la Flamande. // Category: 4
+    - Elle arrive par la porte de droite, et va d'abord écouter au pan de la cloison. // Category: 4
+    - Alphée et Arethuse sortent des enfers. // Category: 4
+    - Une tête de vieillard couronnée, à barbe ruisselante, est apparue dans l'encadrement, à la lueur d'un éclair. // Category: 4
+    - Un médecin entre. // Category: 4
+    - Ils entrent avec précaution. // Category: 4
+    - Ici un page et deux dames masquées précédent Olympe avec deux flambeaux. // Category: 4
+    - Le Comte de Salsbury entre. // Category: 4
+    - Elle entre par le côté opposé à celui où est sortie Julie. Elle est coiffée en cheveux avec des rubans et porte une toilette élégante. // Category: 4
+    - Illo paraît avec des soldats. // Category: 4
+    - Nouvelle apparition. // Category: 4
+    - Vénus et Momus paraissent sur la scène. // Category: 4
+    - Crispin entre seul. // Category: 4
+    - Alain rentre. // Category: 4
+- CATEGORY 5
+  - NAME: exit
+  - DEFINITION: Character exits. Verbs related to this type of stage direction are (in French) "se retirer", "sortir", "s'en aller" and other close verbs.
+  - EXAMPLES: 
+    - Elle sort avec le choeur. // Category: 5
+    - Tous sortent excepté Molière. // Category: 5
+    - Et quand ils sont partis. // Category: 5
+    - La magie se retire. // Category: 5
+    - Deux druides sortent. // Category: 5
+    - Sophar rentre dans la maison. // Category: 5
+    - Elle sort avec Carabosse. // Category: 5
+    - Oropaste sort. // Category: 5
+    - Sortie par la droite. // Category: 5
+    - Emire sort. // Category: 5
+    - Cléante sort d'un côté, et Dymas de l'autre, environ quatre vers après Cléante. // Category: 5
+    - Un Chariot sort. // Category: 5
+    - Il sort avec le Commandeur et le Comte. // Category: 5
+    - Julie sort. // Category: 5
+    - Ils sortent avec les valets et les flambeaux. Le duc précédant le roi une cire à la main. // Category: 5
+    - Killegre sort. // Category: 5
+    - Villiers disparaît. // Category: 5
+    - Ariane sort. // Category: 5
+    - Rosalie et Picard sortent. // Category: 5
+    - On donne congé au notaire. // Category: 5
+- CATEGORY 6
+  - NAME: interaction
+  - DEFINITION: Non-verbal character interaction. The interaction must be non-verbal, e.g. looking at, pointing at, touching, helping, pulling, pushing among other non-verbal interaction types.
+  - EXAMPLES: 
+    - Elle va chercher les enfants et les amène. // Category: 6
+    - Il lui met la main dans la poche // Category: 6
+    - Lui prenant le pouls. // Category: 6
+    - Il embrasse sa fille. // Category: 6
+    - Lui baisant la bouche. // Category: 6
+    - Le poussant du coude. // Category: 6
+    - Les lutins veulent rebrousser et reporter Léandre dans l'Île Noire. // Category: 6
+    - Elle prend contre lui toutes les précautions imaginables. // Category: 6
+    - Elle prend une main de Pauline. // Category: 6
+    - Phénice lui frappe sur l'épaule. // Category: 6
+    - Les suivants d'Arcalaüs emmènent Corisande. // Category: 6
+    - Elle se frotte la joue. // Category: 6
+    - Madame La Thorillière arrive repoussant tout le monde. // Category: 6
+    - Arnolphe lui prend la main sans qu'elle le reconnaisse. // Category: 6
+    - Valcour pousse vivement Florval. // Category: 6
+    - Il désigne son coeur. // Category: 6
+    - Il l'embrasse encore. // Category: 6
+    - Ils s'embrassent. // Category: 6
+    - Elle prend la main de l'aîné. // Category: 6
+    - Elle va aussi pour l'embrasser. // Category: 6
+- CATEGORY 7
+  - NAME: movement
+  - DEFINITION: Character movement (but not exit/entrance). Sometimes related to getting closer, moving away, walking away, following a character, moving back.
+  - EXAMPLES: 
+    - Mercure veut s'en aller. // Category: 7
+    - Ils le suivent. // Category: 7
+    - Il va vers Arons. // Category: 7
+    - Ils veulent tous s'en aller. // Category: 7
+    - Sur un signe de Berthe, les jeunes filles s'approchent d'Antoinette. // Category: 7
+    - Il s'enfuit. // Category: 7
+    - Il se tire à l'écart. // Category: 7
+    - Polidor doit avoir suivi Tirsis. // Category: 7
+    - Ils l'entourent tous ensemble. // Category: 7
+    - Elle va pour s'en aller. // Category: 7
+    - Revenant à Gourville l'aîné. // Category: 7
+    - Catherine s'avance vers François. // Category: 7
+    - Pierrot et les sauvages s'en retournent avec le Gougou. // Category: 7
+    - Il continue en marchant. // Category: 7
+    - Il se dispose à s'en aller. // Category: 7
+    - Ils s'approchent de lui. // Category: 7
+    - S'approchant de Julie et de Miss Jackson. // Category: 7
+    - Elle agit en parlant. // Category: 7
+    - Elle veut s'éloigner. // Category: 7
+    - Ils rapprochent les feuilles et lisent très vite. // Category: 7
+- CATEGORY 8
+  - NAME: music
+  - DEFINITION: Tune names (plays with songs). Music description. Not used when the stage direction describes the character singing. Often starts with the word "AIR" or "Air". If it starts with these words, it is most likely a music stage direction and the content following these words is the name of the tune.
+  - EXAMPLES: 
+    - Stances. // Category: 8
+    - Antistrophe VI. // Category: 8
+    - Air : La rose et le bouton. // Category: 8
+    - Air. Allez donc, jouez violon. // Category: 8
+    - Air : Comment faire. // Category: 8
+    - AIR 76. ( Ha, qui vous a, qui vous ai qui vous a. ) // Category: 8
+    - AIR d'Yelva. // Category: 8
+    - Air : Belle Chanoinesse. // Category: 8
+    - SEXTUOR. // Category: 8
+    - AIR : Je veux une robe. // Category: 8
+    - AIR 202 : Gorgones de Persée. // Category: 8
+    - Air : Babet que t'es gentille. // Category: 8
+    - AIR. Un jour le malheureux Lisandre. // Category: 8
+    - Symphonie. // Category: 8
+    - III COUPLET. // Category: 8
+    - Air tendre. // Category: 8
+    - Air : Point de bruit, etc. // Category: 8
+    - AIR : Donnez, Amants, mais donnez bien. // Category: 8
+    - Air : Fournissez un canal au ruisseau. // Category: 8
+    - COUPLETS. // Category: 8
+- CATEGORY 9
+  - NAME: narration
+  - DEFINITION: Long stage direction, with narrative quality, inteded for readers.  Generally long stage directions, they can narrate a sequence of character actions. They can also refer to noises or to weather events.
+  - EXAMPLES: 
+    - Une tempête survient. // Category: 9
+    - Le paysan veut à son tour prendre Ninette ; mais l'âne, qui s'impatiente, commence à sauter et lancer des ruades à droite et à gauche. Le paysan, pour en éviter une dans le ventre, se retourne et la reçoit dans le derrière. Ninette, qui, pendant ce débat, n'a cessé de crier Maman ! pique son âne et se sauve en disant : // Category: 9
+    - Il lui arrache sa perruque de dessus la tête. Frac est d'abord tout interdit de se trouver sans perruque ; mais il prend son parti et en lève celle de Tressant, qui métamorphose à son tour en enfant de choeur ; et il se sauve en se coiffant avec. Les bras tombent au sublime Monsieur Tressant, et Madame Lavade et le garçon de boutique étouffent de rire de voir cette tête pelée et cette figure stupidement étonnée ne pas songer seulement à se couvrir de celle qu'il vient d'ôter au tailleur, et qu'il tient encore dans sa main. // Category: 9
+    - On entend des tambours. // Category: 9
+    - Le fiacre franchit des obstacles, disperse des piétons aux épaules rondes, et les lumières, lancées comme des boules de feu, éclatent sur ses vitres et s'éteignent. // Category: 9
+    - La bouteille d'Aï achevée, la Marquise, le Chevalier, le Président, Eglante, le Baron se lèvent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures. // Category: 9
+    - Le Théâtre représente un paysage agreste, orné de quelques maisons ; celle de Monsieur de Kerkabon est la première, à gauche ; la seconde appartient à Monsieur de Saint-Yves ; elles sont à peu de distance l'une de l'autre, et seulement séparées par quelques arbres, annonçant une avenue. Le fond du théâtre est occupé par trois collines opposées. Au dessus de la seconde, à droite du spectateur, s'élève un mur de couvent, hérissé de pointes de fer, et renfermant une espèce de parc, à l'extrémité duquel on aperçoit une partie du monastère, surmonté d'un clocher en dehors. Sur le portail attenant au mur de clôture, on lit : COUVENT DES URSULINES. Le reste de la scène est orné de groupes d'arbres, de gazons, de fleurs, de berceaux, etc. etc. // Category: 9
+    - Sa tête tombe sur sa poitrine; il sort à pas lents par le fond du théâtre. Otbert, qui est entré depuis quelques instants, le suit des yeux. Le mendiant s'enfonce sous les arcades de la galerie. Tout à coup le visage d'Otbert s'éclaire d'une expression de joie et de surprise. Régina apparaît au fond du théâtre, du côté opposé à celui par lequel le mendiant est sorti. Régina radieuse de bonheur et de santé. // Category: 9
+    - Thérèse. restée seule, demeure un instant immobile, regardant autour d'elle, respirant enfin. Jeu muet. Elle descend la scène, s'étire dans un geste de lassitude et d'ennui. Puis, elle entend Laurent entrer par la petite porte, à gauche, et elle sourit, frémissante d'une joie subite. - Pendant cette scène, la nuit se fait de plus en plus. // Category: 9
+    - Pendant qu'il songe, les yeux baissés, Maximienne a détaché l'agrafe qui retenait sur l'épaule droite son manteau blanc, de la même blancheur que la tunique ; elle le jette sur le dossier de la bancelle, et apparaît les bras nus et couverts de bracelets, le cou un peu dévêtu et ceint d'un collier, d'où pendent sur sa poitrine deux petites bulles d'argent, pareilles à des grelots. Toute riante, les mains en avant, elle s'approche de Théodat, qui sursaute, lui échappe et vient s'appuyer contre la bancelle, où elle le rejoint, suppliante. // Category: 9
+    - Le ciel s'éclaircit, l'orage cesse, et la mer s'apaise. // Category: 9
+    - Il se met dans le confessionnal ; Girolamo va ouvrir la porte à droite ; entre Loretta couverte d'un voile. Elle s'approche, du confessionnal, s'agenouille et commence sa prière. Girolamo est sorti. // Category: 9
+    - Cette scène est encore italienne et étrangère au sujet de la pièce : elle consiste en jeux de théâtre et lazzis italiens entre Pierrot et Pasquariel, qui sont amoureux l'un et l'autre de Marinette. Leur rivalité et leurs querelles font l'objet de cette scène. // Category: 9
+    - Il frappe de nouveau des mains. // Category: 9
+    - Ici il se fait un grand tintamarre de Trompettes et de Tambours, ils tournent derrière le théâtre du côté du Château, et l'on entend que le bruit. // Category: 9
+    - Melpomène qui préside à la tragédie et Euterpe qui a inventé l'Harmonie pastorale s'avancent sur deux nuages. Melpomène paraît au milieu de plusieurs trophées d'armes ; et Euterpe environnée de festons et de couronnes de fleurs. Elles sont précédées de deux symphonies opposées, dont l'une est très forte, et l'autre extrêmement douce, et qui forment une espèce de combat, tandis que les deux muses viennent se placer aux deux côtés de Polymnie pour la prier d'embellir les divertissements qu'elles veulent préparer. // Category: 9
+    - Dans cette obscurité soudaine, l'Envie sort de son antre qui s'ouvre au milieu du théâtre : elle évoque le monstrueux Serpent Python, qui paraît dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumière qui éclaire le théâtre : elle appelle les Vents les plus impétueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous après avoir volé et s'être croisés dans l'air, viennent se ranger autour d'elle, pour l'aider à troubler les beaux jours que le Soleil donne au monde. // Category: 9
+    - Le Ciel s'ouvre. // Category: 9
+    - Bruit de cloches au loin. // Category: 9
+    - Aussitôt il fait comme s'il relevait ses cheveux sous son chapeau et, prenant sa secousse, il est prêt à se précipiter dans la gueule de l'animal, quand il s'arrête tout d'un coup et dit à Léandre : // Category: 9
+- CATEGORY 10
+  - NAME: object
+  - DEFINITION: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. The object may be a costume or a dress for instance. Verbs related to this category are throw, tear, get, give, dress, drop, close among others. 
+  - EXAMPLES: 
+    - La pesant. // Category: 10
+    - Alphonse lui donne la rose qu'il tient à la main. // Category: 10
+    - Ils se jettent à genoux, // Category: 10
+    - Elles présentent des Lys et des Lauriers. // Category: 10
+    - Il met la perruque, puis, la robe de chambre du côté qui n'est pas noir. // Category: 10
+    - Il ajuste son col. // Category: 10
+    - Elle laisse tomber la plume. // Category: 10
+    - Prenant une lettre ouverte. // Category: 10
+    - Le Démon donne à Aristandre la robe qu'il a apportée. // Category: 10
+    - Il remet une lettre à Arétaphile. // Category: 10
+    - Il se met l'habit. // Category: 10
+    - Ils remplissent leurs poches. // Category: 10
+    - Elle tire de son doigt une petite bague. // Category: 10
+    - Déchirant la requête. // Category: 10
+    - Elle laisse l'épée à la main de Théodat. // Category: 10
+    - Il ôte le paletot et le jette à terre. Il en fait ensuite autant de la perruque. // Category: 10
+    - Il lui donne un livre. // Category: 10
+    - Il lui met un bracelet. // Category: 10
+    - Le Marquis est en frac fort simple. Lépine et les Laquais ont des habits gris galonnés en argent, et des chapeaux avec des plumets blancs. // Category: 10
+    - Il ôte ses gants. // Category: 10
+- CATEGORY 11
+  - NAME: setting
+  - DEFINITION: Stage description or play location.
+  - EXAMPLES: 
+    - Elle approche de l'armoire. // Category: 11
+    - Le théâtre représente une campagne et la maison de Pantalon. // Category: 11
+    - Cette scène est dans une salle préparée pour un bal, où il y a compagnie, et des violons. // Category: 11
+    - On apporte un fauteuil au Parterre. // Category: 11
+    - Le théâtre change et représente les rivages du Nil et l'un des embranchements par où ce fleuve entre dans la mer. // Category: 11
+    - Cette présentation et la suivante ont lieu au fond du théâtre. Georges seul descend la scène. // Category: 11
+    - Claudine et Lucas sont dans le fond du Théâtre. // Category: 11
+    - Le Théâtre représente un salon à manger. L'action se passe sur les sept heures du soir. // Category: 11
+    - Le Théâtre représente un endroit du Palais de Mélisse, borné de la mer. // Category: 11
+    - Le Théâtre représente une vue de Rome, on apperçoit le pont Sublicius et une des principales portes. Dans l'intervalle qui sépare la Tibre des murs de la ville est un tombeau élevé à Brutus, Le camp de Porsenna se distingue dans le lointain. // Category: 11
+    - La scène change. // Category: 11
+    - Le théâtre représente un palais. // Category: 11
+    - Le théâtre représente un des carrefours de la Foire. // Category: 11
+    - Le Théâtre représente une prison. // Category: 11
+    - La scène se passe sur la terrasse, qui est derrière l'église d'Uzès. Au fond le pavillon de Racine ; à droite, la boutique de Courtès ; à gauche, la maison de Georges. // Category: 11
+    - Il s'avance pour traverser les flammes. // Category: 11
+    - La scène représente l'appartement de Florville, aussi dénué que celui de Béverley, avec de vieux tableaux. // Category: 11
+    - Revenant sur le devant de la scène. // Category: 11
+    - Ils se promènent de long en large sur le Théâtre, en attendant que les Comédiens arrivent. // Category: 11
+    - C'est une grande salle aux baies romanes, étroites, hautes et profondes. Les murs sont tendus de tapis et le plafond, de toiles peintes : sur les tapis d'un sombre jaune, des lions rouges dardent leurs langues, ainsi que des flammes, et le bleu des toiles peintes est semé d'étoiles d'or, comme un firmament, et de croix d'or, comme un paradis. Tout autour, le long des murs, s'applique un banc recouvert d'une draperie pourpre, et en quatre endroits ce banc est coupé : par le lit de bronze, incliné de la tête aux pieds ; il est bas et large, porte un seul coussin ; au-dessus pend une lampe d'argile rouge ; — par la haute cheminée où flambent d'énormes bûches de hêtres et des troncs résineux de sapin ; — par le bahut peint où se voient représentées, en des couleurs vives, des scènes de l'Evangile - par un orgue emboîté dans la muraille, et qui fait face à la cheminée. Les briques du pavage sont de forme octogone. Devant le lit, il y a un escabeau avec une marche pour s'agenouiller, et, devant le feu, une large bancelle à dossier. Vêtu de la robe verte épiscopale, à demi-cachée par la dalmatique blanche brodée d'or, l'évêque est à genoux, la tête dans ses mains qui s'appuient à l'escabeau. Les clercs, en tunique noire, prient également, agenouillés devant le banc circulaire. Le jour s'achève ; Paulin, sur un signe de l'évêque, allume la lampe d'argile, car il n'est pas bon que les hommes assemblés restent dans les ténèbres ; mais l'âtre éclaire la grande salle bien plus que la petite lampe ; à ses larges et momentanés flamboiements, les lions s'agitent, les étoiles luisent, les croix d'or du plafond resplendissent. On n'entend que le crépitement de la mèche dans l'huile de faines, le ronronnement du foyer, le murmure bas des voix lentes, priantes, le halètement contenu des poitrines sonnant sous les poings qui les martèlent. // Category: 11
+- CATEGORY 12
+  - NAME: toward
+  - DEFINITION: Indicates the addressee of a speech.
+  - EXAMPLES: 
+    - Au bijoutier. // Category: 12
+    - À Kerlonte. // Category: 12
+    - À Gaston. // Category: 12
+    - À Bérénice. // Category: 12
+    - À Mascarille. // Category: 12
+    - À Pigmalion. // Category: 12
+    - À Énée. // Category: 12
+    - Aux deux jeunes gens. // Category: 12
+    - À Alcipe. // Category: 12
+    - À Alceste. // Category: 12
+    - Au colonel. // Category: 12
+    - À Madame Germain. // Category: 12
+    - À tout le monde. // Category: 12
+    - À Sudmer. // Category: 12
+    - À Lisidan. // Category: 12
+    - À Blanche. // Category: 12
+    - À Anselme. // Category: 12
+    - À Brutus. // Category: 12
+    - Aux Villageois. // Category: 12
+    - À Hauteroche. // Category: 12
+
+
+Provide a JSON response. In your response, provide the number for the category that
+best fits the stage direction type, and an explanation for your choice,
+using the following format:
+
+{
+  "category": "number",
+  "explanation": "explanation for choice"
+}
+
+Express your confidence in your response in a 0 to 1 scale, where 1 is the most confident, output this
+in the same JSON object as the category and explanation, using the key "confidence".
+
+Note that all stage directions are in French.
+

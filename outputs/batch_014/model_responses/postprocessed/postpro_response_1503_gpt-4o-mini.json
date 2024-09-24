@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes specific objects that each character is holding, such as 'un plat \u00e0 barbe' for Cadet, 'le peignoir' for the petit, and 'des hardes' for the m\u00e8re. This aligns with the category of 'object' as it focuses on the presence and role of items within the scene.",
+  "confidence": 0.9,
+  "stgdir": "Cadet aura un plat \u00e0 barbe en main, le petit portera le peignoir et la m\u00e8re aura des hardes sous le bras.",
+  "response_time": 1524.0731239318848,
+  "model": "gpt-4o-mini",
+  "categFull": "object"
+}
