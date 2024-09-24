@@ -1,0 +1,9 @@
+{
+  "category": "4",
+  "explanation": "The given stage direction starts with 'Il rentre', which indicates that a character enters the stage. This clearly falls under the category of 'entrance'. Additionally, the action 'Le marchand se m\u00eale aux curieux' describes a character mingling with the audience, which can be associated with general character movement on stage but since the first part deals with entrance it falls primarily under 'entrance'. The description of a 'bourgeois' passing with his wife also supports the movement context, but the primary action is the entrance.",
+  "confidence": 0.9,
+  "stgdir": "Il rentre. Le marchand se m\u00eale aux curieux. - Passe un bourgeois avec sa femme.",
+  "response_time": 1584.4101905822754,
+  "model": "gpt-4o",
+  "categFull": "entrance"
+}

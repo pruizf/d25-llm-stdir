@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie indique une action que le personnage doit accomplir, en l'occurrence, indiquer un arbre et signaler que son fruit est d\u00e9fendu. Ce type d'instruction correspond \u00e0 la description g\u00e9n\u00e9rale d'une action.",
+  "confidence": 0.9,
+  "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+  "response_time": 2464.409589767456,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

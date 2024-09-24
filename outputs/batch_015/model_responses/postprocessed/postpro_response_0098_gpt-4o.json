@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action du personnage (\u00ab Il la cherche de la main sans tourner la t\u00eate \u00bb). Chercher quelque chose est clairement une action. Comme la didascalie ne correspond \u00e0 aucune des autres cat\u00e9gories sp\u00e9cifiques (comme aggression, entrance, exit, etc.), la cat\u00e9gorie action est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+  "response_time": 3070.1820850372314,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit plusieurs actions des personnages. Clorinde reconduit le personnage jusqu'\u00e0 la porte de sa chambre, alors que Monsieur Bobinet remarque qu'on ne l'a pas pri\u00e9 de mettre son chapeau pendant la visite. Il s\u2019agit d'actions qui ne rentrent sp\u00e9cifiquement dans aucune autre cat\u00e9gorie d\u00e9finie, telles que interaction, movement, ou setting.",
+  "confidence": 0.9,
+  "stgdir": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.",
+  "response_time": 3475.980281829834,
+  "model": "gpt-4o",
+  "categFull": "action"
+}

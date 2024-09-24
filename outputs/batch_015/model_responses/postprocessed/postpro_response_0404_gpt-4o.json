@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement du personnage (\u00ab Il fait un mouvement \u00bb), qui n'est ni une entr\u00e9e, ni une sortie, mais une direction sp\u00e9cifiquement vers un autre personnage (le Chevalier). Cela correspond bien \u00e0 la cat\u00e9gorie mouvement.",
+  "confidence": 0.9,
+  "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+  "response_time": 2184.4167709350586,
+  "model": "gpt-4o",
+  "categFull": "movement"
+}

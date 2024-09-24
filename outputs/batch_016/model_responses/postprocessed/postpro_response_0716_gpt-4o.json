@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'Air', which is typically used to indicate music or a tune name. The specification mentions that if it starts with 'AIR' or 'Air', it is most likely a music stage direction, and the content following 'Air' appears to be the name of the tune.",
+  "confidence": 0.95,
+  "stgdir": "Air. Nanon dormait.",
+  "response_time": 1625.6139278411865,
+  "model": "gpt-4o",
+  "categFull": "music"
+}

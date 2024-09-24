@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie d\u00e9crit une suite de mouvements d'un personnage (cueillir le lis, se diriger vers une rose, toucher un arbre) et inclut un arr\u00eat suivi d'une action verbale. Ceci correspond \u00e0 la cat\u00e9gorie 'movement' qui concerne le d\u00e9placement d'un personnage. Bien que la description inclue une touche d'interaction avec des objets (le lis, la rose, l'arbre), l'accent principal est mis sur les mouvements et d\u00e9placements du personnage avant de parler.",
+  "confidence": 0.9,
+  "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+  "response_time": 5589.726209640503,
+  "model": "gpt-4o",
+  "categFull": "movement"
+}

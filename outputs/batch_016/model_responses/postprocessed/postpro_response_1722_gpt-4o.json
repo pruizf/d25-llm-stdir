@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "The stage direction 'Elle va ouvrir' translates to 'She is going to open.' This is a general character action and fits into the provided examples of actions such as open, watch, show, etc. The direction doesn't specify an interaction with an object or another character and doesn't fit into other more specific categories like aggression, entrance, or exit.",
+  "confidence": 0.95,
+  "stgdir": "Elle va ouvrir.",
+  "response_time": 1252.357006072998,
+  "model": "gpt-4o",
+  "categFull": "action"
+}
