@@ -34,6 +34,10 @@ CLI options can be seen in the `argparse` options in the clients.
 - Category definitions are in `data/category_info.py`.
 - In the case of few-shot batches, the examples in `data/sampled_df_for_prompts_0001.tsv` are added to the prompt.
 
+# Evaluation
+
+- Script `evaluate.py` and `evaluate_llama.py` produce a classification report and confustion matrix for a batch, for OpenAI and Llama results respectively. Results are written to the `plots` directory in each batch's output directory.
+
 # Result summary
 | id  | prompt                               |   data<br/>split   | model  |       prompt<br/>mode       | macro<br/>F1 | weighted<br/>F1 | acc  |
 |-----|--------------------------------------|:------------------:|--------|:---------------------------:|:------------:|:---------------:|:----:|
