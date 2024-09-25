@@ -22,7 +22,7 @@ CLI options can be seen in the `argparse` options in the clients.
   - Examples to classify are in `data/stgdir_labelGeneric_trainvalid_100-test.csv`
   - The model is `gpt-4o-mini`
   - Prompting mode is `def-few-shot`, which uses a detailed definition for each category and 20 examples for each category. Allowed prompt modes are in  ̀config.py`
-  - The language for the category definitions is  ̀en` (possible values in `config.py`).
+  - The language for the category definitions is `en` (possible values in `config.py`).
 
 # Data
 
