@@ -5,7 +5,7 @@ Pablo Ruiz Fabo & Alexia Schneider, Université de Strasbourg
 - Clients to run the LLM are:
   - `openai_client.py`
   - `llama_client.py`
-- For each batch, they create an output directory in the `results` directory.
+- For each batch, they create an output directory under `outputs`.
 - Evaluation scripts are:
 - `evaluate.py` for GPT-4 results
 - `evaluate_llama.py` for Llama results
