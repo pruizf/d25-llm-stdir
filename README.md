@@ -39,37 +39,41 @@ CLI options can be seen in the `argparse` options in the clients.
 - Script `evaluate.py` and `evaluate_llama.py` produce a classification report and confustion matrix for a batch, for GPT-4 and Llama 3.1 results respectively. Results are written to the `plots` directory in each batch's output directory.
 
 # Result summary
-| id  | prompt                               |   data<br/>split   | model  |       prompt<br/>mode       | macro<br/>F1 | weighted<br/>F1 | acc  |
-|-----|--------------------------------------|:------------------:|--------|:---------------------------:|:------------:|:---------------:|:----:|
-| 001 | general                              |         1          | gpt-4o-mini |          two-shot           |     0.48     |      0.53       | 0.52 |
-| 002 | definition                           | 0.3<br/>stratified | gpt-4o-mini |          zero-shot          |     0.51     |      0.57       | 0.57 |
-| 003 | definition + "verbs"                 | 0.3<br/>stratified | gpt-4o-mini |          zero-shot          |     0.53     |      0.59       | 0.57 |
-| 004 | definition + "verbs"                 | 0.3<br/>stratified | gpt-4o |          zero-shot          |     0.7      |      0.73       | 0.72 |
-| 005 | definition + "verbs" + fr            |         1          | gpt-4o |          zero-shot          |     0.71     |      0.74       | 0.73 |
-| 006 | definition + "verbs" + fr            |         1          | gpt-4o-mini |          zero-shot          |     0.58     |      0.64       | 0.61 |
-| 007 | general + fr                         | 0.3<br/>stratified | gpt-4o-mini | few-shot<br/>(20 per class) |     0.57     |      0.64       | 0.63 |
-| 008 | general + "verbs" + fr               | 0.3<br/>stratified | gpt-4o-mini | few-shot<br/>(20 per class) |     0.58     |      0.65       | 0.67 |
-| 009 | general + "verbs" + fr               | 0.3<br/>stratified | gpt-4o | few-shot<br/>(20 per class) |     0.73     |      0.79       | 0.78 |
-| 010 | general + "verbs" + frPrompt         | 0.3<br/>stratified | gpt-4o-mini | few-shot<br/>(20 per class) |     0.62     |      0.70       | 0.69 |
-| 011 | definition + "verbs" + frPrompt      |         1          | gpt-4o |          zero-shot          |     0.69     |      0.72       | 0.71 |
-| 012 | definition + "verbs" + frPrompt      |         1          | gpt-4o-mini |          zero-shot          |     0.54     |      0.59       | 0.57 |
-| 013 | general + "verbs" + frPrompt         |         1          | gpt-4o-mini | few-shot<br/>(20 per class) |     0.61     |      0.68       | 0.67 |
-| 014 | general + "verbs" + fr               |         1          | gpt-4o-mini | few-shot<br/>(20 per class) |     0.6      |      0.67       | 0.67 |
-| 015 | general + "verbs" + frPrompt         |         1          | gpt-4o | few-shot<br/>(20 per class) |     0.7      |      0.75       | 0.75 |
-| 102 | definition + "verbs" + fr            |         1          | llama-3 |          zero-shot          |     0.43     |      0.52       | 0.49 |
-| 103 | definition + "verbs" + fr            |         1          | llama-3.1 |          zero-shot          |     0.56     |      0.63       | 0.61 |
-| 104 | definition + "verbs" + fr + frPrompt |         1          | llama-3.1 |          zero-shot          |     0.52     |       0.6       | 0.62 |
-| 105 | general + "verbs" + fr               |        0.3         | llama-3.1 | few-shot<br/>(20 per class) |     0.46     |       0.5       | 0.51 |
+|id | definition type  | prompt language  |       example use        |   data split    |    model     | macro F1  | weighted F1  |  acc  |
+|----|:----------------:|:----------------:|:------------------------:|:---------------:|:------------:|:---------:|:------------:|:-----:|
+|001 |      simple      |        en        |         two-shot         |        1        | gpt-4o-mini  |   0.48    |     0.53     | 0.52  |
+|002 |      simple      |        en        |        zero-shot         | 0.3 stratified  | gpt-4o-mini  |   0.51    |     0.57     | 0.57  |
+|003 |     detailed     |        en        |        zero-shot         | 0.3 stratified  | gpt-4o-mini  |   0.53    |     0.59     | 0.57  |
+|004 |     detailed     |        en        |        zero-shot         | 0.3 stratified  |    gpt-4o    |    0.7    |     0.73     | 0.72  |
+|005 |     detailed     |        en        |        zero-shot         |        1        |    gpt-4o    |   0.71    |     0.74     | 0.73  |
+|006 |     detailed     |        en        |        zero-shot         |        1        | gpt-4o-mini  |   0.58    |     0.64     | 0.61  |
+|007 |      simple      |        en        | few-shot (20 per class)  | 0.3 stratified  | gpt-4o-mini  |   0.57    |     0.64     | 0.63  |
+|008 |     detailed     |        en        | few-shot (20 per class)  | 0.3 stratified  | gpt-4o-mini  |   0.58    |     0.65     | 0.67  |
+|009 |     detailed     |        en        | few-shot (20 per class)  | 0.3 stratified  |    gpt-4o    |   0.73    |     0.79     | 0.78  |
+|010 |     detailed     |        fr        | few-shot (20 per class)  | 0.3 stratified  | gpt-4o-mini  |   0.62    |     0.7      | 0.69  |
+|011 |     detailed     |        fr        |        zero-shot         |        1        |    gpt-4o    |   0.69    |     0.72     | 0.71  |
+|012 |     detailed     |        fr        |        zero-shot         |        1        | gpt-4o-mini  |   0.54    |     0.59     | 0.57  |
+|013 |     detailed     |        fr        | few-shot (20 per class)  |        1        | gpt-4o-mini  |   0.61    |     0.68     | 0.67  |
+|014 |     detailed     |        en        | few-shot (20 per class)  |        1        | gpt-4o-mini  |    0.6    |     0.67     | 0.67  |
+|015 |     detailed     |        fr        | few-shot (20 per class)  |        1        |    gpt-4o    |    0.7    |     0.75     | 0.75  |
+|102 |     detailed     |        en        |        zero-shot         |        1        |   llama-3    |   0.43    |     0.52     | 0.49  |
+|103 |     detailed     |        en        |        zero-shot         |        1        |  llama-3.1   |   0.56    |     0.63     | 0.61  |
+|104 |     detailed     |        fr        |        zero-shot         |        1        |  llama-3.1   |   0.52    |     0.6      | 0.62  |
+|105 |     detailed     |        en        | few-shot (20 per class)  |       0.3       |  llama-3.1   |   0.46    |     0.5      | 0.51  |
 
 
-## Meaning of "prompt" column
-- **general**: Classification prompt with a short definition and a varying number of examples for each category.
-- **definition**: A short definition is given for each category, without examples.
+## Legend for the result summary
+
+### *Definition type* column
+
+- **simple** definition: The prompt contains a short definition for each category. It may additionally contain examples or not, this is reflected in the `example use` column. 
+- **detailed**: Besides a definition (which may provide some more detail than the *simple* type), the prompt contains a list of expressions that may be related to the category. These expressions are not direct examples of stage directions, they may be verbs or other expressions that occur in the category's stge directions. The prompt may additionally contain examples or not, this is reflected in the `example use` column.
 - **"verbs"**: A list of expressions (but not stage directions, not direct examples) that may be related to the category is given.
-- **fr**: The prompt explicitly mentions that the text to classify is in French. The reasoning is that we asked the models to generate a text to "explain" each classification, and in some ambiguous cases like "Evelyn sort",gpt-4o-mini was interpreting the text as English (as a way of "sorting" something) instead of French (as someone exiting).
-- **frPrompt**: The prompt is written in French. It is thus no longer mentioned that the examples to classify are in French.
 
-## Data splits
+Note that, in all batches from 005 onwards, all prompts in English mention explicitly that the text to classify is in French. The reason for adding this information to the prompt is the following: We asked the models to generate a text to "explain" each classification. In early batches, it was seen that `gpt-4o-mini` was interpreting some potentially ambiguous examples as English text. E.g. a case like "Evelyn sort" might get interpreted as English text, as a type of "sort" (a method for arranging things in a order), rather than as French text (inflected form of verb "sortir", for "exiting").
+
+### *Data splits* column
 
 - **1**: 100% of the testset (2923 examples) from [Schneider & Ruiz Fabo (2024)](https://aclanthology.org/2024.latechclfl-1.28/), available at https://nakala.fr/10.34847/nkl.fde37ug3.
 - **0.3 stratified**: 30% of the testset, stratified by category.
+
