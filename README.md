@@ -39,6 +39,9 @@ CLI options can be seen in the `argparse` options in the clients.
 - Script `evaluate.py` and `evaluate_llama.py` produce a classification report and confustion matrix for a batch, for GPT-4 and Llama 3.1 results respectively. Results are written to the `plots` directory in each batch's output directory.
 
 # Result summary
+
+A description of column values follows the table.
+
 |id | definition type  | prompt language  |       example use        |   data split    |    model     | macro F1  | weighted F1  |  acc  |
 |----|:----------------:|:----------------:|:------------------------:|:---------------:|:------------:|:---------:|:------------:|:-----:|
 |001 |      simple      |        en        |         two-shot         |        1        | gpt-4o-mini  |   0.48    |     0.53     | 0.52  |
