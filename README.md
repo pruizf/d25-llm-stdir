@@ -7,8 +7,8 @@ Pablo Ruiz Fabo & Alexia Schneider, Université de Strasbourg
   - `llama_client.py`
 - For each batch, they create an output directory under `outputs`.
 - Evaluation scripts are:
-- `evaluate.py` for GPT-4 results
-- `evaluate_llama.py` for Llama results
+  - `evaluate.py` for GPT-4 results
+  - `evaluate_llama.py` for Llama results
 - Configuration options are in `config.py`
 - Examples to classify are in `data`
 
