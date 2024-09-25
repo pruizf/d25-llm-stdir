@@ -70,10 +70,9 @@ A description of column values follows the table.
 ### *Definition type* column
 
 - **simple** definition: The prompt contains a short definition for each category. It may additionally contain examples or not, this is reflected in the `example use` column. 
-- **detailed**: Besides a definition (which may provide some more detail than the *simple* type), the prompt contains a list of expressions that may be related to the category. These expressions are not direct examples of stage directions, they may be verbs or other expressions that occur in the category's stge directions. The prompt may additionally contain examples or not, this is reflected in the `example use` column.
-- **"verbs"**: A list of expressions (but not stage directions, not direct examples) that may be related to the category is given.
+- **detailed**: Besides a definition (which may provide some more detail than the *simple* type), the prompt contains a list of expressions that may be related to the category. These expressions are not direct examples of stage directions, they may be verbs or other expressions related to the vocabulary of the category's stage directions. The prompt may additionally contain examples or not, this is reflected in the `example use` column.
 
-Note that, in all batches from 005 onwards, all prompts in English mention explicitly that the text to classify is in French. The reason for adding this information to the prompt is the following: We asked the models to generate a text to "explain" each classification. In early batches, it was seen that `gpt-4o-mini` was interpreting some potentially ambiguous examples as English text. E.g. a case like "Evelyn sort" might get interpreted as English text, as a type of "sort" (a method for arranging things in a order), rather than as French text (inflected form of verb "sortir", for "exiting").
+Note that, in all batches from 005 onwards, all prompts in English mention explicitly that the text to classify is in French. The reason for adding this information is the following: We asked the models to generate a text to "explain" each classification. In early batches, it was seen that `gpt-4o-mini` was interpreting some potentially ambiguous examples as English text. E.g. a case like "Evelyn sort" might get interpreted as English text, as a type of "sort" (a method for arranging things in a order), rather than as French text (inflected form of verb "sortir", for "exiting").
 
 ### *Data splits* column
 
