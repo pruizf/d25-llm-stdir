@@ -7,7 +7,7 @@ Pablo Ruiz Fabo & Alexia Schneider, Université de Strasbourg
   - `llama_client.py`
 - For each batch, they create an output directory in the `results` directory.
 - Evaluation scripts are:
-- `evaluate.py` for OpenAI results
+- `evaluate.py` for GPT-4 results
 - `evaluate_llama.py` for Llama results
 - Configuration options are in `config.py`
 - Examples to classify are in `data`
@@ -36,7 +36,7 @@ CLI options can be seen in the `argparse` options in the clients.
 
 # Evaluation
 
-- Script `evaluate.py` and `evaluate_llama.py` produce a classification report and confustion matrix for a batch, for OpenAI and Llama results respectively. Results are written to the `plots` directory in each batch's output directory.
+- Script `evaluate.py` and `evaluate_llama.py` produce a classification report and confustion matrix for a batch, for GPT-4 and Llama 3.1 results respectively. Results are written to the `plots` directory in each batch's output directory.
 
 # Result summary
 | id  | prompt                               |   data<br/>split   | model  |       prompt<br/>mode       | macro<br/>F1 | weighted<br/>F1 | acc  |
