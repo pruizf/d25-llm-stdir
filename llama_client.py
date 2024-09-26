@@ -84,6 +84,12 @@ if __name__ == "__main__":
     print(f"# Processing stage direction: {idx}")
     if False and idx > 10:
       break
+    # do not call model if the response is already available
+    out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
+                               f"postpro_response_{str.zfill(str(idx), 4)}_{args.model}.json")
+    if os.path.exists(out_resp_fn):
+      print(f"# Skipping stage direction: {idx}")
+      continue
     # general prompt (brief definition and two or three examples)
     if args.prompt_mode == "two-shot":
       # Note: Prompt is English, the two examples are in French, and we did
