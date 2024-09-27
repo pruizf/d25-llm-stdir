@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Elle cherche encore.' falls under the 'action' category. The verb 'chercher' (to search) is a general character action that does not fit into other more specific categories provided. It is not violent, does not involve interaction with others, and does not describe an entrance, exit, or movement towards a specific direction.",
+  "confidence": "1",
+  "stgdir": "Elle cherche encore.",
+  "response_time": 2676.8674850463867,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "4",
+  "explanation": "The stage direction 'Elle entre par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 est sortie Julie.' indicates that a character is entering the stage, which fits the definition of 'entrance' (Category 4). The description of her appearance and clothing is additional detail that does not change the primary action of entering.",
+  "confidence": 0.9,
+  "stgdir": "Elle entre par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 est sortie Julie. Elle est coiff\u00e9e en cheveux avec des rubans et porte une toilette \u00e9l\u00e9gante.",
+  "response_time": 4680.398464202881,
+  "model": "mistral-large-latest",
+  "categFull": "entrance"
+}

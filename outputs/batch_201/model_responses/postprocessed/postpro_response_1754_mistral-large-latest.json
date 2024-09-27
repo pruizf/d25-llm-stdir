@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction 'Air : Ces Filles sont si sottes.' is classified under the 'music' category. This is because it starts with the word 'Air', which typically indicates a music stage direction, and the following text 'Ces Filles sont si sottes.' likely refers to the name of the tune or a musical cue.",
+  "confidence": 0.95,
+  "stgdir": "Air : Ces Filles sont si sottes.",
+  "response_time": 2786.308526992798,
+  "model": "mistral-large-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "4",
+  "explanation": "The stage direction 'L'exempt rentre, Cl\u00e9arque continue.' indicates that a character (L'exempt) enters the stage, which fits the definition of an entrance (category 4). The continuation of Cl\u00e9arque's action is secondary and does not change the primary action of entering.",
+  "confidence": 1,
+  "stgdir": "L'exempt rentre, Cl\u00e9arque continue.",
+  "response_time": 2652.75502204895,
+  "model": "mistral-large-latest",
+  "categFull": "entrance"
+}

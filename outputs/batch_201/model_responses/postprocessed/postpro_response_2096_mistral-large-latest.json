@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a non-character action that involves a sound from off-stage, which is a narrative element intended for readers. It narrates the sound of a colporteur (vendor) shouting about a lottery, which fits the definition of a long stage direction with narrative quality.",
+  "confidence": "0.95",
+  "stgdir": "On entend un colporteur qui crie en dehors : \u00ab C'est aujourd'hui la Loterie Nationale de France ; qu'est-ce qui veut le gros lot ? 955 francs pour 24 sols.\u00bb",
+  "response_time": 2453.0599117279053,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

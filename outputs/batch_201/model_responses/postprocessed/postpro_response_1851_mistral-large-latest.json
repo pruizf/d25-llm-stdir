@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Elle donne la pi\u00e8ce \u00e0 Raoul' describes a character giving an object to another character, which fits the definition of the 'object' category. The verb 'donner' (to give) and the mention of an object ('la pi\u00e8ce') clearly indicate an interaction with an object.",
+  "confidence": 1,
+  "stgdir": "Elle donne la pi\u00e8ce \u00e0 Raoul.",
+  "response_time": 4800.420045852661,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

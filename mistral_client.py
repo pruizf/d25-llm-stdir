@@ -77,7 +77,7 @@ if __name__ == "__main__":
     os.makedirs(cf.log_dir)
 
   # run the client
-  mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
+  mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY_P"))
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   for idx, row in stdirs.iterrows():
@@ -132,7 +132,7 @@ if __name__ == "__main__":
         category_details=catinfo_template.format(**shots_per_cat))
 
     completion, resp, td = get_mistral_response(mistral_client, args.model, prompt, cf)
-    time.sleep(3)
+    #time.sleep(3)
 
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours' describes a general action where the character is trying to resume his speech. The verb 'chercher' (to search) falls under the general action category, and no other category specifically fits this description better.",
+  "confidence": 0.9,
+  "stgdir": "Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours.",
+  "response_time": 2471.0986614227295,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

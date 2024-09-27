@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction provided is a long narrative that describes a sequence of actions and dialogues between characters. It includes details about Frontin's difficulties in obtaining money and Adraste's reaction and instructions. This fits the definition of 'narration' which is intended for readers and narrates a sequence of character actions.",
+  "confidence": "0.95",
+  "stgdir": "FRONTIN dit \u00e0 son ma\u00eetre qu'il a toutes les peines du monde \u00e0 tirer de l'argent de Monsieur Simon son usurier ordinaire mais qu'\u00e0 la fin il lui a donn\u00e9 deux mille livres, apr\u00e8s avoir rempli son blanc-seing de quatre mille livres. Ce sont deux mille livres qu'il m'en co\u00fbte, r\u00e9pond Adraste mais que ne ferait-on pas pour se tirer d'affaire avec honneur ? Va ajo\u00fbte-t-il \u00e0 Frontin, assemble mes cr\u00e9anciers chez moi : je vais t'y joindre, et les payer.",
+  "response_time": 3669.957399368286,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

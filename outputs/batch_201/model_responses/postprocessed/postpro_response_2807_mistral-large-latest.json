@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction '\u00c9clatant de rire, apr\u00e8s avoir fix\u00e9 quelques secondes ces amants heureux, sinon honteux, au moins embarrass\u00e9s de leur bonheur.' describes a character laughing (\u00e9clatant de rire) and looking at a couple (fix\u00e9 quelques secondes ces amants heureux). These actions are general character actions that do not fit into more specific categories like aggression, entrance, exit, etc. Therefore, it falls under the 'action' category.",
+  "confidence": "0.9",
+  "stgdir": "\u00c9clatant de rire, apr\u00e8s avoir fix\u00e9 quelques secondes ces amants heureux, sinon honteux, au moins embarrass\u00e9s de leur bonheur.",
+  "response_time": 7140.929698944092,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

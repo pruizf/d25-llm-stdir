@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction describes Ad\u00e9la\u00efde remaining absorbed and Madame Wanderk trying to suppress laughter. These actions fall under general character actions and do not fit into more specific categories like interaction, movement, or aggression. Verbs like 'reste absorb\u00e9e' (remains absorbed) and 'jette un coup d'oeil' (throws a glance) are general actions that do not involve physical interaction with others or significant movement.",
+  "confidence": 0.9,
+  "stgdir": "Ad\u00e9la\u00efde reste absorb\u00e9e : Madame Wanderk pr\u00eate \u00e0 rentrer, jette un coup d'oeil, et \u00e0 toutes les peines du monde \u00e0 s'emp\u00eacher de rire.",
+  "response_time": 3201.690435409546,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

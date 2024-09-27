@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "The stage direction describes non-verbal interactions between characters: Il va se cacher derri\u00e8re L\u00e9andre (hiding behind L\u00e9andre), Pierrot fait signe \u00e0 Arlequin de s'approcher (Pierrot signals Arlequin to approach), il flatte le Gougou (he pets the Gougou), fait entendre par signes \u00e0 Arlequin qu'il est doux et honorable d'en \u00eatre mang\u00e9 (indicates by signs to Arlequin that it is sweet and honorable to be eaten by it), Arlequin branle la t\u00eate (Arlequin shakes his head), Carabosse veut entra\u00eener Arlequin vers le Gougou (Carabosse tries to lead Arlequin towards the Gougou). These are all non-verbal interactions, fitting the definition of category 6.",
+  "confidence": "1.0",
+  "stgdir": "Il va se cacher derri\u00e8re L\u00e9andre. Pierrot fait signe \u00e0 Arlequin de s'approcher ; il flatte le Gougou et fait entendre par signes \u00e0 Arlequin qu'il est doux et honorable d'en \u00eatre mang\u00e9. Arlequin branle la t\u00eate. Carabosse veut entra\u00eener Arlequin vers le Gougou.",
+  "response_time": 5640.993356704712,
+  "model": "mistral-large-latest",
+  "categFull": "interaction"
+}

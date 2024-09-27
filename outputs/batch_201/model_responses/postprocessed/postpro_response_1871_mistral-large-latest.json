@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Il entend de Porcie' translates to 'He hears from Porcie.' This involves a character action of listening, which falls under the general character action category since it does not specifically fit into any of the more specialized categories like entrance, exit, interaction, or movement.",
+  "confidence": 0.9,
+  "stgdir": "Il entend de Porcie.",
+  "response_time": 2530.895709991455,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

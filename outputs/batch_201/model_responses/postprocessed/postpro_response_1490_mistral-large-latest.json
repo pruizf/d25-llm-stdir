@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction 'Et puis \u00e0 tous.' indicates that the following speech is addressed to everyone, which fits the definition of the 'toward' category. This category is used when the stage direction indicates the addressee of a speech.",
+  "confidence": 0.95,
+  "stgdir": "Et puis \u00e0 tous.",
+  "response_time": 3773.446559906006,
+  "model": "mistral-large-latest",
+  "categFull": "toward"
+}

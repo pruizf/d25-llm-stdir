@@ -1,4 +1,5 @@
-import os
+"""Classification report to table"""
+
 import sys
 import re
 

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Il les regarde toujours.' falls under the 'action' category. The verb 'regarde' (looks) is a general character action that does not fit into other more specific categories such as aggression, entrance, exit, etc. It implies a continuous action of looking, which is a general action.",
+  "confidence": 0.9,
+  "stgdir": "Il les regarde toujours.",
+  "response_time": 2727.2748947143555,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

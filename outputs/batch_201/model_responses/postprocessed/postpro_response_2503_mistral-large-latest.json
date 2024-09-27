@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction '[Il interrompt la lecture.]' describes a character action of interrupting reading, which falls under the general character action category. Verbs like 'interrompt' fit well within the scope of general actions defined in category 0.",
+  "confidence": 1,
+  "stgdir": "[Il interrompt la lecture. ]",
+  "response_time": 2568.890333175659,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

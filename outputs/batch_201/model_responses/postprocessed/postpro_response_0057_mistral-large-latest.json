@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction describes general actions performed by characters: 'Le mousse montre comment charger un mousquet' (the cabin boy shows how to load a musket), 'Le bosco bouge le canon' (the boatswain moves the cannon), and 'Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble' (Moli\u00e8re finds a hat with a large feather and puts it on). These actions do not fit into more specific categories like aggression, interaction, or movement. Therefore, 'action' is the most appropriate category.",
+  "confidence": "0.95",
+  "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+  "response_time": 4079.331874847412,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

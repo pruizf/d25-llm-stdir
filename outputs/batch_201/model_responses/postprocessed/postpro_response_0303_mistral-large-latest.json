@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes the characters' interaction with an object (a robe) and their appearance, including Th\u00e9r\u00e8se's clothing and emotional state. This fits the definition of the 'object' category, which includes descriptions of objects and interactions with them.",
+  "confidence": 0.9,
+  "stgdir": "Th\u00e9r\u00e8se et Manette sont \u00e0 c\u00f4t\u00e9 l'une de l'autre, Elles travaillent ensemble \u00e0 garnir une robe. Th\u00e9r\u00e8se est habill\u00e9e tr\u00e8s simplement, coiff\u00e9e en grand bonnet, et para\u00eet triste et r\u00eaveuse.",
+  "response_time": 2288.8505458831787,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

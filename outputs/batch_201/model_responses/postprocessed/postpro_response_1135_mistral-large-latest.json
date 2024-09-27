@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Personne ne bouge.' indicates that no one should move, which falls under the category of character movement. Since it specifies a lack of movement, it is directly related to the movement of characters on stage but does not involve exit or entrance.",
+  "confidence": "1",
+  "stgdir": "Personne ne bouge.",
+  "response_time": 2619.09556388855,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

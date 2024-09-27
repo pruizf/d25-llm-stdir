@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "The stage direction 'Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e. Les derniers sont repouss\u00e9s, et abandonnent le champ de bataille.' describes a violent action involving fighting with swords and one group being repelled and leaving the battlefield. This clearly falls under the 'aggression' category, which involves violent actions like fighting.",
+  "confidence": "1.0",
+  "stgdir": "Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e. Les derniers sont repouss\u00e9s, et abandonnent le champ de bataille.",
+  "response_time": 3750.02121925354,
+  "model": "mistral-large-latest",
+  "categFull": "aggression"
+}

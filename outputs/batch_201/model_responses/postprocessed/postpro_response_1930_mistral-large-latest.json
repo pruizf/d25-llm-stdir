@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'On apporte un grand Miroir, Ang\u00e9lique s'y voit fort laide, et s'en va toute f\u00e2ch\u00e9e.' involves a character interacting with an object (a mirror). Ang\u00e9lique looks at herself in the mirror, which is a direct interaction with the object, and then she leaves, which is a consequence of her interaction with the mirror. Therefore, it fits the definition of Category 10: object.",
+  "confidence": "0.9",
+  "stgdir": "On apporte un grand Miroir, Ang\u00e9lique s'y voit fort laide, et s'en va toute f\u00e2ch\u00e9e.",
+  "response_time": 3555.8152198791504,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

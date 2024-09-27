@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Le Chevalier tombe \u00e0 genoux' translates to 'The Knight falls to his knees.' This action falls under the general character action category as it involves a common physical action (falling to one's knees) that does not fit any of the more specific categories like aggression, entrance, exit, etc. Verbs like 'fall' and 'kneel' are explicitly mentioned as part of this category.",
+  "confidence": 1.0,
+  "stgdir": "Le Chevalier tombe \u00e0 genoux;",
+  "response_time": 3367.8250312805176,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

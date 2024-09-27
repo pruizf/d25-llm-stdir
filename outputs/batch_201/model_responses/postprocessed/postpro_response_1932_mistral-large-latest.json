@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction '\u00c0 Antoine, qui veut parler.' indicates the addressee of a speech, which falls under the 'toward' category. It specifies who the character is addressing, which is Antoine in this case.",
+  "confidence": "1",
+  "stgdir": "\u00c0 Antoine, qui veut parler.",
+  "response_time": 2148.939609527588,
+  "model": "mistral-large-latest",
+  "categFull": "toward"
+}

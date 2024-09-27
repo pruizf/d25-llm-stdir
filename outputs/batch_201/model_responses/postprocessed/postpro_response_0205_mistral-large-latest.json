@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a sequence of actions and interactions between characters, including the gratitude expressed by Neptune and the invitation to the 'sauvages' to come to Fort-Royal. It also includes a musical element at the end. This narrative quality and length make it fit best into the 'narration' category.",
+  "confidence": 0.9,
+  "stgdir": "Apr\u00e8s que Neptune eut \u00e9t\u00e9 remerci\u00e9 par le sieur de Poutrincourt de ses offres au bieN de la France, les sauvages le furent semblablement de leur bonne volont\u00e9 et d\u00e9votion, et incit\u00e9s de venir au Fort-Royal prendre du caracona. \u00c0 l'instant la troupe de Neptune chante en musique \u00e0 quatre parties ce qui s'enfuit.",
+  "response_time": 2775.113821029663,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction 'Elle parle \u00e0 Anth\u00e9nor.' clearly indicates the addressee of a speech, which is Anth\u00e9nor. This fits the definition of the 'toward' category, which is used when the stage direction specifies who the character is speaking to.",
+  "confidence": 1.0,
+  "stgdir": "Elle parle \u00e0 Anth\u00e9nor.",
+  "response_time": 2368.9565658569336,
+  "model": "mistral-large-latest",
+  "categFull": "toward"
+}

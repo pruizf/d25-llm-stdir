@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a sequence of actions and events that are narrated to the reader. It includes the Ambassadeurs' repeated demand, their lack of success, and the secretive leaving of their ring in the Queen's palace. This narrative quality fits the definition of 'narration' as it provides a detailed account of actions and events.",
+  "confidence": 0.9,
+  "stgdir": "Au m\u00eame temps les Ambassadeurs de Ritiger redoublent leur demande, mais non pas avec un meilleur succ\u00e8s que la premi\u00e8re fois ; sinon que par une adresse secr\u00e8te ils laissent leur bague dans le Palais de cette Reine.",
+  "response_time": 2709.489107131958,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

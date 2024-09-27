@@ -1,0 +1,9 @@
+{
+  "category": "4",
+  "explanation": "The stage direction describes characters entering the stage, which is explicitly defined as 'entrance' in the category list. The use of the verb 'entrent' (enter) and the description of the characters' order of entrance aligns with this category.",
+  "confidence": 1.0,
+  "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+  "response_time": 2176.5050888061523,
+  "model": "mistral-large-latest",
+  "categFull": "entrance"
+}

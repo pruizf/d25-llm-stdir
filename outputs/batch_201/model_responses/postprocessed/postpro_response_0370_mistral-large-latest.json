@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Le Docteur appelle en dedans' implies the Doctor is calling out from inside, which is a general character action that does not fit more specifically into other categories such as entrance, exit, or interaction. Therefore, it best fits into the 'action' category.",
+  "confidence": "0.9",
+  "stgdir": "Le Docteur appelle en dedans.",
+  "response_time": 2570.2145099639893,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}
