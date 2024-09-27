@@ -45,28 +45,28 @@ A description of column values follows the table.
 
 Batch IDs starting with 0 are for GPT-4 models, starting with 1 are for Llama models, and starting with 2 are for Mistral models.
 
-| id   | definition type  | prompt language  |       example use       |   data split   |    model     | macro F1 | weighted F1 | acc  |
-|------|:----------------:|:----------------:|:-----------------------:|:--------------:|:------------:|:--------:|:-----------:|:----:|
-| 001  |      simple      |        en        |        two-shot         |       1        | gpt-4o-mini  |   0.48   |    0.53     | 0.52 |
-| 002  |      simple      |        en        |        zero-shot        | 0.3 stratified | gpt-4o-mini  |   0.51   |    0.57     | 0.57 |
-| 003  |     detailed     |        en        |        zero-shot        | 0.3 stratified | gpt-4o-mini  |   0.53   |    0.59     | 0.57 |
-| 004  |     detailed     |        en        |        zero-shot        | 0.3 stratified |    gpt-4o    |   0.7    |    0.73     | 0.72 |
-| 005  |     detailed     |        en        |        zero-shot        |       1        |    gpt-4o    |   0.71   |    0.74     | 0.73 |
-| 006  |     detailed     |        en        |        zero-shot        |       1        | gpt-4o-mini  |   0.58   |    0.64     | 0.61 |
-| 007  |      simple      |        en        | few-shot (20 per class) | 0.3 stratified | gpt-4o-mini  |   0.57   |    0.64     | 0.63 |
-| 008  |     detailed     |        en        | few-shot (20 per class) | 0.3 stratified | gpt-4o-mini  |   0.58   |    0.65     | 0.67 |
-| 009  |     detailed     |        en        | few-shot (20 per class) | 0.3 stratified |    gpt-4o    |   0.73   |    0.79     | 0.78 |
-| 010  |     detailed     |        fr        | few-shot (20 per class) | 0.3 stratified | gpt-4o-mini  |   0.62   |     0.7     | 0.69 |
-| 011  |     detailed     |        fr        |        zero-shot        |       1        |    gpt-4o    |   0.69   |    0.72     | 0.71 |
-| 012  |     detailed     |        fr        |        zero-shot        |       1        | gpt-4o-mini  |   0.54   |    0.59     | 0.57 |
-| 013  |     detailed     |        fr        | few-shot (20 per class) |       1        | gpt-4o-mini  |   0.61   |    0.68     | 0.67 |
-| 014  |     detailed     |        en        | few-shot (20 per class) |       1        | gpt-4o-mini  |   0.6    |    0.67     | 0.67 |
-| 015  |     detailed     |        fr        | few-shot (20 per class) |       1        |    gpt-4o    |   0.7    |    0.75     | 0.75 |
-| 102  |     detailed     |        en        |        zero-shot        |       1        |   llama-3    |   0.43   |    0.52     | 0.49 |
-| 103  |     detailed     |        en        |        zero-shot        |       1        |  llama-3.1   |   0.56   |    0.63     | 0.61 |
-| 104  |     detailed     |        fr        |        zero-shot        |       1        |  llama-3.1   |   0.52   |     0.6     | 0.62 |
-| 105  |     detailed     |        en        | few-shot (20 per class) |      0.3       |  llama-3.1   |   0.46   |     0.5     | 0.51 |
-| 201 |     detailed     |        en        |        zero-shot        |       1        |  mistral-large-2407   |   0.70   |    0.74     | 0.73 |
+| id   | definition type  | prompt language  |       example use       |     data split     |    model     | macro F1 | weighted F1 | acc  |
+|------|:----------------:|:----------------:|:-----------------------:|:------------------:|:------------:|:--------:|:-----------:|:----:|
+| 001  |      simple      |        en        |        two-shot         |         1          | gpt-4o-mini  |   0.48   |    0.53     | 0.52 |
+| 002  |      simple      |        en        |        zero-shot        |   0.3 stratified   | gpt-4o-mini  |   0.51   |    0.57     | 0.57 |
+| 003  |     detailed     |        en        |        zero-shot        |   0.3 stratified   | gpt-4o-mini  |   0.53   |    0.59     | 0.57 |
+| 004  |     detailed     |        en        |        zero-shot        |   0.3 stratified   |    gpt-4o    |   0.7    |    0.73     | 0.72 |
+| 005  |     detailed     |        en        |        zero-shot        |         1          |    gpt-4o    |   0.71   |    0.74     | 0.73 |
+| 006  |     detailed     |        en        |        zero-shot        |         1          | gpt-4o-mini  |   0.58   |    0.64     | 0.61 |
+| 007  |      simple      |        en        | few-shot (20 per class) |   0.3 stratified   | gpt-4o-mini  |   0.57   |    0.64     | 0.63 |
+| 008  |     detailed     |        en        | few-shot (20 per class) |   0.3 stratified   | gpt-4o-mini  |   0.58   |    0.65     | 0.67 |
+| 009  |     detailed     |        en        | few-shot (20 per class) |   0.3 stratified   |    gpt-4o    |   0.73   |    0.79     | 0.78 |
+| 010  |     detailed     |        fr        | few-shot (20 per class) |   0.3 stratified   | gpt-4o-mini  |   0.62   |     0.7     | 0.69 |
+| 011  |     detailed     |        fr        |        zero-shot        |         1          |    gpt-4o    |   0.69   |    0.72     | 0.71 |
+| 012  |     detailed     |        fr        |        zero-shot        |         1          | gpt-4o-mini  |   0.54   |    0.59     | 0.57 |
+| 013  |     detailed     |        fr        | few-shot (20 per class) |         1          | gpt-4o-mini  |   0.61   |    0.68     | 0.67 |
+| 014  |     detailed     |        en        | few-shot (20 per class) |         1          | gpt-4o-mini  |   0.6    |    0.67     | 0.67 |
+| 015  |     detailed     |        fr        | few-shot (20 per class) | 0.3<br/>stratified |    gpt-4o    |   0.7    |    0.75     | 0.75 |
+| 102  |     detailed     |        en        |        zero-shot        |         1          |   llama-3    |   0.43   |    0.52     | 0.49 |
+| 103  |     detailed     |        en        |        zero-shot        |         1          |  llama-3.1   |   0.56   |    0.63     | 0.61 |
+| 104  |     detailed     |        fr        |        zero-shot        |         1          |  llama-3.1   |   0.52   |     0.6     | 0.62 |
+| 105  |     detailed     |        en        | few-shot (20 per class) |        0.3         |  llama-3.1   |   0.46   |     0.5     | 0.51 |
+| 201 |     detailed     |        en        |        zero-shot        |         1          |  mistral-large-2407   |   0.70   |    0.74     | 0.73 |
 
 ## Legend for the result summary
 
