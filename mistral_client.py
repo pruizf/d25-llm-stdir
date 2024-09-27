@@ -1,4 +1,4 @@
-"""Open AI client"""
+"""Mistral client"""
 
 import argparse
 from importlib import reload
@@ -46,7 +46,7 @@ def get_mistral_response(m_client, model, prompt, cf):
 
 if __name__ == "__main__":
   # cli args
-  parser = argparse.ArgumentParser(description="Open AI client")
+  parser = argparse.ArgumentParser(description="Mistral client")
   parser.add_argument("batch_name", help="Batch name used as prefix on outputs")
   parser.add_argument("corpus", help="Corpus to run the model on")
   parser.add_argument("model", help="Model to use for generating the response")
