@@ -5,9 +5,10 @@ Pablo Ruiz Fabo & Alexia Schneider, Université de Strasbourg
 - Clients to run the LLM are:
   - `openai_client.py`
   - `llama_client.py`
+  - `mistral_client.py`
 - For each batch, they create an output directory under `outputs`.
 - Evaluation scripts are:
-  - `evaluate.py` for GPT-4 results
+  - `evaluate.py` for GPT-4 and Mistral results
   - `evaluate_llama.py` for Llama results
 - Configuration options are in `config.py`
 - Examples to classify are in `data`
@@ -41,6 +42,8 @@ CLI options can be seen in the `argparse` options in the clients.
 # Result summary
 
 A description of column values follows the table.
+
+Batch IDs starting with 0 are for GPT-4 models, starting with 1 are for Llama models, and starting with 2 are for Mistral models.
 
 |id | definition type  | prompt language  |       example use        |   data split    |    model     | macro F1  | weighted F1  |  acc  |
 |----|:----------------:|:----------------:|:------------------------:|:---------------:|:------------:|:---------:|:------------:|:-----:|

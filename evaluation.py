@@ -1,4 +1,4 @@
-"""Evaluating LLM-based classification"""
+"""Evaluating LLM-based classification (GPT and Mistral)"""
 
 import argparse
 from importlib import reload
