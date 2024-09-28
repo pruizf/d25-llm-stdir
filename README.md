@@ -66,6 +66,7 @@ Batch IDs starting with 0 are for GPT-4 models, starting with 1 are for Llama mo
 | 103 |     detailed     |       en        |        zero-shot        |         1          |  llama-3.1   |   0.56   |    0.63     | 0.61 |
 | 104 |     detailed     |       fr        |        zero-shot        |         1          |  llama-3.1   |   0.52   |     0.6     | 0.62 |
 | 105 |     detailed     |       en        | few-shot (20 per class) |        0.3         |  llama-3.1   |   0.46   |     0.5     | 0.51 |
+| 107 |     detailed     |       fr        | few-shot (20 per class) |        0.3         |  llama-3.1   |   0.48   |    0.56     | 0.55 |
 | 201 |     detailed     |       en        |        zero-shot        |         1          |  mistral-large-2407   |   0.70   |    0.74     | 0.73 |
 | 202 |     detailed     |       fr        |        zero-shot        |         1          |  mistral-large-2407   |   0.72   |    0.76     | 0.75 |
 
