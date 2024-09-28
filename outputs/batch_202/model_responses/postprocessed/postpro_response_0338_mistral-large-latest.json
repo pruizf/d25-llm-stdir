@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit une interaction avec un objet (la b\u00fbche) et mentionne des actions sp\u00e9cifiques li\u00e9es \u00e0 cet objet (prendre, faire des gestes mena\u00e7ants, poser sur la table). Cela correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'object' qui inclut la manipulation d'objets.",
+  "confidence": 1,
+  "stgdir": "Il prend la b\u00fbche et fait dans l'air des gestes mena\u00e7ants, il pose au milieu de la table.",
+  "response_time": 3108.067512512207,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

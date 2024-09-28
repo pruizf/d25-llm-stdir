@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit un personnage dont la robe, le chapeau et la perruque tombent, ce qui implique une interaction avec des objets (v\u00eatements). Cette description correspond bien \u00e0 la cat\u00e9gorie 'object' qui inclut des actions comme manipuler des objets ou des v\u00eatements.",
+  "confidence": 0.9,
+  "stgdir": "En se d\u00e9menant, sa robe, son chapeau et sa perruque tombent.",
+  "response_time": 3287.1193885803223,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

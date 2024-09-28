@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir montrer les deux premiers doigts de chaque main et les croiser. Cette action ne correspond pas \u00e0 une interaction verbale (cat\u00e9gorie 6), ni \u00e0 une entr\u00e9e ou sortie (cat\u00e9gories 4 et 5), ni \u00e0 une interaction avec un objet (cat\u00e9gorie 10). Elle ne d\u00e9crit pas non plus une agression (cat\u00e9gorie 1) ou une d\u00e9livrance vocale (cat\u00e9gorie 3). Par cons\u00e9quent, la cat\u00e9gorie 'action' (cat\u00e9gorie 0) est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+  "response_time": 5129.164934158325,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

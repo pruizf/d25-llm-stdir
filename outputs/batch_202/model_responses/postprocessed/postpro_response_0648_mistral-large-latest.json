@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'On frappe \u00e0 la porte au fond' d\u00e9crit une action sp\u00e9cifique effectu\u00e9e par un personnage, \u00e0 savoir frapper \u00e0 la porte. Cette action ne rentre pas dans les cat\u00e9gories plus sp\u00e9cifiques comme 'entrance', 'exit', 'interaction', 'movement', etc. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale 'action' (cat\u00e9gorie 0).",
+  "confidence": 1,
+  "stgdir": "On frappe \u00e0 la porte au fond.",
+  "response_time": 3749.858617782593,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

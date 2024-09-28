@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il se laisse choir sur la borne' d\u00e9crit une action du personnage, en l'occurrence le fait de se laisser tomber sur un objet. Cette action est g\u00e9n\u00e9rale et ne correspond pas \u00e0 une cat\u00e9gorie plus sp\u00e9cifique comme l'agression, l'entr\u00e9e, la sortie, etc. Elle rel\u00e8ve donc de la cat\u00e9gorie 'action' (cat\u00e9gorie 0).",
+  "confidence": 1.0,
+  "stgdir": "Il se laisse choir sur la borne.",
+  "response_time": 4156.800031661987,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

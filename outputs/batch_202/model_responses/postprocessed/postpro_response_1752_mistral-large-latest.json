@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il va pour \u00e9couter \u00e0 la porte' d\u00e9crit une action sp\u00e9cifique du personnage, qui est d'\u00e9couter \u00e0 la porte. Cette action n'entre pas dans les cat\u00e9gories plus sp\u00e9cifiques comme l'agression, l'apart\u00e9, l'entr\u00e9e, la sortie, etc. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale 'action' (cat\u00e9gorie 0).",
+  "confidence": 1,
+  "stgdir": "Il va pour \u00e9couter \u00e0 la porte.",
+  "response_time": 3659.590721130371,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

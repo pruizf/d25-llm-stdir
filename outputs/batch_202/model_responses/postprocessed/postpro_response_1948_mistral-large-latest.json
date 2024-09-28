@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Lisant :' d\u00e9crit une action simple du personnage, qui est de lire. Cette action ne correspond pas sp\u00e9cifiquement \u00e0 une entr\u00e9e, une sortie, une interaction non verbale, un mouvement, une narration, une description d'objet, une mise en sc\u00e8ne, ou une indication de destinataire. Elle ne d\u00e9crit pas non plus une agression, un apart\u00e9, une mani\u00e8re de d\u00e9livrer une r\u00e9plique, ou une musique. Par cons\u00e9quent, la cat\u00e9gorie 'action' (0) est la plus appropri\u00e9e pour cette didascalie.",
+  "confidence": 1,
+  "stgdir": "Lisant :",
+  "response_time": 4505.241394042969,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit l'action du personnage qui d\u00e9chire ses billets, ce qui est une interaction avec un objet. La cat\u00e9gorie 10 (object) est la plus appropri\u00e9e car elle concerne la manipulation d'objets.",
+  "confidence": 0.9,
+  "stgdir": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets pour compl\u00e9ter la description du repas qu'il fait.",
+  "response_time": 2645.833969116211,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

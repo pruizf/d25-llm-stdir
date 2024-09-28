@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Serment de l'Ordre de Chevalerie' d\u00e9crit une action sp\u00e9cifique des personnages, \u00e0 savoir le serment. Bien que cette action soit c\u00e9r\u00e9monielle et puisse impliquer plusieurs personnages, elle ne rentre pas dans les cat\u00e9gories plus sp\u00e9cifiques comme 'entrance', 'exit', 'interaction', ou 'movement'. Elle est donc mieux class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale 'action'.",
+  "confidence": 0.9,
+  "stgdir": "Serment de l'Ordre de Chevalerie.",
+  "response_time": 3969.8472023010254,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

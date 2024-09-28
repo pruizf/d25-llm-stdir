@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit un objet (le tableau qui repr\u00e9sente le portrait de Monsieur Cassandre) et son emplacement (pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre). Cette description correspond \u00e0 la cat\u00e9gorie 'object' car elle se concentre sur un objet et sa disposition sur la sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+  "response_time": 2928.478717803955,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

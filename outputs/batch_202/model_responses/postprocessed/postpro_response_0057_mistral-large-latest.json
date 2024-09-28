@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit des actions sp\u00e9cifiques des personnages : le mousse montre comment charger un mousquet, le bosco bouge le canon, et Moli\u00e8re trouve un chapeau et s'en affuble. Ces actions ne correspondent pas \u00e0 des cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'aparte', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'setting', ou 'toward'. La cat\u00e9gorie 'object' pourrait \u00eatre envisag\u00e9e pour l'interaction avec les objets, mais les actions d\u00e9crites sont plus g\u00e9n\u00e9rales et incluent des mouvements et des gestes.",
+  "confidence": 1,
+  "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+  "response_time": 5333.138704299927,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

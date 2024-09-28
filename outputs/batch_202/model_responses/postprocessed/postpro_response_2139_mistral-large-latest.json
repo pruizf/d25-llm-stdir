@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit l'interaction de Dumont et Dorval avec un objet (le carton de dessins de la Comtesse). Dumont apporte le carton et sort, tandis que Dorval essaie d'ouvrir le carton. Cela correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit l'interaction d'un personnage avec un objet.",
+  "confidence": 0.9,
+  "stgdir": "Dumont revient, apporte le carton de dessins de la Comtesse, et sort. La comtesse s'assied sur le tronc d'arbre. Dorval se pr\u00e9cipite \u00e0 c\u00f4t\u00e9 d'elle, et lui laisse \u00e0 peine le temps d'ouvrir le carton, et voulant l'ouvrir lui-m\u00eame.",
+  "response_time": 3218.6598777770996,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

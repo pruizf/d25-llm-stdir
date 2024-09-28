@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique de Julie (ouvrir la lettre) ainsi qu'une observation par son p\u00e8re et Moli\u00e8re. Ces actions peuvent \u00eatre class\u00e9es dans la cat\u00e9gorie 'action' car elles d\u00e9crivent des actions des personnages sans entrer dans les cat\u00e9gories plus sp\u00e9cifiques comme 'entrance', 'exit', ou 'interaction'.",
+  "confidence": 0.9,
+  "stgdir": "Julie ouvre la lettre. Son p\u00e8re et Moli\u00e8re l'observent.",
+  "response_time": 3507.0717334747314,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

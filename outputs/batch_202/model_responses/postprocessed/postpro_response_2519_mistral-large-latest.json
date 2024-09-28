@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il s'assied dans un fauteuil.' d\u00e9crit une action simple d'un personnage. Elle ne correspond pas \u00e0 une entr\u00e9e ou une sortie, ni \u00e0 une interaction avec un objet ou une autre personne. Elle ne d\u00e9crit pas non plus une action violente, une musique, une narration, ou un apart\u00e9. Elle ne sp\u00e9cifie pas non plus un destinataire de r\u00e9plique. Par cons\u00e9quent, elle correspond \u00e0 la cat\u00e9gorie 'action' (cat\u00e9gorie 0).",
+  "confidence": 1,
+  "stgdir": "Il s'assied dans un fauteuil.",
+  "response_time": 4377.744197845459,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

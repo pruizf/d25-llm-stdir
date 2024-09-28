@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit l'interaction d'un personnage avec des objets (prendre une bouteille et mettre une bouteille vide \u00e0 sa place). Cela correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'object' qui inclut la manipulation d'objets.",
+  "confidence": 0.95,
+  "stgdir": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive.",
+  "response_time": 3253.026247024536,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

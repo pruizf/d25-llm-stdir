@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit des actions des personnages, comme 'travailler ensemble \u00e0 garnir une robe' et 'para\u00eet triste et r\u00eaveuse'. Ces actions ne rentrent pas sp\u00e9cifiquement dans les autres cat\u00e9gories plus sp\u00e9cifiques comme 'interaction', 'movement', ou 'object'. La cat\u00e9gorie 'action' est la plus appropri\u00e9e ici.",
+  "confidence": 0.9,
+  "stgdir": "Th\u00e9r\u00e8se et Manette sont \u00e0 c\u00f4t\u00e9 l'une de l'autre, Elles travaillent ensemble \u00e0 garnir une robe. Th\u00e9r\u00e8se est habill\u00e9e tr\u00e8s simplement, coiff\u00e9e en grand bonnet, et para\u00eet triste et r\u00eaveuse.",
+  "response_time": 5962.507486343384,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

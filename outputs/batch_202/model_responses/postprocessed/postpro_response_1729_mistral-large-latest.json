@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions des personnages de mani\u00e8re narrative, incluant plusieurs actions successives comme s'asseoir \u00e0 une table, \u00e9taler des papiers, pr\u00e9parer du caf\u00e9, etc. Elle ne se limite pas \u00e0 une seule action ou interaction, mais raconte une s\u00e9rie d'\u00e9v\u00e9nements, ce qui correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'narration'.",
+  "confidence": 0.9,
+  "stgdir": "Il se met \u00e0 sa table de travail, \u00e9tale des papiers et s'y absorbe. Un quart d'heure s'\u00e9coule. Colombinette fait mine de s'\u00e9veiller. Pierrot met sa plume d'oie \u00e0 l'oreille, et appr\u00eate vite le caf\u00e9 au lait de Colombinette. Au moment o\u00f9 elle ouvre les yeux, il le lui pose sur la tablette.",
+  "response_time": 3849.1311073303223,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

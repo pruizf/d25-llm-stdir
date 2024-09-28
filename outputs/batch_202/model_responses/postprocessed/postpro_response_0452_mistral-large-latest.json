@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il refrappe' d\u00e9crit une action physique du personnage, qui est de frapper \u00e0 nouveau. Cette action n'est pas sp\u00e9cifiquement violente (cat\u00e9gorie 1), ne d\u00e9crit pas comment une r\u00e9plique est interpr\u00e9t\u00e9e (cat\u00e9gorie 3), n'implique pas d'entr\u00e9e ou de sortie (cat\u00e9gories 4 et 5), n'est pas une interaction non verbale (cat\u00e9gorie 6), ne d\u00e9crit pas un mouvement sp\u00e9cifique (cat\u00e9gorie 7), ne fait pas r\u00e9f\u00e9rence \u00e0 la musique (cat\u00e9gorie 8), n'est pas narrative (cat\u00e9gorie 9), ne d\u00e9crit pas un objet (cat\u00e9gorie 10), ne d\u00e9crit pas le d\u00e9cor (cat\u00e9gorie 11), et ne sp\u00e9cifie pas le destinataire d'une r\u00e9plique (cat\u00e9gorie 12). Par cons\u00e9quent, la cat\u00e9gorie g\u00e9n\u00e9rale 'action' (cat\u00e9gorie 0) est la plus appropri\u00e9e.",
+  "confidence": 1,
+  "stgdir": "Il refrappe.",
+  "response_time": 10294.732332229614,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

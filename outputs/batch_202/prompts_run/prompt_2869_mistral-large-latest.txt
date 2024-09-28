@@ -1,0 +1,73 @@
+
+Classifiez la didascalie suivante dans l'une des catégories fournies ci-dessous :
+
+Didascalie : L'ancienne galerie des portraits seigneuriaux du burg de Heppenheff. Cette galerie, qui était circulaire, se développait autour du grand donjon, et communiquait avec le reste du château par quatre grandes portes situées aux quatre points cardinaux. Au lever du rideau, on aperçoit une partie de cette galerie, qui fait retour et qu'on voit se perdre derrière le mur arrondi du donjon. A gauche, une des quatre grandes portes de communication. À droite, une haute et large porte communiquant avec l'intérieur du donjon, exhaussée sur un degré de trois marches et accostée d'une porte bâtarde. Au fond, un promenoir roman à pleins cintres, à piliers bas, à chapiteaux bizarres, portant un deuxième étage (praticable), et communiquant avec la galerie par un grand degré de six marches. À travers les larges arcades de ce promenoir, on aperçoit le ciel et le reste du château, dont la plus haute tour est surmontée d'un immense drapeau noir qui flotte au vent. À gauche, près de la grande porte à deux battants, une petite fenêtre fermée d'un vitrail haut en couleur. Près de la fenêtre, un fauteuil. Toute la galerie a l'aspect délabré et inhabité. Les murailles et les voûtes de pierre, sur lesquelles on distingue quelques vestiges de fresques effacées, sont verdies et moisies par le suintement des pluies. Les portraits suspendus dans les panneaux de la galerie sont tous retournés la face contre le mur. Au moment où le rideau se lève, le soir vient. La partie du château qu'on aperçoit par les archivoltes du promenoir au fond du théâtre semble éclairée et illuminée à l'intérieur, quoiqu'il fasse encore-grand jour. On entend venir de ce côté du burg un bruit de trompettes et de clairons, et par moments des Chansons chantées à pleines voix au cliquetis des verres. Plus près on entend un froissement de ferrailles, comme si une troupe d'hommes enchaînés allait et venait dans la portion du promenoir qu'on ne voit pas. Une femme, seule, vieille, à demi cachée par un long voile noir, vêtue d'un sac de toile grise en lambeaux, enchaînée d'une chaîne qui se rattache par un double anneau à sa ceinture et à son pied nu, un collier de fer autour du cou, s'appuie contre la grande porte, et semble écouter les fanfares et les chants de la salle voisine.
+
+Liste des catégories :
+0. action
+1. aggression
+2. aparte
+3. delivery
+4. entrance
+5. exit
+6. interaction
+7. movement
+8. music
+9. narration
+10. object
+11. setting
+12. toward
+
+Pour vous aider à la classification, voici une définition de chaque catégorie:
+
+- Catégorie 0
+  - Nom: action
+  - Définition: Catégorie générale pour les actions des personnages. Utilisez cette catégorie uniquement lorsque d'autres catégories ne décrivent pas l'action. Quelques verbes liés à cette catégorie sont regarder, montrer, peindre, prier, sauter, lire, s'agenouiller, tomber, frapper, écrire, boire, chercher, ouvrir, manger, dormir, être debout, s'asseoir, bouger, écouter, sonner parmi d'autres.
+- Catégorie 1
+  - Nom: aggression
+  - Définition: Action violente. Liée à des notions comme tuer, se battre, frapper, le suicide ou la menace.
+- Catégorie 2
+  - Nom: aparte
+  - Définition: Aparté (le personnage s'adresse au public ou est seul).
+- Catégorie 3
+  - Nom: delivery
+  - Définition: Décrit comment est interprétée une réplique, par exemple en ce qui concerne la voix ou l'expression vocale d'une émotion. Utilisée également lorsque le personnage chante. Peut se référer à des notions telles que le personnage montrant de la colère ou étant furieux, étant sérieux, heureux, hésitant, montrant de l'enthousiasme, de l'émotion, de l'emphase, se montrant gentil, faisant une grimace, montrant un sentiment, ou répétant une expression.
+- Catégorie 4
+  - Nom: entrance
+  - Définition: Le personnage entre en scène.
+- Catégorie 5
+  - Nom: exit
+  - Définition: Le personnage sort, quitte la scène.
+- Catégorie 6
+  - Nom: interaction
+  - Définition: Interaction non verbale entre les personnages. L'interaction doit être non verbale, par exemple regarder, pointer du doigt, toucher, aider, tirer, pousser parmi d'autres types d'interactions non verbales.
+- Catégorie 7
+  - Nom: movement
+  - Définition: Déplacement du personnage (mais pas une entrée ou sortie). Parfois lié à des notions comme s'approcher, s'éloigner, suivre un personnage, reculer.
+- Catégorie 8
+  - Nom: music
+  - Définition:  Noms des airs (dans les pièces de théâtre avec des chansons), ou description de la musique. Catégorie non utilisée lorsque la didascalie fait référence à un personnage qui chante. La didascalie commence souvent par le mot « AIR » ou « Air ». Si la didascalie commence par ces mots, il s'agit très probablement d'une didascalie de cette catégorie, et les mots suivants constituent le nom de l'air.
+- Catégorie 9
+  - Nom: narration
+  - Définition: Didascalie longue, à caractère narratif, à destination des lecteurs. Généralement de longues didascalies. Elles peuvent relater une séquence d'actions des personnages. Elles peuvent également faire référence à des bruits ou à des phénomènes météorologiques.
+- Catégorie 10
+  - Nom: object
+  - Définition: Décrit un objet ou l'interaction d'un personnage avec un objet, y compris donner ou recevoir un objet ou manipuler l'objet de quelque manière que ce soit, entre autres interactions. L'objet peut être des vêtements, des costumes. Quelques verbes liés à cette catégorie sont jeter, déchirer, obtenir, donner, habiller, laisser tomber, fermer parmi d'autres.
+- Catégorie 11
+  - Nom: setting
+  - Définition: Description de la scène ou lieu de la pièce.
+- Catégorie 12
+  - Nom: toward
+  - Définition: Indique le destinataire d'une réplique.
+
+
+
+Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
+
+{
+  "category": "numéro de la catégorie",
+  "explanation": "explication du choix"
+}
+
+Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
+

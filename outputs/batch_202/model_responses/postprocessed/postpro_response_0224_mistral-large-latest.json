@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action des personnages, o\u00f9 toutes les jeunes filles rient, \u00e0 l'exception de Justine. Cette description correspond \u00e0 la cat\u00e9gorie 'action' car elle implique une action des personnages (rire) et ne correspond pas \u00e0 une interaction non verbale, une entr\u00e9e, une sortie, ou une autre cat\u00e9gorie plus sp\u00e9cifique.",
+  "confidence": 1,
+  "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+  "response_time": 3314.3041133880615,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

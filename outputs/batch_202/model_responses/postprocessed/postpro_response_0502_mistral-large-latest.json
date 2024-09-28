@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Pendant ce temps l'on pose les scell\u00e9s' d\u00e9crit une action sp\u00e9cifique des personnages, \u00e0 savoir poser des scell\u00e9s. Cette action ne rentre pas dans les autres cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions des personnages.",
+  "confidence": 1,
+  "stgdir": "Pendant ce temps l'on pose les scell\u00e9s.",
+  "response_time": 4012.4199390411377,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

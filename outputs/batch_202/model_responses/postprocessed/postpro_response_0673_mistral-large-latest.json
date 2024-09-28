@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie d\u00e9crit le d\u00e9placement des personnages sans impliquer une entr\u00e9e ou une sortie. Les verbes 'se l\u00e8vent' et 'prendre' indiquent un mouvement des personnages sur la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+  "response_time": 3246.356725692749,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

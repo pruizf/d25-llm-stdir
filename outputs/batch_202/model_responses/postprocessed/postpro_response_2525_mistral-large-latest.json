@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'S'asseyant sur le canap\u00e9 n\u00b0 1' d\u00e9crit une action du personnage, en l'occurrence s'asseoir. Cette action ne correspond pas sp\u00e9cifiquement \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne, ni \u00e0 une interaction non verbale avec un autre personnage, ni \u00e0 une description de la sc\u00e8ne ou du lieu. Elle ne rel\u00e8ve pas non plus de l'agression, de l'apart\u00e9, de la d\u00e9livrance, de la musique, de la narration, ou de l'objet. Par cons\u00e9quent, la cat\u00e9gorie 'action' (cat\u00e9gorie 0) est la plus appropri\u00e9e.",
+  "confidence": 1,
+  "stgdir": "S'asseyant sur le canap\u00e9 n\u00b0 1.",
+  "response_time": 5239.820957183838,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir ouvrir le treillage, et une r\u00e9v\u00e9lation visuelle (voir la Comtesse \u00e0 la place de la statue). Ces actions ne correspondent pas parfaitement aux autres cat\u00e9gories plus sp\u00e9cifiques comme 'entrance', 'exit', 'interaction', etc. La cat\u00e9gorie 'action' est la plus appropri\u00e9e car elle couvre des actions g\u00e9n\u00e9rales des personnages.",
+  "confidence": 0.9,
+  "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+  "response_time": 3672.7848052978516,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Un druide conduisant la c\u00e9r\u00e9monie de la f\u00eate du gui de l'an neuf, \u00e0 la place d'Adamas.' d\u00e9crit une action sp\u00e9cifique r\u00e9alis\u00e9e par un personnage, \u00e0 savoir conduire une c\u00e9r\u00e9monie. Cette action n'entre pas dans les cat\u00e9gories plus sp\u00e9cifiques comme 'entrance', 'exit', 'interaction', etc. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale 'action' (cat\u00e9gorie 0).",
+  "confidence": 0.9,
+  "stgdir": "Un druide conduisant la c\u00e9r\u00e9monie de la f\u00eate du gui de l'an neuf, \u00e0 la place d'Adamas.",
+  "response_time": 4148.701906204224,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

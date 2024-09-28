@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'L\u00e9onore lui propose une longue entrevue avec Julie' d\u00e9crit une action des personnages. L\u00e9onore propose quelque chose \u00e0 un autre personnage, ce qui est une action g\u00e9n\u00e9rale qui ne rentre pas dans les autres cat\u00e9gories sp\u00e9cifiques comme 'entrance', 'exit', 'interaction', etc. Par cons\u00e9quent, la cat\u00e9gorie 'action' est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+  "response_time": 3473.93536567688,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}
