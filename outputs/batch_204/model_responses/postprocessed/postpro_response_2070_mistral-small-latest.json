@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie '\u00c0 ses pages' d\u00e9crit une action sp\u00e9cifique impliquant un objet (le livre ou les pages). Elle indique que le personnage est en train de lire ou d'interagir avec un livre, ce qui correspond bien \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit l'interaction avec un objet.",
+  "confidence": 0.9,
+  "stgdir": "\u00c0 ses pages.",
+  "response_time": 1822.2603797912598,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

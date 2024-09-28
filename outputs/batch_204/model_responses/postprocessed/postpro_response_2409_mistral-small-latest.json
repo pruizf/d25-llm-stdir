@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique d'un personnage, \u00e0 savoir reprendre le mouchoir et se couvrir le sein. Cette action ne correspond pas \u00e0 une agression (cat\u00e9gorie 1), une interaction non verbale (cat\u00e9gorie 6), un mouvement (cat\u00e9gorie 7), une description d'objet (cat\u00e9gorie 10), ou une description de la sc\u00e8ne (cat\u00e9gorie 11). Elle n'est pas non plus li\u00e9e \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne (cat\u00e9gories 4 et 5) ou \u00e0 un apart\u00e9 (cat\u00e9gorie 2). La cat\u00e9gorie 'action' (cat\u00e9gorie 0) est donc la plus appropri\u00e9e.",
+  "confidence": 0.95,
+  "stgdir": "Elle reprend le mouchoir et se couvre le sein.",
+  "response_time": 2593.4436321258545,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

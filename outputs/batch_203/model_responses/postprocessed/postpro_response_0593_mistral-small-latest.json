@@ -1,0 +1,9 @@
+{
+  "category": 4,
+  "explanation": "La didascalie commence par 'Charpentier entre', ce qui indique clairement l'entr\u00e9e en sc\u00e8ne d'un personnage. Les actions suivantes peuvent \u00eatre class\u00e9es sous 'action' (cat\u00e9gorie 0), mais l'\u00e9l\u00e9ment principal de la didascalie est l'entr\u00e9e en sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+  "response_time": 1570.6963539123535,
+  "model": "mistral-small-latest",
+  "categFull": "entrance"
+}

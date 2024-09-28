@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, pr\u00e9cis\u00e9ment un d\u00e9placement vers son p\u00e8re. Ce n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne, donc les cat\u00e9gories 4 et 5 ne s'appliquent pas. Ce n'est pas une interaction non verbale (cat\u00e9gorie 6) ni une action violente (cat\u00e9gorie 1). C'est clairement un mouvement vers un autre personnage, ce qui correspond \u00e0 la cat\u00e9gorie 7 (movement).",
+  "confidence": 0.95,
+  "stgdir": "Il s'approche de son p\u00e8re.",
+  "response_time": 3238.767623901367,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

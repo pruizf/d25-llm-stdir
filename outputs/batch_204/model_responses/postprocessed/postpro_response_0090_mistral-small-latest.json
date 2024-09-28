@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage avec un objet, en l'occurrence donner un bouquet. Cela correspond \u00e0 la cat\u00e9gorie 'object' qui inclut des actions comme donner ou recevoir un objet.",
+  "confidence": 0.9,
+  "stgdir": "Il lui pr\u00e9sente un bouquet.",
+  "response_time": 1138.2660865783691,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

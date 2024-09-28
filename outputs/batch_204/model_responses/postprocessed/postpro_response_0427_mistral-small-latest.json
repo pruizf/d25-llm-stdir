@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il sautille sous ces fen\u00eatres' d\u00e9crit un mouvement du personnage. Bien que 'sa viole \u00e0 la main' puisse \u00eatre class\u00e9 sous la cat\u00e9gorie 'object', l'action principale est le sautillement, qui est un mouvement.",
+  "confidence": 0.9,
+  "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+  "response_time": 1296.114444732666,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

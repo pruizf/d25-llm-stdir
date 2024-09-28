@@ -1,0 +1,9 @@
+{
+  "category": 11,
+  "explanation": "La didascalie 'Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.' d\u00e9crit la localisation sp\u00e9cifique o\u00f9 le personnage parle, ce qui est une information sur le lieu ou la sc\u00e8ne. Cela correspond \u00e0 la cat\u00e9gorie 'setting' qui d\u00e9crit la description de la sc\u00e8ne ou lieu de la pi\u00e8ce.",
+  "confidence": 0.95,
+  "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+  "response_time": 1711.571455001831,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

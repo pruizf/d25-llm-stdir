@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action des personnages, plus pr\u00e9cis\u00e9ment les cris que pousse Th\u00e9cla. Puisque cette action ne rentre dans aucune des cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'entrance', 'exit', etc., elle est correctement class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale 'action'.",
+  "confidence": 0.9,
+  "stgdir": "Aux cris que pousse Th\u00e9cla.",
+  "response_time": 1675.7001876831055,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

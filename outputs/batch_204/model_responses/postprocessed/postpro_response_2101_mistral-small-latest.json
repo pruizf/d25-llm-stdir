@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement des personnages sans qu'il s'agisse d'une entr\u00e9e ou d'une sortie de sc\u00e8ne. Les termes 'emm\u00e8ne', 'd\u00e9file', et 'demeure' indiquent des d\u00e9placements et des positions des personnages.",
+  "confidence": 0.9,
+  "stgdir": "La M\u00e8re emm\u00e8ne Lucas, et toute la noce d\u00e9file, \u00e0 la r\u00e9serve de Nanette, qui demeure avec Adrien.",
+  "response_time": 1509.9201202392578,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

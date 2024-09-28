@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction avec un objet (dans ce cas, une poche). L'action de mettre quelque chose dans une poche implique l'interaction d'un personnage avec un objet sp\u00e9cifique, ce qui correspond bien \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Il le met dans sa poche de c\u00f4t\u00e9.",
+  "response_time": 1648.005485534668,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

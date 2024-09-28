@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple effectu\u00e9e par un personnage, \u00e0 savoir fermer une fen\u00eatre. Cette action n'entre dans aucune des cat\u00e9gories sp\u00e9cifiques comme l'agression, l'interaction, le mouvement, etc. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "Elle ferme la fen\u00eatre.",
+  "response_time": 1966.4225578308105,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, qui est 'montrer'. Bien que l'action puisse \u00eatre consid\u00e9r\u00e9e comme potentiellement agressive, elle n'implique pas de violence directe. Elle ne correspond pas non plus aux autres cat\u00e9gories comme l'apart\u00e9, l'entr\u00e9e ou la sortie de sc\u00e8ne, l'interaction non verbale, le mouvement, la musique, la narration, l'objet ou la description de la sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "Il montre son vit.",
+  "response_time": 1788.8646125793457,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

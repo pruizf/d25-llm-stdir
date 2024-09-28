@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement du personnage, mais il ne s'agit ni d'une entr\u00e9e ni d'une sortie de sc\u00e8ne. Le mouvement 'se place derri\u00e8re' indique un changement de position sur sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Il se place derri\u00e8re le Peintre.",
+  "response_time": 1559.6427917480469,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

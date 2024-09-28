@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement du personnage, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Le personnage se d\u00e9place vers son domicile, ce qui est une action de mouvement mais pas une entr\u00e9e ou sortie de sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Elle rentre chez elle.",
+  "response_time": 1690.8493041992188,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

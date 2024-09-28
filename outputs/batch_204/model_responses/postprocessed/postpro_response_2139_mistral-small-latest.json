@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit principalement des actions des personnages, telles que revenir, apporter, s'asseoir, se pr\u00e9cipiter, et ouvrir. Ces actions ne rentrent pas dans les cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'entrance', 'exit', ou 'interaction'. Elles sont g\u00e9n\u00e9rales et couvrent diverses activit\u00e9s des personnages.",
+  "confidence": 0.9,
+  "stgdir": "Dumont revient, apporte le carton de dessins de la Comtesse, et sort. La comtesse s'assied sur le tronc d'arbre. Dorval se pr\u00e9cipite \u00e0 c\u00f4t\u00e9 d'elle, et lui laisse \u00e0 peine le temps d'ouvrir le carton, et voulant l'ouvrir lui-m\u00eame.",
+  "response_time": 1690.4304027557373,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

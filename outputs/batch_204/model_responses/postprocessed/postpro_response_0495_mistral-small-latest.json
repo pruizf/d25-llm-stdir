@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il fait un mouvement pour s'\u00e9loigner' d\u00e9crit un d\u00e9placement du personnage, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Cette cat\u00e9gorie est sp\u00e9cifiquement d\u00e9di\u00e9e aux mouvements des personnages qui ne sont ni des entr\u00e9es ni des sorties de sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+  "response_time": 1891.784429550171,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

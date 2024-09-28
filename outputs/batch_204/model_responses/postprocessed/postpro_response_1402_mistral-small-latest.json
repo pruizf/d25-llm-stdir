@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Elle s'assied \u00e0 gauche de la chemin\u00e9e' d\u00e9crit un d\u00e9placement du personnage. Le verbe 's'assied' indique un mouvement, et '\u00e0 gauche de la chemin\u00e9e' pr\u00e9cise la direction de ce mouvement. Cela ne correspond pas \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni \u00e0 une interaction non verbale (cat\u00e9gorie 6) ou \u00e0 une action violente (cat\u00e9gorie 1).",
+  "confidence": 0.9,
+  "stgdir": "Elle s'assied \u00e0 gauche de la chemin\u00e9e.",
+  "response_time": 2132.929801940918,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

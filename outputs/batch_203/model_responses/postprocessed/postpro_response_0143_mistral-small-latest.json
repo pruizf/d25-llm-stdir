@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique que fait L\u00e9on, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Le mouvement n'est ni une entr\u00e9e ni une sortie, donc il ne correspond pas aux cat\u00e9gories 'entrance' ou 'exit'. Il ne s'agit pas non plus d'une interaction non verbale entre personnages (cat\u00e9gorie 'interaction') ou d'une action violente (cat\u00e9gorie 'aggression').",
+  "confidence": 1,
+  "stgdir": "L\u00e9on fait un grand mouvement.",
+  "response_time": 1851.5591621398926,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action des personnages, sp\u00e9cifiquement une action \u00e9motionnelle ou physique. Le personnage Arlequin rit, ce qui est une action clairement d\u00e9crite par le verbe 'rire'. Cette action n'entre pas dans les cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'entrance', 'exit', etc.",
+  "confidence": 0.95,
+  "stgdir": "Arlequin rit de toute sa force.",
+  "response_time": 1633.983850479126,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, qui est de tirer son \u00e9p\u00e9e. Cette action ne rentre dans aucune des cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'interaction', 'movement', 'object', ou 'setting'. Elle est une action g\u00e9n\u00e9rale qui ne peut \u00eatre class\u00e9e dans une autre cat\u00e9gorie sp\u00e9cifique.",
+  "confidence": 0.9,
+  "stgdir": "Il tire son \u00e9p\u00e9e.",
+  "response_time": 2425.3745079040527,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

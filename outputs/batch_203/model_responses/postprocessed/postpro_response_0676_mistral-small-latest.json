@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage avec un objet, en l'occurrence tirer un portefeuille. Cela correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'object' qui inclut les actions de manipulation d'objets.",
+  "confidence": 0.9,
+  "stgdir": "Il tire un porte-feuille.",
+  "response_time": 1526.3781547546387,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage avec un objet, en l'occurrence des billets. Le personnage prend un billet et le confronte avec un autre billet. Cette action implique la manipulation d'objets, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Il prend son billet et le confronte avec celui qu'\u00c9raste lui a laiss\u00e9.",
+  "response_time": 1374.6294975280762,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 4,
+  "explanation": "La didascalie semble lister les personnages qui sont pr\u00e9sents sur sc\u00e8ne, ce qui correspond \u00e0 une entr\u00e9e en sc\u00e8ne. Bien que la didascalie ne mentionne pas explicitement qu'ils entrent en sc\u00e8ne, la liste de noms sugg\u00e8re une introduction des personnages \u00e0 l'audience.",
+  "confidence": 0.9,
+  "stgdir": "* Deux dames, Mademoiselle Kerkabon, Dum\u00e9nil, Mademoisolle Saint-Yves, le Huron, Kerkabon, Madame Plougoulin, Mademoiselle des Gu\u00e9rets, deux dames.",
+  "response_time": 1597.1662998199463,
+  "model": "mistral-small-latest",
+  "categFull": "entrance"
+}

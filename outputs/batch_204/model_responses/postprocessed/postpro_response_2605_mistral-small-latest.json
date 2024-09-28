@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir lire. Bien que d'autres cat\u00e9gories puissent \u00eatre envisag\u00e9es, comme 'interaction' (6) si l'action implique un objet, 'action' (0) est la cat\u00e9gorie la plus g\u00e9n\u00e9rale et appropri\u00e9e pour d\u00e9crire une action simple et isol\u00e9e comme lire.",
+  "confidence": 0.9,
+  "stgdir": "Il l'\u00f4te et lit :",
+  "response_time": 2111.8762493133545,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

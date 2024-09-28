@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Corbineli fait le signe de la Croix' d\u00e9crit une action sp\u00e9cifique du personnage. Le signe de la Croix est un geste religieux qui ne correspond \u00e0 aucune des autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'interaction non verbale, le mouvement, etc. Elle ne concerne pas la diction ou l'\u00e9motion (delivery), l'entr\u00e9e ou la sortie de sc\u00e8ne (entrance ou exit), ni la manipulation d'objets (object) ou la description de la sc\u00e8ne (setting).",
+  "confidence": 0.95,
+  "stgdir": "Corbineli fait le signe de la Croix.",
+  "response_time": 1929.471492767334,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

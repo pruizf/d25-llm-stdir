@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il s'assied en un coin du th\u00e9\u00e2tre' d\u00e9crit un mouvement du personnage, sp\u00e9cifiquement un changement de position assis. Ce mouvement n'est pas une entr\u00e9e ou une sortie, donc il ne correspond pas aux cat\u00e9gories 4 (entrance) ou 5 (exit). Il ne correspond pas non plus aux autres cat\u00e9gories comme 'aggression', 'aparte', 'delivery', 'interaction', 'music', 'narration', 'object', 'setting', ou 'toward'.",
+  "confidence": 1,
+  "stgdir": "Il s'assied en un coin du th\u00e9\u00e2tre.",
+  "response_time": 2073.8534927368164,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

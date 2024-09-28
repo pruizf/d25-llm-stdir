@@ -133,7 +133,7 @@ if __name__ == "__main__":
         category_details=catinfo_template.format(**shots_per_cat))
 
     completion, resp, td = get_mistral_response(mistral_client, args.model, prompt, cf)
-    time.sleep(3)
+    time.sleep(5)
 
     #print(f"Prompt: {prompt}")
     jresp = json.loads(resp[0])

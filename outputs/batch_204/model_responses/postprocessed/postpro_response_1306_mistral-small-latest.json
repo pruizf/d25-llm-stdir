@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir prendre une lettre, qui n'entre dans aucune des cat\u00e9gories plus sp\u00e9cifiques comme l'interaction, le mouvement ou l'agression.",
+  "confidence": 0.9,
+  "stgdir": "Il prend la lettre.",
+  "response_time": 1422.9187965393066,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

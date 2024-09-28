@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction entre deux personnages impliquant un objet (le papier). Cela correspond \u00e0 la cat\u00e9gorie 'object' qui est d\u00e9finie pour d\u00e9crire un objet ou l'interaction d'un personnage avec un objet.",
+  "confidence": 0.9,
+  "stgdir": "Il donne \u00e0 la suivante le papier sur lequel il a \u00e9crit.",
+  "response_time": 1368.7546253204346,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

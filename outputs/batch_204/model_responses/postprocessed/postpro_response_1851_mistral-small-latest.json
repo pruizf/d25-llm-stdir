@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage avec un objet, en l'occurrence la pi\u00e8ce, en la donnant \u00e0 Raoul. Cela correspond \u00e0 la cat\u00e9gorie 'object' qui inclut la manipulation ou le transfert d'objets entre personnages.",
+  "confidence": 0.9,
+  "stgdir": "Elle donne la pi\u00e8ce \u00e0 Raoul.",
+  "response_time": 1450.9668350219727,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

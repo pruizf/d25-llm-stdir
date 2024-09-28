@@ -1,0 +1,9 @@
+{
+  "category": 9,
+  "explanation": "La didascalie est longue et d\u00e9crit une s\u00e9quence d'actions et de perceptions des personnages, ainsi que des \u00e9l\u00e9ments de l'environnement, ce qui correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'narration'. Elle relate \u00e9galement des bruits (les feuilles qui craquent) et des perceptions (Maurice ne l'\u00e9coute plus, Blanche ne soup\u00e7onne rien), ce qui renforce cette classification.",
+  "confidence": 0.95,
+  "stgdir": "Maurice ne dit pas ces mots pour la flatter, car, depuis un instant, il ne l'\u00e9coute plus. Il \u00e9coute des feuilles qui semblent r\u00e9gler leur froissement sur sa marche. Elles se taisent quand il s'arr\u00eate, et quand il repart, aussit\u00f4t elles craquent. C'est s\u00fbr que quelqu'un de mal intentionn\u00e9 suit le couple \u00e0 travers les arbres, en se cachant. Et Blanche qui, tout \u00e0 l'heure, s'effrayait sans raison, parle haut maintenant, laisse \u00e9clater une joie innocente, ne soup\u00e7onne rien et gourmande Maurice.",
+  "response_time": 1935.699701309204,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

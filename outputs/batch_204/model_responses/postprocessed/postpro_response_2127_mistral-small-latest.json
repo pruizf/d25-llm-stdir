@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il ne r\u00e9pond rien.' d\u00e9crit une action du personnage, \u00e0 savoir l'absence de r\u00e9ponse. Cette action ne correspond \u00e0 aucune des cat\u00e9gories sp\u00e9cifiques comme l'agression, l'apart\u00e9, l'entr\u00e9e, la sortie, l'interaction, le mouvement, la musique, la narration, l'objet, le cadre ou la direction de la r\u00e9plique. Par cons\u00e9quent, elle est class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "Il ne r\u00e9pond rien.",
+  "response_time": 2026.9651412963867,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

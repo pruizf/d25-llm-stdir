@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie '[Il interrompt la lecture.]' d\u00e9crit une action sp\u00e9cifique du personnage. Bien que l'action soit interrompre, elle est bien une action et ne correspond pas pr\u00e9cis\u00e9ment aux d\u00e9finitions des autres cat\u00e9gories.",
+  "confidence": 0.9,
+  "stgdir": "[Il interrompt la lecture. ]",
+  "response_time": 1226.5117168426514,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

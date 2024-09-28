@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique de D'Orfeuil, \u00e0 savoir le fait de se relever apr\u00e8s \u00eatre rest\u00e9 \u00e9tourdi suite \u00e0 une chute. Ce mouvement n'est ni une entr\u00e9e, ni une sortie de sc\u00e8ne, donc il ne correspond pas aux cat\u00e9gories 4 (entrance) ou 5 (exit). Il d\u00e9crit une action physique du personnage, ce qui correspond bien \u00e0 la cat\u00e9gorie 7 (movement).",
+  "confidence": 0.9,
+  "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+  "response_time": 1764.0876770019531,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

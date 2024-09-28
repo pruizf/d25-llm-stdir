@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple des personnages. Prendre un manuscrit est une action qui ne rentre dans aucune des cat\u00e9gories sp\u00e9cifiques comme l'agression, l'apart\u00e9, l'interaction non verbale, le mouvement, la musique, la narration, l'objet, le d\u00e9cor ou l'indication d'un destinataire de r\u00e9plique.",
+  "confidence": 0.95,
+  "stgdir": "Elle prend le manuscrit.",
+  "response_time": 1783.982515335083,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

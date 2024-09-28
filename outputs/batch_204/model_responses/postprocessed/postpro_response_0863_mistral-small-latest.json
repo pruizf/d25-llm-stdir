@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, pr\u00e9cis\u00e9ment le fait de sortir de son si\u00e8ge, ce qui correspond \u00e0 la cat\u00e9gorie 'movement' qui d\u00e9crit les d\u00e9placements des personnages (mais pas une entr\u00e9e ou sortie).",
+  "confidence": 0.95,
+  "stgdir": "Il sort de son si\u00e8ge.",
+  "response_time": 1268.2485580444336,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

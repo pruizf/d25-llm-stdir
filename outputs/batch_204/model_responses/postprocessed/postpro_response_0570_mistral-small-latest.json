@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Le Chevalier tombe \u00e0 genoux' d\u00e9crit un mouvement sp\u00e9cifique du personnage, \u00e0 savoir tomber \u00e0 genoux. Cette action ne correspond pas \u00e0 une agression, \u00e0 un apart\u00e9, \u00e0 une interaction non verbale, \u00e0 une entr\u00e9e ou sortie, \u00e0 la musique, \u00e0 une narration, \u00e0 un objet, \u00e0 un lieu de la pi\u00e8ce ou \u00e0 l'indication du destinataire d'une r\u00e9plique. Elle est donc class\u00e9e dans la cat\u00e9gorie 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "Le Chevalier tombe \u00e0 genoux;",
+  "response_time": 1894.683837890625,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

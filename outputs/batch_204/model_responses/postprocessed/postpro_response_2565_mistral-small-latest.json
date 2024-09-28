@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple des personnages qui ne rentre dans aucune des autres cat\u00e9gories sp\u00e9cifiques. 'S'asseoir' est une action g\u00e9n\u00e9rique qui n'implique pas de violence (agression), de communication avec le public (aparte), de d\u00e9placement d'entr\u00e9e ou de sortie de sc\u00e8ne (entrance, exit), ou d'interaction non verbale (interaction).",
+  "confidence": 0.95,
+  "stgdir": "Camille s'assoit.",
+  "response_time": 1771.7292308807373,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

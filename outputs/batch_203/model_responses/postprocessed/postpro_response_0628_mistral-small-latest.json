@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir mettre une perruque. Cette action n'entre pas dans les cat\u00e9gories d'agression, d'apart\u00e9, de delivery, d'entr\u00e9e, de sortie, d'interaction, de d\u00e9placement, de musique, de narration, de r\u00e9glage ou d'objet vers. Elle est simplement une action g\u00e9n\u00e9rale qui n'est pas couverte par les autres cat\u00e9gories sp\u00e9cifiques.",
+  "confidence": 0.95,
+  "stgdir": "Il met sa perruque.",
+  "response_time": 1896.0936069488525,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

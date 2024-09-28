@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction sp\u00e9cifique entre le P\u00e9dant et Colombine impliquant un objet, \u00e0 savoir le mouchoir. Le P\u00e9dant donne le mouchoir \u00e0 Colombine pour cacher sa gorge, ce qui correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets.",
+  "confidence": 0.9,
+  "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+  "response_time": 1600.9066104888916,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

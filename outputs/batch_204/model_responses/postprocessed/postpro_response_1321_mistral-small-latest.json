@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique du personnage (ses jambes fl\u00e9chissent et il se redresse), ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Cette action n'est pas une entr\u00e9e, une sortie, une interaction verbale ou une agression.",
+  "confidence": 0.9,
+  "stgdir": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement.",
+  "response_time": 1481.6594123840332,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

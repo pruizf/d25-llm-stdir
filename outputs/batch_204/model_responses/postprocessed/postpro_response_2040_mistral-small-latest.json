@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique que fait le personnage, \u00e0 savoir distribuer des cartes. Aucune des autres cat\u00e9gories ne correspond mieux \u00e0 cette description.",
+  "confidence": 0.95,
+  "stgdir": "Elle distribue les cartes.",
+  "response_time": 1068.6969757080078,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

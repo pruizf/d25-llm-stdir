@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il regarde dans un petit cabinet' d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir le fait de regarder. Cette action ne tombe dans aucune des cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions des personnages.",
+  "confidence": 1,
+  "stgdir": "Il regarde dans un petit cabinet.",
+  "response_time": 1877.2873878479004,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

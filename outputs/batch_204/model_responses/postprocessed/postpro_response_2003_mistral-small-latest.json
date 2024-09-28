@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir 'mettre la main \u00e0 l'\u00e9p\u00e9e', qui n'est pas couverte par les autres cat\u00e9gories sp\u00e9cifiques comme l'agression (cat\u00e9gorie 1), l'interaction (cat\u00e9gorie 6), le mouvement (cat\u00e9gorie 7) ou l'object (cat\u00e9gorie 10).",
+  "confidence": 0.9,
+  "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+  "response_time": 1763.568639755249,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

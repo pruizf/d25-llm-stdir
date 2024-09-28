@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Puis s'avan\u00e7ant \u00e0 G\u00e9landre' d\u00e9crit un mouvement du personnage vers un autre personnage ou un lieu sp\u00e9cifique, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Le personnage se d\u00e9place mais ne sort pas ou n'entre pas en sc\u00e8ne, ce qui exclut les cat\u00e9gories 'entrance' et 'exit'. Le mouvement est sp\u00e9cifique et dirig\u00e9, ce qui le distingue des actions g\u00e9n\u00e9rales.",
+  "confidence": 0.95,
+  "stgdir": "Puis s'avan\u00e7ant \u00e0 G\u00e9landre.",
+  "response_time": 2047.020435333252,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

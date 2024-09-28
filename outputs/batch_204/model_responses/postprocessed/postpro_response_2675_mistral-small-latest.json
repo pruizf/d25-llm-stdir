@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Alexandre mettant la main sur son \u00e9p\u00e9e' d\u00e9crit une action sp\u00e9cifique d'un personnage. Bien que cette action puisse \u00eatre interpr\u00e9t\u00e9e comme potentiellement violente, elle ne correspond pas exactement \u00e0 la cat\u00e9gorie 'aggression' qui implique des actions violentes explicites comme tuer, se battre ou frapper. La cat\u00e9gorie 'action' est la plus appropri\u00e9e car elle couvre les actions g\u00e9n\u00e9rales des personnages qui ne rentrent pas dans les autres cat\u00e9gories sp\u00e9cifiques.",
+  "confidence": 0.9,
+  "stgdir": "Alexandre mettant la main sur son \u00e9p\u00e9e.",
+  "response_time": 2143.200397491455,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

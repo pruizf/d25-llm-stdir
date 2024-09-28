@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Lisant son m\u00e9moire' d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir lire. Cette action ne correspond pas aux autres cat\u00e9gories comme l'agression, l'apart\u00e9, le d\u00e9placement, l'interaction, la musique, la narration, l'objet, le cadre ou l'indication du destinataire d'une r\u00e9plique. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.95,
+  "stgdir": "Lisant son m\u00e9moire.",
+  "response_time": 1756.1964988708496,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

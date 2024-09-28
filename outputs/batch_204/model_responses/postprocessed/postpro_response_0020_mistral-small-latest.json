@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple que le personnage fait (appeler quelqu'un), et elle ne correspond \u00e0 aucune des cat\u00e9gories plus sp\u00e9cifiques comme l'agression, l'apart\u00e9, le mouvement, etc.",
+  "confidence": 0.9,
+  "stgdir": "Elle appelle Lubin.",
+  "response_time": 1309.1435432434082,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

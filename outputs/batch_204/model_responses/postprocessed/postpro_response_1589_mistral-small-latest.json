@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Phalante continue' indique une action du personnage Phalante, \u00e0 savoir la continuation de ce qu'il faisait ou disait auparavant. Cette action n'entre pas dans les cat\u00e9gories sp\u00e9cifiques comme l'agression, l'entr\u00e9e en sc\u00e8ne, la sortie de sc\u00e8ne, ou l'interaction avec un objet. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.95,
+  "stgdir": "Phalante continue.",
+  "response_time": 1923.1410026550293,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

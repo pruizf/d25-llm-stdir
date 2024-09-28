@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "La didascalie d\u00e9crit un personnage en train de fredonner une chanson sp\u00e9cifique, 'L'Amant d'Amanda'. Cela correspond \u00e0 la cat\u00e9gorie 'music' car elle fait r\u00e9f\u00e9rence \u00e0 une chanson et non \u00e0 un personnage qui chante. La didascalie ne commence pas par 'AIR' ou 'Air', mais elle d\u00e9crit clairement une activit\u00e9 musicale.",
+  "confidence": 0.9,
+  "stgdir": "Il fredonne l'Amant d'Amanda.",
+  "response_time": 1738.548755645752,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

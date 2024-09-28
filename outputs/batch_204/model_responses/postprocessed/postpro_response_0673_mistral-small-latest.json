@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement des personnages se levant et se d\u00e9pla\u00e7ant pour aller voir le cabinet, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Les actions 'se lever' et 'aller voir' impliquent un d\u00e9placement des personnages sur sc\u00e8ne, mais ce n'est pas une entr\u00e9e ou une sortie de sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+  "response_time": 1976.2299060821533,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

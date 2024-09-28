@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, Mademoiselle Saint-Yves, qui descend sur l'avant-sc\u00e8ne. Ce mouvement n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne, ce qui exclut les cat\u00e9gories 4 (entrance) et 5 (exit). Il s'agit donc d'un d\u00e9placement du personnage, ce qui correspond \u00e0 la cat\u00e9gorie 7 (movement).",
+  "confidence": 1,
+  "stgdir": "Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne.",
+  "response_time": 1681.281566619873,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

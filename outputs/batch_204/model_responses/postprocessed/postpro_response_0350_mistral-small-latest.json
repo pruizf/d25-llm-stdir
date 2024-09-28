@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique des personnages, \u00e0 savoir servir de la soupe. Cette action ne rentre dans aucune des sous-cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'interaction', ou 'object'. Elle est simplement une description d'une action quotidienne.",
+  "confidence": 0.9,
+  "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+  "response_time": 1640.2297019958496,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

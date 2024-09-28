@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage avec un objet, en l'occurrence une lettre. Le personnage remet la lettre \u00e0 un autre personnage, ce qui correspond bien \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit l'interaction avec des objets.",
+  "confidence": 0.9,
+  "stgdir": "Il remet une lettre \u00e0 Ar\u00e9taphile.",
+  "response_time": 1709.3095779418945,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

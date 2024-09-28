@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il crie' d\u00e9crit une action effectu\u00e9e par un personnage. Bien qu'elle puisse \u00eatre associ\u00e9e \u00e0 une \u00e9motion forte, elle ne rel\u00e8ve pas sp\u00e9cifiquement de la cat\u00e9gorie 'aggression' car elle ne mentionne pas d'action violente. Elle ne correspond pas non plus aux autres cat\u00e9gories sp\u00e9cifiques telles que 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Par cons\u00e9quent, la cat\u00e9gorie la plus appropri\u00e9e est 'action'.",
+  "confidence": 0.95,
+  "stgdir": "Il crie.",
+  "response_time": 2428.3363819122314,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple que le personnage est en train de faire, \u00e0 savoir lire. Cette action ne rentre dans aucune des cat\u00e9gories sp\u00e9cifiques comme 'agression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting' ou 'toward'. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 1,
+  "stgdir": "Elle lit s'\u00e9crie :",
+  "response_time": 2827.0840644836426,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique ('frapper') qui n'est pas une agression (cat\u00e9gorie 1), une interaction non verbale (cat\u00e9gorie 6), une entr\u00e9e (cat\u00e9gorie 4) ou une sortie (cat\u00e9gorie 5). Elle se rapporte \u00e0 une action g\u00e9n\u00e9rale des personnages qui implique un mouvement.",
+  "confidence": 0.9,
+  "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+  "response_time": 1779.8564434051514,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

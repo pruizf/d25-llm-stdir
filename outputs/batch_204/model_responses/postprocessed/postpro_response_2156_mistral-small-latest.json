@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique d'un personnage, \u00e0 savoir s'asseoir, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Cette cat\u00e9gorie est utilis\u00e9e pour d\u00e9crire les d\u00e9placements des personnages qui ne sont ni des entr\u00e9es ni des sorties de sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Elle va s'asseoir \u00e0 gauche.",
+  "response_time": 1872.3132610321045,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

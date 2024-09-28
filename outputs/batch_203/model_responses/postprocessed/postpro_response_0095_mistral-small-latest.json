@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il saute' d\u00e9crit un mouvement du personnage. Bien que l'action de sauter puisse \u00eatre consid\u00e9r\u00e9e comme une action g\u00e9n\u00e9rale, elle est sp\u00e9cifiquement un mouvement qui ne correspond \u00e0 aucune des autres cat\u00e9gories plus sp\u00e9cifiques comme l'entr\u00e9e, la sortie, l'interaction, ou l'agression.",
+  "confidence": 0.9,
+  "stgdir": "Il saute.",
+  "response_time": 1517.3430442810059,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

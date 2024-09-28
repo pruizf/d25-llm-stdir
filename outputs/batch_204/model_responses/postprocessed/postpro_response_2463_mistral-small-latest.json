@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, plus pr\u00e9cis\u00e9ment le fait de lever un marteau, ce qui implique un d\u00e9placement ou une action physique du personnage mais ne correspond pas \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Il l\u00e8ve son marteau.",
+  "response_time": 1461.2181186676025,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

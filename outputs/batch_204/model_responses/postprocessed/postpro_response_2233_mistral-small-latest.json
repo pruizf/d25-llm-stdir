@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage Fran\u00e7ois, sp\u00e9cifiquement son d\u00e9placement vers la fen\u00eatre. Cela correspond \u00e0 la cat\u00e9gorie 'movement' qui d\u00e9crit les d\u00e9placements des personnages, sans \u00eatre une entr\u00e9e ou une sortie de sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Fran\u00e7ois va vers la fen\u00eatre.",
+  "response_time": 1395.7040309906006,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

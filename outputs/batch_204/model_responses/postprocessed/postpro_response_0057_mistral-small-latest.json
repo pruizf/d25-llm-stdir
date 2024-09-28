@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit des actions sp\u00e9cifiques des personnages (montrer, bouger, affubler) qui ne rentrent dans aucune des autres cat\u00e9gories sp\u00e9cifiques propos\u00e9es.",
+  "confidence": 0.9,
+  "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+  "response_time": 1112.0362281799316,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

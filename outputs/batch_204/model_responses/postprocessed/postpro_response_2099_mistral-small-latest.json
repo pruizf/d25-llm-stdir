@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique ('s'\u00e9l\u00e8ve') et une action ('tombe dessus') sans qu'il s'agisse d'une entr\u00e9e ou sortie de sc\u00e8ne. Cela correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Un lit de gazon s'\u00e9l\u00e8ve fort \u00e0 propos propos. Le Pasteur tombe dessus sans connaissance, les Aguilons, les Cyclopes et les Sulamandres se retiremt.",
+  "response_time": 1329.699993133545,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

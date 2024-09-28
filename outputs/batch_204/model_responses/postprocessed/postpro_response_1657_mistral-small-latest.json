@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique d'un personnage (aller se mettre entre L\u00e9lie et sa ma\u00eetresse), ce qui correspond bien \u00e0 la cat\u00e9gorie 'movement'. Ce mouvement n'implique pas une entr\u00e9e ou une sortie de sc\u00e8ne, donc les cat\u00e9gories 'entrance' et 'exit' ne sont pas appropri\u00e9es. Il s'agit d'une action sp\u00e9cifique qui ne rentre pas dans les autres cat\u00e9gories comme 'aggression' ou 'interaction'.",
+  "confidence": 0.95,
+  "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+  "response_time": 2131.1376094818115,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

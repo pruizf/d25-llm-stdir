@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement de Dassoucy qui descend du ch\u00e2teau dans le parc et court. Ce mouvement n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne, donc il correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Dassoucy, poursuivant Pierrotin, descend du ch\u00e2teau dans le parc ; il court, embarrasse par son luth qu'il tient de la main gauche.",
+  "response_time": 1207.7536582946777,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, pr\u00e9cis\u00e9ment le fait de se lever pour sortir. Bien que le mouvement implique une sortie, l'action principale d\u00e9crite est le fait de se lever, ce qui est une action de mouvement.",
+  "confidence": 0.9,
+  "stgdir": "Elle se l\u00e8ve pour sortir.",
+  "response_time": 1886.833667755127,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

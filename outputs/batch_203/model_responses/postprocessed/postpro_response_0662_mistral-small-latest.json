@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction entre Figaro et Bartholo impliquant un objet (le linge). Figaro manipule le linge en le passant au cou de Bartholo, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Figaro passe le linge au cou de Bartholo.",
+  "response_time": 1213.4795188903809,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

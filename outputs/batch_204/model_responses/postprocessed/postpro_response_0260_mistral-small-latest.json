@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique du personnage (la comtesse se l\u00e8ve) et une interaction (le Comte l'arr\u00eate), qui implique un d\u00e9placement mais pas une entr\u00e9e ou une sortie de sc\u00e8ne. Cela correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "La comtesse se l\u00e8ve et va pour rentrer chez elle, le Comte l'arr\u00eate.",
+  "response_time": 1374.0921020507812,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

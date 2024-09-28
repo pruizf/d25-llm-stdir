@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique d'un personnage, \u00e0 savoir s'approcher d'un fauteuil et indiquer un autre fauteuil. Ces actions sont des d\u00e9placements qui ne correspondent pas \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne, donc ils sont class\u00e9s dans la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Elle s'approche du fauteuil de gauche et elle indique celui de droite.",
+  "response_time": 1591.3455486297607,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

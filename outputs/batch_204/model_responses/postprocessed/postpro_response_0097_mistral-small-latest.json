@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il tire un pistolet qui rate.' d\u00e9crit une action sp\u00e9cifique d'un personnage. Cette action n'est pas une agression car elle ne cause pas de violence directe, elle n'est pas un apart\u00e9, une entr\u00e9e ou une sortie de sc\u00e8ne, une interaction non verbale, un mouvement, une narration, une description d'objet, de sc\u00e8ne ou d'indication de destinataire de r\u00e9plique. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "Il tire un pistolet qui rate.",
+  "response_time": 2234.7335815429688,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

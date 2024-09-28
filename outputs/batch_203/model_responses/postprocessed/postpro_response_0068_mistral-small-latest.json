@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action du personnage, \u00e0 savoir tendre l'oreille. Cette action ne correspond pas aux autres cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Elle rel\u00e8ve donc de la cat\u00e9gorie g\u00e9n\u00e9rale 'action'.",
+  "confidence": 1,
+  "stgdir": "Il tend l'oreille anxieusement.",
+  "response_time": 1670.2969074249268,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

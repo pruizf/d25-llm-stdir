@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction entre un personnage et un objet (le re\u00e7u de Rosalie), ce qui correspond \u00e0 la cat\u00e9gorie 'object'. Le personnage donne le re\u00e7u, ce qui est une action li\u00e9e \u00e0 un objet.",
+  "confidence": 0.9,
+  "stgdir": "Il donne \u00e0 son ma\u00eetre le re\u00e7u de Rosalie.",
+  "response_time": 1292.8485870361328,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

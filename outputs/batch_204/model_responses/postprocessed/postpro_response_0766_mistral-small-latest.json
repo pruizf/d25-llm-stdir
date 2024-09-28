@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action des personnages, plus pr\u00e9cis\u00e9ment une action physique. Le verbe 'tomber' est clairement une action et n'entre pas dans les cat\u00e9gories plus sp\u00e9cifiques comme l'agression, l'interaction, le mouvement, ou la manipulation d'objets.",
+  "confidence": 0.9,
+  "stgdir": "Il tombe \u00e0 ses pieds.",
+  "response_time": 1915.6200885772705,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

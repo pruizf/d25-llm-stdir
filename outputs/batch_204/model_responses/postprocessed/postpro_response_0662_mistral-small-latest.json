@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Montano s'approche' d\u00e9crit un mouvement du personnage, sp\u00e9cifiquement un d\u00e9placement vers un autre personnage ou un endroit sur la sc\u00e8ne. Cela ne correspond pas \u00e0 une entr\u00e9e ou une sortie de sc\u00e8ne, donc la cat\u00e9gorie 'entrance' ou 'exit' n'est pas appropri\u00e9e. De plus, cela ne correspond pas \u00e0 une interaction non verbale, une agression, un apart\u00e9, une livraison de r\u00e9plique, la musique, la narration, un objet, le cadre ou le destinataire d'une r\u00e9plique.",
+  "confidence": 0.95,
+  "stgdir": "Montano s'approche.",
+  "response_time": 2607.360601425171,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

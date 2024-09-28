@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement du personnage vers un meuble sp\u00e9cifique (le secr\u00e9taire), ce qui correspond \u00e0 la cat\u00e9gorie 'movement' car elle implique un mouvement sans entrer ou sortir de la sc\u00e8ne.",
+  "confidence": 1,
+  "stgdir": "Il se dirige vers le secr\u00e9taire.",
+  "response_time": 1528.0520915985107,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

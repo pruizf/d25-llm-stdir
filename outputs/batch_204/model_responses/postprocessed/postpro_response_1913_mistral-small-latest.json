@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique des personnages (montrer) qui n'entre pas dans les autres cat\u00e9gories sp\u00e9cifiques comme agression, apart\u00e9, interaction, movement, etc. Elle ne concerne pas l'entr\u00e9e ou la sortie de sc\u00e8ne, et elle ne d\u00e9crit pas un objet ou une interaction avec un objet.",
+  "confidence": 0.9,
+  "stgdir": "En montrant Moli\u00e8re et les pi\u00e9destaux.",
+  "response_time": 1574.0950107574463,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

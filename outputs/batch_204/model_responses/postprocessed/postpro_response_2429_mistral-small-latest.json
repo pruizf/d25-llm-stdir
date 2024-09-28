@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir commencer \u00e0 lire un billet. Cette action ne correspond \u00e0 aucune des cat\u00e9gories plus sp\u00e9cifiques telles que l'agression, l'apart\u00e9, la livraison de r\u00e9plique, l'entr\u00e9e ou la sortie de sc\u00e8ne, l'interaction, le mouvement, la musique, la narration, l'objet, le d\u00e9cor ou l'indication du destinataire d'une r\u00e9plique. Elle entre donc dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 1,
+  "stgdir": "Il commence \u00e0 lire le billet.",
+  "response_time": 2238.0800247192383,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, pr\u00e9cis\u00e9ment le fait que le bras retombe. Cela correspond \u00e0 la cat\u00e9gorie 'movement', qui d\u00e9crit les d\u00e9placements ou mouvements des personnages (mais pas les entr\u00e9es ou sorties de sc\u00e8ne).",
+  "confidence": 0.95,
+  "stgdir": "Il lui prend un bras qui retombe.",
+  "response_time": 1326.0788917541504,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

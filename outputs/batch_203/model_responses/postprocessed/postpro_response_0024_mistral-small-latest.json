@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il porte la fiole \u00e0 sa bouche' d\u00e9crit une action sp\u00e9cifique effectu\u00e9e par un personnage. Cette action n'est ni une agression, ni un apart\u00e9, ni une interaction non verbale, ni un mouvement, ni une description d'objet, de sc\u00e8ne ou de musique. Elle ne concerne pas non plus l'entr\u00e9e ou la sortie d'un personnage, ni la direction d'une r\u00e9plique. Elle se classe donc dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 1,
+  "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+  "response_time": 1972.6688861846924,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

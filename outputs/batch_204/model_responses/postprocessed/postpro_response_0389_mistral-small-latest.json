@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action des personnages, plus pr\u00e9cis\u00e9ment le fait de montrer la Marchande de Chansons. Cette action ne correspond pas sp\u00e9cifiquement aux autres cat\u00e9gories comme l'entr\u00e9e en sc\u00e8ne (cat\u00e9gorie 4), la sortie de sc\u00e8ne (cat\u00e9gorie 5), ou une interaction non verbale (cat\u00e9gorie 6).",
+  "confidence": 0.9,
+  "stgdir": "Montrant la Marchande de Chansons.",
+  "response_time": 1685.873031616211,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

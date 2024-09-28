@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique du personnage, \u00e0 savoir 'se jeter dans un fauteuil', qui est un d\u00e9placement mais qui ne correspond pas \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne. Cela correspond bien \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Il se jette dans un fauteuil.",
+  "response_time": 1502.248764038086,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

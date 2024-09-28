@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement du personnage, 'elle va prendre le berceau', qui n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne. Cela correspond \u00e0 la cat\u00e9gorie 'movement' qui d\u00e9crit les d\u00e9placements des personnages sur sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "Elle ferme la bible et va prendre le berceau.",
+  "response_time": 1454.8296928405762,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

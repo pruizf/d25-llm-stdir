@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il tombe' d\u00e9crit un mouvement sp\u00e9cifique du personnage, \u00e0 savoir une chute, qui est un type de d\u00e9placement. Ce mouvement n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne, donc il ne correspond pas aux cat\u00e9gories 4 ou 5. Il ne s'agit pas non plus d'une interaction non verbale, donc la cat\u00e9gorie 6 n'est pas appropri\u00e9e. La cat\u00e9gorie 7 est la plus pertinente ici.",
+  "confidence": 0.95,
+  "stgdir": "Il tombe.",
+  "response_time": 2415.843725204468,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

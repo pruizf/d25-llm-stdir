@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage avec un objet sp\u00e9cifique, en l'occurrence un poignard. Le personnage met sa main sur le poignard, ce qui est une manipulation d'un objet.",
+  "confidence": 0.95,
+  "stgdir": "Il met la main \u00e0 un poignard.",
+  "response_time": 1340.4819965362549,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

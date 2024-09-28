@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique des personnages, \u00e0 savoir tendre la main et prendre de l'argent. Cette action ne rentre dans aucune des cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'interaction', 'movement', ou 'object', car elle ne correspond pas \u00e0 une action violente, \u00e0 une interaction non verbale, \u00e0 un d\u00e9placement, ou \u00e0 une manipulation d'objet. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale 'action'.",
+  "confidence": 0.9,
+  "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+  "response_time": 2121.110677719116,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

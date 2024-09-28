@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir lire l'inscription des lettres, ce qui correspond \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.95,
+  "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+  "response_time": 1090.6271934509277,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

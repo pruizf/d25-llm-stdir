@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Elle se jette \u00e0 terre et se prosterne' d\u00e9crit un mouvement clair du personnage. Ce mouvement n'est pas une entr\u00e9e ou une sortie de sc\u00e8ne, donc il ne correspond pas aux cat\u00e9gories 'entrance' ou 'exit'. Il n'implique pas d'agression, d'apart\u00e9, de r\u00e9plique, d'interaction non verbale, de musique, de narration, d'objet ou de d\u00e9cor. Il s'agit donc bien d'un mouvement du personnage, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 1,
+  "stgdir": "Elle se jette \u00e0 terre et se prosterne.",
+  "response_time": 2324.2430686950684,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

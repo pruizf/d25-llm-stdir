@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement du personnage, pr\u00e9cis\u00e9ment en se dirigeant vers la porte. Cela correspond \u00e0 la cat\u00e9gorie 'movement', qui d\u00e9crit le d\u00e9placement du personnage sans qu'il n'entre ou ne sorte de la sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Elle se dirige vers la porte.",
+  "response_time": 1307.384729385376,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

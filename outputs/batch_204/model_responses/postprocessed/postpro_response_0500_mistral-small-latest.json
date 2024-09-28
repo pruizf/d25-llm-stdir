@@ -1,0 +1,9 @@
+{
+  "category": 3,
+  "explanation": "La didascalie d\u00e9crit comment les vers sont interpr\u00e9t\u00e9s par le choeur, en l'occurrence en les r\u00e9p\u00e9tant. Cela correspond \u00e0 la cat\u00e9gorie 'delivery' qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique, y compris la r\u00e9p\u00e9tition.",
+  "confidence": 0.9,
+  "stgdir": "Le choeur r\u00e9p\u00e8te ces derniers vers.",
+  "response_time": 1658.797025680542,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit principalement des actions des personnages, telles que se prosterner, se ranger en files, s'accroupir, pr\u00e9senter une couronne, et faire des lazzis. Ces actions ne rel\u00e8vent pas sp\u00e9cifiquement des autres cat\u00e9gories comme l'agression, l'interaction non verbale, le mouvement, la narration, ou l'interaction avec des objets.",
+  "confidence": 0.9,
+  "stgdir": "Les Ogres se prosternent devant Arlequin. Ensuite ils se rangent en deux files, accroupis, ayant les coudes sur les genoux, et les deux poings sous le menton. Un vieillard s'avance et pr\u00e9sente \u00e0 genoux une couronne \u00e0 Arlequin, qui fait ses lazzis.",
+  "response_time": 3171.6713905334473,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

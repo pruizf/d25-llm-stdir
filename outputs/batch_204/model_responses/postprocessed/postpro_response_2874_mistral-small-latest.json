@@ -1,0 +1,9 @@
+{
+  "category": 12,
+  "explanation": "La didascalie '\u00c0 Colin.' indique clairement le destinataire d'une r\u00e9plique ou d'une action. Elle ne d\u00e9crit pas une action (cat\u00e9gorie 0), une agression (cat\u00e9gorie 1), un apart\u00e9 (cat\u00e9gorie 2), une mani\u00e8re de livrer une r\u00e9plique (cat\u00e9gorie 3), une entr\u00e9e (cat\u00e9gorie 4), une sortie (cat\u00e9gorie 5), une interaction non verbale (cat\u00e9gorie 6), un mouvement (cat\u00e9gorie 7), de la musique (cat\u00e9gorie 8), une narration (cat\u00e9gorie 9), un objet (cat\u00e9gorie 10), ou un cadre/d\u00e9cor (cat\u00e9gorie 11). La cat\u00e9gorie 12, 'toward', est donc la plus appropri\u00e9e pour cette didascalie.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Colin.",
+  "response_time": 3053.3413887023926,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

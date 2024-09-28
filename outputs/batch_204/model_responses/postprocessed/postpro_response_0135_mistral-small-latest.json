@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction avec un objet sp\u00e9cifique, en l'occurrence un objet de boeuf. Le personnage manipule cet objet en le fermant. Cela correspond bien \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit l'interaction d'un personnage avec un objet.",
+  "confidence": 0.9,
+  "stgdir": "Il referme l'oeil\u2014de\u2014boeuf.",
+  "response_time": 1285.5184078216553,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

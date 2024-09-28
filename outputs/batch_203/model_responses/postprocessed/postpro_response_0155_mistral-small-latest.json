@@ -1,0 +1,9 @@
+{
+  "category": 9,
+  "explanation": "La didascalie d\u00e9crit un ph\u00e9nom\u00e8ne sonore sp\u00e9cifique, en l'occurrence un bruit de guerre, qui n'est pas une action, une interaction, un mouvement ou une agression. Elle est \u00e9galement trop br\u00e8ve pour \u00eatre consid\u00e9r\u00e9e comme une narration longue et d\u00e9taill\u00e9e. La cat\u00e9gorie 'narration' est la plus appropri\u00e9e car elle inclut des descriptions de bruits ou de ph\u00e9nom\u00e8nes sonores.",
+  "confidence": 0.8,
+  "stgdir": "On entend un bruit de guerre.",
+  "response_time": 1705.169677734375,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

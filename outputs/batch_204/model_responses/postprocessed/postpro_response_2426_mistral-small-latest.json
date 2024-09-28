@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir montrer quelque chose. Cette action n'est pas une agression, un apart\u00e9, une entr\u00e9e ou une sortie, et ne concerne pas directement un objet ou un d\u00e9placement. Elle rel\u00e8ve donc de la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "Il montre le mari de la Vieille.",
+  "response_time": 1933.7756633758545,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

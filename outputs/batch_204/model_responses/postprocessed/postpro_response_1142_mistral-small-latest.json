@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, 'se levant', qui n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne. Cela correspond bien \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "On entend frapper et la porte. - Se levant.",
+  "response_time": 1172.234058380127,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

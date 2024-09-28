@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir prendre des pi\u00e8ces une par une. Cette action ne correspond pas aux d\u00e9finitions des autres cat\u00e9gories, comme l'agression, l'apart\u00e9, la delivery, l'entr\u00e9e, la sortie, l'interaction, le mouvement, la musique, la narration, ou l'interaction avec un objet.",
+  "confidence": 0.95,
+  "stgdir": "Il prend l'une apr\u00e8s l'autre toutes les pi\u00e8ces de l'\u00e9crin.",
+  "response_time": 2125.464677810669,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

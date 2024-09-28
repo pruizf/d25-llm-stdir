@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit l'interaction d'un personnage avec un objet sp\u00e9cifique, \u00e0 savoir une robe garnie de fleurs. Elle rel\u00e8ve donc de la cat\u00e9gorie 'object' qui englobe la description et l'interaction avec des objets.",
+  "confidence": 0.95,
+  "stgdir": "Le Laquais d\u00e9couvre une robe garnie de fleurs.",
+  "response_time": 1585.207462310791,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

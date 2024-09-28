@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, pr\u00e9cis\u00e9ment le fait de se laisser tomber \u00e0 genoux. Ce mouvement n'est pas une entr\u00e9e ou une sortie de sc\u00e8ne, donc il ne correspond pas aux cat\u00e9gories 4 (entrance) ou 5 (exit). Il ne s'agit pas non plus d'une interaction non verbale ou d'une action violente, donc les cat\u00e9gories 1 (aggression) et 6 (interaction) ne sont pas appropri\u00e9es. La cat\u00e9gorie 7 (movement) est la plus pertinente.",
+  "confidence": 0.95,
+  "stgdir": "Se laissant tomber \u00e0 genoux.",
+  "response_time": 2290.7721996307373,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

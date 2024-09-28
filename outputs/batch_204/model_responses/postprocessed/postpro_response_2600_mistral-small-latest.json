@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir se mirer et arranger des fleurs dans ses cheveux. Ces actions ne sont pas couvertes par les autres cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Elles sont donc class\u00e9es sous la cat\u00e9gorie g\u00e9n\u00e9rale 'action'.",
+  "confidence": 0.95,
+  "stgdir": "Elle semble se mirer dans un ruisseau en arrangeant les fleurs dans ses cheveux.",
+  "response_time": 2016.3414478302002,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

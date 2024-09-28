@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit des actions sp\u00e9cifiques d'un personnage en interaction avec des objets (v\u00eatements et accessoires). Le personnage enl\u00e8ve et met des v\u00eatements, ce qui correspond bien \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Le Prince \u00f4te son bonnet de nuit et sa robe de chambre met par dessus sa r\u00e9sille, le bonnet de Barogo, sa veste par-dessus le gilet de dessous, la gratoire \u00e0 sa ceinture, les genouill\u00e8res \u00e0 ses genoux, et les souliers \u00e0 la place de ses pantoufles.",
+  "response_time": 1237.6766204833984,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

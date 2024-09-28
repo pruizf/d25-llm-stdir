@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "La didascalie indique que B\u00e9atrix se sauve, ce qui implique qu'elle quitte la sc\u00e8ne. Cette action correspond \u00e0 la cat\u00e9gorie 'exit' qui d\u00e9crit le personnage sortant ou quittant la sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "B\u00e9atrix se d\u00e9barrasse de Jodelet, et se sauve.",
+  "response_time": 1182.5237274169922,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

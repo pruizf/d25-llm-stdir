@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir ouvrir la porte et lire une carte de visite. Cette action ne tombe pas dans une des cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'entrance', 'exit', 'interaction', ou 'movement'. Elle est simplement une action g\u00e9n\u00e9rale des personnages.",
+  "confidence": 0.9,
+  "stgdir": "Il ouvre la porte et lit attentivement une carte de visite clou\u00e9e \u00e0 l'ext\u00e9rieur.",
+  "response_time": 1491.9390678405762,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

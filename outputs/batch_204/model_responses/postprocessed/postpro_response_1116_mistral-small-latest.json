@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique avec un objet (tirer une lettre de sa poche), ce qui correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions entre un personnage et un objet.",
+  "confidence": 0.95,
+  "stgdir": "Il tire une lettre de sa poche.",
+  "response_time": 2559.9234104156494,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

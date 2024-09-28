@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement du personnage, mais pas une entr\u00e9e ou sortie de sc\u00e8ne. Le personnage se d\u00e9place pour prendre une lettre et la poser sur la b\u00fbche.",
+  "confidence": 0.95,
+  "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+  "response_time": 1120.1539039611816,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

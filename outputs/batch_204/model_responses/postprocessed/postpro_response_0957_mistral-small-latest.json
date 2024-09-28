@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'En regardant les enfants' d\u00e9crit une action sp\u00e9cifique du personnage, qui est de regarder. Cette action ne correspond \u00e0 aucune des autres cat\u00e9gories sp\u00e9cifiques telles que l'agression, l'interaction non verbale, le mouvement, ou l'interaction avec un objet. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "En regardant les enfants.",
+  "response_time": 1666.7461395263672,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

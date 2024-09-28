@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique d'un personnage, \u00e0 savoir Oronte qui enl\u00e8ve son \u00e9cu et son casque pour dormir au pied d'un arbre. Cette action ne correspond \u00e0 aucune des autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'entr\u00e9e ou la sortie de sc\u00e8ne, ou l'interaction avec un objet.",
+  "confidence": 0.95,
+  "stgdir": "Oronte met bas son \u00e9cu et son casque, pour dormir au pied d'un arbre.",
+  "response_time": 1801.4652729034424,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement des personnages qui ne correspond pas \u00e0 une entr\u00e9e ou une sortie de sc\u00e8ne. Ils prennent place, ce qui implique un d\u00e9placement vers la table et une position sp\u00e9cifique. Cette action est donc un mouvement.",
+  "confidence": 0.9,
+  "stgdir": "Tous les deux prennent place devant la table.",
+  "response_time": 1532.7870845794678,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

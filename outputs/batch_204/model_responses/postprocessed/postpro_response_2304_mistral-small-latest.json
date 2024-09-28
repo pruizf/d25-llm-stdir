@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un d\u00e9placement des personnages sans qu'il s'agisse d'une entr\u00e9e ou d'une sortie de sc\u00e8ne. Le mouvement des personnages vers la table correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "Tous les deux prennent place devant la table.",
+  "response_time": 1720.4113006591797,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

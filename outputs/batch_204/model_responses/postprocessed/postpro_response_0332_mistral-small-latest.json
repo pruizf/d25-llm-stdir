@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique que le personnage effectue, \u00e0 savoir d\u00e9faire le papier. Cette action ne correspond \u00e0 aucune des sous-cat\u00e9gories plus sp\u00e9cifiques comme l'agression, l'interaction non verbale, le mouvement, etc.",
+  "confidence": 0.95,
+  "stgdir": "Elle d\u00e9fait le papier.",
+  "response_time": 1618.9875602722168,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

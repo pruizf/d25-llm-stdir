@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, en l'occurrence un retour vers son bureau. Ce mouvement n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne, ce qui exclut les cat\u00e9gories 4 (entrance) et 5 (exit).",
+  "confidence": 0.9,
+  "stgdir": "Revenant pr\u00e9s de son bureau.",
+  "response_time": 1364.654302597046,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

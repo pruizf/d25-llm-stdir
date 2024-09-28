@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage (Le Chevalier) avec un objet (le chapeau de Frontin) et des objets sp\u00e9cifiques (des bijoux et de l'argent). Elle correspond parfaitement \u00e0 la d\u00e9finition de la cat\u00e9gorie 'object' qui inclut la manipulation d'objets par les personnages.",
+  "confidence": 0.95,
+  "stgdir": "Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent.",
+  "response_time": 1813.6634826660156,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir lire une lettre. Cette action ne rentre dans aucune des autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'interaction, le mouvement, etc. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "Il lit la lettre de Damis.",
+  "response_time": 1535.2604389190674,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir l'arrangement de fruits et de fleurs dans un panier. Cette action n'entre pas dans les cat\u00e9gories de mouvement (cat\u00e9gorie 7), d'interaction (cat\u00e9gorie 6), ou de narration (cat\u00e9gorie 9). Elle ne concerne pas non plus un objet de mani\u00e8re plus sp\u00e9cifique (cat\u00e9gorie 10) ou une entr\u00e9e/sortie de sc\u00e8ne (cat\u00e9gories 4 et 5).",
+  "confidence": 0.95,
+  "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+  "response_time": 1948.7297534942627,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, pr\u00e9cis\u00e9ment une sortie, mais elle n'est pas une entr\u00e9e ou une sortie de sc\u00e8ne compl\u00e8te. Elle indique un d\u00e9placement ou un mouvement sp\u00e9cifique, ce qui correspond bien \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Il sort avec Mademoiselle des Bris\u00e9es.",
+  "response_time": 1456.6929340362549,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

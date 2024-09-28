@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, plus pr\u00e9cis\u00e9ment l'action d'ouvrir un tiroir, qui est une interaction avec un objet (cat\u00e9gorie 10), mais le mouvement lui-m\u00eame (ouvrir) est la partie principale de l'action.",
+  "confidence": 0.9,
+  "stgdir": "Elle ouvre un autre tiroir.",
+  "response_time": 1494.1344261169434,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

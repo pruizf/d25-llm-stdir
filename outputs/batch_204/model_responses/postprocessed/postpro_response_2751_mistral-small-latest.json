@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit des mouvements sp\u00e9cifiques du personnage, tels que prendre une \u00e9chelle, la poser contre un volet, refermer le volet et courir. Ces actions ne sont pas des interactions non verbales, des entr\u00e9es ou sorties de sc\u00e8ne, des agressions, des apart\u00e9s, des descriptions de musique, des narrations, des descriptions d'objets ou des descriptions de la sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+  "response_time": 1662.933111190796,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

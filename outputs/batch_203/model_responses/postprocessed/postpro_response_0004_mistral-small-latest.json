@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir 'ouvrir'. Cette action n'est pas une agression, un apart\u00e9, une interaction non verbale, un d\u00e9placement, une entr\u00e9e ou une sortie de sc\u00e8ne, une description de musique, une narration, une description d'objet ou de sc\u00e8ne, ou une indication de destination de r\u00e9plique. Elle correspond donc le mieux \u00e0 la cat\u00e9gorie 'action'.",
+  "confidence": 1,
+  "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+  "response_time": 1659.071445465088,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

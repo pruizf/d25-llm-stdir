@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, qui est 'lire'. Cette action n'est pas une agression, un apart\u00e9, une entr\u00e9e ou une sortie de sc\u00e8ne, une interaction non verbale, un mouvement, de la musique, une narration, une manipulation d'objet ou une description de la sc\u00e8ne. Elle correspond donc parfaitement \u00e0 la cat\u00e9gorie 'action'.",
+  "confidence": 1,
+  "stgdir": "Il lit en parcourant.",
+  "response_time": 1607.7210903167725,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires.' d\u00e9crit une action sp\u00e9cifique des personnages, qui est de retirer des accessoires. Cette action ne correspond \u00e0 aucune des autres cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. C'est donc une action g\u00e9n\u00e9rale des personnages.",
+  "confidence": 0.9,
+  "stgdir": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires.",
+  "response_time": 1927.2925853729248,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

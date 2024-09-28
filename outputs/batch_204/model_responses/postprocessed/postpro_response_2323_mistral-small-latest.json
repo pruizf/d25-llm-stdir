@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique que le personnage effectue, \u00e0 savoir d\u00e9cacheter une lettre. Cette action ne correspond pas aux d\u00e9finitions des autres cat\u00e9gories, telles que l'agression, l'interaction non verbale, le mouvement, la musique, la narration, l'objet, le cadre ou l'indication de l'interlocuteur d'une r\u00e9plique.",
+  "confidence": 0.95,
+  "stgdir": "Elle d\u00e9cachette la lettre.",
+  "response_time": 2059.494733810425,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

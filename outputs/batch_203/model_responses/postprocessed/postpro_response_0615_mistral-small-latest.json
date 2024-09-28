@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Faisant sonner la bourse' d\u00e9crit une action sp\u00e9cifique effectu\u00e9e par un personnage. Cette action n'est pas une violence (cat\u00e9gorie 1), un apart\u00e9 (cat\u00e9gorie 2), une interaction non verbale (cat\u00e9gorie 6), un mouvement (cat\u00e9gorie 7), une description musicale (cat\u00e9gorie 8), une narration (cat\u00e9gorie 9), une description d'objet (cat\u00e9gorie 10), une description de lieu (cat\u00e9gorie 11) ou une indication de destinataire de r\u00e9plique (cat\u00e9gorie 12). Elle correspond donc le mieux \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.9,
+  "stgdir": "Faisant sonner la bourse.",
+  "response_time": 2590.3446674346924,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

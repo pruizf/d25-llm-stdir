@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique du personnage, \u00e0 savoir faire un pas pour s'en aller, mais revient toujours. Ce mouvement r\u00e9p\u00e9titif est clairement un d\u00e9placement qui ne correspond pas \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "Il fait un pas pour s'en aller et revient toujours.",
+  "response_time": 1315.7472610473633,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

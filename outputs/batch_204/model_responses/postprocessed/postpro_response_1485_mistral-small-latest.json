@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit des mouvements sp\u00e9cifiques des personnages, tels que passer par devant quelqu'un et se trouver \u00e0 c\u00f4t\u00e9 de quelqu'un, sans mentionner d'interaction verbale, d'entr\u00e9e ou de sortie de sc\u00e8ne. Cela correspond \u00e0 la cat\u00e9gorie 'movement' qui d\u00e9crit les d\u00e9placements des personnages sur sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "L'un passe par devant Lucinde, et l'autre par devant G\u00e9ronte, et prennent tous deux le milieu, ils se trouvent l'un pr\u00e8s de l'autre.",
+  "response_time": 1679.2519092559814,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

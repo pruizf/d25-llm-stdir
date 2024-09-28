@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction avec un objet (fourrage dans la serrure), ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "On entend un outil qui fourrage dans la serrure.",
+  "response_time": 998.6791610717773,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

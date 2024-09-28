@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, qui est d'ouvrir une lettre. Cette action ne correspond \u00e0 aucune des cat\u00e9gories plus sp\u00e9cifiques comme agression, apart\u00e9, delivery, etc. Elle est simplement une action g\u00e9n\u00e9rale des personnages.",
+  "confidence": 0.95,
+  "stgdir": "Elle ouvre la lettre.",
+  "response_time": 1517.5440311431885,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

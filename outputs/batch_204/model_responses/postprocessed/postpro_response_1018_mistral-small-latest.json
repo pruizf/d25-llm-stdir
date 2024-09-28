@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit l'interaction d'un personnage avec un objet sp\u00e9cifique, \u00e0 savoir la lettre. Le personnage donne la lettre, ce qui correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets.",
+  "confidence": 0.9,
+  "stgdir": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.",
+  "response_time": 1379.2893886566162,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

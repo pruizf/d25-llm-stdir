@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement des personnages ('une marche g\u00e9n\u00e9rale') qui n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne. Il s'agit donc d'un d\u00e9placement g\u00e9n\u00e9ral des personnages, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "La pi\u00e8ce finit par une marche g\u00e9n\u00e9rale.",
+  "response_time": 1638.753890991211,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

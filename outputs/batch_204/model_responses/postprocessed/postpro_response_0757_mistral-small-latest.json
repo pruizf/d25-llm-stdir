@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir s'asseoir et \u00e9crire en chantant. Ces actions ne rel\u00e8vent d'aucune autre cat\u00e9gorie sp\u00e9cifique comme l'agression, l'apart\u00e9, l'entr\u00e9e, la sortie, l'interaction non verbale, le mouvement, la musique, la narration, l'objet, le cadre ou la direction de la r\u00e9plique.",
+  "confidence": 1,
+  "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+  "response_time": 2088.5539054870605,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

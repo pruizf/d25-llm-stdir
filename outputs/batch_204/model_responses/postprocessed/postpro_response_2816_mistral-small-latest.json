@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique du personnage, qui est 'chercher'. Cette action n'est pas violente, ne concerne pas une interaction verbale ou non verbale, et n'implique pas l'entr\u00e9e ou la sortie d'un personnage. Elle se classe donc dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 1,
+  "stgdir": "Il va chercher le sac d'or.",
+  "response_time": 1490.9155368804932,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

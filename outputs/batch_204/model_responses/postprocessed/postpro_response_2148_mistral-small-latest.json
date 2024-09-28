@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Montrant Antigone' d\u00e9crit une action sp\u00e9cifique des personnages, \u00e0 savoir montrer quelqu'un. Cette action ne correspond pas \u00e0 une agression (cat\u00e9gorie 1), un apart\u00e9 (cat\u00e9gorie 2), une interaction (cat\u00e9gorie 6), un mouvement (cat\u00e9gorie 7), une narration (cat\u00e9gorie 9), un objet (cat\u00e9gorie 10), un setting (cat\u00e9gorie 11) ou une indication du destinataire d'une r\u00e9plique (cat\u00e9gorie 12). Par cons\u00e9quent, la cat\u00e9gorie 'action' (cat\u00e9gorie 0) est la plus appropri\u00e9e.",
+  "confidence": 0.95,
+  "stgdir": "Montrant Antigone.",
+  "response_time": 2484.0221405029297,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

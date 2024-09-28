@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit l'interaction d'un personnage avec des objets sp\u00e9cifiques, en l'occurrence un chapeau et un ch\u00e2le. Cette interaction implique des actions comme quitter ou retirer ces objets, ce qui correspond bien \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Elle quitte son chapeau et son ch\u00e2le.",
+  "response_time": 1453.0158042907715,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

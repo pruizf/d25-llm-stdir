@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il l\u00e8ve sa canne' d\u00e9crit un mouvement du personnage, sp\u00e9cifiquement un geste de lever un objet. Ce mouvement ne correspond pas \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni \u00e0 une interaction non verbale (cat\u00e9gorie 6), ni \u00e0 une agression (cat\u00e9gorie 1). Il s'agit d'une action g\u00e9n\u00e9rale, mais elle est plus sp\u00e9cifiquement un mouvement, donc elle est mieux class\u00e9e dans la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Il l\u00e8ve sa canne.",
+  "response_time": 2032.2463512420654,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

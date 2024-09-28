@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique que le personnage entreprend, \u00e0 savoir enlever quelque chose de sa t\u00eate. Cette action ne correspond pas directement aux autres cat\u00e9gories comme 'aggression', 'interaction', 'entrance', 'exit', 'movement', 'narration', 'object', 'setting', ou 'toward'. Elle n'est pas non plus un apart\u00e9 (aparte), une description de la livraison d'une r\u00e9plique (delivery), ou une musique (music). Par cons\u00e9quent, la cat\u00e9gorie 'action' (0) est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Elle se met en devoir d'\u00f4ter celui qui est sur sa t\u00eate.",
+  "response_time": 2487.0002269744873,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

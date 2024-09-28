@@ -1,0 +1,9 @@
+{
+  "category": 11,
+  "explanation": "La didascalie '\u00c0 Francis et \u00e0 Madeleine' ne d\u00e9crit pas une action sp\u00e9cifique, une agression, un apart\u00e9, une interaction non verbale, un mouvement, une musique, une narration, un objet, une entr\u00e9e ou une sortie de sc\u00e8ne. Elle ressemble davantage \u00e0 une indication de mise en sc\u00e8ne ou de contexte, probablement destin\u00e9e \u00e0 indiquer \u00e0 qui une r\u00e9plique est adress\u00e9e. Cependant, la cat\u00e9gorie 'toward' ne semble pas applicable ici car elle est g\u00e9n\u00e9ralement utilis\u00e9e pour indiquer le destinataire d'une r\u00e9plique. La cat\u00e9gorie 'setting' est la plus appropri\u00e9e car elle d\u00e9crit un aspect de la mise en sc\u00e8ne ou du contexte de la pi\u00e8ce.",
+  "confidence": 0.9,
+  "stgdir": "\u00c0 Francis et \u00e0 Madeleine.",
+  "response_time": 2765.164852142334,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Ils boivent de nouveau' d\u00e9crit une action des personnages, \u00e0 savoir le fait de boire. Cette action n'est pas li\u00e9e \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni \u00e0 une interaction non verbale (cat\u00e9gorie 6), ni \u00e0 un d\u00e9placement (cat\u00e9gorie 7). Elle ne concerne pas non plus une agression (cat\u00e9gorie 1), un apart\u00e9 (cat\u00e9gorie 2), une description de la voix (cat\u00e9gorie 3), un objet (cat\u00e9gorie 10), le lieu (cat\u00e9gorie 11), ou le destinataire d'une r\u00e9plique (cat\u00e9gorie 12). Elle ne fait pas r\u00e9f\u00e9rence \u00e0 une musique (cat\u00e9gorie 8) ni \u00e0 une narration (cat\u00e9gorie 9).",
+  "confidence": 1,
+  "stgdir": "Ils boivent de nouveau.",
+  "response_time": 2769.990921020508,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

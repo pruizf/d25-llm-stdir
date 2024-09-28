@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'En d\u00e9signant celle de droite' d\u00e9crit un mouvement sp\u00e9cifique du personnage, qui pointe ou d\u00e9signe quelqu'un. Ce mouvement ne correspond pas \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni \u00e0 une interaction verbale (cat\u00e9gorie 12), mais plut\u00f4t \u00e0 une action non verbale de d\u00e9signation, ce qui correspond bien \u00e0 la cat\u00e9gorie 'movement' (cat\u00e9gorie 7).",
+  "confidence": 0.9,
+  "stgdir": "En d\u00e9signant celle de droite.",
+  "response_time": 1847.5751876831055,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

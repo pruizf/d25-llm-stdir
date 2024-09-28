@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Gaiment' semble indiquer une action de mouvement ou de d\u00e9placement joyeux. Elle ne correspond pas aux autres cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'music', 'narration', 'object', 'setting', ou 'toward'. La cat\u00e9gorie 'action' est trop g\u00e9n\u00e9rale pour cette didascalie sp\u00e9cifique, donc 'movement' est la meilleure cat\u00e9gorie pour d\u00e9crire un mouvement joyeux.",
+  "confidence": 0.8,
+  "stgdir": "Gaiment.",
+  "response_time": 2153.731107711792,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

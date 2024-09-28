@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple du personnage, qui n'entre pas dans les cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'entrance', 'exit', etc. Le personnage prend son chapeau, ce qui est une action g\u00e9n\u00e9rale.",
+  "confidence": 1,
+  "stgdir": "Il prend son chapeau.",
+  "response_time": 1385.9755992889404,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

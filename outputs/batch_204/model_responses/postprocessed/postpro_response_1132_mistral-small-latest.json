@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique d'un personnage, \u00e0 savoir prendre un gobelet. Cette action ne correspond \u00e0 aucune des sous-cat\u00e9gories plus sp\u00e9cifiques comme l'agression, l'interaction non verbale, le mouvement, ou l'interaction avec un objet. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 1,
+  "stgdir": "Elle prend le gobelet.",
+  "response_time": 1872.345209121704,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

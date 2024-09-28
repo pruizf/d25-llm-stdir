@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une s\u00e9rie d'actions effectu\u00e9es par le personnage, telles que embrasser, mettre dans un panier et rejoindre d'autres personnages. Ces actions ne rel\u00e8vent d'aucune autre cat\u00e9gorie sp\u00e9cifique comme l'agression, l'interaction non verbale, ou le d\u00e9placement.",
+  "confidence": 0.9,
+  "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+  "response_time": 1882.8692436218262,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il donne une ordonnance' d\u00e9crit une action sp\u00e9cifique du personnage qui n'est pas couverte par les autres cat\u00e9gories. Elle ne rel\u00e8ve pas de la violence (agression), n'est pas un apart\u00e9 (aparte), ne concerne pas l'interpr\u00e9tation d'une r\u00e9plique (delivery), ne d\u00e9crit pas une entr\u00e9e ou une sortie de sc\u00e8ne (entrance, exit), n'est pas une interaction non verbale (interaction), n'est pas un mouvement g\u00e9n\u00e9ral (movement), ne concerne pas la musique (music), n'est pas une narration longue (narration), ne d\u00e9crit pas un objet ou son interaction (object), ne d\u00e9crit pas la sc\u00e8ne (setting), et n'indique pas le destinataire d'une r\u00e9plique (toward).",
+  "confidence": 1,
+  "stgdir": "Il donne une ordonnance.",
+  "response_time": 2877.2192001342773,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

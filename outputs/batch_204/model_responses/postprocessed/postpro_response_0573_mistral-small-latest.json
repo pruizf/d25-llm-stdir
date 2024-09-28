@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action du personnage, \u00e0 savoir regarder la table servie. Cette action n'entre pas dans les cat\u00e9gories sp\u00e9cifiques de mouvement, interaction, ou autres types d'actions d\u00e9crites dans les autres cat\u00e9gories.",
+  "confidence": 1,
+  "stgdir": "Regardant la table servie.",
+  "response_time": 1571.3930130004883,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

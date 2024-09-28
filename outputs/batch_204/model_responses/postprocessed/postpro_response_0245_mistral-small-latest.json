@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage (Arnolphe) avec un objet (le chapeau d'Alain). Elle correspond donc \u00e0 la cat\u00e9gorie 'object', qui est d\u00e9finie pour d\u00e9crire un objet ou l'interaction d'un personnage avec un objet.",
+  "confidence": 0.95,
+  "stgdir": "Arnolphe \u00f4te le chapeau de dessus la t\u00eate d'Alain.",
+  "response_time": 1381.1228275299072,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

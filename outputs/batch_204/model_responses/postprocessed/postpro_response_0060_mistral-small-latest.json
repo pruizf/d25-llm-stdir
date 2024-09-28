@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Don Carlos tire son \u00e9p\u00e9e' d\u00e9crit une action sp\u00e9cifique du personnage Don Carlos. Bien que cette action puisse \u00eatre interpr\u00e9t\u00e9e comme une forme de violence, elle n'est pas suffisamment explicite pour \u00eatre class\u00e9e dans la cat\u00e9gorie 'aggression'. Elle ne correspond pas non plus aux autres cat\u00e9gories sp\u00e9cifiques comme 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Par cons\u00e9quent, la cat\u00e9gorie la plus appropri\u00e9e est 'action'.",
+  "confidence": 0.9,
+  "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+  "response_time": 2146.0657119750977,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

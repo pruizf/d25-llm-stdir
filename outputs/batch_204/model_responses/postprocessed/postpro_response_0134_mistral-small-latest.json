@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage, en l'occurrence le retrait de sa main, ce qui est une action de mouvement mais pas une entr\u00e9e ou sortie de sc\u00e8ne. Cela correspond bien \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Elle \u00f4te sa main.",
+  "response_time": 1276.5748500823975,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action des personnages, pr\u00e9cis\u00e9ment le fait qu'Agar s'assoit sur un rocher. Cette action ne correspond \u00e0 aucune des autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'interaction non verbale, le mouvement, l'entr\u00e9e ou la sortie de sc\u00e8ne, ou la description d'un objet ou du d\u00e9cor.",
+  "confidence": 0.95,
+  "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+  "response_time": 1643.5701847076416,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

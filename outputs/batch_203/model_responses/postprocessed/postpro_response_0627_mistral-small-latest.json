@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction sp\u00e9cifique entre Nicaise et des objets, \u00e0 savoir la distribution de chansons et la transaction de 24 sols. Cette interaction implique le don et la r\u00e9ception d'objets, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+  "response_time": 2145.4575061798096,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

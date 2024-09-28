@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Montrant Tancr\u00e8de' d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir montrer quelqu'un. Cette action ne correspond pas \u00e0 une agression (cat\u00e9gorie 1), un apart\u00e9 (cat\u00e9gorie 2), une interaction (cat\u00e9gorie 6), un mouvement (cat\u00e9gorie 7), une narration (cat\u00e9gorie 9), un objet (cat\u00e9gorie 10), un lieu (cat\u00e9gorie 11), ou une indication du destinataire d'une r\u00e9plique (cat\u00e9gorie 12). Bien que 'montrer' puisse \u00eatre li\u00e9 \u00e0 la livraison d'une r\u00e9plique (cat\u00e9gorie 3), il s'agit ici d'une action physique plut\u00f4t que d'une mani\u00e8re de parler.",
+  "confidence": 0.9,
+  "stgdir": "Montrant Tancr\u00e8de.",
+  "response_time": 2836.1828327178955,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

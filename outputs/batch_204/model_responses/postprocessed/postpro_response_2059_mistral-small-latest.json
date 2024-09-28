@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il d\u00e9ploie sa boutique' d\u00e9crit une action de d\u00e9placement et de manipulation d'un objet (la boutique). Cette action ne correspond pas sp\u00e9cifiquement aux autres cat\u00e9gories comme l'entr\u00e9e/sortie (cat\u00e9gorie 4 ou 5), l'interaction non verbale (cat\u00e9gorie 6), ou la simple action g\u00e9n\u00e9rale (cat\u00e9gorie 0). Elle implique un mouvement sp\u00e9cifique li\u00e9 \u00e0 l'ouverture d'un objet, ce qui correspond bien \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Il d\u00e9ploie sa boutique.",
+  "response_time": 2290.614366531372,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

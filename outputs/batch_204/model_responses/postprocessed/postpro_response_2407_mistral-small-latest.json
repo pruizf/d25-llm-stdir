@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique du personnage Carlos, qui s'avance pr\u00e9cipitamment vers Do\u00f1a Sol. Ce mouvement n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne, donc il ne correspond pas aux cat\u00e9gories 4 (entrance) ou 5 (exit). Il ne s'agit pas non plus d'une interaction verbale ou non verbale entre les personnages, donc les cat\u00e9gories 6 (interaction) et 12 (toward) ne sont pas appropri\u00e9es. La cat\u00e9gorie 7 (movement) est donc la plus pertinente.",
+  "confidence": 0.9,
+  "stgdir": "Carlos rabat son chapeau sur son visage, et s'avance pr\u00e9cipitamment vers elle. Do\u00f1a Sol, laissant tomber sa lampe.",
+  "response_time": 2425.285577774048,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

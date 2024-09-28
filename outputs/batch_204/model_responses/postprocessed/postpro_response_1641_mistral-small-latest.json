@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement des personnages sur la sc\u00e8ne, sp\u00e9cifiquement un mouvement de remont\u00e9e. Cela ne correspond pas \u00e0 une entr\u00e9e ou une sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni \u00e0 une interaction non verbale (cat\u00e9gorie 6), mais bien \u00e0 un d\u00e9placement des personnages.",
+  "confidence": 0.95,
+  "stgdir": "Les deux femmes remontent.",
+  "response_time": 1527.9889106750488,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

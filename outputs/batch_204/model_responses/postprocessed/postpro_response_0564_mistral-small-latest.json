@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il tire' d\u00e9crit une action sp\u00e9cifique du personnage. Bien qu'il puisse y avoir une connotation d'agression, cette action n'est pas suffisamment sp\u00e9cifique pour tomber sous la cat\u00e9gorie 'aggression'. Elle ne rel\u00e8ve pas non plus des autres cat\u00e9gories propos\u00e9es. Par cons\u00e9quent, la cat\u00e9gorie 'action' est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Il tire.",
+  "response_time": 2184.438705444336,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique de D\u00e9mophon, qui est de montrer quelque chose \u00e0 un autre personnage. Cette action ne rentre dans aucune des cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'interaction', 'movement', ou 'object', car elle ne concerne pas une interaction violente, une interaction non verbale, un d\u00e9placement ou une manipulation d'objet. La cat\u00e9gorie 'action' est donc la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "D\u00e9mophon, lui montrant la promesse.",
+  "response_time": 2099.77388381958,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

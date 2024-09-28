@@ -1,0 +1,9 @@
+{
+  "category": 4,
+  "explanation": "La didascalie d\u00e9crit l'entr\u00e9e des personnages en sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'entrance'. LICOM\u00c8DE contraint ALCESTE d'entrer dans la Ville, C\u00c9PHISE la suit, ce qui indique clairement qu'ils entrent en sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "LICOM\u00c8DE contraint ALCESTE d'entrer dans la Ville, C\u00c9PHISE la suit, et les soldats de LICOM\u00c8DE ferment la Porte de la Ville aussit\u00f4t qu'ils y sont entr\u00e9s.",
+  "response_time": 1500.2589225769043,
+  "model": "mistral-small-latest",
+  "categFull": "entrance"
+}

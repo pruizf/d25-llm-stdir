@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une interaction d'un personnage avec un objet, en l'occurrence, Hortensius tire un livre. Cela correspond parfaitement \u00e0 la cat\u00e9gorie 'object' qui inclut toute interaction avec un objet.",
+  "confidence": 0.95,
+  "stgdir": "Hortensius tire un livre.",
+  "response_time": 1675.8203506469727,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}
