@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Air. Nanon dormait.' d\u00e9crit une action sp\u00e9cifique du personnage Nanon, qui est en train de dormir. Cette action n'entre pas dans les autres cat\u00e9gories plus sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Par cons\u00e9quent, elle est class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale 'action'.",
+  "confidence": 1,
+  "stgdir": "Air. Nanon dormait.",
+  "response_time": 3985.1624965667725,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La didascalie d\u00e9crit des personnages qui sortent et entrent dans une autre chambre, ce qui correspond \u00e0 la cat\u00e9gorie 'exit' (sortir) et 'entrance' (entrer). Cependant, comme la cat\u00e9gorie 'exit' est explicitement mentionn\u00e9e pour la sortie de La Plume, cela semble \u00eatre la cat\u00e9gorie dominante pour cette didascalie.",
+  "confidence": 0.9,
+  "stgdir": "La Plume sort ; Madame Savon, et Th\u00e9riaque entrent dans l'autre chambre.",
+  "response_time": 3335.5345726013184,
+  "model": "mistral-large-latest",
+  "categFull": "exit"
+}

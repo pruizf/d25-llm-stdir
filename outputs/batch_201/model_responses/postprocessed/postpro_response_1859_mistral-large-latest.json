@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "The stage direction describes non-verbal interactions between characters, such as sending characters under disguise and a servant holding a marquise's tail while cracking nuts. These actions involve interaction without verbal communication, fitting the 'interaction' category.",
+  "confidence": "0.9",
+  "stgdir": "Octave envoie Mezzetin et Pasquariel sous ce d\u00e9guisement, pour achever de d\u00e9go\u00fbter Colombine du bailli. Le laquais qui tient la queue de la Marquise, la tient fich\u00e9e dans sa culotte, et de ses deux mains casse des noix. Colombine, Mezzetin et Pasquariel parlent tous trois ensemble.",
+  "response_time": 2308.6440563201904,
+  "model": "mistral-large-latest",
+  "categFull": "interaction"
+}

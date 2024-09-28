@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction describes Don Juan asking for a drink, setting down his glass as his friends perish, and then drinking after hearing a specific word from the Shadow. These actions involve general character movements and interactions with objects, which fit into the 'action' category. Verbs like 'demande' (asks), 'quitte' (leaves), and 'boit' (drinks) are related to general character actions.",
+  "confidence": 0.9,
+  "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+  "response_time": 3608.290672302246,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

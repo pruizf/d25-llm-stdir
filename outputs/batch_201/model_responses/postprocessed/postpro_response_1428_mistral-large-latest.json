@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction '\u00c0 la veuve' indicates the addressee of a speech, which fits the definition of the 'toward' category. It specifies to whom the speech is directed, in this case, a widow.",
+  "confidence": 1.0,
+  "stgdir": "\u00c0 la veuve.",
+  "response_time": 2221.112012863159,
+  "model": "mistral-large-latest",
+  "categFull": "toward"
+}

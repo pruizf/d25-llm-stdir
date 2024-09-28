@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit les actions du Prince en train de s'habiller et de manipuler divers objets tels que son bonnet de nuit, sa robe de chambre, sa r\u00e9sille, le bonnet de Barogo, sa veste, son gilet, la gratoire, les genouill\u00e8res, et les souliers. Ces actions impliquent une interaction avec des objets, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.95,
+  "stgdir": "Le Prince \u00f4te son bonnet de nuit et sa robe de chambre met par dessus sa r\u00e9sille, le bonnet de Barogo, sa veste par-dessus le gilet de dessous, la gratoire \u00e0 sa ceinture, les genouill\u00e8res \u00e0 ses genoux, et les souliers \u00e0 la place de ses pantoufles.",
+  "response_time": 4231.295585632324,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

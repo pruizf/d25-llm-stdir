@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie d\u00e9crit le d\u00e9placement des personnages (sortant du pavillon de gauche, se dirigeant vers la droite, et Court\u00e8s allant du c\u00f4t\u00e9 contraire). Cela correspond \u00e0 la cat\u00e9gorie 'movement' car il s'agit de d\u00e9placements des personnages sans \u00eatre une entr\u00e9e ou une sortie.",
+  "confidence": 1,
+  "stgdir": "Sortant du pavillon de gauche, et se dirigeant vers la droite, tandis que Court\u00e8s va du c\u00f4te contraire.",
+  "response_time": 3125.467300415039,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

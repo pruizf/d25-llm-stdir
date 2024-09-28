@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Apr\u00e8s qu'elle a lu' d\u00e9crit une action g\u00e9n\u00e9rale du personnage, qui est l'acte de lire. Cette action ne tombe pas dans les cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Elle d\u00e9crit simplement une action du personnage, ce qui correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'action'.",
+  "confidence": "1.0",
+  "stgdir": "Apr\u00e8s qu'elle a lu.",
+  "response_time": 5005.490064620972,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

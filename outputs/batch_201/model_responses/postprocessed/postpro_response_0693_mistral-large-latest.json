@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a sequence of actions involving multiple characters and their interactions over an extended period. It includes details about their movements, emotions, and relationships, which fits the definition of 'narration' as it has a narrative quality intended for readers.",
+  "confidence": "0.95",
+  "stgdir": "Les prisonniers ramassent leurs outils, s'accouplent en silence et sortent la t\u00eate basse sous le fouet du soldat. Guanhumara repara\u00eet sur la galerie haute et les suit des yeux. Au moment o\u00f9 les prisonniers disparaissent, entrent par la grande porte R\u00e9gina, Edwige et Otbert ; R\u00e9gina, v\u00eatue de blanc ; Edwige, la nourrice, vieille, v\u00eatue de noir ; Otbert, en habit de capitaine aventurier, avec le coutelas et la grande \u00e9p\u00e9e ; R\u00e9gina, toute jeune, pale, accabl\u00e9e et se tra\u00eenant \u00e0 peine, comme une personne malade depuis longtemps et presque mourante. Elle se penche sur le bras d'Otbert, qui la soutient et fixe sur elle un regard plein d'angoisse et d'amour. Edwige la suit. Guanhumara, sans \u00eatre vue d'aucun des trois, les observe et les \u00e9coute quelques instants, puis sort par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 elle est entr\u00e9e.",
+  "response_time": 2403.1271934509277,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

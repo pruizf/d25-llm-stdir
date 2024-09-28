@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La didascalie d\u00e9crit une interaction avec un objet (le portefeuille). Le personnage ouvre le portefeuille et examine son contenu, ce qui correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit l'interaction d'un personnage avec un objet.",
+  "confidence": 1,
+  "stgdir": "Il ouvre le portefeuille, il examine ce qu'il contient, et dit :",
+  "response_time": 2711.061954498291,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

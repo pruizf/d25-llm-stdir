@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Il est \u00e0 genoux' describes a character kneeling, which is a general character action. The verb 'kneel' is listed under the action category, making it the best fit for this stage direction.",
+  "confidence": "0.95",
+  "stgdir": "Il est \u00e0 genoux.",
+  "response_time": 2177.828550338745,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

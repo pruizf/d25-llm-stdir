@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Il en donne dans la porte qu'il met par terre.' describes a character's interaction with an object (a door). The character hits the door and causes it to fall to the ground, which fits the definition of Category 10 (object).",
+  "confidence": 0.9,
+  "stgdir": "Il en donne dans la porte qu'il met par terre.",
+  "response_time": 2348.731756210327,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

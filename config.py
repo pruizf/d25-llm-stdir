@@ -24,9 +24,15 @@ plot_dir = "outputs/{batch_id}/plots"
 
 # Open AI ---------------------------------------------------------------------
 oai_config = {
-  "temperature": 1,
-  "top_p": 1,
+  "temperature": 1, # # was default on 2024-09-27, https://platform.openai.com/docs/api-reference/chat/create
+  "top_p": 1, # ditto
   "seed": 14
+}
+
+mistral_config = {
+  "temperature": 0.7, # was default on 2024-09-27, https://docs.mistral.ai/api/#tag/chat/operation/chat_completion_v1_chat_completions_post
+  "top_p": 1,  # ditto
+  "random_seed": 14
 }
 
 # Other ----------------------------------------------------------------------
@@ -38,7 +44,8 @@ categs_as13 = ["action", "aggression", "aparte", "delivery", "entrance",
 prompting_modes = ["definition", "two-shot", "few-shot", "def-few-shot"]
 prompting_langs = ["en", "fr"]
 
-llm_list = ["gpt-4o", "gpt-4o-mini", "llama-3.0", "llama-3.1"]  # , "gpt-4", "gpt-4-turbo"]
+llm_list = ["gpt-4o", "gpt-4o-mini", "llama-3.0", "llama-3.1", "mistral-small-latest",
+            "mistral-large-latest"]  # , "gpt-4", "gpt-4-turbo"]
 
 categ_col_map = {"gold": "goldStr", "sys": "sysStr", "label": "labelStr", "labelStr": "label"}
 categ_col_order = ["text", "gold", "goldStr", "text2", "sys", "sysStr", "cf_sents"]

@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a sequence of actions in a narrative manner, including physical movements and interactions with objects (e.g., 'Il lui pince la taille,' 's'avance \u00e0 pas de loup,' 'entr'ouvre les rideaux'). It also includes a vocal delivery ('d'une voix formidable qui fait trembler la maison'). This comprehensive description is intended for readers and narrates a sequence of character actions, fitting the definition of 'narration.'",
+  "confidence": 0.9,
+  "stgdir": "Il lui pince la taille, et entre. Il est dans un galant d\u00e9shabill\u00e9, s'avance \u00e0 pas de loup, il entr'ouvre les rideaux \u00e0 peine y met l'O dans sa bouche et d'une voix formidable qui fait trembler la maison.",
+  "response_time": 3756.358861923218,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

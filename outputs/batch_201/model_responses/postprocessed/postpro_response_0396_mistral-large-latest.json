@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e' describes a sound that implies interaction with an object (dishes being dropped or knocked over). This fits the 'object' category as it involves an audible interaction with a physical object.",
+  "confidence": 0.9,
+  "stgdir": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e.",
+  "response_time": 2449.1403102874756,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

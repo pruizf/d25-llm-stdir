@@ -1,0 +1,9 @@
+{
+  "category": "4",
+  "explanation": "La didascalie indique que Julie entre en sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'entrance'. De plus, Lamperri\u00e8re sort par le fond, ce qui correspond \u00e0 la cat\u00e9gorie 'exit'. Cependant, la partie principale de la didascalie concerne l'entr\u00e9e de Julie, donc la cat\u00e9gorie 'entrance' est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+  "response_time": 3249.0973472595215,
+  "model": "mistral-large-latest",
+  "categFull": "entrance"
+}

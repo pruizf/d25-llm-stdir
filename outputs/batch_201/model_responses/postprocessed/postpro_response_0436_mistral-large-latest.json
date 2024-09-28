@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction describes a general character action: 'Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.' The verbs 'aper\u00e7oit' (sees), 'se promenait' (was walking), and 'lisait' (was reading) are all actions that fall under the general category of character actions.",
+  "confidence": "0.95",
+  "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+  "response_time": 3302.2139072418213,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

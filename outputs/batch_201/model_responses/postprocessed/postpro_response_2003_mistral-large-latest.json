@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "The stage direction 'Il met la main \u00e0 l'\u00e9p\u00e9e' translates to 'He puts his hand on his sword,' which implies a potentially violent or threatening action. This fits the 'aggression' category as it involves a character preparing for a fight or confrontation.",
+  "confidence": 0.95,
+  "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+  "response_time": 2560.0929260253906,
+  "model": "mistral-large-latest",
+  "categFull": "aggression"
+}

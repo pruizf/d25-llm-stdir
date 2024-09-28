@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes a character's interaction with an object (the bottles). The character takes one bottle and replaces it with another, which fits the definition of the 'object' category.",
+  "confidence": "1",
+  "stgdir": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive.",
+  "response_time": 2208.4269523620605,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

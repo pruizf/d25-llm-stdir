@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il s'assied, et il \u00e9crit en chantant.' d\u00e9crit des actions sp\u00e9cifiques du personnage : s'asseoir et \u00e9crire en chantant. Ces actions tombent sous la cat\u00e9gorie 'action' car elles ne correspondent pas \u00e0 des cat\u00e9gories plus sp\u00e9cifiques comme 'entrance', 'exit', 'interaction', ou 'music'.",
+  "confidence": 0.9,
+  "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+  "response_time": 3538.0656719207764,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

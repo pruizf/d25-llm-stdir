@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Thibaut s'en va' indicates that the character Thibaut is leaving the stage. This corresponds to the 'exit' category, which is defined as a character exiting the stage. The verb 's'en aller' is directly related to this category.",
+  "confidence": "1.0",
+  "stgdir": "Thibaut s'en va.",
+  "response_time": 2524.4522094726562,
+  "model": "mistral-large-latest",
+  "categFull": "exit"
+}

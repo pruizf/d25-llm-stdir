@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire' d\u00e9crit une action sp\u00e9cifique d'un personnage montrant quelque chose \u00e0 un autre personnage. Cette action est bien d\u00e9crite par la cat\u00e9gorie 'action' (0), car elle implique une action directe et sp\u00e9cifique sans \u00eatre une interaction non verbale (cat\u00e9gorie 6) ou une manipulation d'objet (cat\u00e9gorie 10).",
+  "confidence": 0.9,
+  "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+  "response_time": 3696.6493129730225,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

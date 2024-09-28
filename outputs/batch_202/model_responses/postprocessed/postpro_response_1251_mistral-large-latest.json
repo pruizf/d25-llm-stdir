@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'La porte se rouvre' d\u00e9crit une action g\u00e9n\u00e9rale d'un objet (la porte) qui se rouvre. Cette action n'entre pas sp\u00e9cifiquement dans les autres cat\u00e9gories plus sp\u00e9cifiques telles que 'entrance', 'exit', 'interaction', ou 'movement'. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale 'action' (cat\u00e9gorie 0).",
+  "confidence": 0.9,
+  "stgdir": "La porte se rouvre.",
+  "response_time": 4051.6817569732666,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

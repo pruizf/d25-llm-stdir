@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action g\u00e9n\u00e9rale du personnage ('observer le Th\u00e9\u00e2tre, sans regarder les Acteurs'), qui ne rentre pas dans les autres cat\u00e9gories plus sp\u00e9cifiques. Elle d\u00e9crit une action de regarder, qui est mentionn\u00e9e dans la d\u00e9finition de la cat\u00e9gorie 'action'.",
+  "confidence": 0.9,
+  "stgdir": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs.",
+  "response_time": 4024.366617202759,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

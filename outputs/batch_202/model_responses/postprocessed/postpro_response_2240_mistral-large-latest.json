@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La didascalie 'Il se dirige vers le secr\u00e9taire' d\u00e9crit un d\u00e9placement du personnage. Elle ne correspond pas \u00e0 une entr\u00e9e ou une sortie de sc\u00e8ne, mais \u00e0 un mouvement sp\u00e9cifique du personnage sur la sc\u00e8ne. La cat\u00e9gorie 'movement' est donc la plus appropri\u00e9e.",
+  "confidence": 0.95,
+  "stgdir": "Il se dirige vers le secr\u00e9taire.",
+  "response_time": 3025.468587875366,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

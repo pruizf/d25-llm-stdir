@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction 'S'adressant \u00e0 la reine.' indicates that the character is addressing the queen, which means it specifies the addressee of a speech. This directly corresponds to the 'toward' category, which is defined as indicating the addressee of a speech.",
+  "confidence": 1,
+  "stgdir": "S'adressant \u00e0 la reine.",
+  "response_time": 2379.103422164917,
+  "model": "mistral-large-latest",
+  "categFull": "toward"
+}

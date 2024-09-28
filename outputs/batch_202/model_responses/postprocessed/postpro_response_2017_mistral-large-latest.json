@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'On entend de nouveau frapper \u00e0 la porte du fond' d\u00e9crit une action (frapper \u00e0 la porte) qui n'est pas sp\u00e9cifiquement couverte par d'autres cat\u00e9gories plus pr\u00e9cises. Elle ne rel\u00e8ve pas de l'agression, de l'apart\u00e9, de la d\u00e9livrance, de l'entr\u00e9e, de la sortie, de l'interaction non verbale, du mouvement, de la musique, de la narration, de l'objet, du d\u00e9cor ou du destinataire d'une r\u00e9plique.",
+  "confidence": 0.9,
+  "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+  "response_time": 4469.866514205933,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

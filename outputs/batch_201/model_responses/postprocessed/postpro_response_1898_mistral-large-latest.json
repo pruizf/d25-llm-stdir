@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a sequence of events involving clouds, Jesus appearing with a cross, and guards being struck by lightning. This fits the definition of a narration, which is a long stage direction with narrative quality intended for readers. It narrates a sequence of actions and includes weather events.",
+  "confidence": 0.95,
+  "stgdir": "Ce nuage et d'autres qui sortent du calvaire, au lieu du s\u00e9pulcre, se succ\u00e8dent rapidement, le dernier porte J\u00e9sus ayant sa croix \u00e0 son c\u00f4t\u00e9 au milieu des \u00e9clairs et d'un tonnerre dont les Gardes ont \u00e9t\u00e9 foudroy\u00e9s.",
+  "response_time": 2388.4522914886475,
+  "model": "mistral-large-latest",
+  "categFull": "narration"
+}

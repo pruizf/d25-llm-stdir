@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction describes characters moving around the stage, passing by other characters and meeting in the middle. This falls under the 'movement' category, which involves character movement but not entrance or exit.",
+  "confidence": 0.9,
+  "stgdir": "L'un passe par devant Lucinde, et l'autre par devant G\u00e9ronte, et prennent tous deux le milieu, ils se trouvent l'un pr\u00e8s de l'autre.",
+  "response_time": 2350.728988647461,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

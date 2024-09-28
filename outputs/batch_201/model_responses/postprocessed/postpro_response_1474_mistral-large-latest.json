@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction 'Il parle au Chevalier' indicates the addressee of a speech, which falls under the 'toward' category. This is because it specifies to whom the character is speaking.",
+  "confidence": 1.0,
+  "stgdir": "Il parle au Chevalier.",
+  "response_time": 2186.917304992676,
+  "model": "mistral-large-latest",
+  "categFull": "toward"
+}

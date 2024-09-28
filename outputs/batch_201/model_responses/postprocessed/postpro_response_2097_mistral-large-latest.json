@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il s'approche de la porte.' describes the character moving closer to the door, which falls under the category of 'movement'. This category is defined as character movement (but not exit/entrance).",
+  "confidence": 1,
+  "stgdir": "Il s'approche de la porte.",
+  "response_time": 5161.272764205933,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

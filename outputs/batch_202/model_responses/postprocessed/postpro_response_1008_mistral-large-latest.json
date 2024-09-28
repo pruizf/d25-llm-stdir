@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Elle ouvre le secr\u00e9taire' d\u00e9crit une action sp\u00e9cifique du personnage, qui est d'ouvrir un meuble. Cette action est couverte par la cat\u00e9gorie g\u00e9n\u00e9rale 'action' (cat\u00e9gorie 0), car elle ne correspond pas \u00e0 une interaction non verbale, un mouvement sp\u00e9cifique, une entr\u00e9e ou sortie, une narration, ou une description d'objet.",
+  "confidence": 0.9,
+  "stgdir": "Elle ouvre le secr\u00e9taire.",
+  "response_time": 3623.170852661133,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

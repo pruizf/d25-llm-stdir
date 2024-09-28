@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie d\u00e9crit une action du personnage, o\u00f9 ses jambes fl\u00e9chissent et il se redresse h\u00e9ro\u00efquement. Cette description correspond \u00e0 la cat\u00e9gorie 'action', car elle d\u00e9crit des actions physiques du personnage sans impliquer d'autres cat\u00e9gories plus sp\u00e9cifiques comme l'entr\u00e9e, la sortie, l'interaction non verbale, ou le d\u00e9placement.",
+  "confidence": 1,
+  "stgdir": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement.",
+  "response_time": 3389.332056045532,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

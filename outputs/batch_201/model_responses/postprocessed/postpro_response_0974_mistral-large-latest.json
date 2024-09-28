@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il se tire \u00e0 l'\u00e9cart' indicates a character moving away or to the side, which fits the definition of 'movement' (character movement but not exit/entrance). This category is appropriate for actions related to character movement without leaving the stage.",
+  "confidence": "0.95",
+  "stgdir": "Il se tire \u00e0 l'\u00e9cart.",
+  "response_time": 3124.9840259552,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

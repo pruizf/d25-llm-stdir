@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.' describes Agar sitting on a rock next to her child. This is a general character action that does not fit into any other more specific category, such as aggression, entrance, or exit. The verb 's'assied' (sits) is related to general actions, fitting the definition of category 0 (action).",
+  "confidence": 0.95,
+  "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+  "response_time": 3229.7661304473877,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

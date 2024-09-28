@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il parle \u00e0 ses soldats' d\u00e9crit une action g\u00e9n\u00e9rale du personnage. Elle ne correspond pas \u00e0 une interaction non verbale (cat\u00e9gorie 6) ni \u00e0 une description de la mani\u00e8re dont une r\u00e9plique est interpr\u00e9t\u00e9e (cat\u00e9gorie 3). Elle ne d\u00e9crit pas non plus un mouvement sp\u00e9cifique (cat\u00e9gorie 7) ou une interaction avec un objet (cat\u00e9gorie 10). Par cons\u00e9quent, la cat\u00e9gorie la plus appropri\u00e9e est 'action' (cat\u00e9gorie 0).",
+  "confidence": 1.0,
+  "stgdir": "Il parle \u00e0 ses soldats.",
+  "response_time": 4316.15686416626,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

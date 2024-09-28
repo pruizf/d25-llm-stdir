@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction '\u00c0 Mademoiselle B\u00e9jart et \u00e0 B\u00e9jart.' indicates the addressees of a speech, which fits the definition of the 'toward' category. This category is specifically for indicating who a character is speaking to.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Mademoiselle B\u00e9jart et \u00e0 B\u00e9jart.",
+  "response_time": 2287.8477573394775,
+  "model": "mistral-large-latest",
+  "categFull": "toward"
+}

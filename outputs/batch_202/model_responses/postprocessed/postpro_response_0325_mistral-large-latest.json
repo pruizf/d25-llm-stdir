@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Il continue \u00e0 parler' d\u00e9crit une action g\u00e9n\u00e9rale du personnage. Bien qu'elle implique une continuation de la parole, elle ne sp\u00e9cifie pas comment la r\u00e9plique est interpr\u00e9t\u00e9e, ce qui la distingue de la cat\u00e9gorie 'delivery'. Elle ne correspond pas non plus aux autres cat\u00e9gories sp\u00e9cifiques comme 'entrance', 'exit', 'interaction', etc. Par cons\u00e9quent, elle est class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale 'action' (0).",
+  "confidence": 1,
+  "stgdir": "Il continue \u00e0 parler.",
+  "response_time": 4152.516841888428,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}
