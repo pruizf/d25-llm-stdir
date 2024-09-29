@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction 'AIR : Du Coucou' clearly indicates a music direction, as it starts with 'AIR' which is commonly used to denote a tune or song. The content 'Du Coucou' following 'AIR' is the name of the tune. This fits the definition of Category 8: music.",
+  "confidence": 1,
+  "stgdir": "AIR : Du Coucou.",
+  "response_time": 1480.3547859191895,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

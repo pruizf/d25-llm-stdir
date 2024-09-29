@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il se couvre' translates to 'He covers himself'. This action involves the character moving to cover themselves, which falls under the category of 'movement' as defined. It does not involve entrance, exit, aggression, or interaction with other characters or objects, making category 7 the most fitting.",
+  "confidence": 0.95,
+  "stgdir": "Il se couvre.",
+  "response_time": 1278.1407833099365,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

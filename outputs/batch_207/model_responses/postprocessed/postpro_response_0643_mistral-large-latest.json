@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.' describes an interaction with an object, specifically Th\u00e9s\u00e9e taking back his sword. This fits the category 'object' as it involves handling an object.",
+  "confidence": 0.95,
+  "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+  "response_time": 3873.6138343811035,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

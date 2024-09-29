@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Il est \u00e0 genoux' describes a character's movement (getting on one's knees) but does not involve entering or exiting the stage, making it best fit the 'movement' category.",
+  "confidence": 0.95,
+  "stgdir": "Il est \u00e0 genoux.",
+  "response_time": 1258.5563659667969,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

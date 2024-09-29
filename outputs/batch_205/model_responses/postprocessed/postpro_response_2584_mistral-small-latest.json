@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'Ah ! le bel oiseau maman', which is likely the name of the tune being played.",
+  "confidence": 0.95,
+  "stgdir": "AIR. Ah ! le bel oiseau maman.",
+  "response_time": 1269.6869373321533,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche' describes a character movement, specifically sitting down on a chair near a table to the left. This action does not fall under any of the more specific categories such as entrance, exit, interaction, or aggression.",
+  "confidence": 0.95,
+  "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+  "response_time": 1380.0079822540283,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

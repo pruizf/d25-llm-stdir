@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'Jardinier ne vois-tu pas', which is not a typical action, aggression, interaction, or movement for a character. Therefore, it is most likely the name of a tune that the character is playing or singing.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Jardinier ne vois-tu pas.",
+  "response_time": 1290.9584045410156,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

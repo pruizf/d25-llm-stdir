@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "The stage direction describes a violent action where four characters ('quatre lutins') attack Arlequin, wrap him in a blanket ('dans une couverture'), and presumably restrain him ('ils le bernent'). The verbs 'se jettent' and 'bernent' imply aggression and restraint, which aligns with the definition of Category 1: aggression.",
+  "confidence": 0.9,
+  "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+  "response_time": 1393.9225673675537,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

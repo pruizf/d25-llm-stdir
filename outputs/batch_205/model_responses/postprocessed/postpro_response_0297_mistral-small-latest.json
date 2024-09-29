@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is the name of the tune, in this case, 'Non, je ne ferai pas ce qu'on veut que je fasse'. This is consistent with the definition of Category 8 (music).",
+  "confidence": 0.95,
+  "stgdir": "AIR : Non, je ne ferai pas ce qu'on veut que je fasse",
+  "response_time": 1609.0350151062012,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

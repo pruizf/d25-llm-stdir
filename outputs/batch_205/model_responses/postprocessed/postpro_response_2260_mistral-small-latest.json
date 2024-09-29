@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'Air.', which is a common indicator for a musical cue in French stage directions. The following phrase 'H\u00e9las, ce fut sa faute.' is the name of the tune being played.",
+  "confidence": 0.95,
+  "stgdir": "Air. H\u00e9las, ce fut sa faute.",
+  "response_time": 1192.3503875732422,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

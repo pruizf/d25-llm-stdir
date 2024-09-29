@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction '\u00c0 un serviteur.' indicates the addressee of a speech, which fits the definition of Category 12: 'toward'. It specifies who the character is addressing their words to, in this case, a servant.",
+  "confidence": 1,
+  "stgdir": "\u00c0 un serviteur.",
+  "response_time": 1100.9225845336914,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

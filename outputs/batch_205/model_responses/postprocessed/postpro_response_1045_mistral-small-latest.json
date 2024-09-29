@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR.', which is a common indicator of a music stage direction. The text following 'AIR.' is 'Mon Papa toute la nuit', which is interpreted as the name of the tune being played. Therefore, this stage direction falls into the 'music' category.",
+  "confidence": 0.95,
+  "stgdir": "AIR. Mon Papa toute la nuit.",
+  "response_time": 1401.883840560913,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'Air', which is typically used to indicate the start of a musical piece. The content following 'Air' is '84 : De quoi vous plaignez-vous.', which is the name of the tune. Therefore, it fits the category 'music'.",
+  "confidence": 1,
+  "stgdir": "Air 84 : De quoi vous plaignez-vous.",
+  "response_time": 1208.6575031280518,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

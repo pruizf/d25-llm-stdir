@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Elle montre le banc de pierre' describes an interaction with an object (the stone bench). The verb 'montrer' (to show) involves handling or pointing to an object, which fits well within the 'object' category.",
+  "confidence": 0.95,
+  "stgdir": "Elle montre le banc de pierre.",
+  "response_time": 1153.8779735565186,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

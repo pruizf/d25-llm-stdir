@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La didascalie 'Parcourant la lettre' d\u00e9crit une action g\u00e9n\u00e9rale du personnage, \u00e0 savoir lire une lettre. Cette action ne rentre pas dans les autres cat\u00e9gories plus sp\u00e9cifiques comme l'interaction, le mouvement, l'entr\u00e9e, la sortie, etc. Elle correspond donc \u00e0 la cat\u00e9gorie 'action' (cat\u00e9gorie 0).",
+  "confidence": 1,
+  "stgdir": "Parcourant la lettre.",
+  "response_time": 6423.805952072144,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

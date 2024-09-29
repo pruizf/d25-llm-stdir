@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'Air', which is indicative of a musical cue according to the provided definitions. The content 'Toujours seule, disait Nina' following 'Air' suggests the title or description of a tune. Therefore, it falls under the 'music' category.",
+  "confidence": 0.95,
+  "stgdir": "Air : Toujours seule, disait Nina.",
+  "response_time": 1197.6101398468018,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

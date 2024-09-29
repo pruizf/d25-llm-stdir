@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Azor fait un pas' indicates a movement by the character Azor. It does not describe an entrance or exit, an action involving an object, a violent action, or any other specific type of interaction or behavior. It simply states that Azor moves, which falls under the category of general character movement.",
+  "confidence": 0.95,
+  "stgdir": "Azor fait un pas.",
+  "response_time": 1421.6060638427734,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

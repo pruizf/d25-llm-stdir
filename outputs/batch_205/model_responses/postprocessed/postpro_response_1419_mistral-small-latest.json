@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator of a music stage direction. The phrase 'Et autre chose itou' following 'AIR 119.' suggests the naming of a tune. Therefore, it is most likely a description of music.",
+  "confidence": 0.95,
+  "stgdir": "AIR 119. Et autre chose itou.",
+  "response_time": 1260.5090141296387,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

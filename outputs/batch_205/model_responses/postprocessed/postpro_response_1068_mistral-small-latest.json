@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The text following 'AIR' is 'Va-t'en voir s'ils viennent', which is a phrase that could be part of a song's lyrics rather than a character's action or dialogue. Therefore, it is most likely a music stage direction.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Va-t'en voir s'ils viennent.",
+  "response_time": 1385.1189613342285,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

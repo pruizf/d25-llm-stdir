@@ -1,0 +1,9 @@
+{
+  "category": "2",
+  "explanation": "The stage direction 'Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre' indicates that the character is speaking aside, not to another character on stage, but rather to the audience or to himself backstage. This fits the definition of the 'aparte' category, which pertains to characters addressing the audience or being alone.",
+  "confidence": 0.9,
+  "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+  "response_time": 1782.1323871612549,
+  "model": "mistral-small-latest",
+  "categFull": "aparte"
+}

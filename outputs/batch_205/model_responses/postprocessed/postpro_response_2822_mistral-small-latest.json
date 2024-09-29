@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'Air', which is indicative of a musical stage direction. The content following 'Air' specifies the tune name 'Nos plaisirs seront peu durables'. This matches the definition of category 8, which is for tune names and music descriptions.",
+  "confidence": 1.0,
+  "stgdir": "Air : Nos plaisirs seront peu durables.",
+  "response_time": 1199.8109817504883,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

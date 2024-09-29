@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Il fait un mouvement pour se lever.' describes a movement made by the character, which is a general character action that does not fall under any other specific category such as aggression, entrance, exit, or interaction. Therefore, it best fits the category of 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "Il fait un mouvement pour se lever.",
+  "response_time": 1445.6760883331299,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Elle s'\u00e9loigne avec Perillo' describes a character leaving the stage, which fits the definition of the 'exit' category. The verb 's'\u00e9loigner' means 'to move away' or 'to depart', which is a clear indication of an exit.",
+  "confidence": 1,
+  "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+  "response_time": 1120.9089756011963,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

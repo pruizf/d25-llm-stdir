@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Montrant l'ilote, qui salue modestement.' describes a character's movement (showing) and a specific action (saluting modestly), which does not fit into any of the more specific categories such as entrance, exit, or interaction.",
+  "confidence": 0.95,
+  "stgdir": "Montrant l'ilote, qui salue modestement.",
+  "response_time": 1987.314224243164,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

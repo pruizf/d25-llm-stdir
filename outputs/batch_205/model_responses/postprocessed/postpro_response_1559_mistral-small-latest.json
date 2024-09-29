@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR.' which is a common indicator of music stage directions. The content following 'AIR.' is 'Tout roule aujourd'hui dans le monde,' which suggests the name of the tune or song being played.",
+  "confidence": 0.95,
+  "stgdir": "AIR. Tout roule aujourd'hui dans le monde.",
+  "response_time": 1551.8720149993896,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

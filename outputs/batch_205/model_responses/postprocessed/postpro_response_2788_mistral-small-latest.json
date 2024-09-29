@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is typically used to denote music or a tune. The content following 'AIR' is 'C'est ce qui vous enrhume.', which is not a typical action or character interaction. Therefore, it fits best with the 'music' category.",
+  "confidence": 0.95,
+  "stgdir": "AIR : C'est ce qui vous enrhume.",
+  "response_time": 1324.0268230438232,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

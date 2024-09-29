@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'Air', which is indicative of a musical stage direction. The content following 'Air' specifies the tune name ('Courons de la blonde \u00e0 la brune'). This fits the definition of Category 8, which describes tune names and music descriptions.",
+  "confidence": 1.0,
+  "stgdir": "Air : Courons de la blonde \u00e0 la brune.",
+  "response_time": 1396.9247341156006,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

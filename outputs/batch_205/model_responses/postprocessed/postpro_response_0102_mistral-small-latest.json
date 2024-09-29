@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Elle sort avec vivacit\u00e9' clearly indicates that a character is exiting the stage. The verb 'sortir' in French translates to 'exit' or 'leave', which fits the definition of Category 5: 'Character exits.' The phrase 'avec vivacit\u00e9' adds detail to the manner of exiting but does not change the primary action of exiting.",
+  "confidence": 1,
+  "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+  "response_time": 1554.5721054077148,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

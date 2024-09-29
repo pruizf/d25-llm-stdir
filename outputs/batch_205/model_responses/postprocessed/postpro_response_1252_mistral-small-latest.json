@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Monsieur de Saint-Franc sort avec le Notaire' indicates that a character is exiting the stage, which corresponds to the 'exit' category. The use of the verb 'sortir' with 'avec' suggests a joint action of leaving the stage together.",
+  "confidence": 0.95,
+  "stgdir": "Monsieur de Saint-Franc sort avec le Notaire.",
+  "response_time": 1324.1095542907715,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

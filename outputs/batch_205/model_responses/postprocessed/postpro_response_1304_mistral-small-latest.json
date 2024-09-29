@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Beronte heurte chez Ragonde.' implies a movement of Beronte towards Ragonde's location, which fits the definition of 'movement' but is not an entrance or exit.",
+  "confidence": 0.9,
+  "stgdir": "Beronte heurte chez Ragonde.",
+  "response_time": 1427.9522895812988,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

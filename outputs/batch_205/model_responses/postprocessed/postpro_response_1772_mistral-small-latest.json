@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'Restez, restez, troupe jolie', which appears to be the title or name of the tune. This strongly suggests that the stage direction is about music.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Restez, restez, troupe jolie.",
+  "response_time": 1409.6791744232178,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

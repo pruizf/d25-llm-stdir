@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Elle lit s'\u00e9crie :' falls under the general character action category. 'Lit' means 'reads' and 's'\u00e9crie' means 'exclaims', both of which are actions performed by the character but do not fit into any of the more specific categories like aggression, entrance, exit, or interaction.",
+  "confidence": 0.95,
+  "stgdir": "Elle lit s'\u00e9crie :",
+  "response_time": 1578.2959461212158,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

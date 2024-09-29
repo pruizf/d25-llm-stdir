@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Elle s'asseoit \u00e0 une table' describes a character movement (sitting down) but it is not an entrance or exit. Therefore, it fits best under the 'movement' category.",
+  "confidence": 1.0,
+  "stgdir": "Elle s'asseoit \u00e0 une table.",
+  "response_time": 1361.0386848449707,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

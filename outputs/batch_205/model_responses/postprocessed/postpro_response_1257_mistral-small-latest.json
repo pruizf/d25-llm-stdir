@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Il se fouille.' translates to 'He searches himself.' This action involves a character moving around to search, which fits the definition of 'movement' as a general character action not related to exit or entrance.",
+  "confidence": 0.9,
+  "stgdir": "Il se fouille.",
+  "response_time": 1132.4656009674072,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'Air', which is indicative of a musical direction. The content following 'Air' ('Tique, tique, toque, et lonlanla') suggests the name of a tune or a melody. Therefore, it falls under the 'music' category.",
+  "confidence": 0.95,
+  "stgdir": "Air Tique, tique, toque , et lonlanla.",
+  "response_time": 1262.4542713165283,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

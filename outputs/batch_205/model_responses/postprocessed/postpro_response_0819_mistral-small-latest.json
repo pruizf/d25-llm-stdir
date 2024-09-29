@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction describes an action involving an object: the character takes out a half-circle from their pocket and points it at a cane they are holding. This falls under the 'object' category as it involves handling and using an object.",
+  "confidence": 0.95,
+  "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+  "response_time": 1158.933401107788,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

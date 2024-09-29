@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "The stage direction 'Il frappe toujours.' translates to 'He is always hitting.' This action is clearly violent, which aligns with the definition of Category 1: aggression. This category is used for violent actions such as hitting, fighting, or threatening.",
+  "confidence": 0.95,
+  "stgdir": "Il frappe toujours.",
+  "response_time": 2677.589178085327,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

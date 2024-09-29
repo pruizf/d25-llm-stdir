@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "The stage direction describes Don Juan asking for a drink and then drinking it. These actions are general character actions that do not fit more specific categories like interaction, movement, or aggression. The verbs 'demande' (asks) and 'boit' (drinks) are indicative of general actions.",
+  "confidence": 0.9,
+  "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+  "response_time": 4374.5622634887695,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

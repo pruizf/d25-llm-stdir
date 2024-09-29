@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il regarde autour de lui, et vois du sang' describes a character looking around and seeing blood, which is a movement and an action that does not fall into any of the other specific categories like entrance, exit, aggression, or object interaction.",
+  "confidence": 0.95,
+  "stgdir": "Il regarde autour de lui, et vois du sang.",
+  "response_time": 1379.6472549438477,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

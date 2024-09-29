@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Elle va au lit de la petite Dusault.' describes a character moving to a specific location (the bed of la petite Dusault), which falls under the 'movement' category. It does not describe an entrance, exit, interaction, or any other specific action that would fit into the other categories.",
+  "confidence": 0.95,
+  "stgdir": "Elle va au lit de la petite Dusault.",
+  "response_time": 1340.367078781128,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

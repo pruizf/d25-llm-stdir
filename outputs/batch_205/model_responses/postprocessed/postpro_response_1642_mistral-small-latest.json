@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il frappe \u00e0 une autre porte.' describes a movement where the character moves to another door and performs an action (knocking). This fits the definition of Category 7, which is about character movement (excluding entrance/exit).",
+  "confidence": 0.95,
+  "stgdir": "Il frappe \u00e0 une autre porte.",
+  "response_time": 1110.2027893066406,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

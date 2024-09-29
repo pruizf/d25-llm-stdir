@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'Il se couvre' describes a character's action of covering themselves, which implies interaction with an object, likely clothing or a covering. This fits the definition of 'object' category where the character interacts with an object.",
+  "confidence": 0.9,
+  "stgdir": "Il se couvre.",
+  "response_time": 4047.682046890259,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'En montrant N\u00e9restan' indicates that the character is showing or pointing towards N\u00e9restan, which is a movement action but not an entrance or exit.",
+  "confidence": 0.9,
+  "stgdir": "En montrant N\u00e9restan.",
+  "response_time": 1009.730339050293,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

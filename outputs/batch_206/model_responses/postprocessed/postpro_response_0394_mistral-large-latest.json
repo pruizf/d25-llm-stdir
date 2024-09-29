@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un mouvement du personnage ('Il s'approche') apr\u00e8s avoir fait d'autres actions ('apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus'). Cela correspond \u00e0 la cat\u00e9gorie 'movement' qui d\u00e9crit le d\u00e9placement du personnage sans \u00eatre une entr\u00e9e ou une sortie.",
+  "confidence": 1,
+  "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+  "response_time": 5040.910959243774,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

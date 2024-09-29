@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction is a long narrative describing a sequence of character actions and internal thoughts, intended for readers to understand the scene's context and emotions. It does not fit into other specific categories such as action, movement, or interaction as it covers a broad range of activities.",
+  "confidence": 0.95,
+  "stgdir": "Le jeune Kerkabon, qui vainement a voulu suivre son amie, s\u00e9par\u00e9 d'elle, et pour jamais, s'abandonne au plus affreux d\u00e9sespoir ; il l'appelle en tendant les bras vers le lieu qui la d\u00e9robe \u00e0 ses regards, il l'appelle... et voyant qu'elle me r\u00e9pond pas, il parait vouloir renoncer \u00e0 la vie, il s'\u00e9chappe des bras qui lui sont ouverts, et va tomber sur le banc de gazon, plac\u00e9 \u00e0 gauche du spectateur. Les g\u00e9n\u00e9reux parents s'empressent \u00e0 lui t\u00e9moigner l'int\u00e9r\u00eat le plus tendre !... Celui que l'on doit au malheur.",
+  "response_time": 1188.8506412506104,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

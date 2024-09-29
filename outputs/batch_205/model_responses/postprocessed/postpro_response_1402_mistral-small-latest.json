@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Elle s'assied \u00e0 gauche de la chemin\u00e9e.' describes a character's movement in the form of sitting down, which is a general character action. It does not involve violence, interaction, entrance, exit, or any other specific category. Therefore, it falls under the 'movement' category.",
+  "confidence": 0.9,
+  "stgdir": "Elle s'assied \u00e0 gauche de la chemin\u00e9e.",
+  "response_time": 1263.7169361114502,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

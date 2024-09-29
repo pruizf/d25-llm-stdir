@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Actor s'en va' clearly indicates that the actor is leaving the stage, which falls under the 'exit' category. The verb 's'en aller' is commonly used to describe a character exiting the stage.",
+  "confidence": 1,
+  "stgdir": "Actor s'en va.",
+  "response_time": 1244.663953781128,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

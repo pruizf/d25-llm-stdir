@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "The stage direction 'Il regarde dans un petit cabinet.' describes a character looking into a small cabinet, which is a general action that does not fall into more specific categories like aggression, delivery, entrance, exit, interaction, music, or narration. It is also not an aside, nor does it describe an object or setting directly. Therefore, it best fits the 'action' category.",
+  "confidence": 1.0,
+  "stgdir": "Il regarde dans un petit cabinet.",
+  "response_time": 4700.316667556763,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

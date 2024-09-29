@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Monsieur Carondas, fouillant dans la poche de Val\u00e8re' describes an interaction with an object, specifically the action of searching within Val\u00e8re's pocket. This falls under the object category.",
+  "confidence": 0.9,
+  "stgdir": "Monsieur Carondas, fouillant dans la poche de Val\u00e8re.",
+  "response_time": 1285.6123447418213,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

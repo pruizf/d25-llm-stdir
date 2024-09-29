@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Il veut faire un pas' describes a movement but not an entrance or exit, so it could be categorized under 'movement'. However, 'Do\u00f1a Sol l\u00e8ve le poignard' specifically describes an interaction with an object (a dagger), making 'object' the most fitting category. Since the direction involves both a movement and an interaction with an object, the 'object' category is the most appropriate as it encompasses the handling of the dagger.",
+  "confidence": 0.9,
+  "stgdir": "Il veut faire un pas. Do\u00f1a Sol l\u00e8ve le poignard.",
+  "response_time": 2058.0406188964844,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

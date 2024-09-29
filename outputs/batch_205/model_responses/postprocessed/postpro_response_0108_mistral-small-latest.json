@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Ils pleurent.' indicates a general character action (crying) that does not fit into any of the more specific categories provided. It is a general emotional response rather than a violent action (aggression), an aside (aparte), a vocal expression (delivery), an entrance or exit (entrance, exit), a non-verbal interaction (interaction), a specific movement (movement), a musical cue (music), a narrative description (narration), an object interaction (object), or a stage description (setting).",
+  "confidence": 0.95,
+  "stgdir": "Ils pleurent.",
+  "response_time": 1879.3647289276123,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

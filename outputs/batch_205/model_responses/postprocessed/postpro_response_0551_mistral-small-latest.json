@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a complex sequence of events and actions involving multiple characters. It narrates the actions of the characters as they enter and exit the stage, interact with each other, and react to sudden events. This fits the definition of a narration stage direction, which is intended for readers and provides a detailed account of the scene's development.",
+  "confidence": 0.95,
+  "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+  "response_time": 1520.6923484802246,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

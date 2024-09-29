@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'Elle ouvre la lettre.' describes the character interacting with an object (a letter). The verb 'ouvre' (opens) indicates an action related to handling or manipulating the object, which fits the definition of the 'object' category.",
+  "confidence": 1,
+  "stgdir": "Elle ouvre la lettre.",
+  "response_time": 4470.570802688599,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

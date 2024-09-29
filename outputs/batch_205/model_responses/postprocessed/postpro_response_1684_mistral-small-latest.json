@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Madame H\u00e9bert se retire.' clearly indicates that Madame H\u00e9bert is leaving the stage. This fits the definition of Category 5, which is 'exit' and includes verbs like 'se retirer'.",
+  "confidence": 1,
+  "stgdir": "Madame H\u00e9bert se retire.",
+  "response_time": 1292.92893409729,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

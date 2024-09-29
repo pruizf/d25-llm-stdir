@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction 'Air : Tique, tique, taque.' begins with 'Air', which is a common indicator of a music stage direction. The content following 'Air' is a tune name, 'Tique, tique, taque', which further supports this classification.",
+  "confidence": 1,
+  "stgdir": "Air : Tique, tique, taque.",
+  "response_time": 1384.6681118011475,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

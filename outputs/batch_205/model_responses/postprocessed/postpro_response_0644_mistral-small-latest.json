@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Il se l\u00e8ve de table.' describes a character getting up from the table, which is a movement not related to entering or exiting the stage. Therefore, it falls under the 'movement' category.",
+  "confidence": 1.0,
+  "stgdir": "Il se l\u00e8ve de table.",
+  "response_time": 1150.789737701416,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Ils sortent tous, \u00e0 l'exception de Monsieur L\u00e9ger et de Madame Lanoue.' translates to 'They all leave, except for Monsieur L\u00e9ger and Madame Lanoue.' This clearly describes characters exiting the stage, which fits the definition of category 5: exit. The verbs 'sortent' and 's'en aller' are related to leaving or exiting.",
+  "confidence": 1,
+  "stgdir": "Ils sortent tous, \u00e0 l'exception de Monsieur L\u00e9ger et de Madame Lanoue.",
+  "response_time": 1760.5412006378174,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

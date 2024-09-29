@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator of a music stage direction. The content following 'AIR' describes the sound of weapons no longer being heard, which does not fit any other category as well as it does for music.",
+  "confidence": 0.95,
+  "stgdir": "AIR : On n'entend plus le bruit des armes",
+  "response_time": 1281.2199592590332,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

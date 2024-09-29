@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction '\u00c0 Mademoiselle Beaulieu.' specifies the addressee of a speech, indicating that the following dialogue is directed towards Mademoiselle Beaulieu. This fits the definition of Category 12: 'toward' which indicates the addressee of a speech.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Mademoiselle Beaulieu.",
+  "response_time": 1323.3351707458496,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

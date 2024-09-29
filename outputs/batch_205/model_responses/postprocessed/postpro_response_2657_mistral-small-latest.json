@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes the character's interaction with objects (taking a bottle, replacing an empty one) without any violence, aggression, or non-verbal interaction with other characters. It fits the definition of the 'object' category as it involves handling objects.",
+  "confidence": 0.95,
+  "stgdir": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive.",
+  "response_time": 1293.3082580566406,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

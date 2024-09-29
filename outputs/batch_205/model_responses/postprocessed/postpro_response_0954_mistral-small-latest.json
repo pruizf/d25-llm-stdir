@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The phrase 'Va t'en voir s'ils viennent Jean' likely follows this and specifies the tune being played. This fits the definition of category 8, which describes tune names and music descriptions.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+  "response_time": 1510.3538036346436,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

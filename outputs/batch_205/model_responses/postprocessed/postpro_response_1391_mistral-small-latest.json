@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'La pi\u00e8ce finit par une marche g\u00e9n\u00e9rale.' describes a general movement of characters on stage, which fits the category 'movement'. It does not specify individual entrances or exits, nor any specific action or interaction, making it best suited for the 'movement' category.",
+  "confidence": 0.95,
+  "stgdir": "La pi\u00e8ce finit par une marche g\u00e9n\u00e9rale.",
+  "response_time": 1498.4371662139893,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 2,
+  "explanation": "The stage direction '\u00c0 part, apr\u00e8s avoir lu.' indicates that the character is speaking aside, which fits the definition of the 'aparte' category. This category is used when a character is addressing the audience or is alone.",
+  "confidence": 1.0,
+  "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+  "response_time": 4357.160806655884,
+  "model": "mistral-large-latest",
+  "categFull": "aparte"
+}

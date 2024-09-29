@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il se dirige vers le secr\u00e9taire' indicates a movement of the character towards an object (le secr\u00e9taire), which fits the definition of Category 7: movement. The character is moving, but this movement is not an entrance or exit, so it does not fit Categories 4 or 5.",
+  "confidence": 0.95,
+  "stgdir": "Il se dirige vers le secr\u00e9taire.",
+  "response_time": 1631.9141387939453,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

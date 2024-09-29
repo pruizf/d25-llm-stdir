@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Il se sauve.' translates to 'He flees.' or 'He escapes.' This is clearly an action of leaving the stage, which falls under the category of 'exit'.",
+  "confidence": 1.0,
+  "stgdir": "Il se sauve.",
+  "response_time": 1464.6761417388916,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Le Roi et le Comte sortent.' explicitly describes characters leaving the stage, which falls under the category of 'exit' as defined by the verb 'sortir'.",
+  "confidence": 1,
+  "stgdir": "Le Roi et le Comte sortent.",
+  "response_time": 1019.486665725708,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

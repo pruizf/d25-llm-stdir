@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction describes the character movements of the mousse showing how to load a musket, the bosco moving the cannon, and Moli\u00e8re finding and putting on a hat. These actions are character movements but do not fall into the other specific categories like entrance, exit, interaction, or object handling.",
+  "confidence": 0.9,
+  "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+  "response_time": 1230.0806045532227,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Le reste s'\u00e9tant mis en fuite.' describes characters exiting the stage, which falls under the 'exit' category. The verb 's'\u00e9tant mis en fuite' implies that the remaining characters have left or are fleeing from the scene.",
+  "confidence": 0.95,
+  "stgdir": "Le reste s'\u00e9tant mis en fuite.",
+  "response_time": 1510.2715492248535,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

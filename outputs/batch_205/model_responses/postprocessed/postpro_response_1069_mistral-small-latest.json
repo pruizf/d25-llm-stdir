@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Elle lui fait faire le tour du th\u00e9\u00e2tre' indicates a character movement where one character makes another character walk around the theatre. This action does not fall under any other specific category like entrance, exit, interaction, or object manipulation. It is purely a movement action that is not an entrance or exit.",
+  "confidence": 0.95,
+  "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+  "response_time": 1401.7162322998047,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

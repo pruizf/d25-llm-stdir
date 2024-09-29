@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The text 'Que ne suis-je la foug\u00e8re' is likely the name or lyrics of a tune being played.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Que ne suis-je la foug\u00e8re.",
+  "response_time": 1024.4386196136475,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

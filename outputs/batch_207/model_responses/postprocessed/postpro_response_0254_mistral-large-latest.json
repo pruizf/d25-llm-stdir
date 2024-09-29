@@ -1,0 +1,9 @@
+{
+  "category": 4,
+  "explanation": "The stage direction 'Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.' describes characters entering the stage, which falls under the 'entrance' category. The verb 'sortent' (exit) is used here in the sense of characters coming out onto the stage, which is an entrance in this context.",
+  "confidence": 0.9,
+  "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+  "response_time": 8244.988441467285,
+  "model": "mistral-large-latest",
+  "categFull": "entrance"
+}

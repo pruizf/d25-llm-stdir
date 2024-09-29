@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction describes a character's ongoing action (Dorval remaining silent) while another character speaks. This is a general character action that doesn't fit into any of the more specific categories.",
+  "confidence": 0.9,
+  "stgdir": "Dorval continuant toujours de se taire, Constance ajoute :",
+  "response_time": 1104.2304039001465,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

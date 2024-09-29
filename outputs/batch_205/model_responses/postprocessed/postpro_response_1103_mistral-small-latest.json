@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va' indicates that one character is speaking to another character who is leaving. The specific action of 'parler' (to speak) is a general character action that doesn't fall under other categories like aggression, delivery, or interaction. The movement of 's'en va' (is leaving) indicates the character is exiting, but since the primary focus is on the speaking action, it fits best under the 'movement' category as it describes a non-entrance/exit movement of the character X\u00e9nocl\u00e8s.",
+  "confidence": 0.9,
+  "stgdir": "Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va.",
+  "response_time": 2005.0249099731445,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

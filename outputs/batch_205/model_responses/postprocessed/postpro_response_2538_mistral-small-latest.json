@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction describes the character's movement on the stage, specifically their exit from one side and movement towards the other side, while another character moves in the opposite direction. This fits the category of 'movement' as it does not describe an entrance or exit (Category 4 or 5), but rather the character's action of moving across the stage.",
+  "confidence": 0.9,
+  "stgdir": "Sortant du pavillon de gauche, et se dirigeant vers la droite, tandis que Court\u00e8s va du c\u00f4te contraire.",
+  "response_time": 1298.5339164733887,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

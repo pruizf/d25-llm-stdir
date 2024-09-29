@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'En s'\u00e9loignant' translates to 'By moving away' or 'While moving away.' This indicates a movement of the character on stage, but it does not describe an entrance or exit, nor does it involve any interaction with another character or object. Therefore, it best fits the 'movement' category.",
+  "confidence": 0.95,
+  "stgdir": "En s'\u00e9loignant.",
+  "response_time": 1546.9489097595215,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

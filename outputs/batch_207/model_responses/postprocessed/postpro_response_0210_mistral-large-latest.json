@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "The stage direction 'Ils parlent tous quatre en m\u00eame temps.' is categorized under 'interaction' because it describes a non-verbal interaction among characters, specifically that they are speaking simultaneously. This does not fit into 'action' as it is not a general character action, nor does it fit into 'delivery' since it does not describe the manner of speaking but rather the fact that they are speaking together. It also does not fit into other categories such as 'entrance', 'exit', 'movement', 'music', 'narration', 'object', 'setting', or 'toward' as it does not describe those types of actions or settings.",
+  "confidence": 0.9,
+  "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+  "response_time": 6584.430932998657,
+  "model": "mistral-large-latest",
+  "categFull": "interaction"
+}

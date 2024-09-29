@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Les gens sortent' translates to 'The people leave' in English. The verb 'sortir' in French indicates an exit, which fits the definition of category 5: Character exits. There is no ambiguity in the stage direction as it clearly describes an action of leaving the stage.",
+  "confidence": 1,
+  "stgdir": "Les gens sortent.",
+  "response_time": 1298.0358600616455,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

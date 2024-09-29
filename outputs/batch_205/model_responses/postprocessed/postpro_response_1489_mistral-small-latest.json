@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il s'appuie contre un arbre' describes a character movement where the character leans against a tree. This movement does not involve entering or exiting the stage, nor is it an interaction with another character. Therefore, it falls under the 'movement' category.",
+  "confidence": 0.95,
+  "stgdir": "Il s'appuie contre un arbre.",
+  "response_time": 1245.356798171997,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

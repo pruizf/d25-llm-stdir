@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes interactions with objects (specifically, the saber), including the actions of removing the saber and causing a new head to appear, which are not covered by other categories.",
+  "confidence": 0.95,
+  "stgdir": "Le Sagamo reste immobile Arlequin lui fait voler la t\u00eate de son propre sabre qu'il lui a \u00f4t\u00e9, mais tout \u00e0 coup il rena\u00eet une autre t\u00eate au Sagamo qui rit au nez d'Arlequin.",
+  "response_time": 1014.7538185119629,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR.', which is a common indicator of music stage directions. The content following 'AIR.' is the name of the tune, in this case, 'Non, toujours dire non.'",
+  "confidence": 0.95,
+  "stgdir": "AIR. Non, toujours dire non.",
+  "response_time": 1095.587968826294,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

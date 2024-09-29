@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Examinant le tableau' translates to 'Examining the painting'. This is a general action performed by a character, which does not fall under any of the more specific categories provided. It is simply an action that the character is performing, which is not violent (aggression), an aside (aparte), a delivery manner, an entrance or exit, an interaction, a specific movement like getting closer or moving away, related to music, a long narrative stage direction, related to an object, or a setting description.",
+  "confidence": 1,
+  "stgdir": "Examinant le tableau.",
+  "response_time": 1894.5050239562988,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

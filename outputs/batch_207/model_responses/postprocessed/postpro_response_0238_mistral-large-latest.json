@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Le chevalier Uladislas sort de l'h\u00f4tellerie.' describes a character exiting a location, which fits the definition of the 'exit' category. Verbs related to this category include 'se retirer', 'sortir', and 's'en aller', which are similar to 'sort' used in the stage direction.",
+  "confidence": 1.0,
+  "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+  "response_time": 4808.753490447998,
+  "model": "mistral-large-latest",
+  "categFull": "exit"
+}

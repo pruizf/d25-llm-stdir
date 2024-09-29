@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'Il tire un Papier' describes a character handling or manipulating an object, which fits the definition of the 'object' category. The verb 'tire' (pulls out) and the object 'Papier' (paper) align with examples in the 'object' category such as 'Il fouille dans ses poches et en tire un papier.'",
+  "confidence": 0.95,
+  "stgdir": "Il tire un Papier.",
+  "response_time": 5261.1682415008545,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Elle rentre chez elle.' translates to 'She returns home.' This action clearly indicates that the character is leaving the stage, which falls under the 'exit' category. The verb 'rentrer' in this context implies that the character is exiting the current scene or stage.",
+  "confidence": 0.95,
+  "stgdir": "Elle rentre chez elle.",
+  "response_time": 1319.2458152770996,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

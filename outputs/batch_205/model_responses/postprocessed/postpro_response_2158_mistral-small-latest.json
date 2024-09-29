@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction 'Air : Femmes, voulez-vous \u00e9prouver.' starts with 'Air', which is a common indicator for music stage directions. The content following 'Air' is the name of the tune. Therefore, this stage direction is most likely describing the music to be played.",
+  "confidence": 0.95,
+  "stgdir": "Air : Femmes, voulez-vous \u00e9prouver.",
+  "response_time": 1444.5762634277344,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

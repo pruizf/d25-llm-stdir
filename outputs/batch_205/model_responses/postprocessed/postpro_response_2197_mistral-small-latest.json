@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction 'AIR : Chansons, Chansons' starts with 'AIR', which is indicative of a music stage direction. The content following 'AIR' specifies the tune, which in this case is 'Chansons, Chansons'. This stage direction is describing the music being played, so it falls under the 'music' category.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Chansons, Chansons.",
+  "response_time": 1505.8479309082031,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

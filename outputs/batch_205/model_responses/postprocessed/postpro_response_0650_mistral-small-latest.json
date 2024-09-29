@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator of a music stage direction. The content following 'AIR' is the name of the tune, 'Plaisirs si purs que je regrette'. This stage direction does not fit any of the other categories as it is not describing an action, aggression, interaction, movement, narration, object, setting, or speech direction.",
+  "confidence": 1,
+  "stgdir": "AIR : Plaisirs si purs que je regrette.",
+  "response_time": 1726.9365787506104,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The text following 'AIR' is 'Ne m'entendez-vous pas', which is not a typical action or interaction but rather suggests a song title or lyrics.",
+  "confidence": 0.9,
+  "stgdir": "AIR : Ne m'entendez-vous pas.",
+  "response_time": 1324.6281147003174,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

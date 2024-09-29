@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "The stage direction describes the setting of the scene, including the layout of the room, the placement of furniture and art, and the activities of the characters within that setting. It does not involve any specific actions of the characters, the entrance or exit of characters, or the handling of objects.",
+  "confidence": 0.95,
+  "stgdir": "La sc\u00e8ne repr\u00e9sente un salon, plusieurs tableaux sont suspendus \u00e7\u00e0 et l\u00e0. Un portrait de femme, plac\u00e9 sur un chevalet, est plus en vue que les autres. Th\u00e9odore est assis devant une table, sur laquelle il y a du papier, une \u00e9critoire, de la musique, etc. Dubois arrange l'appartement.",
+  "response_time": 1265.408992767334,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

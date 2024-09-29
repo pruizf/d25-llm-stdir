@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Billet de Constantine' describes an object ('Billet', which means 'ticket') and possibly a character's interaction with it. It does not fit other categories like action, aggression, entrance, exit, or music, which would require different verbs or contexts.",
+  "confidence": 0.9,
+  "stgdir": "Billet de Constantine.",
+  "response_time": 1313.716173171997,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Elle veut s'\u00e9loigner.' describes a character's movement that is not an entrance or exit. The verb 's'\u00e9loigner' means 'to move away' or 'to distance oneself', which falls under the category of character movement.",
+  "confidence": 0.95,
+  "stgdir": "Elle veut s'\u00e9loigner.",
+  "response_time": 1218.7044620513916,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

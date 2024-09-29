@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a sequence of character actions and emotions, narrating a scene where Adeline, Eglante, and Necelle are trembling and fearful, and their reactions upon realizing the order is not against them. This fits the definition of 'narration' as it provides a detailed account intended for readers.",
+  "confidence": 0.9,
+  "stgdir": "Adeline, Eglante, Necelle, sont toutes tremblantes , craignant que l'ordre ne soit contre elles. Elles ne se rassurent un peu, que lorsqu'elles sont certaines que l'exempt n'en veut qu'\u00e0 la Marquise, qu'elles ont cru jusqu'\u00e0 ce moment une nouvelle d\u00e9barqu\u00e9e de province, qui \u00e9tait venue, comme le chevalier le leur a dit, pour d\u00e9buter \u00e0 l'Op\u00e9ra.",
+  "response_time": 1313.894271850586,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

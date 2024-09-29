@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Il relit l'adresse' describes a general action of a character, which is reading again. It does not fall into any of the more specific categories such as interaction, movement, aggression, or any other specific action type.",
+  "confidence": 0.95,
+  "stgdir": "Il relit l'adresse.",
+  "response_time": 1085.331678390503,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

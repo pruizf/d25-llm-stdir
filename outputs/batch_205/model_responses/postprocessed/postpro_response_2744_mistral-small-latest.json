@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'Je n'en dirai pas davantage.', which is the name of the tune.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Je n'en dirai pas davantage.",
+  "response_time": 1137.9384994506836,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

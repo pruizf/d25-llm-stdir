@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is '49', which is likely the name or number of the tune being played.",
+  "confidence": 1,
+  "stgdir": "AIR 49 : Jardinier, ne vois-tu, pas ?",
+  "response_time": 1056.3578605651855,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes interactions with objects, specifically embracing a doll ('poup\u00e9e'), putting it in a basket ('panier'), and carrying out these actions before joining other characters ('rejoindre Berthe et Blanche'). This falls under the 'object' category as it describes the handling and manipulation of objects.",
+  "confidence": 0.95,
+  "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+  "response_time": 1306.8811893463135,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

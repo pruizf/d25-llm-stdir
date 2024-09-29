@@ -1,0 +1,78 @@
+
+Classify the following stage direction in French into one of the categories provided below it:
+
+Stage direction: Elle frappe sur les oreilles de l'âne qui rue. 
+
+Category list:
+0. action
+1. aggression
+2. aparte
+3. delivery
+4. entrance
+5. exit
+6. interaction
+7. movement
+8. music
+9. narration
+10. object
+11. setting
+12. toward
+
+To help classification, here is a definition for each category:
+
+- Category 0
+  - Name: action
+  - Definition: General character action. Use it only when other categories do not describe the action. Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.
+- Category 1
+  - Name: aggression
+  - Definition: Violent action. Related to notions like kill, fight, hit, suicide or threat.
+- Category 2
+  - Name: aparte
+  - Definition: Aside (character addresses audience or is alone).
+- Category 3
+  - Name: delivery
+  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings. Can refer to notions like the character showing anger or being furious, being serious, happy, hesitant, showing enthousiasm, emotion, emphasis, being friendly, making a grimace, showing a feeling, or repeating an expression.
+- Category 4
+  - Name: entrance
+  - Definition: Character enters stage.
+- Category 5
+  - Name: exit
+  - Definition: Character exits. Verbs related to this type of stage direction are (in French) "se retirer", "sortir", "s'en aller" and other close verbs.
+- Category 6
+  - Name: interaction
+  - Definition: Non-verbal character interaction. The interaction must be non-verbal, e.g. looking at, pointing at, touching, helping, pulling, pushing among other non-verbal interaction types.
+- Category 7
+  - Name: movement
+  - Definition: Character movement (but not exit/entrance). Sometimes related to getting closer, moving away, walking away, following a character, moving back.
+- Category 8
+  - Name: music
+  - Definition: Tune names (plays with songs). Music description. Not used when the stage direction describes the character singing. Often starts with the word "AIR" or "Air". If it starts with these words, it is most likely a music stage direction and the content following these words is the name of the tune.
+- Category 9
+  - Name: narration
+  - Definition: Long stage direction, with narrative quality, inteded for readers. Generally long stage directions, they can narrate a sequence of character actions. They can also refer to noises or to weather events.
+- Category 10
+  - Name: object
+  - Definition: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. The object may be a costume or a dress for instance. Verbs related to this category are throw, tear, get, give, dress, drop, close among others. 
+- Category 11
+  - Name: setting
+  - Definition: Stage description or play location.
+- Category 12
+  - Name: toward
+  - Definition: Indicates the addressee of a speech.
+
+
+
+Provide a JSON response. In your response, provide the number for the category that
+best fits the stage direction type, and an explanation for your choice,
+using the following format:
+
+{
+  "category": "number",
+  "explanation": "explanation for choice"
+}
+
+Express your confidence in your response in a 0 to 1 scale, where 1 is the most confident, output this
+in the same JSON object as the category and explanation, using the key "confidence".
+
+Note that all stage directions are in French.
+

@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction describes the characters moving and interacting with objects (e.g., being caught in nets, approaching, throwing a garland). These actions are not entrances or exits, nor are they aggressive or apart\u00e9s. They are general movements and interactions.",
+  "confidence": 0.9,
+  "stgdir": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.",
+  "response_time": 1165.581226348877,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

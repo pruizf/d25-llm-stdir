@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Des petits frondeurs les viennent interrompre qui sont chass\u00e9s en suite.' indicates that characters ('des petits frondeurs') come to interrupt ('les viennent interrompre') and are then chased away ('qui sont chass\u00e9s en suite'). This fits the 'exit' category because it describes characters leaving the stage.",
+  "confidence": 0.9,
+  "stgdir": "Des petits frondeurs les viennent interrompre qui sont chass\u00e9s en suite.",
+  "response_time": 1938.2481575012207,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

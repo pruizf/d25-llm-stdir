@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction 'AIR : Ton humeur indiff\u00e9rente' clearly indicates a musical cue. The use of the term 'AIR' at the beginning of the direction is a strong indicator that it refers to a piece of music. The content following 'AIR' is likely the name of the tune, which in this case is 'Ton humeur indiff\u00e9rente'. This fits the definition of category 8: 'Music description. Not used when the stage direction describes the character singing. Often starts with the word 'AIR' or 'Air'. If it starts with these words, it is most likely a music stage direction and the content following these words is the name of the tune.'",
+  "confidence": 1,
+  "stgdir": "AIR : Ton humeur indiff\u00e9rente.",
+  "response_time": 2353.0936241149902,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

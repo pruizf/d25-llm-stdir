@@ -1,0 +1,9 @@
+{
+  "category": 1,
+  "explanation": "The stage direction 'Il met la main \u00e0 un poignard.' implies an aggressive action, as it involves reaching for a dagger, which is often associated with violence or threat. This falls under the category of aggression.",
+  "confidence": 0.9,
+  "stgdir": "Il met la main \u00e0 un poignard.",
+  "response_time": 4060.2874755859375,
+  "model": "mistral-large-latest",
+  "categFull": "aggression"
+}

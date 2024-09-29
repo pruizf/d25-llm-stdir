@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'La Fleur s'en va.' translates to 'La Fleur goes away.' or 'La Fleur leaves.' The verb 's'en va' is indicative of an exit, which fits into the category of a character exiting the stage.",
+  "confidence": 1,
+  "stgdir": "La Fleur s'en va.",
+  "response_time": 1385.178565979004,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

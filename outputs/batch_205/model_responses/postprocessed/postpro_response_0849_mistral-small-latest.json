@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Joseph et Victorine tombent \u00e0 genoux' describes a movement of the characters Joseph and Victorine, specifically falling to their knees. This action does not involve an entrance or exit (categories 4 or 5), nor is it an act of aggression (category 1), an aside (category 2), a delivery manner (category 3), an interaction (category 6), the playing of music (category 8), a narrative description (category 9), an object manipulation (category 10), or a setting description (category 11). It fits best under the category of general character movement (category 7).",
+  "confidence": 0.95,
+  "stgdir": "Joseph et Victorine tombent \u00e0 genoux.",
+  "response_time": 2250.326633453369,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

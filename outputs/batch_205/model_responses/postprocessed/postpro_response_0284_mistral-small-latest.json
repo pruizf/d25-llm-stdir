@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il continue toujours \u00e0 parler.' describes a character action that is continuous and does not fall under the specific subcategories of other actions like aggression, delivery, interaction, etc. It is a general character action that involves movement (specifically, the continuous action of speaking), which fits best under the 'movement' category.",
+  "confidence": 0.9,
+  "stgdir": "Il continue toujours \u00e0 parler.",
+  "response_time": 1603.257179260254,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

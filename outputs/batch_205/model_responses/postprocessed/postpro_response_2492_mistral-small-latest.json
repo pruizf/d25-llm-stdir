@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes interactions with objects, specifically a bouquet. It includes actions such as presenting the bouquet, taking the bouquet, and being offered the bouquet. These actions revolve around the manipulation and handling of an object.",
+  "confidence": 0.9,
+  "stgdir": "Gilotin parait, un \u00e9norme bouquet \u00e0 la main ; il perce la foule pour arriver jusqu'\u00e0 sa pr\u00e9tendue, et se, jetant brusquement \u00e0 ses pieds, lui pr\u00e9sente un ridicule hommage. Mademoiselle de Saint-Yves fuit tour \u00e0 tour dans les bras de son p\u00e8re, de son amie, et de Monsieur de Kerkabon, pour \u00e9viter la pers\u00e9cution d'un homme qu'elle ne peut aimer. Gilotin, la poursuivant, se trouve toujours offrir son bouquet \u00e0 tout autre qu'\u00e0 elle : enfin, Monsieur de Saint-Yves s'approche et prend le bouquet, qu'il remet lui m\u00eame \u00e0 sa fille, eu l'invitant \u00e0 mieux accueillir l'\u00e9poux qu'il lui destine. Elle pousse un douloureux soupir. Monsieur de Saint-Yves rassure Gilotin, en lui promettant de nouveau qu'il deviendra son gendre. La sensible Kerkabon, et son fr\u00e8re s'empressent autour de leur amie, on la conduit sous le berceau... \u00c0 peine y est-elle arriv\u00e9e, qu'elle s'y trouve couronn\u00e9e, et pour ainsi dire, encha\u00een\u00e9e de fleurs. Gilotin exprime son admiration.",
+  "response_time": 1109.4167232513428,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

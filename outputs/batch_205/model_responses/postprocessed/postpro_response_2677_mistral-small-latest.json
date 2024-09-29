@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Ils sortent tous' translates to 'They all exit', which clearly indicates that the characters are leaving the stage. This falls under the 'exit' category.",
+  "confidence": 1.0,
+  "stgdir": "Ils sortent tous avec le poignard sanglant \u00e0 la main apr\u00e8s avoir tu\u00e9 C\u00e9sar.",
+  "response_time": 926.159143447876,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

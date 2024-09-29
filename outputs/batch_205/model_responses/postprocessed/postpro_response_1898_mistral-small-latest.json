@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a series of events happening rapidly with a narrative quality. It includes details about the weather, the actions of characters (the guards being struck by lightning), and the movement of Jesus with his cross amidst the storm. This fits the definition of 'narration' as a long stage direction intended for readers, narrating a sequence of character actions and weather events.",
+  "confidence": 0.95,
+  "stgdir": "Ce nuage et d'autres qui sortent du calvaire, au lieu du s\u00e9pulcre, se succ\u00e8dent rapidement, le dernier porte J\u00e9sus ayant sa croix \u00e0 son c\u00f4t\u00e9 au milieu des \u00e9clairs et d'un tonnerre dont les Gardes ont \u00e9t\u00e9 foudroy\u00e9s.",
+  "response_time": 1470.5345630645752,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

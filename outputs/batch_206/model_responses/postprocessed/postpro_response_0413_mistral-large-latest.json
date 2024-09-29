@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il s'approche de C\u00e9cile.' d\u00e9crit un d\u00e9placement du personnage sans que ce soit une entr\u00e9e ou une sortie. Cela correspond \u00e0 la cat\u00e9gorie 'movement' qui inclut des actions telles que s'approcher, s'\u00e9loigner, suivre un personnage, reculer, etc.",
+  "confidence": 1,
+  "stgdir": "Il s'approche de C\u00e9cile.",
+  "response_time": 5188.536643981934,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

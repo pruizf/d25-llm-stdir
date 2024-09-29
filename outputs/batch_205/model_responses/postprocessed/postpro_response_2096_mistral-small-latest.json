@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "The stage direction describes an external sound that is not directly related to character action, interaction, or movement. It pertains to the setting or environment of the play, indicating the presence of an external event (a colporteur announcing the lottery).",
+  "confidence": 0.9,
+  "stgdir": "On entend un colporteur qui crie en dehors : \u00ab C'est aujourd'hui la Loterie Nationale de France ; qu'est-ce qui veut le gros lot ? 955 francs pour 24 sols.\u00bb",
+  "response_time": 1160.163402557373,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

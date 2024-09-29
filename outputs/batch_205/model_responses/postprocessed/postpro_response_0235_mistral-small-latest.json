@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction describes a series of events and actions, including the preparation for the cur\u00e9's arrival, the speech given to him, the concert, and the final poem. It is narrating a sequence of actions and is intended for the reader to understand the context and flow of the scene.",
+  "confidence": 0.9,
+  "stgdir": "Tout \u00e9tant dispos\u00e9, et le cur\u00e9 \u00e9tant arriv\u00e9 dans une cal\u00e8che a six chevaux qu'on avait envoy\u00e9e au devant de lui, il fut conduit \u00e0 son tr\u00f4ne. D\u00e8s qu'il fut assis, l'orateur lui pronon\u00e7a \u00e0 genoux une harangue dans le style de l'acad\u00e9mie, pleine de louanges, d'antith\u00e8ses, et de mots nouveaux. Le cur\u00e9 re\u00e7ut tous ces \u00e9loges avec l'air d'un homme qui sait bien qu'il en m\u00e9rite encore davantage ; car tout le monde n'est pas de l'humeur de notre reine***, qui hait les louanges autant qu'elle les m\u00e9rite. Apr\u00e8s la harangue, on ex\u00e9cuta le concert dont on vous envoie les paroles ; les choeurs all\u00e8rent \u00e0 merveille, et la c\u00e9r\u00e9monie finit par une grande pi\u00e8ce de vers poupeux, \u00e0 laquelle ni les assistants, ni le cur\u00e9, ni l'auteur, n'entendirent rien. Il faudrait avoir \u00e9t\u00e9 t\u00e9moin de cette f\u00eate pour en bien sentir l'agr\u00e9ment : les projets et les pr\u00e9paratifs de ces divertissements sont toujours agr\u00e9ables, l'ex\u00e9cution rarement bonne, et le r\u00e9cit souvent ennuyeux.",
+  "response_time": 2449.4593143463135,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

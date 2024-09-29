@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Il s'approche d'une autre Statue' describes a character moving towards another statue, which fits the definition of Category 7: movement. This movement is neither an entrance nor an exit, and it does not involve an object or aggression.",
+  "confidence": 0.95,
+  "stgdir": "Il s'approche d'une autre Statue.",
+  "response_time": 1340.0928974151611,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

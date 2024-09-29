@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il va pour \u00e9couter \u00e0 la porte.' describes the character moving toward the door to listen. This action does not fall under other specific categories like aggression, delivery, interaction, or exit/entrance. Therefore, it best fits the 'movement' category.",
+  "confidence": 0.9,
+  "stgdir": "Il va pour \u00e9couter \u00e0 la porte.",
+  "response_time": 1430.0918579101562,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

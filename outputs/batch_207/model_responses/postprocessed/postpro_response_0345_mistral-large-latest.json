@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Elle veut sortir' indicates that the character intends to exit the stage. This falls under the 'exit' category, which includes verbs related to leaving, such as 'se retirer', 'sortir', and 's'en aller'.",
+  "confidence": 1.0,
+  "stgdir": "Elle veut sortir.",
+  "response_time": 4526.413440704346,
+  "model": "mistral-large-latest",
+  "categFull": "exit"
+}

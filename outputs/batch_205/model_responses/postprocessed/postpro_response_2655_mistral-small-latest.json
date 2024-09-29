@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction describes a movement ('fait un petit saut de caract\u00e8re') that is not an entrance or exit, hence it falls under the 'movement' category.",
+  "confidence": 0.95,
+  "stgdir": "Qui connait le prix des moments, va fermer la porte avec un doigt de verrous, fait un petit saut de caract\u00e8re ; et sans autre pr\u00e9ambule, dit au Vicomte.",
+  "response_time": 1026.0751247406006,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

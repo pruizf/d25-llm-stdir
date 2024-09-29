@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'R\u00e9veillez-vous belle endormie', which is the title of a tune or song.",
+  "confidence": 0.95,
+  "stgdir": "AIR : R\u00e9veillez-vous belle endormie.",
+  "response_time": 1340.4436111450195,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

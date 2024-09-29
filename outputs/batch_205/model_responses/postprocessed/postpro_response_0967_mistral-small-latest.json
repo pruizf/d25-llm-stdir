@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin' describes a group leaving the stage, which falls under the 'exit' category. The verb 'se retirer' clearly indicates an exit from the stage.",
+  "confidence": 1,
+  "stgdir": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+  "response_time": 1529.0703773498535,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

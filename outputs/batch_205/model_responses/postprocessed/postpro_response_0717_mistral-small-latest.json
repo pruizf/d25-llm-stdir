@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction 'Air : C'est au pays de Cocagne.' starts with 'Air', which is indicative of a music stage direction. The content following 'Air' is 'C'est au pays de Cocagne.', which is the name of the tune being played.",
+  "confidence": 1.0,
+  "stgdir": "Air : C'est au pays de Cocagne.",
+  "response_time": 1247.2865581512451,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

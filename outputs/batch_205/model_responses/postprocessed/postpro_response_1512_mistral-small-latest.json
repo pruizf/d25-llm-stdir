@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Elle porte la bague \u00e0 ses l\u00e8vres' describes a character interacting with an object (the ring). The verb 'porter' in this context indicates handling or manipulating the object, which fits well with the 'object' category.",
+  "confidence": 0.95,
+  "stgdir": "Elle porte la bague \u00e0 ses l\u00e8vres.",
+  "response_time": 1385.6000900268555,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

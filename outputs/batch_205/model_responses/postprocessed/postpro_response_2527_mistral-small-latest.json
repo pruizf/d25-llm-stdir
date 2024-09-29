@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'Air', which is indicative of a musical stage direction. The content following 'Air' is typically the name of the tune. Therefore, this stage direction falls into the 'music' category.",
+  "confidence": 1.0,
+  "stgdir": "Air : J'\u00e9tois, j'\u00e9tois malade d'amour.",
+  "response_time": 1433.1023693084717,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

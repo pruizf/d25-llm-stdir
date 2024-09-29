@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'Air', which is indicative of a musical direction. The content following 'Air' specifies the name of the tune, 'Dans ma chaumi\u00e8re, ou Bouton de rose'. Therefore, it falls under the category of 'music'.",
+  "confidence": 1.0,
+  "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+  "response_time": 1453.6676406860352,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

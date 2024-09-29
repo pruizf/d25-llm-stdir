@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'Air', which is typically used to indicate the start of a musical piece. The content that follows ('J'ai vu partout dans mes voyages') is most likely the name or lyrics of the tune being played.",
+  "confidence": 0.95,
+  "stgdir": "Air : J'ai vu partout dans mes voyages.",
+  "response_time": 1356.849193572998,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

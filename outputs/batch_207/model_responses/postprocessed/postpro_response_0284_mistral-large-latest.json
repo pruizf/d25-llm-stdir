@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction describes Blanche leaving her mother, moving towards a door on the right, and then stopping when Auguste enters from the back and announces Madame de Saint-Genis. This involves character movement without exiting or entering, which fits the definition of Category 7: movement.",
+  "confidence": 1,
+  "stgdir": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate.",
+  "response_time": 4065.4735565185547,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

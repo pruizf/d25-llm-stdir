@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR.', which is a common indicator of a music stage direction. The content following 'AIR.' is 'Je voudrais bien me marier,' which is the name of the tune being played.",
+  "confidence": 1,
+  "stgdir": "AIR. Je voudrais bien me marier.",
+  "response_time": 1176.9626140594482,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

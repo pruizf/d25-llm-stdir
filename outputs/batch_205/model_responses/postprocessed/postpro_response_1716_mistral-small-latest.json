@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator in French stage directions for music. The content following 'AIR' is the name of the tune, in this case, 'Les filles sont si sottes'. This stage direction does not fit any other category more appropriately.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Les filles sont si sottes.",
+  "response_time": 1678.0946254730225,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "The stage direction describes non-verbal interactions between characters: Pierrot signaling to Arlequin, Carabosse attempting to lead Arlequin, and the gestures and signs indicating the nature of Gougou. These are all non-verbal actions that fit the interaction category.",
+  "confidence": 0.9,
+  "stgdir": "Il va se cacher derri\u00e8re L\u00e9andre. Pierrot fait signe \u00e0 Arlequin de s'approcher ; il flatte le Gougou et fait entendre par signes \u00e0 Arlequin qu'il est doux et honorable d'en \u00eatre mang\u00e9. Arlequin branle la t\u00eate. Carabosse veut entra\u00eener Arlequin vers le Gougou.",
+  "response_time": 1916.8834686279297,
+  "model": "mistral-small-latest",
+  "categFull": "interaction"
+}

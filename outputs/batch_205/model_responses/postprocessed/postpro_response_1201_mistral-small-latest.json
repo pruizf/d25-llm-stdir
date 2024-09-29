@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator of music stage directions. The content following 'AIR' is 'Amis, sans regretter Paris.', which is not a typical action or interaction but rather the lyrics or title of a tune. This fits the definition of Category 8: music.",
+  "confidence": 0.95,
+  "stgdir": "AIR 12 : Amis, sans regretter Paris.",
+  "response_time": 1999.2809295654297,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

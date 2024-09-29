@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction describes a movement of the character ('va vers') that does not involve entering or exiting the stage. It specifically indicates that the character is moving towards another character ('po\u00e8te'), which fits the definition of 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+  "response_time": 1076.3189792633057,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

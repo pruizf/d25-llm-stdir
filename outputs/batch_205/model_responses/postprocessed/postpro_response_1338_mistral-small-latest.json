@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "The stage direction describes the setting of the scene, including the state of the hotel room, the furniture, and the objects present. It does not describe an action, interaction, or movement by a character.",
+  "confidence": 1,
+  "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+  "response_time": 1054.1887283325195,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

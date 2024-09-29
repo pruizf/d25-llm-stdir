@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Il veut lire.' translates to 'He wants to read.' This is a general character action that does not fall into any of the more specific categories such as interaction, movement, entrance, exit, aggression, etc. It simply describes a character's desire to perform an action, which is a typical example of a general character action.",
+  "confidence": 0.9,
+  "stgdir": "Il veut lire.",
+  "response_time": 1380.4969787597656,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

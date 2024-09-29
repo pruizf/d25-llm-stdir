@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction 'En regardant Terville.' indicates that a character is looking at Terville, which fits the definition of Category 12: 'toward', which indicates the addressee of a speech or, in this case, the recipient of a look.",
+  "confidence": 0.9,
+  "stgdir": "En regardant Terville.",
+  "response_time": 1481.241226196289,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

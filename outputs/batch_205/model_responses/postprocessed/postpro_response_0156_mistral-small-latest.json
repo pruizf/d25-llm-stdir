@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction 'AIR : Qu'a du vin.' starts with 'AIR', which is indicative of a music stage direction. The content following 'AIR' is the name of the tune. Therefore, it belongs to the 'music' category.",
+  "confidence": 1,
+  "stgdir": "AIR : Qu'a du vin.",
+  "response_time": 1179.9161434173584,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Il fait un mouvement pour aller au Chevalier' describes a character movement that is not an entrance or exit. It is a general movement towards another character, which fits the definition of category 7: 'Character movement (but not exit/entrance).'",
+  "confidence": 0.95,
+  "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+  "response_time": 1233.757495880127,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

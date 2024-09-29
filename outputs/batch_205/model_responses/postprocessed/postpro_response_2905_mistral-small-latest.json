@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "The stage direction '\u00c0 la Marquise.' indicates the addressee of a speech, which fits the definition of Category 12: 'toward'. It specifies who the speech is directed to, in this case, the Marquise.",
+  "confidence": 0.95,
+  "stgdir": "\u00c0 la Marquise.",
+  "response_time": 1221.0865020751953,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

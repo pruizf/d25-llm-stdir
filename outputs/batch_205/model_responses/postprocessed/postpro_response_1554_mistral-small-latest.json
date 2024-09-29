@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction describes the action of 'Madame Raquin remet la lampe sur la table', which involves the character interacting with an object (the lamp). This falls under the 'object' category as it involves handling or manipulating an object.",
+  "confidence": 0.95,
+  "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+  "response_time": 1425.5287647247314,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

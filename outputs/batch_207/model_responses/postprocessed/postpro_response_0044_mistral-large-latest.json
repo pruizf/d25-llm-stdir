@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Elle ouvre l'armoire.' describes a general character action of opening a wardrobe, which is not specifically covered by other categories. The verb 'ouvre' (opens) is related to general actions as defined in category 0.",
+  "confidence": 1,
+  "stgdir": "Elle ouvre l'armoire.",
+  "response_time": 4006.757974624634,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "The stage direction 'Cherchant' translates to 'Searching'. It describes a general character action that does not fit into any of the other more specific categories. It is not an aggression, aside, delivery manner, entrance, exit, interaction, movement, music, narration, object interaction, setting description, or indication of the speech addressee.",
+  "confidence": 0.9,
+  "stgdir": "Cherchant.",
+  "response_time": 1312.8001689910889,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

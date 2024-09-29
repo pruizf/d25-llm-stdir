@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Il tire le cordon de la sonnette.' describes an action involving an object (the bellpull). The character is interacting with the object by pulling it. This fits the 'object' category definition which includes actions involving handling or manipulating objects.",
+  "confidence": 0.9,
+  "stgdir": "Il tire le cordon de la sonnette.",
+  "response_time": 1291.942834854126,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

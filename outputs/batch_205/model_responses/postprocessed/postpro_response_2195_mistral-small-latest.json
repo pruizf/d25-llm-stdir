@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Elle s'en va.' translates to 'She goes away.' or 'She leaves.' which is a clear indication of a character exiting the stage. This matches the definition of category 5: exit.",
+  "confidence": 1,
+  "stgdir": "Elle s'en va.",
+  "response_time": 1207.8564167022705,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

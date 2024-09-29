@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'Ah ! que je me lasse d'\u00eatre', which is the name of the tune being played.",
+  "confidence": 0.95,
+  "stgdir": "AIR. Ah ! que je me lasse d'\u00eatre.",
+  "response_time": 1069.5688724517822,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il y cherche' d\u00e9crit une action g\u00e9n\u00e9rale du personnage, qui est de chercher quelque chose. Cette action n'entre pas dans une cat\u00e9gorie plus sp\u00e9cifique comme l'agression, l'apart\u00e9, l'entr\u00e9e, la sortie, l'interaction, le mouvement, la musique, la narration, l'objet, le d\u00e9cor, ou le destinataire d'une r\u00e9plique. Elle correspond donc \u00e0 la cat\u00e9gorie 'action' (0).",
+  "confidence": 1,
+  "stgdir": "Il y cherche.",
+  "response_time": 7266.381025314331,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'En montrant un paquet de lettres.' describes a character's interaction with an object (a packet of letters). The verb 'montrant' implies that the character is handling or manipulating the object, which fits well with Category 10 (object).",
+  "confidence": 0.95,
+  "stgdir": "En montrant un paquet de lettres.",
+  "response_time": 2004.1828155517578,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

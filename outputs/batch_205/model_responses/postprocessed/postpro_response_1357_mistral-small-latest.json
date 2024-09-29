@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'En montrant ses jambes' indicates that a character is showing their legs, which is a clear movement action. This does not fall under any other specific category like entrance, exit, interaction, or aggression. It is a general movement not related to entering or exiting the stage.",
+  "confidence": 0.95,
+  "stgdir": "En montrant ses jambes.",
+  "response_time": 2325.058698654175,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

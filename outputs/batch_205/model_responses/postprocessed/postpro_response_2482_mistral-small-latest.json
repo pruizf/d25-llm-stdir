@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR.' which is a common indicator that it refers to music. The content following 'AIR.' is 'J'\u00e9tais perdue,' which is not a typical action, aggression, narration, or other category. Therefore, it is most likely the name of a tune or song.",
+  "confidence": 0.95,
+  "stgdir": "AIR. J'\u00e9tais perdue.",
+  "response_time": 1377.4840831756592,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

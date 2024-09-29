@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Elle l\u00e8ve sa coiffe.' describes a specific movement of a character, which is lifting her coif. This action is not an entrance, exit, interaction, aggression, or delivery manner. It is a clear example of a character movement.",
+  "confidence": 0.95,
+  "stgdir": "Elle l\u00e8ve sa coiffe.",
+  "response_time": 1255.415439605713,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

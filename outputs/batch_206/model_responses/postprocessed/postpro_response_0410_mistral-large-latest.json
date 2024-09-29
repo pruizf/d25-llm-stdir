@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il s'approche d'un tombeau.' d\u00e9crit un d\u00e9placement du personnage sans \u00eatre une entr\u00e9e ou une sortie. Elle correspond \u00e0 la cat\u00e9gorie 'movement' qui inclut des actions comme s'approcher, s'\u00e9loigner, suivre un personnage, reculer, etc.",
+  "confidence": 1.0,
+  "stgdir": "Il s'approche d'un tombeau.",
+  "response_time": 5264.341831207275,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

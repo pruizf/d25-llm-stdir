@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'Il se tire \u00e0 l'\u00e9cart' describes a movement of the character away from others, which falls under the 'movement' category. It does not indicate an exit (category 5), as it is not a complete departure from the stage but rather a movement to a different position on the stage.",
+  "confidence": 0.95,
+  "stgdir": "Il se tire \u00e0 l'\u00e9cart.",
+  "response_time": 1713.587999343872,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

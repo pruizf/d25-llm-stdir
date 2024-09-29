@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Il prend Albert' indicates an interaction with an object (in this case, a person being treated as an object). The verb 'prendre' implies handling or manipulating, which falls under the 'object' category.",
+  "confidence": 0.9,
+  "stgdir": "Il prend Albert.",
+  "response_time": 1812.4980926513672,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'Il met sa perruque.' describes a character interacting with an object (a wig), which fits the definition of the 'object' category. The verb 'met' (puts on) is related to handling or manipulating an object.",
+  "confidence": 1,
+  "stgdir": "Il met sa perruque.",
+  "response_time": 4110.800981521606,
+  "model": "mistral-large-latest",
+  "categFull": "object"
+}

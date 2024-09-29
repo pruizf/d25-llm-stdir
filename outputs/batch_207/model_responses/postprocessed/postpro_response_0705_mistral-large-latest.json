@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Elle va au lit de la petite Dusault.' describes a character moving towards a specific location but does not involve entering or exiting the stage. This fits best under the 'movement' category which describes character movement other than entrance or exit.",
+  "confidence": 0.9,
+  "stgdir": "Elle va au lit de la petite Dusault.",
+  "response_time": 4346.602201461792,
+  "model": "mistral-large-latest",
+  "categFull": "movement"
+}

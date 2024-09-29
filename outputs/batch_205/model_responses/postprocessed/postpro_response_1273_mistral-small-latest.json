@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'Il sort a reculons en saluant \u00e0 droite et \u00e0 gauche et dispara\u00eet.' describes a character exiting the stage. The verb 'sort' and the phrase 'et dispara\u00eet' clearly indicate an exit action.",
+  "confidence": 1,
+  "stgdir": "Il sort a reculons en saluant \u00e0 droite et \u00e0 gauche et dispara\u00eet.",
+  "response_time": 1314.5325183868408,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

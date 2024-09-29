@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction 'AIR Quand le p\u00e9ril est agr\u00e9able.' clearly indicates a musical cue. The word 'AIR' at the beginning of the direction is a common indicator for music stage directions, and 'Quand le p\u00e9ril est agr\u00e9able' is the name of the tune to be played. This fits the definition of Category 8: 'Tune names (plays with songs). Music description. Not used when the stage direction describes the character singing. Often starts with the word 'AIR' or 'Air'.'",
+  "confidence": 1,
+  "stgdir": "AIR Quand le p\u00e9ril est agr\u00e9able.",
+  "response_time": 2652.205228805542,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

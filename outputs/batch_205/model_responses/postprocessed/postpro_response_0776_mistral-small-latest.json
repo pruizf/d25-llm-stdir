@@ -1,0 +1,8 @@
+{
+  "category": "11",
+  "explanation": "The stage direction describes the setting and the objects on the stage, such as the table, plans, books, and papers, as well as the action taking place at the table. It is not about a character's action (category 0), aggression (category 1), aside (category 2), delivery manner (category 3), entrance (category 4), exit (category 5), interaction (category 6), movement (category 7), music (category 8), narration (category 9), object handling (category 10), or indicating the addressee of a speech (category 12).",
+  "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+  "response_time": 1831.7270278930664,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

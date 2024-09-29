@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Elle va ouvrir' translates to 'She is going to open'. This action describes a movement that is not an entrance or exit, which fits best under Category 7: movement.",
+  "confidence": 0.9,
+  "stgdir": "Elle va ouvrir.",
+  "response_time": 1081.6149711608887,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

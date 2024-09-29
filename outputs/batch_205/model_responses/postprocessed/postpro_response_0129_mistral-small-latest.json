@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'Il lui donne le billet de Julie.' clearly involves the transfer of an object (the billet) from one character to another. This falls under the 'object' category, which covers interactions with objects.",
+  "confidence": 0.95,
+  "stgdir": "Il lui donne le billet de Julie.",
+  "response_time": 1498.4862804412842,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

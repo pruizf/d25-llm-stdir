@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction describes a group of characters moving from one location to another. This is a general movement that does not fall under categories like entrance (Category 4) or exit (Category 5), as it does not involve entering or leaving the stage but rather moving within the stage. Therefore, Category 7 (movement) is the most appropriate.",
+  "confidence": 0.9,
+  "stgdir": "La M\u00e8re emm\u00e8ne Lucas, et toute la noce d\u00e9file, \u00e0 la r\u00e9serve de Nanette, qui demeure avec Adrien.",
+  "response_time": 1396.061897277832,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

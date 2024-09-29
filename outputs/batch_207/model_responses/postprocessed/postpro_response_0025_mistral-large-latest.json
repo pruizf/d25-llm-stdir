@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "The stage direction 'Il ouvre le tiroir.' describes a general character action of opening a drawer, which is a specific action that does not fit into more specialized categories like aggression, entrance, exit, etc. It involves a simple action verb 'ouvre', which is listed among the verbs related to the action category. Therefore, it best fits into the 'action' category.",
+  "confidence": 1.0,
+  "stgdir": "Il ouvre le tiroir.",
+  "response_time": 7029.090404510498,
+  "model": "mistral-large-latest",
+  "categFull": "action"
+}

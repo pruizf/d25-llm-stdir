@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator of a music stage direction. The content following 'AIR' is 'Ne v'la-t-i1 pas que j'aime ?', which is the name of the tune. Therefore, this stage direction is best classified as music.",
+  "confidence": 1,
+  "stgdir": "AIR : Ne v'la-t-i1 pas que j'aime ?",
+  "response_time": 1234.6436977386475,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

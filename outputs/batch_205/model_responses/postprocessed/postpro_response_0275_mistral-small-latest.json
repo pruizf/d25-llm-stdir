@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'Ah ! je vous trouve , Chevalier.' which is likely the name of the tune or the lyrics that are sung.",
+  "confidence": 0.95,
+  "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+  "response_time": 1109.083890914917,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

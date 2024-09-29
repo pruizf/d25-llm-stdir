@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "The stage direction 'Il donne une ordonnance' describes the action of a character giving an object (an 'ordonnance', which is a prescription or order). This falls under the 'object' category as it involves the handling or manipulation of an object.",
+  "confidence": 0.95,
+  "stgdir": "Il donne une ordonnance.",
+  "response_time": 1146.9566822052002,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

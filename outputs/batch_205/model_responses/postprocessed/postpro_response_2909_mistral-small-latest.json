@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "The stage direction 'Ils se l\u00e8vent de table' describes the movement of the characters as they get up from the table. This action is a general character movement that does not fall into any of the other specific categories such as entrance, exit, interaction, or object manipulation.",
+  "confidence": 0.95,
+  "stgdir": "Ils se l\u00e8vent de table.",
+  "response_time": 1127.530813217163,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

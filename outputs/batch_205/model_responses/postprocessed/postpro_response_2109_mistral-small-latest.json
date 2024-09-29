@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "The stage direction 'B\u00e9atrix se d\u00e9barrasse de Jodelet, et se sauve.' translates to 'B\u00e9atrix gets rid of Jodelet and saves herself.' The key verb here is 'se sauve', which means 'save herself' or 'escape'. This indicates that B\u00e9atrix is leaving the stage, which falls under the 'exit' category.",
+  "confidence": 0.95,
+  "stgdir": "B\u00e9atrix se d\u00e9barrasse de Jodelet, et se sauve.",
+  "response_time": 1541.1856174468994,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

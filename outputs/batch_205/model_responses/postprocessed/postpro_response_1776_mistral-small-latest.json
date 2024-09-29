@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "The stage direction starts with 'AIR', which is a common indicator that it refers to music. The content following 'AIR' is 'Amis, voici la riante semaine.', which is not a typical action or interaction description but rather a musical cue or tune name.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Amis, voici la riante semaine.",
+  "response_time": 1355.0152778625488,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

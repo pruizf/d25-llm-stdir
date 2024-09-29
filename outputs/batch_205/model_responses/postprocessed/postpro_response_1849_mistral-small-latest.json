@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "The stage direction 'Elle lui donne son portrait enrichi de diamants.' describes an action involving the exchange of an object (the portrait) between two characters. This falls under the 'object' category as it involves handling or manipulating an object.",
+  "confidence": 0.95,
+  "stgdir": "Elle lui donne son portrait enrichi de diamants.",
+  "response_time": 1169.2817211151123,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}
