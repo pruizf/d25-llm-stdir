@@ -25,7 +25,7 @@ def get_openai_response(oa_client, model, prompt, cf):
       cf (module): The configuration module.
 
   Returns:
-      tuple: A tuple containing the humor response and the response time in seconds.
+      tuple: A tuple containing the response and the response time in seconds.
   """
   t1 = time.time()
   completion = oa_client.chat.completions.create(
