@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie 'Il prend le livre' d\u00e9crit une interaction d'un personnage avec un objet sp\u00e9cifique. Le personnage manipule un livre en le prenant, ce qui correspond bien \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets.",
+  "confidence": 0.95,
+  "stgdir": "Il prend le livre.",
+  "response_time": 2200.881004333496,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

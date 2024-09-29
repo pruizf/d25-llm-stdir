@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action sp\u00e9cifique entre les personnages, \u00e0 savoir que Nicolas va voir Jeanne. Cette action ne correspond pas aux autres cat\u00e9gories telles que l'agression, l'apart\u00e9, l'entr\u00e9e, l'exit, l'interaction, le mouvement, la musique, la narration, l'objet, le setting, ou le destinataire d'une r\u00e9plique. Elle est donc class\u00e9e dans la cat\u00e9gorie 'action'.",
+  "confidence": 1,
+  "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+  "response_time": 2889.204263687134,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

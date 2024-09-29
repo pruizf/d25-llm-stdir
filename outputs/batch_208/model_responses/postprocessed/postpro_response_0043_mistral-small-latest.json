@@ -1,0 +1,8 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Lisant' d\u00e9crit une action que le personnage effectue, \u00e0 savoir lire. Cette action n'implique pas de violence (cat\u00e9gorie 1), de communication priv\u00e9e (cat\u00e9gorie 2), d'entr\u00e9e ou de sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), d'interaction non verbale (cat\u00e9gorie 6), de mouvement sp\u00e9cifique (cat\u00e9gorie 7), de musique (cat\u00e9gorie 8), de narration longue (cat\u00e9gorie 9), d'objet sp\u00e9cifique (cat\u00e9gorie 10), de description de sc\u00e8ne (cat\u00e9gorie 11) ou de destinataire de r\u00e9plique (cat\u00e9gorie 12). Elle est donc bien class\u00e9e dans la cat\u00e9gorie 'action' (cat\u00e9gorie 0).",
+  "stgdir": "Lisant :",
+  "response_time": 4115.383148193359,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

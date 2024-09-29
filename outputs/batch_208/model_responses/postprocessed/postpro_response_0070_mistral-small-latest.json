@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Montrant Trissotin' d\u00e9crit une action sp\u00e9cifique du personnage, \u00e0 savoir montrer quelqu'un. Cette action n'est ni une interaction violente (cat\u00e9gorie 1), ni un apart\u00e9 (cat\u00e9gorie 2), ni une indication de la mani\u00e8re dont une r\u00e9plique doit \u00eatre interpr\u00e9t\u00e9e (cat\u00e9gorie 3), ni une entr\u00e9e ou sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni une interaction non verbale (cat\u00e9gorie 6), ni un d\u00e9placement (cat\u00e9gorie 7), ni une indication musicale (cat\u00e9gorie 8), ni une longue description narrative (cat\u00e9gorie 9), ni une description d'objet (cat\u00e9gorie 10), ni une description du d\u00e9cor (cat\u00e9gorie 11), ni une indication du destinataire d'une r\u00e9plique (cat\u00e9gorie 12). Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions des personnages (cat\u00e9gorie 0).",
+  "confidence": 1,
+  "stgdir": "Montrant Trissotin.",
+  "response_time": 5551.678419113159,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

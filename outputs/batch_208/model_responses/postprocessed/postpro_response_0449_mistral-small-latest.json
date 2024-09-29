@@ -1,0 +1,9 @@
+{
+  "category": 12,
+  "explanation": "La didascalie 'AIR : Ne m'entendez-vous pas.' indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'. Le mot 'AIR' avant la didascalie est une indication de l'air musical, mais ce n'est pas pertinent pour la cat\u00e9gorisation de l'interaction sc\u00e9nique.",
+  "confidence": 0.9,
+  "stgdir": "AIR : Ne m'entendez-vous pas.",
+  "response_time": 2547.304391860962,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

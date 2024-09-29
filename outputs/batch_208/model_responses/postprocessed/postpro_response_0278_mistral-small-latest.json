@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'On sort de table, et on l'emporte' d\u00e9crit un mouvement des personnages, sp\u00e9cifiquement le fait de quitter une table et de la porter. Ce type d'action est bien repr\u00e9sent\u00e9 par la cat\u00e9gorie 'movement', qui inclut des actions de d\u00e9placement des personnages sur sc\u00e8ne, mais sans entr\u00e9e ou sortie sp\u00e9cifique de la sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "On sort de table, et on l'emporte.",
+  "response_time": 3533.6685180664062,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

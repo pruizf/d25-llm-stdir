@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une action impliquant un objet : 'Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.' Cette interaction avec un objet correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.95,
+  "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+  "response_time": 2015.9354209899902,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

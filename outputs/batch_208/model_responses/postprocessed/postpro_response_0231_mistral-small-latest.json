@@ -1,0 +1,8 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Appelant un domestique' d\u00e9crit une action sp\u00e9cifique du personnage. Cette action n'implique pas de violence (cat\u00e9gorie 1), de parole directe au public (cat\u00e9gorie 2), de mouvement d'entr\u00e9e ou de sortie (cat\u00e9gories 4 et 5), de manipulation d'objet (cat\u00e9gorie 10), ou de description de la sc\u00e8ne (cat\u00e9gorie 11). Elle est simplement une instruction pour le personnage de faire une action, ce qui correspond bien \u00e0 la cat\u00e9gorie 0 (action).",
+  "stgdir": "Appelant un domestique.",
+  "response_time": 3178.8530349731445,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

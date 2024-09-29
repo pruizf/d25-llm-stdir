@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'En regardant Terville.' d\u00e9crit une action g\u00e9n\u00e9rale du personnage, qui consiste \u00e0 regarder un autre personnage. Cette action ne peut pas \u00eatre classifi\u00e9e dans une des cat\u00e9gories sp\u00e9cifiques plus d\u00e9taill\u00e9es telles que 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Elle rel\u00e8ve donc de la cat\u00e9gorie g\u00e9n\u00e9rale des actions des personnages.",
+  "confidence": 0.9,
+  "stgdir": "En regardant Terville.",
+  "response_time": 3520.831346511841,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

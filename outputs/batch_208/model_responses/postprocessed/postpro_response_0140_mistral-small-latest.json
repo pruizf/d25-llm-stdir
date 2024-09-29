@@ -1,0 +1,8 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il regarde dans un petit cabinet' d\u00e9crit une action sp\u00e9cifique du personnage. Cette action n'implique pas de violence (cat\u00e9gorie 1), de parole seule (cat\u00e9gorie 2), d'entr\u00e9e ou de sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), d'interaction non verbale (cat\u00e9gorie 6), de d\u00e9placement (cat\u00e9gorie 7), de musique (cat\u00e9gorie 8), de narration longue (cat\u00e9gorie 9), d'objet (cat\u00e9gorie 10), de d\u00e9cor (cat\u00e9gorie 11) ou de destinataire de r\u00e9plique (cat\u00e9gorie 12). Puisque la didascalie d\u00e9crit simplement une action du personnage, la cat\u00e9gorie 0 (action) est la plus appropri\u00e9e.",
+  "stgdir": "Il regarde dans un petit cabinet.",
+  "response_time": 4538.41233253479,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

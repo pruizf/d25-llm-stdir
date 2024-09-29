@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il regarde dans l'antichambre' d\u00e9crit une action g\u00e9n\u00e9rale d'un personnage. Le personnage effectue une action simple (regarder) sans interaction verbale ou physique avec un autre personnage ou un objet. Cette action ne correspond pas aux autres cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Donc, la cat\u00e9gorie 'action' (cat\u00e9gorie 0) est la plus appropri\u00e9e.",
+  "confidence": 1,
+  "stgdir": "Il regarde dans l'antichambre.",
+  "response_time": 3216.949224472046,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

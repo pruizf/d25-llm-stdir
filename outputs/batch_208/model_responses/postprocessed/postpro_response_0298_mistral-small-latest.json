@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse.' d\u00e9crit un mouvement du personnage qui n'est ni une entr\u00e9e (cat\u00e9gorie 4) ni une sortie (cat\u00e9gorie 5), mais simplement un d\u00e9placement sur sc\u00e8ne. La cat\u00e9gorie 7 (movement) est donc la plus appropri\u00e9e pour d\u00e9crire ce type d'action.",
+  "confidence": 1,
+  "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+  "response_time": 2757.594108581543,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

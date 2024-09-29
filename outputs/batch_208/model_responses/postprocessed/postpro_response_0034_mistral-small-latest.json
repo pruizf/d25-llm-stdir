@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie d\u00e9crit une action impliquant un objet : 'Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.' Cette action concerne l'interaction avec un objet (le papier) et la d\u00e9couverte d'un autre objet (une Ode). Cela correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets.",
+  "confidence": 0.95,
+  "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+  "response_time": 2490.785598754883,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Elle ouvre la lettre.' d\u00e9crit une action sp\u00e9cifique effectu\u00e9e par un personnage, \u00e0 savoir l'ouverture d'une lettre. Cette action est g\u00e9n\u00e9rale et ne rel\u00e8ve d'aucune des cat\u00e9gories plus sp\u00e9cifiques telles que l'agression, l'apart\u00e9, l'entr\u00e9e, l'exit, l'interaction, le mouvement, la musique, la narration, l'object ou le setting. Elle correspond donc \u00e0 la cat\u00e9gorie 0, qui est la cat\u00e9gorie g\u00e9n\u00e9rale pour les actions des personnages.",
+  "confidence": 1,
+  "stgdir": "Elle ouvre la lettre.",
+  "response_time": 3444.335460662842,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

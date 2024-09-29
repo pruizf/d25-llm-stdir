@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Elle passe \u00e0 gauche' d\u00e9crit un mouvement du personnage sur sc\u00e8ne. Elle ne correspond pas aux autres cat\u00e9gories telles que les actions g\u00e9n\u00e9rales (0), les interactions non verbales (6), les agressions (1), les entr\u00e9es (4) ou sorties (5) de sc\u00e8ne, les interactions avec des objets (10) ou la narration (9). La cat\u00e9gorie 'movement' (7) est la plus appropri\u00e9e pour d\u00e9crire un d\u00e9placement non sp\u00e9cifi\u00e9 comme une entr\u00e9e ou une sortie.",
+  "confidence": 0.9,
+  "stgdir": "Elle passe \u00e0 gauche.",
+  "response_time": 3649.960994720459,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

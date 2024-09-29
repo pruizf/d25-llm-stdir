@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il saute' d\u00e9crit une action sp\u00e9cifique du personnage. Cette action est g\u00e9n\u00e9rale et n'entre pas dans les cat\u00e9gories sp\u00e9cifiques telles que l'agression, l'apart\u00e9, l'interaction, l'entr\u00e9e, l'exit, etc. Elle correspond donc \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 0.95,
+  "stgdir": "Il saute.",
+  "response_time": 2557.9543113708496,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

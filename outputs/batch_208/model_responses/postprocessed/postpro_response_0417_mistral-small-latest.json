@@ -1,0 +1,9 @@
+{
+  "category": 8,
+  "explanation": "La didascalie commence par le mot 'Air', ce qui indique qu'elle fait r\u00e9f\u00e9rence \u00e0 un air ou une chanson dans une pi\u00e8ce de th\u00e9\u00e2tre. Elle ne d\u00e9crit pas une action g\u00e9n\u00e9rale, une interaction non verbale, un mouvement, un objet, une agression, une entr\u00e9e ou une sortie de sc\u00e8ne, ou une narration longue. Par cons\u00e9quent, la cat\u00e9gorie 'music' (cat\u00e9gorie 8) est la plus appropri\u00e9e.",
+  "confidence": 1,
+  "stgdir": "Air des Bossus.",
+  "response_time": 3141.289472579956,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

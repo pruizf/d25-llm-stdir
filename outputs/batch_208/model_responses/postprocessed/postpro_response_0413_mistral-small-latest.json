@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il s'approche de C\u00e9cile' d\u00e9crit un mouvement du personnage vers un autre personnage. Cette action est clairement un d\u00e9placement qui ne correspond ni \u00e0 une entr\u00e9e ni \u00e0 une sortie de sc\u00e8ne, ce qui exclut les cat\u00e9gories 4 et 5. Elle ne d\u00e9crit pas une interaction non verbale entre les personnages, ce qui exclut la cat\u00e9gorie 6. Elle ne concerne pas un objet ou une interaction avec un objet, ce qui exclut la cat\u00e9gorie 10. Elle ne d\u00e9crit pas une agression, un apart\u00e9, une delivery, une narration, une musique, ou un setting. Par cons\u00e9quent, la cat\u00e9gorie la plus appropri\u00e9e est la cat\u00e9gorie 7 (movement).",
+  "confidence": 0.95,
+  "stgdir": "Il s'approche de C\u00e9cile.",
+  "response_time": 4272.6075649261475,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

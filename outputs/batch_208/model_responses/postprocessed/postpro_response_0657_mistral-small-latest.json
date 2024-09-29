@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie 'Ils tendent tous deux la main, et prennent l'argent.' d\u00e9crit une interaction des personnages avec un objet (l'argent). Cette interaction implique une action sp\u00e9cifique (prendre l'argent) qui est clairement li\u00e9e \u00e0 la manipulation d'un objet. Cela correspond parfaitement \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets.",
+  "confidence": 0.95,
+  "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+  "response_time": 3323.5366344451904,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple du personnage, qui est de lire une lettre. Cette action est g\u00e9n\u00e9rale et ne correspond pas sp\u00e9cifiquement aux autres cat\u00e9gories comme l'entr\u00e9e (entrance), la sortie (exit), l'interaction non verbale (interaction), ou la description d'un objet (object).",
+  "confidence": 0.95,
+  "stgdir": "Elle reprend la lettre et lit.",
+  "response_time": 2754.3325424194336,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

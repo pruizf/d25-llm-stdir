@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il se sauve.' d\u00e9crit un d\u00e9placement du personnage, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Cette cat\u00e9gorie englobe les actions de d\u00e9placement des personnages, mais ne concerne pas les entr\u00e9es ou sorties de sc\u00e8ne, ce qui fait que la cat\u00e9gorie 'exit' n'est pas appropri\u00e9e ici. Le verbe 'se sauver' implique une action de mouvement rapide et souvent de fuite, ce qui est bien repr\u00e9sent\u00e9 par cette cat\u00e9gorie.",
+  "confidence": 0.95,
+  "stgdir": "Il se sauve.",
+  "response_time": 3068.866491317749,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

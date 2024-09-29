@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie d\u00e9crit un bruit (quelqu'un frappant \u00e0 la porte) qui indique une action en cours. Cette action est li\u00e9e \u00e0 un mouvement ou \u00e0 une interaction avec l'environnement (la porte), ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+  "response_time": 2361.5052700042725,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

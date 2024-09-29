@@ -1,0 +1,9 @@
+{
+  "category": 10,
+  "explanation": "La didascalie 'Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas' d\u00e9crit une interaction entre un personnage (le fant\u00f4me) et un objet (l'\u00e9p\u00e9e d'Arcas). Cette interaction implique que le fant\u00f4me prend l'\u00e9p\u00e9e d'Arcas. Cela correspond parfaitement \u00e0 la cat\u00e9gorie 'object', qui est d\u00e9finie comme d\u00e9crivant un objet ou l'interaction d'un personnage avec un objet.",
+  "confidence": 0.95,
+  "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+  "response_time": 2739.6554946899414,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

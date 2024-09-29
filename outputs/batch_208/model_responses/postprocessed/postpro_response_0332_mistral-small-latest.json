@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il entre dans sa maison.' d\u00e9crit un d\u00e9placement du personnage, mais ce n'est pas une entr\u00e9e ou une sortie de sc\u00e8ne (cat\u00e9gories 4 et 5). Il s'agit donc d'un mouvement g\u00e9n\u00e9ral du personnage, ce qui correspond bien \u00e0 la cat\u00e9gorie 7 : movement.",
+  "confidence": 0.95,
+  "stgdir": "Il entre dans sa maison.",
+  "response_time": 2323.669910430908,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

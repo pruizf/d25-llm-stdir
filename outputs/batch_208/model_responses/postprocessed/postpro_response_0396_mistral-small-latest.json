@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Se rapprochant' d\u00e9crit un mouvement du personnage sur sc\u00e8ne, mais ne concerne ni une entr\u00e9e ni une sortie de sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'. Cette cat\u00e9gorie est d\u00e9di\u00e9e aux d\u00e9placements des personnages sur sc\u00e8ne, tels que s'approcher, s'\u00e9loigner, suivre un personnage, etc.",
+  "confidence": 0.95,
+  "stgdir": "Se rapprochant.",
+  "response_time": 3195.4216957092285,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

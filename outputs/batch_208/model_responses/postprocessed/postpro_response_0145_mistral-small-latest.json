@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Elle l\u00e8ve ici son masque' d\u00e9crit une action sp\u00e9cifique qu'un personnage effectue. Cette action n'est pas violente, verbale, ou li\u00e9e \u00e0 l'entr\u00e9e ou la sortie d'un personnage. Elle ne concerne pas non plus l'interaction avec un objet ou la description du d\u00e9cor. Elle rel\u00e8ve donc de la cat\u00e9gorie g\u00e9n\u00e9rale des actions des personnages.",
+  "confidence": 1,
+  "stgdir": "Elle l\u00e8ve ici son masque.",
+  "response_time": 2688.056707382202,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

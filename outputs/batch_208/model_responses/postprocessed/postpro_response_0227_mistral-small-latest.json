@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il fond en larmes.' d\u00e9crit une action des personnages, \u00e0 savoir l'expression d'une \u00e9motion par le pleur. Cette action n'est pas une interaction violente (cat\u00e9gorie 1), un apart\u00e9 (cat\u00e9gorie 2), une livraison de r\u00e9plique (cat\u00e9gorie 3), une entr\u00e9e (cat\u00e9gorie 4), une sortie (cat\u00e9gorie 5), une interaction non verbale (cat\u00e9gorie 6), un mouvement (cat\u00e9gorie 7), une mention de musique (cat\u00e9gorie 8), une narration (cat\u00e9gorie 9), une interaction avec un objet (cat\u00e9gorie 10), une description du d\u00e9cor (cat\u00e9gorie 11) ou une indication du destinataire d'une r\u00e9plique (cat\u00e9gorie 12).",
+  "confidence": 1,
+  "stgdir": "Il fond en larmes.",
+  "response_time": 4693.160772323608,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

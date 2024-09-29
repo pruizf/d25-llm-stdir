@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action des personnages, plus pr\u00e9cis\u00e9ment le G\u00e9n\u00e9ral qui informe ses troupes des dispositions prises et leur indique la marche \u00e0 suivre. Cette action n'est pas une agression, une interaction non verbale, un mouvement, une narration longue, ou une description de la sc\u00e8ne. Elle ne concerne pas non plus la musique, un objet, ou l'indication d'un destinataire de r\u00e9plique.",
+  "confidence": 0.95,
+  "stgdir": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u.",
+  "response_time": 2978.3377647399902,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

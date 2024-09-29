@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Il s'assoit pr\u00e8s de Philippe' d\u00e9crit une action simple d'un personnage (s'asseoir) en relation avec un autre personnage (Philippe). Cette action ne tombe dans aucune des cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Par cons\u00e9quent, elle doit \u00eatre class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 1,
+  "stgdir": "Il s'assoit pr\u00e8s de Philippe.",
+  "response_time": 3071.9356536865234,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

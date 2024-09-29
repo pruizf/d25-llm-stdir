@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie 'Lui montrant le billet' d\u00e9crit une action sp\u00e9cifique qu'un personnage effectue en montrant un billet \u00e0 une autre personne. Cette action ne tombe pas dans les cat\u00e9gories agression, apart\u00e9, delivery, entrance, exit, interaction, movement, music, narration, object, setting, ou toward. La cat\u00e9gorie 'action' est la plus appropri\u00e9e car elle couvre les actions g\u00e9n\u00e9rales des personnages qui ne sont pas sp\u00e9cifiquement d\u00e9taill\u00e9es dans d'autres cat\u00e9gories.",
+  "confidence": 1,
+  "stgdir": "Lui montrant le billet.",
+  "response_time": 4793.517589569092,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

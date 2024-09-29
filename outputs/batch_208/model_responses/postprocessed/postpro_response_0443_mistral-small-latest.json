@@ -1,0 +1,9 @@
+{
+  "category": 11,
+  "explanation": "La didascalie 'AIR. Mon Papa toute la nuit.' ne d\u00e9crit pas une action sp\u00e9cifique des personnages, une interaction, un mouvement ou une agression. Elle ne fait pas non plus r\u00e9f\u00e9rence \u00e0 un personnage qui chante ou parle \u00e0 part. Elle semble plut\u00f4t d\u00e9crire un \u00e9l\u00e9ment de la mise en sc\u00e8ne ou de la musique. La cat\u00e9gorie 'setting' est la plus appropri\u00e9e car elle concerne la description de la sc\u00e8ne ou du lieu de la pi\u00e8ce, y compris les \u00e9l\u00e9ments musicaux ou les noms des airs jou\u00e9s. Dans ce cas, 'AIR' est un indicateur que la didascalie concerne un aspect musical de la pi\u00e8ce.",
+  "confidence": 0.9,
+  "stgdir": "AIR. Mon Papa toute la nuit.",
+  "response_time": 4704.679489135742,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

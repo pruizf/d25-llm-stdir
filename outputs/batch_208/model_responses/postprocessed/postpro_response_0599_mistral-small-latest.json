@@ -1,0 +1,9 @@
+{
+  "category": 9,
+  "explanation": "La didascalie d\u00e9crit un ph\u00e9nom\u00e8ne sonore (\u00ab On entend un grand bruit du c\u00f4t\u00e9 de la maison \u00bb), ce qui correspond \u00e0 la cat\u00e9gorie 9 (narration), qui est utilis\u00e9e pour des descriptions de bruits ou de ph\u00e9nom\u00e8nes m\u00e9t\u00e9orologiques. Cette cat\u00e9gorie est \u00e9galement utilis\u00e9e pour des didascalies longues et \u00e0 caract\u00e8re narratif.",
+  "confidence": 0.9,
+  "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+  "response_time": 2635.599374771118,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

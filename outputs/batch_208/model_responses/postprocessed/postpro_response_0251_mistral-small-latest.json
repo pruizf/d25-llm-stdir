@@ -1,0 +1,8 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Ils sortent de la caverne' d\u00e9crit un mouvement des personnages. Elle indique que les personnages quittent un endroit sp\u00e9cifique, la caverne, mais ne correspond pas aux cat\u00e9gories d'entr\u00e9e ou de sortie car elle ne se r\u00e9f\u00e8re pas \u00e0 l'entr\u00e9e en sc\u00e8ne ou \u00e0 la sortie de sc\u00e8ne. La cat\u00e9gorie 'movement' est la plus appropri\u00e9e car elle d\u00e9crit un d\u00e9placement des personnages.",
+  "stgdir": "Ils sortent de la caverne.",
+  "response_time": 2762.601137161255,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

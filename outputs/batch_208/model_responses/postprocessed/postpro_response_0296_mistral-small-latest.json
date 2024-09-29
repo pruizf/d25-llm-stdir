@@ -1,0 +1,9 @@
+{
+  "category": 7,
+  "explanation": "La didascalie 'Il sortesasuite' indique un mouvement du personnage, sp\u00e9cifiquement une sortie, ce qui correspond \u00e0 la cat\u00e9gorie 'exit' (cat\u00e9gorie 5). Cependant, elle est l\u00e9g\u00e8rement ambigu\u00eb et pourrait \u00e9galement \u00eatre interpr\u00e9t\u00e9e comme une action g\u00e9n\u00e9rale (cat\u00e9gorie 0) si le contexte n'est pas clair. Mais dans l'ensemble, la cat\u00e9gorie 5 est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Il sortesasuite.",
+  "response_time": 3207.3371410369873,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 0,
+  "explanation": "La didascalie d\u00e9crit une action simple d'un personnage, \u00e0 savoir tirer le cordon de la sonnette, ce qui correspond \u00e0 la cat\u00e9gorie g\u00e9n\u00e9rale des actions des personnages. Cette cat\u00e9gorie est utilis\u00e9e lorsque d'autres cat\u00e9gories ne d\u00e9crivent pas l'action de mani\u00e8re plus sp\u00e9cifique.",
+  "confidence": 1,
+  "stgdir": "Il tire le cordon de la sonnette.",
+  "response_time": 2371.0837364196777,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}
