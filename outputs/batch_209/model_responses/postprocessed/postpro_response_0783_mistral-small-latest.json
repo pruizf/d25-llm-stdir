@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction '\u00c0 Estelle.' indique clairement le destinataire de la parole ou de l'action. En fran\u00e7ais, '\u00c0' suivi d'un nom propre est souvent utilis\u00e9 pour indiquer l'adresse directe d'une personne, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+  "confidence": 0.95,
+  "stgdir": "\u00c0 Estelle.",
+  "response_time": 2203.345537185669,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

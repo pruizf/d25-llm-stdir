@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.' d\u00e9crit une action g\u00e9n\u00e9rale du personnage sans tomber dans les autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'apart\u00e9, la narration, etc. Elle se concentre sur l'\u00e9tat et l'action du personnage sans impliquer de dialogue, de mouvement d'entr\u00e9e ou de sortie, ou d'interaction avec des objets sp\u00e9cifiques.",
+  "confidence": 0.95,
+  "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+  "response_time": 3032.024145126343,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

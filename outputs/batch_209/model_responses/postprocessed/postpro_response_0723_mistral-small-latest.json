@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il fait lever la toile' d\u00e9crit une action sp\u00e9cifique de lev\u00e9e de rideau, qui est une action de mouvement sc\u00e9nique. Elle ne rel\u00e8ve pas des autres cat\u00e9gories telles que l'entr\u00e9e ou la sortie de sc\u00e8ne, l'interaction, la parole ou l'agression.",
+  "confidence": 0.95,
+  "stgdir": "Il fait lever la toile.",
+  "response_time": 2014.1303539276123,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.' d\u00e9crit une interaction avec un objet, sp\u00e9cifiquement la remise d'une lettre. Cette action correspond parfaitement \u00e0 la cat\u00e9gorie 'object' qui inclut les actions de donner, recevoir ou manipuler des objets.",
+  "confidence": 1,
+  "stgdir": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.",
+  "response_time": 2270.6217765808105,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

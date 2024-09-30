@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Revenant promptement \u00e0 elle' d\u00e9crit une action de mouvement du personnage, en particulier un retour rapide \u00e0 un \u00e9tat normal ou \u00e0 une activit\u00e9 pr\u00e9c\u00e9dente. Cela correspond \u00e0 la cat\u00e9gorie 'movement' qui englobe les mouvements des personnages sur sc\u00e8ne, y compris les mouvements de retour ou de r\u00e9cup\u00e9ration. Le verbe 'revenir' est clairement un mouvement, et 'promptement' pr\u00e9cise la rapidit\u00e9 de ce mouvement.",
+  "confidence": 0.95,
+  "stgdir": "Revenant promptement \u00e0 elle.",
+  "response_time": 2972.16796875,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

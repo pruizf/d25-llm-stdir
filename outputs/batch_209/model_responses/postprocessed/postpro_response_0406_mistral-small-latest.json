@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il fait un mouvement pour s'\u00e9loigner.' d\u00e9crit un mouvement du personnage sur sc\u00e8ne, sp\u00e9cifiquement un mouvement de s'\u00e9loigner. Cela correspond \u00e0 la cat\u00e9gorie 7, qui concerne les mouvements des personnages sur sc\u00e8ne, mais qui ne sont ni des entr\u00e9es ni des sorties. La phrase ne mentionne pas de contact avec un objet, une interaction verbale, ou une indication de lieu, ce qui permet d'\u00e9liminer d'autres cat\u00e9gories.",
+  "confidence": 1,
+  "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+  "response_time": 2817.97456741333,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Lui montrant le billet.' indique une interaction avec un objet (le billet), ce qui correspond \u00e0 la cat\u00e9gorie 'object'. Il s'agit d'une manipulation d'un objet par un personnage, ce qui est typique de cette cat\u00e9gorie.",
+  "confidence": 1,
+  "stgdir": "Lui montrant le billet.",
+  "response_time": 3946.7673301696777,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

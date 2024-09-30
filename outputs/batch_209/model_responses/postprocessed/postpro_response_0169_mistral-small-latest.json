@@ -1,0 +1,9 @@
+{
+  "category": "2",
+  "explanation": "The stage direction '[\u00c0 part. Il ne parle point de Calatabellotte.]' indicates that the character is speaking aside, which is a clear example of an 'aparte'. This category is defined as when a character addresses the audience or is alone on stage, which fits this description perfectly.",
+  "confidence": 1,
+  "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+  "response_time": 2089.503288269043,
+  "model": "mistral-small-latest",
+  "categFull": "aparte"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne 'AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.' indique clairement le destinataire d'une parole ou d'une adresse. En fran\u00e7ais, 'AIR' suivi d'un nom sp\u00e9cifique indique souvent le d\u00e9but d'une chanson ou d'une pi\u00e8ce musicale. Cependant, dans ce contexte, il semble que 'Monsieur le Pr\u00e9v\u00f4t des Marchands' soit une indication pour un personnage sp\u00e9cifique vers qui une interaction ou une adresse doit se faire. Par cons\u00e9quent, la cat\u00e9gorie appropri\u00e9e est 'toward' (vers).",
+  "confidence": 0.9,
+  "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+  "response_time": 3008.831739425659,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

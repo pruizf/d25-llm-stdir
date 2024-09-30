@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "La stage direction 'AIR. Allons donc, jouez violons.' indique clairement une direction musicale. Le mot 'AIR' au d\u00e9but de la direction est une indication typique d'une direction musicale, suivie du nom de la pi\u00e8ce musicale \u00e0 jouer. Cette direction ne correspond \u00e0 aucune autre cat\u00e9gorie sp\u00e9cifique donn\u00e9e.",
+  "confidence": 1,
+  "stgdir": "AIR. Allons donc, jouez violons.",
+  "response_time": 2216.348886489868,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

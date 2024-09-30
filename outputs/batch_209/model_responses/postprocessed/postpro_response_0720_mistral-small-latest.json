@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Tous les deux prennent place devant la table.' d\u00e9crit un mouvement des personnages sur sc\u00e8ne sans qu'il s'agisse d'une entr\u00e9e ou d'une sortie. Ils se d\u00e9placent vers un endroit pr\u00e9cis (devant la table), ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 1,
+  "stgdir": "Tous les deux prennent place devant la table.",
+  "response_time": 2083.240032196045,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

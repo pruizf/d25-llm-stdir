@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il laisse tomber sa lettre.' d\u00e9crit une action sp\u00e9cifique impliquant un objet, \u00e0 savoir la lettre. Le personnage laisse tomber quelque chose, ce qui est une interaction avec un objet et correspond donc \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.95,
+  "stgdir": "Il laisse tomber sa lettre.",
+  "response_time": 2098.456382751465,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

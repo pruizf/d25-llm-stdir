@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'Air : Ce que j'\u00e9prouve en vous voyant.' fait r\u00e9f\u00e9rence \u00e0 la mani\u00e8re dont le personnage va chanter ou prononcer ses mots, ce qui correspond \u00e0 la cat\u00e9gorie 'delivery manner', c'est-\u00e0-dire la mani\u00e8re dont le texte doit \u00eatre d\u00e9livr\u00e9, en l'occurrence avec une certaine \u00e9motion ('Ce que j'\u00e9prouve').",
+  "confidence": 0.9,
+  "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+  "response_time": 3190.5670166015625,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

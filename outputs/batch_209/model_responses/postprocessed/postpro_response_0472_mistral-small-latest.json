@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "The stage direction 'AIR : Mes chers amis, pouvez -vous m'enseigner' is related to the delivery manner of a character, specifically indicating that the following text is to be sung or spoken with a certain vocal expression. The use of 'AIR' in French stage directions typically indicates a musical direction or a specific way of delivering lines, which falls under the 'delivery' category.",
+  "confidence": 0.95,
+  "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+  "response_time": 2839.0631675720215,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

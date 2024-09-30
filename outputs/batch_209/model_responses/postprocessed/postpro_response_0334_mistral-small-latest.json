@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La direction 'Scanderberg sort' indique un mouvement de caract\u00e8re, sp\u00e9cifiquement une sortie du personnage Scanderberg de la sc\u00e8ne. Cela correspond \u00e0 la cat\u00e9gorie '7' (movement) car elle d\u00e9crit un mouvement du personnage sans \u00eatre une entr\u00e9e (cat\u00e9gorie 4) ou une sortie (cat\u00e9gorie 5) sp\u00e9cifique.",
+  "confidence": 0.9,
+  "stgdir": "Scanderberg sort.",
+  "response_time": 2370.37992477417,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

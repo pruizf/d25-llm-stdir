@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'On sort de table, et on l'emporte.' translates to 'One leaves the table, and one takes it away.' This action describes characters exiting the scene while taking an object (presumably the table) with them, which clearly falls under the category of 'exit' (category 5).",
+  "confidence": 1,
+  "stgdir": "On sort de table, et on l'emporte.",
+  "response_time": 2010.9748840332031,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

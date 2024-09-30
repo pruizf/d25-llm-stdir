@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La direction de sc\u00e8ne 'Air : Tout est dit.' n'entre dans aucune des cat\u00e9gories sp\u00e9cifiques comme l'action, l'agression, l'apart\u00e9, la livraison, l'entr\u00e9e, l'exit, l'interaction, le mouvement ou la musique. Elle semble plut\u00f4t d\u00e9crire un \u00e9l\u00e9ment de contexte ou de mise en sc\u00e8ne, comme une indication sur l'ambiance ou l'atmosph\u00e8re. Par cons\u00e9quent, elle correspond le mieux \u00e0 la cat\u00e9gorie 'setting' qui englobe la description g\u00e9n\u00e9rale de la sc\u00e8ne ou de l'environnement.",
+  "confidence": 0.8,
+  "stgdir": "Air : Tout est dit.",
+  "response_time": 3075.0186443328857,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "Le terme 'S'\u00e9chauffant' indique que le personnage est en train de se pr\u00e9parer ou de se mettre en condition, ce qui correspond \u00e0 un mouvement ou \u00e0 une action de pr\u00e9paration. Cette action ne correspond pas \u00e0 une entr\u00e9e (cat\u00e9gorie 4), sortie (cat\u00e9gorie 5), interaction (cat\u00e9gorie 6) ou \u00e0 un autre type de mouvement sp\u00e9cifique comme l'agression (cat\u00e9gorie 1).",
+  "confidence": 0.9,
+  "stgdir": "S'\u00e9chauffant.",
+  "response_time": 2770.9295749664307,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

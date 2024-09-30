@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Elle ouvre l'armoire.' d\u00e9crit une action g\u00e9n\u00e9rale du personnage qui n'est pas couverte par les autres cat\u00e9gories. 'Ouvrir' est une action typique qui ne correspond pas \u00e0 une action violente (cat\u00e9gorie 1), une interaction verbale (cat\u00e9gorie 2), une entr\u00e9e ou sortie (cat\u00e9gorie 4 ou 5), une interaction non verbale (cat\u00e9gorie 6), un mouvement (cat\u00e9gorie 7), une description musicale (cat\u00e9gorie 8), une longue narration (cat\u00e9gorie 9), une interaction avec un objet (cat\u00e9gorie 10), ou une description de l'emplacement (cat\u00e9gorie 11) ou de l'adresse (cat\u00e9gorie 12).",
+  "confidence": 0.9,
+  "stgdir": "Elle ouvre l'armoire.",
+  "response_time": 4470.603704452515,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

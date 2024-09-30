@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La stage direction 'Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.' d\u00e9crit une modification de l'environnement, en particulier une am\u00e9lioration des conditions m\u00e9t\u00e9orologiques et de la mer. Cette description correspond \u00e0 la cat\u00e9gorie 'setting' car elle d\u00e9crit le d\u00e9cor et l'ambiance de la sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+  "response_time": 2138.1587982177734,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

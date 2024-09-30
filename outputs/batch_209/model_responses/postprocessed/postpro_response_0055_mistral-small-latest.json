@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Scarron continue d'\u00e9crire.' indique une action g\u00e9n\u00e9rale du personnage Scarron, qui est celle d'\u00e9crire. Cette action n'est pas violente (cat\u00e9gorie 1), ni une mise \u00e0 part (cat\u00e9gorie 2), ni une indication de la mani\u00e8re de parler ou de chanter (cat\u00e9gorie 3), ni une entr\u00e9e ou une sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni une interaction non verbale (cat\u00e9gorie 6), ni un mouvement sp\u00e9cifique (cat\u00e9gorie 7), ni une indication musicale (cat\u00e9gorie 8), ni une longue description narrative (cat\u00e9gorie 9), ni une description d'un objet (cat\u00e9gorie 10), ni une description de l'emplacement sc\u00e9nique (cat\u00e9gorie 11), ni une indication de l'adresse d'une parole (cat\u00e9gorie 12). La cat\u00e9gorie 0 (action) est donc la plus appropri\u00e9e.",
+  "confidence": 1,
+  "stgdir": "Scarron continue d'\u00e9crire.",
+  "response_time": 5405.876636505127,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction 'Air : L'occasion fait le larron.' indique clairement l'addresse de la parole, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'. Le contexte de cette direction est une remarque g\u00e9n\u00e9rale ou une pens\u00e9e exprim\u00e9e vers quelqu'un ou vers l'audience, ce qui est typique d'une direction d'adresse.",
+  "confidence": 0.9,
+  "stgdir": "Air : L'occasion fait le larron.",
+  "response_time": 2228.51300239563,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas' d\u00e9crit une interaction avec un objet, \u00e0 savoir l'\u00e9p\u00e9e d'Arcas, qui est manipul\u00e9e par un fant\u00f4me. Cette interaction implique la prise de possession de l'objet par le fant\u00f4me, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+  "response_time": 2239.9325370788574,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

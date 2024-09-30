@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Elle lui donne l'habit.' d\u00e9crit une interaction avec un objet, sp\u00e9cifiquement le don d'un habit. Cela correspond \u00e0 la cat\u00e9gorie 'object' (10) car elle implique un personnage manipulant un objet et le donnant \u00e0 un autre personnage.",
+  "confidence": 0.95,
+  "stgdir": "Elle lui donne l'habit.",
+  "response_time": 2225.9116172790527,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": 5,
+  "explanation": "La stage direction 'L\u00e9onor et Marine se retirent.' indique que les personnages quittent la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'exit'. Les verbes utilis\u00e9s ('se retirer') sont souvent associ\u00e9s \u00e0 des actions de sortie de sc\u00e8ne.",
+  "confidence": 1,
+  "stgdir": "L\u00e9onor et Marine se retirent.",
+  "response_time": 1951.3046741485596,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

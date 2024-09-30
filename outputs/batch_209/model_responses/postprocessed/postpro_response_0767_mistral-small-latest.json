@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction '\u00c0 Tatonet.' indique clairement le destinataire de la parole ou de l'action, ce qui correspond \u00e0 la cat\u00e9gorie 'toward' (vers). Cette cat\u00e9gorie est utilis\u00e9e pour indiquer \u00e0 qui s'adresse un personnage ou une action.",
+  "confidence": 0.95,
+  "stgdir": "\u00c0 Tatonet.",
+  "response_time": 2226.4702320098877,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

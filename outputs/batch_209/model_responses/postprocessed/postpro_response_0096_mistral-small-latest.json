@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction d\u00e9crit une interaction avec un objet, sp\u00e9cifiquement le fait de tirer un demi-cercle de sa poche et de le braquer sur une canne. Cette action implique clairement la manipulation d'un objet, ce qui correspond \u00e0 la cat\u00e9gorie 'objet'.",
+  "confidence": 1,
+  "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+  "response_time": 2758.9824199676514,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

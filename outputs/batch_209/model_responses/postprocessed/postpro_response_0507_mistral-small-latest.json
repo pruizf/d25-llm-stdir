@@ -1,0 +1,9 @@
+{
+  "category": "2",
+  "explanation": "The stage direction 'AIR. Non, je ne serai pas.' contains the phrase '\u00e0 part', which is a common indicator for an aside or soliloquy. This suggests that the character is speaking to themselves or to the audience, but not to another character on stage. This fits the definition of category 2: 'aparte' (aside).",
+  "confidence": 0.9,
+  "stgdir": "AIR. Non, je ne serai pas.",
+  "response_time": 2097.065210342407,
+  "model": "mistral-small-latest",
+  "categFull": "aparte"
+}

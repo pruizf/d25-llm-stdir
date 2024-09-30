@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Elle s'en va.' indique que le personnage quitte la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'exit' (sortie) en fran\u00e7ais. Le verbe 's'en aller' est un synonyme de 'sortir', qui est sp\u00e9cifiquement utilis\u00e9 pour d\u00e9crire un personnage quittant la sc\u00e8ne.",
+  "confidence": 1,
+  "stgdir": "Elle s'en va.",
+  "response_time": 2041.504144668579,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

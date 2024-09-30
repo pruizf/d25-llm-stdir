@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "La stage direction mentionne un conflit entre le Duc Dessau et son fr\u00e8re, o\u00f9 le Duc est impatient de la perte de son fr\u00e8re et se r\u00e9sout \u00e0 s'opposer \u00e0 ses desseins. Cela indique une action violente ou une menace, ce qui correspond \u00e0 la cat\u00e9gorie 'aggression'.",
+  "confidence": 0.9,
+  "stgdir": "Mais le Duc Dessau impatient de la perte de son Fr\u00e8re, se r\u00e9sout de s'opposer \u00e0 ses desseins.",
+  "response_time": 2295.488119125366,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

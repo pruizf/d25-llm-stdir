@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "La stage direction 'Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant' d\u00e9crit une interaction non-verbale entre deux personnages. La Marquise de Prie donne une couronne de laurier \u00e0 Voltaire et l'installe, ce qui correspond \u00e0 une interaction non-verbale. Le fait qu'elle chante en m\u00eame temps ne change pas la nature de l'interaction, qui reste physique et visible.",
+  "confidence": 0.95,
+  "stgdir": "Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant.",
+  "response_time": 3085.1850509643555,
+  "model": "mistral-small-latest",
+  "categFull": "interaction"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Il lit la lettre de Damis.' d\u00e9crit une action g\u00e9n\u00e9rale du personnage, qui consiste \u00e0 lire une lettre. Cette action ne rentre dans aucune des cat\u00e9gories sp\u00e9cifiques comme 'aggression', 'aparte', 'delivery', 'entrance', 'exit', 'interaction', 'movement', 'music', 'narration', 'object', 'setting', ou 'toward'. Elle est donc class\u00e9e dans la cat\u00e9gorie g\u00e9n\u00e9rale des actions.",
+  "confidence": 1,
+  "stgdir": "Il lit la lettre de Damis.",
+  "response_time": 2740.2124404907227,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

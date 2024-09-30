@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il leur baille des fleurets.' implique une interaction avec des objets (les fleurets), ce qui correspond \u00e0 la cat\u00e9gorie 'Object'. Le verbe 'baille' signifie donner ou distribuer, ce qui est une action typique de cette cat\u00e9gorie.",
+  "confidence": 0.95,
+  "stgdir": "Il leur baille des fleurets.",
+  "response_time": 1988.0244731903076,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

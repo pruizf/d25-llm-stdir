@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle lui fait faire le tour du th\u00e9\u00e2tre' indique un mouvement de caract\u00e8re (non une entr\u00e9e ou une sortie) o\u00f9 un personnage fait le tour du th\u00e9\u00e2tre. Cela rel\u00e8ve de la cat\u00e9gorie 'movement' (mouvement) car il s'agit d'une action de d\u00e9placement sans \u00eatre une entr\u00e9e ou une sortie sc\u00e9nique.",
+  "confidence": 0.9,
+  "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+  "response_time": 2670.440196990967,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Il quitte le balcon.' d\u00e9crit une action d'un personnage quittant le balcon, ce qui correspond \u00e0 la cat\u00e9gorie 'exit' (CATEGORY 5). Cette action implique que le personnage sort ou quitte une partie de la sc\u00e8ne, ce qui est caract\u00e9ristique des actions de sortie.",
+  "confidence": 1.0,
+  "stgdir": "Il quitte le balcon.",
+  "response_time": 2250.1144409179688,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

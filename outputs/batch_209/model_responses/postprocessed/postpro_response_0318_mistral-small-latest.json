@@ -1,0 +1,9 @@
+{
+  "category": "4",
+  "explanation": "La stage direction 'Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.' d\u00e9crit deux actions distinctes : l'entr\u00e9e de Julie et la sortie de Lamperri\u00e8re. Selon les d\u00e9finitions fournies, la cat\u00e9gorie 'entrance' (4) correspond \u00e0 l'entr\u00e9e de Julie sur sc\u00e8ne, tandis que la cat\u00e9gorie 'exit' (5) correspond \u00e0 la sortie de Lamperri\u00e8re.",
+  "confidence": 1,
+  "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+  "response_time": 2311.8436336517334,
+  "model": "mistral-small-latest",
+  "categFull": "entrance"
+}

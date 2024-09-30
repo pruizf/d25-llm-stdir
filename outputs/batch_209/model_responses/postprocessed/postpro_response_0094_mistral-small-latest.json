@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il montre son pouce' d\u00e9crit une interaction avec un objet (le pouce). Cela correspond \u00e0 la cat\u00e9gorie 'object' qui inclut les actions impliquant des objets, comme montrer, donner, recevoir, manipuler, etc.",
+  "confidence": 0.95,
+  "stgdir": "Il montre son pouce.",
+  "response_time": 1967.3709869384766,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

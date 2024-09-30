@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il jette sa bague \u00e0 terre' d\u00e9crit une action sp\u00e9cifique impliquant un objet, \u00e0 savoir une bague. Le personnage manipule cet objet en le jetant par terre. Cette action correspond clairement \u00e0 la cat\u00e9gorie 'object' qui inclut des descriptions d'interactions avec des objets.",
+  "confidence": 1,
+  "stgdir": "Il jette sa bague \u00e0 terre.",
+  "response_time": 2693.854570388794,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

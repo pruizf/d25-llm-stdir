@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "La stage direction 'AIR : le joli jeu d'amour.' mentionne un titre de musique ou de chanson, ce qui correspond \u00e0 la cat\u00e9gorie 8 (music). Le mot 'AIR' au d\u00e9but de la description est un indicateur clair qu'il s'agit d'une r\u00e9f\u00e9rence musicale.",
+  "confidence": 1.0,
+  "stgdir": "AIR : le joli jeu d'amour.",
+  "response_time": 1955.0421237945557,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

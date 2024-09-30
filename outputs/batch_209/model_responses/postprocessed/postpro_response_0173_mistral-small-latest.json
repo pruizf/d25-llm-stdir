@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "La stage direction 'Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :' d\u00e9crit une action violente o\u00f9 le Mufti bat quelqu'un puis lui parle en chantant. Cette description correspond bien \u00e0 la cat\u00e9gorie 'aggression' car elle implique une action de violence (b\u00e2tonner) suivie d'une autre action (parler en chantant).",
+  "confidence": 0.9,
+  "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+  "response_time": 2850.4908084869385,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

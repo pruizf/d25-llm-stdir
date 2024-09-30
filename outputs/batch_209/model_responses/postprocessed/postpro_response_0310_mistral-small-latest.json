@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.' d\u00e9crit un mouvement de fuite ('se sauve') et une interaction non verbale ('joint', 'f\u00e9raille'). Elle ne rentre pas dans les cat\u00e9gories de l'agression (1), de l'aside (2), de la livraison (3), de l'entr\u00e9e (4), de la sortie (5), de l'interaction (6), de la musique (8), de la narration (9), de l'objet (10), du d\u00e9cor (11) ou de la direction de la parole (12). Le mouvement de fuite et l'interaction physique ('f\u00e9raille') sont les principaux indices indiquant la cat\u00e9gorie 'movement' (7).",
+  "confidence": 0.95,
+  "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+  "response_time": 4918.543815612793,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

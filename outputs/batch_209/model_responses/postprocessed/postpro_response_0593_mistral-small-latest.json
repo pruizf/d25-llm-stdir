@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "La stage direction 'Elle le menace de le quitter' contient une menace violente, ce qui correspond \u00e0 la cat\u00e9gorie 'agression'.",
+  "confidence": 1,
+  "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+  "response_time": 1350.053310394287,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il lui pose la couronne sur la t\u00eate' d\u00e9crit une interaction avec un objet, en l'occurrence la couronne. Le personnage manipule et place cet objet sur la t\u00eate d'un autre personnage. Cela correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit l'interaction avec des objets.",
+  "confidence": 0.95,
+  "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+  "response_time": 2014.0838623046875,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 Mercure' indique clairement l'addressee de la parole. En fran\u00e7ais, '\u00c0' suivi d'un nom ou d'un pr\u00e9nom est g\u00e9n\u00e9ralement utilis\u00e9 pour indiquer la personne \u00e0 qui la parole est adress\u00e9e. Donc, cette direction de sc\u00e8ne tombe dans la cat\u00e9gorie 'vers', qui est utilis\u00e9e pour indiquer l'addressee d'un discours.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Mercure.",
+  "response_time": 2394.620895385742,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il l\u00e8ve sa canne' d\u00e9crit un mouvement du personnage, qui n'est ni une entr\u00e9e, ni une sortie, ni une interaction avec un objet ou une autre personne. Le personnage l\u00e8ve simplement sa canne, ce qui correspond \u00e0 une action de mouvement.",
+  "confidence": 0.95,
+  "stgdir": "Il l\u00e8ve sa canne.",
+  "response_time": 1885.204792022705,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

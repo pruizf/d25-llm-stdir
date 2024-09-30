@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Parcourant la lettre.' d\u00e9crit une action g\u00e9n\u00e9rale du personnage, qui est celle de lire ou parcourir une lettre. Cette action ne rentre pas dans les cat\u00e9gories sp\u00e9cifiques comme l'agression, l'apart\u00e9, la delivery, l'entr\u00e9e, l'exit, l'interaction, le mouvement, la musique, la narration, l'objet, le setting ou l'indication de l'addressee d'un discours (toward). Par cons\u00e9quent, elle est class\u00e9e dans la cat\u00e9gorie 'action' qui englobe les actions g\u00e9n\u00e9rales des personnages.",
+  "confidence": 1.0,
+  "stgdir": "Parcourant la lettre.",
+  "response_time": 3253.736734390259,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

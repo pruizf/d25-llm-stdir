@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Elle montre le banc de pierre.' d\u00e9crit une interaction avec un objet (le banc de pierre). Le verbe 'montrer' implique une manipulation ou une indication d'un objet, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.95,
+  "stgdir": "Elle montre le banc de pierre.",
+  "response_time": 1981.6887378692627,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

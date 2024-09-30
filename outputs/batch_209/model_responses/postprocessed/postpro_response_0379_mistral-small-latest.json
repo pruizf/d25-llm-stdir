@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il va \u00e0 elle.' indique un mouvement sp\u00e9cifique d'un personnage vers un autre. Ce type de mouvement est class\u00e9 sous la cat\u00e9gorie 'movement' car il d\u00e9crit une action de d\u00e9placement qui n'est ni une entr\u00e9e ni une sortie de sc\u00e8ne.",
+  "confidence": 0.95,
+  "stgdir": "Il va \u00e0 elle.",
+  "response_time": 1943.446397781372,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

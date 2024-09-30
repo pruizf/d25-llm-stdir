@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'Il r\u00e9p\u00e8te encore ces quatre derniers vers' fait r\u00e9f\u00e9rence \u00e0 la mani\u00e8re dont un personnage r\u00e9p\u00e8te des vers, ce qui est une indication de la mani\u00e8re dont il parle ou chante. Cette description tombe clairement sous la cat\u00e9gorie 'delivery' qui inclut des indications sur la mani\u00e8re dont un personnage exprime des \u00e9motions ou parle.",
+  "confidence": 1,
+  "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+  "response_time": 2510.4308128356934,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

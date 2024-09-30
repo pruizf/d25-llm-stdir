@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 Antenor.' indique clairement l'addressee d'un discours ou d'une action. En fran\u00e7ais, '\u00c0' est souvent utilis\u00e9 pour indiquer \u00e0 qui ou quoi s'adresse une action ou un discours. Cette direction de sc\u00e8ne ne correspond pas aux autres cat\u00e9gories comme l'action g\u00e9n\u00e9rale, l'agression, l'apart\u00e9, la livraison, l'entr\u00e9e, l'exit, l'interaction, le mouvement, la musique, la narration, l'objet, ou le setting.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Antenor.",
+  "response_time": 3083.805561065674,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "The stage direction 'On entend des coups \u00e0 la porte d'en bas' indicates a violent action, specifically someone knocking at the door. This fits the definition of Category 1: aggression, which includes violent actions such as hitting, knocking, and threatening.",
+  "confidence": 0.95,
+  "stgdir": "On entend des coups \u00e0 la porte d'en bas.",
+  "response_time": 2225.533962249756,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

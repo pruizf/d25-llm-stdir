@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Ils s'enfuient hors du Palais, et le Roi continue.' indicates that the characters are leaving the stage (exiting). The verb 's'enfuient' means 'they flee' and 'hors du Palais' means 'out of the Palace', which clearly indicates that the characters are exiting the stage. The part 'et le Roi continue.' means 'and the King continues', which implies that the King remains on the stage while the other characters exit.",
+  "confidence": 1,
+  "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+  "response_time": 3756.7543983459473,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "La stage direction 'Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.' d\u00e9crit une interaction non-verbale entre deux personnages. Monsieur Hardouin touche et manipule le mantelet de Madame Bertrand, ce qui correspond \u00e0 la cat\u00e9gorie 'interaction' (6) qui inclut des actions comme toucher, manipuler ou aider.",
+  "confidence": 0.95,
+  "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+  "response_time": 3548.52294921875,
+  "model": "mistral-small-latest",
+  "categFull": "interaction"
+}

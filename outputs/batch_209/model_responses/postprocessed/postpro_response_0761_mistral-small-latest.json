@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction 'Au p\u00e8re de famille.' indique clairement l'addressee de la parole. En fran\u00e7ais, 'Au' suivi d'un nom propre ou d'un titre pr\u00e9cise g\u00e9n\u00e9ralement la personne \u00e0 laquelle s'adresse le personnage. Cette structure correspond \u00e0 la cat\u00e9gorie 'toward' (vers).",
+  "confidence": 1,
+  "stgdir": "Au p\u00e8re de famille.",
+  "response_time": 2101.029634475708,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

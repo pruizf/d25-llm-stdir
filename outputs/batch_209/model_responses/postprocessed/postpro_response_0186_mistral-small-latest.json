@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "La stage direction 'Ici l'actrice chante un morceau \u00e0 son choix.' d\u00e9crit une action musicale, car elle indique que l'actrice chante une pi\u00e8ce musicale. Le mot 'morceau' et l'action de 'chanter' sont des indications claires d'une action musicale.",
+  "confidence": 1,
+  "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+  "response_time": 2166.7516231536865,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

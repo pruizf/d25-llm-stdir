@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "La stage direction 'On entend un symphonie' d\u00e9crit un morceau de musique, ce qui correspond \u00e0 la cat\u00e9gorie 'musique'. Le mot 'Symphonie' indique clairement qu'il s'agit de musique, et non d'une action, d'un mouvement, d'un objet ou d'une autre cat\u00e9gorie.",
+  "confidence": 1,
+  "stgdir": "On entend un symphonie.",
+  "response_time": 2110.5258464813232,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.' d\u00e9crit une interaction sp\u00e9cifique avec un objet, en l'occurrence une lettre. Le verbe 'pr\u00e9senter' implique une action de manipulation et de transfert d'un objet, ce qui correspond \u00e0 la cat\u00e9gorie 'object'. Le fait que la lettre soit r\u00e9\u00e9crite et que le nom de C\u00e9line y soit ajout\u00e9 renforce l'id\u00e9e que l'action concerne un objet sp\u00e9cifique.",
+  "confidence": 0.95,
+  "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+  "response_time": 3737.7021312713623,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 Euph\u00e9mon fils' indique clairement l'addresseur de la parole. En fran\u00e7ais, '\u00c0' suivi du nom d'une personne est g\u00e9n\u00e9ralement utilis\u00e9 pour indiquer que la parole est dirig\u00e9e vers cette personne. Cette construction est typique des didascalies qui sp\u00e9cifient l'addresseur d'un discours.",
+  "confidence": 0.95,
+  "stgdir": "\u00c0 Euph\u00e9mon fils.",
+  "response_time": 3399.1150856018066,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

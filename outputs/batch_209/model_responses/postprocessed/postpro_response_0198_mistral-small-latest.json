@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'On entend des clameurs en dehors' d\u00e9crit un \u00e9v\u00e9nement sonore se produisant \u00e0 l'ext\u00e9rieur du lieu de la sc\u00e8ne. Cette description s'apparente \u00e0 la cat\u00e9gorie 'narration' (9) car elle d\u00e9crit un \u00e9v\u00e9nement non-visuel qui aide \u00e0 \u00e9tablir l'ambiance de la sc\u00e8ne. Cependant, elle se distingue par son focus sur un \u00e9l\u00e9ment sonore sp\u00e9cifique (les clameurs) qui n'est pas un dialogue ou une musique, ce qui la rend plus pertinente pour la cat\u00e9gorie 'delivery manner' (3).",
+  "confidence": 0.9,
+  "stgdir": "On entend des clameurs en dehors.",
+  "response_time": 3187.4048709869385,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

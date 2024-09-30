@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.' describes characters exiting the stage, which matches the definition of the 'exit' category. The verb 'sortent' means 'they exit' and the phrase 'pr\u00e9c\u00e9dant le roi' indicates the movement of the duke ahead of the king while exiting.",
+  "confidence": 1,
+  "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+  "response_time": 2483.588218688965,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

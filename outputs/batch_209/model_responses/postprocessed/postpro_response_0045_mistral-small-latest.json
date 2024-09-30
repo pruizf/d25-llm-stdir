@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle s'\u00e9tend dans un fauteuil.' d\u00e9crit une action de mouvement de la part du personnage, qui s'assoit dans un fauteuil. Cette action ne concerne ni l'entr\u00e9e ni la sortie du personnage, ni une interaction avec un objet, mais bien un mouvement sp\u00e9cifique sur sc\u00e8ne. Cela correspond donc \u00e0 la cat\u00e9gorie 'movement' (cat\u00e9gorie 7).",
+  "confidence": 1,
+  "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+  "response_time": 2781.9290161132812,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

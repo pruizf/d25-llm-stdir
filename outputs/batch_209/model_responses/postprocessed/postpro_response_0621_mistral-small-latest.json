@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction mentionne l'interaction de Don Juan avec des objets, notamment le fait de demander \u00e0 boire et de quitter son verre. Apr\u00e8s l'intervention de l'Ombre, Don Juan boit. Ces actions impliquent des objets comme le verre et la boisson, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+  "response_time": 2842.5064086914062,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

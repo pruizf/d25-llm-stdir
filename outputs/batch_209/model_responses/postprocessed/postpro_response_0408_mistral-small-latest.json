@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Frontin s'en va.' indique que le personnage Frontin quitte la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'exit' (d\u00e9part de la sc\u00e8ne). Les verbes 's'en aller' et 'sortir' sont des indicateurs clairs de cette cat\u00e9gorie.",
+  "confidence": 1,
+  "stgdir": "Frontin s'en va.",
+  "response_time": 1960.3919982910156,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'On entend un outil qui fourrage dans la serrure.' d\u00e9crit une interaction avec un objet, \u00e0 savoir un outil qui est utilis\u00e9 pour tenter de forcer une serrure. Cette interaction avec un objet rel\u00e8ve de la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "On entend un outil qui fourrage dans la serrure.",
+  "response_time": 1857.6323986053467,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

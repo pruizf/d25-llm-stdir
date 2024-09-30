@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il est rest\u00e9 assis sur le remblai.' d\u00e9crit une action de mouvement, plus pr\u00e9cis\u00e9ment une action de rester assis, qui ne rel\u00e8ve ni d'une entr\u00e9e ni d'une sortie. Cette cat\u00e9gorie de mouvement est bien repr\u00e9sent\u00e9e par la cat\u00e9gorie 7.",
+  "confidence": 0.9,
+  "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+  "response_time": 2058.856964111328,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

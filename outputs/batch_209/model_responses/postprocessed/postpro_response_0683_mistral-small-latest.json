@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Blanche retire \u00e0 elle la faveur, et fait remonter la lettre' d\u00e9crit une action sp\u00e9cifique impliquant un objet, la lettre. Blanche manipule cet objet en le r\u00e9cup\u00e9rant puis en le faisant remonter. Cette action correspond \u00e0 la cat\u00e9gorie 'object' qui englobe les interactions avec des objets, qu'il s'agisse de les donner, les recevoir, les manipuler, etc.",
+  "confidence": 0.9,
+  "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+  "response_time": 2684.443712234497,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

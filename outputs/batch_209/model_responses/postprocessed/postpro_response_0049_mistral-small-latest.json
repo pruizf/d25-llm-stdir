@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du th\u00e9\u00e2tre.' d\u00e9crit une action g\u00e9n\u00e9rale du personnage Alfred, qui exprime un sentiment de d\u00e9sespoir en regardant les officiers situ\u00e9s au fond du th\u00e9\u00e2tre. Cette action ne correspond pas \u00e0 une autre cat\u00e9gorie sp\u00e9cifique comme l'agression, l'apart\u00e9, la delivery, l'entr\u00e9e, l'exit, l'interaction, le mouvement, la musique, la narration, l'object ou le setting. Elle est donc class\u00e9e dans la cat\u00e9gorie 0, qui repr\u00e9sente une action g\u00e9n\u00e9rale du personnage.",
+  "confidence": 0.9,
+  "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+  "response_time": 3354.2799949645996,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

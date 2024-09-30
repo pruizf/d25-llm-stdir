@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La stage direction 'Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de ville' d\u00e9crit la sc\u00e8ne et le lieu o\u00f9 se d\u00e9roule l'action. Elle correspond donc \u00e0 la cat\u00e9gorie 'setting' (11) qui concerne la description du d\u00e9cor ou du lieu de l'action.",
+  "confidence": 1,
+  "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+  "response_time": 1980.088472366333,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

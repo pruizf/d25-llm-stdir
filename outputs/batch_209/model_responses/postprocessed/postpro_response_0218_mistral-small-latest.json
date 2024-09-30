@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'On entend la voix de J\u00e9r\u00f4me qui appelle Babet.' indique que l'on entend la voix de J\u00e9r\u00f4me, ce qui rel\u00e8ve de la cat\u00e9gorie 'delivery' car elle d\u00e9crit la mani\u00e8re dont la voix de J\u00e9r\u00f4me est entendue. Cette cat\u00e9gorie inclut des descriptions sur la voix, les sons ou les expressions vocales des personnages.",
+  "confidence": 0.95,
+  "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+  "response_time": 2426.9609451293945,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

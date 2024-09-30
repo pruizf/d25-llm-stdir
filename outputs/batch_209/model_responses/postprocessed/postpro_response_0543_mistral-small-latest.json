@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Philis demande son portrait' implique une interaction avec un objet (le portrait). Cette action peut \u00eatre class\u00e9e dans la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets, y compris donner ou recevoir un objet.",
+  "confidence": 0.9,
+  "stgdir": "AIR: Philis demande son portrait.",
+  "response_time": 1728.212594985962,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "La stage direction 'On entend dans le lointain des cris et une marche militaire.' d\u00e9crit une situation musicale, car elle mentionne des sons sp\u00e9cifiques: des cris et une marche militaire. En fran\u00e7ais, les stage directions commen\u00e7ant par 'On entend' suivies d'une description sonore sont g\u00e9n\u00e9ralement class\u00e9es dans la cat\u00e9gorie 'music'.",
+  "confidence": 0.95,
+  "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+  "response_time": 2308.7306022644043,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

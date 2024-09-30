@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.' indique clairement l'addressee de la parole ou de l'action suivante. Elle suit la structure typique des directions de sc\u00e8ne en fran\u00e7ais o\u00f9 '\u00e0' est utilis\u00e9 pour indiquer \u00e0 qui un personnage parle ou s'adresse. Cela correspond parfaitement \u00e0 la d\u00e9finition de la cat\u00e9gorie 'toward' (vers).",
+  "confidence": 1,
+  "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+  "response_time": 2354.1219234466553,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

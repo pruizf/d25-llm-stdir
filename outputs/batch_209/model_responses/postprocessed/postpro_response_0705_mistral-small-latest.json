@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle va au lit de la petite Dusault.' d\u00e9crit un mouvement de la part d'un personnage, sp\u00e9cifiquement se dirigeant vers un objet (le lit). Ce type de mouvement non-li\u00e9 \u00e0 une entr\u00e9e ou sortie de sc\u00e8ne correspond bien \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.9,
+  "stgdir": "Elle va au lit de la petite Dusault.",
+  "response_time": 2119.0459728240967,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

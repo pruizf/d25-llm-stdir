@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La stage direction 'Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.' d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre et l'appartement de Rosine, ainsi que la disposition des fen\u00eatres. Cette description correspond \u00e0 la cat\u00e9gorie 'setting' qui concerne les d\u00e9tails sur le lieu de la pi\u00e8ce et son am\u00e9nagement.",
+  "confidence": 1,
+  "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+  "response_time": 2590.0561809539795,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

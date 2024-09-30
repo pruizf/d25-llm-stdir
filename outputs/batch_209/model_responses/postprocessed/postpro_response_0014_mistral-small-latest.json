@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction 'S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.' describes a character's movement (but not an entrance or exit). The verb 'S'asseyant' (sitting down) indicates a movement, specifically, the character is sitting down on a chair near the table to the left. This fits well with Category 7: movement.",
+  "confidence": 0.95,
+  "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+  "response_time": 2287.679433822632,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

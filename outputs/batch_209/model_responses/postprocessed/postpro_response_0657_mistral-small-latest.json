@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Ils tendent tous deux la main, et prennent l'argent.' d\u00e9crit une interaction avec un objet (l'argent) et une manipulation de cet objet (prendre). Cette action est clairement en lien avec la cat\u00e9gorie 'object' qui inclut des verbes comme 'prendre', 'give', 'manipulate', etc.",
+  "confidence": 1,
+  "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+  "response_time": 3669.6689128875732,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

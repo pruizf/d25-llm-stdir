@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Il sort par la petite porte \u00e0 droite.' indique clairement que le personnage quitte la sc\u00e8ne par une petite porte situ\u00e9e \u00e0 droite. Ce type de direction est typiquement associ\u00e9 \u00e0 une action d'exit, comme d\u00e9fini dans la cat\u00e9gorie 5.",
+  "confidence": 1,
+  "stgdir": "Il sort par la petite porte \u00e0 droite.",
+  "response_time": 2287.6546382904053,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

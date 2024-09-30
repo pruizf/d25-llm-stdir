@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "The stage direction describes non-verbal interactions between the characters, such as 'Il lui fait signe de ne pas faire du bruit', 'Ils marchent doucement', and 'Il prend son fils par la main, la serre avec tendresse'. These actions involve physical contact and gestures, which fall under the category of 'interaction'.",
+  "confidence": 0.95,
+  "stgdir": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible :",
+  "response_time": 2389.8558616638184,
+  "model": "mistral-small-latest",
+  "categFull": "interaction"
+}

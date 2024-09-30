@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction \"Il veut partir.\" indique une action g\u00e9n\u00e9rale du personnage qui ne rentre dans aucune des cat\u00e9gories sp\u00e9cifiques comme l'agression, l'apart\u00e9, la mani\u00e8re de parler, l'entr\u00e9e, la sortie, l'interaction non verbale, le mouvement, la musique, la narration, l'objet ou le cadre. C'est une action simple et directe que le personnage veut accomplir.",
+  "confidence": 1,
+  "stgdir": "Il veut partir.",
+  "response_time": 2704.214096069336,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

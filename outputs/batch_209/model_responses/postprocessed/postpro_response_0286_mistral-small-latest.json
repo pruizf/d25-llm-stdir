@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "La stage direction 'Il prend Albert' indique une action violente puisqu'elle implique la prise physique d'une personne, ce qui est typique des actions d'agression. Les exemples donn\u00e9s pour la cat\u00e9gorie 1 incluent des actions comme 'Il prend Hector \u00e0 la cravate' et 'Il prend son \u00e9p\u00e9e par la pointe', qui sont similaires \u00e0 'Il prend Albert'.",
+  "confidence": 0.95,
+  "stgdir": "Il prend Albert.",
+  "response_time": 2492.7990436553955,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

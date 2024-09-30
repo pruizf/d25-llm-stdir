@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 Antonin.' indique clairement l'addressee d'un discours. En fran\u00e7ais, '\u00c0' suivi d'un nom propre est utilis\u00e9 pour indiquer \u00e0 qui un personnage s'adresse. Cela correspond parfaitement \u00e0 la cat\u00e9gorie 'toward' qui est d\u00e9finie comme indiquant l'addressee d'un discours.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Antonin.",
+  "response_time": 2672.344446182251,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

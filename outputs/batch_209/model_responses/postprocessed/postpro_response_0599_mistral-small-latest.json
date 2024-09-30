@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "The stage direction 'On entend un grand bruit du c\u00f4t\u00e9 de la maison.' describes a significant noise occurring near the house, which fits best under the 'narration' category. This category is used for long stage directions that narrate a sequence of actions or describe noises and weather events. The direction does not specify a character's action, entrance, exit, or interaction with an object, but rather describes an environmental event that affects the atmosphere of the scene.",
+  "confidence": 0.95,
+  "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+  "response_time": 2265.8283710479736,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

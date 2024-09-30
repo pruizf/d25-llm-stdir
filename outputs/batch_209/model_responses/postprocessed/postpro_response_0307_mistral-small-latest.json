@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Elle sort avec Val\u00e8re.' indicates that the character Elle is leaving the stage, accompanied by Val\u00e8re. This fits the category 'exit' (category 5) which is defined as 'Character exits'. The verb 'sortir' in French means 'to leave' or 'to exit', and the presence of 'avec Val\u00e8re' indicates that they are exiting together.",
+  "confidence": 1,
+  "stgdir": "Elle sort avec Val\u00e8re.",
+  "response_time": 2099.282741546631,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

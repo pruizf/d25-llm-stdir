@@ -1,0 +1,8 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'L\u00e9on fait un grand mouvement' d\u00e9crit une action de mouvement g\u00e9n\u00e9ral de L\u00e9on. Il n'y a pas d'indication de violence, donc la cat\u00e9gorie 'aggression' (1) ne s'applique pas. Ce n'est pas une interaction verbale, donc la cat\u00e9gorie 'aparte' (2) ne s'applique pas. Ce n'est pas une indication de mani\u00e8re de parler ou de chanter, donc la cat\u00e9gorie 'delivery' (3) ne s'applique pas. L\u00e9on ne entre ni ne sort de sc\u00e8ne, donc les cat\u00e9gories 'entrance' (4) et 'exit' (5) ne s'appliquent pas. Ce n'est pas une interaction non-verbale, donc la cat\u00e9gorie 'interaction' (6) ne s'applique pas. Ce n'est pas une indication musicale, donc la cat\u00e9gorie 'music' (8) ne s'applique pas. Ce n'est pas une longue description narrative, donc la cat\u00e9gorie 'narration' (9) ne s'applique pas. Ce n'est pas une description d'objet ou d'interaction avec un objet, donc la cat\u00e9gorie 'object' (10) ne s'applique pas. Ce n'est pas une description de lieu ou de d\u00e9cor, donc la cat\u00e9gorie 'setting' (11) ne s'applique pas. Ce n'est pas une indication de destinataire de parole, donc la cat\u00e9gorie 'toward' (12) ne s'applique pas. La cat\u00e9gorie 'movement' (7) est donc la plus appropri\u00e9e.",
+  "stgdir": "L\u00e9on fait un grand mouvement.",
+  "response_time": 7677.322864532471,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

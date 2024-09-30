@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne 'Elle regarde du c\u00f4t\u00e9 de la porte' indique clairement que le personnage dirige son regard vers un endroit sp\u00e9cifique, en l'occurrence la porte. Cette action est typique de la cat\u00e9gorie 'toward', qui indique l'addressee d'une parole ou d'un regard.",
+  "confidence": 0.9,
+  "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+  "response_time": 4330.477714538574,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

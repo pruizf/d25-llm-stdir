@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "La stage direction 'Air 62 : R\u00e9veillez-vous, belle Endormie.' contient le verbe 'R\u00e9veillez-vous', qui peut \u00eatre interpr\u00e9t\u00e9 comme une tentative de r\u00e9veiller quelqu'un, ce qui peut \u00eatre consid\u00e9r\u00e9 comme une action violente ou agressive. Bien que ce ne soit pas une action physique directe, cela implique une intention d'interrompre ou de perturber l'\u00e9tat de quelqu'un, ce qui correspond \u00e0 la cat\u00e9gorie 'agression'.",
+  "confidence": 0.8,
+  "stgdir": "Air 62 : R\u00e9veillez-vous, belle Endormie.",
+  "response_time": 3031.6734313964844,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

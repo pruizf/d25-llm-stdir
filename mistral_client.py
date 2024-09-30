@@ -77,11 +77,14 @@ if __name__ == "__main__":
     os.makedirs(cf.log_dir)
 
   # run the client
-  #mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY_P"))
+  # mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY_P"))
   mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   for idx, row in stdirs.iterrows():
+    #TODO remove this
+    if False and idx in (38, 238, 315):
+      continue
     if False and idx > 3:
       break
 
