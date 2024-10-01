@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.' d\u00e9crit un mouvement de fuite ou de retrait d'un personnage ('se sauve'). Ce mouvement sp\u00e9cifique ('reculant' et 'se sauve') correspond \u00e0 la cat\u00e9gorie 'movement' (cat\u00e9gorie 7) car il implique une action de d\u00e9placement sans \u00eatre une entr\u00e9e ou une sortie de sc\u00e8ne.",
+  "confidence": 0.9,
+  "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+  "response_time": 2627.8786659240723,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

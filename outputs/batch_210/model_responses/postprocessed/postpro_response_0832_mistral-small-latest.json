@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 \u00c9rix\u00e8ne.' indique clairement un lieu ou un cadre o\u00f9 se d\u00e9roule l'action. En fran\u00e7ais, '\u00c0' pr\u00e9c\u00e9dant un nom de lieu est g\u00e9n\u00e9ralement utilis\u00e9 pour indiquer le lieu de l'action. Par cons\u00e9quent, cette direction de sc\u00e8ne se rapporte \u00e0 la cat\u00e9gorie 'setting' (lieu de la pi\u00e8ce).",
+  "confidence": 0.95,
+  "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+  "response_time": 2239.6669387817383,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

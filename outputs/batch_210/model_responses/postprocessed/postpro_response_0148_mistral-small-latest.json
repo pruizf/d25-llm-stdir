@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "La stage direction 'Il met la main \u00e0 l'\u00e9p\u00e9e' (Il met la main sur l'\u00e9p\u00e9e) est une action violente impliquant une arme, ce qui correspond \u00e0 la cat\u00e9gorie 1: aggression.",
+  "confidence": 1,
+  "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+  "response_time": 2483.720541000366,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

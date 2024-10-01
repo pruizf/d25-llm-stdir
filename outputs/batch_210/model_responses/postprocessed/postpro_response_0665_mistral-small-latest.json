@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant.' d\u00e9crit une interaction avec un objet, \u00e0 savoir la couronne de laurier, et une action sp\u00e9cifique li\u00e9e \u00e0 cet objet, \u00e0 savoir la pr\u00e9sentation et l'installation de cette couronne. Cela correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets, y compris la remise d'objets.",
+  "confidence": 0.9,
+  "stgdir": "Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant.",
+  "response_time": 2817.2855377197266,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

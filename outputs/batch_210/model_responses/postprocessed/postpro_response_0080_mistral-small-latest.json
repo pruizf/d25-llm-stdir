@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :' d\u00e9crit une action g\u00e9n\u00e9rale du personnage d'Adam qui l\u00e8ve la main et montre le fruit d\u00e9fendu tout en parlant. Cette action ne rentre dans aucune des autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'apart\u00e9, la delivery, l'entr\u00e9e, l'exit, l'interaction, le mouvement, la musique, la narration, l'object, le setting ou le toward.",
+  "confidence": 1.0,
+  "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+  "response_time": 2842.219352722168,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

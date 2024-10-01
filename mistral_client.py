@@ -82,9 +82,10 @@ if __name__ == "__main__":
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   for idx, row in stdirs.iterrows():
-    #TODO remove this
-    if False and idx in (38, 238, 315):
-      continue
+    # with mistral small and en few-shot, for 315, 320, 335, 402
+    # had to remove the random seed to get a different response, given JSON errors
+    # if False and idx in (38, 238, 315, 320, 335, 402):
+    #   continue
     if False and idx > 3:
       break
 

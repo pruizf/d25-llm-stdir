@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 Albert.' indique clairement l'addressee d'une parole. En fran\u00e7ais, l'expression '\u00c0' suivie d'un nom propre est utilis\u00e9e pour indiquer \u00e0 qui la parole est destin\u00e9e. Cela correspond parfaitement \u00e0 la d\u00e9finition de la cat\u00e9gorie 'toward' qui se r\u00e9f\u00e8re \u00e0 l'indication de l'interlocuteur de la parole.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Albert.",
+  "response_time": 2578.5155296325684,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

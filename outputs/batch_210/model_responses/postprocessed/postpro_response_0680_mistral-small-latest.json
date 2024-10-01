@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il lui donne deux lettres dont il lit l'inscription.' d\u00e9crit une interaction avec des objets (les lettres) et une action sp\u00e9cifique (lire l'inscription). Cette description correspond parfaitement \u00e0 la cat\u00e9gorie 'object' qui englobe les actions impliquant des objets, comme donner, lire, ou manipuler un objet.",
+  "confidence": 1,
+  "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+  "response_time": 2284.6806049346924,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

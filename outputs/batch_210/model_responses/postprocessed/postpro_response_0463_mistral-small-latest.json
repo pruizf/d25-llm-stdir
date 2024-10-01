@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "La stage direction 'AIR. La mort de mon cher p\u00e8re.' ne se classe pas dans les cat\u00e9gories habituelles d'action, d'agression, d'aparte, de delivery, d'entrance, d'exit, d'interaction, de movement, de music, d'object ou de setting. Elle semble \u00eatre une indication musicale, souvent pr\u00e9c\u00e9d\u00e9e du mot 'AIR', et d\u00e9crivant la nature de la musique \u00e0 jouer. Cependant, elle pourrait \u00e9galement \u00eatre une narration d\u00e9crivant une s\u00e9quence d'actions ou un \u00e9v\u00e9nement important dans la pi\u00e8ce.",
+  "confidence": 0.8,
+  "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+  "response_time": 2895.1785564422607,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

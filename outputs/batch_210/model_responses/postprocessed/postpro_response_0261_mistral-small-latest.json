@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "The stage direction describes the movements of Fritelin and the crowd, but does not involve an entrance or exit. Fritelin descends into the crowd and arranges them in a circle. The movement of the characters is clearly indicated, but it is not a general character action that fits category 0, nor does it involve any of the other specific categories listed.",
+  "confidence": 0.95,
+  "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+  "response_time": 2130.641222000122,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

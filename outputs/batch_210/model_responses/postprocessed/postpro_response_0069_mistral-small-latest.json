@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il va aux fontaines et boit.' d\u00e9crit un mouvement du personnage sans indiquer d'entr\u00e9e ou de sortie de sc\u00e8ne. Le verbe 'va' et l'action 'boit' sont des actions simples de d\u00e9placement et d'interaction avec un objet, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "Il va aux fontaines et boit.",
+  "response_time": 2779.2811393737793,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

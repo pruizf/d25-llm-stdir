@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction '\u00c0 Guillaume.' indique clairement le destinataire de la parole. En fran\u00e7ais, '\u00c0' suivi d'un nom propre signifie g\u00e9n\u00e9ralement '\u00e0 l'attention de', ce qui correspond bien \u00e0 la cat\u00e9gorie 'toward' qui sp\u00e9cifie l'addressee de la parole.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Guillaume.",
+  "response_time": 2154.9673080444336,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

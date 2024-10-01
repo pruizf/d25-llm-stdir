@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il lui met le manteau royal.' d\u00e9crit une interaction avec un objet, sp\u00e9cifiquement le fait de mettre un manteau \u00e0 quelqu'un. Cette action est clairement cat\u00e9goris\u00e9e comme 'object' car elle implique la manipulation d'un objet (le manteau) et son utilisation pour une autre personne.",
+  "confidence": 1,
+  "stgdir": "Il lui met le manteau royal.",
+  "response_time": 2206.547737121582,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

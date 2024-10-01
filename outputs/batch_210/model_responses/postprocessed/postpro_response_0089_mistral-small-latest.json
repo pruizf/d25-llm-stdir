@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle s'\u00e9loigne avec Perillo' d\u00e9crit un mouvement de la part d'un personnage (Elle) en compagnie d'un autre personnage (Perillo). Le verbe 's'\u00e9loigner' indique un d\u00e9placement sans pr\u00e9ciser de direction ou de destination sp\u00e9cifique, ce qui correspond \u00e0 la cat\u00e9gorie 'movement' (CATEGORY 7).",
+  "confidence": 0.95,
+  "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+  "response_time": 2963.446617126465,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

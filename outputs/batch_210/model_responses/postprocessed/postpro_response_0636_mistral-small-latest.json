@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'Elle remet la lettre \u00e0 Julie.' fait r\u00e9f\u00e9rence \u00e0 la mani\u00e8re dont une action est accomplie, en l'occurrence la remise d'une lettre. Cette action peut \u00eatre accomplie de diff\u00e9rentes mani\u00e8res, comme avec une voix particuli\u00e8re, une \u00e9motion, ou une gestuelle sp\u00e9cifique. La cat\u00e9gorie 'delivery' est donc la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Elle remet la lettre a Julie.",
+  "response_time": 2597.1858501434326,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

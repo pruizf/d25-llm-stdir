@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Ils se mettent \u00e0 table.' d\u00e9crit une action de mouvement des personnages sans indiquer une entr\u00e9e ou une sortie de sc\u00e8ne. Ils se d\u00e9placent pour s'asseoir \u00e0 une table, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "Ils se mettent \u00e0 table.",
+  "response_time": 1955.6410312652588,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

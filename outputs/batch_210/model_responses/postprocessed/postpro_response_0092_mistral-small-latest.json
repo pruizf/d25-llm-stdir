@@ -1,0 +1,9 @@
+{
+  "category": "1",
+  "explanation": "La stage direction d\u00e9crit une action de provocation qui pourrait mener \u00e0 une bagarre, ce qui est typique des actions d'agression. Le geste de croiser les doigts comme pour exciter des animaux \u00e0 se battre est clairement une action agressive.",
+  "confidence": 0.95,
+  "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+  "response_time": 2641.9107913970947,
+  "model": "mistral-small-latest",
+  "categFull": "aggression"
+}

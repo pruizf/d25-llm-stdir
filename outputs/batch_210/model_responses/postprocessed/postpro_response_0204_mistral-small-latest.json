@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "La stage direction 'On entend dans le lointain des cris et une marche militaire.' d\u00e9crit un \u00e9l\u00e9ment sonore sp\u00e9cifique, \u00e0 savoir des cris et une marche militaire. En se basant sur la d\u00e9finition des cat\u00e9gories, cette description correspond le mieux \u00e0 la cat\u00e9gorie 'musique' (Cat\u00e9gorie 8), car elle se rapporte \u00e0 une description de musique ou de bruit sp\u00e9cifique. Les autres cat\u00e9gories ne correspondent pas aussi bien, car elles impliquent des actions sp\u00e9cifiques des personnages ou des \u00e9l\u00e9ments de d\u00e9cor qui ne sont pas pr\u00e9sents dans cette stage direction.",
+  "confidence": 0.95,
+  "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+  "response_time": 3402.8143882751465,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

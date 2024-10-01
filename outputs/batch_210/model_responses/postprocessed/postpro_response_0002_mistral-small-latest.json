@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La stage direction d\u00e9crit le d\u00e9cor et l'emplacement de l'action sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'setting'. Elle mentionne une table charg\u00e9e de plans, de livres et de papiers, et \u00e9voque une ambiance de travail ou de pr\u00e9paration d'un \u00e9v\u00e9nement public, sans se concentrer sur les actions sp\u00e9cifiques des personnages.",
+  "confidence": 0.9,
+  "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+  "response_time": 2376.0595321655273,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

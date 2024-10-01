@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne 'Aux deux courtisans.' indique clairement l'addressee d'une parole ou d'une action. En fran\u00e7ais, l'expression 'aux' suivie de noms de personnes ou de titres est utilis\u00e9e pour indiquer \u00e0 qui s'adresse un personnage. Cette direction de sc\u00e8ne correspond donc \u00e0 la cat\u00e9gorie 'toward' (vers), qui indique le destinataire d'une parole.",
+  "confidence": 1,
+  "stgdir": "Aux deux courtisans.",
+  "response_time": 2438.6870861053467,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

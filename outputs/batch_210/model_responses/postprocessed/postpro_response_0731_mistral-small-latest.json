@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La stage direction d\u00e9crit un d\u00e9cor de sc\u00e8ne, incluant des \u00e9l\u00e9ments sp\u00e9cifiques tels qu'un salon de coiffeur, des toilettes, des perruques, une table avec des perruques, un r\u00e9chaud, des robes de chambre, des portes, et des chaises. Ces \u00e9l\u00e9ments constituent une description d\u00e9taill\u00e9e de l'environnement sc\u00e9nique.",
+  "confidence": 1,
+  "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+  "response_time": 2354.7964096069336,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

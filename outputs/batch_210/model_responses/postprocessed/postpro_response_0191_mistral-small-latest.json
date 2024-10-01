@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Il interrompt la lecture.' d\u00e9crit une action g\u00e9n\u00e9rale du personnage qui n'est pas couverte par les autres cat\u00e9gories sp\u00e9cifiques comme l'agression, l'apart\u00e9, la mani\u00e8re de parler, l'entr\u00e9e, la sortie, l'interaction non verbale, la musique, la narration, l'objet, le d\u00e9cor ou l'indication de l'addressee. Elle rel\u00e8ve donc de la cat\u00e9gorie 'action' car elle d\u00e9crit une interruption dans une activit\u00e9 de lecture, qui est une action g\u00e9n\u00e9rale.",
+  "confidence": 1,
+  "stgdir": "[Il interrompt la lecture. ]",
+  "response_time": 3150.4974365234375,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

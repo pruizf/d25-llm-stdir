@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "L'expression 'ENSEMBLE' dans une didascalie fait r\u00e9f\u00e9rence \u00e0 une action collective o\u00f9 plusieurs personnages agissent ou parlent en m\u00eame temps. Cette action n'est pas sp\u00e9cifiquement une entr\u00e9e (cat\u00e9gorie 4), une sortie (cat\u00e9gorie 5), une interaction non verbale (cat\u00e9gorie 6), un mouvement particulier (cat\u00e9gorie 7), une musique (cat\u00e9gorie 8), une narration (cat\u00e9gorie 9), un objet (cat\u00e9gorie 10), un d\u00e9cor (cat\u00e9gorie 11), ou une direction vers un personnage (cat\u00e9gorie 12). Elle est plut\u00f4t une action g\u00e9n\u00e9rale qui ne rentre pas dans les autres cat\u00e9gories sp\u00e9cifiques.",
+  "confidence": 1,
+  "stgdir": "ENSEMBLE",
+  "response_time": 3650.9242057800293,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

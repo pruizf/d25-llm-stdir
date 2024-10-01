@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'On sort de table, et on l'emporte.' indicates that the characters are leaving the table and taking it away. This action fits the category 'exit' (Cat\u00e9gorie 5) because it describes characters leaving the stage with an object, which is a specific type of exit action.",
+  "confidence": 0.95,
+  "stgdir": "On sort de table, et on l'emporte.",
+  "response_time": 2258.470058441162,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

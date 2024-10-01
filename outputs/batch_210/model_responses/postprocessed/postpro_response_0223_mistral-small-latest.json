@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'D'un ton s\u00e9v\u00e8re' se r\u00e9f\u00e8re \u00e0 la mani\u00e8re dont un personnage prononce ses paroles, sp\u00e9cifiquement avec un ton s\u00e9v\u00e8re. Cela correspond \u00e0 la cat\u00e9gorie 'delivery', qui concerne la mani\u00e8re dont un personnage exprime des \u00e9motions ou des attitudes \u00e0 travers sa voix.",
+  "confidence": 0.95,
+  "stgdir": "D'un ton s\u00e9v\u00e8re.",
+  "response_time": 2365.853786468506,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

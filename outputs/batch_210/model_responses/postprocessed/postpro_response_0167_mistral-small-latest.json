@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il en donne dans la porte qu'il met par terre.' d\u00e9crit une interaction avec un objet, \u00e0 savoir la porte. Le personnage donne un coup dans la porte, puis la met par terre. Cela correspond \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions avec des objets.",
+  "confidence": 0.95,
+  "stgdir": "Il en donne dans la porte qu'il met par terre.",
+  "response_time": 2353.6996841430664,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

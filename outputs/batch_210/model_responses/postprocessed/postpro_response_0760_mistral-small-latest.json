@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "La stage direction 'L\u00e9onore lui propose une longue entrevue avec Julie.' d\u00e9crit une interaction non-verbale entre L\u00e9onore et un autre personnage (Julie). L\u00e9onore propose une entrevue, ce qui implique une interaction mais pas n\u00e9cessairement un dialogue ou une action verbale. La cat\u00e9gorie 'interaction' est donc la plus appropri\u00e9e.",
+  "confidence": 0.95,
+  "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+  "response_time": 2088.66810798645,
+  "model": "mistral-small-latest",
+  "categFull": "interaction"
+}

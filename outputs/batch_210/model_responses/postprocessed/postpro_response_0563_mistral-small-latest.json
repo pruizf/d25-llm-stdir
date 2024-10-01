@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction 'Air I. R\u00e9veillez-vous, belle Endormie.' indique l'adresse de la parole, c'est-\u00e0-dire \u00e0 qui le personnage s'adresse. Le terme '\u00e0' suivi du nom du personnage est une indication claire que le personnage parle \u00e0 quelqu'un d'autre. Cela correspond \u00e0 la cat\u00e9gorie 'toward' (vers) qui d\u00e9signe le destinataire de la parole.",
+  "confidence": 1,
+  "stgdir": "Air I. R\u00e9veillez-vous, belle Endormie.",
+  "response_time": 2725.477933883667,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

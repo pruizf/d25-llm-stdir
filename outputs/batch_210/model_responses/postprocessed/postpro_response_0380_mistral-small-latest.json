@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Tous reviennent, et Madame Raquin remet la lampe sur la table.' d\u00e9crit une action impliquant un objet, \u00e0 savoir la lampe. Madame Raquin interagit avec cet objet en le remettant sur la table. Cette interaction avec un objet correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 1,
+  "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+  "response_time": 3129.244804382324,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

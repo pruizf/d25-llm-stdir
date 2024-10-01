@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il signe' indique une action sp\u00e9cifique avec un objet, \u00e0 savoir la signature d'un document. Cette action implique l'interaction avec un objet (le document), ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.95,
+  "stgdir": "Il signe.",
+  "response_time": 3469.512701034546,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 l'Inspecteur des B\u00e2timents.' indique un lieu sp\u00e9cifique sur la sc\u00e8ne, en l'occurrence la mention de l'Inspecteur des B\u00e2timents. Cela rel\u00e8ve de la description de l'emplacement ou du d\u00e9cor de la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'setting'.",
+  "confidence": 0.9,
+  "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+  "response_time": 2303.3266067504883,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

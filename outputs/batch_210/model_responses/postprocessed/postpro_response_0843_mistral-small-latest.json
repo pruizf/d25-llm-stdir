@@ -1,0 +1,9 @@
+{
+  "category": "6",
+  "explanation": "La stage direction 'Il parle \u00e0 Haly' indique une interaction non-verbale entre deux personnages. Ici, le verbe 'parler' est utilis\u00e9 au sens de 's'adresser \u00e0' ou 'converser avec', ce qui correspond \u00e0 la cat\u00e9gorie 'interaction'. Cette interaction est non-verbale car elle ne sp\u00e9cifie pas les paroles \u00e9chang\u00e9es mais seulement le fait de parler \u00e0 quelqu'un.",
+  "confidence": 0.9,
+  "stgdir": "Il parle \u00e0 Haly.",
+  "response_time": 2608.9348793029785,
+  "model": "mistral-small-latest",
+  "categFull": "interaction"
+}

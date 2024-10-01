@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne 'Il va \u00e0 elle.' indique que le personnage se dirige vers quelqu'un, ce qui correspond \u00e0 la cat\u00e9gorie 'toward' qui est utilis\u00e9e pour indiquer le destinataire d'une parole. Bien que cette direction de sc\u00e8ne n'inclue pas de parole, elle indique clairement une direction vers quelqu'un, ce qui est coh\u00e9rent avec la cat\u00e9gorie 'toward'.",
+  "confidence": 1,
+  "stgdir": "Il va \u00e0 elle.",
+  "response_time": 2598.8848209381104,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

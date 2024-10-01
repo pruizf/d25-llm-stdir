@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.' indique une action li\u00e9e \u00e0 la mani\u00e8re dont les personnages chantent ou r\u00e9p\u00e8tent des vers. Cette action rel\u00e8ve de la cat\u00e9gorie 'delivery' car elle concerne la mani\u00e8re dont les personnages ex\u00e9cutent leur chant ou leur r\u00e9p\u00e9tition.",
+  "confidence": 0.95,
+  "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+  "response_time": 4294.394254684448,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

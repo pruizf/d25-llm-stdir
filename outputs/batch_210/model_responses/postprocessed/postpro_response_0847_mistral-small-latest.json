@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne '\u00c0 Spartacus.' indique clairement l'addressee de la parole ou de l'action. En fran\u00e7ais, '\u00c0' suivi d'un nom propre est une indication commune pour montrer \u00e0 qui s'adresse une parole ou une action sur sc\u00e8ne. Cette direction de sc\u00e8ne est donc class\u00e9e dans la cat\u00e9gorie 'toward' (vers) qui indique le destinataire de la parole.",
+  "confidence": 1,
+  "stgdir": "\u00c0 Spartacus.",
+  "response_time": 2414.6907329559326,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

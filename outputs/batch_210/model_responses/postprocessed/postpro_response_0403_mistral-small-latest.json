@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle veut s'enfuir.' se rapporte \u00e0 un mouvement du personnage qui veut partir ou s'\u00e9chapper. Cette action est un mouvement sp\u00e9cifique et ne correspond pas \u00e0 une entr\u00e9e ou une sortie de sc\u00e8ne, ni \u00e0 une interaction non verbale, \u00e0 une action g\u00e9n\u00e9rale, \u00e0 une agression, \u00e0 un apart\u00e9, \u00e0 une livraison, \u00e0 un dialogue, \u00e0 un d\u00e9cor ou \u00e0 une direction vers un destinataire. La cat\u00e9gorie '7 - movement' est donc la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Elle veut s'enfuir.",
+  "response_time": 2875.5881786346436,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

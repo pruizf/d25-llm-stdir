@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction d\u00e9crit le mouvement de Dassoucy qui descend du ch\u00e2teau dans le parc, court, et est embarass\u00e9 par son luth qu'il tient de la main gauche. Ce mouvement est une action sp\u00e9cifique et non une entr\u00e9e ou une sortie, donc la cat\u00e9gorie 'movement' (7) est la plus appropri\u00e9e.",
+  "confidence": 0.9,
+  "stgdir": "Dassoucy, poursuivant Pierrotin, descend du ch\u00e2teau dans le parc ; il court, embarrasse par son luth qu'il tient de la main gauche.",
+  "response_time": 2199.693441390991,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

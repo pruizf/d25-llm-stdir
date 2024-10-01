@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Le chevalier Uladislas sort de l'h\u00f4tellerie.' indique clairement que le personnage du chevalier Uladislas quitte l'h\u00f4tellerie. Cette action correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'exit', qui est utilis\u00e9e pour indiquer qu'un personnage quitte la sc\u00e8ne. Les verbes 'sortir' et 'se retirer' sont souvent utilis\u00e9s pour cette cat\u00e9gorie.",
+  "confidence": 1.0,
+  "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+  "response_time": 2862.190008163452,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

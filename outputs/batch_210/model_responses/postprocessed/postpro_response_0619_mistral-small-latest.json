@@ -1,0 +1,9 @@
+{
+  "category": "9",
+  "explanation": "Le stage direction d\u00e9crit un long r\u00e9cit narratif qui d\u00e9crit la situation initiale et les \u00e9v\u00e9nements menant \u00e0 la sc\u00e8ne de mariage. Il s'agit d'une narration d\u00e9taill\u00e9e qui explique les circonstances et les actions des personnages avant la sc\u00e8ne principale, ce qui correspond \u00e0 la cat\u00e9gorie 'narration'.",
+  "confidence": 0.95,
+  "stgdir": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce.",
+  "response_time": 2196.089744567871,
+  "model": "mistral-small-latest",
+  "categFull": "narration"
+}

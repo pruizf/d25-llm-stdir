@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle l\u00e8ve ici son masque.' indique un mouvement de la part du personnage sans qu'il ne s'agisse d'une entr\u00e9e ou d'une sortie de sc\u00e8ne. Le personnage effectue un geste sp\u00e9cifique, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+  "confidence": 0.95,
+  "stgdir": "Elle l\u00e8ve ici son masque.",
+  "response_time": 2300.821542739868,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

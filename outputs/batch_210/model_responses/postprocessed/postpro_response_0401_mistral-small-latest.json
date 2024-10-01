@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il le suit.' d\u00e9crit un mouvement de suivi d'un personnage par un autre. Cette action ne correspond pas \u00e0 une entr\u00e9e, une sortie, une interaction non verbale, une indication vocale, ou une description de costume ou de d\u00e9cor. Elle se situe donc dans la cat\u00e9gorie 'movement' (mouvement) qui d\u00e9crit les actions des personnages sans qu'elles ne soient des entr\u00e9es, sorties, ou interactions non verbales.",
+  "confidence": 0.9,
+  "stgdir": "Il le suit.",
+  "response_time": 2555.0949573516846,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

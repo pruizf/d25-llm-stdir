@@ -1,0 +1,9 @@
+{
+  "category": "0",
+  "explanation": "La stage direction 'Il y cherche' indique une action g\u00e9n\u00e9rale du personnage, qui cherche quelque chose. Cette action n'est pas sp\u00e9cifiquement li\u00e9e \u00e0 une agression, une aside, une mani\u00e8re de parler ou de chanter, une entr\u00e9e ou une sortie, une interaction non verbale, un mouvement, de la musique, une longue narration, un objet ou un d\u00e9cor. Elle correspond donc \u00e0 la cat\u00e9gorie 'action' (cat\u00e9gorie 0).",
+  "confidence": 0.95,
+  "stgdir": "Il y cherche.",
+  "response_time": 2821.521520614624,
+  "model": "mistral-small-latest",
+  "categFull": "action"
+}

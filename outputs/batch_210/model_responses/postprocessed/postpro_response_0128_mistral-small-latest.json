@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle ouvre un autre tiroir.' indique une action de mouvement sp\u00e9cifique, \u00e0 savoir l'ouverture d'un tiroir, qui ne correspond pas \u00e0 une entr\u00e9e ou une sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni \u00e0 une interaction non verbale (cat\u00e9gorie 6), ni \u00e0 une description d'objet ou de costume (cat\u00e9gorie 10), ni \u00e0 une description de la sc\u00e8ne (cat\u00e9gorie 11). Elle se situe donc dans la cat\u00e9gorie des mouvements non sp\u00e9cifiquement entr\u00e9es ou sorties.",
+  "confidence": 0.9,
+  "stgdir": "Elle ouvre un autre tiroir.",
+  "response_time": 3084.1164588928223,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

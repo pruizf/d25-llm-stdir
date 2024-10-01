@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.' d\u00e9crit des mouvements d'entr\u00e9e et de sortie de personnages sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'exit'. 'Julie entre' indique une entr\u00e9e et 'Lamperri\u00e8re sort' indique une sortie.",
+  "confidence": 1,
+  "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+  "response_time": 2462.099552154541,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

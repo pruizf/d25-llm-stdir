@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La direction de sc\u00e8ne 'Air : Non, je ne ferai pas.' indique clairement l'addresse de la parole. Le terme 'Air' suivi de la r\u00e9plique pr\u00e9cise qui est l'interlocuteur d\u00e9sign\u00e9 pour cette r\u00e9plique. Cela correspond \u00e0 la cat\u00e9gorie 'toward' qui est d\u00e9finie comme indiquant le destinataire de la parole.",
+  "confidence": 0.95,
+  "stgdir": "Air : Non, je ne ferai pas.",
+  "response_time": 2813.385248184204,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

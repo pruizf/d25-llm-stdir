@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.' d\u00e9crit une interaction avec un objet (le papier) et la d\u00e9couverte d'un autre objet (une Ode sur un triomphe d'amour). Cette interaction correspond parfaitement \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit les interactions des personnages avec des objets.",
+  "confidence": 1,
+  "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+  "response_time": 4249.856948852539,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

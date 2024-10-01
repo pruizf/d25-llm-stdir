@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Elle s'\u00e9tend dans un fauteuil.' d\u00e9crit un mouvement de la part d'un personnage (elle) qui s'assoit dans un fauteuil. Ce mouvement ne correspond pas \u00e0 une entr\u00e9e, une sortie, une interaction non verbale, une manipulation d'objet, une description musicale, une narration longue ou \u00e0 une indication d'addresse. Le terme 's'\u00e9tendre' signifie s'asseoir de mani\u00e8re d\u00e9tendue ou confortable, ce qui est une action de mouvement.",
+  "confidence": 0.9,
+  "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+  "response_time": 2873.2314109802246,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

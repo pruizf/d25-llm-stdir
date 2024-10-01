@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "The stage direction 'Elle se retire.' indicates that the character is exiting the stage. In French, 'se retirer' is a common verb used to describe a character leaving or exiting a scene. This fits best with category 5, which is designated for character exits.",
+  "confidence": 0.95,
+  "stgdir": "Elle se retire.",
+  "response_time": 1830.2326202392578,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

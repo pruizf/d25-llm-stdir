@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.' d\u00e9crit une interaction avec un objet, \u00e0 savoir l'\u00e9p\u00e9e de Th\u00e9s\u00e9e, qui est reprise par ce personnage. La cat\u00e9gorie '10' (object) est donc la plus appropri\u00e9e pour d\u00e9crire cette action.",
+  "confidence": 0.95,
+  "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+  "response_time": 2035.050392150879,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

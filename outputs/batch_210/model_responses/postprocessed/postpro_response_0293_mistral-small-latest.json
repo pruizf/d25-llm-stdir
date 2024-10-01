@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Monsieur Mathieu, Benjamine et Damis sortent.' indique clairement que les personnages quittent la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'exit'. Les verbes 'sortent' indiquent un mouvement de sortie, ce qui est le crit\u00e8re principal pour cette cat\u00e9gorie.",
+  "confidence": 1,
+  "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+  "response_time": 2093.524694442749,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

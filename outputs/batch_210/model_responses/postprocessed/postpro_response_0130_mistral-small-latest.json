@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Dorante, se jetant de nouveau \u00e0 ses pieds.' d\u00e9crit un mouvement du personnage Dorante, qui se jette \u00e0 nouveau aux pieds de quelqu'un. Ce mouvement n'est ni une entr\u00e9e ni une sortie (cat\u00e9gories 4 et 5), ni une interaction non verbale (cat\u00e9gorie 6), ni une interaction avec un objet (cat\u00e9gorie 10), ni une direction vers un personnage (cat\u00e9gorie 12). C'est une action sp\u00e9cifique de mouvement qui ne rentre dans aucune autre cat\u00e9gorie plus sp\u00e9cifique.",
+  "confidence": 0.9,
+  "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+  "response_time": 5868.554592132568,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

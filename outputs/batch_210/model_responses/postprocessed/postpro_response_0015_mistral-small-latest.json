@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Elle se l\u00e8ve pour sortir.' indique clairement que le personnage se pr\u00e9pare \u00e0 quitter la sc\u00e8ne. Les verbes 'se lever' et 'sortir' sont directement li\u00e9s \u00e0 une action d'entr\u00e9e ou de sortie de sc\u00e8ne. La cat\u00e9gorie 5 (exit) est donc la plus appropri\u00e9e.",
+  "confidence": 1,
+  "stgdir": "Elle se l\u00e8ve pour sortir.",
+  "response_time": 2138.22603225708,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}

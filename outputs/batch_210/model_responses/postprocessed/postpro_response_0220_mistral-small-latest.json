@@ -1,0 +1,9 @@
+{
+  "category": "3",
+  "explanation": "La stage direction 'Elle dit ceci bas.' indique que le personnage parle d'une mani\u00e8re sp\u00e9cifique, en l'occurrence \u00e0 voix basse. Cette indication concerne la mani\u00e8re dont le personnage d\u00e9livre ses paroles, ce qui correspond \u00e0 la cat\u00e9gorie 'delivery' (livraison).",
+  "confidence": 1,
+  "stgdir": "Elle dit ceci bas.",
+  "response_time": 2086.9967937469482,
+  "model": "mistral-small-latest",
+  "categFull": "delivery"
+}

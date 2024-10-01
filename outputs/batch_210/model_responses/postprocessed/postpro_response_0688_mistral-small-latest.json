@@ -1,0 +1,9 @@
+{
+  "category": "11",
+  "explanation": "La stage direction 'Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.' d\u00e9crit clairement le cadre et les \u00e9l\u00e9ments pr\u00e9sents sur la sc\u00e8ne. Elle donne des d\u00e9tails sur le d\u00e9cor, en sp\u00e9cifiant le th\u00e8me de l'\u00e9tude d'un procureur et la disposition des objets sur la sc\u00e8ne. Cette description correspond \u00e0 la cat\u00e9gorie 'setting', qui inclut les descriptions de la sc\u00e8ne et des d\u00e9cors.",
+  "confidence": 1,
+  "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+  "response_time": 3014.8677825927734,
+  "model": "mistral-small-latest",
+  "categFull": "setting"
+}

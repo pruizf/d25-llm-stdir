@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il lui remet en main son roman.' indique une interaction avec un objet, sp\u00e9cifiquement le fait de donner un roman. Cette action correspond parfaitement \u00e0 la cat\u00e9gorie 'object' qui d\u00e9crit des interactions avec des objets, y compris le fait de donner ou de recevoir un objet.",
+  "confidence": 1,
+  "stgdir": "Il lui remet en main son roman.",
+  "response_time": 1956.8345546722412,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

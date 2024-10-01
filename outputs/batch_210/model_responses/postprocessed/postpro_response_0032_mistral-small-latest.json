@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction 'Regardant du cot\u00e9 oppos\u00e9' indique clairement l'addressee d'une parole ou d'une action. En fran\u00e7ais, le terme 'Regardant' se traduit par 'Looking' et 'du cot\u00e9 oppos\u00e9' signifie 'toward the opposite side'. Cette direction de sc\u00e8ne indique donc vers qui ou quelle direction le personnage dirige son regard, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+  "confidence": 0.95,
+  "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+  "response_time": 5005.6397914886475,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

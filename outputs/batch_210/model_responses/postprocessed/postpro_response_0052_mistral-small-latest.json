@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il l\u00e8ve les Gardes de la Chambre' indique un mouvement des Gardes de la Chambre sans pr\u00e9ciser s'ils entrent ou sortent. Cela correspond \u00e0 la cat\u00e9gorie 'movement' car elle d\u00e9crit une action de mouvement sans sp\u00e9cifier l'entr\u00e9e ou la sortie des personnages.",
+  "confidence": 0.9,
+  "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+  "response_time": 2429.6915531158447,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

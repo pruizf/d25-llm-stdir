@@ -1,0 +1,9 @@
+{
+  "category": "12",
+  "explanation": "La stage direction 'En regardant Terville.' indique que le personnage regarde quelqu'un d'autre, en l'occurrence Terville. Selon la d\u00e9finition de la cat\u00e9gorie 12, 'toward' indique l'adresse d'un discours. Bien que cette stage direction ne soit pas un discours, elle implique une interaction visuelle directe avec un autre personnage, ce qui est similaire \u00e0 l'adresse d'un discours.",
+  "confidence": 1,
+  "stgdir": "En regardant Terville.",
+  "response_time": 2696.718215942383,
+  "model": "mistral-small-latest",
+  "categFull": "toward"
+}

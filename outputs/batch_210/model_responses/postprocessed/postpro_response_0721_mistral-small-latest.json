@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.' indique un mouvement de la part du personnage qui remonte le th\u00e9\u00e2tre tout en pronon\u00e7ant la derni\u00e8re partie d'une phrase, puis s'appr\u00eate \u00e0 sortir. Cette description correspond \u00e0 la cat\u00e9gorie 'movement' car elle d\u00e9crit une action de d\u00e9placement sur sc\u00e8ne sans sp\u00e9cifier une entr\u00e9e ou une sortie compl\u00e8te.",
+  "confidence": 0.95,
+  "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+  "response_time": 2848.212480545044,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

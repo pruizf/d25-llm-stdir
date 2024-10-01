@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il donne une ordonnance.' d\u00e9crit une interaction avec un objet, sp\u00e9cifiquement la remise d'une ordonnance. Cette interaction entre le personnage et l'objet (l'ordonnance) correspond \u00e0 la cat\u00e9gorie 'object'.",
+  "confidence": 0.9,
+  "stgdir": "Il donne une ordonnance.",
+  "response_time": 1858.1278324127197,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

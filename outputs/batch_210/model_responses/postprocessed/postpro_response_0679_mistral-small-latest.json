@@ -1,0 +1,9 @@
+{
+  "category": "10",
+  "explanation": "La stage direction 'Il prend une couronne dans le panier d'Antoine.' d\u00e9crit une interaction avec un objet sp\u00e9cifique, \u00e0 savoir une couronne dans le panier d'Antoine. Cela correspond \u00e0 la cat\u00e9gorie 'object' qui inclut les actions de manipulation d'objets.",
+  "confidence": 0.95,
+  "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+  "response_time": 1996.7339038848877,
+  "model": "mistral-small-latest",
+  "categFull": "object"
+}

@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'Il est rest\u00e9 assis sur le remblai.' d\u00e9crit une action de mouvement, plus pr\u00e9cis\u00e9ment une action de rester assis, qui est un mouvement statique. Cela ne correspond pas \u00e0 une entr\u00e9e ou une sortie de sc\u00e8ne (cat\u00e9gories 4 et 5), ni \u00e0 une interaction non verbale (cat\u00e9gorie 6), une agression (cat\u00e9gorie 1), un apart\u00e9 (cat\u00e9gorie 2), une mani\u00e8re de parler (cat\u00e9gorie 3), la musique (cat\u00e9gorie 8), une narration longue (cat\u00e9gorie 9), une interaction avec un objet (cat\u00e9gorie 10), une description de sc\u00e8ne (cat\u00e9gorie 11), ou une indication de l'interlocuteur d'une parole (cat\u00e9gorie 12).",
+  "confidence": 1.0,
+  "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+  "response_time": 4323.237657546997,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

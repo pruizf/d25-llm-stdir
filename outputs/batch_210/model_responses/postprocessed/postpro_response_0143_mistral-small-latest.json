@@ -1,0 +1,9 @@
+{
+  "category": "7",
+  "explanation": "La stage direction 'L\u00e9on fait un grand mouvement' d\u00e9crit une action de mouvement g\u00e9n\u00e9ral de L\u00e9on. Comme il n'y a pas de pr\u00e9cision sur la direction ou le but de ce mouvement, il s'agit simplement d'un mouvement g\u00e9n\u00e9ral qui ne correspond pas aux autres cat\u00e9gories sp\u00e9cifiques comme l'entr\u00e9e, l'exit, l'agression, l'aparte, etc. La cat\u00e9gorie 'movement' (7) est donc la plus appropri\u00e9e.",
+  "confidence": 1,
+  "stgdir": "L\u00e9on fait un grand mouvement.",
+  "response_time": 2563.03334236145,
+  "model": "mistral-small-latest",
+  "categFull": "movement"
+}

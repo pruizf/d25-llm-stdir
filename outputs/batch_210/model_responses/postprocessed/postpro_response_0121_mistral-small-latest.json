@@ -1,0 +1,9 @@
+{
+  "category": "8",
+  "explanation": "La stage direction mentionne le nom d'un instrument de musique sp\u00e9cifique, la viole, ce qui indique une interaction avec la musique. Le terme 'Air' n'est pas utilis\u00e9, mais la pr\u00e9sence du nom d'un instrument est un indicateur clair pour cette cat\u00e9gorie.",
+  "confidence": 0.9,
+  "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+  "response_time": 2475.2719402313232,
+  "model": "mistral-small-latest",
+  "categFull": "music"
+}

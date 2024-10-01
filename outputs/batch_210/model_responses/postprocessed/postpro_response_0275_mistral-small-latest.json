@@ -1,0 +1,9 @@
+{
+  "category": "5",
+  "explanation": "La stage direction 'Monsieur Mathieu sort, sans \u00e9couter Benjamine.' indique que le personnage Monsieur Mathieu quitte la sc\u00e8ne sans pr\u00eater attention \u00e0 Benjamine. Cette action correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'exit' (cat\u00e9gorie 5), qui est utilis\u00e9e pour d\u00e9crire un personnage qui quitte la sc\u00e8ne. Les verbes 'sortir' et '\u00e9couter' sont pertinents pour cette cat\u00e9gorie.",
+  "confidence": 1,
+  "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+  "response_time": 2648.88596534729,
+  "model": "mistral-small-latest",
+  "categFull": "exit"
+}
