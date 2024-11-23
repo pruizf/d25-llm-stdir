@@ -1,3 +1,7 @@
+"""
+Given a result batch and a category, sort results into errors and matches, for qualitative analysis.
+"""
+
 import argparse
 import json
 import os
@@ -6,25 +10,6 @@ from typing import List, Dict, Tuple
 import pandas as pd
 
 import config as cf
-
-"""
-#TODO
-Read results for a batch.
-For each result, get predicted category and reference category (number and label from categs_as13).
-Also compare the stage direction texts in result json and in reference.
-CLI arguments:
-- batch_id
-- category pair to analyze (labels)
-  - reference + prediction
-Output format
-```
-# example ID
-- TXT:
-- REF;PRD: ref;pred
-- XPL:
-```
-Maybe first do all errors and then all matches
-"""
 
 
 def ana_batch_results(ref: pd.DataFrame, batch_id: int, category_pair: tuple) -> Tuple[List[Dict], List[Dict]]:
@@ -83,9 +68,6 @@ def ana_batch_results(ref: pd.DataFrame, batch_id: int, category_pair: tuple) ->
   return batch_data_match, batch_data_error
 
 
-#TODO add a flag whether want to write or append
-# and then for the second list write it in append
-# create output file names etc (in ana)
 def write_out_results(data: List[Dict], batch_id: int, out_file: str, mode="w"):
   """
   Write out the analysis results.
@@ -100,8 +82,8 @@ def write_out_results(data: List[Dict], batch_id: int, out_file: str, mode="w"):
   open_mode = "a" if mode == "a" else "w"
   with open(out_file, open_mode) as out_f:
     out_f.write(f"# Batch {batch_id}\n\n")
-    for res in data:
-      out_f.write(f"## {str.zfill(str(res['id']), 4)} || {res['type']}\n")
+    for res in sorted(data, key=lambda x: (x["ref_num"], x["pred_num"], x["id"])):
+      out_f.write(f"## {str.zfill(str(res['id']), 4)} [{res['type']}]\n")
       out_f.write(f"  - REF;PRD: {res['ref']} ; {res['pred']}\n")
       out_f.write(f"  - TXT: {res['text']}\n")
       out_f.write(f"  - XPL: {res['explanation']}\n")
