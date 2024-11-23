@@ -8,6 +8,7 @@ few_shot_examples_id = "0001"
 
 corpus_dir = "data"
 log_dir = "logs"
+ana_dir = "ana"
 corpus_file = os.path.join(corpus_dir, "stgdir_labelGeneric_woDuplicates.csv")
 testset_file = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test.csv")
 testset_30 = os.path.join(corpus_dir, "stgdir_labelGeneric_trainvalid_100-test_30.csv")
