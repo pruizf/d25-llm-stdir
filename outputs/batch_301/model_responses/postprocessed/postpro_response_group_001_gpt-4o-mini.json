@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "10",
+      "category": "5",
+      "explanation": "L'avocat sort indique clairement que le personnage sort de la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "confidence": 1.0,
+      "stgdir": "L'avocat sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit une s\u00e9quence narrative complexe avec des interactions magiques et des personnages fantastiques, ce qui entre dans la cat\u00e9gorie de narration.",
+      "confidence": 1.0,
+      "stgdir": "C'est dans cette sc\u00e8ne que les lutins d\u00e9guis\u00e9s font une c\u00e9r\u00e9monie magique pour feindre d'embellir Forestan, et pour se moquer de lui. Deux magiciens paraissent chacun une baguette \u00e0 la main, ils frappent, la Terre en dansant, et font sortir six d\u00e9mons qui se joignent avec eux. Trois sorci\u00e8res sortent aussi de dessous terre, et faisant asseoir Forestan au milieu d'elles, m\u00ealent leur chants aux danses des Magiciens et des D\u00e9mons, pour former une mani\u00e8re d'enchantement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "8",
+      "explanation": "Sixi\u00e8me Couplet pourrait impliquer une forme musicale, sugg\u00e9rant un num\u00e9ro ou une performance musicale.",
+      "confidence": 0.8,
+      "stgdir": "Sixi\u00e8me Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "4",
+      "explanation": "N\u00e9rine para\u00eet indique une entr\u00e9e sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "confidence": 1.0,
+      "stgdir": "N\u00e9rine para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "7",
+      "explanation": "Il passe devant \u00c9velina implique un mouvement d'un personnage \u00e0 proximit\u00e9 d'un autre personnage, ce qui correspond \u00e0 la cat\u00e9gorie de mouvement.",
+      "confidence": 0.9,
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "8",
+      "explanation": "LE CHOEUR r\u00e9p\u00e8te sugg\u00e8re une action musicale o\u00f9 un groupe chante ou r\u00e9p\u00e8te, ce qui entre dans la cat\u00e9gorie de la musique.",
+      "confidence": 1.0,
+      "stgdir": "LE CHOEUR r\u00e9p\u00e8te.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "12",
+      "explanation": "\u00c0 Dariolette indique probablement que quelque chose ou quelqu'un est adress\u00e9 \u00e0 Dariolette, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "confidence": 0.85,
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "5",
+      "explanation": "Ceux \u00e0 qui elle parle se retirent signifie que des personnages sortent de la sc\u00e8ne, class\u00e9 sous exit.",
+      "confidence": 1.0,
+      "stgdir": "Ceux \u00e0 qui elle parle se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "0",
+      "explanation": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res implique une action g\u00e9n\u00e9rale de divertissement, qui peut inclure des performances mais ne se rattache pas sp\u00e9cifiquement \u00e0 d'autres cat\u00e9gories. Donc, je le classe sous action.",
+      "confidence": 0.7,
+      "stgdir": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "6",
+      "explanation": "On entend quelqu'un qui vient sugg\u00e8re une forme d'interaction audiovisuelle, avec une implication d'une pr\u00e9sence qui approche sans indiquer explicitement un personnage, d'o\u00f9 le choix de la cat\u00e9gorie interaction.",
+      "confidence": 0.75,
+      "stgdir": "On entend quelqu'un qui vient.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 9188.715934753418,
+  "model": "gpt-4o-mini"
+}
