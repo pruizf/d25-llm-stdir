@@ -50,9 +50,9 @@ def plot_confusion_matrix(y_preds, y_true, labels, color_key, batch_sfx=None, no
               bbox_inches='tight')
 
 
-def eval_res(res_dir, golden_df, color_mode, batch_sfx=None):
+def eval_res(res_dir, golden_df, color_mode, prompt_type, batch_sfx=None):
   assert color_mode in clrmap_dict
-  sys_jmt = ut.extract_category_from_openai_output(res_dir)
+  sys_jmt = ut.extract_category_from_openai_output(res_dir, mode=prompt_type)
   #gold_df = pd.read_csv(golden_fn, sep=cf.sep_test)
   ref_jmt = golden_df['categNbr'].tolist()
   labels = cf.categs_as13
@@ -66,7 +66,9 @@ if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Evaluation of LLM-based classification")
   parser.add_argument("batch_name", help="Batch name used as prefix on outputs")
   parser.add_argument("corpus", help="Corpus to run the model on")
-  parser.add_argument("model", help="Model to use for generating the response")
+  parser.add_argument("model", help="Model used for generating the response")
+  parser.add_argument("run_mode", choices=["individual", "grouped"],
+                      help="Whether prompt contained a single stage direction or several")
   args = parser.parse_args()
   assert args.model in cf.llm_list, f"Model {args.model} not in {cf.llm_list}"
   assert args.batch_name in os.listdir(cf.response_base_dir), f"Results for batch {args.batch_name} not available"
@@ -85,7 +87,7 @@ if __name__ == "__main__":
   corpus_sep = "\t" if "30" in args.corpus else ","
   golden = ut.get_and_format_data(args.corpus, corpus_sep)
 
-  eval_data = eval_res(results_dir, golden, args.model, batch_sfx=args.batch_name.replace("batch_", ""))
+  eval_data = eval_res(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
   print(eval_data["cr"])
   print()
   with open(os.path.join(cf.plot_dir.format(batch_id=args.batch_name),
