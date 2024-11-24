@@ -84,7 +84,7 @@ def write_out_results(data: List[Dict], batch_id: int, out_file: str, mode="w"):
     out_f.write(f"# Batch {batch_id}\n\n")
     for res in sorted(data, key=lambda x: (x["ref_num"], x["pred_num"], x["id"])):
       out_f.write(f"## {str.zfill(str(res['id']), 4)} [{res['type']}]\n")
-      out_f.write(f"  - REF;PRD: {res['ref']} ; {res['pred']}\n")
+      out_f.write(f"  - REF;PRD: {res['ref']} ; {res['pred']} [{res['ref_num']};{res['pred_num']}]\n")
       out_f.write(f"  - TXT: {res['text']}\n")
       out_f.write(f"  - XPL: {res['explanation']}\n")
       out_f.write("\n")
@@ -106,6 +106,6 @@ if __name__ == "__main__":
   batch_ok, batch_err = ana_batch_results(ref_df, args.batch_id, (categ_to_ana, categ_pred_to_ana))
 
   # write out results
-  out_fname = os.path.join(cf.ana_dir, f"ana_batch_{args.batch_id}.md")
+  out_fname = os.path.join(cf.ana_dir, f"ana_batch_{args.batch_id}_{args.reference_category}.md")
   write_out_results(batch_err, args.batch_id, out_fname)
   write_out_results(batch_ok, args.batch_id, out_fname, mode="a")
