@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1810",
+      "category": "0",
+      "explanation": "Il montre un manuscrit avec modestie. Cela d\u00e9crit une action g\u00e9n\u00e9rale montrant le manuscrit, sans sp\u00e9cifier une entr\u00e9e ou une sortie.",
+      "stgdir": "Il montre un manuscrit avec modestie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1811",
+      "category": "5",
+      "explanation": "Colin sort. C'est une sortie d'un personnage, indiquant qu'il quitte la sc\u00e8ne.",
+      "stgdir": "Colin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1812",
+      "category": "8",
+      "explanation": "Air : Que ne suis-je la foug\u00e8re ? C'est une indication musicale, car il mentionne une m\u00e9lodie ou un air.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1813",
+      "category": "5",
+      "explanation": "Licaste sort. C'est \u00e9galement une sortie d'un personnage, indiquant qu'il quitte la sc\u00e8ne.",
+      "stgdir": "Licaste sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1814",
+      "category": "6",
+      "explanation": "Ils s'asseyent tous les deux. Cela indique une interaction non verbale entre les personnages.",
+      "stgdir": "Ils s'asseyent tous les deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1815",
+      "category": "0",
+      "explanation": "Criant au fond. Cela ne d\u00e9crit pas une action sp\u00e9cifique mais une ambiance sonore en arri\u00e8re-plan, rendant cela comme une action g\u00e9n\u00e9rale.",
+      "stgdir": "Criant au fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1816",
+      "category": "10",
+      "explanation": "Il leur baille des fleurets. Cela d\u00e9crit l'action de donner un objet, ici des fleurets, ce qui correspond au traitement d'un objet.",
+      "stgdir": "Il leur baille des fleurets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1817",
+      "category": "0",
+      "explanation": "Il se jette \u00e0 ses genoux. Cela d\u00e9crit une action de mani\u00e8re g\u00e9n\u00e9rale.",
+      "stgdir": "Il se jette \u00e0 ses genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1818",
+      "category": "7",
+      "explanation": "Elle veut s'\u00e9loigner. Cela indique une intention de mouvement, m\u00eame si cela ne d\u00e9crit pas un d\u00e9part effectif.",
+      "stgdir": "Elle veut s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1819",
+      "category": "12",
+      "explanation": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle. Cela implique un mouvement vers un autre personnage, indiquant une direction ou une adresse.",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8485.471963882446,
+  "model": "gpt-4o-mini"
+}

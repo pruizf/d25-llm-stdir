@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1450",
+      "category": "3",
+      "explanation": "Lettre de Florinde \u00e0 Filemon implique une action de livraison, car cela se r\u00e9f\u00e8re \u00e0 une communication \u00e9crite entre deux personnages.",
+      "stgdir": "Lettre de Florinde \u00e0 Filemon.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1451",
+      "category": "8",
+      "explanation": "Marche des P\u00e2tres et des Sylvains est li\u00e9e \u00e0 la musique, en raison de la r\u00e9f\u00e9rence \u00e0 une marche qui est probablement cr\u00e9\u00e9e avec des effets musicaux.",
+      "stgdir": "Marche des P\u00e2tres et des Sylvains.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1452",
+      "category": "8",
+      "explanation": "AIR : Faut attendre avec patience indique un morceau de musique et commence par 'AIR', ce qui le classe comme une direction musicale.",
+      "stgdir": "AIR : Faut attendre avec patience",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1453",
+      "category": "9",
+      "explanation": "\u00c0 la Nuit serait consid\u00e9r\u00e9 comme une narration, car cela \u00e9voque un changement de sc\u00e8ne ou d'atmosph\u00e8re, typique dans la narration th\u00e9\u00e2trale.",
+      "stgdir": "\u00c0 la Nuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1454",
+      "category": "7",
+      "explanation": "S'approchant d'Alcindor implique un mouvement vers un autre personnage sans indication d'entr\u00e9e ou de sortie.",
+      "stgdir": "S'approchant d'Alcindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1455",
+      "category": "8",
+      "explanation": "Air 196 Combattants de Cadmus est une autre r\u00e9f\u00e9rence musicale, en commen\u00e7ant par 'Air', indiquant ainsi une section musicale.",
+      "stgdir": "Air 196 Combattants de Cadmus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1456",
+      "category": "5",
+      "explanation": "Agathe sort indique clairement une sortie d'un personnage, ce qui correspond \u00e0 la cat\u00e9gorie 'exit'.",
+      "stgdir": "Agathe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1457",
+      "category": "10",
+      "explanation": "Il lui pose la couronne sur la t\u00eate d\u00e9crit une interaction avec un objet (la couronne), ce qui le classe dans la cat\u00e9gorie 'object'.",
+      "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1458",
+      "category": "0",
+      "explanation": "Il se rassoit est une action g\u00e9n\u00e9rale de s'asseoir, sans indication d'interaction ou d'autres sp\u00e9cificit\u00e9s.",
+      "stgdir": "Il se rassoit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1459",
+      "category": "8",
+      "explanation": "Air de Marianne est \u00e9galement une direction musicale, commen\u00e7ant par 'Air', ce qui le classe comme une direction li\u00e9e \u00e0 la musique.",
+      "stgdir": "Air de Marianne.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 13773.873090744019,
+  "model": "gpt-4o-mini"
+}

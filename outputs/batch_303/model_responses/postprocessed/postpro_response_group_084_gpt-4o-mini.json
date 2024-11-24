@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "830",
+      "category": "8",
+      "explanation": "L'indication 'AIR' signalant une m\u00e9lodie, cela correspond \u00e0 une direction musicale.",
+      "stgdir": "AIR : Quand tu chantes, berc\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "831",
+      "category": "9",
+      "explanation": "Reprendre un exorde implique un contexte narratif ou introduit une suite d'actions, ce qui correspond \u00e0 la narration.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "832",
+      "category": "4",
+      "explanation": "Cette direction d\u00e9crit une entr\u00e9e de personnage dans un lieu, ce qui se classe comme une entr\u00e9e.",
+      "stgdir": "Il rentre dans l'auberge, et Marianne dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "833",
+      "category": "8",
+      "explanation": "Comme pour le num\u00e9ro 830, l'indication 'AIR' indique qu'il s'agit d'une m\u00e9lodie ou d'une musique.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "834",
+      "category": "3",
+      "explanation": "Cette direction implique que le personnage chante, ce qui est li\u00e9 \u00e0 la mani\u00e8re de livrer une \u00e9motion.",
+      "stgdir": "Il parle \u00e0 son \u00e9cuyer.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "835",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction entre les personnages, o\u00f9 l'on se donne la main, ce qui est une interaction non verbale.",
+      "stgdir": "Monsieur Orgon donne la main \u00e0 Madame Oronte, et Val\u00e8re \u00e0 Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "836",
+      "category": "0",
+      "explanation": "Le personnage frappe, une action g\u00e9n\u00e9rale qui ne se classe pas dans les autres cat\u00e9gories.",
+      "stgdir": "Le Financier frappe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "837",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit l'environnement sc\u00e9nique, ce qui en fait un cadre de r\u00e9f\u00e9rence.",
+      "stgdir": "Int\u00e9rieur du Palais ; un tr\u00f4ne au milieu et la Toison d'or suspendue au-dessus du tr\u00f4ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "838",
+      "category": "9",
+      "explanation": "Le fait que le prince arrive triste et en col\u00e8re est une description narrative du personnage.",
+      "stgdir": "Le Prince arrive tout triste et tout en col\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "839",
+      "category": "8",
+      "explanation": "Comme les num\u00e9ros 830 et 833, cela concerne la musique, et indique une m\u00e9lodie.",
+      "stgdir": "Air Tique, tique, toque , et lonlanla.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8431.999683380127,
+  "model": "gpt-4o-mini"
+}

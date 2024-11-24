@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2110",
+      "category": "11",
+      "explanation": "Cette directive d\u00e9crit le costume des trois pr\u00e9tendantes en pr\u00e9cisant qu'elles doivent \u00eatre v\u00eatues de blanc, ce qui fait partie de la description du d\u00e9cor ou des personnages.",
+      "stgdir": "Les trois pr\u00e9tendantes doivent \u00eatre v\u00eatues de blanc",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2111",
+      "category": "9",
+      "explanation": "Cette direction \u00e9voque une sc\u00e8ne narrative avec une description d'apparence dramatique (un char lumineux et un g\u00e9nie), ce qui fournit un contexte sur l'environnement et l'action qui se d\u00e9roule.",
+      "stgdir": "En m\u00eame temps, on voit descendre des nues un char lumineux sous lequel para\u00eet le g\u00e9nie Beninguet, tout brillant de pierreries.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2112",
+      "category": "6",
+      "explanation": "Cette directive illustre une interaction non verbale entre les soldats, qui se l\u00e8vent et parlent au premier, ce qui indique une interaction entre les personnages.",
+      "stgdir": "- Trois des autres soldats se lev\u00e8rent, et parl\u00e8rent ainsi au premier :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2113",
+      "category": "12",
+      "explanation": "Cette direction indique \u00e0 qui le personnage s'adresse (\u00c9rise), donc elle appartient \u00e0 la cat\u00e9gorie qui d\u00e9signe l'addresse de la parole.",
+      "stgdir": "\u00c0 \u00c9rise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2114",
+      "category": "3",
+      "explanation": "Cette action de reprendre la lettre et de lire rel\u00e8ve de la mani\u00e8re de livrer, montrant une action vocale ou une expression des \u00e9motions \u00e0 travers la lecture.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2115",
+      "category": "0",
+      "explanation": "Feuilletant un volume de ses \u0153uvres repr\u00e9sente une action g\u00e9n\u00e9rale que le personnage effectue.",
+      "stgdir": "Feuilletant un volume de ses oeuvres.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2116",
+      "category": "10",
+      "explanation": "Cette directive mentionne que le personnage tire un portefeuille de sa poche, ce qui implique une interaction avec un objet sp\u00e9cifique.",
+      "stgdir": "Il tire un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2117",
+      "category": "1",
+      "explanation": "Le fait de pousser quelqu'un par les \u00e9paules indique une action d'agression physique.",
+      "stgdir": "Le poussant par les \u00e9paules.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2118",
+      "category": "5",
+      "explanation": "Cette directive indique que Jean Poquelin sort du cabinet, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2119",
+      "category": "12",
+      "explanation": "Similaire \u00e0 2113, cela indique \u00e0 qui le personnage s'adresse (Diane), ce qui est une indication d'adresse.",
+      "stgdir": "\u00c0 Diane.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5650.933027267456,
+  "model": "gpt-4o-mini"
+}

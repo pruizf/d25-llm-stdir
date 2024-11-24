@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "940",
+      "category": "12",
+      "explanation": "Cette direction indique \u00e0 qui le personnage s'adresse, dans ce cas, \u00e0 Medwin.",
+      "stgdir": "\u00c0 Medwin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "941",
+      "category": "12",
+      "explanation": "Cette direction sp\u00e9cifie que le personnage s'adresse \u00e0 son cheval, indiquant l'interlocuteur.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "942",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit l'environnement ou le cadre de la sc\u00e8ne, indiquant o\u00f9 se d\u00e9roule l'action.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente Le cabinet de G\u00e9ralde ; sur La gauche est une table, couverte de papiers en d\u00e9sordre ; sur sa droite, un clavecin ; une biblioth\u00e8que, dans Le fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "943",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage s'adresse \u00e0 Dangeste.",
+      "stgdir": "\u00c0 Dangeste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "944",
+      "category": "3",
+      "explanation": "Cette direction d\u00e9crit la mani\u00e8re dont le personnage s'exprime, en l'occurrence \u00e0 voix haute, ce qui rel\u00e8ve de la livraison.",
+      "stgdir": "\u00c0 voix haute.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "945",
+      "category": "8",
+      "explanation": "Le chant du coucou est un \u00e9l\u00e9ment musical, indiquant une ambiance sonore dans la sc\u00e8ne.",
+      "stgdir": "Le coucou chante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "946",
+      "category": "10",
+      "explanation": "Cette direction fait r\u00e9f\u00e9rence \u00e0 un objet, ici une allumette, et \u00e0 l'interaction du personnage avec cet objet.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "947",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage s'adresse \u00e0 Delphine.",
+      "stgdir": "\u00c0 Delphine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "948",
+      "category": "10",
+      "explanation": "Cette direction d\u00e9crit l'action de prendre Albert, qui implique une interaction physique avec un objet ou une personne.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "949",
+      "category": "0",
+      "explanation": "Cette direction d\u00e9crit une action g\u00e9n\u00e9rale li\u00e9e \u00e0 la tentative de renouer un discours, sans sp\u00e9cifier de verbalisation.",
+      "stgdir": "Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5238.2872104644775,
+  "model": "gpt-4o-mini"
+}

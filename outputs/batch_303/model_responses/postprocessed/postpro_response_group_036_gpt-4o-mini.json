@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "350",
+      "category": "0",
+      "explanation": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne. Il s'agit d'une action de servir, ce qui correspond \u00e0 la cat\u00e9gorie d'action.",
+      "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "351",
+      "category": "11",
+      "explanation": "Aux Bergers. Cela indique un cadre ou un lieu sp\u00e9cifique, ce qui en fait un \u00e9l\u00e9ment de description sc\u00e9nique.",
+      "stgdir": "Aux Bergers.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "352",
+      "category": "4",
+      "explanation": "Staphyla vient. Cela sugg\u00e8re qu'un personnage entre sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Staphyla vient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "353",
+      "category": "6",
+      "explanation": "Elle se met \u00e0 ses pieds. Cela d\u00e9crit une interaction non verbale o\u00f9 un personnage se place pr\u00e8s d'un autre, indiquant un acte de proximit\u00e9 ou de respect.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "354",
+      "category": "5",
+      "explanation": "Elle s'avance pour s'en aller. Cela montre qu'un personnage quitte la sc\u00e8ne, donc cela correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Elle s'avance pour s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "355",
+      "category": "5",
+      "explanation": "Lucie sort. C'est une d\u00e9claration claire de la sortie d'un personnage, correspond donc \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Lucie sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "356",
+      "category": "8",
+      "explanation": "AIR 141 : Cotillon des F\u00eates de Thalie. Cela mentionne une pi\u00e8ce musicale sp\u00e9cifique, ce qui en fait une direction musicale.",
+      "stgdir": "AIR 141 : Cotillon des F\u00eates de Thalie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "357",
+      "category": "12",
+      "explanation": "\u00c0 l'esclave. Cela indique une direction vers un personnage sp\u00e9cifique, ce qui correspond \u00e0 la cat\u00e9gorie vers.",
+      "stgdir": "\u00c0 l'esclave",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "358",
+      "category": "8",
+      "explanation": "Air : Lon la landerirette. Similaire \u00e0 l'entr\u00e9e pr\u00e9c\u00e9dente, cela mentionne un air musical, le classant dans la cat\u00e9gorie musicale.",
+      "stgdir": "Air : Lon la landerirette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "359",
+      "category": "12",
+      "explanation": "\u00c0 l'huissier. Cela indique \u00e9galement une direction vers un personnage sp\u00e9cifique, correspondant \u00e0 la cat\u00e9gorie vers.",
+      "stgdir": "\u00c0 l'huissier.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5546.211242675781,
+  "model": "gpt-4o-mini"
+}

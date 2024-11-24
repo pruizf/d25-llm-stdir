@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2320",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale o\u00f9 Graindor embrasse un autre personnage sur la joue, ce qui est une forme d'affection ou de salutation.",
+      "stgdir": "Graindor l'embrasse sur une joue.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2321",
+      "category": "9",
+      "explanation": "Cette direction donne une description narrative d'une s\u00e9rie d'\u00e9v\u00e9nements, incluant le mariage et la r\u00e9action des personnages, ce qui lui conf\u00e8re une qualit\u00e9 narrative.",
+      "stgdir": "L\u00e9andre et Isabelle s'\u00e9pousent, puis se d\u00e9couvrent. Le gouverneur qui reconna\u00eet qu'il a \u00e9t\u00e9 tromp\u00e9, et que c'est sa femme qu'il vient de marier \u00e0 L\u00e9andre, apr\u00e8s les premiers emportements, consent d'en \u00e9pouser une autre, ratifie leur mariage, et ordonne la f\u00eate qui suit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2322",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction physique o\u00f9 un personnage serre les doigts de l'autre, qualifi\u00e9e d'interaction non verbale.",
+      "stgdir": "Il lui serre les bouts des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2323",
+      "category": "0",
+      "explanation": "L'acte de d\u00e9cacheter une lettre est une action g\u00e9n\u00e9rale qui ne s'inscrit dans aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Elle d\u00e9cachette la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2324",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de La Baronne sur sc\u00e8ne est clairement une direction d'entr\u00e9e, signalant l'arriv\u00e9e d'un personnage.",
+      "stgdir": "Entre La Baronne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2325",
+      "category": "3",
+      "explanation": "Fondre en sanglots indique une expression \u00e9motionnelle forte, ce qui correspond \u00e0 la cat\u00e9gorie de la livraison d'une \u00e9motion.",
+      "stgdir": "Fondant en sanglots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2326",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le cadre sc\u00e9nique, sp\u00e9cifiant ce que le th\u00e9\u00e2tre repr\u00e9sente, et donc cela correspond \u00e0 la description de l'environnement.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le vestibule du s\u00e9rail.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2327",
+      "category": "10",
+      "explanation": "Il s'agit d'une interaction avec un objet o\u00f9 un personnage donne un paquet ouvert \u00e0 un autre, ce qui implique la manipulation d'un objet.",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2328",
+      "category": "11",
+      "explanation": "Comme pour la pr\u00e9c\u00e9dente, cette direction d\u00e9crit un lieu dans lequel se d\u00e9roule l'action, caract\u00e9risant le cadre de la pi\u00e8ce.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la maison d'Hilaire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2329",
+      "category": "11",
+      "explanation": "Cette direction indique \u00e9galement un lieu sur sc\u00e8ne, pr\u00e9cisant un aspect du d\u00e9cor qui \u00e9voque M\u00e9d\u00e9e.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu destin\u00e9 aux \u00e9vocations de M\u00e9d\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 5468.101024627686,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "320",
+      "category": "10",
+      "explanation": "Il s'agit de l'action de mettre un objet dans sa poche, ce qui implique une manipulation d'objet.",
+      "stgdir": "Il le met dans sa poche de c\u00f4t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "1",
+      "explanation": "La mention de l'attaque des Toscans \u00e9voque une action agressive, impliquant un conflit ouvert.",
+      "stgdir": "Les Esclaves arm\u00e9s sont remplac\u00e9s par les esclaves sans armes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "7",
+      "explanation": "S'approcher est une forme de mouvement, indiquant que le personnage se d\u00e9place vers son p\u00e8re.",
+      "stgdir": "Il s'approche de son p\u00e8re.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "12",
+      "explanation": "Cette direction indique que l'adresse est faite \u00e0 Alvar\u00e8s, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Alvar\u00e8s.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "12",
+      "explanation": "C'est une adresse \u00e0 Euph\u00e9mon fils, indiquant l'objet de la parole.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "3",
+      "explanation": "Continuer \u00e0 parler rel\u00e8ve du delivery, en particulier en exprimant une certaine attitude ou \u00e9motion dans la voix.",
+      "stgdir": "Il continue \u00e0 parler.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "8",
+      "explanation": "Cette direction mentionne une musique, sp\u00e9cifique \u00e0 une \u0153uvre, donc elle entre dans la cat\u00e9gorie 'music'.",
+      "stgdir": "Air Marche Fran\u00e7aise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit une s\u00e9quence d'actions et d'\u00e9v\u00e9nements dans une narration riche en d\u00e9tails, ce qui la classe en narration.",
+      "stgdir": "Les Toscans attaquent le pont d\u00e9fendu par le seul Horace, et que la hache des Romains fait bient\u00f4t \u00e9crouler dans le Tibre. Le h\u00e9ros s'y pr\u00e9cipite apr\u00e8s les ennemis , qu'il a luiseul arr\u00eat\u00e9s.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "3",
+      "explanation": "Le terme 'solennel' se r\u00e9f\u00e8re \u00e0 une mani\u00e8re de d\u00e9livrer le texte, indiquant un ton particulier dans le jeux du personnage.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "6",
+      "explanation": "L'action de serrer la main est une forme d'interaction physique entre les personnages, relevant de l'interaction.",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 8513.527154922485,
+  "model": "gpt-4o-mini"
+}

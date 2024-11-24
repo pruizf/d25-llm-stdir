@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1350",
+      "category": "0",
+      "explanation": "Cette direction indique une action r\u00e9solue, sans sp\u00e9cifier d'internet ou de mouvement particulier.",
+      "stgdir": "Avec r\u00e9solution.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1351",
+      "category": "8",
+      "explanation": "Contient le mot 'Air' qui indique qu'il s'agit d'une musique ou d'une m\u00e9lodie.",
+      "stgdir": "Air : De la baronne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1352",
+      "category": "7",
+      "explanation": "Il s'agit d'un mouvement o\u00f9 le personnage ajuste son col, ce qui implique un geste physique.",
+      "stgdir": "Il ajuste son col.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1353",
+      "category": "8",
+      "explanation": "Le terme 'AIR' signale qu'il s'agit d'une m\u00e9lodie ou d'une musique.",
+      "stgdir": "AIR. Allons gai, toujours gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1354",
+      "category": "8",
+      "explanation": "Le mot 'Air' indique qu'une m\u00e9lodie est mentionn\u00e9e.",
+      "stgdir": "Air : Comment faire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1355",
+      "category": "6",
+      "explanation": "C'est une interaction entre le personnage et Phlipotte, m\u00eame si elle n'est pas verbale.",
+      "stgdir": "\u00c0 Phlipotte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1356",
+      "category": "6",
+      "explanation": "Indique une interaction avec le laquais, probablement un geste ou un regard.",
+      "stgdir": "Au laquais.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1357",
+      "category": "0",
+      "explanation": "Indique un acte physique o\u00f9 le personnage montre ses jambes.",
+      "stgdir": "En montrant ses jambes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1358",
+      "category": "8",
+      "explanation": "Le terme 'AIR' indique clairement qu'il s'agit d'une m\u00e9lodie.",
+      "stgdir": "AIR : le joli jeu d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1359",
+      "category": "0",
+      "explanation": "Cette direction montre que le personnage reste inactif et en contemplation, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il reste en contemplation.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5459.164381027222,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "580",
+      "category": "8",
+      "explanation": "Le 'RONDEAU du Prisonnier' fait r\u00e9f\u00e9rence \u00e0 un air ou une musique qui est cens\u00e9e \u00eatre jou\u00e9e, ce qui correspond \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "RONDEAU du Prisonnier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "581",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Florine' indique que le personnage adresse ses paroles ou ses actions \u00e0 Florine, ce qui correspond \u00e0 l'indication d'une adresse.",
+      "stgdir": "\u00c0 Florine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "582",
+      "category": "12",
+      "explanation": "'S'adressant \u00e0 L\u00e9andre' montre que le personnage s'adresse \u00e0 L\u00e9andre, ce qui le classe dans la cat\u00e9gorie d'adresse.",
+      "stgdir": "S'adressant \u00e0 L\u00e9andre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "583",
+      "category": "5",
+      "explanation": "Le personnage 'feint de s'en aller' implique un d\u00e9part ou une sortie fictive, ce qui le classe dans la cat\u00e9gorie de sortie.",
+      "stgdir": "Il feint de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "584",
+      "category": "8",
+      "explanation": "'Air : des Fraises' est une mention d'une musique ou d'un air, ce qui le place dans la cat\u00e9gorie de musique.",
+      "stgdir": "Air : des Fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "585",
+      "category": "12",
+      "explanation": "'\u00c0 Ardenie' indique que le personnage s'adresse \u00e0 Ardenie, ce qui correspond \u00e0 l'indication d'une adresse.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "586",
+      "category": "10",
+      "explanation": "La 'LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE' \u00e9voque un objet (la lettre) et son interaction avec les personnages, donc cela rel\u00e8ve de l'interaction avec un objet.",
+      "stgdir": "LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "587",
+      "category": "4",
+      "explanation": "'Fenise rentre' indique clairement l'entr\u00e9e d'un personnage sur sc\u00e8ne, ce qui le classe dans la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Fenise rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "588",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit une s\u00e9quence d'actions et d'\u00e9motions entre plusieurs personnages, ce qui lui conf\u00e8re une qualit\u00e9 narrative, donc elle se classe dans la cat\u00e9gorie de narration.",
+      "stgdir": "Tandis que cette premi\u00e8re statue par ses attitudes et ses pas, marque sa surprise et son admiration, Prom\u00e9th\u00e9e par ses gestes marque combien il est satisfait de son ouvrage, et t\u00e2che de faire entrer Mercure dans sa joie. II anime une seconde Statue qui est encore celle d'un homme, et qui exprime \u00e0 la vue du Ciel et de la Terre les m\u00eames mouvements de surprise que la premi\u00e8re ; ensuite ils s'aper\u00e7oivent, courent l'un \u00e0 l'autre, s'embrassent et se donnent tous les t\u00e9moignages de l'amiti\u00e9 la plus vive.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "589",
+      "category": "12",
+      "explanation": "'\u00c0 Philom\u00e8le' indique que le personnage s'adresse \u00e0 Philom\u00e8le, ce qui correspond \u00e0 l'indication d'une adresse.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14915.91763496399,
+  "model": "gpt-4o-mini"
+}

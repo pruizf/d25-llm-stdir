@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2820",
+      "category": "6",
+      "explanation": "Cette direction implique une interaction non verbale entre deux personnages, puisque l'un tend la main \u00e0 l'autre, ce qui est une forme de communication ou de contact physique.",
+      "stgdir": "Lui tendant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2821",
+      "category": "4",
+      "explanation": "Le personnage entre sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Il entre avec humeur, dans son cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2822",
+      "category": "8",
+      "explanation": "Cette direction mentionne une musique en indiquant un air sp\u00e9cifique, ce qui la classe sous la cat\u00e9gorie musique.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2823",
+      "category": "9",
+      "explanation": "Il s'agit d'une description narrative de la sc\u00e8ne o\u00f9 Junon est montr\u00e9e, ce qui caract\u00e9rise une direction de narration.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2824",
+      "category": "8",
+      "explanation": "Comme pour le pr\u00e9c\u00e9dent, cela mentionne un air de musique, ce qui le classe \u00e9galement sous la cat\u00e9gorie musique.",
+      "stgdir": "AIR : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2825",
+      "category": "3",
+      "explanation": "Cette indication mentionne un air et implique une mani\u00e8re d'interpr\u00e9ter la musique, ce qui le classe sous la cat\u00e9gorie de livraison.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2826",
+      "category": "12",
+      "explanation": "C'est une indication qui d\u00e9signe une interlocutrice, Mademoiselle Moli\u00e8re, ce qui correspond \u00e0 la cat\u00e9gorie d'adresse.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2827",
+      "category": "8",
+      "explanation": "Comme les pr\u00e9c\u00e9dents, cela indique un air musical, le pla\u00e7ant dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2828",
+      "category": "0",
+      "explanation": "Cette direction implique une action qui n'entre pas dans les autres cat\u00e9gories, car elle d\u00e9crit une interaction fantastique plut\u00f4t qu'une simple interaction non verbale.",
+      "stgdir": "Le Sagamo reste immobile Arlequin lui fait voler la t\u00eate de son propre sabre qu'il lui a \u00f4t\u00e9, mais tout \u00e0 coup il rena\u00eet une autre t\u00eate au Sagamo qui rit au nez d'Arlequin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2829",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit un tableau qui sert de d\u00e9cor \u00e0 la sc\u00e8ne, ce qui est en accord avec la cat\u00e9gorie de description de cadre.",
+      "stgdir": "Cassandre dans le tableau.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 7873.723983764648,
+  "model": "gpt-4o-mini"
+}

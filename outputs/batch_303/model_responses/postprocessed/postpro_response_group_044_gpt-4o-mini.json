@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "430",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit un lieu sp\u00e9cifique, le bois, ce qui en fait une description de l'environnement de la sc\u00e8ne.",
+      "stgdir": "dans le bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication musicale, sp\u00e9cifiant le titre d'un air, donc class\u00e9 sous la musique.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "0",
+      "explanation": "Il s'agit d'une action o\u00f9 un personnage examine un autre, sans connotation particuli\u00e8re d'agression ou d'interaction verbale.",
+      "stgdir": "Il l'examine des pieds \u00e0 la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "8",
+      "explanation": "Cette indication mentionne \u00e9galement un air, signifiant un moment musical dans la performance.",
+      "stgdir": "Air : Alarmez vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "10",
+      "explanation": "On d\u00e9crit ici l'action de manipuler des fruits et des fleurs, ce qui implique une interaction avec des objets.",
+      "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "7",
+      "explanation": "Cette direction indique un mouvement de marche d'Orph\u00e9e, sans indication d'une entr\u00e9e ou sortie.",
+      "stgdir": "Orph\u00e9e passe sans regarder Eurydice.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "6",
+      "explanation": "Il y a une interaction non verbale entre Hircan, qui lit, et Orph\u00e9e qui le voit.",
+      "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "Comme les autres directions musicales, cela mentionne un air, et donc fait partie de la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR : De la marche du Malade imaginaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction physique entre deux personnages, un baiser, qui est clairement une interaction non verbale.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "7",
+      "explanation": "Ici, l'action indique que le personnage se l\u00e8ve, ce qui constitue un mouvement sans indiquer une entr\u00e9e ou une sortie.",
+      "stgdir": "Il se l\u00e8ve, ainsi que Maurice.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 10119.229078292847,
+  "model": "gpt-4o-mini"
+}

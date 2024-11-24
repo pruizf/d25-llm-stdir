@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1260",
+      "category": 1,
+      "explanation": "L'action de 'poussant rudement' indique une agression physique, ce qui le classe dans la cat\u00e9gorie de l'agression.",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1261",
+      "category": 9,
+      "explanation": "Cette sc\u00e8ne contient une narration des sentiments de Madame Charpentier pour sa fille, ainsi que ses inqui\u00e9tudes, ce qui en fait une direction de narration.",
+      "stgdir": "Cette sc\u00e8ne est le contraire de la pr\u00e9c\u00e9dente. Madame_Charpentier se d\u00e9sole avec sa fille ; elle montre ses inqui\u00e9tudes, les dangers que court son fils, bien qu'il soit un honn\u00eate homme. Elle redoute la col\u00e8re et un refus de son mari.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1262",
+      "category": 9,
+      "explanation": "Cette ligne est plus descriptive et narrative, racontant un \u00e9v\u00e9nement li\u00e9 \u00e0 un ange, ce qui la classe dans la cat\u00e9gorie de narration.",
+      "stgdir": "Alors viendra un ange, tout de blanc habill\u00e9, une \u00e9p\u00e9e flamboyante \u00e0 la main, que Dieu placera \u00e0 la porte du paradis, en lui disant :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1263",
+      "category": 10,
+      "explanation": "Il s'agit d'une interaction avec un objet, puisqu'il s'agit de prendre une \u00e9p\u00e9e, ce qui en fait une direction li\u00e9e \u00e0 un objet.",
+      "stgdir": "Prenant son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1264",
+      "category": 9,
+      "explanation": "Le 'r\u00e9citatif' fait r\u00e9f\u00e9rence \u00e0 une sorte de narration ou d'expression po\u00e9tique, ce qui le classe dans la narration.",
+      "stgdir": "R\u00e9citatif De M. de la Ruette. N\u00b02",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1265",
+      "category": 10,
+      "explanation": "La mention d'un d\u00e9guisement implique une interaction avec un v\u00eatement ou un objet, ce qui le classe dans la cat\u00e9gorie de l'objet.",
+      "stgdir": "Il est d\u00e9guis\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1266",
+      "category": 10,
+      "explanation": "Donner \u00e0 son ma\u00eetre un re\u00e7u implique une interaction directe avec un objet, classant cette direction dans la cat\u00e9gorie de l'objet.",
+      "stgdir": "Il donne \u00e0 son ma\u00eetre le re\u00e7u de Rosalie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1267",
+      "category": 11,
+      "explanation": "La mention d'une 'salle d'auberge' d\u00e9crit le lieu o\u00f9 se d\u00e9roule la sc\u00e8ne, ce qui la classe dans la description du d\u00e9cor.",
+      "stgdir": "Une salle d'auberge.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1268",
+      "category": 10,
+      "explanation": "Prendre un chapeau qui avait \u00e9t\u00e9 laiss\u00e9 implique une interaction avec un objet, le classant ainsi dans la cat\u00e9gorie de l'objet.",
+      "stgdir": "En prenant le chapeau qu'Olympe avait laiss\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1269",
+      "category": 7,
+      "explanation": "Apercevoir quelqu'un indique un mouvement ou une action de la part du personnage qui se rapproche d'Amphitryon, le classant dans la cat\u00e9gorie du mouvement.",
+      "stgdir": "Apercevant Amphitryon.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 7142.252206802368,
+  "model": "gpt-4o-mini"
+}

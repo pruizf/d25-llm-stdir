@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "120",
+      "category": "6",
+      "explanation": "This direction indicates an interaction with the young character Arz\u00e9mon, suggesting a non-verbal connection or gesture.",
+      "confidence": 0.8,
+      "stgdir": "Au jeune Arz\u00e9mon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "121",
+      "category": "5",
+      "explanation": "The phrase 'Jos\u00e9phine et Marthe sortent' directly indicates that characters are exiting the stage.",
+      "confidence": 1.0,
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "122",
+      "category": "5",
+      "explanation": "The phrase 'Frontin s'en va' clearly indicates that the character is leaving the stage.",
+      "confidence": 1.0,
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "123",
+      "category": "7",
+      "explanation": "The phrase 'En montrant la ville' describes a movement or action of showing, which is related to character movement in depicting the city.",
+      "confidence": 0.9,
+      "stgdir": "En montrant la ville.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "124",
+      "category": "1",
+      "explanation": "The phrase 'Alfonce et Marc Antoine les frappent chacun le sien' describes a violent action where characters are hitting, fitting the aggression category.",
+      "confidence": 1.0,
+      "stgdir": "Alfonce et Marc Antoine les frappent chacun le sien.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "125",
+      "category": "0",
+      "explanation": "The phrase 'Il frappe trois fois' indicates a general action of striking, without a violent context, thus placing it in the action category.",
+      "confidence": 0.8,
+      "stgdir": "Il frappe trois fois.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "126",
+      "category": "4",
+      "explanation": "The phrase 'Tersky para\u00eet avec Isolan, Buttler et d'autres officiers' indicates the entrance of the character Tersky along with others, which fits the entrance category.",
+      "confidence": 1.0,
+      "stgdir": "Tersky para\u00eet avec Isolan, Buttler et d'autres officiers.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "127",
+      "category": "12",
+      "explanation": "The phrase 'Apercevant Octave' implies a focus or direction toward Octave, suggesting that someone is looking or responding to him.",
+      "confidence": 0.9,
+      "stgdir": "Apercevant Octave.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "128",
+      "category": "3",
+      "explanation": "The phrase 'S'exaltant' suggests a delivery of emotion or a vocal expression of excitement, fitting the delivery category.",
+      "confidence": 0.85,
+      "stgdir": "S'exaltant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "129",
+      "category": "10",
+      "explanation": "The phrase 'Il lui donne le billet de Julie' involves giving an object (the note), which fits the object category.",
+      "confidence": 1.0,
+      "stgdir": "Il lui donne le billet de Julie.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 10538.684368133545,
+  "model": "gpt-4o-mini"
+}

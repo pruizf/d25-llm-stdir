@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1900",
+      "category": 3,
+      "explanation": "La phrase 'Quel plaisir va nous unir.' indique une mani\u00e8re de livrer une \u00e9motion, t\u00e9moignant d'un sentiment, donc cela correspond \u00e0 la cat\u00e9gorie de livraison.",
+      "stgdir": "AIR. Quel plaisir va nous unir.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1901",
+      "category": 8,
+      "explanation": "Le terme 'AIR 61 : Les Trembleurs.' d\u00e9signe une m\u00e9lodie, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1902",
+      "category": 8,
+      "explanation": "Le terme 'Air : Des Proverbes.' indique \u00e9galement une m\u00e9lodie, et donc il appartient \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Des Proverbes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1903",
+      "category": 7,
+      "explanation": "La phrase 'Azor fait un pas.' d\u00e9crit un mouvement du personnage, ce qui le classe dans la cat\u00e9gorie de mouvement.",
+      "stgdir": "Azor fait un pas.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1904",
+      "category": 9,
+      "explanation": "La description 'Elle s'affaisse dans les bras de Rosalie et glisse peu \u00e0 peu jusqu'\u00e0 terre.' a une qualit\u00e9 narrative, d\u00e9crivant une s\u00e9quence d'actions, ce qui le place dans la narration.",
+      "stgdir": "Elle s'affaisse dans les bras de Rosalie et glisse peu \u00e0 peu jusqu'\u00e0 terre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1905",
+      "category": 6,
+      "explanation": "Le terme 'Pr\u00e9sentant.' implique une interaction non verbale avec les autres personnages, donc cela correspond \u00e0 la cat\u00e9gorie d'interaction.",
+      "stgdir": "Pr\u00e9sentant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1906",
+      "category": 5,
+      "explanation": "La phrase 'Ils sortent tous, except\u00e9 H\u00e9mon et Antigone.' indique une sortie d'une ou plusieurs personnes, ce qui le classe dans la cat\u00e9gorie de sortie.",
+      "stgdir": "Ils sortent tous, except\u00e9 H\u00e9mon et Antigone.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1907",
+      "category": 6,
+      "explanation": "Le fait de 'Regardant la figure de la madone.' est une interaction non verbale, c'est-\u00e0-dire observer quelque chose, donc cela correspond \u00e0 l'interaction.",
+      "stgdir": "Regardant la figure de la madone.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1908",
+      "category": 9,
+      "explanation": "L'expression 'Le bruit redouble.' a une qualit\u00e9 narrative, d\u00e9crivant un \u00e9v\u00e9nement sonore dans le contexte de l'histoire, ce qui en fait une narration.",
+      "stgdir": "Le bruit redouble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1909",
+      "category": 8,
+      "explanation": "Le terme 'Air : Des Fraises.' d\u00e9signe une m\u00e9lodie, et donc cela appartenant \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Des Fraises.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8723.471403121948,
+  "model": "gpt-4o-mini"
+}

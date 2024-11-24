@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1250",
+      "category": "0",
+      "explanation": "Lucile regarde. - Il s'agit d'une action g\u00e9n\u00e9rale o\u00f9 un personnage observe quelque chose.",
+      "stgdir": "Lucile regarde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1251",
+      "category": "4",
+      "explanation": "La porte se rouvre. - Cela indique qu'un personnage ou un \u00e9l\u00e9ment entre sur sc\u00e8ne.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1252",
+      "category": "5",
+      "explanation": "Monsieur de Saint-Franc sort avec le Notaire. - Cette direction indique que deux personnages quittent la sc\u00e8ne.",
+      "stgdir": "Monsieur de Saint-Franc sort avec le Notaire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1253",
+      "category": "6",
+      "explanation": "Il tient le bras de Beline, croyant tenir celui de la Malade. - Cela montre une interaction non verbale entre deux personnages.",
+      "stgdir": "Il tient le bras de Beline, croyant tenir celui de la Malade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1254",
+      "category": "7",
+      "explanation": "Il va au fils. - Cela d\u00e9crit un mouvement du personnage vers un autre sans indication d'entr\u00e9e ou de sortie.",
+      "stgdir": "Il va au fils.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1255",
+      "category": "6",
+      "explanation": "Il veut lui baiser la main. - Cela implique une forme d'interaction avec un autre personnage.",
+      "stgdir": "Il veut lui baiser la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1256",
+      "category": "8",
+      "explanation": "COUPLETS sur l'air : De la b\u00e9quille du p\u00e8re Barnabas. - Ceci fait r\u00e9f\u00e9rence \u00e0 une musique ou une chanson pendant la sc\u00e8ne.",
+      "stgdir": "COUPLETS sur l'air : De la b\u00e9quille du p\u00e8re Barnabas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1257",
+      "category": "10",
+      "explanation": "Il se fouille. - Cela implique une manipulation d'objet, probablement une poche ou un v\u00eatement.",
+      "stgdir": "Il se fouille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1258",
+      "category": "7",
+      "explanation": "Elle se dirige vers la porte. - Cela indique un mouvement d'un personnage vers un emplacement sp\u00e9cifique.",
+      "stgdir": "Elle se dirige vers la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1259",
+      "category": "12",
+      "explanation": "Montrant Montval. - Cela implique une direction ou une indication vers un autre personnage ou un lieu, ce qui peut \u00eatre interpr\u00e9t\u00e9 comme s'adressant \u00e0 quelqu'un.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 6527.01210975647,
+  "model": "gpt-4o-mini"
+}

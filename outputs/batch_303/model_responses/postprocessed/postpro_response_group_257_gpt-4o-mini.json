@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2560",
+      "category": "8",
+      "explanation": "Il fredonne l'Amant d'Amanda se r\u00e9f\u00e8re \u00e0 une action musicale, indiquant que le personnage chante une m\u00e9lodie.",
+      "stgdir": "Il fredonne l'Amant d'Amanda.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2561",
+      "category": "8",
+      "explanation": "Air : n\u00b0 1 est une indication musicale, se rapportant \u00e0 un air sp\u00e9cifique sans qu'il s'agisse du chant d'un personnage.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2562",
+      "category": "4",
+      "explanation": "Elle frappe \u00e0 la porte en dehors indique l'entr\u00e9e d'un personnage par le biais d'un geste d'appel.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2563",
+      "category": "1",
+      "explanation": "L\u00e0 ils recommencent le combat plus vivement indique une action violente, li\u00e9e \u00e0 l'agression.",
+      "stgdir": "L\u00e0 ils recommencent le combat plus vivement.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2564",
+      "category": "6",
+      "explanation": "Elle se laisse embrasser d\u00e9crit une interaction non verbale entre deux personnages.",
+      "stgdir": "Elle se laisse embrasser.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2565",
+      "category": "0",
+      "explanation": "Camille s'assoit est une action g\u00e9n\u00e9rale de prendre place, sans connotation sp\u00e9cifique.",
+      "stgdir": "Camille s'assoit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2566",
+      "category": "8",
+      "explanation": "CANTATE fait r\u00e9f\u00e9rence \u00e0 un type de musique ou \u00e0 une performance musicale.",
+      "stgdir": "CANTATE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2567",
+      "category": "8",
+      "explanation": "On danse, et la danse est coup\u00e9e par ces deux couplets indique une activit\u00e9 musicale et de danse.",
+      "stgdir": "On danse, et la danse est coup\u00e9e par ces deux couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2568",
+      "category": "10",
+      "explanation": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9 implique l'interaction d'un personnage avec un objet particulier \u2014 le p\u00e2t\u00e9.",
+      "stgdir": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2569",
+      "category": "3",
+      "explanation": "Il parle \u00e0 Troile indique l'acte de parler, ce qui est associ\u00e9 \u00e0 l'\u00e9motion et la vocalisation.",
+      "stgdir": "Il parle \u00e0 Troile.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 6996.817111968994,
+  "model": "gpt-4o-mini"
+}

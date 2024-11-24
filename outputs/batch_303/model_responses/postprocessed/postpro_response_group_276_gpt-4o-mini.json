@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2750",
+      "category": "5",
+      "explanation": "Gallas sort indicates that a character exits the stage.",
+      "stgdir": "Gallas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2751",
+      "category": "10",
+      "explanation": "Il prend une \u00e9chelle d'espalier describes the interaction with an object, as the character takes a ladder.",
+      "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2752",
+      "category": "11",
+      "explanation": "\u00c0 La Brie refers to a setting, indicating the location of the scene.",
+      "stgdir": "\u00c0 La Brie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2753",
+      "category": "6",
+      "explanation": "Voyant Gaston describes a character's non-verbal interaction as they see another character.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2754",
+      "category": "1",
+      "explanation": "Il frappe Arlequin indicates a violent action where one character hits another.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2755",
+      "category": "7",
+      "explanation": "Le garde s'\u00e9loigne un moment indicates movement as the guard moves away.",
+      "stgdir": "Le garde s'\u00e9loigne un moment.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2756",
+      "category": "4",
+      "explanation": "Salviati entre dans le palais indicates that a character is entering the stage.",
+      "stgdir": "Salviati entre dans le palais.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2757",
+      "category": "8",
+      "explanation": "Air : Eh! zon, zon, zon specifies a tune, indicating music.",
+      "stgdir": "Air : Eh! zon, zon, zon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2758",
+      "category": "0",
+      "explanation": "On frappe de nouveau indicates an action of knocking but is too general to fit other specific categories.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2759",
+      "category": "4",
+      "explanation": "Premi\u00e8re entr\u00e9e refers to a character's entrance, indicating they are coming on stage.",
+      "stgdir": "Premi\u00e8re entr\u00e9e.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 4954.030513763428,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1780",
+      "category": "7",
+      "explanation": "L'expression 'Vivement et allant \u00e0 lui' d\u00e9crit un mouvement vers une autre personne, ce qui correspond \u00e0 la cat\u00e9gorie de mouvement.",
+      "stgdir": "Vivement et allant \u00e0 lui.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1781",
+      "category": "9",
+      "explanation": "Cette direction contient une narration longue d\u00e9crivant une s\u00e9quence d'actions entre diff\u00e9rents personnages, ce qui en fait un bon exemple de narration.",
+      "stgdir": "Ils se retirent chacun de leur c\u00f4t\u00e9. Les filous reviennent, se f\u00e9licitent de leur fourberie et se proposent de partager la bourse. Divertissant dit qu'il en veut les deux tiers ; Sans-Quartier pr\u00e9tend en avoir la moiti\u00e9. Ils se battent, le Ma\u00eetre et Gilles se jettent sur eux, appellent les voisins \u00e0 leur secours. Ils s'emparent de la bourse et battent les filous qui se sauvent, poursuivis par les voisins. Gilles, anim\u00e9 de col\u00e8re, ne s'en aper\u00e7oit pas, il se jette sur son ma\u00eetre qui tient la bourse, la lui veut arracher ; l'assomme de coups. Le Ma\u00eetre crie au secours, les voisins l'arrachent des mains de Gilles qui rosse et son ma\u00eetre et tous les voisins. Apr\u00e8s s'\u00eatre bien battus, ils se reconnaissent, s'embrassent et finissent ainsi la parade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1782",
+      "category": "4",
+      "explanation": "L'arriv\u00e9e de 'Monsieur de Courcelles' indique l'entr\u00e9e d'un personnage sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Au moment o\u00f9 l'on voit qu'elle va dire : J'irai, arrive Monsieur de Courcelles.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1783",
+      "category": "4",
+      "explanation": "L'arriv\u00e9e de 'L'Exempt et ses Gardes' d\u00e9signe \u00e9galement une entr\u00e9e de personnages sur sc\u00e8ne.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1784",
+      "category": "11",
+      "explanation": "Le 'camp sous Varsovie' d\u00e9crit un lieu de la sc\u00e8ne, ce qui en fait une description de la mise en sc\u00e8ne.",
+      "stgdir": "Le camp sous Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1785",
+      "category": "11",
+      "explanation": "La mention '\u00c0 Alcipe' indique un lieu et fournit un cadre pour la sc\u00e8ne, class\u00e9 sous la cat\u00e9gorie de mise en sc\u00e8ne.",
+      "stgdir": "\u00c0 Alcipe.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1786",
+      "category": "5",
+      "explanation": "L'expression 'Ils sortent de la maison d'Atalante' indique qu'ils quittent la sc\u00e8ne, ce qui est class\u00e9 sous la cat\u00e9gorie de sortie.",
+      "stgdir": "Ils sortent de la maison d'Atalante.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1787",
+      "category": "11",
+      "explanation": "Le mention '\u00c0 Monr\u00e9al fils' fait r\u00e9f\u00e9rence \u00e0 un emplacement, donc cela correspond \u00e0 la cat\u00e9gorie de mise en sc\u00e8ne.",
+      "stgdir": "\u00c0 Monr\u00e9al fils.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1788",
+      "category": "10",
+      "explanation": "La phrase 'Il veut prendre Javotte' implique une interaction avec un objet ou une personne, donc elle est class\u00e9e sous la cat\u00e9gorie d'objet.",
+      "stgdir": "Il veut prendre Javotte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1789",
+      "category": "0",
+      "explanation": "L'indication 'Tout le monde garde le silence' implique une action g\u00e9n\u00e9rale par des personnages, indiquant qu'ils n'agissent pas ou ne parlent pas, donc cela correspond \u00e0 l'action.",
+      "stgdir": "Tout le monde garde le silence.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8595.914840698242,
+  "model": "gpt-4o-mini"
+}

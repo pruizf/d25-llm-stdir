@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1120",
+      "category": "11",
+      "explanation": "C'est une indication de lieu, sp\u00e9cifiant '\u00c0 Arsino\u00e9', ce qui d\u00e9finit le cadre de l'histoire.",
+      "stgdir": "\u00c0 Arsino\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1121",
+      "category": "9",
+      "explanation": "C'est une description d'un bruit li\u00e9 \u00e0 une cl\u00e9 dans la serrure, apportant un \u00e9l\u00e9ment narratif au moment.",
+      "stgdir": "Un bruit de clef dans la serrure de l'antichambre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1122",
+      "category": "11",
+      "explanation": "C'est une description de d\u00e9cor pour le Ve acte, indiquant la sc\u00e8ne et son am\u00e9nagement visuel.",
+      "stgdir": "D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1123",
+      "category": "8",
+      "explanation": "La mention de 'La musique continue' indique que la musique joue un r\u00f4le dans l'ambiance de la sc\u00e8ne.",
+      "stgdir": "La musique continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1124",
+      "category": "5",
+      "explanation": "L'expression 'Ils se sauvent' indique une sortie des personnages, ce qui correspond \u00e0 une direction de sortie.",
+      "stgdir": "Ils se sauvent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1125",
+      "category": "3",
+      "explanation": "La mention d'un 'AIR' indique une performance musicale, caract\u00e9risant l'\u00e9motion ou l'expression d'un personnage.",
+      "stgdir": "AIR. Tu croyais en aimant Colette.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1126",
+      "category": "6",
+      "explanation": "C'est une interaction entre deux personnages, '\u00c0 Madame Abraham, en allant l'embrasser' indique un geste d'affection.",
+      "stgdir": "\u00c0 Madame Abraham, en allant l'embrasser.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1127",
+      "category": "5",
+      "explanation": "L'indication que 'Oloodeme et Eristene se retirent' montre que ces personnages sortent de la sc\u00e8ne.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1128",
+      "category": "10",
+      "explanation": "Cette direction indique une interaction avec un objet, sp\u00e9cifiquement 'Il examine les papiers', mettant en avant une action avec un objet.",
+      "stgdir": "Il examine les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1129",
+      "category": "8",
+      "explanation": "Une autre indication de musique, en commen\u00e7ant par 'AIR', souligne la pr\u00e9sence d'une m\u00e9lodie ou d'une performance musicale.",
+      "stgdir": "AIR. Contre un engagement, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7738.534450531006,
+  "model": "gpt-4o-mini"
+}

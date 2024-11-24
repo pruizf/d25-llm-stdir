@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "240",
+      "category": 5,
+      "explanation": "L'utilisation de 'Il sort' indique une sortie du personnage, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "confidence": 1.0,
+      "stgdir": "Il sort avec Dorante.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": 12,
+      "explanation": "Le '\u00c0 Adario' indique que la r\u00e9plique ou l'action est dirig\u00e9e vers un personnage sp\u00e9cifique, ce qui correspond \u00e0 l'indication de l'addressee.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": 12,
+      "explanation": "Comme pour le pr\u00e9c\u00e9dent, '\u00c0 Crispin' indique que l'action ou les mots sont destin\u00e9s \u00e0 un personnage particulier.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 Crispin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": 10,
+      "explanation": "Montrer une lettre implique de manipuler un objet, c'est-\u00e0-dire la lettre, ce qui correspond \u00e0 la cat\u00e9gorie objet.",
+      "confidence": 1.0,
+      "stgdir": "Montrant la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": 6,
+      "explanation": "Tourner son attention vers quelqu'un et lui parler implique une interaction verbale et non verbale entre personnages, correspondant \u00e0 l'interaction.",
+      "confidence": 1.0,
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": 10,
+      "explanation": "\u00d4ter le chapeau de quelqu'un implique l'utilisation d'un objet et une interaction avec celui-ci, d'o\u00f9 la classification comme objet.",
+      "confidence": 1.0,
+      "stgdir": "Arnolphe \u00f4te le chapeau de dessus la t\u00eate d'Alain.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": 5,
+      "explanation": "Le 'sort' indique une sortie du personnage, ce qui est en ligne avec la cat\u00e9gorie de sortie.",
+      "confidence": 1.0,
+      "stgdir": "Odmar sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": 8,
+      "explanation": "Ce stage direction commence par 'Air Not\u00e9' et indique une pi\u00e8ce musicale, ce qui le classe clairement dans la cat\u00e9gorie musique.",
+      "confidence": 1.0,
+      "stgdir": "Air Not\u00e9, N\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": 8,
+      "explanation": "Comme pour le pr\u00e9c\u00e9dent, 'Air : Non je ne ferai pas, etc.' indique une mention musicale, le classant ainsi dans la cat\u00e9gorie musique.",
+      "confidence": 1.0,
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": 12,
+      "explanation": "'\u00c0 Germeuil' indique que l'action ou les mots sont adress\u00e9s \u00e0 un autre personnage, ce qui rel\u00e8ve de l'indication de l'addressee.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 Germeuil.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8318.554878234863,
+  "model": "gpt-4o-mini"
+}

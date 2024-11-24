@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2040",
+      "category": "10",
+      "explanation": "Elle distribue les cartes implique la manipulation d'objets, sp\u00e9cifiquement des cartes.",
+      "stgdir": "Elle distribue les cartes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2041",
+      "category": "9",
+      "explanation": "Cette direction raconte une s\u00e9rie d'\u00e9v\u00e9nements concernant des \u00e9motions et des interactions entre personnages, ce qui lui conf\u00e8re une qualit\u00e9 narrative.",
+      "stgdir": "Mais ses avertissements n'ont point eu place dans un coeur passionn\u00e9 : au contraire, l'arriv\u00e9e du Magicien anime sa fureur, lorsqu'il luy donne une bague qui fondra la glace du Coeur de cette Grande Reine, si elle peut \u00eatre mise dans son doigt. Il l'envoie par un second Ambassade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2042",
+      "category": "12",
+      "explanation": "\u00c0 Am\u00e9lite indique une direction vers un interlocuteur, signifiant \u00e0 qui la sc\u00e8ne ou le dialogue est destin\u00e9.",
+      "stgdir": "\u00c0 Am\u00e9lite.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2043",
+      "category": "8",
+      "explanation": "Air Que Dieu b\u00e9nisse la besogne est clairement une indication musicale, mentionnant une m\u00e9lodie ou une chanson.",
+      "stgdir": "Air Que Dieu b\u00e9nisse la besogne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2044",
+      "category": "8",
+      "explanation": "Seconde chanson \u00e0 boire signale \u00e9galement une indication musicale, faisant r\u00e9f\u00e9rence \u00e0 une chanson.",
+      "stgdir": "Seconde chanson \u00e0 boire",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2045",
+      "category": "11",
+      "explanation": "Un paysage ath\u00e9nien o\u00f9 se prom\u00e8ne Th\u00e9odore de Banville d\u00e9crit le cadre de la sc\u00e8ne, servant d'arri\u00e8re-plan \u00e0 l'action.",
+      "stgdir": "Un paysage ath\u00e9nien o\u00f9 se prom\u00e8ne Th\u00e9odore de Banville, v\u00eatu seulement d'un thyrse, comme le dieu Liber.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2046",
+      "category": "8",
+      "explanation": "Air : Dans un bosquet indique une modalit\u00e9 musicale, signalant une chanson ou une m\u00e9lodie \u00e0 jouer.",
+      "stgdir": "Air : Dans un bosquet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2047",
+      "category": "8",
+      "explanation": "Air : Quand on a prononc\u00e9 ce malheureux oui est une nouvelle indication musicale, qui mentionne une chanson.",
+      "stgdir": "Air : Quand on a prononc\u00e9 ce malheureux oui",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2048",
+      "category": "1",
+      "explanation": "Il tire son \u00e9p\u00e9e, et veut se tuer implique une action violente, ce qui le classe sous l'agression.",
+      "stgdir": "Il tire son \u00e9p\u00e9e, et veut se tuer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2049",
+      "category": "9",
+      "explanation": "Cette direction fournit une narration d\u00e9taill\u00e9e d'une situation \u00e9motionnelle complexe, et des d\u00e9cisions prises par des personnages.",
+      "stgdir": "L'AMOUR, voyant que ses lois, qui avaient toujours \u00e9t\u00e9 fort respect\u00e9es de tout le monde, n'\u00e9taient plus en si grande consid\u00e9ration, et que le pouvoir qu'il avait eu jusques ici sur les coeurs commen\u00e7ait \u00e0 se diminuer, depuis que les Pr\u00e9cieuses s'\u00e9taient introduites dans les compagnies, d'o\u00f9 elles avaient r\u00e9solu de le bannir enti\u00e8rement, entra dans une col\u00e8re dont on n'eut jamais cru qu'un enfant eut \u00e9t\u00e9 capable, et jura de se venger d'elles, \u00e0 quelque prix que ce fut, et voulut m\u00eame engager ses fid\u00e8les sujets en cette occasion, leur ordonnant de se d\u00e9clarer ouvertement contre ces ennemies communes ; ce qui leur fit chercher un moyen de contenter leur petit Dieu, et crurent ne le pouvoir pas mieux faire qu'en les discr\u00e9ditant parmi le peuple, d\u00e9peignant dans un Almanach leurs figures grotesques et leurs belles occupations, ce qui fut aussi t\u00f4t fait.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 6633.874177932739,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "960",
+      "category": "11",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit un lieu, les rivages du Tibre, ce qui correspond \u00e0 la cat\u00e9gorie de la mise en sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "961",
+      "category": "9",
+      "explanation": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre, ce qui d\u00e9crit un son et a une qualit\u00e9 narrative.",
+      "stgdir": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "962",
+      "category": "11",
+      "explanation": "Cette direction indique un changement de d\u00e9cor, d\u00e9crivant un d\u00e9sert et une grotte, ce qui est un aspect de la mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "963",
+      "category": "5",
+      "explanation": "Don Quichotte se retire indique clairement que le personnage sort de la sc\u00e8ne.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "964",
+      "category": "6",
+      "explanation": "Il embrasse Ducr\u00f4ne et Jenneval montre une interaction non verbale entre les personnages.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "965",
+      "category": "9",
+      "explanation": "SC\u00c8NES FRAN\u00c7AISES ne fait pas r\u00e9f\u00e9rence \u00e0 une action directe mais semble indiquer un moment narratif dans le spectacle.",
+      "stgdir": "SC\u00c8NES FRAN\u00c7AISES.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "966",
+      "category": "5",
+      "explanation": "Elle s'\u00e9loigne avec Perillo indique que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "967",
+      "category": "5",
+      "explanation": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin indique que la troupe quitte la sc\u00e8ne.",
+      "stgdir": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "968",
+      "category": "5",
+      "explanation": "Ils s'en vont confirme que les personnages quittent la sc\u00e8ne.",
+      "stgdir": "Ils s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "969",
+      "category": "7",
+      "explanation": "Se relevant d\u00e9crit un mouvement du personnage qui se l\u00e8ve, ce qui correspond \u00e0 la cat\u00e9gorie de mouvement.",
+      "stgdir": "Se relevant.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 14406.495809555054,
+  "model": "gpt-4o-mini"
+}

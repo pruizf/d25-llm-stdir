@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2150",
+      "category": "9",
+      "explanation": "Le th\u00e9\u00e2tre tremble \u00e9voque une ambiance ou une atmosph\u00e8re, ce qui donne une qualit\u00e9 narrative.",
+      "stgdir": "Le th\u00e9\u00e2tre tremble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2151",
+      "category": "7",
+      "explanation": "S'avan\u00e7ant ensuite vers la Vicomtesse d\u00e9crit un mouvement vers une autre personne.",
+      "stgdir": "S'avan\u00e7ant ensuite vers la Vicomtesse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2152",
+      "category": "0",
+      "explanation": "Apr\u00e8s avoir regard\u00e9 de tous c\u00f4t\u00e9s est une action g\u00e9n\u00e9rale o\u00f9 un personnage examine son environnement.",
+      "stgdir": "Apr\u00e8s avoir regard\u00e9 de tous cot\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2153",
+      "category": "1",
+      "explanation": "Ici le couteau lui tombe [des] mains implique un \u00e9l\u00e9ment potentiellement dangereux, indiquant une possible aggression.",
+      "stgdir": "Ici le couteau lui tombe [des] mains.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2154",
+      "category": "7",
+      "explanation": "Il est port\u00e9 vers Cl\u00e9op\u00e2tre indique un mouvement vers une autre personne.",
+      "stgdir": "Il est port\u00e9 vers Cl\u00e9op\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2155",
+      "category": "8",
+      "explanation": "Air. L\u00e0-haut sur ces montagnes commence par 'Air', indiquant qu'il s'agit d'une musique ou d'une m\u00e9lodie.",
+      "stgdir": "Air. L\u00e0-haut sur ces montagnes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2156",
+      "category": "7",
+      "explanation": "Elle va s'asseoir \u00e0 gauche d\u00e9signe un mouvement vers une position assise.",
+      "stgdir": "Elle va s'asseoir \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2157",
+      "category": "10",
+      "explanation": "Il les tient pr\u00eat \u00e0 les d\u00e9chirer implique l'interaction physique avec un objet et sugg\u00e8re la manipulation d'objets.",
+      "stgdir": "Il les tient pr\u00eat \u00e0 les d\u00e9chirer.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2158",
+      "category": "8",
+      "explanation": "Air : Femmes, voulez-vous \u00e9prouver commence par 'Air', ce qui indique qu'il s'agit de musique.",
+      "stgdir": "Air : Femmes, voulez-vous \u00e9prouver.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2159",
+      "category": "10",
+      "explanation": "Il pose un domino d\u00e9crit une interaction avec un objet (le domino).",
+      "stgdir": "Il pose un domino.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 8376.111030578613,
+  "model": "gpt-4o-mini"
+}

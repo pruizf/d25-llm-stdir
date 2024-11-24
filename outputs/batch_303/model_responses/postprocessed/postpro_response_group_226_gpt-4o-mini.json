@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2250",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit un \u00e9v\u00e9nement m\u00e9t\u00e9orologique avec des vents et un serpent Python, ce qui lui donne une qualit\u00e9 narrative.",
+      "stgdir": "Ces vents forment de nouveaux tourbillons, tandis que le serpent Python l'\u00e9l\u00e8ve en l'air, par un rond qu'il fait en volant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2251",
+      "category": "1",
+      "explanation": "Le Duc Dessau oppose ses desseins, ce qui implique une certaine forme d'agression li\u00e9e \u00e0 la perte de son fr\u00e8re.",
+      "stgdir": "Mais le Duc Dessau impatient de la perte de son Fr\u00e8re, se r\u00e9sout de s'opposer \u00e0 ses desseins.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2252",
+      "category": "12",
+      "explanation": "L'indication '\u00c0 Thibaut' signale clairement l'interlocuteur de la sc\u00e8ne ou de la ligne de dialogue.",
+      "stgdir": "\u00c0 Thibaut.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2253",
+      "category": "3",
+      "explanation": "L'\u00e9l\u00e9vation de la voix indique un changement dans la mani\u00e8re de livrer un discours, ce qui qualifie cette direction comme relative \u00e0 la livraison.",
+      "stgdir": "\u00c9levant aussi sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2254",
+      "category": "3",
+      "explanation": "Reprendre un ton familier et indiff\u00e9rent se r\u00e9f\u00e8re \u00e0 une mani\u00e8re de livrer une ligne plut\u00f4t qu'\u00e0 un d\u00e9placement ou une action sp\u00e9cifique.",
+      "stgdir": "Reprenant son ton de voix familier et indiff\u00e9rent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2255",
+      "category": "8",
+      "explanation": "Le terme 'AIR' est utilis\u00e9 pour d\u00e9signer une chanson, ce qui le classe dans la cat\u00e9gorie musique.",
+      "stgdir": "AIR. Chantez mon Petit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2256",
+      "category": "12",
+      "explanation": "Cette indication '\u00c0 Francis' montre le destinataire de la parole ou de l'action, d'o\u00f9 la classification vers l'adresse.",
+      "stgdir": "\u00c0 Francis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2257",
+      "category": "12",
+      "explanation": "Indiquer '\u00c0 l'Amour' implique aussi une adresse sp\u00e9cifique \u00e0 un concept ou une personne, clarifiant ainsi \u00e0 qui la sc\u00e8ne s'adresse.",
+      "stgdir": "\u00c0 l'Amour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2258",
+      "category": "12",
+      "explanation": "Tout comme pour les autres indications d'adresse, '\u00c0 Clairville' indique l'interlocuteur de la sc\u00e8ne.",
+      "stgdir": "\u00c0 Clairville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2259",
+      "category": "12",
+      "explanation": "Une autre indication d'adresse, '\u00c0 C\u00e9lie', pr\u00e9cise simplement le destinataire de l'interaction.",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5925.333023071289,
+  "model": "gpt-4o-mini"
+}

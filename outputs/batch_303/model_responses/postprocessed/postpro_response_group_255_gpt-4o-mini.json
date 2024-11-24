@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2540",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale o\u00f9 un personnage parle \u00e0 un autre \u00e0 l'oreille.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2541",
+      "category": "9",
+      "explanation": "C'est une indication pour un personnage sans action physique, ce qui sugg\u00e8re une narration.",
+      "stgdir": "II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2542",
+      "category": "4",
+      "explanation": "Il s'agit de l'entr\u00e9e de plusieurs personnages sur sc\u00e8ne.",
+      "stgdir": "Entrent le gardien Beno\u00eet, Moral\u00e8s, le Juge d'instruction, le Directeur de la prison, et les autres personnes (ad libitum) qui l\u00e9galement doivent assister \u00e0 une ex\u00e9cution capitale : Docteur, commissaire de police, greffier, etc.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2543",
+      "category": "9",
+      "explanation": "C'est une description d'une sc\u00e8ne ou d'une action o\u00f9 des conjur\u00e9s et un bruit de pas sont mentionn\u00e9s, ce qui a une qualit\u00e9 narrative.",
+      "stgdir": "Nouveaux conjur\u00e9s. Bruit de pas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2544",
+      "category": "8",
+      "explanation": "La mention d'une trompette qui commence \u00e0 jouer indique une circonstance musicale.",
+      "stgdir": "Neptune ayant achev\u00e9, une trompette commence \u00e0 \u00e9clater hautement et encourager les tritons \u00e0 faire de m\u00eame. Cependant le sieur de Poutrincourt tenait son \u00e9p\u00e9e en main, laquelle il ne remit point au fourreau jusques \u00e0 ce que les tritons eurent prononc\u00e9 comme s'ensuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2545",
+      "category": "8",
+      "explanation": "Il s'agit d'un couplet de chant, indiquant une composante musicale.",
+      "stgdir": "1er Couplet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2546",
+      "category": "8",
+      "explanation": "La reprise du Choeur indique un moment musical dans la pi\u00e8ce.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2547",
+      "category": "4",
+      "explanation": "Ici, une fille entre sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "La fille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2548",
+      "category": "7",
+      "explanation": "Ce stage direction d\u00e9crit un mouvement dans lequel un personnage cherche de la main sans tourner la t\u00eate.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2549",
+      "category": "6",
+      "explanation": "Elle montre quelqu'un du doigt, ce qui constitue une interaction non verbale.",
+      "stgdir": "Elle le montre du doigt.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 7372.106075286865,
+  "model": "gpt-4o-mini"
+}

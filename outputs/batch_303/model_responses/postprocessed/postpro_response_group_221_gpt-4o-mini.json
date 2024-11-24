@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2200",
+      "category": "6",
+      "explanation": "Regardant Ang\u00e9lique implique une interaction non verbale, o\u00f9 le personnage utilise le regard pour \u00e9tablir une connexion.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2201",
+      "category": "7",
+      "explanation": "Marche des Acteurs du Divertissement se r\u00e9f\u00e8re \u00e0 un mouvement g\u00e9n\u00e9ral des acteurs sur sc\u00e8ne.",
+      "stgdir": "Marche des Acteurs du Divertissement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2202",
+      "category": "8",
+      "explanation": "AIR de COUPERIN. Soeur Monique indique qu'une musique est introduite avec le terme 'AIR'.",
+      "stgdir": "AIR de COUPERIN. Soeur Monique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2203",
+      "category": "4",
+      "explanation": "Elles entrent indique que des personnages font leur entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2204",
+      "category": "5",
+      "explanation": "Pimandre et \u00c9raste sortent indique que ces personnages quittent la sc\u00e8ne.",
+      "stgdir": "Pimandre et \u00c9raste sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2205",
+      "category": "4",
+      "explanation": "\u00c9lyse y va implique l'entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "\u00c9lyse y va.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2206",
+      "category": "3",
+      "explanation": "Ronchaud prend un air s\u00e9v\u00e8re d\u00e9crit une expression faciale qui refl\u00e8te une \u00e9motion, donc cela correspond \u00e0 la livraison d'une \u00e9motion.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2207",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une partie des Jardins du S\u00e9rail termin\u00e9e par un canal sert de description d'une sc\u00e8ne ou d'un d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une partie des Jardins du S\u00e9rail termin\u00e9e par un canal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2208",
+      "category": "10",
+      "explanation": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne implique une interaction avec un objet, c'est-\u00e0-dire les mains.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2209",
+      "category": "5",
+      "explanation": "Il va pour s'en aller indique que le personnage s'appr\u00eate \u00e0 quitter la sc\u00e8ne.",
+      "stgdir": "Il va pour s'en aller.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 7708.3704471588135,
+  "model": "gpt-4o-mini"
+}

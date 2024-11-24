@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "880",
+      "category": "8",
+      "explanation": "L'indication 'AIR : Mariez, mariez, mariez-moi.' sugg\u00e8re une direction musicale, car elle commence par 'AIR', ce qui indique probablement une chanson.",
+      "stgdir": "AIR : Mariez, mariez, mariez-moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "881",
+      "category": "3",
+      "explanation": "Le texte 'Air : Non, je ne ferai pas.' implique une expression vocale ou une r\u00e9action, ce qui en fait un choix appropri\u00e9 pour la cat\u00e9gorie de delivery.",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "882",
+      "category": "5",
+      "explanation": "Le terme 'sort' indique clairement que le personnage quitte la sc\u00e8ne, donc il s'agit d'une sortie.",
+      "stgdir": "Tersky sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "883",
+      "category": "3",
+      "explanation": "Cette indication d'une plainte de Lucas \u00e0 propos de sa femme implique une expression \u00e9motionnelle, ce qui le classe dans la cat\u00e9gorie de delivery.",
+      "stgdir": "Air 162 : Lucas se plaint que sa femme.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "884",
+      "category": "2",
+      "explanation": "La phrase 'Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.' implique que le personnage s'adresse au public ou se parle \u00e0 lui-m\u00eame, entrant dans la cat\u00e9gorie d'aparte.",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "885",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre comme un 'palais' constitue une description de la sc\u00e8ne et du cadre, ce qui le classe dans la cat\u00e9gorie de setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un palais.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "886",
+      "category": "1",
+      "explanation": "Le fait que Maurice tire son couteau et s'\u00e9crie repr\u00e9sente une action agressive, appartenant \u00e0 la cat\u00e9gorie d'agression.",
+      "stgdir": "Il se passe que des branches d\u00e9plac\u00e9es ont fouett\u00e9 le visage de Maurice et qu'un ennemi va s'\u00e9lancer des arbres. Maurice tire son couteau, le brandit, et s'\u00e9crie d'une voix fr\u00e9missante :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "887",
+      "category": "9",
+      "explanation": "Cette description de l'Envie qui sort et \u00e9voque diverses forces avec une narration \u00e9labor\u00e9e est un exemple de narration.",
+      "stgdir": "Dans cette obscurit\u00e9 soudaine, l'Envie sort de son antre qui s'ouvre au milieu du th\u00e9\u00e2tre : elle \u00e9voque le monstrueux Serpent Python, qui para\u00eet dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumi\u00e8re qui \u00e9claire le th\u00e9\u00e2tre : elle appelle les Vents les plus imp\u00e9tueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous apr\u00e8s avoir vol\u00e9 et s'\u00eatre crois\u00e9s dans l'air, viennent se ranger autour d'elle, pour l'aider \u00e0 troubler les beaux jours que le Soleil donne au monde.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "888",
+      "category": "11",
+      "explanation": "La sc\u00e8ne d\u00e9crivant Gontran couch\u00e9 sur le lit \u00e9tablit l'ambiance de la pi\u00e8ce et son d\u00e9cor, ce qui correspond \u00e0 la cat\u00e9gorie de setting.",
+      "stgdir": "Au lever du rideau, Gontran est couch\u00e9 tout habill\u00e9 sur le lit. Dix heures sonnent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "889",
+      "category": "6",
+      "explanation": "Le fait que 'Tous partent d'un \u00e9clat de rire.' indique une interaction non verbale entre les personnages par le rire, le classant dans la cat\u00e9gorie d'interaction.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 3930.204153060913,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2910",
+      "category": 3,
+      "explanation": "Le terme 'Air I.' indique une mani\u00e8re de livrer une performance musicale ou vocale, signalant que le personnage va chanter ou exprimer des \u00e9motions \u00e0 travers le chant.",
+      "stgdir": "Air I. R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2911",
+      "category": 12,
+      "explanation": "L'indication '\u00c0 Alcm\u00e8ne' r\u00e9v\u00e8le l'addresse de la parole du personnage, donc elle correspond \u00e0 la cat\u00e9gorie \u2018toward\u2019.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2912",
+      "category": 8,
+      "explanation": "Le terme 'AIR' se r\u00e9f\u00e8re \u00e0 une musique ou une m\u00e9lodie, indiquant que cela fait r\u00e9f\u00e9rence \u00e0 une partie musicale du spectacle.",
+      "stgdir": "AIR. M. le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2913",
+      "category": 4,
+      "explanation": "Le terme 'Oronte para\u00eet' indique l'entr\u00e9e d'un personnage sur sc\u00e8ne, ce qui le classe dans la cat\u00e9gorie 'entr\u00e9e'.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2914",
+      "category": 6,
+      "explanation": "Le fait qu'un personnage 'aper\u00e7oit' un autre (le Marquis) implique une interaction non verbale, le pla\u00e7ant dans la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Apercevant le Marquis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2915",
+      "category": 12,
+      "explanation": "L'indication '\u00c0 Paturon' d\u00e9signe clairement l'addresse de la parole, ce qui le classe dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Paturon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2916",
+      "category": 0,
+      "explanation": "Cette direction d\u00e9crit l'action d'Adam levant la main pour montrer un objet (le fruit d\u00e9fendu), et ne correspond \u00e0 aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2917",
+      "category": 12,
+      "explanation": "La direction '\u00c0 Gercour' indique que le personnage s'adresse \u00e0 Gercour, ce qui en fait une direction de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Gercour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2918",
+      "category": 10,
+      "explanation": "La mention 'LETTRE DU DUC DE CARDONNE \u00c0 ASTOLFE' implique la pr\u00e9sence d'un objet (la lettre) et l'interaction potentielle avec cet objet, class\u00e9e ici comme 'objet'.",
+      "stgdir": "LETTRE DU DUC DE CARDONNE \u00c0 ASTOLFE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2919",
+      "category": 11,
+      "explanation": "La mention 'Au caf\u00e9 de l'Alliance. \u2014 Un coin r\u00e9serv\u00e9.' d\u00e9crit un lieu sp\u00e9cifique, classant cela sous la cat\u00e9gorie 'setting'.",
+      "stgdir": "Au caf\u00e9 de l'Alliance. \u2014 Un coin r\u00e9serv\u00e9.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 11148.838758468628,
+  "model": "gpt-4o-mini"
+}

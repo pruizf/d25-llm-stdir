@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1160",
+      "category": "3",
+      "explanation": "Marquant sa joie implique une expression \u00e9motionnelle, indiquant que le personnage manifeste sa joie.",
+      "stgdir": "Marquant sa joie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1161",
+      "category": "3",
+      "explanation": "Il lit la lettre apr\u00e8s quoi il dit implique une action de lecture suivie d'une expression verbale, ce qui correspond \u00e0 la livraison de ses mots.",
+      "stgdir": "Il lit la lettre apr\u00e8s quoi il dit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1162",
+      "category": "8",
+      "explanation": "AIR Quand le p\u00e9ril est agr\u00e9able indique qu'il s'agit d'une chanson ou d'une m\u00e9lodie, donc cela tombe sous la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1163",
+      "category": "6",
+      "explanation": "Il rappelle Monsieur Oronte repr\u00e9sente une interaction verbale impliquant un appel \u00e0 un autre personnage.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1164",
+      "category": "12",
+      "explanation": "\u00c0 Zika indique vers qui le personnage s'adresse, qualifiant cela de cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Zika.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1165",
+      "category": "12",
+      "explanation": "\u00c0 Lycandre indique \u00e9galement vers qui le personnage s'adresse, relevant de la m\u00eame cat\u00e9gorie que le pr\u00e9c\u00e9dent.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1166",
+      "category": "8",
+      "explanation": "On entend la ritournelle du morceau indique qu'il s'agit d'un \u00e9l\u00e9ment musical, tombant sous la cat\u00e9gorie de la musique.",
+      "stgdir": "On entend la ritournelle du morceau.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1167",
+      "category": "0",
+      "explanation": "Lisant indique une action du personnage qui correspond \u00e0 la cat\u00e9gorie d'action g\u00e9n\u00e9rale.",
+      "stgdir": "Lisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1168",
+      "category": "10",
+      "explanation": "Elle ouvre l'armoire implique une interaction avec un objet (l'armoire), relevant ainsi de la cat\u00e9gorie 'object'.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1169",
+      "category": "8",
+      "explanation": "Air : Le Cabaret est mon r\u00e9duit est une indication claire d'une chanson, donc cela est class\u00e9 sous la musique.",
+      "stgdir": "Air : Le Cabaret est mon r\u00e9duit.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6387.763738632202,
+  "model": "gpt-4o-mini"
+}

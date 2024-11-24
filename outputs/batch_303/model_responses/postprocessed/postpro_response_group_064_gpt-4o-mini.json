@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "630",
+      "category": "10",
+      "explanation": "Cette direction d\u00e9crit l'acte de donner un bracelet, ce qui implique une interaction avec un objet.",
+      "stgdir": "Lui donnant le bracelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "8",
+      "explanation": "Le terme 'Air' indique qu'il s'agit d'une direction musicale, d\u00e9crivant probablement une m\u00e9lodie \u00e0 jouer.",
+      "stgdir": "Air : Pauvre Jacques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "12",
+      "explanation": "Cette direction se r\u00e9f\u00e8re \u00e0 l'addresse \u00e0 un personnage sp\u00e9cifique, le duc d'Alcala.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "Comme pr\u00e9c\u00e9demment, 'Air' indique une direction musicale avec le nom de la m\u00e9lodie.",
+      "stgdir": "Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "1",
+      "explanation": "Le terme 'corne aux oreilles' avec une trompe peut repr\u00e9senter une interaction aggressive, impliquant un acte violent ou d\u00e9rangeant.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "8",
+      "explanation": "Encore une fois, 'Antistrophe' est un terme musical indiquant une partie d'une composition musicale.",
+      "stgdir": "Antistrophe II.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "8",
+      "explanation": "'Strophe' fait \u00e9galement r\u00e9f\u00e9rence \u00e0 une structure musicale, ce qui classe cette direction comme une direction musicale.",
+      "stgdir": "Strophe X.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "6",
+      "explanation": "Apercevoir quelqu'un indique une interaction visuelle non verbale entre les personnages.",
+      "stgdir": "Apercevant Job.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "Une r\u00e9f\u00e9rence \u00e0 une m\u00e9lodie avec le mot 'Air'.",
+      "stgdir": "Air : Mon joli petit Corbillon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "8",
+      "explanation": "Encore une fois, 'Air' indique une direction musicale, d\u00e9signant la m\u00e9lodie concern\u00e9e.",
+      "stgdir": "Air : Le petit mot, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5870.962142944336,
+  "model": "gpt-4o-mini"
+}

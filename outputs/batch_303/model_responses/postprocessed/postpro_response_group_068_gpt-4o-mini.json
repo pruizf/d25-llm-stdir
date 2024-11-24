@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "670",
+      "category": "6",
+      "explanation": "Montrant Tancr\u00e8de indicates a non-verbal action of pointing or showing a character (Tancr\u00e8de) to others.",
+      "stgdir": "Montrant Tancr\u00e8de.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "12",
+      "explanation": "\u00c0 ses fils specifies the addressees of the speech, indicating that it is directed towards his sons.",
+      "stgdir": "\u00c0 ses fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "8",
+      "explanation": "AIR 97. (J'ai bien la plus sobre femme.) indicates the performance of music or a song, classifying it as music.",
+      "stgdir": "AIR 97. (J'ai bien la plus sobre femme.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "9",
+      "explanation": "The stage direction narrates the action of multiple characters getting up and moving towards another location, which fits the definition of narration.",
+      "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "8",
+      "explanation": "Air : \u00c0 la fa\u00e7on de Barbari refers to a musical piece or tune, fitting the music category.",
+      "stgdir": "Air : \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "675",
+      "category": "12",
+      "explanation": "\u00c0 Isabelle indicates the addressee of a speech or action, showing that it is directed at Isabelle.",
+      "stgdir": "\u00c0 Isabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "676",
+      "category": "5",
+      "explanation": "Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort explicitly describes her leaving the stage, fitting the exit category.",
+      "stgdir": "Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "677",
+      "category": "12",
+      "explanation": "\u00c0 Doligni indicates the recipient of a speech, categorizing it under 'toward'.",
+      "stgdir": "\u00c0 Doligni.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "678",
+      "category": "12",
+      "explanation": "\u00c0 celui qui porte l'urne specifies a direction of speech towards the individual holding an urn, fitting the category of 'toward'.",
+      "stgdir": "\u00c0 celui qui porte l'urne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "679",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine provides a description of the stage setting, classifying it under 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 10404.78229522705,
+  "model": "gpt-4o-mini"
+}

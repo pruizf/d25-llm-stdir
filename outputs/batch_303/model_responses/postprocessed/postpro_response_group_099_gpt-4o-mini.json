@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "980",
+      "category": "10",
+      "explanation": "Cette direction implique le fait de donner un objet, ce qui correspond \u00e0 la manipulation ou \u00e0 l'interaction avec un objet.",
+      "stgdir": "Durval la lui donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "981",
+      "category": "4",
+      "explanation": "Il s'agit d'une action o\u00f9 le personnage entre sur sc\u00e8ne, donc cela correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "982",
+      "category": "1",
+      "explanation": "Tirer un poignard implique une menace ou une action violente, ce qui correspond \u00e0 la cat\u00e9gorie d'agression.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "983",
+      "category": "6",
+      "explanation": "Frappant la Chicanne d\u00e9signe une interaction non verbale entre les personnages, ce qui entre dans la cat\u00e9gorie d'interaction.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "984",
+      "category": "6",
+      "explanation": "D\u00e9signer le roi des Ondines est une interaction non verbale qui implique de pointer quelque chose, ce qui correspond \u00e0 la cat\u00e9gorie d'interaction.",
+      "stgdir": "Il d\u00e9signe le roi des Ondines.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "985",
+      "category": "5",
+      "explanation": "Sortir indique que le personnage quitte la sc\u00e8ne, pla\u00e7ant cette direction dans la cat\u00e9gorie de sortie.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "986",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit en d\u00e9tail le d\u00e9cor de la sc\u00e8ne, ce qui s'inscrit clairement dans la cat\u00e9gorie de mise en sc\u00e8ne.",
+      "stgdir": "D\u00c9CORATION de L'ACTE SECOND. Dans le lointain, deux montagnes, l'une chauve, l'autre d'une belle verdure, et laissant \u00e9chapper une source du sommet. Entre elles, le fleuve Ohio tombe avec bruit d'une cascade effrayante. Un pont de lianes \u00e9lastiques, joint au-dessus les deux montagnes. Au pied de l'Ohio, quelques pirogues : ce fleuve couvre la plaine et borde le fonds du Th\u00e9\u00e2tre, qui est en gazon. \u00c0 la droite du fleuve, a mi-coteau, une cabane appuy\u00e9e contre un rocher qui pose sur une pointe \u00e0 terre ; sa partie sup\u00e9rieure \u00e9vas\u00e9e, sert de cuvette \u00e0 un ruisseau qui se pr\u00e9cipite dans l'Ohio. Pr\u00e8s de l'avant-sc\u00e8ne, une statue du Mars des Am\u00e9ricains, d'Areski sur un pi\u00e9destal orn\u00e9 de pelleteries. \u00c0 la gauche plus recul\u00e9, le tombeau d'Artamon en gazon et orn\u00e9 de fleurs ; le troph\u00e9e de ses armes sur le dessus ; et au c\u00f4t\u00e9, une large pierre grav\u00e9e d'hi\u00e9roglyphes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "987",
+      "category": "4",
+      "explanation": "Entrer tous les deux signifie que plusieurs personnages entrent sur sc\u00e8ne, correspondant ainsi \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Ils entrent tous les deux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "988",
+      "category": "12",
+      "explanation": "\u00c0 sa suite implique un d\u00e9placement vers un autre personnage, indiquant la direction vers quelqu'un.",
+      "stgdir": "\u00c0 sa suite.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "989",
+      "category": "5",
+      "explanation": "Il va pour s'en aller indique une sortie imminente, pla\u00e7ant cette direction dans la cat\u00e9gorie de sortie.",
+      "stgdir": "Il va pour s'en aller.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 5705.7695388793945,
+  "model": "gpt-4o-mini"
+}

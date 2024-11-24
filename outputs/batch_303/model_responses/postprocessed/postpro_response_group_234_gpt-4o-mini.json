@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2330",
+      "category": "5",
+      "explanation": "Le stage direction 'Ang\u00e9lique et Temire se retirent' implique que les personnages quittent la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie des sorties.",
+      "stgdir": "Ang\u00e9lique et Temire se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2331",
+      "category": "11",
+      "explanation": "Le 'rideau tombe' d\u00e9crit un aspect de la sc\u00e8ne ou l'\u00e9volution du d\u00e9cor, ce qui le place dans la cat\u00e9gorie de la description de la sc\u00e8ne.",
+      "stgdir": "Le rideau tombe.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2332",
+      "category": "12",
+      "explanation": "'\u00c0 Lina' indique l'adresse d'un discours, ce qui appartient \u00e0 la cat\u00e9gorie des indications vers un interlocuteur.",
+      "stgdir": "\u00c0 Lina.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2333",
+      "category": "10",
+      "explanation": "L'action de 'tirer un porte-feuille' implique l'interaction d'un personnage avec un objet, qualifiant ainsi cela comme une observation sur cet objet.",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2334",
+      "category": "4",
+      "explanation": "La mention de 'Deuxi\u00e8me entr\u00e9e de ballet : Huit p\u00eacheurs de corail' sugg\u00e8re une entr\u00e9e sur sc\u00e8ne, ce qui est typiquement class\u00e9 en tant qu'entr\u00e9e.",
+      "stgdir": "Deuxi\u00e8me entr\u00e9e de ballet : Huit p\u00eacheurs de corail.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2335",
+      "category": "9",
+      "explanation": "Le 'Ciel se referme' implique un \u00e9v\u00e9nement dramatique ou atmosph\u00e9rique, ce qui donne une qualit\u00e9 narrative \u00e0 la sc\u00e8ne.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2336",
+      "category": "3",
+      "explanation": "'Il dit ce vers bas' indique une mani\u00e8re de parler d'un personnage, ce qui entre dans la cat\u00e9gorie de la livraison d'un discours.",
+      "stgdir": "Il dit ce vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2337",
+      "category": "7",
+      "explanation": "La phrase 'Georges s'\u00e9loigne' d\u00e9crit un mouvement du personnage qui ne correspond pas \u00e0 une sortie ou une entr\u00e9e, mais plut\u00f4t \u00e0 un d\u00e9placement \u00e9loign\u00e9.",
+      "stgdir": "Georges s'\u00e9loigne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2338",
+      "category": "11",
+      "explanation": "La description de 'La m\u00e9disance' avec des \u00e9l\u00e9ments vestimentaires comme 'sans panier, avec une pointe noir' implique des d\u00e9tails de mise en sc\u00e8ne, relevant de la description du cadre ou des costumes.",
+      "stgdir": "La m\u00e9disance est habill\u00e9e en d\u00e9vote, sans panier, avec une pointe noir et une esp\u00e8ce de guimpe ou de collet.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2339",
+      "category": "9",
+      "explanation": "'Reprenant la sc\u00e8ne' indique un retour \u00e0 un moment dramatique d'une pi\u00e8ce, ce qui a un aspect narratif sur la continuit\u00e9 de l'action.",
+      "stgdir": "Reprenant la sc\u00e8ne.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 9996.244430541992,
+  "model": "gpt-4o-mini"
+}

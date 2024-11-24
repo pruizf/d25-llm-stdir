@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1270",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, likely addressing \u00c9narus.",
+      "stgdir": "\u00c0 \u00c9narus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1271",
+      "category": "1",
+      "explanation": "Describes a violent action where the Prince intends to commit suicide by throwing himself onto a sword.",
+      "stgdir": "Le Prince veut se jeter sur une \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1272",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, likely addressing Torine.",
+      "stgdir": "\u00c0 Torine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1273",
+      "category": "5",
+      "explanation": "Describes a character exiting the stage while saluting, thus fitting the exit category.",
+      "stgdir": "Il sort a reculons en saluant \u00e0 droite et \u00e0 gauche et dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1274",
+      "category": "11",
+      "explanation": "Describes the setting of the stage, detailing the decoration and the open door leading to the spring countryside.",
+      "stgdir": "M\u00eame d\u00e9coration qu'au premier acte ; seulement, la porte du fond est grande ouverte et l'on voit la campagne au printemps.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1275",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, likely addressing the l\u00e9vites.",
+      "stgdir": "Aux l\u00e9vites.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1276",
+      "category": "3",
+      "explanation": "Involves the delivery of a letter, which involves vocal expression or emotion in its presentation.",
+      "stgdir": "LETTRE AU BRAVE Don CARLOS.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1277",
+      "category": "6",
+      "explanation": "Describes an interaction between characters, as Colombinette embraces passionately without verbal communication.",
+      "stgdir": "Colombinette n'ose protester et l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1278",
+      "category": "6",
+      "explanation": "Indicates a reciprocal non-verbal interaction where Genevi\u00e8ve responds in kind.",
+      "stgdir": "Genevi\u00e8ve le lui rend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1279",
+      "category": "5",
+      "explanation": "Describes a situation where people are leaving, indicating an exit.",
+      "stgdir": "Les gens sortent.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 7697.697639465332,
+  "model": "gpt-4o-mini"
+}

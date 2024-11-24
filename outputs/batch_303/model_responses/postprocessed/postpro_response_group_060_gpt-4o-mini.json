@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "590",
+      "category": "0",
+      "explanation": "Ils s'asseyent tous deux indicates a general action where the characters are sitting.",
+      "stgdir": "Ils s'asseyent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "591",
+      "category": "12",
+      "explanation": "\u00c0 Tartuffe indicates that the characters are addressing Tartuffe or directing their speech/toward him.",
+      "stgdir": "\u00c0 Tartuffe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "592",
+      "category": "5",
+      "explanation": "Ils sortent avec la M\u00e8re Ubu indicates that the characters are exiting the stage.",
+      "stgdir": "Ils sortent avec la M\u00e8re Ubu.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "593",
+      "category": "8",
+      "explanation": "AIR. Oh ! Ricandaine suggests a tune or song, as it begins with 'AIR', indicating a music stage direction.",
+      "stgdir": "AIR. Oh ! Ricandaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "594",
+      "category": "7",
+      "explanation": "En apercevant Eve describes a character's movement towards seeing Eve, which is a movement action.",
+      "stgdir": "En apercevant Eve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "595",
+      "category": "6",
+      "explanation": "Regardant sa main vide describes a non-verbal interaction where the character looks at their empty hand.",
+      "stgdir": "Regardant sa main vide.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "596",
+      "category": "6",
+      "explanation": "Elle reprend le bras de Phanor indicates a non-verbal interaction of taking Phanor's arm.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "597",
+      "category": "10",
+      "explanation": "Elle lui rend la bague indicates an interaction with an object, specifically giving back a ring.",
+      "stgdir": "Elle lui rend la bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "598",
+      "category": "0",
+      "explanation": "Se remettant indicates a general action of getting oneself back up or recovering.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "599",
+      "category": "9",
+      "explanation": "Elle parle surtout d'une certaine Clorinde... is a longer description that narrates character thoughts and perceptions, fitting the narration category.",
+      "stgdir": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 5529.483795166016,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "820",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of actions involving multiple characters and events, making it a narrative description.",
+      "stgdir": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "0",
+      "explanation": "The direction implies an action of looking at flowers, which fits the general character action category.",
+      "stgdir": "Regardant les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "10",
+      "explanation": "This direction describes a character interacting with an object (putting something at her corsage), so it fits the object category.",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "0",
+      "explanation": "The direction indicates that a character sits at a table, which is a general action.",
+      "stgdir": "Elle s'asseoit \u00e0 une table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "2",
+      "explanation": "This direction is an aside where a character is likely speaking quietly or to themselves, fitting the aparte category.",
+      "stgdir": "Et comme tout bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "825",
+      "category": "12",
+      "explanation": "This direction suggests communication directed at the domestic character, making it suitable for the toward category.",
+      "stgdir": "Au Domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "826",
+      "category": "1",
+      "explanation": "The phrase indicates a violent movement, implying aggression, which fits the aggression category.",
+      "stgdir": "Mouvement violent de monsieur Blaisy.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "827",
+      "category": "1",
+      "explanation": "Similar to the previous direction, this indicates a forceful action of pulling away, which aligns with aggressive behavior.",
+      "stgdir": "Il s'arrache de leurs bras.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "828",
+      "category": "5",
+      "explanation": "This direction describes characters exiting the stage with specific details, fitting the exit category.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "829",
+      "category": "8",
+      "explanation": "This is a music stage direction as it specifies a tune, thus fitting the category of music.",
+      "stgdir": "Air : Ami, qui l'aurait pu croire.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 4545.023202896118,
+  "model": "gpt-4o-mini"
+}

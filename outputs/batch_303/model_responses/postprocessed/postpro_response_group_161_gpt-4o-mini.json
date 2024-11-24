@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1600",
+      "category": "3",
+      "explanation": "Il dit ces vers tout bas. - Cela concerne la mani\u00e8re de livraison des vers, ce qui indique le ton ou le volume de la voix du personnage, correspondant \u00e0 la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il dit ces vers tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1601",
+      "category": "6",
+      "explanation": "Apercevant le Lord Houzey et le Marquis. - Cela d\u00e9crit une interaction non verbale o\u00f9 le personnage remarque ou voit d'autres personnages, qui appartient \u00e0 la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Apercevant le Lord Houzey et le Marquis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1602",
+      "category": "3",
+      "explanation": "Il r\u00e9it\u00e8re souvent. - Cela implique une r\u00e9p\u00e9tition dans la mani\u00e8re de s'exprimer, ce qui est pertinent pour la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il r\u00e9it\u00e8re souvent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1603",
+      "category": "8",
+      "explanation": "Air : J'aime une jeune Brunette. - Cette direction mentionne une m\u00e9lodie et clairement indique une direction musicale, donc elle appartient \u00e0 la cat\u00e9gorie 'music'.",
+      "stgdir": "Air : J'aime une jeune Brunette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1604",
+      "category": "7",
+      "explanation": "Louis se l\u00e8ve. - Cela d\u00e9crit un mouvement physique de Louis, qui se l\u00e8ve de sa position, plac\u00e9 dans la cat\u00e9gorie 'movement'.",
+      "stgdir": "Louis se l\u00e8ve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1605",
+      "category": "4",
+      "explanation": "Lavinie rentre et Albine continue. - Cela indique une entr\u00e9e sur sc\u00e8ne de Lavinie, donc cela correspond \u00e0 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Lavinie rentre et Albine continue.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1606",
+      "category": "10",
+      "explanation": "Elle se met en devoir d'\u00f4ter celui qui est sur sa t\u00eate. - Cela implique l'interaction d'un personnage avec un objet particulier, qui est 'celui sur sa t\u00eate', ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+      "stgdir": "Elle se met en devoir d'\u00f4ter celui qui est sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1607",
+      "category": "0",
+      "explanation": "Il appuie ses deux mains sur sa poitrine. - Cela constitue une action g\u00e9n\u00e9rale, et n'entre pas dans les autres cat\u00e9gories plus sp\u00e9cifiques, donc il s'agit de la cat\u00e9gorie 'action'.",
+      "stgdir": "Il appuie ses deux mains sur sa poitrine.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1608",
+      "category": "4",
+      "explanation": "Il entre dans la maison. - Cela indique que le personnage entre sur sc\u00e8ne, ce qui appartient \u00e0 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Il entre dans la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1609",
+      "category": "3",
+      "explanation": "On reprend le rondeau en choeur. - Cela indique une forme de livraison d'un chant en choeur, se rapportant \u00e0 la mani\u00e8re de livrer la musique, donc cela se classe dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "On reprend le rondeau en choeur.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 11750.892400741577,
+  "model": "gpt-4o-mini"
+}

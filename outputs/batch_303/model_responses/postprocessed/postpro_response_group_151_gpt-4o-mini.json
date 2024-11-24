@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1500",
+      "category": "11",
+      "explanation": "Il s'agit d'une description du d\u00e9cor du th\u00e9\u00e2tre, ce qui correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1501",
+      "category": "1",
+      "explanation": "Les actions d\u00e9crivent une lutte violente entre l'imp\u00e9ratrice et le pape, ce qui correspond \u00e0 la cat\u00e9gorie 'aggression'.",
+      "stgdir": "L'imp\u00e9ratrice et le pape se battent, l'une avec son sceptre et l'autre avec sa croix : un coup de sceptre casse la croix ; le pape jette sa tiare \u00e0 la t\u00eate de Catherine et lui renverse sa couronne. Ils se battent avec leurs cha\u00eenes. Le roi de Pologne veut mettre le hol\u00e0, en \u00f4tant des mains le sceptre \u00e0 Catherine.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1502",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale entre deux personnages qui se serrent la main, ce qui rel\u00e8ve de la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Verseuil donne la main \u00e0 Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1503",
+      "category": "10",
+      "explanation": "Cette direction d\u00e9crit des personnages tenant des objets sp\u00e9cifiques, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+      "stgdir": "Cadet aura un plat \u00e0 barbe en main, le petit portera le peignoir et la m\u00e8re aura des hardes sous le bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1504",
+      "category": "5",
+      "explanation": "Elle implique un d\u00e9part de sc\u00e8ne en exprimant une \u00e9motion (la col\u00e8re), ce qui correspond \u00e0 la cat\u00e9gorie 'exit'.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1505",
+      "category": "9",
+      "explanation": "La direction pr\u00e9sente une narration d\u00e9taill\u00e9e des actions et r\u00e9actions des personnages, ce qui correspond \u00e0 la cat\u00e9gorie 'narration'.",
+      "stgdir": "Le vieillard sert de truchement aux sauvages, devant lesquels passent en revue les rois. Il leur traduit dans le langage des signes, ce qui se dit \u00e0 mesure que les rois paraissent sur la sc\u00e8ne. Les sauvages donnent tour \u00e0 tour des marques d'\u00e9tonnement et d'indignation.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1506",
+      "category": "10",
+      "explanation": "L'ouverture d'un tiroir implique l'interaction avec un objet, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1507",
+      "category": "11",
+      "explanation": "C'est une description du d\u00e9cor, sp\u00e9cifiant qu'il s'agit d'un palais, donc cela correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1508",
+      "category": "10",
+      "explanation": "Il mentionne des bagues, ce qui implique une interaction avec un objet, donc cela revient \u00e0 la cat\u00e9gorie 'object'.",
+      "stgdir": "Il lui montre des bagues qu'il a.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1509",
+      "category": "6",
+      "explanation": "La pression des mains entre les personnages est une interaction non verbale, ce qui rel\u00e8ve de la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 5759.476900100708,
+  "model": "gpt-4o-mini"
+}

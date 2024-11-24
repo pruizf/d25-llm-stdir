@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "900",
+      "category": "11",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit un cadre sc\u00e9nique, c'est-\u00e0-dire la route devant l'h\u00f4tellerie et le ch\u00e2teau gothique au fond.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "901",
+      "category": "0",
+      "explanation": "Il s'agit d'une action o\u00f9 un personnage ob\u00e9it \u00e0 un ordre ou \u00e0 une directive.",
+      "stgdir": "Il ob\u00e9it.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "902",
+      "category": "3",
+      "explanation": "L'expression 'en sanglotant, et en pleurant' d\u00e9crit la mani\u00e8re dont le personnage exprime ses \u00e9motions.",
+      "stgdir": "En sanglotant, et en pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "903",
+      "category": "8",
+      "explanation": "Le mot 'AIR' indique qu'il s'agit d'une direction musicale, cela se r\u00e9f\u00e8re \u00e0 une chanson ou une m\u00e9lodie.",
+      "stgdir": "AIR. Nous sommes Pr\u00e9cepteurs d'Amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "904",
+      "category": "0",
+      "explanation": "C'est une action o\u00f9 le personnage va chercher quelque chose ou quelqu'un.",
+      "stgdir": "Il va les chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "905",
+      "category": "9",
+      "explanation": "Cette direction de sc\u00e8ne donne une description narrative du cadre, un h\u00f4tel magnifique, ainsi que des d\u00e9tails sur l'apparence des personnages.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "906",
+      "category": "8",
+      "explanation": "Comme avec 'AIR', cela indique que c'est une indication musicale, probablement un air d'op\u00e9ra.",
+      "stgdir": "Air op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "907",
+      "category": "3",
+      "explanation": "Monsieur Jourdain chante, ce qui implique une expression vocale et musicale.",
+      "stgdir": "Monsieur Jourdain chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "908",
+      "category": "12",
+      "explanation": "La mention d'une direction '\u00c0 Menos' indique le destinataire d'un discours ou d'une interaction.",
+      "stgdir": "\u00c0 Menos.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "909",
+      "category": "10",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit l'interaction d'un personnage avec un objet, ici le portefeuille.",
+      "stgdir": "Il ouvre le portefeuille, il examine ce qu'il contient, et dit :",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 4149.164438247681,
+  "model": "gpt-4o-mini"
+}

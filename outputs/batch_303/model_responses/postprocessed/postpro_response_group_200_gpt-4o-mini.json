@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1990",
+      "category": "6",
+      "explanation": "Aux soldats is an interaction where the character is likely addressing or interacting with soldiers in a non-verbal way.",
+      "stgdir": "Aux soldats.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1991",
+      "category": "7",
+      "explanation": "Regardant du cot\u00e9 oppos\u00e9 indicates a character's movement as they are looking in the opposite direction.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1992",
+      "category": "12",
+      "explanation": "\u00c0 Charlot indicates the character's focus or attention toward Charlot, which fits into the category of address.",
+      "stgdir": "\u00c0 Charlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1993",
+      "category": "10",
+      "explanation": "Il \u00f4te son costume de vieillard involves the character interacting with an object (his costume), making it a manipulation of an object.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1994",
+      "category": "6",
+      "explanation": "Octave lui donnant la main is an interaction between characters where one character is giving their hand to another, indicating a non-verbal engagement.",
+      "stgdir": "Octave lui donnant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1995",
+      "category": "10",
+      "explanation": "Il lui donne un manche d'\u00e9clanche describes the handing over of an object (the handle), which pertains to the manipulation of an object.",
+      "stgdir": "Il lui donne un manche d'\u00e9clanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1996",
+      "category": "7",
+      "explanation": "En s'\u00e9loignant indicates the character is moving away, fitting into the category of movement.",
+      "stgdir": "En s'\u00e9loignant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1997",
+      "category": "2",
+      "explanation": "PRIMO does not contain any specific action or movement description and seems to relate to an aside or comment.",
+      "stgdir": "PRIMO.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1998",
+      "category": "9",
+      "explanation": "Fin de la lettre indicates a conclusion or narration about the end of a letter, giving it a narrative quality.",
+      "stgdir": "Fin de la lettre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1999",
+      "category": "1",
+      "explanation": "Il frappe toujours suggests an ongoing hitting action, which denotes aggression.",
+      "stgdir": "Il frappe toujours.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 7662.957668304443,
+  "model": "gpt-4o-mini"
+}

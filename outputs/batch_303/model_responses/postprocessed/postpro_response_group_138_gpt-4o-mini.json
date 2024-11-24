@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1370",
+      "category": "7",
+      "explanation": "This indicates that one character is following another, which is a form of movement.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1371",
+      "category": "6",
+      "explanation": "This describes a verbal interaction between two characters, implying they are communicating.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1372",
+      "category": "3",
+      "explanation": "This direction indicates a character is singing, which involves delivery of music.",
+      "stgdir": "AIR. Ah ! que je me lasse d'\u00eatre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1373",
+      "category": "7",
+      "explanation": "Fr\u00e9d\u00e9ric taking Ferdinand suggests movement, as one character is leading another away.",
+      "stgdir": "Fr\u00e9d\u00e9ric emm\u00e8ne Ferdinand.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1374",
+      "category": "8",
+      "explanation": "This is labeled as 'Air' and refers to a tune, categorizing it under music.",
+      "stgdir": "Air. \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1375",
+      "category": "8",
+      "explanation": "Similar to the previous direction, this also starts with 'Air' and refers to a musical piece.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1376",
+      "category": "5",
+      "explanation": "Lucile and Damis exiting indicates an exit from the stage, fitting this category.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1377",
+      "category": "10",
+      "explanation": "It involves the character taking an object (the couplet), which classifies it under object manipulation.",
+      "stgdir": "Il s'en va et il emporte le couplet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1378",
+      "category": "10",
+      "explanation": "This stage direction involves showing a portrait, indicating interaction with an object.",
+      "stgdir": "Il lui montre le portrait d'\u00c9lise qu'il a au bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1379",
+      "category": "7",
+      "explanation": "The phrase 'Apercevant Cl\u00e9on' indicates the character is moving towards or noticing Cl\u00e9on, which is a type of movement.",
+      "stgdir": "Apercevant Cl\u00e9on.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 5922.38187789917,
+  "model": "gpt-4o-mini"
+}

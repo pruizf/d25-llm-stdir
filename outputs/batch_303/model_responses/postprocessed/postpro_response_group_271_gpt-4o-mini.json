@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2700",
+      "category": "6",
+      "explanation": "The character recognizes another character, indicating an interaction.",
+      "stgdir": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2701",
+      "category": "0",
+      "explanation": "The phrase 'Quatre fois' suggests some general action, but lacks context for a specific category.",
+      "stgdir": "Quatre fois.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2702",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Mercure' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2703",
+      "category": "8",
+      "explanation": "The term 'Chanson' suggests a musical element or a song.",
+      "stgdir": "Chanson",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2704",
+      "category": "1",
+      "explanation": "The phrase describes an act of suicide through violent means.",
+      "stgdir": "Il se tue de ceux coups de poignards.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2705",
+      "category": "4",
+      "explanation": "The action of entering a space is described, which fits the entrance category.",
+      "stgdir": "Il va pour entrer chez son Colonel.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2706",
+      "category": "0",
+      "explanation": "This action involves looking at oneself, which is a general character action.",
+      "stgdir": "En se regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2707",
+      "category": "6",
+      "explanation": "The act of showing another character suggests interaction.",
+      "stgdir": "Montrant Br\u00e9court.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2708",
+      "category": "6",
+      "explanation": "Addressing the boy carrying the chair suggests a non-verbal interaction.",
+      "stgdir": "Au gar\u00e7on qui porte le fauteuil.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2709",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Clarine' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Clarine.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9943.435430526733,
+  "model": "gpt-4o-mini"
+}

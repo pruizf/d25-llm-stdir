@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2630",
+      "category": "4",
+      "explanation": "Il s'agit d'une entr\u00e9e d'un personnage sur sc\u00e8ne, donc cela correspond \u00e0 la cat\u00e9gorie 'entr\u00e9e'.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2631",
+      "category": "8",
+      "explanation": "Cette direction parle de commencer \u00e0 chanter, ce qui rel\u00e8ve de la musique.",
+      "stgdir": "On commence \u00e0 chanter des couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2632",
+      "category": "8",
+      "explanation": "Le texte mentionne un air ou une m\u00e9lodie, ce qui le classe dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Il faut aimer, c'est la loi de Cyth\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2633",
+      "category": "10",
+      "explanation": "Il s'agit de l'action de se v\u00eatir, plus pr\u00e9cis\u00e9ment mettre un habit, ce qui implique une interaction avec un objet (l'habit).",
+      "stgdir": "Il se met l'habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2634",
+      "category": "0",
+      "explanation": "Lire une lettre est une action g\u00e9n\u00e9rale, il ne s'agit pas d'une interaction sp\u00e9cifique, d'une aggression ou d'autre chose.",
+      "stgdir": "Il lit la lettre bas.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2635",
+      "category": "1",
+      "explanation": "Faire le moulinet avec l'\u00e9p\u00e9e et causer un massacre implique une action violente, correspondant \u00e0 la cat\u00e9gorie aggressive.",
+      "stgdir": "Il fait le moulinet avec son \u00e9p\u00e9e et en fait un massacre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2636",
+      "category": "9",
+      "explanation": "L'annonce d'entendre des cris et une marche militaire a une qualit\u00e9 narrative et vise \u00e0 \u00e9tablir une ambiance ou un contexte.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2637",
+      "category": "0",
+      "explanation": "Demeurer sans parler est une action g\u00e9n\u00e9rale et passe inaper\u00e7ue dans les autres cat\u00e9gories.",
+      "stgdir": "Il demeure quelque temps sans parler.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2638",
+      "category": "5",
+      "explanation": "Faire un pas pour sortir indique que le personnage se pr\u00e9pare \u00e0 quitter la sc\u00e8ne, ce qui le classe dans les sorties.",
+      "stgdir": "Il fait un pas pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2639",
+      "category": "6",
+      "explanation": "La mention de plusieurs personnages ensemble sugg\u00e8re une interaction entre eux, m\u00eame si cela ne pr\u00e9cise pas d'action verbale.",
+      "stgdir": "* Deux dames, Mademoiselle Kerkabon, Dum\u00e9nil, Mademoisolle Saint-Yves, le Huron, Kerkabon, Madame Plougoulin, Mademoiselle des Gu\u00e9rets, deux dames.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 7789.090871810913,
+  "model": "gpt-4o-mini"
+}

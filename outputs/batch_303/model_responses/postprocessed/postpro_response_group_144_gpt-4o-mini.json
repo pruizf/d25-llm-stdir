@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1430,
+      "category": 0,
+      "explanation": "Corbineli fait le signe de la Croix est une action g\u00e9n\u00e9rale o\u00f9 le personnage ex\u00e9cute un geste de pri\u00e8re.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1431,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre simplement meubl\u00e9e d\u00e9crit l'environnement sc\u00e9nique, indiqu\u00e9 comme le cadre de l'action.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre simplement meubl\u00e9e. Sur un des c\u00f4t\u00e9s de la sc\u00e8ne est un grand bureau de travail, couvert de cartes, de livres, de globes et d'instruments de math\u00e9matiques.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1432,
+      "category": 8,
+      "explanation": "AIR. ( De la Besogne. ) est une indication musicale, indiquant une chanson ou une m\u00e9lodie \u00e0 jouer.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1433,
+      "category": 9,
+      "explanation": "La description du navire au petit matin, avec des d\u00e9tails sur la date et la temp\u00e9rature, a une qualit\u00e9 narrative.",
+      "stgdir": "Sur le navire nomm\u00e9 Le Saint-Jean de la Rochelle, au petit matin, avec du brouillard. Il fait frais, le 14 juillet 1650. Le Saint-Jean repartira le 23 ao\u00fbt.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1434,
+      "category": 7,
+      "explanation": "Apercevant Ad\u00e9la\u00efde indique un mouvement du personnage vers un autre tout en signalant qu'il la voit.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1435,
+      "category": 6,
+      "explanation": "Elle se jette aux pieds de Saint-Albin repr\u00e9sente une interaction non verbale entre deux personnages, d'adoration ou de supplication.",
+      "stgdir": "Elle se jette aux pieds de Saint-Albin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1436,
+      "category": 5,
+      "explanation": "Elle sort avec sa soeur, en \u00e9clatant de rire montre que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "Elle sort avec sa soeur, en \u00e9clatant de rire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1437,
+      "category": 8,
+      "explanation": "AIR. Marguerite, ma Mie, olire, olire indique une indication musicale, \u00e0 nouveau une chanson \u00e0 chanter.",
+      "stgdir": "AIR. Marguerite, ma Mie, olire, olire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1438,
+      "category": 7,
+      "explanation": "S'approchant de Mariette indique un mouvement du personnage vers un autre sans indiquer une sortie.",
+      "stgdir": "S'approchant de Mariette.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1439,
+      "category": 10,
+      "explanation": "\u00c0 la statue de Pomp\u00e9e d\u00e9crit un objet ou une entit\u00e9 sc\u00e9nique vers laquelle le personnage peut interagir ou s'adresser.",
+      "stgdir": "\u00c0 la statue de Pomp\u00e9e.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 6426.111936569214,
+  "model": "gpt-4o-mini"
+}

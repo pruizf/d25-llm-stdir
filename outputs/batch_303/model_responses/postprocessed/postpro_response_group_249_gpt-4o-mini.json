@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2480",
+      "category": 3,
+      "explanation": "L'utilisation du terme 'Air' indique qu'il s'agit d'une expression musicale ou chant\u00e9e de la part du personnage.",
+      "stgdir": "Air: Mon p\u00e8re \u00e9tait pot.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2481",
+      "category": 7,
+      "explanation": "L'action 'Haut, faisant un effort' implique un mouvement physique pour atteindre une certaine hauteur.",
+      "stgdir": "Haut, faisant un effort.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2482",
+      "category": 3,
+      "explanation": "'AIR. J'\u00e9tais perdue.' indique que le personnage chante ou exprime ses \u00e9motions vocalement.",
+      "stgdir": "AIR. J'\u00e9tais perdue.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2483",
+      "category": 2,
+      "explanation": "'JE JURE QUE DE DOROTH\u00c9E' est une d\u00e9claration qui peut \u00eatre per\u00e7ue comme un apart\u00e9 ou une r\u00e9v\u00e9lation envers l'audience.",
+      "stgdir": "JE JURE QUE DE DOROTH\u00c9E",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2484",
+      "category": 3,
+      "explanation": "Le terme 'Air : Fidel \u00e9poux.' implique \u00e9galement une expression musicale ou chant\u00e9e.",
+      "stgdir": "Air : Fidel \u00e9poux.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2485",
+      "category": 6,
+      "explanation": "Cette direction indique une interaction physique entre deux personnages, en l'occurrence une prise de main.",
+      "stgdir": "Ad\u00e9la\u00efde en la prenant par la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2486",
+      "category": 7,
+      "explanation": "L'action 'Apercevant son fils' implique un mouvement ou un changement de posture pour voir le fils.",
+      "stgdir": "Apercevant son fils.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2487",
+      "category": 8,
+      "explanation": "Le 'Cinqui\u00e8me couplet' sugg\u00e8re une r\u00e9f\u00e9rence \u00e0 la musique, probablement une partie d'une chanson.",
+      "stgdir": "Cinqui\u00e8me couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2488",
+      "category": 10,
+      "explanation": "Le 'Billet de Constantine' est un objet, ce qui en fait une direction pertinente pour la cat\u00e9gorie des objets.",
+      "stgdir": "Billet de Constantine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2489",
+      "category": 12,
+      "explanation": "La mention '\u00c0 Th\u00e9r\u00e8se et Laurent' indique \u00e0 qui s'adresse le discours, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Th\u00e9r\u00e8se et Laurent.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 7125.068426132202,
+  "model": "gpt-4o-mini"
+}

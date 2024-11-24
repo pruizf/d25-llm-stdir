@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2360",
+      "category": "4",
+      "explanation": "L'esclave para\u00eet indique l'entr\u00e9e d'un personnage sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "L'esclave para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2361",
+      "category": "9",
+      "explanation": "Cette direction a une qualit\u00e9 narrative, d\u00e9crivant une action avec un contexte sp\u00e9cifique, ce qui correspond \u00e0 la narration.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2362",
+      "category": "12",
+      "explanation": "\u00c0 Deschamps indique l\u2019adresse d\u2019une communication, ce qui correspond \u00e0 la cat\u00e9gorie vers.",
+      "stgdir": "\u00c0 Deschamps.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2363",
+      "category": "3",
+      "explanation": "Il rit de toute sa force d\u00e9crit l'expression d'une \u00e9motion forte, ce qui correspond \u00e0 la livraison, en l'occurrence le rire.",
+      "stgdir": "Il rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2364",
+      "category": "12",
+      "explanation": "Au marquis indique \u00e0 qui s'adresse une action ou une parole, ce qui correspond \u00e0 la cat\u00e9gorie vers.",
+      "stgdir": "Au marquis",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2365",
+      "category": "5",
+      "explanation": "Il part indique que le personnage quitte la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Il part.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2366",
+      "category": "8",
+      "explanation": "Air: Le moyen de faire autrement commence par 'Air' et d\u00e9crit une musique, ce qui correspond \u00e0 la cat\u00e9gorie de musique.",
+      "stgdir": "Air: Le moyen de faire autrement. Du Peintre amoureux, N\u00b0 3.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2367",
+      "category": "6",
+      "explanation": "L\u00e9onore lui propose une longue entrevue avec Julie d\u00e9crit une interaction script\u00e9e entre deux personnages, ce qui correspond \u00e0 l'interaction.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2368",
+      "category": "8",
+      "explanation": "LES SIRENES semble faire r\u00e9f\u00e9rence \u00e0 un moment musical, ce qui indique une direction de musique.",
+      "stgdir": "LES SIRENES.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2369",
+      "category": "8",
+      "explanation": "Autres Couplets sur l'air : Comp\u00e8re Gervais indique une direction musicale avec les couplets, ce qui le classe dans la musique.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 4020.65110206604,
+  "model": "gpt-4o-mini"
+}

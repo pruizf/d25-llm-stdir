@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "420",
+      "category": "8",
+      "explanation": "La mention d'un pr\u00e9lude \u00e9voque une musique, donc cela appartient \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "4",
+      "explanation": "Le terme 'parait' indique qu'Antoinette entre sur sc\u00e8ne, ce qui correspond \u00e0 une entr\u00e9e.",
+      "stgdir": "Antoinette para\u00eet au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "8",
+      "explanation": "Le mot 'Air' au d\u00e9but de cette direction indique qu'il s'agit d'une r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce musicale.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "5",
+      "explanation": "Le mot 'sortent' indique que les personnages quittent la sc\u00e8ne, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "8",
+      "explanation": "Le mot 'Air' ici signifie que c'est une r\u00e9f\u00e9rence musicale, sp\u00e9cifiant une chanson.",
+      "stgdir": "Air : Un jour que j'avais mal dans\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "6",
+      "explanation": "Le fait qu'il 'entend sa ma\u00eetresse' indique une interaction, ici non verbale, entre les personnages.",
+      "stgdir": "Il entend sa ma\u00eetresse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "4",
+      "explanation": "Le terme 'revient' indique qu'un personnage entre \u00e0 nouveau sur sc\u00e8ne, ce qui correspond \u00e0 une entr\u00e9e.",
+      "stgdir": "Lucile revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "7",
+      "explanation": "Le personnage 'sautille' indique un mouvement dynamique sans r\u00e9f\u00e9rence \u00e0 une sortie ou une entr\u00e9e.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "10",
+      "explanation": "L'expression 'Lui montrant le billet' implique que le personnage interagit avec un objet, ce qui classifie cela dans la cat\u00e9gorie des objets.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "12",
+      "explanation": "La direction '\u00c0 Eum\u00e9e' indique \u00e0 qui ou \u00e0 quoi le personnage s'adresse, ce qui se rattache \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Eum\u00e9e.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 4954.196929931641,
+  "model": "gpt-4o-mini"
+}

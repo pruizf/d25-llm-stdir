@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1090",
+      "category": "10",
+      "explanation": "Ce passage fait r\u00e9f\u00e9rence \u00e0 un objet (un paquet de lettres) et \u00e0 l'interaction d'un personnage avec cet objet.",
+      "stgdir": "En montrant un paquet de lettres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1091",
+      "category": "3",
+      "explanation": "La mention de l'\u00e9motion d\u00e9crit la mani\u00e8re de d\u00e9livrer les propos, ce qui correspond \u00e0 la cat\u00e9gorie de l'expression vocale.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1092",
+      "category": "1",
+      "explanation": "Crier implique une action violente ou agressive, qui concorde avec la d\u00e9finition de la cat\u00e9gorie d'agression.",
+      "stgdir": "Il se met \u00e0 crier.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1093",
+      "category": "11",
+      "explanation": "Cette direction offre une description du cadre, ce qui la classe dans la cat\u00e9gorie de mise en sc\u00e8ne ou de setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un coin de verdure, dans la campagne, Noellie est endormie sur un banc de gazon, \u00e0 c\u00f4t\u00e9 de sa guitare.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1094",
+      "category": "8",
+      "explanation": "La mention d'un 'AIR' indique une r\u00e9f\u00e9rence \u00e0 la musique, sp\u00e9cifiant une m\u00e9lodie que les personnages pourraient chanter.",
+      "stgdir": "AIR: Ton petit minois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1095",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage se dirige vers une entit\u00e9, un endroit ou une personne, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "Allant vers La gu\u00e9rite.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1096",
+      "category": "10",
+      "explanation": "Fouiller dans ses poches implique une interaction avec des objets, d'o\u00f9 l'appartenance \u00e0 la cat\u00e9gorie d'objet.",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1097",
+      "category": "10",
+      "explanation": "Tirer un paquet de cigarettes d'une poche implique une interaction directe avec un objet, ce qui le classe dans la cat\u00e9gorie d'objet.",
+      "stgdir": "Il tire machinalement un paquet de cigarettes de la poche de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1098",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Adam' indique l'adresse d'un propos, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Adam.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1099",
+      "category": "7",
+      "explanation": "S'assoir dans un coin du th\u00e9\u00e2tre implique un mouvement, sans impliquer une entr\u00e9e ou une sortie, ce qui le classifie sous 'movement'.",
+      "stgdir": "Il s'assied en un coin du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 9829.015493392944,
+  "model": "gpt-4o-mini"
+}

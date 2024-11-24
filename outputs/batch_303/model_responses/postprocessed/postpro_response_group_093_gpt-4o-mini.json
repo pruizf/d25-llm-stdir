@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "920",
+      "category": "4",
+      "explanation": "Flore et Blanche rentrent indicates that characters are entering the stage, which fits the entrance category.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "921",
+      "category": "12",
+      "explanation": "\u00c0 Ibrahim directs speech toward Ibrahim, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "922",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos describes the stage setting or location, which fits the setting category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "923",
+      "category": "8",
+      "explanation": "AIR. Votre beaut\u00e9 soumet tout l'univers indicates a musical direction, signifying that this is a tune or song being referenced.",
+      "stgdir": "AIR. Votre beaut\u00e9 soumet tout l'univers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "924",
+      "category": "12",
+      "explanation": "Aux deux Com\u00e9dies indicates the direction of speech towards the two Com\u00e9dies, fitting the toward category.",
+      "stgdir": "Aux deux Com\u00e9dies.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "925",
+      "category": "12",
+      "explanation": "\u00c0 Constantin directs speech toward Constantin, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Constantin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "926",
+      "category": "5",
+      "explanation": "Elle sort par la porte de la chambre nuptiale indicates that the character exits, fitting the exit category.",
+      "stgdir": "Elle sort par la porte de la chambre nuptiale.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "927",
+      "category": "12",
+      "explanation": "Aux Muses indicates the direction of speech toward the Muses, fitting the toward category.",
+      "stgdir": "Aux Muses.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "928",
+      "category": "12",
+      "explanation": "Aux Gens du Bailli directs speech toward the Gens du Bailli, indicating the addressee of a speech.",
+      "stgdir": "Aux Gens du Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "929",
+      "category": "4",
+      "explanation": "Dorante entre indicates that Dorante is entering the stage, which fits the entrance category.",
+      "stgdir": "Dorante entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 4175.810813903809,
+  "model": "gpt-4o-mini"
+}

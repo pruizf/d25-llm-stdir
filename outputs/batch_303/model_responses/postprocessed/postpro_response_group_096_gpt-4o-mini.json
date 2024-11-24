@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "950",
+      "category": "4",
+      "explanation": "Orphise et Lise entrent signifies that the characters Orphise and Lise are making their entrance onto the stage.",
+      "stgdir": "Orphise et Lise entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "951",
+      "category": "8",
+      "explanation": "Haut \u00e0 Fanchette refers to a musical direction, indicating that the music for the character Fanchette is about to be played.",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "952",
+      "category": "3",
+      "explanation": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge indicates that the character is delivering a line while also performing a physical action, which reinforces the emotional tone of the delivery.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "953",
+      "category": "0",
+      "explanation": "Elles enl\u00e8vent Constance describes a general action where the characters are removing Constance, but it does not fit the other specific categories.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "954",
+      "category": "8",
+      "explanation": "AIR : Va t'en voir s'ils viennent Jean specifies that a tune or song will be played, indicated by the word 'AIR'.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "955",
+      "category": "1",
+      "explanation": "Elle frappe sur les oreilles de l'\u00e2ne qui rue describes a violent action where a character is striking or hitting, which falls under aggression.",
+      "stgdir": "Elle frappe sur les oreilles de l'\u00e2ne qui rue.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "956",
+      "category": "12",
+      "explanation": "\u00c0 l'intendant indicates the direction is meant toward the intendant, identifying the recipient of an action or speech.",
+      "stgdir": "\u00c0 l'intendant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "957",
+      "category": "6",
+      "explanation": "En regardant les enfants describes a non-verbal interaction where a character is looking at the children, which involves engagement with them.",
+      "stgdir": "En regardant les enfants.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "958",
+      "category": "10",
+      "explanation": "Elle ouvre un tiroir describes the action of opening a drawer, focusing on the interaction with an object.",
+      "stgdir": "Elle ouvre un tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "959",
+      "category": "8",
+      "explanation": "AIR. Je voudrais bien me marier indicates that this is a musical piece, as it begins with the word 'AIR', signaling performance of music.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7784.03377532959,
+  "model": "gpt-4o-mini"
+}

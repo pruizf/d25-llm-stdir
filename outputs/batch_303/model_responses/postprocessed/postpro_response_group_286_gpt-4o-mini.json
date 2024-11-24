@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2850",
+      "category": "6",
+      "explanation": "Ils se serrent la main indicates a non-verbal interaction between characters through a handshake.",
+      "stgdir": "Ils se serrent la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2851",
+      "category": "12",
+      "explanation": "\u00c0 Thibaudier indicates the character is addressing or directing action toward Thibaudier.",
+      "stgdir": "\u00c0 Thibaudier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2852",
+      "category": "8",
+      "explanation": "AIR : V'la ce que c'est qu'd'aller au bois indicates a musical element where a tune is being referenced.",
+      "stgdir": "AIR : V'la ce que c'est qu'd'aller au bois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2853",
+      "category": "12",
+      "explanation": "\u00c0 Araminte indicates the character is addressing or directing action toward Araminte.",
+      "stgdir": "\u00c0 Araminte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2854",
+      "category": "9",
+      "explanation": "En voyant la porte ferm\u00e9e has a narrative quality that describes a reaction to an event.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2855",
+      "category": "6",
+      "explanation": "La rappelant indicates a non-verbal interaction, often suggesting calling back or beckoning someone.",
+      "stgdir": "La rappelant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2856",
+      "category": "9",
+      "explanation": "Bruit de fer-blanc heurt\u00e9 describes a sound, giving it a narrative quality.",
+      "stgdir": "Bruit de fer-blanc heurt\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2857",
+      "category": "8",
+      "explanation": "AIR. Je ne veux d'autre bien, etc. also indicates a musical element, referencing a tune.",
+      "stgdir": "AIR. Je ne veux d'autre bien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2858",
+      "category": "3",
+      "explanation": "Parlant indicates that the character is speaking, which can relate to delivery manner.",
+      "stgdir": "Parlant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2859",
+      "category": "9",
+      "explanation": "The lengthy description portrays a sequence of actions and emotions, fitting the narrative category.",
+      "stgdir": "Entrant dans son Palais, elle le trouve mort sur son lit de parade ; ses douleurs \u00e9clatent incontinent par les plaintes et ses lamentations, mais la violence de ses pleurs la tire aussi t\u00f4t dans la faiblesse. Elle est secourue par la Princesse sa confidente, revient de p\u00e2moison et demande, qu'on la laisse en repos.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 4578.054904937744,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2760",
+      "category": "10",
+      "explanation": "Elle embrasse la poup\u00e9e et la met dans le panier, ce qui d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2761",
+      "category": "0",
+      "explanation": "Il veut lire, ce qui est une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "Il veut lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2762",
+      "category": "6",
+      "explanation": "Regardant se r\u00e9f\u00e8re \u00e0 l'action non verbale de regarder, qui implique une interaction visuelle.",
+      "stgdir": "Regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2763",
+      "category": "3",
+      "explanation": "Il fait un petit pr\u00e9lude et chante, ce qui indique une livraison musicale du personnage.",
+      "stgdir": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0:",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2764",
+      "category": "11",
+      "explanation": "\u00c0 N\u00e9optol\u00e9mus indique un lieu sp\u00e9cifique, ce qui est de la description de cadre.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2765",
+      "category": "11",
+      "explanation": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond d\u00e9crit l'environnement sc\u00e9nique.",
+      "stgdir": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2766",
+      "category": "8",
+      "explanation": "AIR de la Somnambule est une indication musicale, mentionnant une \u0153uvre sp\u00e9cifique.",
+      "stgdir": "AIR de la Somnambule.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2767",
+      "category": "7",
+      "explanation": "Se rapprochant indique un mouvement vers un autre personnage ou un objet.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2768",
+      "category": "8",
+      "explanation": "AIR : Sans dessus dessous est aussi une indication musicale, se rapportant \u00e0 une \u0153uvre musicale.",
+      "stgdir": "AIR : Sans dessus desssous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2769",
+      "category": "8",
+      "explanation": "Air 69. Un certain je-ne-sais-quoi est une r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce musicale, c'est donc dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6079.213857650757,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1720",
+      "category": 4,
+      "explanation": "Il s'agit d'une entr\u00e9e d'un personnage sur la sc\u00e8ne.",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1721",
+      "category": 12,
+      "explanation": "La direction indique que Colombine s'adresse \u00e0 ses s\u0153urs.",
+      "stgdir": "\u00c0 ses soeurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1722",
+      "category": 0,
+      "explanation": "Elle va ouvrir repr\u00e9sente une action g\u00e9n\u00e9rale de Colombine.",
+      "stgdir": "Elle va ouvrir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1723",
+      "category": 10,
+      "explanation": "Cette direction implique qu'elle ferme la bible et manipule un berceau, se rapportant \u00e0 des objets.",
+      "stgdir": "Elle ferme la bible et va prendre le berceau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1724",
+      "category": 12,
+      "explanation": "La direction parle de Zoroaste, impliquant qu'elle s'adresse \u00e0 ce personnage.",
+      "stgdir": "\u00c0 Zoroaste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1725",
+      "category": 0,
+      "explanation": "S'endormir est une action g\u00e9n\u00e9rale du personnage, sans indication d'une interaction particuli\u00e8re.",
+      "stgdir": "Oronte s'endort.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1726",
+      "category": 9,
+      "explanation": "Cette direction donne un aspect narratif en parlant des ombres r\u00e9p\u00e9tant des vers.",
+      "stgdir": "Les ombres r\u00e9p\u00e8tent ces deux derniers vers.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1727",
+      "category": 3,
+      "explanation": "D'un ton s\u00e9v\u00e8re se r\u00e9f\u00e8re au mode de livraison d'une phrase ou d'un dialogue.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1728",
+      "category": 0,
+      "explanation": "Apr\u00e8s avoir lu la lettre indique une action r\u00e9alis\u00e9e par le personnage.",
+      "stgdir": "Apr\u00e8s avoir lu la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1729",
+      "category": 9,
+      "explanation": "Ce passage d\u00e9crit plusieurs actions d'une mani\u00e8re narrative, comme les gestes de Pierrot et la mani\u00e8re dont Colombinette ouvre les yeux.",
+      "stgdir": "Il se met \u00e0 sa table de travail, \u00e9tale des papiers et s'y absorbe. Un quart d'heure s'\u00e9coule. Colombinette fait mine de s'\u00e9veiller. Pierrot met sa plume d'oie \u00e0 l'oreille, et appr\u00eate vite le caf\u00e9 au lait de Colombinette. Au moment o\u00f9 elle ouvre les yeux, il le lui pose sur la tablette.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 5951.000690460205,
+  "model": "gpt-4o-mini"
+}

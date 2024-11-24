@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "460",
+      "category": "10",
+      "explanation": "Il donne une ordonnance refers to an action where a character is interacting with an object (the ordonnance), thus fitting in the 'object' category.",
+      "stgdir": "Il donne une ordonnance.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "461",
+      "category": "12",
+      "explanation": "\u00c0 \u00c9liante et Philinte indicates that the character is addressing these other characters, thus fitting the 'toward' category.",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "462",
+      "category": "8",
+      "explanation": "M\u00caME AIR B\u00e9arnais indicates a specific tune or music piece, thus categorizing it as 'music'.",
+      "stgdir": "M\u00caME AIR B\u00e9arnais.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "463",
+      "category": "1",
+      "explanation": "Toll\u00e9 g\u00e9n\u00e9ral might depict an aggressively charged response from the audience, fitting into the 'aggression' category.",
+      "stgdir": "Toll\u00e9 g\u00e9n\u00e9ral.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "464",
+      "category": "8",
+      "explanation": "Air Not\u00e9 n\u00b02 refers to a music piece, making it a clear fit for the 'music' category.",
+      "stgdir": "Air Not\u00e9 n\u00b02.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "465",
+      "category": "8",
+      "explanation": "Air : Morgu\u00e9, la femme qui m'aura indicates a music direction, which falls into the 'music' category.",
+      "stgdir": "Air : Morgu\u00e9, la femme qui m'aura.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "466",
+      "category": "9",
+      "explanation": "Pendant le dernier couplet describes a series of actions unfolding during a song, giving it a narrative quality which fits the 'narration' category.",
+      "stgdir": "Pendant le dernier couplet, la force arm\u00e9e est entr\u00e9e et a pass\u00e9 devant les citoyens, de mani\u00e8re que les jacobins quiont tous la figure du c\u00f4t\u00e9 du public, ne peuvent la voir \u00e0 la fin du couplet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "467",
+      "category": "8",
+      "explanation": "Air : Va, va, Fanchon, J'irai en salle is another mention of a music piece, thus classified under the 'music' category.",
+      "stgdir": "Air : Va, va, Fanchon, J'irai en salle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "468",
+      "category": "5",
+      "explanation": "Arsino\u00e9 et La\u00efs sortent indicates that characters are exiting the stage, fitting the 'exit' category.",
+      "stgdir": "Arsino\u00e9 et La\u00efs sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "469",
+      "category": "0",
+      "explanation": "Il mange le reste du gigot describes a general action performed by a character, thus fitting into the 'action' category.",
+      "stgdir": "Il mange le reste du gigot.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8121.279716491699,
+  "model": "gpt-4o-mini"
+}

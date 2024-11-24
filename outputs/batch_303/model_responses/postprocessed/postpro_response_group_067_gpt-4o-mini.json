@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "660",
+      "category": "11",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit le d\u00e9cor o\u00f9 se d\u00e9roule l'action, indiquant une ottomane et les personnages qui s'y trouvent.",
+      "stgdir": "Il y a une ottomane qui r\u00e8gne le long de la salle, le Chinois et la Chinoise s'y accroupissent. Un Tartare et une Tartare paraissent sans saluer personne ; ils ont un arc en main et un carquois sur l'\u00e9paule ; ils se couchent aupr\u00e8s des Chinois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "11",
+      "explanation": "Cette direction indique le lieu de la sc\u00e8ne, qui est une maison de paysans, pr\u00e9cisant le cadre de l'action.",
+      "stgdir": "Une maison de paysans dans les environs de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "4",
+      "explanation": "Montano s'approche, ce qui indique une entr\u00e9e ou un mouvement vers le centre de la sc\u00e8ne.",
+      "stgdir": "Montano s'approche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit la configuration du salon, indiquant les portes et la fen\u00eatre, contribuant \u00e0 \u00e9tablir le d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un petit salon. Porte au fond. Porte lat\u00e9rale \u00e0 droite. - Une fen\u00eatre \u00e0 gauche. - \u00c0 droite, une table.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "6",
+      "explanation": "Elle parle \u00e0 Anth\u00e9nor, ce qui implique une interaction verbale entre deux personnages.",
+      "stgdir": "Elle parle \u00e0 Anth\u00e9nor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "10",
+      "explanation": "Elle d\u00e9trempe les papiers dans l'eau, d\u00e9crivant une interaction directe avec l'objet (les papiers).",
+      "stgdir": "Elle d\u00e9trempe les papiers dans l'eau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "2",
+      "explanation": "Regardant le portrait de L\u00e9lie, cela implique un moment de contemplation qui pourrait \u00eatre vu comme une aside.",
+      "stgdir": "Regardant le portrait de L\u00e9lie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "2",
+      "explanation": "ENSEMBLE peut sugg\u00e9rer une p\u00e9riode o\u00f9 les personnages s'adressent \u00e0 la fois \u00e0 l'audience, impliquant un moment d'apart\u00e9.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "11",
+      "explanation": "La sc\u00e8ne repr\u00e9sente le boudoir de la Comtesse, indiquant le lieu et le cadre de l'action.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente le boudoir de la Comtesse. \u00c0 gauche, un petit paravent. Au lever du rideau, la Comtesse de La Roche-Gaston est seule en sc\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "8",
+      "explanation": "Air : Oh, oh, oh, ah, ah, ah ! indique qu'il s'agit d'une musique ou d'une chanson mentionn\u00e9e dans la direction de sc\u00e8ne.",
+      "stgdir": "Air : Oh, oh, oh, ah, ah, ah !",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5129.03904914856,
+  "model": "gpt-4o-mini"
+}

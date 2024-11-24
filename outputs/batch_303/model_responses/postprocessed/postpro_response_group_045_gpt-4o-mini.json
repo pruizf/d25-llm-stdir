@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "440",
+      "category": "8",
+      "explanation": "L'\u00e9l\u00e9ment 'Air' indique qu'il s'agit d'une musique, sp\u00e9cifiquement une r\u00e9f\u00e9rence \u00e0 une m\u00e9lodie ou une chanson.",
+      "stgdir": "Air : Du partage de la richesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "441",
+      "category": "1",
+      "explanation": "Cette direction implique une action o\u00f9 il retient quelqu'un par le bras, perdant tout respect, ce qui a une connotation agressive.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "442",
+      "category": "10",
+      "explanation": "Cette direction d\u00e9crit une interaction avec un objet, dans ce cas un papier mou, indiquant le fait de le tirer de son pot.",
+      "stgdir": "Il tire du papier mou de son pot.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "443",
+      "category": "12",
+      "explanation": "\u00c0 'Madame Grognac' indique que ce dialogue est adress\u00e9 \u00e0 elle, pr\u00e9cisant l'interlocuteur.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "444",
+      "category": "8",
+      "explanation": "L'\u00e9l\u00e9ment 'Air' d\u00e9signe \u00e9galement une pi\u00e8ce musicale ou une m\u00e9lodie, donc cela fait r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air : Menuet d'Exaudet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "445",
+      "category": "5",
+      "explanation": "Il s'agit d'une sortie, car 'C\u00e9sario sort' indique que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "C\u00e9sario sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "446",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit un cadre sc\u00e9nique, mentionnant une fontaine dans un bois, ce qui donne une id\u00e9e du lieu de l'action.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "447",
+      "category": "10",
+      "explanation": "Elle soul\u00e8ve l'autre vase et prend le billet d\u00e9crit une interaction directe avec des objets, ce qui classe cette action dans la cat\u00e9gorie des objets.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "448",
+      "category": "5",
+      "explanation": "N\u00e9restan sort indique que ce personnage quitte la sc\u00e8ne, ce qui est une sortie.",
+      "stgdir": "N\u00e9restan sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "449",
+      "category": "8",
+      "explanation": "Comme avec les pr\u00e9c\u00e9dentes, 'AIR' au d\u00e9but indique qu'il s'agit d'une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "AIR ( Le Cabaret est mon r\u00e9duit. )",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5711.538553237915,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1140",
+      "category": "11",
+      "explanation": "Il s'agit d'une indication de lieu, sp\u00e9cifiant un endroit o\u00f9 se d\u00e9roule la sc\u00e8ne.",
+      "stgdir": "\u00c0 Acante.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1141",
+      "category": "5",
+      "explanation": "Le terme 'Tous sortent' indique que les personnages quittent la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie sortie.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1142",
+      "category": "7",
+      "explanation": "L'action de se lever est un mouvement du personnage, indiquant un changement de posture ou de position.",
+      "stgdir": "On entend frapper et la porte. - Se levant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1143",
+      "category": "6",
+      "explanation": "Le regard passionn\u00e9 de D\u00e9lie vers un autre personnage est une interaction non verbale.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1144",
+      "category": "9",
+      "explanation": "Cette phrase indique un moment narratif crucial, faisant allusion \u00e0 un point culminant dans l'histoire.",
+      "stgdir": "Arrive l'instant d\u00e9finitif.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1145",
+      "category": "12",
+      "explanation": "La mention \u00e0 Darius indique l'adresse d'un discours \u00e0 un personnage sp\u00e9cifique.",
+      "stgdir": "\u00c0 Darius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1146",
+      "category": "6",
+      "explanation": "Le terme 'Ensemble' peut impliquer une interaction entre les personnages pr\u00e9sents sur sc\u00e8ne, sugg\u00e9rant un action collective.",
+      "stgdir": "Ensemble",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1147",
+      "category": "6",
+      "explanation": "Le geste de montrer Racine est une interaction non verbale o\u00f9 un personnage attire l'attention sur un autre.",
+      "stgdir": "Elle montre Racine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1148",
+      "category": "12",
+      "explanation": "Cette indication au souffleur implique \u00e9galement une adresse \u00e0 un personnage sp\u00e9cifique, menant \u00e0 une action de dialogue.",
+      "stgdir": "Au souffleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1149",
+      "category": "8",
+      "explanation": "Le fait d'entendre une cloche indique un \u00e9l\u00e9ment musical ou sonore, ce qui correspond \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6853.047847747803,
+  "model": "gpt-4o-mini"
+}

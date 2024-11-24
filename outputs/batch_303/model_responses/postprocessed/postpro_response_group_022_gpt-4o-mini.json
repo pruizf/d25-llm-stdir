@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "210",
+      "category": "6",
+      "explanation": "Parth\u00e9nice vient savoir finement en quel \u00e9tat est Floridan aupr\u00e8s de C\u00e9linde implique une interaction entre les personnages, o\u00f9 Parth\u00e9nice interroge sur l'\u00e9tat de Floridan.",
+      "confidence": 0.9,
+      "stgdir": "Parth\u00e9nice vient savoir finement en quel \u00e9tat est Floridan aupr\u00e8s de C\u00e9linde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "1",
+      "explanation": "Il la reprend implique une forme d'agression verbale ou d'une reprise de contr\u00f4le dans un dialogue.",
+      "confidence": 0.8,
+      "stgdir": "Il la reprend.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "11",
+      "explanation": "Au grand bramine semble indiquer un lieu ou un cadre plus que toute autre action ou interaction.",
+      "confidence": 0.7,
+      "stgdir": "Au grand bramine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "8",
+      "explanation": "AIR : O gu\u00e9 lan la, lanlaire commence par 'AIR' ce qui indique qu'il s'agit d'une r\u00e9f\u00e9rence musicale.",
+      "confidence": 1.0,
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "11",
+      "explanation": "\u00c0 Coucy fait r\u00e9f\u00e9rence \u00e0 un lieu sp\u00e9cifique, ce qui correspond \u00e0 la description d'un cadre.",
+      "confidence": 0.8,
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "8",
+      "explanation": "Air : Faut-il qu'une fi faible plante commence \u00e9galement par 'Air', indiquant que c'est une r\u00e9f\u00e9rence musicale.",
+      "confidence": 1.0,
+      "stgdir": "Air : Faut-il qu'une fi faible plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "9",
+      "explanation": "On entend chanter dans la rue fournit une information narrative sur un \u00e9v\u00e9nement auditif dans le cadre de l'histoire.",
+      "confidence": 0.85,
+      "stgdir": "On entend chanter dans la rue.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "8",
+      "explanation": "Air : Fanfare de Saint-Cloud indique une r\u00e9f\u00e9rence musicale avec le mot 'Air' au d\u00e9but.",
+      "confidence": 1.0,
+      "stgdir": "Air : Fanfare de Saint-Cloud.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "7",
+      "explanation": "Damis, se l\u00e8ve implique un mouvement du personnage sans qu'il quitte ou entre sur sc\u00e8ne.",
+      "confidence": 0.9,
+      "stgdir": "Damis, se l\u00e8ve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "6",
+      "explanation": "\u00c0 un voisin, qui somnole dans l'angle du compartiment indique une interaction avec un autre personnage.",
+      "confidence": 0.85,
+      "stgdir": "\u00c0 un voisin, qui somnole dans l'angle du compartiment.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 18651.082277297974,
+  "model": "gpt-4o-mini"
+}

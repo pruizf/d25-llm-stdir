@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1190",
+      "category": "3",
+      "explanation": "Le cygne chante en mourant implique une expression vocale avec une charge \u00e9motionnelle, ce qui correspond \u00e0 la cat\u00e9gorie de la livraison.",
+      "stgdir": "Le cygne chante en mourant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1191",
+      "category": "6",
+      "explanation": "Aux cris que pousse Th\u00e9cla d\u00e9crit une interaction non verbale o\u00f9 le cri peut indiquer une r\u00e9action ou un lien \u00e9motionnel sans qu'il n'y ait n\u00e9cessairement de dialogue.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1192",
+      "category": "4",
+      "explanation": "Il rentrent tous indique que des personnages entrent sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Il rentrent tous.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1193",
+      "category": "5",
+      "explanation": "M\u00e9gatise sort indique que M\u00e9gatise quitte la sc\u00e8ne, donc cela correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1194",
+      "category": "1",
+      "explanation": "Il est encore battu implique une notion de violence ou d'agression, ce qui le classe dans la cat\u00e9gorie d'agression.",
+      "stgdir": "Il est encore battu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1195",
+      "category": "12",
+      "explanation": "\u00c0 Risette indique le destinataire d'une action ou d'un discours, donc cela rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Risette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1196",
+      "category": "8",
+      "explanation": "Les trompettes et les tambours se font entendre d\u00e9crit un \u00e9v\u00e9nement musical, donc cela se classe dans la cat\u00e9gorie de musique.",
+      "stgdir": "Les trompettes et les tambours se font entendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1197",
+      "category": "8",
+      "explanation": "Air : De Weick est clairement une indication d'une pi\u00e8ce de musique, ce qui le classe dans la cat\u00e9gorie de musique.",
+      "stgdir": "Air : De Weick.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1198",
+      "category": "8",
+      "explanation": "Air : Babet que t'es gentille est \u00e9galement une indication musicale, ce qui le place dans la cat\u00e9gorie de musique.",
+      "stgdir": "Air : Babet que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1199",
+      "category": "6",
+      "explanation": "Elle entra\u00eene Rosa d\u00e9crit une interaction entre deux personnages, ce qui correspond \u00e0 la cat\u00e9gorie d'interaction.",
+      "stgdir": "Elle entraine Rosa.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 8845.072984695435,
+  "model": "gpt-4o-mini"
+}

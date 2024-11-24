@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "410",
+      "category": "3",
+      "explanation": "Cette direction concerne une action de performance o\u00f9 le personnage s'exprime, indiquant une mani\u00e8re de livrer des paroles.",
+      "stgdir": "Elle le fait comme elle de dis.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "411",
+      "category": "5",
+      "explanation": "Laurent et Grivet sortent par la porte, ce qui correspond \u00e0 une sortie de sc\u00e8ne, class\u00e9e comme un exit.",
+      "stgdir": "Laurent et Grivet sortent par la porte du fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "412",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale qui donne le nom d'une chanson ou d'une m\u00e9lodie.",
+      "stgdir": "Air : Voulez-vous savoir l'histoire, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "413",
+      "category": "9",
+      "explanation": "On entend un bruit de hautbois, donc il s'agit d'une narration d'un son dans la sc\u00e8ne.",
+      "stgdir": "On entend un bruit de hautbois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "414",
+      "category": "8",
+      "explanation": "Il s'agit d'un Air, ce qui d\u00e9signe une musique sp\u00e9cifique ou une m\u00e9lodie dans la pi\u00e8ce.",
+      "stgdir": "Air nouveau du C. DELAPORTE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "415",
+      "category": "12",
+      "explanation": "Cette direction indique l'adresse d'une r\u00e9plique \u00e0 Finot, ce qui correspond au concept de 'toward'.",
+      "stgdir": "\u00c0 Finot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "416",
+      "category": "8",
+      "explanation": "C'est un air qui d\u00e9signe une musique ou une m\u00e9lodie, correspondant \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "Air 171. Menuet des F\u00eates Grecques et Rom.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "417",
+      "category": "6",
+      "explanation": "Apercevant Cassandre indique une forme d'interaction visuelle non verbale entre les personnages.",
+      "stgdir": "Apercevant Cassandre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "418",
+      "category": "12",
+      "explanation": "Cette direction montre que la parole est adress\u00e9e \u00e0 Placide, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "419",
+      "category": "3",
+      "explanation": "Il sonne du cor implique l'action de jouer d'un instrument, ce qui rel\u00e8ve d'une forme d'expression musicale.",
+      "stgdir": "Il sonne du cor.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 5072.604656219482,
+  "model": "gpt-4o-mini"
+}

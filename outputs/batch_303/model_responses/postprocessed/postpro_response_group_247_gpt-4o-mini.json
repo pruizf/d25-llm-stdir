@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2460",
+      "category": "8",
+      "explanation": "L'indication 'Air : Vaudeville de Racan' indique une pi\u00e8ce musicale, donc cela rel\u00e8ve de la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Vaudeville de Racan.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2461",
+      "category": 7,
+      "explanation": "L'action de 'Tout le Peuple va se ranger au bout de la Cour' d\u00e9crit un mouvement collectif des personnages, sans qu'il s'agisse d'une entr\u00e9e ou d'une sortie.",
+      "stgdir": "Tout le Peuple va se ranger au bout de la Cour.",
+      "categFull": 7
+    },
+    {
+      "stgdir_nbr": "2462",
+      "category": "12",
+      "explanation": "L'indication '\u00c0 Madame Duru' montre que le personnage s'adresse sp\u00e9cifiquement \u00e0 une autre personne, donc cela appartient \u00e0 la cat\u00e9gorie vers l'addressee.",
+      "stgdir": "\u00c0 Madame Duru.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2463",
+      "category": 0,
+      "explanation": "L'action de 'Il l\u00e8ve son marteau' est un acte g\u00e9n\u00e9ral qui est plus appropri\u00e9 pour la cat\u00e9gorie action.",
+      "stgdir": "Il l\u00e8ve son marteau.",
+      "categFull": 0
+    },
+    {
+      "stgdir_nbr": "2464",
+      "category": "5",
+      "explanation": "L'indication 'Il s'enfuit par le fond' d\u00e9crit que le personnage quitte la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Il s'enfuit par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2465",
+      "category": "4",
+      "explanation": "L'action 'Phoedime sort' indique que le personnage fait une entr\u00e9e, donc cela rel\u00e8ve de la cat\u00e9gorie entr\u00e9e.",
+      "stgdir": "Phoedime sort.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2466",
+      "category": "10",
+      "explanation": "La description 'Mettant le portefeuille sur une table' implique l'interaction du personnage avec un objet, ce qui le classe dans la cat\u00e9gorie objet.",
+      "stgdir": "Mettant le portefeuille sur une table[.]",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2467",
+      "category": "12",
+      "explanation": "L'indication '\u00c0 Hyacinte' signifie que le personnage s'adresse \u00e0 Hyacinte, ce qui rentre dans la cat\u00e9gorie vers l'addressee.",
+      "stgdir": "\u00c0 Hyacinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2468",
+      "category": 6,
+      "explanation": "L'action 'Appelant un domestique' sugg\u00e8re une interaction non verbale avec autrui, ce qui correspond \u00e0 la cat\u00e9gorie interaction.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": 6
+    },
+    {
+      "stgdir_nbr": "2469",
+      "category": "8",
+      "explanation": "L'indication 'Air : Aye, aye, aye, Jeannette' indique une r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce musicale, et donc cela appartient \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Aye, aye, aye, Jeannette.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10811.763048171997,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "20",
+      "category": "6",
+      "explanation": "Elle appelle Lubin implique une interaction entre elle et Lubin, mais cela ne se limite pas \u00e0 une simple communication verbale.",
+      "confidence": 0.9,
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "0",
+      "explanation": "Lisant est une action g\u00e9n\u00e9rale, sur un personnage qui lit sans autre interaction pr\u00e9cise.",
+      "confidence": 0.85,
+      "stgdir": "Lisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "5",
+      "explanation": "Elle sort suivie de son page et de la Comtesse indique une sortie de sc\u00e8ne des personnages.",
+      "confidence": 0.95,
+      "stgdir": "Elle sort suivie de son page et de la Comtesse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "8",
+      "explanation": "AIR NOUVEAU : Musique d'Augusrte BLANGY mentionne une musique, confirmant son appartenance \u00e0 la cat\u00e9gorie musicale.",
+      "confidence": 1.0,
+      "stgdir": "AIR NOUVEAU : Musique d'Augusrte BLANGY.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "Il la frappe indique une action violente, correspondant \u00e0 la cat\u00e9gorie d'agression.",
+      "confidence": 0.95,
+      "stgdir": "Il la frappe",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "10",
+      "explanation": "Il lui donne le rouleau d\u00e9crit un acte de donner un objet, ce qui le classe dans la cat\u00e9gorie objet.",
+      "confidence": 0.9,
+      "stgdir": "Il lui donne le rouleau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "10",
+      "explanation": "Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier implique une manipulation d'objet.",
+      "confidence": 0.9,
+      "stgdir": "Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "5",
+      "explanation": "Adonias sort indique que le personnage quitte la sc\u00e8ne, ce qui le classe dans la cat\u00e9gorie de sortie.",
+      "confidence": 0.95,
+      "stgdir": "Adonias sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "5",
+      "explanation": "La Montagne s'en va est \u00e9galement une indication de sortie, montrant qu'un personnage quitte la sc\u00e8ne.",
+      "confidence": 0.95,
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "10",
+      "explanation": "Il l'\u00f4te \u00e0 Liliane sugg\u00e8re une interaction avec un objet, \u00e9tant donn\u00e9 qu'il enl\u00e8ve quelque chose \u00e0 un autre personnage.",
+      "confidence": 0.85,
+      "stgdir": "Il l'\u00f4te \u00e0 Liliane.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 7018.678188323975,
+  "model": "gpt-4o-mini"
+}

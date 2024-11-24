@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "230",
+      "category": "12",
+      "explanation": "This direction indicates that the action or dialogue is directed towards the marquis, making it an indication of the speech's addressee.",
+      "confidence": 0.95,
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "8",
+      "explanation": "The direction 'AIR du vaudeville de l'Avare' references a musical piece, indicating that it relates to music.",
+      "confidence": 0.9,
+      "stgdir": "AIR du vaudeville de l'Avare.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "Similar to the previous direction, 'AIR : J'en jurerais presque sur sa laideur' indicates a musical piece.",
+      "confidence": 0.9,
+      "stgdir": "AIR : J'en jurerais presque sur sa laideur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "3",
+      "explanation": "The word 'Fredonnant' suggests a character is singing or humming, which relates to vocal expression.",
+      "confidence": 0.85,
+      "stgdir": "Fredonnant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "9",
+      "explanation": "This stage direction is a lengthy narrative that outlines conditions of a relationship, fitting the definition of narration.",
+      "confidence": 0.9,
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "9",
+      "explanation": "This detailed description outlines several actions during a ceremony, indicative of a narrative style.",
+      "confidence": 0.95,
+      "stgdir": "Tout \u00e9tant dispos\u00e9, et le cur\u00e9 \u00e9tant arriv\u00e9 dans une cal\u00e8che a six chevaux qu'on avait envoy\u00e9e au devant de lui, il fut conduit \u00e0 son tr\u00f4ne. D\u00e8s qu'il fut assis, l'orateur lui pronon\u00e7a \u00e0 genoux une harangue dans le style de l'acad\u00e9mie, pleine de louanges, d'antith\u00e8ses, et de mots nouveaux. Le cur\u00e9 re\u00e7ut tous ces \u00e9loges avec l'air d'un homme qui sait bien qu'il en m\u00e9rite encore davantage ; car tout le monde n'est pas de l'humeur de notre reine***, qui hait les louanges autant qu'elle les m\u00e9rite. Apr\u00e8s la harangue, on ex\u00e9cuta le concert dont on vous envoie les paroles ; les choeurs all\u00e8rent \u00e0 merveille, et la c\u00e9r\u00e9monie finit par une grande pi\u00e8ce de vers poupeux, \u00e0 laquelle ni les assistants, ni le cur\u00e9, ni l'auteur, n'entendirent rien. Il faudrait avoir \u00e9t\u00e9 t\u00e9moin de cette f\u00eate pour en bien sentir l'agr\u00e9ment : les projets et les pr\u00e9paratifs de ces divertissements sont toujours agr\u00e9ables, l'ex\u00e9cution rarement bonne, et le r\u00e9cit souvent ennuyeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "8",
+      "explanation": "The phrase 'La symphonie vive recommence' refers to a musical direction indicating the beginning of a musical piece.",
+      "confidence": 0.9,
+      "stgdir": "La symphonie vive recommence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "6",
+      "explanation": "The '\u00c9change des cartes' suggests non-verbal interaction, as characters are exchanging cards without a spoken component.",
+      "confidence": 0.85,
+      "stgdir": "\u00c9change des cartes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "6",
+      "explanation": "This direction indicates that the character interacts with those who assist him in walking, which is a non-verbal interaction.",
+      "confidence": 0.9,
+      "stgdir": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "7",
+      "explanation": "The character's movement while presenting letters and preparing indicates an action of movement as part of their duties.",
+      "confidence": 0.85,
+      "stgdir": "Girolamo lui pr\u00e9sente plusieurs lettres puis va et vient dans l'appartement en pr\u00e9parant ce qu'il faut pour la toilette de son ma\u00eetre.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 11712.825536727905,
+  "model": "gpt-4o-mini"
+}

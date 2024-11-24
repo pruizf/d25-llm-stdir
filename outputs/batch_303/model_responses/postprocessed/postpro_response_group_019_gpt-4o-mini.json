@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "180",
+      "category": "3",
+      "explanation": "Il s'agit du paiement effectu\u00e9 par un personnage, ce qui implique une action de livraison de quelque chose, ici de l'argent. Cela se rapporte \u00e0 la mani\u00e8re dont le paiement est formul\u00e9 verbalement.",
+      "confidence": 0.8,
+      "stgdir": "Au Facteur en le payant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "0",
+      "explanation": "L'action de 's'asseoir' est un geste g\u00e9n\u00e9ral qui ne correspond pas \u00e0 une entr\u00e9e ou une sortie, mais plut\u00f4t \u00e0 l'action de se poser sur une chaise ou un banc.",
+      "confidence": 0.9,
+      "stgdir": "Elles s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "2",
+      "explanation": "Le 'premier vers, \u00e0 part' indique une situation o\u00f9 un personnage parle \u00e0 lui-m\u00eame ou s'adresse directement au public, ce qui correspond \u00e0 une aside.",
+      "confidence": 0.95,
+      "stgdir": "Le premier vers, \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "6",
+      "explanation": "L'action de 'embrasser tendrement' implique une interaction non verbale entre deux personnages, soulignant l'affection.",
+      "confidence": 0.85,
+      "stgdir": "Mondor embrasse tendrement sa femme.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "11",
+      "explanation": "Cette direction fait r\u00e9f\u00e9rence \u00e0 l'arriv\u00e9e de personnages qui \u00e9voquent une ambiance ou un style d'ancienne com\u00e9die, ce qui se rapproche de la description de la sc\u00e8ne.",
+      "confidence": 0.9,
+      "stgdir": "Marche de toutes sortes de Personnages de l'ancienne Com\u00e9die Fran\u00e7aise et Italienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "4",
+      "explanation": "Julie fait son entr\u00e9e en revenant du c\u00f4t\u00e9 de la maison, ce qui correspond \u00e0 une direction d'entr\u00e9e.",
+      "confidence": 0.95,
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "11",
+      "explanation": "La mention de 'm\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent' indique qu'on d\u00e9crit l'environnement sc\u00e9nique, ce qui correspond \u00e0 la cat\u00e9gorie de setting.",
+      "confidence": 0.85,
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "6",
+      "explanation": "Le fait que Ren\u00e9 se laisse faire pendant qu'elle replace son bras implique une interaction entre les personnages, m\u00eame s'il y a une dynamique de force en jeu.",
+      "confidence": 0.8,
+      "stgdir": "Et malgr\u00e9 lui, elle lui replace le bras dans l'\u00e9charpe, apr\u00e8s en avoir r\u00e9-assujetti rapidement le pansement. Ren\u00e9, apr\u00e8s la premi\u00e8re r\u00e9volte, se laisse faire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "5",
+      "explanation": "L'expression 'en s'en allant' implique une sortie de sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie des sorties.",
+      "confidence": 0.95,
+      "stgdir": "En s'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "11",
+      "explanation": "La mention de 'en prison' d\u00e9crit un cadre sp\u00e9cifique o\u00f9 se d\u00e9roule l'action, ce qui se rapporte \u00e0 la cat\u00e9gorie de setting.",
+      "confidence": 0.9,
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 6737.114191055298,
+  "model": "gpt-4o-mini"
+}

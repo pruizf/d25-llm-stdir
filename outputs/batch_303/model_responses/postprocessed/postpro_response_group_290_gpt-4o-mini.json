@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2890",
+      "category": "0",
+      "explanation": "Il se jette aux genoux de L\u00e9onore implique une action physique de la part d'un personnage, sans qu'il y ait de sortie ou d'entr\u00e9e.",
+      "stgdir": "Il se jette aux genoux de L\u00e9onore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2891",
+      "category": "2",
+      "explanation": "Cette direction indique qu'un personnage parle \u00e0 part, ce qui correspond \u00e0 la d\u00e9finition d'un aparte.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2892",
+      "category": "8",
+      "explanation": "L'indication 'AIR : Folies d'Espagne' fait r\u00e9f\u00e9rence \u00e0 une m\u00e9lodie ou une chanson, ce qui la classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2893",
+      "category": "10",
+      "explanation": "Il lit l'affiche se r\u00e9f\u00e8re \u00e0 l'interaction avec un objet (l'affiche), ce qui le classe dans la cat\u00e9gorie objet.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2894",
+      "category": "5",
+      "explanation": "Ils sortent tous deux indique que les personnages quittent la sc\u00e8ne, relevant de la cat\u00e9gorie sortie.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2895",
+      "category": "0",
+      "explanation": "En regardant les cartes d\u00e9crit une action g\u00e9n\u00e9rale, sans mentionner l'entr\u00e9e ou la sortie.",
+      "stgdir": "En regardant les cartes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2896",
+      "category": "8",
+      "explanation": "De m\u00eame que pour l'AIR pr\u00e9c\u00e9dent, 'Air : Comme un Coucou' indique une pi\u00e8ce de musique.",
+      "stgdir": "Air : Comme un Coucou.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2897",
+      "category": "6",
+      "explanation": "Il appelle l'Apothicaire et lui parle indique une interaction entre deux personnages.",
+      "stgdir": "Il appelle l'Apothicaire et lui parle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2898",
+      "category": "12",
+      "explanation": "\u00c0 Clidamis indique le destinataire d'une action ou d'un discours, ce qui s'inscrit dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2899",
+      "category": "8",
+      "explanation": "L'indication 'AIR 32 : Du haut en bas. (Rondeau)' fait r\u00e9f\u00e9rence \u00e0 une m\u00e9lodie, class\u00e9e dans la musique.",
+      "stgdir": "AIR 32 : Du haut en bas. (Rondeau)",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8476.029396057129,
+  "model": "gpt-4o-mini"
+}

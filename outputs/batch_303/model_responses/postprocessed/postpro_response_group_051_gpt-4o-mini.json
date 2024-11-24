@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "500",
+      "category": "0",
+      "explanation": "Le choeur r\u00e9p\u00e8te ces derniers vers est une action g\u00e9n\u00e9rale qui implique le choeur ex\u00e9cutant une t\u00e2che sans \u00e9l\u00e9ments d'entr\u00e9e ou de sortie.",
+      "stgdir": "Le choeur r\u00e9p\u00e8te ces derniers vers.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "501",
+      "category": "4",
+      "explanation": "Elle rentre dans ses appartements indique qu'un personnage entre sur sc\u00e8ne.",
+      "stgdir": "Elle rentre dans ses appartements.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "502",
+      "category": "0",
+      "explanation": "Pendant ce temps l'on pose les scell\u00e9s est une action g\u00e9n\u00e9rale qui d\u00e9crit une t\u00e2che sans sp\u00e9cifier d'entr\u00e9e ou de sortie.",
+      "stgdir": "Pendant ce temps l'on pose les scell\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "503",
+      "category": "5",
+      "explanation": "Mademoiselle Damour sort implique que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "Mademoiselle Damour sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "504",
+      "category": "0",
+      "explanation": "On entend le tambour d\u00e9crit une action non verbale, mais reste dans le cadre de l'\u00e9coute.",
+      "stgdir": "On entend le tambour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "505",
+      "category": "3",
+      "explanation": "Il chante avec Galaor est une indication sur la mani\u00e8re de livrer la voix du personnage, correspondant \u00e0 une expression vocale.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "506",
+      "category": "5",
+      "explanation": "Elle dispara\u00eet dans la nuit indique que le personnage s'\u00e9clipse, ce qui en fait une sortie.",
+      "stgdir": "Elle dispara\u00eet dans la nuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "507",
+      "category": "0",
+      "explanation": "Il h\u00e9site est une action g\u00e9n\u00e9rale qui d\u00e9crit un \u00e9tat sans sp\u00e9cifier d'interaction ou de mouvement.",
+      "stgdir": "Il h\u00e9site.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "508",
+      "category": "12",
+      "explanation": "\u00c0 un garde indique \u00e0 qui le personnage s'adresse, ce qui le classe comme une indication d'interlocuteur.",
+      "stgdir": "\u00c0 un garde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "509",
+      "category": "8",
+      "explanation": "AIR : C'est la fille \u00e0 Simonette est clairement une indication musicale, mentionnant le titre d'une m\u00e9lodie.",
+      "stgdir": "AIR : C'est la fille \u00e0 Simonette.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5838.662385940552,
+  "model": "gpt-4o-mini"
+}

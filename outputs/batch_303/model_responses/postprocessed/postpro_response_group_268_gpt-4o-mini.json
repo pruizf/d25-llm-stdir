@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2670",
+      "category": 6,
+      "explanation": "Montrant Crispin implique une interaction non verbale o\u00f9 le personnage pointe ou montre Crispin.",
+      "stgdir": "Montrant Crispin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2671",
+      "category": 8,
+      "explanation": "Il s'agit d'un air, donc cela rel\u00e8ve de la musique et commence par le mot 'Air'.",
+      "stgdir": "Air : Du vaudeville de Madame Scarron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2672",
+      "category": 6,
+      "explanation": "Montrant Trissotin implique une interaction non verbale o\u00f9 le personnage pointe ou montre Trissotin.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2673",
+      "category": 6,
+      "explanation": "Ils rient indique une interaction entre les personnages, probablement en r\u00e9ponse \u00e0 une situation ou \u00e0 une blague.",
+      "stgdir": "Ils rient.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2674",
+      "category": 10,
+      "explanation": "Au Crocheteur fait r\u00e9f\u00e9rence \u00e0 un objet ou \u00e0 un prop sp\u00e9cifique qui pourrait \u00eatre important pour la sc\u00e8ne.",
+      "stgdir": "Au Crocheteur.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2675",
+      "category": 1,
+      "explanation": "Alexandre mettant la main sur son \u00e9p\u00e9e implique une action d'agression ou de menace.",
+      "stgdir": "Alexandre mettant la main sur son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2676",
+      "category": 8,
+      "explanation": "Air 91 : \u00d4 gu\u00e9, lon-la, lan-laire fait \u00e9galement r\u00e9f\u00e9rence \u00e0 une musique, en mentionnant le mot 'Air'.",
+      "stgdir": "Air 91 : \u00d4 gu\u00e9, lon-la, lan-laire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2677",
+      "category": 1,
+      "explanation": "Ils sortent tous avec le poignard sanglant \u00e0 la main apr\u00e8s avoir tu\u00e9 C\u00e9sar indique une action violente et agressive.",
+      "stgdir": "Ils sortent tous avec le poignard sanglant \u00e0 la main apr\u00e8s avoir tu\u00e9 C\u00e9sar.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2678",
+      "category": 4,
+      "explanation": "Entr\u00e9e d'un Gille d\u00e9signe l'entr\u00e9e d'un personnage sur la sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2679",
+      "category": 8,
+      "explanation": "AIR. Au bout du monde, etc. Mentionne une musique en utilisant le mot 'AIR'.",
+      "stgdir": "AIR. Au bout du monde, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 3590.71683883667,
+  "model": "gpt-4o-mini"
+}

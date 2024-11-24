@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "890",
+      "category": "11",
+      "explanation": "This stage direction describes the setting of the play, specifically indicating that the scene takes place in the Palace of Omphale.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais d'Omphale.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "891",
+      "category": "12",
+      "explanation": "This indicates that a character is addressing Oronte, which shows who the speech is directed toward.",
+      "stgdir": "Puis s'adressant \u00e0 Oronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "892",
+      "category": "3",
+      "explanation": "It is a singing direction where the character expresses their feelings through song, thus falling under the delivery category.",
+      "stgdir": "Air : D'\u00c9gl\u00e9. Que je vous aime !",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "893",
+      "category": "9",
+      "explanation": "This direction narrates an event where characters are listening to a song, and it also includes details on the arrival of other characters, making it narrative in nature.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "894",
+      "category": "4",
+      "explanation": "This indicates that Amintus is entering the stage, which is a classic entrance direction.",
+      "stgdir": "Amintus para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "895",
+      "category": "6",
+      "explanation": "This depicts a non-verbal interaction where one character is gently placing rose petals on another's head, representing a form of interaction.",
+      "stgdir": "Lui effeuillant son bouquet de roses sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "896",
+      "category": "0",
+      "explanation": "This describes Julie's action of opening a letter, a general character action that does not fit into more specific categories.",
+      "stgdir": "Julie ouvre la lettre. Son p\u00e8re et Moli\u00e8re l'observent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "897",
+      "category": "3",
+      "explanation": "This indicates that a character is repeating lines, which relates to delivery and vocal expression.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "898",
+      "category": "4",
+      "explanation": "This describes the entrance of three characters, classifying it as an entrance stage direction.",
+      "stgdir": "Entr\u00e9e de deux petits paysans et d'une petite paysanne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "899",
+      "category": "5",
+      "explanation": "This indicates that the character is leaving the scene with demi-gods, categorizing it as an exit direction.",
+      "stgdir": "Il s'en va avec les demi-Dieux.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 8108.528137207031,
+  "model": "gpt-4o-mini"
+}

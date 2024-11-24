@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1100",
+      "category": "12",
+      "explanation": "Indicates the addressee of the speech ('\u00c0 Hiaskar').",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1101",
+      "category": "5",
+      "explanation": "Character exits the stage ('sortent').",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1102",
+      "category": "12",
+      "explanation": "Indicates the addressee of the speech ('\u00c0 Trasibule').",
+      "stgdir": "\u00c0 Trasibule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1103",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction where one character speaks discreetly to another ('Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s').",
+      "stgdir": "Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1104",
+      "category": "11",
+      "explanation": "Describes the stage setting or environment (a room with specific features).",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1105",
+      "category": "10",
+      "explanation": "Describes an action related to an object, where Hortensius retrieves a book ('tire un livre').",
+      "stgdir": "Hortensius tire un livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1106",
+      "category": "10",
+      "explanation": "Describes an action related to an object, where the character retrieves a box ('tire un \u00e9crin de sa poche').",
+      "stgdir": "Il tire un \u00e9crin de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1107",
+      "category": "12",
+      "explanation": "Indicates the addressee of the speech ('\u00c0 Monsieur Dabelle').",
+      "stgdir": "\u00c0 Monsieur Dabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1108",
+      "category": "10",
+      "explanation": "Describes an action involving the handling of an object, where the character gives a purse ('Il lui met une bourse dans la main').",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1109",
+      "category": "3",
+      "explanation": "Refers to the act of giving letters, which can involve an emotional or vocal delivery ('Et donnant les Lettres').",
+      "stgdir": "Et donnant les Lettres.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 6360.925674438477,
+  "model": "gpt-4o-mini"
+}

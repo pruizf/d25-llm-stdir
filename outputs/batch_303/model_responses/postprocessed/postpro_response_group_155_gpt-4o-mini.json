@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1540",
+      "category": 11,
+      "explanation": "Description du th\u00e9\u00e2tre, indiquant qu'il s'agit d'un salon \u00e9l\u00e9gant dans une maison de campagne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant dans une maison de campagne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1541",
+      "category": 5,
+      "explanation": "Indique que le personnage s'\u00e9chappe, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Il s'\u00e9chappe.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1542",
+      "category": 8,
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce de musique avec le terme 'Air', indiquant qu'une m\u00e9lodie est jou\u00e9e.",
+      "stgdir": "Air : Quand la berg\u00e8re vient des champs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1543",
+      "category": 4,
+      "explanation": "Indique l'entr\u00e9e des forgerons, ce qui correspond \u00e0 leur arriv\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e des forgerons.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1544",
+      "category": 7,
+      "explanation": "Le personnage s'approche d'un tombeau, ce qui qualifie une action de mouvement.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1545",
+      "category": 10,
+      "explanation": "D\u00e9signe une interaction avec un objet, ici l'action de donner des \u00e9p\u00e9es \u00e0 d'autres personnages.",
+      "stgdir": "Il donne une \u00e9p\u00e9e \u00e0 Francis et l'autre \u00e0 Alfred.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1546",
+      "category": 12,
+      "explanation": "Indique \u00e0 qui le personnage s'adresse, en l'occurrence \u00e0 L\u00e9onidas.",
+      "stgdir": "\u00c0 L\u00e9onidas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1547",
+      "category": 7,
+      "explanation": "Apercevant Dormene d\u00e9signe un mouvement du personnage pour voir ou se rapprocher de Dormene.",
+      "stgdir": "Apercevant Dormene.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1548",
+      "category": 9,
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 une action narrative o\u00f9 le Marquis appara\u00eet dans le miroir, ajoutant une description d'\u00e9v\u00e9nement.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1549",
+      "category": 12,
+      "explanation": "Indique une direction de discours, en s'adressant \u00e0 son fils.",
+      "stgdir": "\u00c0 son fils",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8506.206512451172,
+  "model": "gpt-4o-mini"
+}

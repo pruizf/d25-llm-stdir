@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2050",
+      "category": "10",
+      "explanation": "Il le met sur sa t\u00eate involves interaction with an object, specifically placing something on the head.",
+      "stgdir": "Il le met sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2051",
+      "category": "11",
+      "explanation": "Il ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue describes a setting change, as it involves revealing a character and a location.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2052",
+      "category": "10",
+      "explanation": "Il d\u00e9croche indicates an action involving an object, likely taking something down from a position.",
+      "stgdir": "Il d\u00e9croche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2053",
+      "category": "0",
+      "explanation": "Ulysse et les Grecs sont pr\u00e8s d'emmener Polix\u00e8ne describes a general action without specifying an object or an interactive component.",
+      "stgdir": "Ulysse et les Grecs sont pr\u00e8s d'emmener Polix\u00e8ne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2054",
+      "category": "1",
+      "explanation": "Elle lui frappe le coeur indicates an aggressive action, as it suggests a violent or emotional interaction.",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2055",
+      "category": "8",
+      "explanation": "AIR. C'est ce qui nous enrhume refers to a music direction, denoting a specific air or song.",
+      "stgdir": "AIR. C'est ce qui nous enrhume.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2056",
+      "category": "0",
+      "explanation": "Il y cherche describes an action but not within the context of objects or aggression, making it general.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2057",
+      "category": "3",
+      "explanation": "Ici les sanglots de Sophie lui doivent couper la voix reflects a delivery aspect, focusing on the emotional delivery of sound.",
+      "stgdir": "Ici les sanglots de Sophie lui doivent couper la voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2058",
+      "category": "4",
+      "explanation": "Aux soldats des troupes de ligne indicates the entrance of soldiers into the scene.",
+      "stgdir": "Aux soldats des troupes de ligne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2059",
+      "category": "7",
+      "explanation": "Il d\u00e9ploie sa boutique suggests movement as it involves the act of setting up or expanding a display.",
+      "stgdir": "Il d\u00e9ploie sa boutique.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 7557.904005050659,
+  "model": "gpt-4o-mini"
+}

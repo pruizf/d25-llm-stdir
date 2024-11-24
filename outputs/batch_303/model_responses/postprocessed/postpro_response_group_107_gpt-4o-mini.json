@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1060",
+      "category": "9",
+      "explanation": "The stage direction describes a sound ('bruit de musettes'), which gives a narrative quality and sets an atmosphere, placing it in the narration category.",
+      "stgdir": "On entend un bruit de musettes et Roland continue.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1061",
+      "category": "10",
+      "explanation": "The direction indicates the character is showing a portrait, which involves interaction with an object (the portrait) and is best classified under object.",
+      "stgdir": "Il montre le portrait.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1062",
+      "category": "5",
+      "explanation": "This direction indicates that Ormin is leaving the stage, which fits the exit category.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1063",
+      "category": "11",
+      "explanation": "This is a descriptive title referring to a setting in the play, classifying it as a setting category.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1064",
+      "category": "12",
+      "explanation": "This direction indicates that a character is addressing the valet, which fits the toward category.",
+      "stgdir": "\u00c0 un valet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1065",
+      "category": "5",
+      "explanation": "This direction indicates that they are fleeing the palace, which denotes an exit.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1066",
+      "category": "5",
+      "explanation": "The phrase 'sortesasuite' indicates an immediate exit by a character, placing it in the exit category.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1067",
+      "category": "8",
+      "explanation": "This mentions a 'couplet', implying a musical component, which fits into the music category.",
+      "stgdir": "V COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1068",
+      "category": "8",
+      "explanation": "The script indicates a specific tune ('AIR : Va-t'en voir s'ils viennent'), placing it in the music category.",
+      "stgdir": "AIR : Va-t'en voir s'ils viennent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1069",
+      "category": "7",
+      "explanation": "The direction describes the character moving around the theatre, which is a form of movement, making it fit the movement category.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 5832.087993621826,
+  "model": "gpt-4o-mini"
+}

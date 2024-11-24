@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "790",
+      "category": "11",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit en d\u00e9tail le palais, y compris ses mat\u00e9riaux, couleurs et ornements, ce qui qualifie cela comme une description de d\u00e9cor.",
+      "stgdir": "Le Soleil parait dans son palais. Ce palais est d'or, compos\u00e9 avec des colonnes torses d'or poli, qui sont rev\u00eatues de branches de Laurier qui les environnent, de couleur naturelle. Les chapiteaux sont d'or fin cisel\u00e9, et les bases des colonnes de m\u00eame mati\u00e8re, aussi bien que la frise et la corniche. Le corps du massif de ce palais est de pierres pr\u00e9cieuses, et tous les pi\u00e9destaux de marbre blanc, au milieu desquels on voit de gros Rubis. Les panneaux sont enrichis de veines d'or sur un fond de lapis. Au-dessus de la Corniche on voit, dans une esp\u00e8ce de petite Attique d'o\u00f9 naissent les cintres, des lires d'or, avec plusieurs ornements\u00a0; et dans le milieu des vo\u00fbtes sont peints de grands Soleils d'or poli, avec quantit\u00e9s d'autres ornements. L'Optique de ce palais est toute transparente, et jette un \u00e9clat qui \u00e9blouit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "6",
+      "explanation": "Il s'agit d'un geste d'interaction non verbale o\u00f9 un personnage embrasse un autre, montrant une connexion affective entre les deux.",
+      "stgdir": "Il embrasse Rom\u00e9o.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "12",
+      "explanation": "La mention d'\u00ab \u00c0 Illo \u00bb est une indication vers un interlocuteur, signalant qu'un personnage s'adresse \u00e0 quelqu'un d'autre.",
+      "stgdir": "\u00c0 Illo.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "6",
+      "explanation": "Le personnage embrasse Lisidan, ce qui constitue une interaction physique non verbale entre deux personnages.",
+      "stgdir": "Il embrasse Lisidan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "2",
+      "explanation": "Cette phrase indique qu'un personnage est seul, ce qui correspond \u00e0 la d\u00e9finition d'un apart\u00e9.",
+      "stgdir": "\u00c9tant seule.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "6",
+      "explanation": "Retenir un personnage implique une interaction physique entre deux personnages, d'o\u00f9 l'attribution \u00e0 la cat\u00e9gorie d'interaction.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "8",
+      "explanation": "Cette mention d'un air d'Arlequin indique une r\u00e9f\u00e9rence \u00e0 un morceau de musique, sans d\u00e9crire un personnage chantant.",
+      "stgdir": "Air d'Arlequin afficheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "10",
+      "explanation": "La toile se baisse est une indication sur un objet (la toile) et son interaction dans le contexte sc\u00e9nique.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "8",
+      "explanation": "Comme pour la mention pr\u00e9c\u00e9dente, cette direction comporte le terme 'Air', indiquant une r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "6",
+      "explanation": "Se jeter aux genoux d'un autre personnage est un geste d'interaction non verbale, d\u00e9montrant une action d'humilit\u00e9 ou de supplication.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 5693.482398986816,
+  "model": "gpt-4o-mini"
+}

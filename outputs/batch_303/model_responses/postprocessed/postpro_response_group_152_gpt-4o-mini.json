@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1510",
+      "category": "12",
+      "explanation": "Cette direction indique \u00e0 qui le personnage s'adresse, ici au Comte.",
+      "stgdir": "En apercevant le Comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1511",
+      "category": "7",
+      "explanation": "Indique que Polidor suit Tirsis, ce qui implique un mouvement de suivi.",
+      "stgdir": "Polidor doit avoir suivi Tirsis.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1512",
+      "category": "10",
+      "explanation": "D\u00e9crit l'interaction d'un personnage avec un objet, ici la bague.",
+      "stgdir": "Elle porte la bague \u00e0 ses l\u00e8vres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1513",
+      "category": "8",
+      "explanation": "Indique une pi\u00e8ce de musique avec le mot 'AIR', suivie du nom de la chanson.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1514",
+      "category": "9",
+      "explanation": "D\u00e9crit un bruit venant de l'ext\u00e9rieur, ce qui a une qualit\u00e9 narrative.",
+      "stgdir": "Cris au-dehors :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1515",
+      "category": "5",
+      "explanation": "Utilise le verbe 'se retire', indiquant que B\u00e9atrix quitte la sc\u00e8ne.",
+      "stgdir": "B\u00e9atrix se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1516",
+      "category": "7",
+      "explanation": "D\u00e9crit le mouvement d'un personnage qui se l\u00e8ve et parcourt la chambre.",
+      "stgdir": "Elle se l\u00e8ve, et parcourt la chambre de long en large.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1517",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse \u00e0 la Reine, pr\u00e9cisant l'interlocuteur.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1518",
+      "category": "6",
+      "explanation": "Montre l'action de pointer Milady, une interaction non verbale.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1519",
+      "category": "12",
+      "explanation": "Indique que le discours est adress\u00e9 \u00e0 Zaide, identifiant ainsi l'interlocuteur.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5045.581579208374,
+  "model": "gpt-4o-mini"
+}

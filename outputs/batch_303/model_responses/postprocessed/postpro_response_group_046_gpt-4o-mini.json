@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "450",
+      "category": "6",
+      "explanation": "Le cercle autour de l'intendant implique une interaction non verbale entre les personnages, o\u00f9 ils se rapprochent les uns des autres.",
+      "stgdir": "Ici, tout le monde fait un cercle autour de l'intendant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "451",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Louisette et \u00e0 Jean' indique que les personnages parlent \u00e0 ces personnes sp\u00e9cifiques, ce qui convient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Louisette et \u00e0 Jean.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "452",
+      "category": "0",
+      "explanation": "Le verbe 'refrappe' n'indique pas de mouvement ou d'\u00e9motion particuli\u00e8re, mais simplement une action faite par le personnage, donc cela rentre dans la cat\u00e9gorie 'action'.",
+      "stgdir": "Il refrappe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "453",
+      "category": "10",
+      "explanation": "D\u00e9chirer la Version est une interaction avec un objet, ce qui correspond \u00e0 la cat\u00e9gorie 'object'.",
+      "stgdir": "Il d\u00e9chire la Version.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "454",
+      "category": "7",
+      "explanation": "Le terme 's'\u00e9loignent' implique un mouvement des personnages, mais pas un exit ou un entrance, donc cela correspond \u00e0 la cat\u00e9gorie 'movement'.",
+      "stgdir": "Ils s'\u00e9loignent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "455",
+      "category": "6",
+      "explanation": "Montrer Pyrrhus implique une interaction non verbale, en attirant l\u2019attention sur lui.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "456",
+      "category": "12",
+      "explanation": "L'expression 'au laboureur' fait r\u00e9f\u00e9rence \u00e0 un destinataire, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "457",
+      "category": "9",
+      "explanation": "La phrase 'V\u00e9nus a disparu' peut \u00eatre consid\u00e9r\u00e9e comme une narration d'un \u00e9v\u00e9nement qui a eu lieu dans la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'narration'.",
+      "stgdir": "V\u00e9nus a disparu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "458",
+      "category": "3",
+      "explanation": "Le fait de 'finir sa lettre' est une action qui implique une expression ou une d\u00e9livrance de quelque chose, convenant donc \u00e0 la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "459",
+      "category": "8",
+      "explanation": "Le mot 'AIR' indique qu'il s'agit d'une r\u00e9f\u00e9rence musicale, ce qui correspond \u00e0 la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6017.533779144287,
+  "model": "gpt-4o-mini"
+}

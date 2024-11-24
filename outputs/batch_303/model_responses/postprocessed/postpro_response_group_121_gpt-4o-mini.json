@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1200",
+      "category": "11",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit l'environnement et l'esth\u00e9tique de la chambre, ce qui correspond \u00e0 la cat\u00e9gorie de d\u00e9cor (setting).",
+      "stgdir": "La plus belle chambre du repaire des brigands klephtes. - Luxe \u00e0 volont\u00e9. Accessoires indispensables : un lit et un secr\u00e9taire quelconques. Une panoplie et quelques si\u00e9ges. - Au mur pend un tube acoustique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1201",
+      "category": "8",
+      "explanation": "Le terme 'AIR' indique qu'il s'agit d'une pi\u00e8ce musicale, donc cela entre dans la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR 12 : Amis, sans regretter Paris.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1202",
+      "category": "7",
+      "explanation": "Le personnage s'approche du lit, ce qui implique un mouvement, mais pas une entr\u00e9e ou une sortie, donc cela rel\u00e8ve de la cat\u00e9gorie de mouvement.",
+      "stgdir": "Il s'approche sournoisement du lit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1203",
+      "category": "7",
+      "explanation": "Apercevant l'appartement implique \u00e9galement une certaine forme de mouvement, bien que cela soit plus passif.",
+      "stgdir": "Apercevant l'appartement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1204",
+      "category": "0",
+      "explanation": "S'asseoir sur le canap\u00e9 est une action g\u00e9n\u00e9rale, ne relevant pas d'une particularit\u00e9 de mouvement ou d'une autre cat\u00e9gorie.",
+      "stgdir": "Il s'assied sur le canap\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1205",
+      "category": "12",
+      "explanation": "Cette direction est une adresse \u00e0 un autre personnage, indiquant \u00e0 qui la parole est destin\u00e9e.",
+      "stgdir": "\u00c0 Pyrrha.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1206",
+      "category": "6",
+      "explanation": "Se baisser aux genoux de Miltiade indique une interaction non verbale entre les personnages.",
+      "stgdir": "Il se baise aux genoux de Miltiade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1207",
+      "category": "10",
+      "explanation": "Une lettre est un objet, et cette direction peut impliquer une interaction avec cet objet.",
+      "stgdir": "LETTRE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1208",
+      "category": "0",
+      "explanation": "Regarder est une action g\u00e9n\u00e9rale, donc cela rel\u00e8ve de l'action.",
+      "stgdir": "Lucile regarde toujours.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1209",
+      "category": "0",
+      "explanation": "Reprendre son sabre est \u00e9galement une action, sans autre sp\u00e9cificit\u00e9.",
+      "stgdir": "Reprenant son sabre.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 6142.907381057739,
+  "model": "gpt-4o-mini"
+}

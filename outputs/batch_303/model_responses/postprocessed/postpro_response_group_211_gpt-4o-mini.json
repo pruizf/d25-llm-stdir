@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2100",
+      "category": "4",
+      "explanation": "Alvar\u00e8s est men\u00e9 chez la Reine, ce qui indique qu'il entre sur sc\u00e8ne, entrant ainsi dans l'action.",
+      "stgdir": "Alvar\u00e8s est men\u00e9 chez la Reine par deux dames d'honneur qui paraissent et entre les mains desquelles Alcimadure le remet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2101",
+      "category": "5",
+      "explanation": "La M\u00e8re emm\u00e8ne Lucas et toute la noce d\u00e9file, ce qui implique qu'ils sortent de la sc\u00e8ne ou d'une zone sp\u00e9cifique.",
+      "stgdir": "La M\u00e8re emm\u00e8ne Lucas, et toute la noce d\u00e9file, \u00e0 la r\u00e9serve de Nanette, qui demeure avec Adrien.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2102",
+      "category": "6",
+      "explanation": "Agla\u00e9 court se pr\u00e9cipiter aux genoux de sa m\u00e8re, indiquant une interaction non verbale entre les deux personnages.",
+      "stgdir": "Agla\u00e9 en pleurs, court se pr\u00e9cipiter aux genoux de sa m\u00e8re, qui la rel\u00e8ve avec s\u00e9v\u00e9rit\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2103",
+      "category": "6",
+      "explanation": "Montrant Amphitryon implique une interaction non verbale, o\u00f9 une action de montrer est effectu\u00e9e.",
+      "stgdir": "Montrant Amphitryon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2104",
+      "category": "12",
+      "explanation": "\u00c0 Dubois indique que l'action est dirig\u00e9e vers Dubois, montrant le destinataire de l'action.",
+      "stgdir": "\u00c0 Dubois.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2105",
+      "category": "6",
+      "explanation": "\u00c0 Laure, qui sortait, et qu'il arr\u00eate d\u00e9signe une interaction entre personnage qui arr\u00eate une autre personne.",
+      "stgdir": "\u00c0 Laure, qui sortait, et qu'il arr\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2106",
+      "category": "7",
+      "explanation": "Revenant pr\u00e8s de son bureau indique un mouvement vers un emplacement sp\u00e9cifique sans en sortir.",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2107",
+      "category": "12",
+      "explanation": "\u00c0 Miltiade indique que l'action est dirig\u00e9e vers Miltiade, montrant le destinataire de l'action.",
+      "stgdir": "\u00c0 Miltiade.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2108",
+      "category": "12",
+      "explanation": "Aux Dames indique que l'action est destin\u00e9e aux Dames, montrant le public ou le groupe \u00e0 qui le personnage s'adresse.",
+      "stgdir": "Aux Dames.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2109",
+      "category": "1",
+      "explanation": "B\u00e9atrix se d\u00e9barrasse de Jodelet peut \u00eatre per\u00e7u comme une action agressive, impliquant une forme de rejet ou de lutte.",
+      "stgdir": "B\u00e9atrix se d\u00e9barrasse de Jodelet, et se sauve.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 6632.991552352905,
+  "model": "gpt-4o-mini"
+}

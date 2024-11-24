@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1960",
+      "category": 5,
+      "explanation": "La quittant implies that a character is exiting the stage.",
+      "stgdir": "La quittant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1961",
+      "category": 8,
+      "explanation": "AIR : C'est Suson la camarde indicates a musical piece or tune.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1962",
+      "category": 8,
+      "explanation": "AIR. La mort de mon cher p\u00e8re refers to a musical piece related to a theme.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1963",
+      "category": 0,
+      "explanation": "Il ramasse tous ses papiers indicates a general action of picking up papers.",
+      "stgdir": "Il ramasse tous ses papiers.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1964",
+      "category": 8,
+      "explanation": "Air : Vous avez raison, la Plante refers to a musical piece.",
+      "stgdir": "Air : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1965",
+      "category": 5,
+      "explanation": "Elle sort avec Monsieur S\u00e9vin suggests that a character is exiting with another.",
+      "stgdir": "Elle sort avec Monsieur S\u00e9vin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1966",
+      "category": 8,
+      "explanation": "Air 78 : Or \u00e9coutez, Petits et Grands refers to a specific musical piece.",
+      "stgdir": "Air 78 : Or \u00e9coutez, Petits et Grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1967",
+      "category": 0,
+      "explanation": "\u00c0 Lourdis en riant indicates an action of laughing or being in a certain state.",
+      "stgdir": "\u00c0 Lourdis en riant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1968",
+      "category": 12,
+      "explanation": "\u00c0 Edouard indicates that the action is directed toward \u00c9douard, signaling an addressee.",
+      "stgdir": "\u00c0 Edouard.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1969",
+      "category": 12,
+      "explanation": "\u00c0 la Fleur indicates an action directed toward a flower, suggesting an addressee.",
+      "stgdir": "\u00c0 la Fleur.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5895.884275436401,
+  "model": "gpt-4o-mini"
+}

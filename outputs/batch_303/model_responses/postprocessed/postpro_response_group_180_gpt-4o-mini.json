@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1790",
+      "category": "12",
+      "explanation": "Cette direction de sc\u00e8ne indique que le personnage s'adresse au grand-pr\u00eatre, ce qui t\u00e9moigne du destinataire d'un discours.",
+      "stgdir": "Au grand-pr\u00eatre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1791",
+      "category": "8",
+      "explanation": "Le terme 'CHANSON' indique une musique et cela commence probablement une performance musicale.",
+      "stgdir": "CHANSON des Basques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1792",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage s'adresse \u00e0 un Jeune Homme, indiquant le destinataire d'un discours.",
+      "stgdir": "Au Jeune Homme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1793",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage interagit avec \u00c9milie et le Marquis, montrant \u00e9galement les destinataires d'un discours.",
+      "stgdir": "\u00c0 \u00c9milie et au Marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1794",
+      "category": "4",
+      "explanation": "L'indication 'entrant' signifie qu'un personnage fait son entr\u00e9e sur la sc\u00e8ne.",
+      "stgdir": "Entrant dans le corridor.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1795",
+      "category": "8",
+      "explanation": "Le terme 'AIR 5' indique une musique, sugg\u00e9rant que cela concerne une performance musicale.",
+      "stgdir": "AIR 5. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1796",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit l'interruption d'un personnage par l'arriv\u00e9e d'Andr\u00e9, ce qui pr\u00e9sente une narration d'une action sur sc\u00e8ne.",
+      "stgdir": "Il est interrompu par l'arriv\u00e9e d'Andr\u00e9 qui, d'un air effray\u00e9, entre par le fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1797",
+      "category": "6",
+      "explanation": "Cette direction implique que le personnage montre M\u00e9gatise, ce qui est une interaction non verbale.",
+      "stgdir": "Montrant M\u00e9gatise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1798",
+      "category": "8",
+      "explanation": "'Air' ici implique qu'il y a une partie musicale li\u00e9e \u00e0 la Baronne.",
+      "stgdir": "Air. Pour la Baronne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1799",
+      "category": "9",
+      "explanation": "La mention 'On n'entend pas le reste' indique une narration sur une action ou une situation, d\u00e9crivant l'absence de son.",
+      "stgdir": "On n'entend pas le reste.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 7366.664886474609,
+  "model": "gpt-4o-mini"
+}

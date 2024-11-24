@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2210",
+      "category": "6",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit une interaction non verbale entre deux personnages, o\u00f9 l'un prend la main de l'autre, ce qui rel\u00e8ve de l'interaction.",
+      "stgdir": "Prenant la main de Silvia.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2211",
+      "category": "9",
+      "explanation": "La mention que deux divinit\u00e9s apparaissent a une qualit\u00e9 narrative, sugg\u00e9rant un \u00e9v\u00e9nement qui se d\u00e9roule sur sc\u00e8ne.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2212",
+      "category": "12",
+      "explanation": "Cette direction indique \u00e0 qui s'adresse le personnage, donc elle correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Omar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2213",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale entre les personnages qui rient ensemble, ce qui fait partie de l'interaction.",
+      "stgdir": "Violette et Arlequin rient, et les ris d'Arlequin augmentent \u00e0 mesure qu'il se voit rire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2214",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place vers une porte, indiquant un mouvement sans qu'il ne sorte ou entre sur la sc\u00e8ne.",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2215",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit un \u00e9tat du d\u00e9cor de la sc\u00e8ne, sp\u00e9cifiant que la cour est en deuil, ce qui appartient \u00e0 la cat\u00e9gorie de r\u00e9glage.",
+      "stgdir": "Toute la cour est en deuil.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2216",
+      "category": "8",
+      "explanation": "La mention d'un air est directement li\u00e9e \u00e0 la musique, identifiant clairement que cela concerne la musique jou\u00e9e.",
+      "stgdir": "Fin de l'air : Revenant de Lorette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2217",
+      "category": "8",
+      "explanation": "Ici, on fait mention de la perception d'un air gai, ce qui classifie cette direction comme musicale.",
+      "stgdir": "On entend un air gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2218",
+      "category": "12",
+      "explanation": "La direction indique \u00e0 qui un personnage s'adresse, c'est donc une direction 'toward'.",
+      "stgdir": "\u00c0 l'Officier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2219",
+      "category": "12",
+      "explanation": "Similaire \u00e0 la direction pr\u00e9c\u00e9dente, cela indique \u00e9galement \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 la femme.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 23448.28963279724,
+  "model": "gpt-4o-mini"
+}

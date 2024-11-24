@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1740",
+      "category": "0",
+      "explanation": "Il s'agit d'une action g\u00e9n\u00e9rale o\u00f9 le personnage l\u00e8ve des gardes, ce qui ne correspond ni \u00e0 une entr\u00e9e ni \u00e0 une sortie, mais \u00e0 une action.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1741",
+      "category": "5",
+      "explanation": "Le mot 'sortent' indique clairement que les personnages quittent la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1742",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit un lieu sp\u00e9cifique, la crypte des anciens rois, correspondant donc \u00e0 la cat\u00e9gorie de cadre.",
+      "stgdir": "La crypte des anciens rois de Pologne dans la cath\u00e9drale de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1743",
+      "category": "11",
+      "explanation": "NUIT indique une ambiance ou un \u00e9tat de temps, ce qui fait partie de la description du cadre.",
+      "stgdir": "NUIT.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1744",
+      "category": "7",
+      "explanation": "Le 'Mouvement de retraite' indique que le personnage ou groupe de personnages se d\u00e9place en arri\u00e8re, ce qui est consid\u00e9r\u00e9 comme un mouvement.",
+      "stgdir": "Mouvement de retraite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1745",
+      "category": "1",
+      "explanation": "Le fait que Blandineau et sa soeur battent Jannot implique une action violente, class\u00e9e dans l'agression.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1746",
+      "category": "10",
+      "explanation": "Regarder un diamant implique une interaction avec un objet, ce qui correspond \u00e0 la cat\u00e9gorie d'objet.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1747",
+      "category": "5",
+      "explanation": "Val\u00e8re 'sort' indique qu'il quitte la sc\u00e8ne, ce qui est clairement une sortie.",
+      "stgdir": "Val\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1748",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de Don Juan sur la sc\u00e8ne indique qu'il fait son entr\u00e9e, ce qui se classe dans la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Don Juan entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1749",
+      "category": "9",
+      "explanation": "Cette direction est narrative et raconte une s\u00e9rie d'actions, ce qui en fait une narration avec des d\u00e9tails sur les \u00e9v\u00e9nements se d\u00e9roulant sur sc\u00e8ne.",
+      "stgdir": "Les vents ob\u00e9issent aussit\u00f4t \u00e0 ce commandement de Pers\u00e9e, et on les voit en un moment d\u00e9tacher cette princesse, et la reporter par-dessus les flots jusqu'aux lieux d'o\u00f9 ils avaient apport\u00e9e au commencement de cet acte. En m\u00eame temps Pers\u00e9e revole en haut sur son cheval ail\u00e9 ; et, apr\u00e8s avoir fait un caracol admirable au milieu de l'air, il tire du m\u00eame c\u00f4t\u00e9 qu'on a vu dispara\u00eetre la Princesse : tandis qu'il vole, tout le rivage retentit de cris de joie et de chants de victoire.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 7835.920572280884,
+  "model": "gpt-4o-mini"
+}

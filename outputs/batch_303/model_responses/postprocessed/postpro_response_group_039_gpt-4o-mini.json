@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "380",
+      "category": "6",
+      "explanation": "Montrer l'huissier indique une interaction non verbale o\u00f9 un personnage pointe ou montre quelque chose \u00e0 un autre, en l'occurrence, l'huissier.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "10",
+      "explanation": "Il tire son portefeuille d\u00e9crit une interaction avec un objet, en l'occurrence le portefeuille, ce qui le qualifie comme une interaction object.",
+      "stgdir": "Il tire son portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "2",
+      "explanation": "Le titre VOEU DE SOPHONISBE \u00c0 L'AMOUR indique un moment o\u00f9 un personnage peut s'adresser directement au public ou \u00eatre dans un monologue, ce qui le classe dans la cat\u00e9gorie aparte.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "12",
+      "explanation": "\u00c0 son \u00e9poux indique l'addresse d'un discours, sp\u00e9cifiant \u00e0 qui le personnage s'adresse, ce qui le classe dans la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "9",
+      "explanation": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier narre une situation de mani\u00e8re narrative, d\u00e9crivant un retournement de situation qui ne peut \u00eatre class\u00e9 dans d'autres cat\u00e9gories.",
+      "stgdir": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "8",
+      "explanation": "On entend le sifflet du tube acoustique se r\u00e9f\u00e8re \u00e0 un bruit ou une musique, ce qui le qualifie comme \u00e9tant de la musique.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "0",
+      "explanation": "Elle a l'air d'observer le Th\u00e9\u00e2tre d\u00e9crit une action g\u00e9n\u00e9rale d'un personnage observant, ce qui le classe dans la cat\u00e9gorie action.",
+      "stgdir": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "10",
+      "explanation": "La Reine prenant le paquet de la suivante d\u00e9crit une interaction avec un objet, \u00e0 savoir un paquet, ce qui le classe dans la cat\u00e9gorie object.",
+      "stgdir": "La Reine prenant le paquet de la suivante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "11",
+      "explanation": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre d\u00e9crit une sc\u00e8ne ou un cadre, ce qui le classe dans la cat\u00e9gorie setting.",
+      "stgdir": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "6",
+      "explanation": "Montrer la Marchande de Chansons indique une interaction non verbale o\u00f9 un personnage pointe ou montre quelque chose, en l'occurrence, la Marchande de Chansons.",
+      "stgdir": "Montrant la Marchande de Chansons.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 5708.668947219849,
+  "model": "gpt-4o-mini"
+}

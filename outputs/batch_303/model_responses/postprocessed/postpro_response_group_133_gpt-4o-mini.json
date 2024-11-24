@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1320",
+      "category": "1",
+      "explanation": "Ph\u00e9nice lui frappe sur l'\u00e9paule indique une action physique qui peut \u00eatre interpr\u00e9t\u00e9e comme une agression ou une intimidation.",
+      "stgdir": "Ph\u00e9nice lui frappe sur l'\u00e9paule.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1321",
+      "category": "0",
+      "explanation": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement d\u00e9crit une action g\u00e9n\u00e9rale de se relever, sans aucune indication d'agression ou de mouvement vers un endroit sp\u00e9cifique.",
+      "stgdir": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1322",
+      "category": "9",
+      "explanation": "Ce passage long d\u00e9crit une suite d'actions et d'observations, avec une tonalit\u00e9 narrative, ce qui le rend adapt\u00e9 \u00e0 la cat\u00e9gorie narration.",
+      "stgdir": "Maurice ne dit pas ces mots pour la flatter, car, depuis un instant, il ne l'\u00e9coute plus. Il \u00e9coute des feuilles qui semblent r\u00e9gler leur froissement sur sa marche. Elles se taisent quand il s'arr\u00eate, et quand il repart, aussit\u00f4t elles craquent. C'est s\u00fbr que quelqu'un de mal intentionn\u00e9 suit le couple \u00e0 travers les arbres, en se cachant. Et Blanche qui, tout \u00e0 l'heure, s'effrayait sans raison, parle haut maintenant, laisse \u00e9clater une joie innocente, ne soup\u00e7onne rien et gourmande Maurice.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1323",
+      "category": "5",
+      "explanation": "L\u00e9onor et Marine se retirent indique clairement qu'il s'agit d'une sortie de personnages.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1324",
+      "category": "5",
+      "explanation": "Il va pour sortir signale \u00e9galement une intention de quitter la sc\u00e8ne, donc c'est une sortie.",
+      "stgdir": "Il va pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1325",
+      "category": "11",
+      "explanation": "\u00c0 Bi\u00e8vre pourrait faire r\u00e9f\u00e9rence \u00e0 un lieu sp\u00e9cifique, ce qui le classe dans la cat\u00e9gorie cadre.",
+      "stgdir": "\u00c0 Bi\u00e8vre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1326",
+      "category": "10",
+      "explanation": "Elle prend la pomme des mains du Normand d\u00e9crit l'interaction avec un objet, ici, la pomme, ce qui le classe dans la cat\u00e9gorie objet.",
+      "stgdir": "Elle prend la pomme des mains du Normand.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1327",
+      "category": "5",
+      "explanation": "Monsieur Mathieu sort, sans \u00e9couter Benjamine indique une action d'exit de la sc\u00e8ne sans ambig\u00fcit\u00e9.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1328",
+      "category": "6",
+      "explanation": "Ils m\u00ealent leurs mains l'une dans l'autre est un exemple d'interaction non verbale entre deux personnages, ce qui le classe dans la cat\u00e9gorie interaction.",
+      "stgdir": "Ils m\u00ealent leurs mains l'une dans l'autre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1329",
+      "category": "0",
+      "explanation": "Il dispara\u00eet enti\u00e8rement indique un mouvement g\u00e9n\u00e9ral mais pas sp\u00e9cifiquement une sortie, il pourrait donc \u00eatre consid\u00e9r\u00e9 comme une action.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 18087.199926376343,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "860",
+      "category": "10",
+      "explanation": "Il tire un Papier indicates the action of handling or interacting with an object (a piece of paper).",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "861",
+      "category": "8",
+      "explanation": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous is a music stage direction since it specifies a song or tune.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "862",
+      "category": "11",
+      "explanation": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout describes the setting and arrangement of characters in relation to the stage.",
+      "stgdir": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "863",
+      "category": "7",
+      "explanation": "Il sort de son si\u00e8ge indicates a character's movement from a seated position, but not an exit.",
+      "stgdir": "Il sort de son si\u00e8ge.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "864",
+      "category": "4",
+      "explanation": "L'Oranger et l'Aub\u00e9pine paraissent au fond describes the entrance of characters onto the stage.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "865",
+      "category": "9",
+      "explanation": "On entend la voiture de Doduvert qui s'en va describes a sound, making it a narrative description of an event.",
+      "stgdir": "On entend la voiture de Doduvert qui s'en va.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "866",
+      "category": "3",
+      "explanation": "Il continue \u00e0 chanter indicates the vocal expression of the character as they sing, relating it to delivery.",
+      "stgdir": "Il continue \u00e0 chanter.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "867",
+      "category": "5",
+      "explanation": "Il entre chez lui indicates an exit as the character is leaving the stage or area.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "868",
+      "category": "2",
+      "explanation": "Tout bas suggests a character speaking in a low voice, indicating an aside or private conversation.",
+      "stgdir": "Tout bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "869",
+      "category": "5",
+      "explanation": "Baptiste se sauve indicates a character's exit from the stage.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 8068.73345375061,
+  "model": "gpt-4o-mini"
+}

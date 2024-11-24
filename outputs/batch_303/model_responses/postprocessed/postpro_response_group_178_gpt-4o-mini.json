@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1770",
+      "category": "0",
+      "explanation": "This describes an action where Licom\u00e8de forces Alceste to enter the city, which is a general character action.",
+      "stgdir": "LICOM\u00c8DE contraint ALCESTE d'entrer dans la Ville, C\u00c9PHISE la suit, et les soldats de LICOM\u00c8DE ferment la Porte de la Ville aussit\u00f4t qu'ils y sont entr\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1771",
+      "category": "11",
+      "explanation": "This indicates a location reference \u2018\u00c0 Perside\u2019, which is a description of the stage setting.",
+      "stgdir": "\u00c0 Perside.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1772",
+      "category": "8",
+      "explanation": "The word 'AIR' signifies a musical piece, thus categorizing it as music.",
+      "stgdir": "AIR : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1773",
+      "category": "5",
+      "explanation": "The phrase 'Sangaride se retire' means Sangaride exits, fitting the exit category.",
+      "stgdir": "Sangaride se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1774",
+      "category": "10",
+      "explanation": "This direction involves presenting three straws to Junon, which involves the manipulation of an object.",
+      "stgdir": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1775",
+      "category": "10",
+      "explanation": "The mention of a pair of pistols being presented involves the handling of an object.",
+      "stgdir": "Il avient une paire de pistolets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1776",
+      "category": "8",
+      "explanation": "Similar to 1772, this direction begins with 'AIR', indicating a music-related direction.",
+      "stgdir": "AIR : Amis, voici la riante semaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1777",
+      "category": "5",
+      "explanation": "The phrase 'L'Abb\u00e9 sort' indicates that the character is exiting the stage.",
+      "stgdir": "L'Abb\u00e9 sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1778",
+      "category": "2",
+      "explanation": "The character says these lines in a low voice, suggesting it is an aside, directed to the audience.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1779",
+      "category": "0",
+      "explanation": "The action of seeing \u00c9liante suggests a general observation action, which fits into the action category.",
+      "stgdir": "Voyant para\u00eetre \u00c9liante.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 7254.708766937256,
+  "model": "gpt-4o-mini"
+}

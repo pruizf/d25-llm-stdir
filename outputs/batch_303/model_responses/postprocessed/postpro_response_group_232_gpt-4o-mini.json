@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2310",
+      "category": 11,
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, d\u00e9terminant l'emplacement de l'action.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Perron enflamm\u00e9 qui d\u00e9fendait la Gloire de Niqu\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2311",
+      "category": 6,
+      "explanation": "Cette direction implique une interaction non verbale entre les personnages, o\u00f9 l'un tombe sur l'autre.",
+      "stgdir": "Elle tombe sur Barsine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2312",
+      "category": 4,
+      "explanation": "Cette direction indique qu'un personnage (l'exempt) entre sur sc\u00e8ne.",
+      "stgdir": "L'exempt rentre, Cl\u00e9arque continue.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2313",
+      "category": 1,
+      "explanation": "Cette direction d\u00e9crit une action violente o\u00f9 les soldats cherchent \u00e0 venger leur chef, impliquant une agression.",
+      "stgdir": "Les Soldats voyant ainsi expirer leur Chef, cherchent \u00e0 le venger, en fon\u00e7ant de tous c\u00f4t\u00e9s sur le g\u00e9n\u00e9reux Dunois, mais second\u00e9 de son \u00e9cuyer, il se d\u00e9fend avec tant de courage et d'adresse, qu'il les repousse sans en \u00eatre atteint.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2314",
+      "category": 8,
+      "explanation": "Cette direction mentionne une symphonie, ce qui correspond \u00e0 une interpr\u00e9tation musicale.",
+      "stgdir": "On entend une symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2315",
+      "category": 6,
+      "explanation": "Montrer son pouce implique une interaction non verbale pour communiquer une id\u00e9e.",
+      "stgdir": "Il montre son pouce.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2316",
+      "category": 3,
+      "explanation": "C'est un air chant\u00e9 par une femme, ce qui implique l'expression vocale et \u00e9motionnelle.",
+      "stgdir": "Air : (chant\u00e9 par une femme.)",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2317",
+      "category": 4,
+      "explanation": "Cette direction indique qu'un personnage (un laquais) vient sur sc\u00e8ne, ce qui est une entr\u00e9e.",
+      "stgdir": "Un laquais vient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2318",
+      "category": 8,
+      "explanation": "La direction indique un air avec un nom sp\u00e9cifique, ce qui rel\u00e8ve de la musique.",
+      "stgdir": "Air : De la Magnotte.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2319",
+      "category": 4,
+      "explanation": "Cette direction indique une entr\u00e9e d'un personnage (Verseuil) sur la sc\u00e8ne.",
+      "stgdir": "Pendant ce monologue, Verseuil entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 7484.333276748657,
+  "model": "gpt-4o-mini"
+}

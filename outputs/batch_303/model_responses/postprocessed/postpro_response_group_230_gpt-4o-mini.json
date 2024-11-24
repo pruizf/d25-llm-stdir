@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2290",
+      "category": "7",
+      "explanation": "L'action 'On bat la marche dans l'\u00e9loignement' d\u00e9crit le mouvement, sans indiquer une entr\u00e9e ou une sortie sp\u00e9cifique.",
+      "stgdir": "On bat la marche dans l'\u00e9loignement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2291",
+      "category": "10",
+      "explanation": "La mention 'LETTRE D'AXALA A DORANTE' implique l'objet de la lettre, ce qui correspond \u00e0 la cat\u00e9gorie d'objet.",
+      "stgdir": "LETTRE D'AXALA A DORANTE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2292",
+      "category": "6",
+      "explanation": "L'expression 'Elle montre le banc de pierre' implique une interaction non verbale par le fait de montrer.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2293",
+      "category": "6",
+      "explanation": "En disant 'En montrant M\u00e9lise', cela d\u00e9crit \u00e9galement une interaction non verbale \u00e0 travers le fait de montrer une personne.",
+      "stgdir": "En montrant M\u00e9lise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2294",
+      "category": "8",
+      "explanation": "La mention 'AIR : J'aime bien mieux, etc.' indique un titre de musique ou une m\u00e9lodie \u00e0 jouer.",
+      "stgdir": "AIR : J'aime bien mieux, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2295",
+      "category": "12",
+      "explanation": "L'indication '\u00c0 Marcia' montre \u00e0 qui une action ou un dialogue est adress\u00e9, ce qui est caract\u00e9ristique de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Marcia.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2296",
+      "category": "8",
+      "explanation": "Le terme 'ARIETTE l\u00e9g\u00e8re' d\u00e9signe une forme musicale, correspondant ainsi \u00e0 la cat\u00e9gorie de musique.",
+      "stgdir": "ARIETTE l\u00e9g\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2297",
+      "category": "5",
+      "explanation": "L'expression 'Elle se retire' est une indication claire d'une sortie de sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie 'exit'.",
+      "stgdir": "Elle se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2298",
+      "category": "4",
+      "explanation": "Le fait qu'elles 'entrent par le fond' indique une entr\u00e9e de sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Elles entrent par le fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2299",
+      "category": "4",
+      "explanation": "L'indication 'Elle entre par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 est sortie Julie.' d\u00e9crit clairement une entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Elle entre par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 est sortie Julie. Elle est coiff\u00e9e en cheveux avec des rubans et porte une toilette \u00e9l\u00e9gante.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 6348.249673843384,
+  "model": "gpt-4o-mini"
+}

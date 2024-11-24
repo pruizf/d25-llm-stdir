@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2500",
+      "category": "6",
+      "explanation": "Elle embrasse la Comtesse est une action d'interaction entre les deux personnages, et cela implique un geste non-verbal.",
+      "stgdir": "Elle embrasse la Comtesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2501",
+      "category": "10",
+      "explanation": "Il prend son billet et le confronte avec celui qu'\u00c9raste lui a laiss\u00e9 implique une manipulation d'objet.",
+      "stgdir": "Il prend son billet et le confronte avec celui qu'\u00c9raste lui a laiss\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2502",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le m\u00eame cabinet de Madame Almaviva d\u00e9crit le cadre sc\u00e9nique de la pi\u00e8ce.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le m\u00eame cabinet de Madame Almaviva.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2503",
+      "category": "2",
+      "explanation": "[Il interrompt la lecture.] indique une action de type aparte, car cela sugg\u00e8re que le personnage fait une remarque en dehors du dialogue principal.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2504",
+      "category": "1",
+      "explanation": "Elle lui arrache la fiole est une action qui peut \u00eatre consid\u00e9r\u00e9e comme agressive, car il s'agit d'un acte de vol ou de prise forc\u00e9e.",
+      "stgdir": "Elle lui arrache la fiole.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2505",
+      "category": "10",
+      "explanation": "Il lui donne la lettre d\u00e9crit une interaction avec un objet, en l'occurrence une lettre.",
+      "stgdir": "Il lui donne la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2506",
+      "category": "10",
+      "explanation": "Elle remet la carte \u00e0 Thibaudier implique \u00e9galement un \u00e9change d'objet.",
+      "stgdir": "Elle remet la carte \u00e0 Thibaudier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2507",
+      "category": "7",
+      "explanation": "Arlequin, pendant ce temps, change de Juste-au-corps et de chapeau, et para\u00eet en boulanger, d\u00e9crit un mouvement de changement de costume.",
+      "stgdir": "Arlequin, pendant ce temps, change de Juste-au-corps et de chapeau, et para\u00eet en boulanger, avec une chemisette rouge et un bonnet de laine, et son soufflet se trouve chang\u00e9 en charrette.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2508",
+      "category": "3",
+      "explanation": "Avec solennit\u00e9 d\u00e9crit le ton ou la mani\u00e8re dont quelque chose est dit, ce qui se rapporterait \u00e0 la mani\u00e8re de livraison.",
+      "stgdir": "Avec solennit\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2509",
+      "category": "8",
+      "explanation": "Air : Maman vous a dit, dans six ans, fait r\u00e9f\u00e9rence \u00e0 un morceau musical, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10414.689779281616,
+  "model": "gpt-4o-mini"
+}

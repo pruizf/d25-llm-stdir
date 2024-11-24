@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "220",
+      "category": "9",
+      "explanation": "This stage direction describes a sequence of character actions and emotions related to Clairville's state of mind, showcasing his turmoil and physical gestures, thus having a narrative quality.",
+      "confidence": 0.9,
+      "stgdir": "Clairville quitte Rosalie. Il est comme un fou. Il va, il vient, il s'arr\u00eate. Il soupire de douleur, de fureur. Il s'appuie les coudes sur le dos d'un fauteuil, la t\u00eate sur ses mains, et les poings dans les yeux. Le silence dure un moment. Enfin il dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "12",
+      "explanation": "The direction indicates that Clairville is addressing Philotas, marking a clear direction towards an addressee for dialogue.",
+      "confidence": 0.95,
+      "stgdir": "\u00c0 Philotas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "6",
+      "explanation": "This describes a non-verbal interaction where the ilote shows humility through a salute, indicating interaction without spoken words.",
+      "confidence": 0.85,
+      "stgdir": "Montrant l'ilote, qui salue modestement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "10",
+      "explanation": "The action of discovering his stomach indicates an interaction with his own clothing, often relating to costume or manipulation of an object.",
+      "confidence": 0.8,
+      "stgdir": "Il d\u00e9couvre son estomac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "3",
+      "explanation": "The laughter of the young girls, except for Justine, conveys emotional delivery through reactions but does not specify an action being taken.",
+      "confidence": 0.75,
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "225",
+      "category": "10",
+      "explanation": "Returning weapons is a clear interaction with an object, emphasizing the act of giving back something significant to the character.",
+      "confidence": 0.85,
+      "stgdir": "Il lui rend ses armes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "6",
+      "explanation": "The act of looking at someone involves a non-verbal interaction, highlighting a connection between characters, even without dialogue.",
+      "confidence": 0.8,
+      "stgdir": "Le regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "10",
+      "explanation": "Revealing a flower-adorned dress describes an object and character interaction with clothing, which fits best under the object category.",
+      "confidence": 0.85,
+      "stgdir": "Le Laquais d\u00e9couvre une robe garnie de fleurs.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "8",
+      "explanation": "The mention of a tune (Menuet de Monsieur Grandval) suggests musical context as it is specifically labeled as 'Air', fitting perfectly in the music category.",
+      "confidence": 1.0,
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "0",
+      "explanation": "Searching for an idea is a general action of a character thinking, which does not specifically fit into any other defined categories, making it an action.",
+      "confidence": 0.9,
+      "stgdir": "Cherchant une id\u00e9e.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 4558.486223220825,
+  "model": "gpt-4o-mini"
+}

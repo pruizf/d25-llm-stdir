@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1550",
+      "category": "6",
+      "explanation": "Montrant Martin indicates a non-verbal interaction where the character is showing or pointing at Martin.",
+      "stgdir": "Montrant Martin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1551",
+      "category": "6",
+      "explanation": "Regardant sa fille suggests a non-verbal interaction where the character is looking at their daughter.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1552",
+      "category": "8",
+      "explanation": "Air : Lanturlu refers to a specific tune or song, thus categorizing it under music.",
+      "stgdir": "Air : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1553",
+      "category": "7",
+      "explanation": "Elle passe \u00e0 gauche indicates movement as the character is moving to the left.",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1554",
+      "category": "9",
+      "explanation": "Tous reviennent, et Madame Raquin remet la lampe sur la table is a narrative description of actions taken by multiple characters in the scene.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1555",
+      "category": "5",
+      "explanation": "Sainte C\u00e9cile sort clearly denotes an exit as it indicates that Sainte C\u00e9cile is leaving the stage.",
+      "stgdir": "Sainte C\u00e9cile sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1556",
+      "category": "8",
+      "explanation": "Air : Voulez-vous savoir qui des deux designates a song, placing it in the music category.",
+      "stgdir": "Air : Voulez-vous savoir qui des deux",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1557",
+      "category": "12",
+      "explanation": "\u00c0 Valentin suggests direction towards Valentin, indicating the addressee of a speech or interaction.",
+      "stgdir": "\u00c0 Valentin",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1558",
+      "category": "0",
+      "explanation": "Parlant \u00e0 son cheval is a general action where a character is engaging in conversation, though not necessarily directed towards an audience.",
+      "stgdir": "Parlant \u00e0 son cheval.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1559",
+      "category": "8",
+      "explanation": "AIR. Tout roule aujourd'hui dans le monde refers to a tune, classifying it as music.",
+      "stgdir": "AIR. Tout roule aujourd'hui dans le monde.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 4903.250455856323,
+  "model": "gpt-4o-mini"
+}

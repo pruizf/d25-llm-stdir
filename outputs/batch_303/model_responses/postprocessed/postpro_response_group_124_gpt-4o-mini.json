@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1230",
+      "category": "10",
+      "explanation": "Le terme 'CARTEL' sugg\u00e8re un objet, probablement une affiche ou un panneau li\u00e9 \u00e0 Tygrane et Eurim\u00e9don.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1231",
+      "category": "4",
+      "explanation": "La mention de 'Le Chevalier entre' indique qu'un personnage fait son entr\u00e9e sur la sc\u00e8ne.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1232",
+      "category": "1",
+      "explanation": "Tirer une \u00e9p\u00e9e est une action agressive, donc c'est class\u00e9 sous la cat\u00e9gorie de l'agression.",
+      "stgdir": "Il tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1233",
+      "category": "12",
+      "explanation": "La mention des 'deux marquis Platon et Gilissa' indique clairement \u00e0 qui s'adresse le dialogue ou l'interaction.",
+      "stgdir": "Aux deux marquis Platon et Gilissa.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1234",
+      "category": "9",
+      "explanation": "Ce passage d\u00e9crit une s\u00e9rie d'actions et d'interactions entre diff\u00e9rents personnages, ce qui lui donne une qualit\u00e9 narrative.",
+      "stgdir": "Le Docteur lit la lettre, apprend que le fils de Colin est malade ; et qu'il ne peut se mette sit\u00f4t en chemin ; il jette en m\u00eame tempos les yeux sur Arlequin qui lui soutient effront\u00e9ment qu'il est le fils du Fermier de Domfront, et qu'il se porte bien. Le Docteur demande au Paysan s'il le conna\u00eet ; le Paysan r\u00e9pond que non, et que ce n'est pas l\u00e0 le Fils de son Ma\u00eetre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1235",
+      "category": "6",
+      "explanation": "Chaque personnage r\u00e9agit non verbalement \u00e0 la r\u00e9ception de l'argent, ce qui constitue une interaction non verbale.",
+      "stgdir": "Il les paye, et chacun, en recevant l'argent, fait un geste diff\u00e9rent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1236",
+      "category": "0",
+      "explanation": "S'approcher de la table pour parcourir un livre sans s'asseoir est une action g\u00e9n\u00e9rale qui ne rentre pas dans les autres cat\u00e9gories.",
+      "stgdir": "Il s'approche de la table et parcourt le livre sans s'asseoir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1237",
+      "category": "9",
+      "explanation": "L'indication d'un grand silence peut \u00eatre consid\u00e9r\u00e9e comme une observation narrative sur l'\u00e9tat de la sc\u00e8ne.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1238",
+      "category": "11",
+      "explanation": "La description d'un 'lieu champ\u00eatre fort agr\u00e9able' se r\u00e9f\u00e8re \u00e0 l'environnement de la sc\u00e8ne, ce qui rel\u00e8ve du cadre.",
+      "stgdir": "La d\u00e9coration repr\u00e9sente un lieu champ\u00eatre fort agr\u00e9able.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1239",
+      "category": "9",
+      "explanation": "Le bruit entendu dans la maison est un d\u00e9tail qui ajoute \u00e0 l'atmosph\u00e8re narrative de la sc\u00e8ne.",
+      "stgdir": "On entend du bruit dans la maison.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 3903.2342433929443,
+  "model": "gpt-4o-mini"
+}

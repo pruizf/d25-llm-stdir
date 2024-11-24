@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "490",
+      "category": "10",
+      "explanation": "Subtil tire un mouchoir blanc de sa poche, ce qui implique une interaction avec un objet (le mouchoir).",
+      "stgdir": "Subtil tire un mouchoir blanc de sa poche, et est pr\u00eat de se moucher.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "491",
+      "category": "8",
+      "explanation": "AIR : Agr\u00e9able esp\u00e9rance est une indication de musique, se rapportant \u00e0 un air ou une m\u00e9lodie.",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "492",
+      "category": "3",
+      "explanation": "Avec un cri \u00e9touff\u00e9 indique une mani\u00e8re de livrer une \u00e9motion, particuli\u00e8rement forte ou \u00e9touff\u00e9e.",
+      "stgdir": "Avec un cri \u00e9touff\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "493",
+      "category": "12",
+      "explanation": "Au p\u00e8re de famille indique une direction vers une personne sp\u00e9cifique, c'est-\u00e0-dire le p\u00e8re de famille.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "494",
+      "category": "11",
+      "explanation": "\u00c0 la balustrade d\u00e9crit une partie du d\u00e9cor ou de la sc\u00e8ne, en reliant l'action \u00e0 une caract\u00e9ristique physique.",
+      "stgdir": "\u00c0 la balustrade.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "495",
+      "category": "7",
+      "explanation": "Il fait un mouvement pour s'\u00e9loigner indique un mouvement sans impliquer une sortie d\u00e9finitive.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "496",
+      "category": "6",
+      "explanation": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble repr\u00e9sente une interaction entre les personnages.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "497",
+      "category": "4",
+      "explanation": "Le chevalier rentre, ruisselant indique une entr\u00e9e du personnage sur sc\u00e8ne.",
+      "stgdir": "Le chevalier rentre, ruisselant.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "498",
+      "category": "3",
+      "explanation": "Haut, d'un ton bas et rampant d\u00e9crit la mani\u00e8re dont le personnage parle, impliquant une \u00e9motion ou une expression vocale.",
+      "stgdir": "Haut, d'un ton bas et rampant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "499",
+      "category": "6",
+      "explanation": "Les Ogres se prosternent devant Arlequin constitue une interaction non verbale entre les personnages pr\u00e9sents.",
+      "stgdir": "Les Ogres se prosternent devant Arlequin. Ensuite ils se rangent en deux files, accroupis, ayant les coudes sur les genoux, et les deux poings sous le menton. Un vieillard s'avance et pr\u00e9sente \u00e0 genoux une couronne \u00e0 Arlequin, qui fait ses lazzis.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 5151.968479156494,
+  "model": "gpt-4o-mini"
+}

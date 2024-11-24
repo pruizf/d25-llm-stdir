@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2160",
+      "category": "5",
+      "explanation": "Cette direction indique que les com\u00e9diens sortent, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Les Com\u00e9diens sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2161",
+      "category": "12",
+      "explanation": "Ce passage indique que c'est \u00e0 l'adresse de Monsieur Jourdain, ce qui signifie qu'il parle \u00e0 lui.",
+      "stgdir": "\u00c0 Monsieur Jourdain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2162",
+      "category": "12",
+      "explanation": "Ceci se rapporte aux esclaves en tant qu'addresse, indiquant qu'ils sont le destinataire de l'action ou du discours.",
+      "stgdir": "Aux Esclaves.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2163",
+      "category": "6",
+      "explanation": "Regarder le tableau implique une interaction non verbale consistant \u00e0 observer.",
+      "stgdir": "Regardant le tableau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2164",
+      "category": "0",
+      "explanation": "Apr\u00e8s un silence repr\u00e9sente une action de pause, sans autre cat\u00e9gorie applicable.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2165",
+      "category": "6",
+      "explanation": "Apercevoir la malade signifie qu'un personnage regarde ou remarque une autre personne, ce qui est une interaction non verbale.",
+      "stgdir": "Apercevant la malade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2166",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le cadre de la sc\u00e8ne, ce qui correspond \u00e0 une description de l'environnement ou du d\u00e9cor.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un salon assez luxueusement meubl\u00e9. Aux murs, des tableaux de grande valeur. Une bonne ach\u00e8ve d'\u00e9pousseter les meubles. Entre Madame Racosse, un peu m\u00fbre, un peu grosse, v\u00eatue d'une robe trop paillet\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2167",
+      "category": "12",
+      "explanation": "Ce passage indique qu'il s'adresse \u00e0 Clodomire, marquant clairement une adresse \u00e0 un personnage.",
+      "stgdir": "\u00c0 Clodomire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2168",
+      "category": "10",
+      "explanation": "Tirer une lettre de sa poche implique une interaction avec un objet, ici la lettre.",
+      "stgdir": "Tirant une lettre de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2169",
+      "category": "10",
+      "explanation": "Ouvrir la deuxi\u00e8me lettre indique une manipulation d'un objet, en l'occurrence une lettre.",
+      "stgdir": "Il ouvre la deuxi\u00e8me lettre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 5527.786731719971,
+  "model": "gpt-4o-mini"
+}

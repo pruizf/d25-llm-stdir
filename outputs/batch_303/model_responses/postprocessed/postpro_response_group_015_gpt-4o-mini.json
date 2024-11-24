@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "140",
+      "category": 1,
+      "explanation": "Cette direction d\u00e9crit une lutte entre des personnages, ce qui correspond \u00e0 une action violente et donc \u00e0 la cat\u00e9gorie d'agression.",
+      "confidence": 0.9,
+      "stgdir": "Ils se battent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "141",
+      "category": 9,
+      "explanation": "Cette direction fournit une description longue et narrative d'un spectacle sur sc\u00e8ne, correspondant \u00e0 une narration \u00e0 caract\u00e8re descriptif.",
+      "confidence": 0.95,
+      "stgdir": "Le th\u00e9\u00e2tre s'ouvre \u00e0 l'agr\u00e9able bruit de quantit\u00e9 d'instruments, et d'abord il offre aux yeux une vaste mer, bord\u00e9e de chaque c\u00f4t\u00e9 de quatre grands rochers, dont le sommet porte chacun un Fleuve, accoud\u00e9 sur les marques de ces sortes de d\u00e9it\u00e9s. Au pied de ces rochers sont douze Tritons de chaque c\u00f4t\u00e9, et dans le milieu de la mer quatre Amours mont\u00e9s sur des dauphins, et derri\u00e8re eux le dieu \u00c9ole, \u00e9lev\u00e9 au-dessus des ondes sur un petit nuage. \u00c9ole commande aux vents de se retirer, et, tandis que les Amours, les Tritons, et les Fleuves lui r\u00e9pondent, la mer se calme, et du milieu des ondes on voit s'\u00e9lever une \u00eele. Huit P\u00eacheurs sortent du fond de la mer avec des nacres de perles et des branches de corail, et, apr\u00e8s une danse agr\u00e9able, vont se placer chacun sur un rocher au-dessous d'un Fleuve. Le choeur de la musique annonce la venue de Neptune, et, tandis que ce dieu danse avec sa suite, les P\u00eacheurs, les Tritons et les Fleuves accompagnent ses pas de gestes diff\u00e9rents et de bruit de conques de perles. Tout ce spectacle est une magnifique galanterie, dont l'un des princes r\u00e9gale sur la mer la promenade des princesses.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "142",
+      "category": 7,
+      "explanation": "Le fait qu'elle se place devant lui est une action de mouvement qui implique un d\u00e9placement dans l'espace sc\u00e9nique.",
+      "confidence": 0.8,
+      "stgdir": "Elle se place devant lui.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "143",
+      "category": 6,
+      "explanation": "Le fait qu'elle le voit implique une interaction non verbale entre deux personnages, pertinent pour la cat\u00e9gorie d'interaction.",
+      "confidence": 0.85,
+      "stgdir": "Elle le voit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "144",
+      "category": 8,
+      "explanation": "C'est le titre d'une chanson, donc il se classe dans la cat\u00e9gorie musique.",
+      "confidence": 1.0,
+      "stgdir": "AIR. Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "145",
+      "category": 7,
+      "explanation": "Elle s'approche de la chemin\u00e9e implique un mouvement sp\u00e9cifique vers un objet, correspondant \u00e0 la cat\u00e9gorie de mouvements.",
+      "confidence": 0.85,
+      "stgdir": "Elle s'approche de la chemin\u00e9e.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "146",
+      "category": 3,
+      "explanation": "Le fait que Dorante lit la lettre touche \u00e0 la mani\u00e8re de livrer le contenu de la lettre, ce qui est pertinent pour la cat\u00e9gorie livraison.",
+      "confidence": 0.9,
+      "stgdir": "Dorante lit la lettre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "147",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit la sc\u00e8ne en d\u00e9tail, ce qui correspond \u00e0 la cat\u00e9gorie de d\u00e9cor.",
+      "confidence": 0.95,
+      "stgdir": "La sc\u00e8ne repr\u00e9sente sur le devant un lieu champ\u00eatre, et dans l'enfoncement un rocher perc\u00e9 \u00e0 jour, \u00e0 travers duquel on voit la mer en \u00e9loignement. Flore para\u00eet au milieu du th\u00e9\u00e2tre, accompagn\u00e9 de Vertumne Dieu des Arbres et des Fruits, et de Palamon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinit\u00e9s ; l'un m\u00e8ne \u00e0 sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Na\u00efades, Flore chante ce r\u00e9cit pour inviter V\u00e9nus \u00e0 descendre en Terre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "148",
+      "category": 10,
+      "explanation": "Il fait des efforts pour ouvrir quelque chose, indiquant une interaction avec un objet, pertinent pour la cat\u00e9gorie d'objet.",
+      "confidence": 0.85,
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "149",
+      "category": 8,
+      "explanation": "C'est la r\u00e9p\u00e9tition du titre d'une chanson, donc cela se classe \u00e9galement dans la cat\u00e9gorie musique.",
+      "confidence": 1.0,
+      "stgdir": "AIR. Nous autres bons Villageois.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6873.277425765991,
+  "model": "gpt-4o-mini"
+}

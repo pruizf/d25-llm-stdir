@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1620",
+      "category": 0,
+      "explanation": "Cette direction indique une action o\u00f9 Ma\u00eetre Godard presse, ce qui correspond \u00e0 une action g\u00e9n\u00e9rale.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1621",
+      "category": 4,
+      "explanation": "La mention de 'Voyant para\u00eetre M De Forlis' d\u00e9crit l'entr\u00e9e d'un personnage, donc il s'agit d'une direction d'entr\u00e9e.",
+      "stgdir": "Voyant para\u00eetre M De Forlis.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1622",
+      "category": 9,
+      "explanation": "On entend l'appel de VA\u00cen\u00e9 qui crie, ce qui se rapporte \u00e0 une narration d'une action de fond ou de bruit.",
+      "stgdir": "On entend dans la Chambre voisine, VA\u00cen\u00e9 qui appelle \u00e0 lui en criant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1623",
+      "category": 12,
+      "explanation": "Le terme '\u00c0 Rosbif' indique une adresse \u00e0 un autre personnage, ce qui rel\u00e8ve de l'indication vers un interlocuteur.",
+      "stgdir": "\u00c0 Rosbif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1624",
+      "category": 8,
+      "explanation": "La mention d'un air de vaudeville indique une direction musicale associ\u00e9e \u00e0 une m\u00e9lodie.",
+      "stgdir": "Air : Vaudeville de Claudine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1625",
+      "category": 0,
+      "explanation": "Il s'agit d'une action o\u00f9 un personnage appelle ses valets, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1626",
+      "category": 7,
+      "explanation": "Le fait qu'il 'recule d'un autre c\u00f4t\u00e9' d\u00e9crit un mouvement du personnage sans exit ni entr\u00e9e.",
+      "stgdir": "Il recule d'un autre c\u00f4t\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1627",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit la sc\u00e8ne du th\u00e9\u00e2tre comme une place publique, ce qui correspond \u00e0 une description de d\u00e9cor.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une Place publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1628",
+      "category": 4,
+      "explanation": "La direction indique que Sabine entre, ce qui est une action d'entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Sabine rentre, et Dorante continue.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1629",
+      "category": 8,
+      "explanation": "La mention d'un air, 'Air 51: Branle de Metz retourn\u00e9', indique qu'il s'agit d'une direction musicale.",
+      "stgdir": "Air 51 : Branle de Metz retourn\u00e9.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5582.213640213013,
+  "model": "gpt-4o-mini"
+}

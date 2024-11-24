@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2350",
+      "category": 8,
+      "explanation": "The direction refers to a musical piece from 'De La Renaissance de la Foire', indicating it's about music.",
+      "stgdir": "Air 176 : De La Renaissance de la Foire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2351",
+      "category": 10,
+      "explanation": "This direction involves giving an object (the door) and placing it on the ground, indicating interaction with an object.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2352",
+      "category": 3,
+      "explanation": "The phrase indicates a character expressing a sentiment in a melodic manner, which relates to vocal expression.",
+      "stgdir": "AIR. Qu'on me bl\u00e2me tant que l'on voudra.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2353",
+      "category": 4,
+      "explanation": "The direction indicates the character Laure entering the stage.",
+      "stgdir": "Laure sort.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2354",
+      "category": 3,
+      "explanation": "This line captures an emotional delivery and implies the character is expressing a feeling through song.",
+      "stgdir": "AIR. Ah ! Robin, tais-toi.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2355",
+      "category": 7,
+      "explanation": "The character is moving or rushing towards the sea, indicating character movement.",
+      "stgdir": "Elle se pr\u00e9cipite dans la mer.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2356",
+      "category": 3,
+      "explanation": "The character appearing serious relates to the delivery of emotion or expression.",
+      "stgdir": "Elle para\u00eet s\u00e9rieuse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2357",
+      "category": 8,
+      "explanation": "This stage direction is about a song or musical piece, indicated by 'Air'.",
+      "stgdir": "Air : Courons de la blonde \u00e0 la brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2358",
+      "category": 7,
+      "explanation": "Sitting on a chair implies a movement action but does not constitute a complete exit or entrance.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2359",
+      "category": 11,
+      "explanation": "This direction describes the setting of the stage, detailing the scenery and layout.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le bord de la mer. On voit de c\u00f4t\u00e9 et d'autres diff\u00e9rentes ouvertures entre des rochers ; mais la grotte de Philoct\u00e8te est suppos\u00e9e ne pouvoir \u00eatre vue que dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 5653.129816055298,
+  "model": "gpt-4o-mini"
+}

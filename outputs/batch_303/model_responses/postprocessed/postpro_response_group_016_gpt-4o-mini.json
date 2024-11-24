@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "8",
+      "explanation": "Le terme 'air' se rapporte \u00e0 une composition musicale. Ici, il se r\u00e9f\u00e8re \u00e0 la m\u00eame m\u00e9lodie que le couplet pr\u00e9c\u00e9dent.",
+      "confidence": 0.95,
+      "stgdir": "M\u00eame air que le couplet pr\u00e9c\u00e9dent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "9",
+      "explanation": "Cette sc\u00e8ne muette d\u00e9crit une s\u00e9rie d'actions et d'observations entre les personnages, ce qui en fait une narration d'\u00e9v\u00e9nements.",
+      "confidence": 0.9,
+      "stgdir": "Ici une Sc\u00e8ne muette de Falaise qui voit le Chevalier avec Ang\u00e9lique, et le soup\u00e7onne. Il regarde ensuite N\u00e9rine, et feint d'en \u00eatre charm\u00e9\u00a0; apr\u00e8s quoi il se retire d'un c\u00f4t\u00e9 et le Chevalier d'un autre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "5",
+      "explanation": "Le personnage 'Lascy' s'en va, ce qui correspond \u00e0 une sortie.",
+      "confidence": 0.95,
+      "stgdir": "Lascy s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le cadre de la sc\u00e8ne, sp\u00e9cifiant la localisation des \u00e9l\u00e9ments sur sc\u00e8ne.",
+      "confidence": 0.95,
+      "stgdir": "La Sc\u00e8ne repr\u00e9sente les Charniers des Innocents. \u00c0 droite est la boutique de Madame de L'Aiguille, Marchande Ling\u00e8re, et \u00e0 gauche, un tonneau qui sert de Bureau \u00e0 Monsieur Discret, \u00e9crivain.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "12",
+      "explanation": "Il indique que l'adresse est faite \u00e0 'Philox\u00e8ne', ce qui signifie qu'un personnage parle directement \u00e0 un autre.",
+      "confidence": 0.85,
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "8",
+      "explanation": "'Air : Dans quel canton est l'Huronie' indique le titre d'une pi\u00e8ce musicale, class\u00e9e sous la musique.",
+      "confidence": 0.95,
+      "stgdir": "Air : Dans quel canton est l'Huronie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "8",
+      "explanation": "'AIR : Qu'a du vin' \u00e9galement d\u00e9signe une pi\u00e8ce musicale, comme indiqu\u00e9 par le mot 'AIR'.",
+      "confidence": 0.95,
+      "stgdir": "AIR : Qu'a du vin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "2",
+      "explanation": "Le terme 'Il dit \u00e0 part' indique que le personnage fait une aside, s'adressant ainsi directement au public.",
+      "confidence": 0.9,
+      "stgdir": "Il dit \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "6",
+      "explanation": "Les \u00c9thiopiens sortent de sc\u00e8ne, ce qui implique une interaction non verbale entre les personnages qui pourraient \u00eatre ensemble sur sc\u00e8ne.",
+      "confidence": 0.8,
+      "stgdir": "Les \u00c9thiopiens sortent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "12",
+      "explanation": "Cette indication montre que l'adresse est faite \u00e0 '\u00c9ricie', ce qui indique une direction de communication claire.",
+      "confidence": 0.85,
+      "stgdir": "\u00c0 \u00c9ricie.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5651.1735916137695,
+  "model": "gpt-4o-mini"
+}

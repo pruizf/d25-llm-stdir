@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1650",
+      "category": "6",
+      "explanation": "Il lui parle \u00e0 l'oreille involves non-verbal interaction as it suggests a low, private exchange between characters.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1651",
+      "category": "11",
+      "explanation": "Apercevant d'Herbain describes the act of noticing someone, setting the stage for the interaction, and refers more to the setting or context.",
+      "stgdir": "Apercevant d'Herbain.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1652",
+      "category": "6",
+      "explanation": "Il lui baise les mains indicates a physical interaction that is non-verbal, demonstrating respect or affection.",
+      "stgdir": "Il lui baise les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1653",
+      "category": "5",
+      "explanation": "Germon sort indicates the character's exit from the stage.",
+      "stgdir": "Germon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1654",
+      "category": "10",
+      "explanation": "Elle lui montre un coeur de diamant describes an interaction with an object (the diamond heart), which is the focus of this action.",
+      "stgdir": "Elle lui montre un coeur de diamant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1655",
+      "category": "4",
+      "explanation": "La chambre de C\u00e9sar s'ouvre describes an entrance of a setting, indicating a new location in the play.",
+      "stgdir": "La chambre de C\u00e9sar s'ouvre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1656",
+      "category": "9",
+      "explanation": "C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers suggests a narrative quality by describing ceremonies, suitable for storytelling.",
+      "stgdir": "C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1657",
+      "category": "7",
+      "explanation": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse indicates movement towards a specific location or characters, rather than an entrance or exit.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1658",
+      "category": "8",
+      "explanation": "AIR. S\u00fbre de ta foi is directly related to music, as it indicates a tune being performed or played.",
+      "stgdir": "AIR. S\u00fbre de ta foi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1659",
+      "category": "8",
+      "explanation": "Air 75 : Un petit moment plus tard indicates the introduction of a specific piece of music, fitting into the music category.",
+      "stgdir": "Air 75 : Un petit moment plus tard.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5545.886278152466,
+  "model": "gpt-4o-mini"
+}

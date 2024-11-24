@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2870",
+      "category": "11",
+      "explanation": "Ceci est une indication de lieu, d\u00e9signant un endroit particulier 'Au petit Befor'.",
+      "stgdir": "Au petit Befor.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2871",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication de musique, puisqu'il commence par 'AIR' et mentionne une chanson.",
+      "stgdir": "AIR. R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2872",
+      "category": "10",
+      "explanation": "Cette direction d\u00e9crit l'action de donner un objet (le papier d'\u00e9critures) \u00e0 Madame Befor, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il donne le papier d'\u00e9critures du petit Dupr\u00e9 \u00e0 Madame Befor, quelle garde.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2873",
+      "category": "12",
+      "explanation": "Cette direction indique \u00e0 qui le personnage s'adresse, en pr\u00e9cisant '\u00c0 Marthe'.",
+      "stgdir": "\u00c0 Marthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2874",
+      "category": "12",
+      "explanation": "C'est une indication de l'adresse du personnage, en pr\u00e9cisant '\u00c0 Colin'.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2875",
+      "category": "12",
+      "explanation": "D\u00e9taille l'adresse de G\u00e9ronte, en pr\u00e9cisant l'utilisation de sa voix ordinaire, indiquant le destinataire de l'interaction.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2876",
+      "category": "6",
+      "explanation": "Apercevoir la toilette de sa m\u00e8re implique une interaction non verbale, une observation entre les personnages.",
+      "stgdir": "Apercevant la toilette de sa m\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2877",
+      "category": "5",
+      "explanation": "Le personnage 'se retire', ce qui indique clairement une sortie de la sc\u00e8ne.",
+      "stgdir": "Il se retire avec Clotilde.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2878",
+      "category": "8",
+      "explanation": "C'est une indication de musique, car elle commence par 'AIR' et se r\u00e9f\u00e8re \u00e0 une m\u00e9lodie.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2879",
+      "category": "7",
+      "explanation": "Ce terme 'Haut' \u00e9voque un mouvement, d'une certaine intensit\u00e9, sans mentionner sp\u00e9cifiquement une sortie ou une entr\u00e9e.",
+      "stgdir": "Haut",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 10718.888282775879,
+  "model": "gpt-4o-mini"
+}

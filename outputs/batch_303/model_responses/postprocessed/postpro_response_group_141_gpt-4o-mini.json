@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1400",
+      "category": "9",
+      "explanation": "Le terme 'Quatri\u00e8me Couplet' indique qu'il s'agit d'une section musicale ou d'une chanson, ce qui correspond \u00e0 la narration ou au contexte musical.",
+      "stgdir": "Quatri\u00e8me Couplet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1401",
+      "category": "4",
+      "explanation": "L'action de 'Elle entre dans le tombeau' d\u00e9crit l'entr\u00e9e d'un personnage sur sc\u00e8ne, donc cela correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Elle entre dans le tombeau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1402",
+      "category": "7",
+      "explanation": "L'action 'Elle s'assied \u00e0 gauche de la chemin\u00e9e' d\u00e9crit une action de mouvement d'un personnage s'asseyant, mais n'est pas une entr\u00e9e ou une sortie.",
+      "stgdir": "Elle s'assied \u00e0 gauche de la chemin\u00e9e.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1403",
+      "category": "10",
+      "explanation": "L'action 'Elle remet la lettre a Julie' implique l'interaction avec un objet (la lettre) et l'acte de donner, ce qui correspond \u00e0 la cat\u00e9gorie d'objet.",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1404",
+      "category": "9",
+      "explanation": "La phrase 'On entend un grand bruit du c\u00f4t\u00e9 de la maison' d\u00e9crit une action de bruit et sert une fonction narrative, align\u00e9e avec la cat\u00e9gorie de narration.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1405",
+      "category": "6",
+      "explanation": "Cette longue description implique une interaction verbale entre les personnages Frontin et Adraste, repr\u00e9sentant une interaction importante sans indication d'entr\u00e9e ou de sortie.",
+      "stgdir": "FRONTIN dit \u00e0 son ma\u00eetre qu'il a toutes les peines du monde \u00e0 tirer de l'argent de Monsieur Simon son usurier ordinaire mais qu'\u00e0 la fin il lui a donn\u00e9 deux mille livres, apr\u00e8s avoir rempli son blanc-seing de quatre mille livres. Ce sont deux mille livres qu'il m'en co\u00fbte, r\u00e9pond Adraste mais que ne ferait-on pas pour se tirer d'affaire avec honneur ? Va ajo\u00fbte-t-il \u00e0 Frontin, assemble mes cr\u00e9anciers chez moi : je vais t'y joindre, et les payer.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1406",
+      "category": "10",
+      "explanation": "Montrer 'l'\u00e9p\u00e9e et le pistolet' implique des objets sp\u00e9cifiques, et l'action se concentre sur eux, la pla\u00e7ant dans la cat\u00e9gorie d'objet.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1407",
+      "category": "7",
+      "explanation": "L'action 'Il se place derri\u00e8re le Peintre' indique un mouvement relativement simple d'un personnage par rapport \u00e0 un autre, sans sortie ou entr\u00e9e.",
+      "stgdir": "Il se place derri\u00e8re le Peintre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1408",
+      "category": "5",
+      "explanation": "L'action 'Tous sortent, except\u00e9 Chapelle et Lafor\u00eat' indique un d\u00e9part collectif des personnages, ce qui est un exemple d'une sortie.",
+      "stgdir": "Tous sortent, except\u00e9 Chapelle et Lafor\u00eat.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1409",
+      "category": "9",
+      "explanation": "Le terme 'PETITE REPRISE' sugg\u00e8re qu'il s'agit d'une reprise musicale, ce qui est en lien avec la narration ou la musique.",
+      "stgdir": "PETITE REPRISE",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 8384.729862213135,
+  "model": "gpt-4o-mini"
+}

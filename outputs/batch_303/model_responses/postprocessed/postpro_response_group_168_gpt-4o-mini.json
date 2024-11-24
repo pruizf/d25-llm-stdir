@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1670",
+      "category": 3,
+      "explanation": "Elle fait un grand cri. - Cela d\u00e9crit une expression vocale forte et \u00e9motionnelle, donc cela correspond \u00e0 la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Elle fait un grand cri.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1671",
+      "category": 8,
+      "explanation": "AIR. \u00c0 quoi s'occupe Magdelon ? - Le d\u00e9but avec 'AIR' indique qu'il s'agit d'une musique ou d'une m\u00e9lodie, ce qui correspond \u00e0 la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR. \u00c0 quoi s'occupe Magdelon ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1672",
+      "category": 8,
+      "explanation": "AIR. Rions, chantons. - Comme le pr\u00e9c\u00e9dent, le terme 'AIR' implique une m\u00e9lodie ou une chanson, donc c'est aussi de la 'music'.",
+      "stgdir": "AIR. Rions, chantons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1673",
+      "category": 8,
+      "explanation": "On entend dans la coulisse le refrain suivant. - Bien que cela parle de sons venant de la coulisse, le mot 'refrain' indique \u00e9galement une composante musicale, donc cela appartient \u00e0 la cat\u00e9gorie 'music'.",
+      "stgdir": "On entend dans la coulisse le refrain suivant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1674",
+      "category": 11,
+      "explanation": "Aux Licteurs. - Cela semble indiquer un lieu ou une r\u00e9f\u00e9rence sp\u00e9cifique dans la pi\u00e8ce, ce qui le relie \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "Aux Licteurs.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1675",
+      "category": 6,
+      "explanation": "\u00c0 Isabelle se touchant le front avec la main. - Il s'agit d'une interaction non verbale o\u00f9 un personnage touche son front, ce qui correspond \u00e0 la cat\u00e9gorie 'interaction'.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1676",
+      "category": 11,
+      "explanation": "Un repas champ\u00eatre. L'AMOUR. - Ceci d\u00e9crit une sc\u00e8ne ou un cadre sp\u00e9cifique, ce qui le relie \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1677",
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'Hercule \u00e0 Trachine. - Cela d\u00e9crit une location sc\u00e9nique, donc il s'agit de la cat\u00e9gorie 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'Hercule \u00e0 Trachine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1678",
+      "category": 5,
+      "explanation": "Carille sort. - Cela indique qu'un personnage quitte la sc\u00e8ne, correspondant ainsi \u00e0 la cat\u00e9gorie 'exit'.",
+      "stgdir": "Carille sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1679",
+      "category": 5,
+      "explanation": "C\u00e9liante sort. - Tout comme le pr\u00e9c\u00e9dent, cela signifie qu'un personnage quitte la sc\u00e8ne, donc c'est une 'exit'.",
+      "stgdir": "C\u00e9liante sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 4297.533988952637,
+  "model": "gpt-4o-mini"
+}

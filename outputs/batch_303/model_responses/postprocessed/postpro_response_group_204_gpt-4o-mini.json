@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2030",
+      "category": "9",
+      "explanation": "Cette direction de sc\u00e8ne semble avoir une qualit\u00e9 narrative et est li\u00e9e \u00e0 une action ant\u00e9rieure exprim\u00e9e dans le texte, ce qui en fait une narration.",
+      "stgdir": "Qui a entendu les trois derniers vers de Tib\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2031",
+      "category": "3",
+      "explanation": "Cette direction indique une expression vocale associ\u00e9e \u00e0 un \u00e9tat \u00e9motionnel (folie), ce qui correspond \u00e0 la cat\u00e9gorie de la livraison.",
+      "stgdir": "AIR. Preuve de folie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2032",
+      "category": "8",
+      "explanation": "Cette direction mentionne un chant des Argonautes, ce qui indique de la musique, surtout avec l'introduction 'Chant' et l'\u00e9vocation d'une sc\u00e8ne musicale.",
+      "stgdir": "Chant des Argonautes, entendu dabord dans le lointain de la for\u00eat ; ils s'avancent en triomphe, et portent la Toison d'or.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2033",
+      "category": "6",
+      "explanation": "Cette direction implique que plusieurs personnages parlent en m\u00eame temps, ce qui indique une interaction non verbale et un \u00e9change verbal simultan\u00e9.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2034",
+      "category": "9",
+      "explanation": "Cette description a une port\u00e9e narrative car elle \u00e9voque une action li\u00e9e \u00e0 l'environnement et une voix entendue, ce qui enrichit le r\u00e9cit.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2035",
+      "category": "3",
+      "explanation": "Cette direction \u00e9tant une indication de chant, celle-ci entre dans la cat\u00e9gorie de la livraison, car elle repr\u00e9sente une expression d'\u00e9motion.",
+      "stgdir": "AIR : Ne v'la-t-i1 pas que j'aime ?",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2036",
+      "category": "5",
+      "explanation": "Cette direction indique clairement une sortie de personnage, correspondant \u00e0 la cat\u00e9gorie d'exit.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2037",
+      "category": "3",
+      "explanation": "La mention d'un 'AIR' sugg\u00e8re une direction musicale o\u00f9 la vocalisation est impliqu\u00e9e, ce qui est associ\u00e9 \u00e0 l'\u00e9motion et la livraison.",
+      "stgdir": "AIR. Ne m'entendez-vous pas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2038",
+      "category": "12",
+      "explanation": "Cette direction indique les destinataires d'un discours, ce qui correspond \u00e0 l'indication de l'adressage dans la parole.",
+      "stgdir": "\u00c0 Don Lope et \u00e0 Don Felix.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2039",
+      "category": "0",
+      "explanation": "Cette direction se r\u00e9f\u00e8re \u00e0 une action g\u00e9n\u00e9rale o\u00f9 'le reste s'\u00e9tant mis en fuite' implique une dynamique de mouvement, mais sans sp\u00e9cifier une entr\u00e9e ou une sortie.",
+      "stgdir": "Le reste s'\u00e9tant mis en fuite.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 4054.248809814453,
+  "model": "gpt-4o-mini"
+}

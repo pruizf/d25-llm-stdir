@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "510",
+      "category": "3",
+      "explanation": "En pleurant indicates an emotional delivery, typically associated with sadness or distress.",
+      "stgdir": "En pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "511",
+      "category": "8",
+      "explanation": "AIR indicates a musical element, specifically a tune being played or sung.",
+      "stgdir": "AIR. Voil\u00e0 la ressemblance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "512",
+      "category": "10",
+      "explanation": "Il lui baille une lettre describes the action of giving an object (a letter) to another character.",
+      "stgdir": "Il lui baille une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "513",
+      "category": "9",
+      "explanation": "SENTENCE refers to a narrative or declarative statement, likely conveying important information.",
+      "stgdir": "SENTENCE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "514",
+      "category": "8",
+      "explanation": "AIR signifies another musical element, often associated with a specific tune.",
+      "stgdir": "AIR. Monsieur le Pr\u00e9v\u00f4t des marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "515",
+      "category": "3",
+      "explanation": "S'\u00e9chauffant implies a manner of delivery, suggesting the character is getting heated or excited.",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "516",
+      "category": "1",
+      "explanation": "Criant tr\u00e8s fort indicates an aggressive or forceful action, as it describes loud shouting.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "517",
+      "category": "12",
+      "explanation": "\u00c0 Carion suggests direction toward a specific addressee or subject in the conversation.",
+      "stgdir": "\u00c0 Carion.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "518",
+      "category": "5",
+      "explanation": "Monsieur Dumont sort indicates that the character is exiting the stage.",
+      "stgdir": "Monsieur Dumont sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "519",
+      "category": "8",
+      "explanation": "AIR Des pendus indicates a musical reference, signaling a specific tune or composition.",
+      "stgdir": "AIR. Des pendus.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6358.675241470337,
+  "model": "gpt-4o-mini"
+}

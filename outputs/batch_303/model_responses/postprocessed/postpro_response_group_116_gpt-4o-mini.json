@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1150",
+      "category": "5",
+      "explanation": "Val\u00e9rian sort. - This indicates that Val\u00e9rian exits the stage.",
+      "stgdir": "Val\u00e9rian sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1151",
+      "category": "9",
+      "explanation": "Apr\u00e8s qu'il a lu. - This could be more narrative in nature, indicating a pause or a transition after reading.",
+      "stgdir": "Apr\u00e8s qu'il a lu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1152",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin. - This is a setting description, detailing the stage scenery.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1153",
+      "category": "0",
+      "explanation": "Anselme rit. - This is a general action depicting Anselme laughing.",
+      "stgdir": "Anselme rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1154",
+      "category": "10",
+      "explanation": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets pour compl\u00e9ter la description du repas qu'il fait. - This involves handling an object (billets) and tearing them, fitting the object category.",
+      "stgdir": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets pour compl\u00e9ter la description du repas qu'il fait.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1155",
+      "category": "4",
+      "explanation": "Ils entrent d'un pas d\u00e9gag\u00e9 l'un du jardin, l'autre de la cour. - This indicates that characters are entering the stage from different locations.",
+      "stgdir": "Ils entrent d'un pas d\u00e9gag\u00e9 l'un du jardin, l'autre de la cour.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1156",
+      "category": "8",
+      "explanation": "AIR : Je n'ai pas le pouvoir. - This is a musical direction indicating a song.",
+      "stgdir": "AIR : Je n'ai pas le pouvoir.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1157",
+      "category": "12",
+      "explanation": "\u00c0 la F\u00e9e. - This indicates who the character is addressing, which falls under 'toward'.",
+      "stgdir": "\u00c0 la F\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1158",
+      "category": "12",
+      "explanation": "\u00c0 Mathurin et \u00e0 Fran\u00e7oise. - Similar to the previous, this indicates the characters being addressed.",
+      "stgdir": "\u00c0 Mathurin et \u00e0 Fran\u00e7oise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1159",
+      "category": "6",
+      "explanation": "En leur montrant Am\u00e9lite. - This indicates a non-verbal interaction where someone is showing Am\u00e9lite to others.",
+      "stgdir": "En leur montrant Am\u00e9lite.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 11180.01127243042,
+  "model": "gpt-4o-mini"
+}

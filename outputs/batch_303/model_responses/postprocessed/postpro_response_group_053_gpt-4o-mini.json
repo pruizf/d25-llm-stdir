@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "520",
+      "category": "4",
+      "explanation": "Marton appara\u00eet et cela indique une entr\u00e9e sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Marton para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "521",
+      "category": "3",
+      "explanation": "Patrice chante, ce qui se rapporte \u00e0 l'expression vocale et donc \u00e0 la cat\u00e9gorie de livraison.",
+      "stgdir": "Patrice chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "522",
+      "category": "9",
+      "explanation": "Il s'agit d'une description narrative d'une sc\u00e8ne de concert, ce qui correspond \u00e0 la cat\u00e9gorie de narration.",
+      "stgdir": "L'ouverture se fait par \u00c9raste, qui conduit un grand concert, de voix et d'instruments, pour une s\u00e9r\u00e9nade, dont les paroles chant\u00e9es par trois voix en mani\u00e8re de dialogue, sont faites sur le sujet de la com\u00e9die, et expriment les sentiments de deux amants, qui, \u00e9tant bien ensemble, sont travers\u00e9s par le caprice des parents.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "523",
+      "category": "8",
+      "explanation": "Le terme 'AIR' indique qu'il s'agit d'une pi\u00e8ce musicale, ce qui se classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR : du Libera de la Bourbonnoise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "524",
+      "category": "4",
+      "explanation": "Le m\u00e9decin Louis XV s'avance, ce qui signifie qu'il entre en sc\u00e8ne, correspond donc \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Le m\u00e9decin Louis XV s'avance.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "525",
+      "category": "0",
+      "explanation": "RITIGER anime ses capitaines, ce qui implique une action g\u00e9n\u00e9rale de mobilisation, class\u00e9e comme action.",
+      "stgdir": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s,",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "526",
+      "category": "6",
+      "explanation": "Il lui envoie des baisers implique une interaction non verbale entre les personnages.",
+      "stgdir": "Il lui envoie des baisers.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "527",
+      "category": "5",
+      "explanation": "Edwige sort indique une sortie de sc\u00e8ne, ce qui est en accord avec la cat\u00e9gorie de sortie.",
+      "stgdir": "Edwige sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "528",
+      "category": "12",
+      "explanation": "\u00c0 Asser indique l'adresse d'un discours, se classant dans la cat\u00e9gorie vers.",
+      "stgdir": "\u00c0 Asser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "529",
+      "category": "12",
+      "explanation": "\u00c0 Nanine indique \u00e9galement l'adresse d'un discours, se classant dans la cat\u00e9gorie vers.",
+      "stgdir": "\u00c0 Nanine.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14000.40578842163,
+  "model": "gpt-4o-mini"
+}

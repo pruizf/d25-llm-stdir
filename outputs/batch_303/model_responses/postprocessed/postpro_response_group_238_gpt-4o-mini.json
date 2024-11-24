@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2370",
+      "category": "11",
+      "explanation": "La mention 'Aux Grands' fait r\u00e9f\u00e9rence \u00e0 un cadre de sc\u00e8ne ou \u00e0 un lieu sp\u00e9cifique dans la pi\u00e8ce, relevant de la description du d\u00e9cor.",
+      "stgdir": "Aux Grands.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2371",
+      "category": "3",
+      "explanation": "La direction indique un acte de donner un \u00e9crit, ce qui rel\u00e8ve du mode de livraison d'une information ou d'un message.",
+      "stgdir": "En lui donnant l'\u00e9crit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2372",
+      "category": "6",
+      "explanation": "Regarder sa montre peut \u00eatre per\u00e7u comme une interaction non verbale avec le temps, impliquant soi-m\u00eame.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2373",
+      "category": "5",
+      "explanation": "L'indication 's'en va' signifie que le personnage quitte la sc\u00e8ne, ce qui appartenait \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Lidamant s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2374",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Mademoiselle Dumeny' indique \u00e0 qui le personnage s'adresse, et cela correspond \u00e0 la notion d'addresse.",
+      "stgdir": "\u00c0 Mademoiselle Dumeny.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2375",
+      "category": "7",
+      "explanation": "Le fait que Zirph\u00e9e 'passe de l'autre c\u00f4t\u00e9 de la sc\u00e8ne' est une indication du mouvement du personnage sur sc\u00e8ne.",
+      "stgdir": "Zirph\u00e9e passe de l'autre c\u00f4t\u00e9 de la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2376",
+      "category": "9",
+      "explanation": "Cette direction est une description narrative d\u00e9taill\u00e9e d'un ballet et d'\u00e9v\u00e9nements dramatiques, ce qui la classifie comme narration.",
+      "stgdir": "Chaconne dans le grand genre, une troupe de Boh\u00e9miens. Le petit homme noir, connu dans l'Histoire de Madame Scarron, dira \u00e0 chacun sa bonne aventure, par des couplets analogues \u00e0 leur caract\u00e8re. Ballet de Boh\u00e9miens, troupe de Soldats, qui peindra l'Histoire du Grand-Cond\u00e9, quand il reprit les armes pour la France\u00a0; combats, victoire qu'il remporte sur l'ennemi. Tous se mettent \u00e0 genoux devant le Tr\u00f4ne. Les Soldats renversent leurs armes devant le Grand Cond\u00e9, et lui pr\u00e9sentent le Pavillon de l'arm\u00e9e ennemie\u00a0; pendant ce temps, le canon, les timbales, les trompettes, doivent former une musique martiale. Elle finit, piano, piano, au point qu'on doit entendre de loin un chalumeau, qui doit faire contraste avec cette grande Musique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2377",
+      "category": "9",
+      "explanation": "La description des sentiments du Duc Dessau et ses pr\u00e9occupations concernant son fr\u00e8re constitue une narration de ses \u00e9motions.",
+      "stgdir": "Dont le Duc Dessau son fr\u00e8re, ne peut supporter la folle passion et lui repr\u00e9sente, les extr\u00e9mit\u00e9s o\u00f9 il se laisse engager par son amour.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2378",
+      "category": "7",
+      "explanation": "La phrase 'Tout \u00e0 fait rapproch\u00e9' sugg\u00e8re un mouvement, potentiellement une action de se rapprocher d'un autre personnage.",
+      "stgdir": "Tout \u00e0 fait rapproch\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2379",
+      "category": "6",
+      "explanation": "Le fait qu'il 'lui pince la taille' est une interaction physique entre les personnages, qui est une forme d'interaction non verbale.",
+      "stgdir": "Il lui pince la taille, et entre. Il est dans un galant d\u00e9shabill\u00e9, s'avance \u00e0 pas de loup, il entr'ouvre les rideaux \u00e0 peine y met l'O dans sa bouche et d'une voix formidable qui fait trembler la maison.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 6051.078319549561,
+  "model": "gpt-4o-mini"
+}

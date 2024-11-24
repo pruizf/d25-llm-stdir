@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2880",
+      "category": "0",
+      "explanation": "Montrer les acteurs et actrices tragiques implique une action g\u00e9n\u00e9rale sur sc\u00e8ne.",
+      "stgdir": "En montrant les acteurs et actrices tragiques.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2881",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit l'environnement sc\u00e9nique, sp\u00e9cifiant le type de d\u00e9cor et sa disposition.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2882",
+      "category": "6",
+      "explanation": "Dorval se retourne et donne attention \u00e0 Andr\u00e9, indiquant une interaction non verbale.",
+      "stgdir": "Ici Dorval se retourne du c\u00f4t\u00e9 d'Andr\u00e9, et lui donne attention.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2883",
+      "category": "5",
+      "explanation": "L'acte de sortir avec Toinette repr\u00e9sente une sortie de sc\u00e8ne.",
+      "stgdir": "Elle sort avec Toinette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2884",
+      "category": "10",
+      "explanation": "Il \u00f4te et remet ses gants, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2885",
+      "category": "12",
+      "explanation": "Cette direction indique une adresse au Courtisan, impliquant une communication cibl\u00e9e.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2886",
+      "category": "11",
+      "explanation": "Cette direction repr\u00e9sente un d\u00e9cor sp\u00e9cifique, d\u00e9crivant un lieu sc\u00e9nique.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Mont Aetna environn\u00e9 d'\u00e9paisses for\u00eats.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2887",
+      "category": "6",
+      "explanation": "Le fait que Ch\u00e9rubin et Fanchette se regardent pendant un dialogue indique une interaction non verbale.",
+      "stgdir": "Ch\u00e9rubin et Fanchette se regardent pendant le dialogue suivant, et forment une sc\u00e8ne muette et int\u00e9ressante.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2888",
+      "category": "0",
+      "explanation": "Frappant \u00e0 la porte implique une action g\u00e9n\u00e9rale.",
+      "stgdir": "On frappe \u00e0 la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2889",
+      "category": "1",
+      "explanation": "En gesticulant et en brouillant tout l'\u00e9cheveau, cela peut impliquer une forme d'agression ou de conflit.",
+      "stgdir": "En gesticulant il brouille tout l'\u00e9cheveau.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 4776.662588119507,
+  "model": "gpt-4o-mini"
+}

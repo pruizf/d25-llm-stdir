@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2810",
+      "category": "8",
+      "explanation": "Cette direction indique que les violons jouent une marche, ce qui correspond \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2811",
+      "category": "3",
+      "explanation": "Le personnage pleure, ce qui peut \u00eatre consid\u00e9r\u00e9 comme une expression de l'\u00e9motion, donc cela s'inscrit dans la cat\u00e9gorie de la livraison et de l'expression \u00e9motionnelle.",
+      "stgdir": "Il pleure.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2812",
+      "category": "0",
+      "explanation": "Peindre est une action g\u00e9n\u00e9rale que l'on cat\u00e9gorise sous l'action.",
+      "stgdir": "Il peint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2813",
+      "category": "3",
+      "explanation": "Il s'agit d'un air, donc cela concerne la mani\u00e8re dont le personnage chante, plac\u00e9e dans la cat\u00e9gorie de la livraison.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2814",
+      "category": "0",
+      "explanation": "Manger est une action g\u00e9n\u00e9rale d\u00e9crite ici, donc cela correspond \u00e0 la cat\u00e9gorie d'action.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2815",
+      "category": "6",
+      "explanation": "Serrer affectueusement la main implique une interaction interpersonnelle, ce qui le place dans la cat\u00e9gorie d'interaction.",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2816",
+      "category": "0",
+      "explanation": "Chercher un objet (le sac d'or ici) est une action g\u00e9n\u00e9rale, donc cela appartient \u00e0 la cat\u00e9gorie d'action.",
+      "stgdir": "Il va chercher le sac d'or.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2817",
+      "category": "7",
+      "explanation": "Continuer \u00e9tant seul indique un mouvement ou une action sans d'autres interactions, ce qui en fait une cat\u00e9gorie de mouvement.",
+      "stgdir": "Il continue, \u00e9tant seul.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2818",
+      "category": "3",
+      "explanation": "C'est un air o\u00f9 le personnage chante, appartenant \u00e0 la cat\u00e9gorie de la livraison.",
+      "stgdir": "AIR. Oui, j'ai tout vu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2819",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage voit la Princesse, ce qui implique une anticipation ou une adresse, cat\u00e9goris\u00e9e comme 'toward'.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5002.259969711304,
+  "model": "gpt-4o-mini"
+}

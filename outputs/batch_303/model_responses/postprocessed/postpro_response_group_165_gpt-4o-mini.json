@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1640",
+      "category": "12",
+      "explanation": "Indique la personne \u00e0 laquelle un personnage s'adresse.",
+      "stgdir": "\u00c0 Mignonnet",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1641",
+      "category": "7",
+      "explanation": "Les deux femmes remontent, ce qui implique un mouvement des personnages.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1642",
+      "category": "0",
+      "explanation": "Il frappe \u00e0 une autre porte, une action g\u00e9n\u00e9rale d\u00e9crivant un acte physique sans connotation d'agression.",
+      "stgdir": "Il frappe \u00e0 une autre porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1643",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse \u00e0 \u00c9douard.",
+      "stgdir": "\u00c0 \u00c9douard.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1644",
+      "category": "9",
+      "explanation": "Cette direction a une qualit\u00e9 narrative, d\u00e9crivant des actions de mani\u00e8re d\u00e9taill\u00e9e.",
+      "stgdir": "Au m\u00eame temps les Ambassadeurs de Ritiger redoublent leur demande, mais non pas avec un meilleur succ\u00e8s que la premi\u00e8re fois ; sinon que par une adresse secr\u00e8te ils laissent leur bague dans le Palais de cette Reine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1645",
+      "category": "10",
+      "explanation": "Ubalde pr\u00e9sente un objet (le bouclier de diamant), ce qui concerne l'interaction avec un objet.",
+      "stgdir": "Ubalde pr\u00e9sente le bouclier de diamant aux yeux de Renaud.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1646",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un salon tr\u00e8s orn\u00e9, ce qui d\u00e9crit le cadre et l'environnement de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon tr\u00e8s orn\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1647",
+      "category": "0",
+      "explanation": "Un moment sans rien dire, bien qu'il soit statique, il peut \u00eatre consid\u00e9r\u00e9 comme une action de silence.",
+      "stgdir": "Un moment sans rien dire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1648",
+      "category": "8",
+      "explanation": "AIR. Perrette \u00e9tant dessus l'herbette indique une direction musicale li\u00e9e \u00e0 une chanson.",
+      "stgdir": "AIR. Perrette \u00e9tant dessus l'herbette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1649",
+      "category": "10",
+      "explanation": "Il plonge son doigt dans l'encrier, une interaction avec un objet.",
+      "stgdir": "Il plonge son doigt dans l'encrier.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 9614.495038986206,
+  "model": "gpt-4o-mini"
+}

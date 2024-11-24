@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1700",
+      "category": "3",
+      "explanation": "L'expression de sentiments en voyant quelqu'un est li\u00e9e \u00e0 la mani\u00e8re de livrer une \u00e9motion.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1701",
+      "category": "9",
+      "explanation": "Entendre un personnage dans une sc\u00e8ne indique une narration de l'environnement sonore.",
+      "stgdir": "Il entend La Marquise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1702",
+      "category": "4",
+      "explanation": "La mention de personnages entrant sur sc\u00e8ne les classe dans la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Valentin sort. On voit des hommes qui portent des torches, r\u00f4der \u00e0 travers la for\u00eat. Entrent la baronne et l'abb\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1703",
+      "category": "0",
+      "explanation": "Se mettre \u00e0 genoux est une action g\u00e9n\u00e9rale r\u00e9alis\u00e9e par un personnage.",
+      "stgdir": "Il se met \u00e0 genoux devant elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1704",
+      "category": "10",
+      "explanation": "Pr\u00e9senter une \u00e9p\u00e9e implique une interaction avec un objet, en l\u2019occurrence l'\u00e9p\u00e9e.",
+      "stgdir": "Il lui pr\u00e9sente son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1705",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Aldamon' indique l'adresse d'une r\u00e9plique \u00e0 un personnage sp\u00e9cifique.",
+      "stgdir": "\u00c0 Aldamon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1706",
+      "category": "8",
+      "explanation": "La mention d'un air fait r\u00e9f\u00e9rence \u00e0 une musique, signal\u00e9e par le mot 'Air'.",
+      "stgdir": "Air : Un Pr\u00e9fet beau, bien fait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1707",
+      "category": "7",
+      "explanation": "S'arr\u00eater est une indication de mouvement, celle de cesser de se d\u00e9placer.",
+      "stgdir": "S'arr\u00eatant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1708",
+      "category": "8",
+      "explanation": "AIR 121 fait r\u00e9f\u00e9rence \u00e0 une musique, ce qui classe cette direction dans la cat\u00e9gorie musique.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1709",
+      "category": "0",
+      "explanation": "Boire est une action g\u00e9n\u00e9rale effectu\u00e9e par les personnages.",
+      "stgdir": "Ils boivent tous trois.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5784.603834152222,
+  "model": "gpt-4o-mini"
+}

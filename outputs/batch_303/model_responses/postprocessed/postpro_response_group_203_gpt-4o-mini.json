@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2020",
+      "category": 8,
+      "explanation": "Il s'agit d'une indication musicale, indiquant le nom d'un air (Branle de Metz).",
+      "stgdir": "Air : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2021",
+      "category": 9,
+      "explanation": "Cette direction d\u00e9crit un bruit, ce qui implique un \u00e9l\u00e9ment narratif ou descriptif li\u00e9 \u00e0 l'environnement.",
+      "stgdir": "On entend un certain bruit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2022",
+      "category": 3,
+      "explanation": "L'expression 'd'un air de confiance' se r\u00e9f\u00e8re \u00e0 la mani\u00e8re dont un personnage se pr\u00e9sente, impliquant des \u00e9l\u00e9ments de livraison et d'\u00e9motion.",
+      "stgdir": "D'un air de confiance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2023",
+      "category": 0,
+      "explanation": "L'action de 'ouvrir la lettre' est une action g\u00e9n\u00e9rale impliquant un objet, mais c'est avant tout un acte r\u00e9alis\u00e9 par le personnage.",
+      "stgdir": "Elle ouvre la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2024",
+      "category": 5,
+      "explanation": "La disparition de Mercure implique une sortie ou un d\u00e9part du personnage, ce qui correspond \u00e0 une action d'exit.",
+      "stgdir": "Mercure dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2025",
+      "category": 8,
+      "explanation": "Il s'agit encore d'une indication musicale avec le nom de l'air (L'occasion fait le larron).",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2026",
+      "category": 5,
+      "explanation": "La 't\u00eate de Georges dispara\u00eet' indique un d\u00e9part ou une absence, ce qui correspond \u00e0 une action d'exit.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2027",
+      "category": 8,
+      "explanation": "Ceci est une indication musicale, avec le titre d'un air (Nous autre bons villageois).",
+      "stgdir": "AIR. Nous autre bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2028",
+      "category": 0,
+      "explanation": "L'expression 'apr\u00e8s avoir lu' implique une action effectu\u00e9e par le personnage en relation avec une autre action, sans \u00eatre sp\u00e9cifique \u00e0 d'autres cat\u00e9gories.",
+      "stgdir": "\u00c0pr\u00e8s avoir lu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2029",
+      "category": 6,
+      "explanation": "L'action de 'taper dans une main' est une interaction non verbale entre deux personnages.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 5649.422645568848,
+  "model": "gpt-4o-mini"
+}

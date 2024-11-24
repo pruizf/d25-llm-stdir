@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "480",
+      "category": "3",
+      "explanation": "The stage direction expresses a manner of speaking, indicating a tone of complaint, which relates to the delivery of the line.",
+      "stgdir": "Air 84 : De quoi vous plaignez-vous.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "481",
+      "category": "10",
+      "explanation": "This stage direction involves the action of giving a letter, which is a manipulation of an object.",
+      "stgdir": "Donnant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "482",
+      "category": "6",
+      "explanation": "This direction describes a series of interactions between characters involving the exchange of money and a particular interest in an object (the diamond).",
+      "stgdir": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "483",
+      "category": "3",
+      "explanation": "The description of the bishop's eyes expressing anger indicates an emotional delivery, reflecting the character's feelings.",
+      "stgdir": "Une col\u00e8re, en \u00e9clairs, passe dans les yeux de l'\u00e9v\u00eaque ; mais il se contient jusqu'aux derni\u00e8res paroles de",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "484",
+      "category": "2",
+      "explanation": "This direction indicates a character speaking aside, directing their words to the audience rather than to other characters.",
+      "stgdir": "Ariste \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "485",
+      "category": "9",
+      "explanation": "Strophe VII refers to a part of a poem or song, fitting the narrative quality often associated with longer poetic sections.",
+      "stgdir": "Strophe VII.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "486",
+      "category": "9",
+      "explanation": "The indication of silence implies a pause in action, contributing to the narrative flow of the scene.",
+      "stgdir": "Apr\u00e8s un silence...",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "487",
+      "category": "4",
+      "explanation": "This direction describes a character entering the stage, fitting the category of entrance.",
+      "stgdir": "Apercevant Mademoiselle Damour.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "488",
+      "category": "4",
+      "explanation": "This describes multiple characters entering the stage in a specific arrangement, which belongs to the entrance category.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "489",
+      "category": "11",
+      "explanation": "This direction describes a setting or a group of characters (magicians and demons) which suggests a particular theme or atmosphere in the scene.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 7753.6211013793945,
+  "model": "gpt-4o-mini"
+}

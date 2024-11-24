@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "840",
+      "category": "1",
+      "explanation": "L'action de 'se jeter aux pieds' implique un acte d'adoration ou de supplication, qui peut \u00eatre consid\u00e9r\u00e9 comme une forme d'agression \u00e9motionnelle ou de d\u00e9sespoir.",
+      "stgdir": "Il se jette aux pieds de Sophie.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "841",
+      "category": "4",
+      "explanation": "La mention de '\u00c0 Soliman' sugg\u00e8re une sorte d'entr\u00e9e, probablement indiquant une action sc\u00e9nique o\u00f9 un personnage entre en sc\u00e8ne.",
+      "stgdir": "\u00c0 Soliman.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "842",
+      "category": "6",
+      "explanation": "Le fait que 'Dorante et Ang\u00e9lique se regardent tous deux' sugg\u00e8re une interaction non verbale entre les deux personnages.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "843",
+      "category": "4",
+      "explanation": "La phrase 'Sophar rentre dans la maison' indique clairement l'entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Sophar rentre dans la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "844",
+      "category": "9",
+      "explanation": "La mention d'un 'coup de feu' est une indication d'un \u00e9v\u00e9nement marquant dans la narration, souvent per\u00e7u comme une action dramatique.",
+      "stgdir": "On entend un coup de feu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "845",
+      "category": "3",
+      "explanation": "Le fait qu'elle 'lit s'\u00e9crie' indique une mani\u00e8re de livrer un dialogue avec une certaine \u00e9motion ou puissance, ce qui rel\u00e8ve de la cat\u00e9gorie de delivery.",
+      "stgdir": "Elle lit s'\u00e9crie :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "846",
+      "category": "0",
+      "explanation": "L'action 'Il va le chercher' est une action g\u00e9n\u00e9rale qui ne tombe sous aucune cat\u00e9gorie sp\u00e9cifique que celles \u00e9nonc\u00e9es.",
+      "stgdir": "Il va le chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "847",
+      "category": "10",
+      "explanation": "On 'lui pr\u00e9sente les deux l\u00e9vriers', ce qui implique la manipulation d'objets (dans ce cas, des animaux) et leur pr\u00e9sentation \u00e0 un personnage.",
+      "stgdir": "On lui pr\u00e9sente les deux l\u00e9vriers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "848",
+      "category": "7",
+      "explanation": "L'action 'Robespierre s'approche' d\u00e9crit un mouvement vers un autre personnage ou un endroit, sans sp\u00e9cifier une entr\u00e9e ou une sortie.",
+      "stgdir": "Robespierre s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "849",
+      "category": "0",
+      "explanation": "L'action 'Joseph et Victorine tombent \u00e0 genoux' peut \u00eatre consid\u00e9r\u00e9e comme une action sans cat\u00e9gorie sp\u00e9cifique, bien qu'elle implique une action physique de pri\u00e8re ou de supplication.",
+      "stgdir": "Joseph et Victorine tombent \u00e0 genoux.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5694.227457046509,
+  "model": "gpt-4o-mini"
+}

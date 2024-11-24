@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2680",
+      "category": "11",
+      "explanation": "Cette direction de sc\u00e8ne indique un lieu g\u00e9ographique, ce qui correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "\u00c0 Zirph\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2681",
+      "category": "0",
+      "explanation": "L'action de reprendre une \u00e9p\u00e9e par Th\u00e9s\u00e9e est une action g\u00e9n\u00e9rale et ne correspond \u00e0 aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2682",
+      "category": "3",
+      "explanation": "L'expression 'Avec beaucoup d'ironie' d\u00e9crit l'\u00e9motion avec laquelle les personnages interagissent, ce qui correspond \u00e0 la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Avec beaucoup d'ironie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2683",
+      "category": "11",
+      "explanation": "Cette direction mentionne une ville, ce qui entre dans la cat\u00e9gorie 'setting'.",
+      "stgdir": "\u00c0 Venise.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2684",
+      "category": "9",
+      "explanation": "Cette description d\u00e9taill\u00e9e des personnages (Osages) et de leurs costumes a une qualit\u00e9 narrative qui correspond \u00e0 la cat\u00e9gorie 'narration'.",
+      "stgdir": "Les Osages portent d'\u00e9normes casse-t\u00eates ; leurs cheveux peints en rouge sont entrelac\u00e9s de plumes jaunes et noires. Des serpents et des peaux de tigres leurs servent de ceintures-carquois, d'\u00e9corce d'arbre, arcs et boucliers, avec la figure Dareski.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2685",
+      "category": "0",
+      "explanation": "On frappe de nouveau indique une action qui ne correspond pas \u00e0 une autre cat\u00e9gorie plus sp\u00e9cifique.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2686",
+      "category": "6",
+      "explanation": "Cette action de baiser indique une interaction entre deux personnages, d'o\u00f9 la classification en 'interaction'.",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2687",
+      "category": "8",
+      "explanation": "La mention d'un 'AIR' implique qu'il s'agit d'une chanson ou d'une musique, ce qui correspond \u00e0 la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR: Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2688",
+      "category": "9",
+      "explanation": "L'expression 'L'examinant encore' indique une action qui a une qualit\u00e9 narrative, en lien avec l'examen d'un personnage.",
+      "stgdir": "L'examinant encore.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2689",
+      "category": "10",
+      "explanation": "L'action d'\u00f4ter des fers implique une interaction avec un objet, donc elle rel\u00e8ve de la cat\u00e9gorie 'object'.",
+      "stgdir": "Il lui \u00f4te ses fers.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 8845.908641815186,
+  "model": "gpt-4o-mini"
+}

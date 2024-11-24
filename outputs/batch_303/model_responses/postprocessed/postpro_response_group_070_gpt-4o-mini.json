@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "690",
+      "category": "0",
+      "explanation": "Il s'agit d'un moment de silence partag\u00e9 entre les personnages, ce qui peut \u00eatre interpr\u00e9t\u00e9 comme une action g\u00e9n\u00e9rale de pr\u00e9sence.",
+      "stgdir": "Ils restent tous deux un instant dans le silence.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "691",
+      "category": "9",
+      "explanation": "Cette direction donne une description narrative des bruits et du temps qui passent, ce qui en fait un passage de narration.",
+      "stgdir": "Abois de chiens sur la route... Autos qui passent... Silence. Deux heures, bruits d'autos... Silence. Trois heures... Chants du coq se r\u00e9pandant dans la campagne... Silence. Quatre heures...",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "692",
+      "category": "6",
+      "explanation": "Les personnages se masquent et prennent des v\u00eatements, ce qui implique une interaction non-verbale entre eux.",
+      "stgdir": "L\u00e0, ils se masquent, et prennent les casaques des morts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "693",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit une sc\u00e8ne longue avec plusieurs personnages et leur interaction, ce qui donne une qualit\u00e9 narrative.",
+      "stgdir": "Les prisonniers ramassent leurs outils, s'accouplent en silence et sortent la t\u00eate basse sous le fouet du soldat. Guanhumara repara\u00eet sur la galerie haute et les suit des yeux. Au moment o\u00f9 les prisonniers disparaissent, entrent par la grande porte R\u00e9gina, Edwige et Otbert ; R\u00e9gina, v\u00eatue de blanc ; Edwige, la nourrice, vieille, v\u00eatue de noir ; Otbert, en habit de capitaine aventurier, avec le coutelas et la grande \u00e9p\u00e9e ; R\u00e9gina, toute jeune, pale, accabl\u00e9e et se tra\u00eenant \u00e0 peine, comme une personne malade depuis longtemps et presque mourante. Elle se penche sur le bras d'Otbert, qui la soutient et fixe sur elle un regard plein d'angoisse et d'amour. Edwige la suit. Guanhumara, sans \u00eatre vue d'aucun des trois, les observe et les \u00e9coute quelques instants, puis sort par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 elle est entr\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "694",
+      "category": "11",
+      "explanation": "La description du d\u00e9cor indique l'emplacement du th\u00e9\u00e2tre, pla\u00e7ant ainsi la sc\u00e8ne dans un cadre sp\u00e9cifique.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une grande Salle de Spectacle, o\u00f9 l'on voit une troupe de Peuples de diff\u00e9rents Provinces, qui forment le d\u00e9but de ce Prologue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "695",
+      "category": "6",
+      "explanation": "L'action de saisir la main de son p\u00e8re t\u00e9moigne d'une interaction non-verbale entre les personnages.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "696",
+      "category": "12",
+      "explanation": "La mention de '\u00c0 B\u00e9r\u00e9nice' semble d\u00e9signer une adresse ou une destination, indiquant vers qui ou quoi le personnage se tourne.",
+      "stgdir": "\u00c0 B\u00e9r\u00e9nice.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "697",
+      "category": "8",
+      "explanation": "Cette direction concerne la musique avec l'indication d'un air, ce qui en fait une direction de musique.",
+      "stgdir": "Air : Dondaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "698",
+      "category": "4",
+      "explanation": "Ici, les personnages rentrent, ce qui fait d'eux une entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Ils rentrent, \u00e0 la r\u00e9serve de Paquette, et de Champagne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "699",
+      "category": "7",
+      "explanation": "Le fait qu'un personnage se penche \u00e0 la fen\u00eatre implique un mouvement, mais sans entrer ou sortir de la sc\u00e8ne.",
+      "stgdir": "Elle se penche \u00e0 la fen\u00eatre.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 6096.217155456543,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "170",
+      "category": "5",
+      "explanation": "The action describes characters exiting a cave, which fits the definition of an exit.",
+      "confidence": "1",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "8",
+      "explanation": "This stage direction indicates a musical piece, as it starts with 'AIR', which denotes a tune or song.",
+      "confidence": "1",
+      "stgdir": "AIR : Les filles de Nanterre,",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "0",
+      "explanation": "The action of listening is a general character action that does not fit any specific categories, thus it falls under action.",
+      "confidence": "1",
+      "stgdir": "Ils \u00e9coutent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "12",
+      "explanation": "This direction indicates that a character is addressing Guillaume, thus it fits under the 'toward' category for indicating an addressee.",
+      "confidence": "1",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "8",
+      "explanation": "The term 'SONNET' refers to a type of poem that is often recited or sung, fitting it into the music category.",
+      "confidence": "1",
+      "stgdir": "SONNET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "4",
+      "explanation": "The phrase indicates that Timag\u00e8ne is entering onto the stage, which fits the definition of entrance.",
+      "confidence": "1",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "6",
+      "explanation": "This direction indicates an interaction between Don C\u00e9sar and Isabelle when receiving her hand, which involves non-verbal interaction.",
+      "confidence": "1",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "0",
+      "explanation": "Sitting at a table is a general character action and does not fit any other specific category.",
+      "confidence": "1",
+      "stgdir": "Ils s'attablent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "3",
+      "explanation": "The use of 'AIR' here indicates a musical performance, suggesting an emotional delivery as the character sings, fitting the delivery category.",
+      "confidence": "1",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "Similar to the previous music indication, this also starts with 'Air', confirming it as a music-related direction.",
+      "confidence": "1",
+      "stgdir": "Air : La b\u00e9quille du P\u00e8re Barnaba.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6281.793117523193,
+  "model": "gpt-4o-mini"
+}

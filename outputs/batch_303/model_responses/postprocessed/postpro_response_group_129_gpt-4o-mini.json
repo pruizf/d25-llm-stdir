@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1280",
+      "category": 6,
+      "explanation": "Des valets suspendent des dominos aux crois\u00e9es est une interaction non-verbale entre les valets et les accessoires propos\u00e9s, impliquant un mouvement coordonn\u00e9.",
+      "stgdir": "Des valets suspendent des dominos aux crois\u00e9es.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1281",
+      "category": 12,
+      "explanation": "\u00c0 son a\u00een\u00e9e indique la direction d'une parole ou d'une action, pr\u00e9cisant l'adresse d'un personnage.",
+      "stgdir": "\u00c0 son a\u00een\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1282",
+      "category": 6,
+      "explanation": "Ils tendent tous deux la main, et prennent l'argent implique une interaction non-verbale entre deux personnages, en se passant de l'argent.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1283",
+      "category": 9,
+      "explanation": "Cette direction sc\u00e9nique d\u00e9crit une c\u00e9r\u00e9monie burlesque avec des personnages, des actions et des mises en sc\u00e8ne, offrant un contexte narratif riche.",
+      "stgdir": "C'est une c\u00e9r\u00e9monie burlesque d'un homme qu'on fait m\u00e9decin en r\u00e9cit, chant, et danse. Plusieurs tapissiers viennent pr\u00e9parer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assembl\u00e9e, compos\u00e9e de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir m\u00e9decin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1284",
+      "category": 8,
+      "explanation": "Air 30 : Lanturlu indique une m\u00e9lodie sp\u00e9cifique qui sera jou\u00e9e, classifiant ainsi cette direction comme musicale.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1285",
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne de la pi\u00e8ce, en fournissant une description du lieu.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1286",
+      "category": 12,
+      "explanation": "Au Cadet indique une direction claire vers un personnage, ce qui le classe comme une indication d'adresse.",
+      "stgdir": "Au Cadet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1287",
+      "category": 6,
+      "explanation": "Lui d\u00e9signant la table implique une interaction gestuelle pour montrer ou indiquer quelque chose, classifi\u00e9e comme interaction.",
+      "stgdir": "Lui d\u00e9signant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1288",
+      "category": 10,
+      "explanation": "Elle lui pr\u00e9sente un petit miroir implique l'action de donner un objet, ainsi il s'agit d'une interaction avec un objet.",
+      "stgdir": "Elle lui pr\u00e9sente un petit miroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1289",
+      "category": 0,
+      "explanation": "Se rattrapant d\u00e9crit une action g\u00e9n\u00e9rale de rattraper quelqu'un ou quelque chose, qui ne correspond pas sp\u00e9cifiquement \u00e0 d'autres cat\u00e9gories.",
+      "stgdir": "Se rattrapant.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5519.262075424194,
+  "model": "gpt-4o-mini"
+}

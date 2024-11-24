@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1930",
+      "category": "0",
+      "explanation": "L'action d\u00e9crite est qu'Ang\u00e9lique se voit dans le miroir et se sent laide, ce qui est une action g\u00e9n\u00e9rale de regarder et de ressentir.",
+      "stgdir": "On apporte un grand Miroir, Ang\u00e9lique s'y voit fort laide, et s'en va toute f\u00e2ch\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1931",
+      "category": "5",
+      "explanation": "Le fait qu'elle 'sort' avec Lisette indique une sortie du personnage de la sc\u00e8ne.",
+      "stgdir": "Elle sort avec Lisette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1932",
+      "category": "12",
+      "explanation": "La direction '\u00c0 Antoine, qui veut parler' indique \u00e0 qui s'adresse le personnage, donc elle se rapporte \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Antoine, qui veut parler.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1933",
+      "category": "12",
+      "explanation": "Comme pour la direction pr\u00e9c\u00e9dente, '\u00c0 Monsieur de Chambre' indique l'adressage du personnage, faisant partie de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1934",
+      "category": "4",
+      "explanation": "Cette direction indique qu'un personnage entre sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Elle entre \u00e0 gauche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1935",
+      "category": "8",
+      "explanation": "Le terme 'Sonnet' peut \u00eatre interpr\u00e9t\u00e9 comme une r\u00e9f\u00e9rence \u00e0 la musique ou \u00e0 un po\u00e8me chant\u00e9, donc cela correspond \u00e0 la cat\u00e9gorie 'music'.",
+      "stgdir": "Sonnet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1936",
+      "category": "0",
+      "explanation": "Il s'agit d'une action g\u00e9n\u00e9rale de manger, ce qui entre dans la cat\u00e9gorie 'action'.",
+      "stgdir": "Il mange goul\u00fbment.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1937",
+      "category": "1",
+      "explanation": "Le fait que Justine se d\u00e9fende implique une forme d'agression ou de confrontation, donc cela est class\u00e9 dans la cat\u00e9gorie 'aggression'.",
+      "stgdir": "Justine se d\u00e9fend.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1938",
+      "category": "3",
+      "explanation": "R\u00e9p\u00e9ter des vers est li\u00e9 \u00e0 la mani\u00e8re dont le personnage livre ou exprime une partie du texte, ce qui se rattache \u00e0 la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1939",
+      "category": "1",
+      "explanation": "On \u00e9gorge les victimes implique une action violente, ce qui en fait une cat\u00e9gorie d'agression.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 6880.215644836426,
+  "model": "gpt-4o-mini"
+}

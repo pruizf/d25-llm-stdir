@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "280",
+      "category": "8",
+      "explanation": "Le terme 'chant\u00e9' indique qu'il s'agit de musique, ce qui convient \u00e0 la cat\u00e9gorie de la musique.",
+      "confidence": 1.0,
+      "stgdir": "Tout ce reste est chant\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "7",
+      "explanation": "Montrer son front implique un mouvement physique pour exposer une partie du corps, ce qui correspond \u00e0 la cat\u00e9gorie de mouvement.",
+      "confidence": 0.9,
+      "stgdir": "Montrant son front.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "4",
+      "explanation": "L'entr\u00e9e d'Auguste avec un plateau sugg\u00e8re une action d'entr\u00e9e sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "confidence": 1.0,
+      "stgdir": "Auguste rentre avec un plateau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "3",
+      "explanation": "Le terme 'AIR' suivi de paroles indique une expression musicale, ce qui r\u00e9affirme la cat\u00e9gorie de livrer une chanson.",
+      "confidence": 1.0,
+      "stgdir": "AIR. Non, toujours dire non.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "3",
+      "explanation": "Continuer \u00e0 parler se rapporte \u00e0 la mani\u00e8re dont un personnage livre ses paroles, donc cela correspond \u00e0 la cat\u00e9gorie de livraison.",
+      "confidence": 0.9,
+      "stgdir": "Il continue toujours \u00e0 parler.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "4",
+      "explanation": "Le terme 'On entre' indique \u00e9galement une action d'entr\u00e9e, ce qui correspond \u00e0 cette cat\u00e9gorie.",
+      "confidence": 1.0,
+      "stgdir": "On entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "0",
+      "explanation": "Se lever est consid\u00e9r\u00e9 comme une action g\u00e9n\u00e9rale, ce qui cadre bien avec la cat\u00e9gorie d'action.",
+      "confidence": 0.8,
+      "stgdir": "Th\u00e9r\u00e8se et Madame Raquin se l\u00e8vent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "8",
+      "explanation": "Le terme 'TROISI\u00c8ME COUPLET' sugg\u00e8re une chanson ou une partie musicale, ce qui indique une cat\u00e9gorie musicale.",
+      "confidence": 1.0,
+      "stgdir": "TROISI\u00c8ME COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "8",
+      "explanation": "Le terme 'ODE \u00c9PITHALAMIQUE' indique \u00e9galement un chant ou une musique, donc il rel\u00e8ve de la cat\u00e9gorie musicale.",
+      "confidence": 1.0,
+      "stgdir": "ODE \u00c9PITHALAMIQUE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "11",
+      "explanation": "La description 'Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre' mentionne une sc\u00e8ne sp\u00e9cifique, qui revient \u00e0 la description du cadre ou de l'environnement, relevant de la cat\u00e9gorie de cadre.",
+      "confidence": 1.0,
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 8398.816585540771,
+  "model": "gpt-4o-mini"
+}

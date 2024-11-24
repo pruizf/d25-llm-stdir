@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2270",
+      "category": "10",
+      "explanation": "Il remet une lettre \u00e0 Ar\u00e9taphile. This involves giving an object (the letter), thus it falls under the object category.",
+      "stgdir": "Il remet une lettre \u00e0 Ar\u00e9taphile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2271",
+      "category": "6",
+      "explanation": "Les yeux du mort ayant rencontr\u00e9 ceux de l'avocat G\u00e9n\u00e9ral, s'immobilisent. This describes a non-verbal interaction (the gaze between the two characters), which fits the interaction category.",
+      "stgdir": "Les yeux du mort ayant rencontr\u00e9 ceux de l'avocat G\u00e9n\u00e9ral, s'immobilisent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2272",
+      "category": "11",
+      "explanation": "\u00c0 Darie. This suggests a setting context without action or description, categorizing it under setting.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2273",
+      "category": "11",
+      "explanation": "\u00c0 l'Eth\u00e9r\u00e9e. Similar to the previous, this indicates a location without further context, fitting the setting category.",
+      "stgdir": "\u00c0 l'Eth\u00e9r\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2274",
+      "category": "5",
+      "explanation": "Sort la bonne. This indicates an exit (the maid leaves), which is classified under the exit category.",
+      "stgdir": "Sort la bonne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2275",
+      "category": "8",
+      "explanation": "AIR : Dans ma cabane obscure. This starts with 'AIR', indicating a musical piece or tune, thus categorized under music.",
+      "stgdir": "AIR : Dans ma cabane obscure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2276",
+      "category": "12",
+      "explanation": "\u00c0 Sganarelle. This indicates the addressee of speech or action, fitting the toward category.",
+      "stgdir": "\u00c0 Sganarelle",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2277",
+      "category": "9",
+      "explanation": "Nota. Pendant ce monologue, la toilette va toujours. This has a narrative quality describing the ongoing action during a monologue, which fits in narration.",
+      "stgdir": "Nota. Pendant ce monologue, la toilette va toujours.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2278",
+      "category": "6",
+      "explanation": "D\u00e9signant du pied une dalle. This describes a non-verbal action of pointing, which fits under interaction.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2279",
+      "category": "2",
+      "explanation": "Puis, \u00e9tant seul. This implies a moment of solitude or addressing the audience, categorizing it as aparte.",
+      "stgdir": "Puis, \u00e9tant seul.",
+      "categFull": "aparte"
+    }
+  ],
+  "response_time": 6211.942672729492,
+  "model": "gpt-4o-mini"
+}

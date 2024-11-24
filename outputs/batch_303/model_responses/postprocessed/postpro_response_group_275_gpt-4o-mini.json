@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2740",
+      "category": 12,
+      "explanation": "This stage direction indicates the character Marco is being addressed, suggesting the addressee of a speech.",
+      "stgdir": "\u00c0 Marco.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2741",
+      "category": 4,
+      "explanation": "This stage direction signifies that the character \u00c9lise is entering the stage.",
+      "stgdir": "\u00c9lise entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2742",
+      "category": 6,
+      "explanation": "This direction describes a physical interaction (embracing) between characters, which is a form of non-verbal interaction.",
+      "stgdir": "Ils s'embrassent",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2743",
+      "category": 12,
+      "explanation": "This indicates that the character B\u00eame is being addressed, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 B\u00eame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2744",
+      "category": 8,
+      "explanation": "The word 'AIR' indicates that this is a musical direction, referring to a song or tune the character is involved with.",
+      "stgdir": "AIR : Je n'en dirai pas davantage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2745",
+      "category": 7,
+      "explanation": "This indicates a character's movement as they are looking at Rouqu\u00e9rolle.",
+      "stgdir": "Regardant Rouqu\u00e9rolle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2746",
+      "category": 3,
+      "explanation": "This direction depicts a character's action combined with an emotional delivery (acting surprised), which often relates to vocal expression.",
+      "stgdir": "Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2747",
+      "category": 8,
+      "explanation": "Similar to the previous musical direction, the word 'AIR' indicates a tune or song that is referenced.",
+      "stgdir": "AIR : Tique tique taque lon lan la.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2748",
+      "category": 6,
+      "explanation": "This indicates that the characters Pluton and Proserpine are interacting together, indicating an interaction without verbal communication.",
+      "stgdir": "Pluton et Proserpine ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2749",
+      "category": 12,
+      "explanation": "This stage direction shows that the character Dorante is being addressed in speech.",
+      "stgdir": "\u00c0 Dorante.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8635.93077659607,
+  "model": "gpt-4o-mini"
+}

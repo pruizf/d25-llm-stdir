@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1460",
+      "category": "9",
+      "explanation": "Sons indistincts describes a non-specific sound, which aligns with the narration category.",
+      "stgdir": "Sons indistincts.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1461",
+      "category": "12",
+      "explanation": "\u00c0 Hortensius indicates the direction of speech toward a character, fitting the toward category.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1462",
+      "category": "10",
+      "explanation": "Elle lui pr\u00e9sente la lettre de Caliste refers to the act of presenting an object (the letter), which is an interaction with an object.",
+      "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1463",
+      "category": "6",
+      "explanation": "Il le prend par la main describes a non-verbal physical interaction between characters.",
+      "stgdir": "Il le prend par la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1464",
+      "category": "5",
+      "explanation": "Les porteurs se retirent indicates characters exiting the stage, fitting the exit category.",
+      "stgdir": "Les porteurs se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1465",
+      "category": "10",
+      "explanation": "Bernard prend le portefeuille describes interaction with an object (the portfolio), thus belongs to the object category.",
+      "stgdir": "Bernard prend le portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1466",
+      "category": "5",
+      "explanation": "Il sort en courant describes a character's exit from the stage, fitting the exit category.",
+      "stgdir": "Il sort en courant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1467",
+      "category": "8",
+      "explanation": "AIR : Des Pendus is explicitly labeled as a music direction, categorizing it as music.",
+      "stgdir": "AIR : Des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1468",
+      "category": "6",
+      "explanation": "En embrassant Monsieur Devaux indicates a non-verbal action of interaction, fitting the interaction category.",
+      "stgdir": "En embrassant Monsieur Devaux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1469",
+      "category": "3",
+      "explanation": "On offre des pr\u00e9sents refers to giving presents, which involves delivery of objects, aligning it with the delivery category.",
+      "stgdir": "On offre des pr\u00e9sents.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 5415.653228759766,
+  "model": "gpt-4o-mini"
+}

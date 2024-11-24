@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1040",
+      "category": "10",
+      "explanation": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue. This involves an object (the 24 sols and the songs) being given and taken.",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1041",
+      "category": "12",
+      "explanation": "\u00c0 Gaston. This indicates that the direction is toward a specific person, Gaston.",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1042",
+      "category": "12",
+      "explanation": "\u00c0 Villebrequin. Similar to the previous, this indicates that the direction is toward Villebrequin.",
+      "stgdir": "\u00c0 Villebrequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1043",
+      "category": "7",
+      "explanation": "Elles retournent \u00e0 leur place. This describes a movement of characters returning to their places.",
+      "stgdir": "Elles retournent \u00e0 leur place.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1044",
+      "category": "9",
+      "explanation": "Apollon descend sur un tr\u00f4ne de lumi\u00e8re. Cette pompe est jointe \u00e0 une musique douce. This direction narrates an event involving Apollo descending and includes elements of spectacle and music.",
+      "stgdir": "Apollon descend sur un tr\u00f4ne de lumi\u00e8re. Cette pompe est jointe \u00e0 une musique douce. Il est entour\u00e9 des Heures, qui chantent ces mots.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1045",
+      "category": "8",
+      "explanation": "AIR. Mon Papa toute la nuit. This refers to a specific tune, indicating music.",
+      "stgdir": "AIR. Mon Papa toute la nuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1046",
+      "category": "11",
+      "explanation": "Chez la marquise. This indicates a setting or location where the action takes place.",
+      "stgdir": "Chez la marquise.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1047",
+      "category": "0",
+      "explanation": "Il l'ouvre. This is a general action where a character is opening something.",
+      "stgdir": "Il l'ouvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1048",
+      "category": "1",
+      "explanation": "Dorante veut tirer son \u00e9p\u00e9e. This indicates a violent action or the potential for aggression as it involves drawing a sword.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1049",
+      "category": "3",
+      "explanation": "Billet d'Alcipe \u00e0 L\u00e9andre. This may imply a delivery of a message, suggesting emotional expression or communication in a non-verbal way.",
+      "stgdir": "Billet d'Alcipe \u00e0 L\u00e9andre.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 5438.985347747803,
+  "model": "gpt-4o-mini"
+}

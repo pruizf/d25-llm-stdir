@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2900",
+      "category": "1",
+      "explanation": "Cette direction de sc\u00e8ne d\u00e9crit une action violente o\u00f9 un personnage plonge un coutelas dans un autre corps, ce qui rel\u00e8ve de l'agression.",
+      "stgdir": "Elle lui plonge le coutelas dans le corps, et para\u00eet vouloir le s\u00e9parer en deux comme pour le d\u00e9vorer\u00a0; les soldats attir\u00e9s de nouveau par la faim, reviennent, et l'un d'eux, en se reculant d'horreur, dit \u00e0 l'arri\u00e8re-sc\u00e8ne :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2901",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication de musique, o\u00f9 un air est mentionn\u00e9 (La Carmagnole).",
+      "stgdir": "Air : La Carmagnole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2902",
+      "category": "8",
+      "explanation": "Cette direction indique un air de musique (R\u00e9formez ma musette).",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2903",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de L\u00e9andre dans le cabinet est une direction de sc\u00e8ne qui correspond \u00e0 une entr\u00e9e.",
+      "stgdir": "L\u00e9andre rentre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2904",
+      "category": "8",
+      "explanation": "C'est une indication de musique, ici sp\u00e9cifiquement un air (Si Dorilas contre les femmes).",
+      "stgdir": "Air : Si Dorilas contre les femmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2905",
+      "category": "12",
+      "explanation": "Cette direction indique que l'interaction se fait en s'adressant \u00e0 la Marquise, ce qui correspond \u00e0 la cat\u00e9gorie 'vers'.",
+      "stgdir": "\u00c0 la Marquise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2906",
+      "category": "12",
+      "explanation": "Cette indication montre que l'on s'adresse \u00e0 la comtesse, ce qui la classe dans la cat\u00e9gorie 'vers'.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2907",
+      "category": "8",
+      "explanation": "Ceci est un autre air de musique, 'Le premier du mois de Janvier'.",
+      "stgdir": "Air : Le premier du mois de Janvier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2908",
+      "category": "6",
+      "explanation": "Montrer \u00c9velina implique une interaction non verbale, ce qui rel\u00e8ve de la cat\u00e9gorie d'interaction.",
+      "stgdir": "Montrant \u00c9velina.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2909",
+      "category": "0",
+      "explanation": "Se lever de table est une action g\u00e9n\u00e9rale sans sp\u00e9cificit\u00e9 d'entr\u00e9e ou d'interaction, donc class\u00e9e ici comme action.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8600.028991699219,
+  "model": "gpt-4o-mini"
+}

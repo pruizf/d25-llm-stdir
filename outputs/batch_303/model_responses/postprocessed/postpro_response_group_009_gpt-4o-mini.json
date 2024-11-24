@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "80",
+      "category": "1",
+      "explanation": "Il se donne un coup implies a violent action which fits the aggression category.",
+      "confidence": 0.9,
+      "stgdir": "Il se donne un coup.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "81",
+      "category": "0",
+      "explanation": "DU COQ A L'ASNE does not clearly convey action related to other categories, making it fit best in action.",
+      "confidence": 0.7,
+      "stgdir": "DU COQ A L'ASNE.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "82",
+      "category": "10",
+      "explanation": "Il lui pr\u00e9sente une fressure de veau pendue au bout d'un b\u00e2ton describes an interaction with an object.",
+      "confidence": 0.85,
+      "stgdir": "Il lui pr\u00e9sente une fressure de veau pendue au bout d'un b\u00e2ton.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "83",
+      "category": "8",
+      "explanation": "AIR : tout comme il vous plaira is identified as a tune name, placing it in the music category.",
+      "confidence": 0.95,
+      "stgdir": "AIR : tout comme il vous plaira",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "84",
+      "category": "8",
+      "explanation": "AIR : Sans cesse \u00e0 la Ville, \u00e0 ta Cour is also a tune name, classified under the music category.",
+      "confidence": 0.95,
+      "stgdir": "AIR : Sans cesse \u00e0 la Ville, \u00e0 ta Cour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "85",
+      "category": "4",
+      "explanation": "Il rentre dans le palais indicates a character entering the stage, fitting the entrance category.",
+      "confidence": 0.95,
+      "stgdir": "Il rentre dans le palais.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "86",
+      "category": "9",
+      "explanation": "Silence d'un instant conveys a narrative description of a moment of silence, placing it in narration.",
+      "confidence": 0.9,
+      "stgdir": "Silence d'un instant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "87",
+      "category": "0",
+      "explanation": "Il est rest\u00e9 assis sur le remblai generalizes an action of staying seated, categorized as action.",
+      "confidence": 0.8,
+      "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "88",
+      "category": "5",
+      "explanation": "Il s'en va clearly indicates a character exiting the stage, fitting the exit category.",
+      "confidence": 0.95,
+      "stgdir": "Il s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "89",
+      "category": "6",
+      "explanation": "Il les regarde toujours describes non-verbal interaction where a character looks at others, fitting the interaction category.",
+      "confidence": 0.85,
+      "stgdir": "Il les regarde toujours.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 8027.109146118164,
+  "model": "gpt-4o-mini"
+}

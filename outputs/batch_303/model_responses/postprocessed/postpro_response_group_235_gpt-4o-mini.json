@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2340",
+      "category": "6",
+      "explanation": "Cette direction implique une interaction avec les autres conseillers sur sc\u00e8ne.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2341",
+      "category": "3",
+      "explanation": "L\u00e9lio rit, ce qui indique une expression \u00e9motionnelle, correspondant au ton de la livraison.",
+      "stgdir": "L\u00e9lio rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2342",
+      "category": "9",
+      "explanation": "La description utilise un ton narratif, d\u00e9taillant des actions et des r\u00e9actions des personnages concernant la t\u00eate de Moral\u00e8s.",
+      "stgdir": "Il \u00e9tend les bras. Tout le monde s'\u00e9carte et la t\u00eate de Moral\u00e8s, envelopp\u00e9e d'un voile noir, pos\u00e9e sur la table. Fargus enl\u00e8ve brusquement le voile. Tous reculent en poussant un cri d'horreur. La t\u00eate humaine, les yeux ferm\u00e9s, la face souill\u00e9e de sang, est l\u00e0, en pleine lumi\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2343",
+      "category": "4",
+      "explanation": "Apercevant Barberin sugg\u00e8re une entr\u00e9e dans la sc\u00e8ne pour le personnage qui aper\u00e7oit.",
+      "stgdir": "Apercevant Barberin.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2344",
+      "category": "6",
+      "explanation": "Rappelant Bourdon implique une interaction non verbale entre deux personnages.",
+      "stgdir": "Rappelant Bourdon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2345",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit la d\u00e9coration du th\u00e9\u00e2tre, indiquant le cadre du spectacle.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2346",
+      "category": "4",
+      "explanation": "Signifie que le druide fait une entr\u00e9e sp\u00e9ciale pour la c\u00e9r\u00e9monie.",
+      "stgdir": "Un druide conduisant la c\u00e9r\u00e9monie de la f\u00eate du gui de l'an neuf, \u00e0 la place d'Adamas.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2347",
+      "category": "4",
+      "explanation": "Plutus appara\u00eet \u00e0 la place du sac, indiquant une entr\u00e9e pour ce personnage.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2348",
+      "category": "3",
+      "explanation": "Regardant et admirant indique une mani\u00e8re d'appr\u00e9cier quelque chose, correspondant \u00e0 l'expression.",
+      "stgdir": "Regardant la statue aux pieds de laquelle B\u00e9carre est rest\u00e9, et l'admirant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2349",
+      "category": "8",
+      "explanation": "Cette direction mentionne un air sp\u00e9cifique, identifiant un chant ou une musique.",
+      "stgdir": "Air 14 : Voulez-vous savoir qui de deux.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8474.985361099243,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "730",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit l'apparence de la livr\u00e9e de Tronquoy, ce qui correspond \u00e0 une description de sc\u00e8ne ou d'un \u00e9l\u00e9ment de contexte.",
+      "stgdir": "Apercevant la livr\u00e9e de Tronquoy.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "731",
+      "category": "7",
+      "explanation": "Cette direction montre un mouvement du personnage, tournant dans la chambre puis revenant \u00e0 sa place.",
+      "stgdir": "Il fait plusieurs tours de chambre d'un air d\u00e9soeuvr\u00e9, puis il revient \u00e0 fa place.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "732",
+      "category": "11",
+      "explanation": "C'est une description de la sc\u00e8ne, indiquant qu'il s'agit d'un vestibule avec un jardin, ce qui d\u00e9finit le cadre visuel de l'action.",
+      "stgdir": "La Sc\u00e8ne repr\u00e9sente un Vestibule, termin\u00e9 par un Jardin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "733",
+      "category": "8",
+      "explanation": "C'est une mention d'une musique ou d'un air sp\u00e9cifique, ce qui le classe dans la cat\u00e9gorie musique.",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "734",
+      "category": "8",
+      "explanation": "Il s'agit d'une autre mention d'un air musical, indiquant un \u00e9l\u00e9ment musical li\u00e9 au personnage ou \u00e0 la sc\u00e8ne.",
+      "stgdir": "Air : De Monsieur Doche.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "735",
+      "category": "10",
+      "explanation": "Cette direction implique l'acte de donner quatre rouleaux, ce qui d\u00e9crit l'interaction avec des objets.",
+      "stgdir": "Il donne les quatre rouleaux \u00e0 Milescas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "736",
+      "category": "3",
+      "explanation": "Ici, on d\u00e9crit la mani\u00e8re dont les derniers mots sont prononc\u00e9s, ce qui concerne l'expression vocale et l'\u00e9motion.",
+      "stgdir": "En pesant beaucoup sur ces derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "737",
+      "category": "2",
+      "explanation": "Un apart\u00e9 est indiqu\u00e9 ici, car le personnage agit \u00e0 part, apr\u00e8s avoir lu, ce qui signifie qu'il s'adresse au public ou se parle \u00e0 lui-m\u00eame.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "738",
+      "category": "4",
+      "explanation": "Cette direction indique que de nombreuses personnes entrent dans la sc\u00e8ne, ce qui la classe dans la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "ENTR\u00c9E de toutes sortes de personnes amoureuse de la nouveaut\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "739",
+      "category": "8",
+      "explanation": "C'est un autre exemple de mention d'air musical, indiquant un \u00e9l\u00e9ment de musique associ\u00e9 \u00e0 la sc\u00e8ne.",
+      "stgdir": "AIR. Le bonheur de ma vie.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6856.058120727539,
+  "model": "gpt-4o-mini"
+}

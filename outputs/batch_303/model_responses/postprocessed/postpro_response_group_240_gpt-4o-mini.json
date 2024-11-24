@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2390",
+      "category": "0",
+      "explanation": "Montrant la Baronne implique que le personnage agit en direction de montrer ou d\u00e9signer un autre personnage, ce qui rel\u00e8ve d'une action g\u00e9n\u00e9rale.",
+      "stgdir": "Montrant la Baronne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2391",
+      "category": "10",
+      "explanation": "On enfourne les financiers d\u00e9crit une action li\u00e9e \u00e0 des objets (les financiers), donc cela correspond \u00e0 la manipulation d'objets.",
+      "stgdir": "On enfourne les financiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2392",
+      "category": "7",
+      "explanation": "Se rapprochant de Rosalie d\u00e9crit un mouvement du personnage vers un autre, indiquant un changement de position sans mentionner une entr\u00e9e ou une sortie.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2393",
+      "category": "6",
+      "explanation": "Alceste et Philinte \u00e9changent un coup d'oeil d\u00e9sesp\u00e9r\u00e9 repr\u00e9sente une interaction non verbale entre les deux personnages par un regard.",
+      "stgdir": "Alceste et Philinte \u00e9changent un coup d'oeil d\u00e9sesp\u00e9r\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2394",
+      "category": "9",
+      "explanation": "On entend le tintement d'une sonnette d\u00e9crit une sonorit\u00e9 sans mentionner l'action des personnages, ce qui le rend narratif.",
+      "stgdir": "On entend le tintement d'une sonnette.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2395",
+      "category": "10",
+      "explanation": "Donnant le verre d'eau sucr\u00e9e \u00e0 Thibaudier implique une interaction avec un objet (le verre) et une manipulation de celui-ci.",
+      "stgdir": "Donnant le verre d'eau sucr\u00e9e \u00e0 Thibaudier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2396",
+      "category": "11",
+      "explanation": "La sc\u00e8ne repr\u00e9sente un petit salon dans une grande maison de campagne d\u00e9crit le cadre de la sc\u00e8ne, ce qui est une description de l'emplacement.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un petit salon dans une grande maison de campagne ; une table o\u00f9 il reste les reliefs d'un repas. Elle a \u00e9t\u00e9 dress\u00e9e pour un d\u00eener improvis\u00e9. Il est dix heures du soir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2397",
+      "category": "10",
+      "explanation": "Elle lui donne son jupon implique la manipulation d'un objet (le jupon) en plus de l'interaction entre les personnages.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2398",
+      "category": "4",
+      "explanation": "Le Chevalier vient, et Trivelin dit : implique l'entr\u00e9e d'un personnage sur sc\u00e8ne, d'o\u00f9 la classification d'entr\u00e9e.",
+      "stgdir": "Le Chevalier vient, et Trivelin dit :",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2399",
+      "category": "9",
+      "explanation": "L'ange touche la terre avec sa palme, et fait jaillir \u00e0 l'instant une source abondante contient une descriptive qui a un aspect narratif de ph\u00e9nom\u00e8nes.",
+      "stgdir": "L'ange touche la terre avec sa palme, et fait jaillir \u00e0 l'instant une source abondante.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 3651.000738143921,
+  "model": "gpt-4o-mini"
+}

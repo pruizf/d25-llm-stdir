@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": 3,
+      "explanation": "D'une voix cass\u00e9e suggests a specific manner of vocal delivery, indicating the character is speaking in a broken voice, which relates to the emotional expression.",
+      "confidence": 0.9,
+      "stgdir": "D'une voix cass\u00e9e.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": 6,
+      "explanation": "Il embrasse Fleur-de-Sauge describes a direct interaction between characters where one is kissing the other.",
+      "confidence": 0.95,
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": 8,
+      "explanation": "Air : Nous n'avons qu'un temps \u00e0 vivre is labeled with 'Air', indicating it is referring to a piece of music.",
+      "confidence": 1.0,
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": 9,
+      "explanation": "The stage direction provides a narrative description of Th\u00e9r\u00e8se and Manette's setup and emotional state, qualifying as narration.",
+      "confidence": 0.85,
+      "stgdir": "Th\u00e9r\u00e8se et Manette sont \u00e0 c\u00f4t\u00e9 l'une de l'autre, Elles travaillent ensemble \u00e0 garnir une robe. Th\u00e9r\u00e8se est habill\u00e9e tr\u00e8s simplement, coiff\u00e9e en grand bonnet, et para\u00eet triste et r\u00eaveuse.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": 12,
+      "explanation": "\u00c0 Salome indicates whom the character is addressing, fitting the category of toward.",
+      "confidence": 0.9,
+      "stgdir": "\u00c0 Salome.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": 1,
+      "explanation": "Il tire son \u00e9p\u00e9e describes an aggressive action of drawing a sword, fitting the aggression category.",
+      "confidence": 0.95,
+      "stgdir": "Il tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": 1,
+      "explanation": "Au bourreau specifies an address to the executioner, but implies a context of potential aggression, linking it to the aggression category.",
+      "confidence": 0.85,
+      "stgdir": "Au bourreau.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": 5,
+      "explanation": "Idas sort indicates that Idas is exiting the stage, classifying it under exit.",
+      "confidence": 1.0,
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": 4,
+      "explanation": "Hyp\u00e9rie para\u00eet indicates the entrance of a character, fit for the entrance category.",
+      "confidence": 1.0,
+      "stgdir": "Hyp\u00e9rie para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": 12,
+      "explanation": "\u00c0 Double-Sens directs the speech to a specific addressee, classifying it under toward.",
+      "confidence": 0.8,
+      "stgdir": "\u00c0 Double-Sens.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 7387.234210968018,
+  "model": "gpt-4o-mini"
+}

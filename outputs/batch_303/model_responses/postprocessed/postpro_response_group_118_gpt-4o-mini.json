@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1170",
+      "category": "6",
+      "explanation": "Il parle \u00e0 Dionys indique une interaction verbale entre deux personnages.",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1171",
+      "category": "7",
+      "explanation": "Il regarde dans un petit cabinet montre un mouvement de la part du personnage, sans indication d'entr\u00e9e ou de sortie.",
+      "stgdir": "Il regarde dans un petit cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1172",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une cour d\u00e9crit le d\u00e9cor et l'environnement de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une cour. - A gauche du public un pavillon au premier plan.- Au deuxi\u00e8me plan, un mur avec une fen\u00eatre et un balcon. -\u00c0 droite, un jardin, au fond, un mur avec une grille. - Il fait nuit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1173",
+      "category": "9",
+      "explanation": "D\u00c9CORATION DU Ier ACTE. est une longue description narrative du d\u00e9cor, incluant des \u00e9l\u00e9ments visuels et une analyse du paysage.",
+      "stgdir": "D\u00c9CORATION DU Ier ACTE. Le th\u00e9\u00e2tre du Prologue fait place \u00e0 une D\u00e9coration moins r\u00e9guli\u00e8re, mais qui dans son irr\u00e9gularit\u00e9 ne laisse pas d'avoir des beaut\u00e9s qui plaisent \u00e9galement \u00e0 la vue. Elle repr\u00e9sente une Plaine, o\u00f9 diverses Ruines marquent les restes de quelques Palais d\u00e9molis, et le tout dans une si agr\u00e9able vari\u00e9t\u00e9, qu'elle n'a aucune partie qui ne fasse para\u00eetre quelque chose de diff\u00e9rent. Au bout de cette plaine on d\u00e9couvre une Montagne d'une grandeur prodigieuse. Elle est fertile dans le bas en Plantes et Fleurs b\u00e2tardes\u00a0; et \u00e0 mesure qu'elle s'\u00e9l\u00e8ve, elle devient aride, formant des Rochers peu remplis de verdure, et entrecoup\u00e9s de chemins. Le sommet laisse voir un Palais ruin\u00e9 et d\u00e9sert, avec un grand Horizon tout autour, en sorte que la Montagne est isol\u00e9e, et para\u00eet naturelle aux yeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1174",
+      "category": "0",
+      "explanation": "L'effigie du Comte se soul\u00e8ve lentement sur le tombeau d\u00e9crit une action sp\u00e9cifique mais ne tombe pas dans les autres cat\u00e9gories.",
+      "stgdir": "L'effigie du Comte se soul\u00e8ve lentement sur le tombeau, prend la plume et le parchemin des mains de Don Jos\u00e8s, signe, laisse tomber le parchemin, et se recouche sans pousser un soupir, sans prononcer une parole.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1175",
+      "category": "11",
+      "explanation": "\u00c0 Tib\u00e8re indique un lieu, plut\u00f4t qu'une action, ce qui le classe dans le cadre du d\u00e9cor.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1176",
+      "category": "8",
+      "explanation": "Le choeur r\u00e9p\u00e8te ces quatre derniers vers comporte une r\u00e9f\u00e9rence \u00e0 un chant, ce qui le place sous la cat\u00e9gorie musique.",
+      "stgdir": "Le choeur r\u00e9p\u00e8te ces quatre derniers vers ; la suite de la Paix et celle de Pan forment une entr\u00e9e, au milieu de laquelle deux bergers chantent s\u00e9par\u00e9ment les deux couplets qui suivent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1177",
+      "category": "8",
+      "explanation": "Air 179 : La faridondaine, gu\u00e9 ! est directement li\u00e9 \u00e0 la musique, car il mentionne un air sp\u00e9cifique.",
+      "stgdir": "Air 179 : La faridondaine, gu\u00e9 !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1178",
+      "category": "8",
+      "explanation": "Air : Ah ! Madame Anroux est \u00e9galement une r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "Air : Ah ! Madame Anroux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1179",
+      "category": "2",
+      "explanation": "Elle dit ceci bas repr\u00e9sente une indication d'apart\u00e9, o\u00f9 le personnage s'adresse en quelque sorte au public ou \u00e0 elle-m\u00eame.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "aparte"
+    }
+  ],
+  "response_time": 4668.5309410095215,
+  "model": "gpt-4o-mini"
+}

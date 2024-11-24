@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "400",
+      "category": "12",
+      "explanation": "Cette direction indique que la sc\u00e8ne est dirig\u00e9e vers Perdiccas, ce qui signifie qu'il est l'interlocuteur de la sc\u00e8ne.",
+      "stgdir": "\u00c0 Perdiccas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "401",
+      "category": "6",
+      "explanation": "Il voit Sophie implique une interaction visuelle entre deux personnages, donc c'est cat\u00e9goris\u00e9 comme interaction.",
+      "stgdir": "Il voit Sophie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "402",
+      "category": "3",
+      "explanation": "R\u00e9pondant implique une mani\u00e8re de d\u00e9livrer une r\u00e9ponse, ce qui se rapporte \u00e0 la mani\u00e8re de la voix ou de l'expression vocale, donc cela rentre dans la cat\u00e9gorie delivery.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "403",
+      "category": "8",
+      "explanation": "Sur l'Air : Quand on a bu est une r\u00e9f\u00e9rence \u00e0 une musique, donc cela appartient \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "Sur l'Air : Quand on a bu, la t\u00eate tourne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "404",
+      "category": "10",
+      "explanation": "Elle pr\u00e9sente le peignoir au feu d\u00e9crit une interaction avec un objet (le peignoir), donc c'est cat\u00e9goris\u00e9 comme objet.",
+      "stgdir": "Elle pr\u00e9sente le peignoir au feu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "405",
+      "category": "4",
+      "explanation": "Il entre aussi chez Hipolite indique clairement que le personnage entre sur sc\u00e8ne, ce qui est une entr\u00e9e.",
+      "stgdir": "Il entre aussi chez Hipolite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "406",
+      "category": "11",
+      "explanation": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal d\u00e9crit l'emplacement et la description de la sc\u00e8ne, donc cela rel\u00e8ve du cadre.",
+      "stgdir": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "407",
+      "category": "8",
+      "explanation": "Air : Sur le Pont d'Avignon est \u00e9galement une r\u00e9f\u00e9rence \u00e0 une musique, donc cela va dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Sur le Pont d'Avignon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "408",
+      "category": "6",
+      "explanation": "Elle l'embrasse encore implique une interaction physique entre deux personnages, donc cela est class\u00e9 comme interaction.",
+      "stgdir": "Elle l'embrasse encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "409",
+      "category": "12",
+      "explanation": "\u00c0 Achior indique \u00e0 qui le personnage se dirige ou s'adresse, pla\u00e7ant cela dans la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Achior.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 6696.645259857178,
+  "model": "gpt-4o-mini"
+}

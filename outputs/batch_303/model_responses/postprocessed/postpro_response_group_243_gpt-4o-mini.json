@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2420",
+      "category": "0",
+      "explanation": "Il aper\u00e7oit Nicodon implique une action de regarder et de reconna\u00eetre quelqu'un.",
+      "stgdir": "Il aper\u00e7oit Nicodon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2421",
+      "category": "4",
+      "explanation": "L'ENTR\u00c9E de deux meuniers et de deux meuni\u00e8res indique que ces personnages entrent sur sc\u00e8ne.",
+      "stgdir": "ENTR\u00c9E de deux meuniers et de deux meuni\u00e8res.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2422",
+      "category": "10",
+      "explanation": "Ang\u00e9lique rend la bo\u00eete aux bijoux, donc il s'agit d'une interaction avec un objet.",
+      "stgdir": "Ang\u00e9lique, sans lui r\u00e9pondre, tire la bo\u00eete aux bijoux et la lui rend sans le regarder : elle la met dans sa main ; et il s'arr\u00eate comme surpris et sans la lui remettre, apr\u00e8s quoi il sort.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2423",
+      "category": "8",
+      "explanation": "AIR 108 se r\u00e9f\u00e8re \u00e0 une m\u00e9lodie, qualifi\u00e9e comme musique.",
+      "stgdir": "AIR 108. [ \u00d4 turlutaine ! ]",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2424",
+      "category": "7",
+      "explanation": "Il se jette dans un fauteuil montre un mouvement vers un endroit sp\u00e9cifique.",
+      "stgdir": "Il se jette dans un fauteuil.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2425",
+      "category": "5",
+      "explanation": "Elle sort avec Lucie signifie que Lucie et elle quittent la sc\u00e8ne.",
+      "stgdir": "Elle sort avec Lucie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2426",
+      "category": "6",
+      "explanation": "Il montre le mari de la Vieille indique une interaction non verbale par le geste de montrer.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2427",
+      "category": "8",
+      "explanation": "AIR : Mes chers amis, pouvez-vous m'enseigner se rapporte \u00e9galement \u00e0 une m\u00e9lodie.",
+      "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2428",
+      "category": "4",
+      "explanation": "Val\u00e9rian entre signifie que le personnage fait son entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2429",
+      "category": "3",
+      "explanation": "Il commence \u00e0 lire le billet implique une action de lecture, et peut aussi faire r\u00e9f\u00e9rence \u00e0 la mani\u00e8re dont il le fait.",
+      "stgdir": "Il commence \u00e0 lire le billet.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 4051.044464111328,
+  "model": "gpt-4o-mini"
+}

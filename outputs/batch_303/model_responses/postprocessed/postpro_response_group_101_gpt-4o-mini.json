@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1000",
+      "category": 12,
+      "explanation": "Cette direction indique qu'Idamir est le destinataire de l'action, ce qui correspond \u00e0 la cat\u00e9gorie indiquant l'addresse de la parole.",
+      "stgdir": "\u00c0 Idamir.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1001",
+      "category": 5,
+      "explanation": "Le terme 's'en va' indique que Henriette quitte la sc\u00e8ne, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Elle s'en va avec Henriette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1002",
+      "category": 10,
+      "explanation": "Cette direction d\u00e9crit une interaction avec un objet, dans ce cas, la perruque, ce qui est bien class\u00e9 sous la manipulation d'un objet.",
+      "stgdir": "Il met sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1003",
+      "category": 9,
+      "explanation": "Le bruit des ar~c~ peut \u00eatre consid\u00e9r\u00e9 comme une narration d'une ambiance sonore, rapportant un \u00e9l\u00e9ment auditif, ce qui correspond \u00e0 la cat\u00e9gorie de narration.",
+      "stgdir": "AIR Le bruit des ar~c~.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1004",
+      "category": 8,
+      "explanation": "Le 'Troisi\u00e8me couplet' d\u00e9signe une partie de la musique ou une chanson, ce qui correspond \u00e0 la cat\u00e9gorie de musique.",
+      "stgdir": "Troisi\u00e8me couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1005",
+      "category": 12,
+      "explanation": "Cette direction indique qu'Abramane est le destinataire de l'action, ce qui correspond \u00e0 la cat\u00e9gorie indiquant l'addresse de la parole.",
+      "stgdir": "\u00c0 Abramane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1006",
+      "category": 3,
+      "explanation": "Le fait que le Mufti chante lors d'une interaction avec une autre personne implique une livraison de l'action par la chanson, ce qui tombe sous la cat\u00e9gorie de delivery.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1007",
+      "category": 8,
+      "explanation": "Cette direction indique un air musical particulier, donc elle rel\u00e8ve de la cat\u00e9gorie de musique.",
+      "stgdir": "Air. Un inconnu pour vos charmes soupire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1008",
+      "category": 10,
+      "explanation": "Elle ouvre le secr\u00e9taire implique une interaction avec un objet, class\u00e9e dans la manipulation d'un objet.",
+      "stgdir": "Elle ouvre le secr\u00e9taire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1009",
+      "category": 8,
+      "explanation": "Le titre 'Oh ! Que nenni' d\u00e9signe une musique ou une chanson sp\u00e9cifique, donc cela appartient \u00e0 la cat\u00e9gorie de musique.",
+      "stgdir": "AIR : Oh ! Que nenni.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8846.261024475098,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1470",
+      "category": "12",
+      "explanation": "Cette direction indique l'adresse \u00e0 Mme Vigneron, ce qui correspond \u00e0 la cat\u00e9gorie 'toward' qui d\u00e9signe l'allocataire d'un discours.",
+      "stgdir": "\u00c0 Mme Vigneron.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1471",
+      "category": "5",
+      "explanation": "Cette direction indique que le Facteur quitte la sc\u00e8ne, ce qui correspond \u00e0 l'exit, indiqu\u00e9 par 's'en va'.",
+      "stgdir": "Le Facteur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1472",
+      "category": "6",
+      "explanation": "Cette direction d\u00e9crit une interaction non verbale entre Madeleine et Pierrette o\u00f9 Pierrette retient Madeleine dans ses bras.",
+      "stgdir": "Madeleine, qui est rest\u00e9e la derni\u00e8re avec Pierrette, chancelle au moment de sortir ; Pierrette la retient dans ses bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1473",
+      "category": "3",
+      "explanation": "Il s'agit d'une action o\u00f9 un personnage lit les requ\u00eates, ce qui entre dans la cat\u00e9gorie de la mani\u00e8re de livraison ou d'expression verbale.",
+      "stgdir": "Il lit les requ\u00eates.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1474",
+      "category": "6",
+      "explanation": "Cette direction montre une interaction entre deux personnages, l'un parlant \u00e0 l'autre, ce qui correspond \u00e0 la cat\u00e9gorie d'interaction.",
+      "stgdir": "Il parle au Chevalier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1475",
+      "category": "8",
+      "explanation": "Cette direction fait r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce de musique ('Ah ! Quel plaisir...'), ce qui la classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air 178 : Ah ! Quel plaisir lorsqu'apr\u00e8s mille alarmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1476",
+      "category": "8",
+      "explanation": "Ceci d\u00e9crit un dialogue musical o\u00f9 un air est chant\u00e9, ce qui en fait une directive musicale.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1477",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage aper\u00e7oit sa femme, ce qui implique une adresse ou une attention port\u00e9e \u00e0 elle, class\u00e9e sous 'toward'.",
+      "stgdir": "Apercevant sa femme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1478",
+      "category": "10",
+      "explanation": "Cette direction d\u00e9crit l'action de tirer un portefeuille de sa poche, impliquant une interaction avec un objet, ce qui correspond \u00e0 la cat\u00e9gorie des objets.",
+      "stgdir": "Tirant un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1479",
+      "category": "11",
+      "explanation": "Le titre 'LE MOINEAU EN CAGE' pourrait indiquer une description de sc\u00e8ne ou d'un lieu, ce qui en fait une r\u00e9f\u00e9rence \u00e0 la mise en sc\u00e8ne.",
+      "stgdir": "LE MOINEAU EN CAGE.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 5570.61243057251,
+  "model": "gpt-4o-mini"
+}

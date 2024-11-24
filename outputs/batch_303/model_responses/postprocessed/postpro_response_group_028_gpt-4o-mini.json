@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "270",
+      "category": 10,
+      "explanation": "This direction describes the action of putting on an object (manchon) which fits into the category of handling an object.",
+      "confidence": 0.9,
+      "stgdir": "Il lui met son manchon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": 11,
+      "explanation": "This stage direction provides a detailed description of the setting, including furniture and layout, fitting perfectly into the setting category.",
+      "confidence": 1.0,
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": 2,
+      "explanation": "The character is speaking to himself, which aligns with the definition of an aside (aparte).",
+      "confidence": 0.95,
+      "stgdir": "Se parlant \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": 3,
+      "explanation": "The direction involves laughter, which can represent an emotional delivery, and thus fits in the delivery category.",
+      "confidence": 0.85,
+      "stgdir": "Arlequin rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": 12,
+      "explanation": "This indicates the direction of speech ('\u00c0 Arcas') so it belongs to the toward category.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 Arcas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": 12,
+      "explanation": "Similar to the previous direction, this indicates who the character is addressing, which fits into the toward category.",
+      "confidence": 1.0,
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": 12,
+      "explanation": "This also indicates the addressee of speech ('\u00c0 R\u00e9gina'), placing it in the toward category.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 R\u00e9gina.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": 11,
+      "explanation": "This stage direction names a specific location ('Chez la marquise Cibo'), categorizing it as a setting.",
+      "confidence": 1.0,
+      "stgdir": "Chez la marquise Cibo.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": 8,
+      "explanation": "The mention of 'AIR' refers to a music piece, therefore it is categorized under music.",
+      "confidence": 1.0,
+      "stgdir": "AIR. Ah ! le charmant Berger que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": 1,
+      "explanation": "Describing characters giving blows and scaring off a person represents an aggressive action. Thus, it fits in the aggression category.",
+      "confidence": 0.9,
+      "stgdir": "Ils donnent des coups de b\u00e2ton \u00e0 la Crainte et la mettent en fuite.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 7391.216278076172,
+  "model": "gpt-4o-mini"
+}

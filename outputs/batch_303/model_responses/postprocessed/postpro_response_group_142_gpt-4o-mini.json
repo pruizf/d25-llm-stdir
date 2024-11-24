@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1410",
+      "category": "4",
+      "explanation": "Le Duc de Nemours para\u00eet \u2013 This indicates the character entering the stage.",
+      "stgdir": "Le Duc de Nemours para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1411",
+      "category": "8",
+      "explanation": "Air du commencement \u2013 This refers to a tune or song title, indicating a music stage direction.",
+      "stgdir": "Air du commencement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1412",
+      "category": "12",
+      "explanation": "\u00c0 Francis et \u00e0 Madeleine \u2013 This indicates the addressees of a potential speech or interaction.",
+      "stgdir": "\u00c0 Francis et \u00e0 Madeleine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1413",
+      "category": "6",
+      "explanation": "Il parle \u00e0 ses soldats \u2013 This shows interaction through verbal communication with characters.",
+      "stgdir": "Il parle \u00e0 ses soldats.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1414",
+      "category": "10",
+      "explanation": "Lui montrant une lettre \u2013 This suggests the character is handling an object (the letter) and showing it to another character.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1415",
+      "category": "8",
+      "explanation": "AIR. ( Quand Iris prend plaisir \u00e0 boire. ) \u2013 Again, this refers to a tune or song, fitting in the music category.",
+      "stgdir": "AIR. ( Quand Iris prend plaisir \u00e0 boire. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1416",
+      "category": "8",
+      "explanation": "AIR : La plus belle promenade \u2013 This is another music direction indicating a specific air or song.",
+      "stgdir": "AIR : La plus belle promenade.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1417",
+      "category": "1",
+      "explanation": "Il frappe avec sa batte \u2013 This indicates a violent action, fitting the aggression category.",
+      "stgdir": "Il frappe avec sa batte.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1418",
+      "category": "7",
+      "explanation": "Il tourne les yeux sur Henry \u2013 This indicates a movement of the character's gaze, which falls into the movement category.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1419",
+      "category": "8",
+      "explanation": "AIR 119. Et autre chose itou \u2013 Similar to the others, this indicates a musical element.",
+      "stgdir": "AIR 119. Et autre chose itou.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6335.0067138671875,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "760",
+      "category": "0",
+      "explanation": "L'action de 'Il est \u00e0 genoux.' d\u00e9crit un personnage en train de s'agenouiller, ce qui rel\u00e8ve d'une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il est \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "10",
+      "explanation": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas. Ce qui est d\u00e9crit ici concerne l'interaction avec un objet, l'\u00e9p\u00e9e, donc cela correspond \u00e0 la manipulation d'un objet.",
+      "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "8",
+      "explanation": "Il sonne. Le verbe 'sonner' se rapporte \u00e0 une action de musique, ce qui indique une sonorit\u00e9 ou un signal.",
+      "stgdir": "Il sonne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "11",
+      "explanation": "La sc\u00e8ne d\u00e9crit le paysage sc\u00e9nique comprenant un bois et un ch\u00e2teau, donc cela rel\u00e8ve de la description de l'environnement.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "6",
+      "explanation": "Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, indiquant une interaction non verbale, o\u00f9 une personne aide une autre.",
+      "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "6",
+      "explanation": "G\u00e9ronte s'approcha de la Dame, et lev\u00e9 sa cal\u00e8che. Cela d\u00e9signe \u00e9galement une interaction non verbale entre deux personnages.",
+      "stgdir": "G\u00e9ronte s'approcha de la Dame, et lev\u00e9 sa cal\u00e8che.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "0",
+      "explanation": "Il tombe \u00e0 ses pieds. Cela d\u00e9crit une action de tomber, relavant d'une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il tombe \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "4",
+      "explanation": "Il rentre sur la pointe des pieds. Cela indique une entr\u00e9e discr\u00e8te sur sc\u00e8ne, classifi\u00e9e comme une entr\u00e9e.",
+      "stgdir": "Il rentre sur la pointe des pieds.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "0",
+      "explanation": "Se t\u00e2tant. Cela d\u00e9crit une action g\u00e9n\u00e9rale de se toucher ou de s'examiner, sans sp\u00e9cifier d'autres interactions.",
+      "stgdir": "Se t\u00e2tant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "12",
+      "explanation": "\u00c0 Marthon. Bien qu'impliquant un endroit, son usage peut indiquer un destinataire de discours ou une destination, ce qui est reli\u00e9 \u00e0 la direction d'adresse.",
+      "stgdir": "\u00c0 Marthon.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 6178.922891616821,
+  "model": "gpt-4o-mini"
+}

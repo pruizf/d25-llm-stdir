@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1850",
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui le personnage s'adresse, en l'occurrence Madame de Maintenon.",
+      "stgdir": "\u00c0 Madame de Maintenon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1851",
+      "category": 10,
+      "explanation": "Il s'agit de remettre une pi\u00e8ce \u00e0 Raoul, ce qui implique une manipulation d'objet.",
+      "stgdir": "Elle donne la pi\u00e8ce \u00e0 Raoul.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1852",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le cadre de la sc\u00e8ne, indiquant les \u00e9l\u00e9ments pr\u00e9sents dans le salon.",
+      "stgdir": "Un salon. - Porte au fond. - Portes lat\u00e9rales. - Une chemin\u00e9e. Un placard.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1853",
+      "category": 10,
+      "explanation": "Elle concerne le costume du personnage, ce qui implique l'objet qu'il porte.",
+      "stgdir": "Elle a son costume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1854",
+      "category": 7,
+      "explanation": "Le personnage effectue un mouvement en relevant la t\u00eate et en simulant de s'essuyer les yeux.",
+      "stgdir": "Relevant la t\u00eate, et faisant semblant de s'essuyer les yeux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1855",
+      "category": 0,
+      "explanation": "Clim\u00e8ne se jette aux pieds du Roi, ce qui est une action dramatique.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1856",
+      "category": 12,
+      "explanation": "Cela indique \u00e0 qui Dorval parle d'une mani\u00e8re na\u00efve, donc une adresse \u00e0 un personnage.",
+      "stgdir": "\u00c0 Dorval d'un air na\u00eff.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1857",
+      "category": 12,
+      "explanation": "Similarit\u00e9 avec 1856, cela indique l'adresse envers Bertrand.",
+      "stgdir": "\u00c0 Bertrand.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1858",
+      "category": 0,
+      "explanation": "Ce num\u00e9ro d'ordre peut sugg\u00e9rer une action, mais sans contexte, il est difficile de le classer pr\u00e9cis\u00e9ment.",
+      "stgdir": "bis",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1859",
+      "category": 9,
+      "explanation": "Cela pr\u00e9sente une s\u00e9quence d'actions en relation avec des personnages et leur plan pour tromper Colombine, ce qui lui donne une qualit\u00e9 narrative.",
+      "stgdir": "Octave envoie Mezzetin et Pasquariel sous ce d\u00e9guisement, pour achever de d\u00e9go\u00fbter Colombine du bailli. Le laquais qui tient la queue de la Marquise, la tient fich\u00e9e dans sa culotte, et de ses deux mains casse des noix. Colombine, Mezzetin et Pasquariel parlent tous trois ensemble.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 25149.299144744873,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "50",
+      "category": "9",
+      "explanation": "PREMIER COUPLET suggests a beginning part of a song, aligning with narration of musical structure.",
+      "confidence": "0.9",
+      "stgdir": "PREMIER COUPLET.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "8",
+      "explanation": "AIR : Evohe ! que ces d\u00e9esses... directly references music (AIR), making it a musical stage direction.",
+      "confidence": "1.0",
+      "stgdir": "AIR : Evohe ! que ces d\u00e9esses...",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "6",
+      "explanation": "Il lui balsa la main indicates a physical interaction where one character kisses another's hand.",
+      "confidence": "0.9",
+      "stgdir": "Il lui balsa la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "12",
+      "explanation": "\u00c0 Laurent shows that the speech or action is directed toward Laurent, indicating the address of a speech.",
+      "confidence": "1.0",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "8",
+      "explanation": "Air 107 : Faites boire \u00e0 triple mesure relates to music, indicated by the term Air.",
+      "confidence": "1.0",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "6",
+      "explanation": "Montrant Jenneval describes a visual interaction, directing attention to Jenneval without verbal communication.",
+      "confidence": "0.8",
+      "stgdir": "Montrant Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "8",
+      "explanation": "Air : Dis-moi donc, mon cher Hypolite implies a musical context, as it begins with Air.",
+      "confidence": "1.0",
+      "stgdir": "Air : Dis-moi donc, mon cher Hypolite.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "9",
+      "explanation": "Le mousse montre comment charger un mousquet et le bosco bouge le canon narrates a sequence of actions and interactions; it has a narrative quality.",
+      "confidence": "0.8",
+      "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "8",
+      "explanation": "AIR. Un inconnu clearly introduces a musical aspect, indicated by the term AIR.",
+      "confidence": "1.0",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "8",
+      "explanation": "Les violons jouent un branle suggests a musical performance, relating to the music category.",
+      "confidence": "1.0",
+      "stgdir": "Les violons jouent un branle pendant que Polydas parle et que les convi\u00e9s dansent.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7753.888130187988,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1890",
+      "category": "4",
+      "explanation": "La phrase 'Lafor\u00eat entre' indique que le personnage Lafor\u00eat fait son entr\u00e9e sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'entr\u00e9e'.",
+      "stgdir": "Lafor\u00eat entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1891",
+      "category": "7",
+      "explanation": "L'expression 'Avec moins d'\u00e9lan' d\u00e9crit un mouvement plus lent ou h\u00e9sitant, ce qui correspond \u00e0 la cat\u00e9gorie 'mouvement'.",
+      "stgdir": "Avec moins d'\u00e9lan.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1892",
+      "category": "8",
+      "explanation": "Le terme 'AIR' suivi de 'Le luth galant' indique une musique, ce qui correspond \u00e0 la cat\u00e9gorie 'musique'.",
+      "stgdir": "AIR : Le luth galant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1893",
+      "category": "0",
+      "explanation": "La phrase 'Il boit encore' est une action g\u00e9n\u00e9rale du personnage consistant \u00e0 boire, ce qui correspond \u00e0 la cat\u00e9gorie 'action'.",
+      "stgdir": "Il boit encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1894",
+      "category": "10",
+      "explanation": "L'expression 'Il \u00f4te sa perruque' d\u00e9crit l'interaction d'un personnage avec un objet (sa perruque), ce qui correspond \u00e0 la cat\u00e9gorie 'objet'.",
+      "stgdir": "Il \u00f4te sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1895",
+      "category": "9",
+      "explanation": "Cette direction est longue et d\u00e9crit une sc\u00e8ne compl\u00e8te du souper, ce qui lui donne une qualit\u00e9 narrative, donc elle est class\u00e9e sous 'narration'.",
+      "stgdir": "Le souper est un ambigu : tout est servi en m\u00eame temps ; les plats sont apport\u00e9s de la cuisine par l'aide de cuisine jusqu'\u00e0 la porte du salon, o\u00f9 Germon les va prendre. Il y a quatre servantes aux quatre coins de la table, pour dispenser les valets de servir : ce qui donne toute la libert\u00e9 dont on a besoin en soupant dans une petite maison. La Verdure allume les bougies : elles sont en grand nombre, comme dans une f\u00eate.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1896",
+      "category": "6",
+      "explanation": "La phrase 'Aux deux courtisans' sugg\u00e8re une interaction non verbale entre les personnages courtisans, ce qui correspond \u00e0 la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1897",
+      "category": "9",
+      "explanation": "L'expression 'Clameurs \u00e9loign\u00e9es' \u00e9voque un bruit lointain, ce qui lui conf\u00e8re une dimension narrative, appartenant \u00e0 la cat\u00e9gorie 'narration'.",
+      "stgdir": "Clameurs \u00e9loign\u00e9es.)",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1898",
+      "category": "9",
+      "explanation": "Ce passage est riche en description d\u2019\u00e9v\u00e9nements et de visuels (nuages, J\u00e9sus avec sa croix, \u00e9clairs, etc.), donc il est aussi class\u00e9 sous 'narration'.",
+      "stgdir": "Ce nuage et d'autres qui sortent du calvaire, au lieu du s\u00e9pulcre, se succ\u00e8dent rapidement, le dernier porte J\u00e9sus ayant sa croix \u00e0 son c\u00f4t\u00e9 au milieu des \u00e9clairs et d'un tonnerre dont les Gardes ont \u00e9t\u00e9 foudroy\u00e9s.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1899",
+      "category": "4",
+      "explanation": "'\u00c0 Tersky' indique un mouvement ou une direction vers le personnage Tersky, ce qui correspond \u00e0 la cat\u00e9gorie 'entr\u00e9e'.",
+      "stgdir": "\u00c0 Tersky.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 6248.255252838135,
+  "model": "gpt-4o-mini"
+}

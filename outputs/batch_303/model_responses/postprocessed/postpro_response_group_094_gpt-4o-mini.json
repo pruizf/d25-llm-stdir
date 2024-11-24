@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "930",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le cadre de la sc\u00e8ne, indiquant que l'action se d\u00e9roule \u00e0 Plisth\u00e8ne.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "931",
+      "category": 7,
+      "explanation": "Il d\u00e9crit le mouvement d'un personnage qui passe, sans pour autant entrer ou sortir de la sc\u00e8ne.",
+      "stgdir": "Il passe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "932",
+      "category": 5,
+      "explanation": "Brigitte sort signifie qu'elle quitte la sc\u00e8ne, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Brigitte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "933",
+      "category": 4,
+      "explanation": "Le terme 'entr\u00e9e' indique qu'un personnage fait son apparition sur sc\u00e8ne, ce qui correspond \u00e0 une entr\u00e9e.",
+      "stgdir": "Entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "934",
+      "category": 1,
+      "explanation": "Cette direction indique un acte de violence o\u00f9 le soldat frappe un autre personnage avec sa pique.",
+      "stgdir": "Le soldat le frappe de sa pique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "935",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor de la sc\u00e8ne, qui est les jardins du Palais d'Hercule, ce qui d\u00e9finit le cadre du spectacle.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente les jardins du Palais d'Hercule sur le bord de la mer.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "936",
+      "category": 10,
+      "explanation": "Il tire un petit volume de son habit d\u00e9crit l'interaction du personnage avec un objet, en l'occurrence, un petit volume.",
+      "stgdir": "Il tire un petit volume de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "937",
+      "category": 9,
+      "explanation": "Le 'IV' ne d\u00e9crit pas une action ou une interaction, mais se r\u00e9f\u00e8re probablement \u00e0 un acte ou une sc\u00e8ne, ce qui lui conf\u00e8re une qualit\u00e9 narrative.",
+      "stgdir": "IV.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "938",
+      "category": 11,
+      "explanation": "Cette direction indique que la sc\u00e8ne a lieu chez l'Abb\u00e9, ce qui d\u00e9finit le cadre.",
+      "stgdir": "La sc\u00e8ne est chez l'Abb\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "939",
+      "category": 0,
+      "explanation": "Sans se mettre \u00e0 genoux indique une action sp\u00e9cifique du personnage concernant sa posture, mais cela ne correspond \u00e0 aucune autre cat\u00e9gorie plus pr\u00e9cise.",
+      "stgdir": "Sans se mettre \u00e0 genoux.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5036.201953887939,
+  "model": "gpt-4o-mini"
+}

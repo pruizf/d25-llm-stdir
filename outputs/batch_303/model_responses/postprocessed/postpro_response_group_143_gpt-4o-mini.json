@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1420",
+      "category": "8",
+      "explanation": "La mention 'Air' sugg\u00e8re qu'il s'agit d'une indication musicale, sp\u00e9cifiquement le titre d'une m\u00e9lodie.",
+      "stgdir": "Air : La raison propose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1421",
+      "category": "10",
+      "explanation": "Il s'agit de la manipulation d'un objet, ici une lettre, ce qui correspond \u00e0 la cat\u00e9gorie des objets.",
+      "stgdir": "Prenant une lettre ouverte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1422",
+      "category": "4",
+      "explanation": "Le singe fait son apparition sur sc\u00e8ne, ce qui constitue une entr\u00e9e.",
+      "stgdir": "On voit para\u00eetre un singe.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1423",
+      "category": "9",
+      "explanation": "C'est une direction de sc\u00e8ne longue, remplie de d\u00e9tails narratifs qui d\u00e9crivent une s\u00e9rie d'actions et d'\u00e9v\u00e9nements dramatiques.",
+      "stgdir": "Comme Dorise est pr\u00eate de tuer Caliste, un bruit entendu lui fait relever son \u00e9p\u00e9e, et Rosidor para\u00eet tout en sang poursuivi par ses trois assassins masqu\u00e9s. En entrant, il tue Lycaste, et retirant son \u00e9p\u00e9e elle se rompt contre la branche d'un arbre. En cette extr\u00e9mit\u00e9 il voit celle que tient Dorise, et sans la reconna\u00eetre il s'en saisit, et passe tout d'un temps le tron\u00e7on qui lui restait de la sienne en la main gauche, et se d\u00e9fend ainsi contre Pymante et G\u00e9ronte, dont il tue le dernier et met l'autre en fuite.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1424",
+      "category": "1",
+      "explanation": "Le geste de b\u00e2tonner quelqu'un fait r\u00e9f\u00e9rence \u00e0 une action violente, ce qui en fait une action d'agression.",
+      "stgdir": "Il fait le geste de b\u00e2tonner quelqu'un.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1425",
+      "category": "5",
+      "explanation": "Indique que tous les personnages sortent de la sc\u00e8ne, correspondant \u00e0 une sortie.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1426",
+      "category": "0",
+      "explanation": "S'asseoir \u00e0 table est une action g\u00e9n\u00e9rale, mais ne rentre pas dans les cat\u00e9gories sp\u00e9cifiques. Cela correspond donc \u00e0 une action.",
+      "stgdir": "Il s'assied \u00e0 table. Lafor\u00eat et de Brie vont et viennent par la porte du fond, et apportent une collation.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1427",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit une transformation du d\u00e9cor, ce qui est une indication pour le r\u00e9glage de la sc\u00e8ne.",
+      "stgdir": "D\u00c9CORATION DU TROISI\u00c8ME. Il se fait ici une si \u00e9trange m\u00e9tamorphose qu'il semble qu'avant que de sortir de ce jardin Pers\u00e9e ait d\u00e9couvert cette monstrueuse t\u00eate de M\u00e9duse qu'il porte partout sous son bouclier. Les myrtes et les jasmins qui le composaient sont devenus des rochers affreux dont les masses in\u00e9galement escarp\u00e9es et bossues suivent si parfaitement le caprice de la nature, qu'il semble qu'elle ait plus contribu\u00e9 que l'art \u00e0 les placer ainsi des deux c\u00f4t\u00e9s du th\u00e9\u00e2tre : c'est en quoi l'artifice de l'ouvrier est merveilleux, et se fait voir d'autant plus qu'il prend soin de se cacher. Les vagues s'emparent de toute la sc\u00e8ne, \u00e0 la r\u00e9serve de cinq ou six pieds qu'ils laissent pour leur servir de rivage ; elles sont dans une agitation continuelle, et composent comme un golfe enferm\u00e9 entre ces deux rangs de falaises ; on en voit l'embouchure se d\u00e9gorger dans la pleine mer, qui para\u00eet si vaste et d'une si grande \u00e9tendue qu'on jurerait que les vaisseaux qui flottent pr\u00e8s de l'horizon, dont le vue est born\u00e9e, sont \u00e9loign\u00e9s de plus de six lieues de ceux qui les consid\u00e8rent. Il n'y a personne qui ne juge que cet horrible spectacle et le funeste appareil de l'injustice des Dieux et du supplice d'Androm\u00e8de ; aussi la voit-on au haut des nues, d'o\u00f9 les deux vents qui l'ont enlev\u00e9e l'apportent avec imp\u00e9tuosit\u00e9 et l'attachement au pied d'un de ces rochers.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1428",
+      "category": "12",
+      "explanation": "L'indication '\u00c0 la veuve' montre l'adresse d'un personnage, ce qui correspond \u00e0 l'orientation d'une r\u00e9plique ou d'une action vers un autre personnage.",
+      "stgdir": "\u00c0 la veuve.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1429",
+      "category": "6",
+      "explanation": "Rejeter une \u00e9charpe implique une interaction non verbale entre deux personnages, indiquant un geste de rejet ou de d\u00e9fense.",
+      "stgdir": "Lui rejetant son \u00e9charpe.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 9153.420209884644,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1520",
+      "category": "8",
+      "explanation": "Cette direction indique une pi\u00e8ce musicale, avec 'Air' sugg\u00e9rant une m\u00e9lodie ou une chanson.",
+      "stgdir": "Air : Le tout par nature.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1521",
+      "category": "5",
+      "explanation": "'Il s'en retourne' implique que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1522",
+      "category": "10",
+      "explanation": "'Il arrache les papiers' d\u00e9crit l'interaction d'un personnage avec un objet, en l'occurrence des papiers.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1523",
+      "category": "4",
+      "explanation": "Cette direction implique que deux personnages entrent sur sc\u00e8ne, donc c'est un 'entr\u00e9e'.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1524",
+      "category": "6",
+      "explanation": "'PANTOMIME' implique une interaction non verbale entre les personnages.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1525",
+      "category": "8",
+      "explanation": "Comme pour 1520, cela d\u00e9signe une autre pi\u00e8ce musicale.",
+      "stgdir": "AIR. ( Quand je tiens de ce jus d'octobre. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1526",
+      "category": "5",
+      "explanation": "'Adrien sort' indique que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1527",
+      "category": "10",
+      "explanation": "'Ouvrant la premi\u00e8re lettre' implique une interaction avec un objet, ici une lettre.",
+      "stgdir": "Ouvrant la premi\u00e8re lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1528",
+      "category": "8",
+      "explanation": "Cela indique une autre pi\u00e8ce musicale.",
+      "stgdir": "AIR. N'avez-vous pas vu l'horloge.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1529",
+      "category": "6",
+      "explanation": "'Montrant Cris\u00e9is' implique une interaction non verbale avec un autre personnage.",
+      "stgdir": "Montrant Cris\u00e9is.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 8909.78217124939,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1310",
+      "category": "5",
+      "explanation": "Le Baron sort. \u2013 This indicates that the Baron is exiting the stage, which fits the exit category.",
+      "stgdir": "Le Baron sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1311",
+      "category": "4",
+      "explanation": "Elle rentre dans le ch\u00e2teau. \u2013 This indicates that the character is entering the castle, which fits the entrance category.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1312",
+      "category": "7",
+      "explanation": "Voyant approcher Gustave. \u2013 This indicates movement towards a character (Gustave), thus it fits the movement category.",
+      "stgdir": "Voyant approcher Gustave.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1313",
+      "category": "8",
+      "explanation": "AIR. De la Royale, etc. \u2013 This indicates the name of a tune, fitting the music category.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1314",
+      "category": "8",
+      "explanation": "Air : Babet que t'es gentille ! \u2013 Similar to the previous, this is also a tune name indicating music.",
+      "stgdir": "Air : Babet que t'es gentille !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1315",
+      "category": "11",
+      "explanation": "Montval, lit. \u2013 This describes a setting, specifically a character's location (a bed) in the play.",
+      "stgdir": "Montval, lit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1316",
+      "category": "5",
+      "explanation": "Elle sort avec Octave. \u2013 This indicates that the character is exiting with another character (Octave), which is an exit.",
+      "stgdir": "Elle sort avec Octave.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1317",
+      "category": "6",
+      "explanation": "Il lui serre le bout des doigts. \u2013 This describes a non-verbal interaction (holding fingers), therefore it fits the interaction category.",
+      "stgdir": "Il lui serre le bout des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1318",
+      "category": "10",
+      "explanation": "Montrant sa bague. \u2013 This describes an interaction with an object (showing the ring), fitting the object category.",
+      "stgdir": "Montrant sa bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1319",
+      "category": "7",
+      "explanation": "Il fait un pas pour s'en aller et revient toujours. \u2013 This indicates movement (taking a step to leave and returning), fitting the movement category.",
+      "stgdir": "Il fait un pas pour s'en aller et revient toujours.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 10914.41011428833,
+  "model": "gpt-4o-mini"
+}

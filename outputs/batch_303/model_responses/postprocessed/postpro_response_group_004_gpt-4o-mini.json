@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "30",
+      "category": 10,
+      "explanation": "Il fait lever la toile indicates an action involving an object, specifically the canvas, thus classifying it as object-related.",
+      "confidence": 0.9,
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": 6,
+      "explanation": "The interaction between Le Docteur and Arlequin involves physical contact and a chase, indicating a non-verbal character interaction.",
+      "confidence": 0.8,
+      "stgdir": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": 5,
+      "explanation": "Actor s'en va denotes the character exiting the stage, which fits perfectly into the exit category.",
+      "confidence": 1.0,
+      "stgdir": "Actor s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": 10,
+      "explanation": "Elle d\u00e9chire la lettre involves tearing an object, which classifies this action under the object category.",
+      "confidence": 0.9,
+      "stgdir": "Elle d\u00e9chire la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": 8,
+      "explanation": "Air nouveau de Couder specifies a tune name, categorizing it as music.",
+      "confidence": 1.0,
+      "stgdir": "Air nouveau de Couder.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": 12,
+      "explanation": "\u00c0 Poquelin indicates the direction of speech rather than physical action; thus, it fits the toward category.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": 8,
+      "explanation": "Air : Je veux t'\u00eatre un Chien, etc. expressly notes a tune, categorizing it as music.",
+      "confidence": 1.0,
+      "stgdir": "Air : Je veux t'\u00eatre un Chien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": 6,
+      "explanation": "The change of tone when elle aper\u00e7oit Dorval implies interaction with another character, suggesting a non-verbal exchange.",
+      "confidence": 0.8,
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": 12,
+      "explanation": "\u00c0 Lucinde indicates who the character is addressing, thus categorizing it as toward.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 Lucinde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": 0,
+      "explanation": "Elle s'arrange la figure devant la glace is a general action not defined by other specific categories, hence it fits action.",
+      "confidence": 0.9,
+      "stgdir": "Elle s'arrange la figure devant la glace.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8529.948711395264,
+  "model": "gpt-4o-mini"
+}

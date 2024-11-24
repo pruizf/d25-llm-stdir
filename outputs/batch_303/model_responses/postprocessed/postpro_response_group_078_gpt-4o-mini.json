@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "770",
+      "category": "7",
+      "explanation": "Hortense les suit implies a character following another, which fits the category of movement.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "5",
+      "explanation": "Il part avec Silvia indicates that a character is leaving the stage, which is categorized as an exit.",
+      "stgdir": "Il part avec Silvia.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "8",
+      "explanation": "Air : Je ne verrai plus ce que j'aime suggests a musical piece is involved, indicated by the term 'Air'.",
+      "stgdir": "Air : Je ne verrai plus ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "773",
+      "category": "12",
+      "explanation": "\u00c0 Madame Patin indicates who the character is addressing or focusing on, aligning it with the toward category.",
+      "stgdir": "\u00c0 Madame Patin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "774",
+      "category": "4",
+      "explanation": "Tartuffe entre chez Thalie indicates a character entering a location, fitting the entrance category.",
+      "stgdir": "Tartuffe entre chez Thalie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "775",
+      "category": "8",
+      "explanation": "AIR : Quel plaisir de voir Claudine ! indicates a musical piece, as it begins with 'AIR'.",
+      "stgdir": "AIR : Quel plaisir de voir Claudine !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "776",
+      "category": "9",
+      "explanation": "This direction provides narrative detail about the scene: characters are present, engaged in an activity, and there's ambient noise indicating a public celebration.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "777",
+      "category": "7",
+      "explanation": "Allant \u00e0 Marie indicates a character's movement towards another character, categorizing it as movement.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "778",
+      "category": "12",
+      "explanation": "\u00c0 Arlequin suggests a direction of focus towards another character, fitting the toward category.",
+      "stgdir": "\u00c0 Arlequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "779",
+      "category": "0",
+      "explanation": "Ayant l'air de chercher describes a general action of searching, which falls into the action category.",
+      "stgdir": "Ayant l'air de chercher.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8763.198852539062,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1240",
+      "category": "4",
+      "explanation": "Derville entre.",
+      "entrance": "Il s'agit clairement d'une indication d'entr\u00e9e de personnage sur sc\u00e8ne.",
+      "stgdir": "Derville entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1241",
+      "category": "3",
+      "explanation": "Il sort en chantonnant de nouveau le refrain de l'Amant d'Amanda.",
+      "delivery": "Le fait qu'il chante indique une mani\u00e8re de livraison vocale.",
+      "stgdir": "Il sort en chantonnant de nouveau le refrain de l'Amant d'Amanda.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1242",
+      "category": "9",
+      "explanation": "Adeline, Eglante, Necelle, sont toutes tremblantes, craignant que l'ordre ne soit contre elles...",
+      "narration": "Cette direction donne un r\u00e9cit d\u00e9taill\u00e9 des \u00e9motions des personnages, ce qui lui conf\u00e8re une qualit\u00e9 narrative.",
+      "stgdir": "Adeline, Eglante, Necelle, sont toutes tremblantes , craignant que l'ordre ne soit contre elles. Elles ne se rassurent un peu, que lorsqu'elles sont certaines que l'exempt n'en veut qu'\u00e0 la Marquise, qu'elles ont cru jusqu'\u00e0 ce moment une nouvelle d\u00e9barqu\u00e9e de province, qui \u00e9tait venue, comme le chevalier le leur a dit, pour d\u00e9buter \u00e0 l'Op\u00e9ra.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1243",
+      "category": "8",
+      "explanation": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "music": "Indique une pi\u00e8ce musicale ou un air, d'o\u00f9 le classement dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1244",
+      "category": "7",
+      "explanation": "Il rit. Laurent rentre vivement, l'oeil hagard...",
+      "movement": "La mention de Laurent rentrant indique un mouvement sans sp\u00e9cifier une entr\u00e9e ou une sortie.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1245",
+      "category": "5",
+      "explanation": "Antelme s'en va.",
+      "exit": "Cette indication repr\u00e9sente clairement une sortie d'un personnage.",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1246",
+      "category": "10",
+      "explanation": "Les femmes donnent aux hommes des noeuds d'\u00e9p\u00e9e etc.",
+      "object": "Cette direction implique un \u00e9change d'objets, en l'occurrence, des noeuds d'\u00e9p\u00e9e.",
+      "stgdir": "Les femmes donnent aux hommes des noeuds d'\u00e9p\u00e9e etc.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1247",
+      "category": "7",
+      "explanation": "Il s'accroche \u00e0 un des rosiers de l'Ecole des Femmes.",
+      "movement": "Indique un mouvement physique d'accrochement.",
+      "stgdir": "Il s'accroche \u00e0 un des rosiers de l'Ecole des Femmes.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1248",
+      "category": "2",
+      "explanation": "Se retournant vers les Spectateurs.",
+      "aparte": "Cela indique une action o\u00f9 le personnage s'adresse \u00e0 l'audience.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1249",
+      "category": "12",
+      "explanation": "Au po\u00e8te.",
+      "toward": "Cette direction pr\u00e9cise \u00e0 qui ou \u00e0 quoi la parole est adress\u00e9e.",
+      "stgdir": "Au po\u00e8te.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5823.036909103394,
+  "model": "gpt-4o-mini"
+}

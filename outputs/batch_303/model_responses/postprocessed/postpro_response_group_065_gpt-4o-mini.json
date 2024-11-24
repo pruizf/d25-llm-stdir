@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "640",
+      "category": "3",
+      "explanation": "Il s'agit d'un pr\u00e9lude, ce qui implique une forme de musique ou de ton qui serait li\u00e9 \u00e0 la mani\u00e8re de livraison, sugg\u00e9rant une ambiance ou une \u00e9motion.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "9",
+      "explanation": "Cette direction renvoie \u00e0 une citation d'un passage scripturaire, ce qui a une qualit\u00e9 narrative et est destin\u00e9 \u00e0 fournir du contexte au public.",
+      "stgdir": "(Gen. XXII, 17 et 18).",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "4",
+      "explanation": "L'expression 'Le Comte para\u00eet' signifie qu'un personnage entre en sc\u00e8ne, ce qui correspond \u00e0 la d\u00e9finition de l'entr\u00e9e.",
+      "stgdir": "Le Comte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "0",
+      "explanation": "Tout accourt \u00e0 sa voix d\u00e9crit une action g\u00e9n\u00e9rale o\u00f9 plusieurs personnages r\u00e9agissent, mais sans mentionner une interaction sp\u00e9cifique ou un mouvement.",
+      "stgdir": "Tout accourt \u00e0 sa voix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "0",
+      "explanation": "Le fait de 'se lever de table' d\u00e9crit une action de mani\u00e8re g\u00e9n\u00e9rale sans sp\u00e9cifier d'entr\u00e9e ou de sortie.",
+      "stgdir": "Il se l\u00e8ve de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "3",
+      "explanation": "\u00c0 demi-voix sugg\u00e8re une mani\u00e8re sp\u00e9cifique de d\u00e9livrer un discours, en indiquant un ton tr\u00e8s bas, ce qui correspond \u00e0 l'expression vocale.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "7",
+      "explanation": "Elles traversent toutes deux implique un mouvement physique d'un endroit \u00e0 un autre, ce qui se classe dans le domaine du mouvement.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "6",
+      "explanation": "Elle joint les mains d\u00e9crit une interaction non verbale entre une personne et elle-m\u00eame, ce qui est une forme d'interaction spirituelle ou de pri\u00e8re.",
+      "stgdir": "Elle joint les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "0",
+      "explanation": "On frappe \u00e0 la porte au fond d\u00e9crit une action g\u00e9n\u00e9rale sans sp\u00e9cifier d'interaction claire ou de mouvement li\u00e9 \u00e0 un personnage.",
+      "stgdir": "On frappe \u00e0 la porte au fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "6",
+      "explanation": "Paquette lui serrant la main d\u00e9crit une interaction non verbale entre deux personnages, ce qui est clairement identifi\u00e9 comme une interaction.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 6150.094509124756,
+  "model": "gpt-4o-mini"
+}

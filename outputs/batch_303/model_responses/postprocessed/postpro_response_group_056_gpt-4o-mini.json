@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "550",
+      "category": "5",
+      "explanation": "Merlin s'enfuit implique une sortie de sc\u00e8ne, indiquant une exit.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "551",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crivant une s\u00e9rie d'actions avec des interactions et des conflits a une qualit\u00e9 narrative longue, donc cela rel\u00e8ve de la narration.",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "552",
+      "category": "10",
+      "explanation": "Montrant le manuscrit d\u00e9signe un objet pr\u00e9cis (le manuscrit) et son interaction, ce qui correspond \u00e0 la cat\u00e9gorie objet.",
+      "stgdir": "Montrant le manuscrit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "553",
+      "category": "5",
+      "explanation": "Les gar\u00e7ons disparaissent implique \u00e9galement une sortie de sc\u00e8ne, donc c'est class\u00e9 comme exit.",
+      "stgdir": "Les gar\u00e7ons disparaissent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "554",
+      "category": "6",
+      "explanation": "Antoine le tire par son habit est une interaction physique entre les personnages, correspond \u00e0 la cat\u00e9gorie interaction.",
+      "stgdir": "Antoine le tire par son habit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "555",
+      "category": "8",
+      "explanation": "AIR. ( Attende-moi sous l'Orme. ) indique qu'il s'agit d'un morceau de musique, correspondant \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "556",
+      "category": "8",
+      "explanation": "Air : Vaud[e]v[ille] d'Abuzar est aussi une indication musicale, donc class\u00e9 dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "557",
+      "category": "8",
+      "explanation": "AIR Dans un Couvent bien-heureux fait r\u00e9f\u00e9rence \u00e0 de la musique, le classant dans la cat\u00e9gorie musique.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "558",
+      "category": "9",
+      "explanation": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a prise est une description narrative des actions militaires, donc classification comme narration.",
+      "stgdir": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "559",
+      "category": "0",
+      "explanation": "Harpag\u00eame se met dans le pi\u00e8ge d\u00e9crit une action g\u00e9n\u00e9rale sans incident sp\u00e9cifique, donc cela correspond \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Harpag\u00eame se met dans le pi\u00e8ge.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 6214.519500732422,
+  "model": "gpt-4o-mini"
+}

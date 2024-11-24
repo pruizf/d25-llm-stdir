@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "700",
+      "category": "6",
+      "explanation": "Les clercs s'assemblent devant lui indique une interaction non verbale car cela implique un rassemblement physique sans dialogue.",
+      "stgdir": "Les clercs s'assemblent devant lui.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "701",
+      "category": "1",
+      "explanation": "La lutte valeureuse de Th\u00e9odore avec le mot 'humiliation' montre une forme d'agression verbale ou interne, car \u2018lutte\u2019 implique un combat, m\u00eame symbolique.",
+      "stgdir": "Lutte valeureuse de Th\u00e9odore avec le mot \"humiliation\".",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "702",
+      "category": "11",
+      "explanation": "La sc\u00e8ne est \u00e0 Paris d\u00e9crit le cadre de l'action, ce qui correspond donc \u00e0 la cat\u00e9gorie de mise en sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne est \u00e0 Paris.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "703",
+      "category": "11",
+      "explanation": "\u00c0 \u00c9rope et \u00e0 Thyeste d\u00e9crit \u00e9galement un cadre, ce qui qualifie cette direction comme \u00e9tant de la mise en sc\u00e8ne.",
+      "stgdir": "\u00c0 \u00c9rope et \u00e0 Thyeste.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "704",
+      "category": "10",
+      "explanation": "Il tire un des parchemins de l'urne implique l'utilisation d'un objet, sp\u00e9cifiquement un parchemin, ce qui le place dans la cat\u00e9gorie d'objet.",
+      "stgdir": "Il tire un des parchemins de l'urne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "705",
+      "category": "10",
+      "explanation": "Il donne son fouet \u00e0 L\u00e9pine implique la manipulation d'un objet (le fouet), ce qui correspond \u00e0 la cat\u00e9gorie d'objet.",
+      "stgdir": "Il donne son fouet \u00e0\u00a0 L\u00e9pine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "706",
+      "category": "6",
+      "explanation": "En montrant Betti indique une interaction non verbale o\u00f9 le personnage d\u00e9signe une autre personne sans paroles.",
+      "stgdir": "En montrant Betti.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "707",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'int\u00e9rieur d'un caf\u00e9 d\u00e9crit une sc\u00e8ne sp\u00e9cifique, ce qui correspond \u00e0 la mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'int\u00e9rieur d'un caf\u00e9, dans lequel on voit les bustes de quelques grands hommes, ni entr'autres celui de Moli\u00e8re.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "708",
+      "category": "0",
+      "explanation": "Ils mangent tous deux est une action g\u00e9n\u00e9rale sans indication sp\u00e9cifique d'interaction complexe, donc class\u00e9 comme action.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "709",
+      "category": "6",
+      "explanation": "Elle l'embrasse passionn\u00e9ment d\u00e9crit une interaction physique entre deux personnages, ce qui le classe dans l'interaction.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 5754.0442943573,
+  "model": "gpt-4o-mini"
+}

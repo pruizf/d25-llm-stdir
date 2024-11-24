@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1860",
+      "category": "11",
+      "explanation": "Ceci indique le lieu de la sc\u00e8ne, qui est Thar\u00e8s, class\u00e9 comme 'setting'.",
+      "stgdir": "\u00c0 Thar\u00e8s.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1861",
+      "category": "2",
+      "explanation": "Cette direction implique que Dandinville parle \u00e0 quelqu'un \u00e0 l'oreille, ce qui est un apart\u00e9.",
+      "stgdir": "\u00c0 l'oreille de Dandinville.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1862",
+      "category": "11",
+      "explanation": "Ceci indique le lieu de la sc\u00e8ne, La Ram\u00e9e, et est donc class\u00e9 comme 'setting'.",
+      "stgdir": "\u00c0 La Ram\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1863",
+      "category": "8",
+      "explanation": "Cette direction mentionne un air, ce qui en fait une r\u00e9f\u00e9rence musicale, class\u00e9e sous 'music'.",
+      "stgdir": "Air. Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1864",
+      "category": "0",
+      "explanation": "Bien que plus descriptive, cette direction ne correspond \u00e0 aucune autre cat\u00e9gorie et est donc class\u00e9e comme 'action'.",
+      "stgdir": "LION OURS TIGRE ET PANTHERE",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1865",
+      "category": "10",
+      "explanation": "Cette direction se r\u00e9f\u00e8re \u00e0 un objet, les tablettes, et la manipulation de cet objet est class\u00e9e sous 'object'.",
+      "stgdir": "Elle reprend les tablettes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1866",
+      "category": "8",
+      "explanation": "Cette direction mentionne \u00e9galement un air, ce qui la classe sous la cat\u00e9gorie 'music'.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1867",
+      "category": "8",
+      "explanation": "Cela indique un air sp\u00e9cifique, et est ainsi class\u00e9 sous 'music'.",
+      "stgdir": "Air 154 : Est-ce que \u00e7a se demande ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1868",
+      "category": "5",
+      "explanation": "Cette direction implique qu'Algine sort de la sc\u00e8ne, class\u00e9e sous 'exit'.",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1869",
+      "category": "8",
+      "explanation": "Semblable aux autres airs, cette direction \u00e9voque une pi\u00e8ce musicale, donc class\u00e9e sous 'music'.",
+      "stgdir": "AIR. Le vieux Docteur Blaise.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7453.818321228027,
+  "model": "gpt-4o-mini"
+}

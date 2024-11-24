@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2120",
+      "category": "8",
+      "explanation": "Le terme 'Air' indique qu'il s'agit d'une partie musicale, faisant r\u00e9f\u00e9rence \u00e0 une m\u00e9lodie ou un chant.",
+      "stgdir": "Air : Du jaloux malgr\u00e9 lui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2121",
+      "category": "8",
+      "explanation": "Comme pour le pr\u00e9c\u00e9dent, 'Air' indique une m\u00e9lodie ou un chant associ\u00e9 \u00e0 'Belle Chanoinesse'.",
+      "stgdir": "Air : Belle Chanoinesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2122",
+      "category": "4",
+      "explanation": "L'indication 'Il entre chez le Cardinal' d\u00e9crit une entr\u00e9e sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Il entre chez le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2123",
+      "category": "6",
+      "explanation": "L'action de 'Montrant son enfant' implique une interaction non verbale, o\u00f9 un personnage interagit avec un autre par le geste.",
+      "stgdir": "Montrant son enfant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2124",
+      "category": "12",
+      "explanation": "'\u00c0 Durval' indique la personne \u00e0 qui le personnage s'adresse, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Durval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2125",
+      "category": "8",
+      "explanation": "De nouveau, 'Air 49' indique une partie musicale, faisant r\u00e9f\u00e9rence \u00e0 une m\u00e9lodie ou un chant sp\u00e9cifique.",
+      "stgdir": "Air 49 : Jardinier ne vois-tu pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2126",
+      "category": "5",
+      "explanation": "'Rosine sort' indique clairement une sortie de sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'exit.",
+      "stgdir": "Rosine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2127",
+      "category": "0",
+      "explanation": "'Il ne r\u00e9pond rien' est une action g\u00e9n\u00e9rale et peut \u00eatre class\u00e9e comme une action non verbale.",
+      "stgdir": "Il ne r\u00e9pond rien.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2128",
+      "category": "12",
+      "explanation": "'\u00c0 M\u00e9rione' d\u00e9signe l'addresse du personnage, ce qui appartenant \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2129",
+      "category": "6",
+      "explanation": "C\u00e9l\u00e9brant l'interaction entre C\u00c9LINDE et LUCIDOR, cette indication d\u00e9crit une interaction entre deux personnages en m\u00eame temps.",
+      "stgdir": "C\u00c9LINDE et LUCIDOR en m\u00eame temps.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 13969.788789749146,
+  "model": "gpt-4o-mini"
+}

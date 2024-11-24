@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "340",
+      "category": "8",
+      "explanation": "L'indication 'Air 135 : Les fanatiques' fait r\u00e9f\u00e9rence \u00e0 une musique, ce qui la classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air 135 : Les fanatiques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "341",
+      "category": "5",
+      "explanation": "Les deux Blanchet sortent implique une action de sortie, ce qui correspond \u00e0 la cat\u00e9gorie d'exit.",
+      "stgdir": "Les deux Blanchet sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "342",
+      "category": "4",
+      "explanation": "\u00c0 Gillette indique une entr\u00e9e d'un personnage ou d'un groupe de personnages, donc cela correspond \u00e0 la cat\u00e9gorie d'entrance.",
+      "stgdir": "\u00c0 Gillette.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "343",
+      "category": "8",
+      "explanation": "L'indication 'Air du bienheureux Lisandre' fait \u00e9galement r\u00e9f\u00e9rence \u00e0 une musique, ce qui la classe dans la cat\u00e9gorie musique.",
+      "stgdir": "Air du bienheureux Lisandre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "344",
+      "category": "4",
+      "explanation": "Apercevant Monsieur Rossignol qui entre indique l'entr\u00e9e d'un personnage, correspondant \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Apercevant Monsieur Rossignol qui entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "345",
+      "category": "10",
+      "explanation": "Il d\u00e9chire le billet fait r\u00e9f\u00e9rence \u00e0 une interaction avec un objet (le billet) et \u00e0 l'action de le d\u00e9chirer.",
+      "stgdir": "Il d\u00e9chire le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "346",
+      "category": "5",
+      "explanation": "Elle rentre du m\u00eame c\u00f4t\u00e9 implique une action de sortie, ce qui correspond \u00e0 la cat\u00e9gorie d'exit.",
+      "stgdir": "Elle rentre du m\u00eame c\u00f4t\u00e9.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "347",
+      "category": "8",
+      "explanation": "L'indication 'Air : La com\u00e9die est un miroir' fait r\u00e9f\u00e9rence \u00e0 une musique, ce qui la classe dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : La com\u00e9die est un miroir.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "348",
+      "category": "8",
+      "explanation": "L'indication 'Air : Roulant ma brouette' fait aussi r\u00e9f\u00e9rence \u00e0 une musique, ce qui la classe dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Roulant ma brouette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "349",
+      "category": "8",
+      "explanation": "L'indication 'AIR : Par piti\u00e9 daignez vous rendre' fait r\u00e9f\u00e9rence \u00e0 une musique, ce qui la classe dans la cat\u00e9gorie musique.",
+      "stgdir": "AIR : Par piti\u00e9 daignez vous rendre.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 11023.907899856567,
+  "model": "gpt-4o-mini"
+}

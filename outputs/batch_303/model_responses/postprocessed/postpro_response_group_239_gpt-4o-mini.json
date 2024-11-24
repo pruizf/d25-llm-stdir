@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2380",
+      "category": "4",
+      "explanation": "Thersandre appara\u00eet indique l'entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Thersandre para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2381",
+      "category": "5",
+      "explanation": "Dorante s'en va indique que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "Dorante s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2382",
+      "category": "0",
+      "explanation": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s indique une action g\u00e9n\u00e9rale de sortie arm\u00e9e, sans indiquer une entr\u00e9e ou sortie pr\u00e9cise.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2383",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron d\u00e9crit le d\u00e9cor sc\u00e9nique.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2384",
+      "category": "12",
+      "explanation": "Aux femmes indique que le personnage s'adresse \u00e0 un groupe sp\u00e9cifique de personnes.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2385",
+      "category": "1",
+      "explanation": "Il se fait un grand mouvement parmi les g\u00e9n\u00e9raux, pendant que Wallstein parle indique une tension agressive et mena\u00e7ante.",
+      "stgdir": "Il se fait un grand mouvement parmi les g\u00e9n\u00e9raux, pendant que Wallstein parle. Ils regardent G\u00e9raldin d'un air mena\u00e7ant.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2386",
+      "category": "10",
+      "explanation": "Il prend le livre indique une interaction avec un objet, le livre.",
+      "stgdir": "Il prend le livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2387",
+      "category": "3",
+      "explanation": "Baissant sa voix fait r\u00e9f\u00e9rence \u00e0 la mani\u00e8re de livraison de la voix, une caract\u00e9ristique \u00e9motionnelle.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2388",
+      "category": "0",
+      "explanation": "Ad\u00e9la\u00efde reste absorb\u00e9e indique une action o\u00f9 un personnage est pensif, sans sp\u00e9cifier d'interaction.",
+      "stgdir": "Ad\u00e9la\u00efde reste absorb\u00e9e : Madame Wanderk pr\u00eate \u00e0 rentrer, jette un coup d'oeil, et \u00e0 toutes les peines du monde \u00e0 s'emp\u00eacher de rire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2389",
+      "category": "3",
+      "explanation": "Il \u00e9treint sa poitrine d'une main fi\u00e9vreuse fait r\u00e9f\u00e9rence \u00e0 une expression de sentiment ou d'\u00e9motion par le biais d'une action corporelle.",
+      "stgdir": "Il \u00e9treint sa poitrine d'une main fi\u00e9vreuse.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 5392.842054367065,
+  "model": "gpt-4o-mini"
+}

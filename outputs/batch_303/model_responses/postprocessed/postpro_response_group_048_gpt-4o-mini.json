@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 470,
+      "category": 2,
+      "explanation": "L'indication 'Elle dit bas' sugg\u00e8re que le personnage parle \u00e0 voix basse, ce qui correspond \u00e0 la notion d'aparte o\u00f9 le personnage s'adresse sur un ton confidentiel.",
+      "stgdir": "Elle dit bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 471,
+      "category": 3,
+      "explanation": "Dans 'Il chante avec la guitare', le fait que le personnage chante et joue de la guitare implique une expression vocale, ce qui correspond \u00e0 la cat\u00e9gorie de livraison.",
+      "stgdir": "Il chante avec la guitare.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 472,
+      "category": 6,
+      "explanation": "'Il appelle dans le Corridor' d\u00e9signe une interaction verbale avec des personnages absents, mais c'est davantage un appel qu'une interaction physique non verbale.",
+      "stgdir": "Il appelle dans le Corridor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 473,
+      "category": 10,
+      "explanation": "Cette direction d\u00e9crit en d\u00e9tail un costume sp\u00e9cifique, ce qui la classe dans la cat\u00e9gorie d'objet, car elle traite de l'habillement du personnage.",
+      "stgdir": "COSTUME DU HURON. Redingote de couleur claire, tr\u00e8s courte ; pantalon de couleur fonc\u00e9e, \u00e9galement tr\u00e8s court ; gilet ray\u00e9, chemise bleue \u00e0 raies cravate \u00e0 la Colin, bas blancs, souliers \u00e0 cordons, perruque de n\u00e8gre, tr\u00e8s fris\u00e9e, longs pendants d'oreilles en corail.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 474,
+      "category": 1,
+      "explanation": "Le fait que 'Citoyens et Soldats se combattant' indique une action violente entre ces personnages, la classant clairement dans la cat\u00e9gorie d'agression.",
+      "stgdir": "Citoyens et Soldats se combattant avec confusion et paraissant s'entretuer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 475,
+      "category": 12,
+      "explanation": "'\u00c0 ses \u00e9cuyers' semble sugg\u00e9rer que le personnage s'adresse sp\u00e9cifiquement \u00e0 ses \u00e9cuyers, ce qui implique une mention d'un destinataire.",
+      "stgdir": "\u00c0 ses \u00e9cuyers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 476,
+      "category": 8,
+      "explanation": "Le terme 'AIR : Lon la' indique le nom d'un morceau de musique, ce qui le classe dans la cat\u00e9gorie de musique.",
+      "stgdir": "AIR : Lon la",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 477,
+      "category": 0,
+      "explanation": "La phrase d\u00e9crit une s\u00e9rie d'actions o\u00f9 le personnage perd des objets, sans impliquer d'exit ou d'entr\u00e9e sp\u00e9cifique, elle est donc g\u00e9n\u00e9rale et correspond \u00e0 l'action.",
+      "stgdir": "En se d\u00e9menant, sa robe, son chapeau et sa perruque tombent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 478,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit une biblioth\u00e8que vide, ce qui en fait une description d'un cadre ou d'un emplacement, class\u00e9e comme mise en sc\u00e8ne.",
+      "stgdir": "Une biblioth\u00e8que dont tous les rayons sont vides ; au milieu, Sainte-Beuve, et \u00e0 son c\u00f4t\u00e9 un diable, travesti en \u00e9tudiant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 479,
+      "category": 7,
+      "explanation": "'Il aper\u00e7oit Harpagon' implique un mouvement dans lequel le personnage observe ou per\u00e7oit quelqu'un, ce qui le classe dans la cat\u00e9gorie de mouvement.",
+      "stgdir": "Il aper\u00e7oit Harpagon.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 9734.760284423828,
+  "model": "gpt-4o-mini"
+}

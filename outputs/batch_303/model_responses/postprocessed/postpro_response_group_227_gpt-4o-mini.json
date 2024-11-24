@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2260",
+      "category": "9",
+      "explanation": "The phrase expresses a narrative quality reflecting on a character's fault, making it fit as a narration.",
+      "stgdir": "Air. H\u00e9las, ce fut sa faute.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2261",
+      "category": "4",
+      "explanation": "This describes the entrance of the characters onto the stage, as they arrive together.",
+      "stgdir": "Ils arrivent tous quatre, don Carlos en t\u00eate. Ils sont envelopp\u00e9s de longs manteaux dont leurs \u00e9p\u00e9es soul\u00e8vent le bord inf\u00e9rieur.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2262",
+      "category": "5",
+      "explanation": "Thibaut leaving indicates an exit from the stage.",
+      "stgdir": "Thibaut s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2263",
+      "category": "0",
+      "explanation": "The action of swallowing poison is an action but not violent, fitting the general action category.",
+      "stgdir": "Elle avale le poison.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2264",
+      "category": "8",
+      "explanation": "The term 'AIR' indicates that this is a reference to music or a song.",
+      "stgdir": "AIR : Ne m'entendez vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2265",
+      "category": "10",
+      "explanation": "This direction involves the presentation of an object to someone, which aligns with the object category.",
+      "stgdir": "On le lui pr\u00e9sente.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2266",
+      "category": "2",
+      "explanation": "The character is speaking in a way that suggests they are addressing the audience or contemplating, fitting the aparte category.",
+      "stgdir": "Voyant qu'elles s'expliquaient \u00e0 moi sans aucun scrupule, je leur dis qu'encore qu'elles m'eussent command\u00e9 de les \u00e9couter sans interrompre leurs discours, que je ne pouvais m'emp\u00eacher de leur confesser qu'elles avaient assez bien d\u00e9fendu leur opinion, touchant l'amour qu'elles pouvaient avoir pour un seul objet ; mais qu'il fallait traiter de cet amour qu'on feint d'avoir pour plusieurs, toutefois en ressentir que pour soi-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2267",
+      "category": "7",
+      "explanation": "'Avan\u00e7ant en sc\u00e8ne' indicates movement toward the audience or stage area, which fits the movement category.",
+      "stgdir": "Avan\u00e7ant en sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2268",
+      "category": "0",
+      "explanation": "Don Cosme reading is a simple action performed by a character.",
+      "stgdir": "Don Cosme lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2269",
+      "category": "8",
+      "explanation": "Similar to 2264, 'AIR' indicates that this is about music or a song.",
+      "stgdir": "Air 85 : Y-avance, y-avance.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8161.486864089966,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "710",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, as it is directed at Pierrot.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "711",
+      "category": "10",
+      "explanation": "Describes the action of taking notes, which involves interaction with an object.",
+      "stgdir": "Il prend des notes pour sa collection.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "712",
+      "category": "0",
+      "explanation": "The action of prostrating oneself is a general character action that doesn't fit into other categories.",
+      "stgdir": "Elle se jette \u00e0 terre et se prosterne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "713",
+      "category": "1",
+      "explanation": "The phrase suggests an aggressive movement or collision as it involves hitting another character.",
+      "stgdir": "Il heurte Grapinian, qui fait trois ou quatre pas, et se touchant le coude.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "714",
+      "category": "3",
+      "explanation": "The action is about characters bursting into laughter, which is a delivery of emotion.",
+      "stgdir": "Dassoucy, le Docteur et Pierrotin \u00e9clatent de rire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "715",
+      "category": "6",
+      "explanation": "Involves non-verbal character interaction through gestures intended to communicate intentions.",
+      "stgdir": "Il se retourne devers Isidore, \u00e0 chaque parole qu'il dit \u00e0 Don_P\u00e8dre : et lui fait des signes pour lui faire conna\u00eetre le dessein de son ma\u00eetre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "716",
+      "category": "8",
+      "explanation": "Begins with 'Air', indicating a musical element related to the character Nanon sleeping.",
+      "stgdir": "Air. Nanon dormait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "717",
+      "category": "8",
+      "explanation": "Also begins with 'Air', designating it as a musical piece or reference.",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "718",
+      "category": "4",
+      "explanation": "Indicates that a character (Argimont) is entering the stage.",
+      "stgdir": "\u00c0 Argimont.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "719",
+      "category": "5",
+      "explanation": "Describes the action of exiting the stage while pulling out a tablet, fitting the exit category.",
+      "stgdir": "Il sort en tirant ses tablettes.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 4975.132465362549,
+  "model": "gpt-4o-mini"
+}

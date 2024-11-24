@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2190",
+      "category": 4,
+      "explanation": "La direction indique que 'La F\u00e9e' entre sur sc\u00e8ne avec 'les diables', ce qui correspond \u00e0 une entr\u00e9e.",
+      "stgdir": "La F\u00e9e sort et les diables aussi.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2191",
+      "category": 7,
+      "explanation": "Le personnage 's'approche lentement', ce qui d\u00e9crit un mouvement progressif mais sans sp\u00e9cifier une entr\u00e9e ou une sortie.",
+      "stgdir": "Il s'approche lentement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2192",
+      "category": 7,
+      "explanation": "Le personnage 'monte les degr\u00e9s qui conduisent \u00e0 sa chambre', indiquant un mouvement vers un lieu sp\u00e9cifique.",
+      "stgdir": "Paolo monte les degr\u00e9s qui conduisent \u00e0 sa chambre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2193",
+      "category": 4,
+      "explanation": "Le 'Comte sort' indique clairement l'action d'une entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Le Comte sort.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2194",
+      "category": 9,
+      "explanation": "L'action de 'parcourir la lettre' a une qualit\u00e9 narrative, d\u00e9crivant une action en d\u00e9tail.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2195",
+      "category": 5,
+      "explanation": "Elle 's'en va', ce qui est clairement une sortie de sc\u00e8ne.",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2196",
+      "category": 9,
+      "explanation": "Cette notation sur l'entr\u00e9e des personnages dans une sc\u00e8ne pr\u00e9c\u00e9dente a une qualit\u00e9 narrative, fournissant des d\u00e9tails sur le contexte.",
+      "stgdir": "Nota. Dans la sc\u00e8ne XIII, les deux Seigneurs qui ont paru dans les premi\u00e8res sc\u00e8nes, entrent avec le Prince de Cond\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2197",
+      "category": 8,
+      "explanation": "La mention de 'AIR : Chansons, Chansons' fait r\u00e9f\u00e9rence \u00e0 de la musique et indique le nom d'une m\u00e9lodie.",
+      "stgdir": "AIR : Chansons, Chansons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2198",
+      "category": 6,
+      "explanation": "\u00c0 'Gigolet', bien que cela puisse sembler ambigu, cela sugg\u00e8re une forme d'interaction ou d'invitation, sans verbalisation explicite.",
+      "stgdir": "\u00c0 Gigolet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2199",
+      "category": 6,
+      "explanation": "Il 'montre son vit', ce qui est une forme d'interaction physique; il montre quelque chose \u00e0 un autre personnage ou au public.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 6563.285350799561,
+  "model": "gpt-4o-mini"
+}

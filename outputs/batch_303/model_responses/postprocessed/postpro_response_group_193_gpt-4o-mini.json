@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1920",
+      "category": 7,
+      "explanation": "Elle se rapproche de J\u00e9phon\u00e9 implies a movement towards another character.",
+      "stgdir": "Elle se rapproche de J\u00e9phon\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1921",
+      "category": 9,
+      "explanation": "Testament de L\u00e9once suggests a narrative element regarding a testament, likely involving backstory or character history.",
+      "stgdir": "Testament de L\u00e9once.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1922",
+      "category": 12,
+      "explanation": "\u00c0 L'Imp\u00e9ratif indicates that the direction is toward someone, likely involving a command or request.",
+      "stgdir": "\u00c0 L'Imp\u00e9ratif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1923",
+      "category": 5,
+      "explanation": "Il sort avec Mademoiselle des Bris\u00e9es indicates that a character is exiting, as 'sort' means to leave.",
+      "stgdir": "Il sort avec Mademoiselle des Bris\u00e9es.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1924",
+      "category": 12,
+      "explanation": "\u00c0 Zoroastre indicates that the action is directed towards Zoroastre, suggesting a specific dialogue or attention.",
+      "stgdir": "\u00c0 Zoroastre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1925",
+      "category": 4,
+      "explanation": "\u00c0 Guillaume qui entre indicates that Guillaume is entering the stage.",
+      "stgdir": "\u00c0 Guillaume qui entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1926",
+      "category": 10,
+      "explanation": "Prenant la bouteille describes interaction with an object (the bottle) which makes it an object category.",
+      "stgdir": "Prenant la bouteille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1927",
+      "category": 12,
+      "explanation": "\u00c0 Du Ros\u00e9 indicates that the action is directed towards Du Ros\u00e9, suggesting a speech or interaction aimed at him.",
+      "stgdir": "\u00c0 Du Ros\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1928",
+      "category": 0,
+      "explanation": "Le greffier \u00e9crit describes an action involving writing, which fits under general action.",
+      "stgdir": "Le greffier \u00e9crit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1929",
+      "category": 1,
+      "explanation": "Amadis combat contre Arcala\u00fcs implies a fighting action, categorizing it under aggression.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 7001.606464385986,
+  "model": "gpt-4o-mini"
+}

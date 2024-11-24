@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "780",
+      "category": "4",
+      "explanation": "L'indication 'Elle entre chez Sylviane' signifie qu'un personnage fait une entr\u00e9e sur sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Elle entre chez Sylviane.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "781",
+      "category": "7",
+      "explanation": "Le fait qu'elle 'se l\u00e8ve ainsi que Lamblin' est un mouvement, car cela d\u00e9crit le changement de position des personnages sans qu'il y ait une entr\u00e9e ou une sortie sp\u00e9cifique.",
+      "stgdir": "Elle se l\u00e8ve ainsi que Lamblin.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "782",
+      "category": "0",
+      "explanation": "L'indication 'On entend des coups \u00e0 la porte d'en bas' d\u00e9crit une action g\u00e9n\u00e9rale d'\u00e9coute, mais n'entre dans aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "On entend des coups \u00e0 la porte d'en bas.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "783",
+      "category": "8",
+      "explanation": "L'indication 'On chante un cantique' se r\u00e9f\u00e8re \u00e0 une activit\u00e9 musicale, indiquant que de la musique est jou\u00e9e ou chant\u00e9e.",
+      "stgdir": "On chante un cantique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "784",
+      "category": "5",
+      "explanation": "L'indication 'Elle rentre chez elle' signifie qu'un personnage sort de la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Elle rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "785",
+      "category": "11",
+      "explanation": "Le 'Au Noble' d\u00e9signe un cadre ou une localisation sp\u00e9cifique pour la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de description de sc\u00e8ne.",
+      "stgdir": "Au Noble.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "786",
+      "category": "3",
+      "explanation": "Le fait qu'elle 'pleure am\u00e8rement' exprime une \u00e9motion forte et pourrait \u00eatre interpr\u00e9t\u00e9 dans le contexte de la mani\u00e8re de livrer une \u00e9motion, ce qui correspond \u00e0 la cat\u00e9gorie de livraison.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "787",
+      "category": "6",
+      "explanation": "L'indication 'il d\u00e9signe des Urlis' implique une interaction non verbale en montrant quelque chose \u00e0 l'autre personnage.",
+      "stgdir": "Ce disant, il d\u00e9signe des Urlis qui arrive en costume de N\u00e9arque, un petit chien sur un bras et un bilboquet \u00e0 la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "788",
+      "category": "10",
+      "explanation": "L'action 'Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent' implique une manipulation d'objet, particuli\u00e8rement des bijoux et de l'argent.",
+      "stgdir": "Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "789",
+      "category": "11",
+      "explanation": "Le '\u00c0 Sommerset' fait r\u00e9f\u00e9rence \u00e0 un lieu sp\u00e9cifique, indiquant \u00e9galement un cadre ou une localisation pour la sc\u00e8ne.",
+      "stgdir": "\u00c0 Sommerset.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 6280.864477157593,
+  "model": "gpt-4o-mini"
+}

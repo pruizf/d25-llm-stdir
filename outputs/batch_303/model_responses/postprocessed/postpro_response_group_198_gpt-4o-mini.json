@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1970",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le lieu de la sc\u00e8ne, le palais du roi.",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1971",
+      "category": "10",
+      "explanation": "Cette direction concerne l'interaction entre le personnage et un objet, en l'occurrence, des fleurs prises dans un tiroir.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1972",
+      "category": "6",
+      "explanation": "Cette direction implique une interaction non verbale entre le personnage et Mouravieff, qui entre sans bruit et se tient immobile \u00e0 ses c\u00f4t\u00e9s.",
+      "stgdir": "Il l\u00e8ve les yeux et voit Mouravieff qui est entr\u00e9 sans qu'il l'ait entendu, et qui est debout immobile aupr\u00e8s de lui.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1973",
+      "category": "0",
+      "explanation": "Le fait de se jeter \u00e0 genoux est une action g\u00e9n\u00e9rale du personnage, sans lien avec des interactions ou des objets sp\u00e9cifiques.",
+      "stgdir": "Il se jette \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1974",
+      "category": "3",
+      "explanation": "Pr\u00e9senter un morceau \u00e0 Varade implique un geste de livraison ou de partage, ce qui correspond \u00e0 une expression verbale ou \u00e9motionnelle.",
+      "stgdir": "Pr\u00e9sentant un morceau \u00e0 Varade.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1975",
+      "category": "10",
+      "explanation": "Il s'agit de l'interaction du personnage avec un objet, ici une plume, ce qui implique la manipulation d'un objet.",
+      "stgdir": "En lui pr\u00e9sentant la plume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1976",
+      "category": "9",
+      "explanation": "Cette direction indique un bruit d'armes, ce qui est plus narratif et d\u00e9crit un \u00e9v\u00e9nement sonore dans la sc\u00e8ne.",
+      "stgdir": "L'on entend un bruit d'armes.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1977",
+      "category": "6",
+      "explanation": "Cette direction indique une interaction entre deux personnages, elle implique la communication entre elle et Sicandre.",
+      "stgdir": "Elle parle \u00e0 Sicandre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1978",
+      "category": "6",
+      "explanation": "Cette direction d\u00e9crit une interaction tactile entre le personnage et d'autres personnages, en prenant les mains de Clarice et du Chevalier.",
+      "stgdir": "Elle prend les mains de Clarice et du Chevalier, en disant \u00e0 la Dame :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1979",
+      "category": "10",
+      "explanation": "Cette direction parle de donner une promesse, ce qui implique une interaction avec un objet conceptuel (la promesse elle-m\u00eame) et de la communication.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 6260.825395584106,
+  "model": "gpt-4o-mini"
+}

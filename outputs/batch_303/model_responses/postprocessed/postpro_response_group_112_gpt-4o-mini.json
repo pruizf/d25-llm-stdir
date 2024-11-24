@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1110",
+      "category": 6,
+      "explanation": "C'est une interaction non verbale o\u00f9 un personnage veut prendre la main d'un autre, t\u00e9moignant d'un contact physique.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1111",
+      "category": 9,
+      "explanation": "Il s'agit d'une action narrative d\u00e9crivant l'acte de graver des vers sur un tombeau, ce qui a une port\u00e9e narrative significative.",
+      "stgdir": "Il grave quatre vers sur son tombeau qui seront lus par Amarille.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1112",
+      "category": 0,
+      "explanation": "C'est une action g\u00e9n\u00e9rale o\u00f9 des personnages s'assoient, sans interaction ou mouvement sp\u00e9cifique d\u00e9crivant une entr\u00e9e ou une sortie.",
+      "stgdir": "Ils s'asseyent tous.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1113",
+      "category": 7,
+      "explanation": "Le fait de se lever indique un mouvement des personnages, ce qui les \u00e9loigne de la position assise.",
+      "stgdir": "Se levant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1114",
+      "category": 4,
+      "explanation": "Pierre et Philippe arrivent sur sc\u00e8ne, ce qui correspond \u00e0 une entr\u00e9e de personnages.",
+      "stgdir": "Pierre et Philippe arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1115",
+      "category": 8,
+      "explanation": "Le terme \u201cAir\u201d indique qu'une musique ou une m\u00e9lodie est jou\u00e9e, ce qui rel\u00e8ve de la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Dans ma cabane obscure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1116",
+      "category": 10,
+      "explanation": "Tirer une lettre de sa poche d\u00e9crit l'interaction avec un objet sp\u00e9cifique, c'est-\u00e0-dire la lettre.",
+      "stgdir": "Il tire une lettre de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1117",
+      "category": 1,
+      "explanation": "L'action d'arracher le poignard et le recul \u00e9voque une interaction agressive entre les personnages.",
+      "stgdir": "Elle lui arrache le poignard de sa ceinture. Il la l\u00e2che et recule.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1118",
+      "category": 12,
+      "explanation": "La direction indique la destination de la parole, adress\u00e9e \u00e0 un personnage pr\u00e9cis, ici 'Pharasmane'.",
+      "stgdir": "\u00c0 Pharasmane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1119",
+      "category": 8,
+      "explanation": "Ici aussi, 'Air' signale qu'une m\u00e9lodie est jou\u00e9e; c'est une indication musicale comme celle du num\u00e9ro pr\u00e9c\u00e9dent.",
+      "stgdir": "Air: Cet arbre apport\u00e9 de Provence.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5897.682428359985,
+  "model": "gpt-4o-mini"
+}

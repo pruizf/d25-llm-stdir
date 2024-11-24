@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1750",
+      "category": 8,
+      "explanation": "L'indication 'Air' suivie de 'Les Proverbes' d\u00e9signe une musique ou une m\u00e9lodie, donc class\u00e9e sous la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Les Proverbes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1751",
+      "category": 6,
+      "explanation": "L'action de 'caresser' est une forme d'interaction non verbale entre les personnages, donc elle rel\u00e8ve de la cat\u00e9gorie de l'interaction.",
+      "stgdir": "Il la caresse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1752",
+      "category": 7,
+      "explanation": "L'action 'Il va pour \u00e9couter \u00e0 la porte' implique un mouvement vers un endroit pr\u00e9cis, class\u00e9e sous la cat\u00e9gorie de mouvement.",
+      "stgdir": "Il va pour \u00e9couter \u00e0 la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1753",
+      "category": 9,
+      "explanation": "Cette direction a un ton narratif, d\u00e9crivant la r\u00e9action d'un personnage face \u00e0 une situation, donc elle est class\u00e9e sous la narration.",
+      "stgdir": "\u00c0 Baliveau, voyant son profond \u00e9tonnement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1754",
+      "category": 8,
+      "explanation": "L'indication 'Air' suivie de 'Ces Filles sont si sottes' d\u00e9signe \u00e9galement une musique, donc elle est class\u00e9e sous la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Ces Filles sont si sottes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1755",
+      "category": 9,
+      "explanation": "Cette direction d\u00e9crivant qu'elle a lu a une qualit\u00e9 narrative, surtout en mentionnant le fait qu'il se passe quelque chose suite \u00e0 cette action, class\u00e9e sous la narration.",
+      "stgdir": "Apr\u00e8s qu'elle a lu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1756",
+      "category": 0,
+      "explanation": "S'asseoir \u00e0 la table est une action g\u00e9n\u00e9rale de placement des personnages dans une sc\u00e8ne sans interaction ni mouvement proprement dit, donc class\u00e9e comme action.",
+      "stgdir": "Ils s'asseyent \u00e0 la table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1757",
+      "category": 8,
+      "explanation": "La mention 'AIR 49 : Jardinier, ne vois-tu pas ?' correspond \u00e0 une musique, donc \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR 49 : Jardinier, ne vois-tu, pas ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1758",
+      "category": 6,
+      "explanation": "L'action d'embrasser son p\u00e8re est une forme d'interaction physique entre les personnages, class\u00e9e sous l'interaction.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1759",
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Madame de l'Architrave, accompagn\u00e9e de ma\u00e7ons avec leurs outils, implique l'arriv\u00e9e d'un personnage sur sc\u00e8ne, donc class\u00e9e comme une entr\u00e9e.",
+      "stgdir": "Madame de l'Architrave accompagn\u00e9e de plusieurs ma\u00e7ons avec leurs outils, salue Arlequin.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 6184.695243835449,
+  "model": "gpt-4o-mini"
+}

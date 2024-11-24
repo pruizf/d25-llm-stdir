@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2640",
+      "category": "6",
+      "explanation": "Regardant Alfred indicates a non-verbal interaction where a character is looking at another character.",
+      "stgdir": "Regardant Alfred.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2641",
+      "category": "4",
+      "explanation": "Lucidor arrive specifically denotes a character entering the stage.",
+      "stgdir": "Lucidor arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2642",
+      "category": "12",
+      "explanation": "\u00c0 Antoinette indicates the character is addressing or directing their speech toward Antoinette.",
+      "stgdir": "\u00c0 Antoinette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2643",
+      "category": "3",
+      "explanation": "Il chante en se promenant describes a character singing, which falls under delivery manner.",
+      "stgdir": "Il chante en se promenant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2644",
+      "category": "0",
+      "explanation": "Il appuie en lisant is a general character action related to reading and emphasizing.",
+      "stgdir": "Il appuie en lisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2645",
+      "category": "8",
+      "explanation": "Air : Mon P\u00e8re, je viens devant vous denotes a tune name, which categorizes it under music.",
+      "stgdir": "Air : Mon P\u00e8re, je viens devant vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2646",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente la biblioth\u00e8que d'Almaviva describes the setting of the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la biblioth\u00e8que d'Almaviva.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2647",
+      "category": "8",
+      "explanation": "AIR : On n'entend plus le bruit des armes is another tune name and thus categorized under music.",
+      "stgdir": "AIR : On n'entend plus le bruit des armes",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2648",
+      "category": "2",
+      "explanation": "[\u00c0 Sarcide] indicates an aside where the character is addressing Sarcide rather than the audience.",
+      "stgdir": "[\u00c0 Sarcide].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2649",
+      "category": "8",
+      "explanation": "AIR. Sans le savoir is also a tune name, therefore it belongs to the music category.",
+      "stgdir": "AIR. Sans le savoir.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5388.800859451294,
+  "model": "gpt-4o-mini"
+}

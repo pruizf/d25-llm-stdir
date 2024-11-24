@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1330",
+      "category": "9",
+      "explanation": "La mention de 'voix de Monsieur Desgranges' sugg\u00e8re une narration ou un commentaire sans qu'il n'y ait d'action visuelle imm\u00e9diate.",
+      "stgdir": "On entend la voix de Monsieur Desgranges.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1331",
+      "category": "8",
+      "explanation": "Le terme 'Air' dans 'Air : Vous m'entendez bien' indique qu'il s'agit d'une direction musicale.",
+      "stgdir": "Air : Vous m'entendez bien.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1332",
+      "category": "6",
+      "explanation": "Le fait qu'il 'lui prend un bras qui retombe' implique une interaction non verbale entre deux personnages.",
+      "stgdir": "Il lui prend un bras qui retombe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1333",
+      "category": "11",
+      "explanation": "La mention de 'Aux Chouans' pourrait faire r\u00e9f\u00e9rence \u00e0 un cadre ou un lieu sp\u00e9cifique dans l'histoire.",
+      "stgdir": "Aux Chouans.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1334",
+      "category": "10",
+      "explanation": "Le terme 'Prendant le billet' se r\u00e9f\u00e8re \u00e0 un objet que le personnage manipule.",
+      "stgdir": "Prenant le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1335",
+      "category": "9",
+      "explanation": "Ce passage d\u00e9crit une action de fermeture des fen\u00eatres et mentionne des bruits, ce qui a une qualit\u00e9 narrative.",
+      "stgdir": "Les fen\u00eatres se ferment, et on entend au dehors le bruit de plusieurs verrous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1336",
+      "category": "3",
+      "explanation": "Le terme 'Reprenant le chant' sugg\u00e8re une expression vocale qui entre dans la cat\u00e9gorie de la livraison musicale.",
+      "stgdir": "Reprenant le chant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1337",
+      "category": "6",
+      "explanation": "La phrase 'Elle lui dit' implique une interaction verbale entre personnages.",
+      "stgdir": "Elle lui dit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1338",
+      "category": "11",
+      "explanation": "Cette description d'une 'Chambre d'h\u00f4tel en d\u00e9sordre' fournit un cadre sc\u00e9nique pour l'action.",
+      "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1339",
+      "category": "8",
+      "explanation": "La mention de 'AIR : De l'Horoscope accompli' indique qu'il s'agit \u00e9galement d'une direction musicale.",
+      "stgdir": "AIR : De l'Horoscope accompli.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17298.998594284058,
+  "model": "gpt-4o-mini"
+}

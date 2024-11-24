@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1870",
+      "category": 0,
+      "explanation": "Regardant \u00e0 sa montre signifies a character performing an action, specifically looking at their watch.",
+      "stgdir": "Regardant \u00e0 sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1871",
+      "category": 6,
+      "explanation": "Il entend de Porcie indicates some form of interaction as the character is hearing Porcie, which implies non-verbal reception.",
+      "stgdir": "Il entend de Porcie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1872",
+      "category": 4,
+      "explanation": "Domitian entre clearly describes an entrance, marking the moment a character enters the stage.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1873",
+      "category": 8,
+      "explanation": "Air : Vivre sans amour refers to a piece of music, indicating the title of a tune to be played.",
+      "stgdir": "Air : Vivre sans amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1874",
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change, et repr\u00e9sente les Champs \u00c9lys\u00e9es describes a change in the setting or stage location.",
+      "stgdir": "Le th\u00e9\u00e2tre change, et repr\u00e9sente les Champs \u00c9lys\u00e9es.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1875",
+      "category": 4,
+      "explanation": "Entr\u00e9e de ballet de trois Pantomimes describes an entrance where multiple performers enter the stage.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1876",
+      "category": 4,
+      "explanation": "\u00c0 La Baronne indicates a movement toward a character or a specific point, marking an entrance context.",
+      "stgdir": "\u00c0 La Baronne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1877",
+      "category": 4,
+      "explanation": "ENTR\u00c9E is a straightforward indication of entrance, signifying that a character is entering the stage.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1878",
+      "category": 1,
+      "explanation": "Avec col\u00e8re suggests an aggressive emotion or action, implying a display of anger.",
+      "stgdir": "Avec col\u00e8re.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1879",
+      "category": 7,
+      "explanation": "Il revient encore indicates movement as the character is returning, but it is not classified as an entrance or an exit.",
+      "stgdir": "Il revient encore.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 5237.60461807251,
+  "model": "gpt-4o-mini"
+}

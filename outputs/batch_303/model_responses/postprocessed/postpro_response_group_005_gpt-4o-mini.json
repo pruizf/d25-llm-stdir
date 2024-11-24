@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "40",
+      "category": "0",
+      "explanation": "Il tend l'oreille anxieusement d\u00e9signe une action g\u00e9n\u00e9rale d'\u00e9coute, qui ne s'int\u00e8gre pas dans une autre cat\u00e9gorie.",
+      "confidence": "0.9",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "10",
+      "explanation": "Il lui donne deux lettres dont il lit l'inscription implique la manipulation d'objets (les lettres).",
+      "confidence": "0.85",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "12",
+      "explanation": "\u00c0 un tribun indique que le personnage s'adresse \u00e0 un auditeur sp\u00e9cifique, ce qui le place dans la cat\u00e9gorie 'toward'.",
+      "confidence": "0.9",
+      "stgdir": "\u00c0 un tribun.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "3",
+      "explanation": "Il rit beaucoup fait r\u00e9f\u00e9rence \u00e0 l'expression vocale de l'\u00e9motion et \u00e0 un \u00e9tat de joie, ce qui le relie \u00e0 la cat\u00e9gorie de la livraison.",
+      "confidence": "0.9",
+      "stgdir": "Il rit beaucoup.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "10",
+      "explanation": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche implique l'interaction avec un objet, en particulier la lettre.",
+      "confidence": "0.85",
+      "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "8",
+      "explanation": "AIR : Y a coups de pieds, etc. r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce musicale, ce qui entre dans la cat\u00e9gorie de la musique.",
+      "confidence": "0.95",
+      "stgdir": "AIR : Y a coups de pieds, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "8",
+      "explanation": "AIR : Vaudeville des Visitandines est \u00e9galement une r\u00e9f\u00e9rence musicale, ce qui le place dans la cat\u00e9gorie de la musique.",
+      "confidence": "0.95",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "12",
+      "explanation": "\u00c0 Ariarathe indique que le personnage s'adresse \u00e0 un autre personnage, le pla\u00e7ant dans la cat\u00e9gorie 'toward'.",
+      "confidence": "0.9",
+      "stgdir": "\u00c0 Ariarathe",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "6",
+      "explanation": "Il s'adresse \u00e0 Ragotin indique une interaction verbale avec un autre personnage, ce qui le met dans la cat\u00e9gorie 'interaction'.",
+      "confidence": "0.85",
+      "stgdir": "Il s'adresse \u00e0 Ragotin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "11",
+      "explanation": "Il est en prison d\u00e9crit un cadre sp\u00e9cifique ou un lieu, ce qui correspond \u00e0 la cat\u00e9gorie de la configuration.",
+      "confidence": "0.9",
+      "stgdir": "Il est en prison.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 7002.963066101074,
+  "model": "gpt-4o-mini"
+}

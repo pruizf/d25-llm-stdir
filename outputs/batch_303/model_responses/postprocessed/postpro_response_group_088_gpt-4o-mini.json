@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "870",
+      "category": "1",
+      "explanation": "Cette direction d\u00e9crit un acte de violence, un massacre, ce qui rel\u00e8ve de l'agression.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "871",
+      "category": "4",
+      "explanation": "Cette direction indique qu'un personnage entre sur sc\u00e8ne, ce qui est une entr\u00e9e.",
+      "stgdir": "Elle entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "872",
+      "category": "8",
+      "explanation": "Cette direction mentionne une m\u00e9lodie sp\u00e9cifique, donc elle correspond \u00e0 la musique.",
+      "stgdir": "Air : C'est \u00e0 mon ma\u00eetre en l'art de plaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "873",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui s'adresse Candide, donc cela se rapporte \u00e0 l'addressement.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "874",
+      "category": "2",
+      "explanation": "Parler tout bas peut impliquer que le personnage s'adresse au public ou se confie, ce qui correspond \u00e0 un apart\u00e9.",
+      "stgdir": "Il parle tout bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "875",
+      "category": "10",
+      "explanation": "Cette direction d\u00e9crit un personnage interagissant avec un objet, le cigare.",
+      "stgdir": "Alain prend le cigare.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "876",
+      "category": "8",
+      "explanation": "C'est une direction musicale, car elle commence par 'AIR' et concerne une m\u00e9lodie.",
+      "stgdir": "AIR. Toujours va qui danse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "877",
+      "category": "5",
+      "explanation": "Sortir en chantant indique un personnage qui quitte la sc\u00e8ne, donc il s'agit d'une sortie.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "878",
+      "category": "5",
+      "explanation": "Dame Pluche sort indique clairement une action de sortie sur sc\u00e8ne.",
+      "stgdir": "Dame Pluche sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "879",
+      "category": "0",
+      "explanation": "Se lever de son tribunal est une action g\u00e9n\u00e9rale de mouvement, sans indication d'entr\u00e9e ou de sortie.",
+      "stgdir": "Pluton se l\u00e8ve de son tribunal.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5199.172735214233,
+  "model": "gpt-4o-mini"
+}

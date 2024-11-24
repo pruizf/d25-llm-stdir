@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1490",
+      "category": "6",
+      "explanation": "L'expression 'Et puis \u00e0 tous.' indique une sorte de communication ou d'interaction entre le personnage et le public ou un groupe, sans d\u00e9tails explicites sur la mani\u00e8re.",
+      "stgdir": "Et puis \u00e0 tous.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1491",
+      "category": "0",
+      "explanation": "Le verbe 'montre' implique une action o\u00f9 le personnage montre quelque chose, ce qui correspond \u00e0 une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il montre celle qui est sur le tombeau d'Artamon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1492",
+      "category": "10",
+      "explanation": "L'expression 'Tirant une bo\u00eete \u00e0 mouches' d\u00e9crit l'interaction d'un personnage avec un objet sp\u00e9cifique, ici une bo\u00eete \u00e0 mouches.",
+      "stgdir": "Tirant une bo\u00eete \u00e0 mouches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1493",
+      "category": "8",
+      "explanation": "Le mot 'AIR' indique qu'il s'agit d'une indication musicale, sugg\u00e9rant que le contenu suivant est li\u00e9 \u00e0 une musique ou une m\u00e9lodie.",
+      "stgdir": "AIR : Jardinier ne vois-tu pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1494",
+      "category": "6",
+      "explanation": "Le terme '\u00c9cartant' sugg\u00e8re une interaction non verbale o\u00f9 le personnage manipule un objet, ici un verre.",
+      "stgdir": "\u00c9cartant le verre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1495",
+      "category": "4",
+      "explanation": "La mention qu'Esther entre sur sc\u00e8ne d\u00e9signe clairement une action d'entr\u00e9e, ce qui correspond \u00e0 la cat\u00e9gorie 'entr\u00e9e'.",
+      "stgdir": "Esther entre, s'appuyant sur \u00c9lise ; quatre Isra\u00e9lites soutiennent sa robe.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1496",
+      "category": "9",
+      "explanation": "L'indication d'une sonorit\u00e9 'On entend le canon au loin' implique un \u00e9l\u00e9ment narratif, \u00e9voquant une ambiance ou une action \u00e0 distance.",
+      "stgdir": "On entend le canon au loin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1497",
+      "category": "9",
+      "explanation": "La phrase 'On entend une sourde rumeur \u00e0 la cantonade' d\u00e9crit aussi une ambiance sonore, d'une mani\u00e8re narrative.",
+      "stgdir": "On entend une sourde rumeur \u00e0 la cantonade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1498",
+      "category": "5",
+      "explanation": "Le verbe 'rentrent' indique une sortie de sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie 'exit'.",
+      "stgdir": "Ils rentrent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1499",
+      "category": "4",
+      "explanation": "L'indication 'DAPHNIS ET SYLVANDRE ensemble' peut \u00eatre interpr\u00e9t\u00e9e comme une entr\u00e9e de ces personnages sur sc\u00e8ne, indiquant une action d'entr\u00e9e.",
+      "stgdir": "DAPHNIS ET SYLVANDRE ensemble.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 12722.647905349731,
+  "model": "gpt-4o-mini"
+}

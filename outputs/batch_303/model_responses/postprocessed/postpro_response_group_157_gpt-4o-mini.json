@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1560",
+      "category": "0",
+      "explanation": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires d\u00e9crivent une action g\u00e9n\u00e9rale de retirer des objets de la sc\u00e8ne.",
+      "stgdir": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1561",
+      "category": "11",
+      "explanation": "\u00c0 Drouillac est une description de lieu qui indique o\u00f9 se d\u00e9roule la sc\u00e8ne.",
+      "stgdir": "\u00c0 Drouillac.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1562",
+      "category": "6",
+      "explanation": "Apercevant Ang\u00e9lique montre une interaction non verbale o\u00f9 un personnage remarque un autre.",
+      "stgdir": "Apercevant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1563",
+      "category": "0",
+      "explanation": "Ayant l'air de chercher autour d'elle d\u00e9crit une action o\u00f9 un personnage semble chercher quelque chose, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Ayant l'air de chercher autour d'elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1564",
+      "category": "6",
+      "explanation": "Et \u00e0 Hortensius indique une interaction non verbale, potentiellement entre plusieurs personnages sans dialogue explicite.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1565",
+      "category": "1",
+      "explanation": "On les apaise \u00e0 grand peine sugg\u00e8re une forme d'agression potentielle qui n\u00e9cessite d'apaiser les personnages.",
+      "stgdir": "On les apaise \u00e0 grand peine.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1566",
+      "category": "5",
+      "explanation": "Duparc sort indique clairement l'action de quitter la sc\u00e8ne, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1567",
+      "category": "6",
+      "explanation": "Il embrasse Nicette et Mimi montre une interaction entre personnages, ici un geste d'affection.",
+      "stgdir": "Il embrasse Nicette et Mimi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1568",
+      "category": "7",
+      "explanation": "Il remonte la sc\u00e8ne indique un mouvement du personnage, sans pour autant indiquer une entr\u00e9e ou une sortie.",
+      "stgdir": "Il remonte la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1569",
+      "category": "0",
+      "explanation": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus est une action g\u00e9n\u00e9rale qui d\u00e9crit le personnage se rapprochant apr\u00e8s avoir compl\u00e9t\u00e9 des actions pr\u00e9c\u00e9dentes.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 5975.894212722778,
+  "model": "gpt-4o-mini"
+}

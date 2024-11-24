@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "190",
+      "category": "11",
+      "explanation": "This directs a change in the setting to represent the Palace of Pluto, which classifies it under setting description.",
+      "confidence": 1.0,
+      "stgdir": "Le Th\u00e9\u00e2tre change, et repr\u00e9sente le Palais de PLUTON.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "3",
+      "explanation": "This indicates a tone of voice, which relates to the delivery manner of the character.",
+      "confidence": 1.0,
+      "stgdir": "D'un ton d\u00e9cid\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "6",
+      "explanation": "This direction describes a character giving their right hand to another, indicating a non-verbal interaction.",
+      "confidence": 1.0,
+      "stgdir": "En lui donnant la main droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "4",
+      "explanation": "The direction indicates that Judith enters the stage, clearly classifying it as an entrance.",
+      "confidence": 1.0,
+      "stgdir": "Judith entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "12",
+      "explanation": "This indicates that a character is addressing or referring to 'Au Moineau', suggesting it is directed toward someone.",
+      "confidence": 1.0,
+      "stgdir": "Au Moineau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "0",
+      "explanation": "This involves the action of everyone rising from the table, classified as a general action.",
+      "confidence": 1.0,
+      "stgdir": "Tous se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "6",
+      "explanation": "This shows a character showing their hand to another, constituting a non-verbal interaction.",
+      "confidence": 1.0,
+      "stgdir": "Il lui montrera alors sa main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "10",
+      "explanation": "This describes the act of handing over a novel to another character, which involves an object.",
+      "confidence": 1.0,
+      "stgdir": "Il lui remet en main son roman.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "5",
+      "explanation": "The stage direction clearly states that Valentin exits the stage, placing it under exit.",
+      "confidence": 1.0,
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "3",
+      "explanation": "This suggests a serious air, indicating the delivery manner of the character's expression.",
+      "confidence": 1.0,
+      "stgdir": "Avec un air grave",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 9731.603622436523,
+  "model": "gpt-4o-mini"
+}

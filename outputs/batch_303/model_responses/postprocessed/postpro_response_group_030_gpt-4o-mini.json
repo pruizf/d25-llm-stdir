@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "290",
+      "category": "10",
+      "explanation": "L'action consiste \u00e0 prendre un habit, ce qui implique l'interaction avec un objet.",
+      "confidence": 1.0,
+      "stgdir": "Lui prenant son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "291",
+      "category": "11",
+      "explanation": "La direction d\u00e9crit une sc\u00e8ne o\u00f9 les personnages sont assis, ce qui correspond \u00e0 une description de la mise en sc\u00e8ne.",
+      "confidence": 1.0,
+      "stgdir": "Ils sont tous assis, except\u00e9 Lisette.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "292",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, signifiant que c'est une direction musicale, indiquant une chanson ou une m\u00e9lodie.",
+      "confidence": 1.0,
+      "stgdir": "AIR. Ainsi qu'une Hirondelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "293",
+      "category": "10",
+      "explanation": "Il montre des objets sp\u00e9cifiques (fiole de Cl\u00e9arque et celle de Climante), ce qui implique une interaction avec des objets.",
+      "confidence": 1.0,
+      "stgdir": "Il montre la fiole de Cl\u00e9arque et celle de Climante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "294",
+      "category": "8",
+      "explanation": "C'est un air mentionn\u00e9, se rapportant \u00e0 une direction musicale.",
+      "confidence": 1.0,
+      "stgdir": "Air : De la Meuni\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "295",
+      "category": "0",
+      "explanation": "Le personnage fait semblant de dormir, ce qui est une action g\u00e9n\u00e9rale sans d'autres sp\u00e9cificit\u00e9s.",
+      "confidence": 1.0,
+      "stgdir": "Il fait semblant de dormir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "296",
+      "category": "6",
+      "explanation": "L'Abb\u00e9 am\u00e8ne plusieurs domestiques qui s'empressent, impliquant une interaction non verbale entre les personnages.",
+      "confidence": 1.0,
+      "stgdir": "L'Abb\u00e9 am\u00e8ne plusieurs domestiques qui s'empressent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "297",
+      "category": "8",
+      "explanation": "Il s'agit encore d'un air, ce qui en fait une direction musicale.",
+      "confidence": 1.0,
+      "stgdir": "AIR : Non, je ne ferai pas ce qu'on veut que je fasse",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "298",
+      "category": "8",
+      "explanation": "C'est un autre air, indiquant une direction musicale.",
+      "confidence": 1.0,
+      "stgdir": "Air : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "299",
+      "category": "8",
+      "explanation": "Il s'agit \u00e9galement d'un air, ce qui classifie cela comme une direction musicale.",
+      "confidence": 1.0,
+      "stgdir": "Air : Du Vaudeville des deux Veuves.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8548.460721969604,
+  "model": "gpt-4o-mini"
+}

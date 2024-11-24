@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "530",
+      "category": 9,
+      "explanation": "This stage direction provides a detailed description of actions and interactions between characters, narrating a sequence of events as they discuss a personal matter.",
+      "stgdir": "Cinthio et Colombine arrivent ensemble \u00e0 l'h\u00f4tellerie d'Arlequin. Colombine fait part \u00e0 Cinthio de l'infid\u00e9lit\u00e9 d'Octave, et de l'embarras o\u00f9 elle se trouve en voyageant seule. Cinthio t\u00e2che de la rassurer, offre de l'accompagner, et lui persuade de se faire passer pour sa soeur. Il frappe \u00e0 la porte d'Arlequin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "531",
+      "category": 10,
+      "explanation": "This direction indicates the character's interaction with objects (removing her hat and shawl), which relates directly to how she handles her costume.",
+      "stgdir": "Elle quitte son chapeau et son ch\u00e2le.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "532",
+      "category": 8,
+      "explanation": "The word 'AIR' signifies a musical piece being delivered, indicating the section involves music rather than dialogue.",
+      "stgdir": "AIR. Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "533",
+      "category": 5,
+      "explanation": "The phrase 'La Fleur s'en va' indicates a character exiting the scene, categorizing this under exit.",
+      "stgdir": "La Fleur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "534",
+      "category": 12,
+      "explanation": "The phrase 'Au commandeur et au comte' indicates whom the speech is directed toward, classifying this direction under toward.",
+      "stgdir": "Au commandeur et au comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "535",
+      "category": 3,
+      "explanation": "The action of placing a hand on the heart can express emotion, linking it to vocal expression and feelings, fitting under delivery.",
+      "stgdir": "Portant le main \u00e0 son coeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "536",
+      "category": 3,
+      "explanation": "The phrase 'Sur le m\u00eame ton' suggests a manner of speaking or delivery, indicative of how the dialogue is expressed.",
+      "stgdir": "Sur le m\u00eame ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "537",
+      "category": 3,
+      "explanation": "The term 'En chorus' indicates a singing or vocal expression by characters together, which falls under delivery.",
+      "stgdir": "En chorus.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "538",
+      "category": 10,
+      "explanation": "This direction describes a character's interaction with an object by opening a drawer, fitting into the object category.",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "539",
+      "category": 4,
+      "explanation": "The direction 'Sabine entre' indicates the entrance of a character on stage.",
+      "stgdir": "Sabine entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 6404.81162071228,
+  "model": "gpt-4o-mini"
+}

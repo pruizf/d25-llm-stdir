@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "8",
+      "explanation": "Le mot 'AIR' indique qu'il s'agit de la musique, ce qui correspond \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "1",
+      "explanation": "L'expression 'arrache du poil' implique une action violente, donc cela rel\u00e8ve de l'agression.",
+      "stgdir": "Il arrache du poil.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "2",
+      "explanation": "'Il para\u00eet' sugg\u00e8re qu'un personnage s'adresse directement \u00e0 l'audience dans un apart\u00e9.",
+      "stgdir": "Il para\u00eet.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "1",
+      "explanation": "Les 'coups de b\u00e2ton' sont clairement une action violente, ce qui rentre dans la cat\u00e9gorie de l'agression.",
+      "stgdir": "Il donne plusieurs coups de b\u00e2ton sur le sac.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "6",
+      "explanation": "Montrer une \u00e9charpe est une forme d'interaction non verbale.",
+      "stgdir": "Montrant son \u00e9charpe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit une s\u00e9quence d'actions avec des d\u00e9tails narratifs, ce qui correspond \u00e0 la narration.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "5",
+      "explanation": "'Fait semblant de s'en aller' indique qu'un personnage est sur le point de quitter la sc\u00e8ne.",
+      "stgdir": "Guillot fait semblant de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "'\u00c0 Antiochus' indique que le personnage s'adresse \u00e0 Antiochus, d'o\u00f9 cela entre dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "12",
+      "explanation": "'\u00c0 D\u00e9janire' est similaire \u00e0 l'entr\u00e9e pr\u00e9c\u00e9dente, indiquant que le personnage s'adresse \u00e0 D\u00e9janire.",
+      "stgdir": "\u00c0 D\u00e9janire",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "12",
+      "explanation": "'\u00c0 Verseuil' suit le m\u00eame principe que les pr\u00e9c\u00e9dents, o\u00f9 un personnage s'adresse \u00e0 Verseuil.",
+      "stgdir": "\u00c0 Verseuil.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 6955.808639526367,
+  "model": "gpt-4o-mini"
+}

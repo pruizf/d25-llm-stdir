@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "560",
+      "category": "11",
+      "explanation": "Cette description relate l'\u00e9tat du th\u00e9\u00e2tre au lever du rideau, indiquant qu'il est en d\u00e9sordre, ce qui rentre dans la cat\u00e9gorie de la mise en sc\u00e8ne (setting).",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "561",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit une s\u00e9quence d'actions avec des interactions entre les personnages, et contient des \u00e9l\u00e9ments narratifs expliquant ce qui se passe sur sc\u00e8ne, ce qui correspond \u00e0 la narration.",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "562",
+      "category": "11",
+      "explanation": "Cette indication '\u00c0 Trasimon' se r\u00e9f\u00e8re \u00e0 un lieu, ce qui est une description de la mise en sc\u00e8ne (setting).",
+      "stgdir": "\u00c0 Trasimon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "563",
+      "category": "0",
+      "explanation": "L'action du docteur qui se l\u00e8ve est une action g\u00e9n\u00e9rale qui entre dans la cat\u00e9gorie des actions (action).",
+      "stgdir": "Le docteur se l\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "564",
+      "category": "0",
+      "explanation": "Le verbe 'tire' indique une action r\u00e9alis\u00e9e par un personnage, et n'appartient pas clairement \u00e0 une autre cat\u00e9gorie, donc il est class\u00e9 comme action.",
+      "stgdir": "Il tire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "565",
+      "category": "0",
+      "explanation": "Cette direction \u00e9voque un moment de serment, qui bien qu'important, peut \u00eatre consid\u00e9r\u00e9 comme une action g\u00e9n\u00e9rale entre d'autres circonstances.",
+      "stgdir": "Serment de l'Ordre de Chevalerie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "566",
+      "category": "11",
+      "explanation": "Cette indication '\u00c0 Sozame' fait \u00e9galement r\u00e9f\u00e9rence \u00e0 un lieu et entre dans la cat\u00e9gorie de la mise en sc\u00e8ne (setting).",
+      "stgdir": "\u00c0 Sozame.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "567",
+      "category": "6",
+      "explanation": "L'embrassade entre les personnages implique une interaction non verbale, ce qui justifie son classement dans la cat\u00e9gorie interaction.",
+      "stgdir": "Embrassant Madame Milville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "568",
+      "category": "10",
+      "explanation": "L'action d'examiner un tableau implique une interaction avec un objet, ce qui fit corresponde \u00e0 la cat\u00e9gorie des objets.",
+      "stgdir": "Examinant le tableau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "569",
+      "category": "8",
+      "explanation": "La mention de 'Air de la SIR\u00c8NE, d'Auber' correspond clairement \u00e0 une indication musicale, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air de la SIR\u00c8NE, d'Auber.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 11377.25305557251,
+  "model": "gpt-4o-mini"
+}

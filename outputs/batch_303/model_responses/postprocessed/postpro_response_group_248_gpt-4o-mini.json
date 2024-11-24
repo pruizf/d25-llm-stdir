@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2470",
+      "category": "0",
+      "explanation": "Il s'agit d'une action g\u00e9n\u00e9rale, celle de boire, qui ne correspond \u00e0 aucune cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2471",
+      "category": "7",
+      "explanation": "Le fait de se retourner pour voir une personne implique un mouvement de la part du personnage.",
+      "stgdir": "En se retournant, elle aper\u00e7oit Don Juan sur le seuil de la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2472",
+      "category": "6",
+      "explanation": "Montrer quelqu'un est une forme d'interaction non verbale.",
+      "stgdir": "Montrant Nadine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2473",
+      "category": "5",
+      "explanation": "Le personnage veut partir, ce qui est proche d'une action de sortie.",
+      "stgdir": "Il veut partir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2474",
+      "category": "8",
+      "explanation": "Le mot 'AIR' indique qu'il s'agit d'une r\u00e9f\u00e9rence musicale, en particulier \u00e0 une forme de musique ou de chanson.",
+      "stgdir": "AIR : Vaudeville de l'Isle des femmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2475",
+      "category": "4",
+      "explanation": "La bonne fait entrer des jeunes gens, ce qui correspond \u00e0 une entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "La bonne fait entrer deux jeunes gens.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2476",
+      "category": "10",
+      "explanation": "Pr\u00e9senter une cha\u00eene au roi implique la manipulation d'un objet, dans ce cas, une cha\u00eene.",
+      "stgdir": "Il pr\u00e9sente une cha\u00eene au roi.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2477",
+      "category": "0",
+      "explanation": "D\u00e9crire une charge des Dragons russes et la d\u00e9livrance du Czar est une action, mais plus narratif que sp\u00e9cifiquement class\u00e9.",
+      "stgdir": "Les Dragons russes font une charge et d\u00e9livrent le Czar.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2478",
+      "category": "9",
+      "explanation": "Ce passage narre une interaction entre deux personnages, d\u00e9crivant des \u00e9changes de mots et d'\u00e9motions, ce qui en fait une narration.",
+      "stgdir": "En cet endroit Clitandre doit \u00e0 Cidalise les plus tendres remerciements, et les lui fait. Comme on ne peut supposer qu'il y ait parmi nos lecteurs quelqu'un qui ne se soit, ou n'ait \u00e9t\u00e9 dans le cas d'en faire, ou d'en recevoir, ou de dire et d'entendre ces choses flatteuses et passionn\u00e9es que sugg\u00e8re l'amour reconnaissant, ou que dicte quelquefois la n\u00e9cessit\u00e9 d'\u00eatre poli, l'on supprimera ce que les deux amants se disent ici, et l'on ose croire que le lecteur a d'autant moins \u00e0 s'en plaindre, que l'on ne le prive que de quelques propos interrompus, qu'il aura plus de plaisir \u00e0 composer lui-m\u00eame d'apr\u00e8s ses sentiments qu'il n'en trouverait \u00e0 les lire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2479",
+      "category": "8",
+      "explanation": "La description de danses et de chansons entrem\u00eal\u00e9es indique qu'il s'agit d'une sc\u00e8ne musicale, d'o\u00f9 la classification sous musique.",
+      "stgdir": "Le fr\u00e8re du Malade imaginaire lui am\u00e8ne, pour le divertir, plusieurs \u00c9gyptiens et \u00c9gyptiennes, v\u00eatus en Mores, qui font des danses entrem\u00eal\u00e9es de chansons.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8108.146667480469,
+  "model": "gpt-4o-mini"
+}

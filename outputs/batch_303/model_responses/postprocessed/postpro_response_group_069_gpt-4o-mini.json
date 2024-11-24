@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "680",
+      "category": 11,
+      "explanation": "Cette direction de sc\u00e8ne indique un emplacement, Mirval, ce qui correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "\u00c0 Mirval.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "681",
+      "category": 6,
+      "explanation": "La direction d\u00e9crit une interaction physique o\u00f9 un personnage s'approche et interagit avec le lit de la petite Dusault, ce qui rentre dans la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "682",
+      "category": 8,
+      "explanation": "Cette direction mentionne un air, ce qui la classe dans la cat\u00e9gorie 'music'.",
+      "stgdir": "Air : Toujours seule, disait Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "683",
+      "category": 7,
+      "explanation": "Le terme 'reconduisant' implique un mouvement vers un autre endroit, ce qui le classe dans la cat\u00e9gorie 'movement'.",
+      "stgdir": "Le reconduisant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "684",
+      "category": 6,
+      "explanation": "L'action d'indiquer un fauteuil est une interaction non verbale, c'est pourquoi elle est class\u00e9e dans la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Elle s'approche du fauteuil de gauche et elle indique celui de droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "685",
+      "category": 1,
+      "explanation": "La description d'une confrontation avec un b\u00e2ton et un pistolet \u00e9voque une action violente, la classant dans la cat\u00e9gorie 'aggression'.",
+      "stgdir": "Br\u00e9court l\u00e8ve son b\u00e2ton, que le cavalier pare avec un pistolet qu'il a tir\u00e9 rapidement de sa ceinture.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "686",
+      "category": 4,
+      "explanation": "Le verbe 'para\u00eet' indique qu'un personnage entre en sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Chompr\u00e9 para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "687",
+      "category": 11,
+      "explanation": "Cette direction de sc\u00e8ne sp\u00e9cifie un emplacement, Arsame, ce qui le classe dans la cat\u00e9gorie 'setting'.",
+      "stgdir": "\u00c0 Arsame.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "688",
+      "category": 8,
+      "explanation": "Comme pour la direction num\u00e9ro 682, celle-ci mentionne un air et est donc class\u00e9e dans la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR : Du Vaudeville de Figaro.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "689",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit une sc\u00e8ne (la province de Livonie couverte de neige), ce qui correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 13867.685079574585,
+  "model": "gpt-4o-mini"
+}

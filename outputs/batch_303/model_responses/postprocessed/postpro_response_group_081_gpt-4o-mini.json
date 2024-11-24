@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "800",
+      "category": 7,
+      "explanation": "Marthon se rapproche ici de Madame Lisban et de Lindor indique un mouvement vers d'autres personnages, donc cela rel\u00e8ve de la cat\u00e9gorie mouvement.",
+      "stgdir": "Marthon se rapproche ici de Madame Lisban et de Lindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": 0,
+      "explanation": "Lucile continue de regarder d\u00e9crit une action g\u00e9n\u00e9rale de regarder, ce qui ne correspond pas \u00e0 d'autres cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": 9,
+      "explanation": "L'action continue dans le salon des prisonniers du Temple a un ton narratif, indiquant que quelque chose se d\u00e9roule ou se passe, d'o\u00f9 sa classification comme narration.",
+      "stgdir": "L'action continue dans le salon des prisonniers du Temple.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": 6,
+      "explanation": "Il serre la main du Grand \u00c9crivain d\u00e9crit une interaction non verbale entre deux personnages, ce qui correspond \u00e0 la cat\u00e9gorie interaction.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": 1,
+      "explanation": "Pasquariel se change en monstre et le combat du monstre indique une action violente et de combat, ce qui fait appel \u00e0 la cat\u00e9gorie aggression.",
+      "stgdir": "Pasquariel se change en monstre. Arlequin jette son manteau royal, et para\u00eet mont\u00e9 sur un cheval ail\u00e9, combat le monstre, et apr\u00e8s un jeu de culbutes, la sc\u00e8ne finit.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": 10,
+      "explanation": "Tirant une clef de sa poche d\u00e9crit l'interaction avec un objet, en particulier l'action de sortir une cl\u00e9, donc cela rel\u00e8ve de la cat\u00e9gorie objet.",
+      "stgdir": "Tirant une clef de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": 0,
+      "explanation": "Ils se jettent \u00e0 genoux est une action de se mettre \u00e0 genoux, class\u00e9e dans la cat\u00e9gorie action.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": 4,
+      "explanation": "ENTR\u00c9E indique qu'un personnage fait son entr\u00e9e sur sc\u00e8ne, ce qui correspond clairement \u00e0 la cat\u00e9gorie entr\u00e9e.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": 8,
+      "explanation": "Air : Babet, que t'es gentille est une mention d'une pi\u00e8ce musicale, correspondant \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "Air : Babet, que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": 8,
+      "explanation": "Air : Restez, restez, troupe jolie fait \u00e9galement r\u00e9f\u00e9rence \u00e0 une musique, et entre donc dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5896.463871002197,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2280",
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 un serviteur, ce qui signifie qu'un personnage s'adresse \u00e0 quelqu'un d'autre, ce qui correspond \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 un serviteur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2281",
+      "category": 3,
+      "explanation": "Le personnage fond en larmes exprime des \u00e9motions intenses et peut \u00eatre interpr\u00e9t\u00e9 comme une sorte de livraison \u00e9motionnelle, ce qui le classe dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2282",
+      "category": 4,
+      "explanation": "Cette direction indique l'entr\u00e9e de Madame L\u00e9ger, ce qui correspond \u00e0 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "\u00c0 Madame L\u00e9ger qui entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2283",
+      "category": 0,
+      "explanation": "Se remettant est une action g\u00e9n\u00e9rale, mais n\u2019englobe pas les autres cat\u00e9gories, donc elle est class\u00e9e comme 'action'.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2284",
+      "category": 0,
+      "explanation": "Il va aux fontaines et boit d\u00e9crit une action g\u00e9n\u00e9rale de mouvement et d'interaction avec un objet (fontaine), mais il est plus appropri\u00e9 de le classer comme 'action'.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2285",
+      "category": 8,
+      "explanation": "Le mot 'AIR' signifie que c'est une direction li\u00e9e \u00e0 la musique, pr\u00e9cisant qu'une chanson, 'Belle Raimonde', est jou\u00e9e.",
+      "stgdir": "AIR : Belle Raimonde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2286",
+      "category": 8,
+      "explanation": "Ici, 'AIR' indique \u00e9galement un \u00e9l\u00e9ment musical, avec la chanson 'Du Coucou' qui doit \u00eatre jou\u00e9e.",
+      "stgdir": "AIR : Du Coucou.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2287",
+      "category": 12,
+      "explanation": "Cette direction montre que le personnage s'adresse au Prince de Thrace, pla\u00e7ant cette action dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au Prince de Thrace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2288",
+      "category": 7,
+      "explanation": "Il se l\u00e8ve ainsi que sa soeur d\u00e9crit un mouvement, donc cela est class\u00e9 comme 'movement'.",
+      "stgdir": "Il se l\u00e8ve ainsi que sa soeur.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2289",
+      "category": 10,
+      "explanation": "Il prend le papier implique une interaction avec un objet (le papier), donc cela se classe dans la cat\u00e9gorie 'object'.",
+      "stgdir": "Il prend le papier.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 11343.363046646118,
+  "model": "gpt-4o-mini"
+}

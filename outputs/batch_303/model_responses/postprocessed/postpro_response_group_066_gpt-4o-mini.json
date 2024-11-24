@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "650",
+      "category": "3",
+      "explanation": "L'indication 'AIR' signifie qu'il s'agit d'une direction musicale o\u00f9 le personnage exprime des plaisirs \u00e0 travers le chant, donc cela correspond \u00e0 la livraison de l'\u00e9motion musicale.",
+      "stgdir": "AIR : Plaisirs si purs que je regrette.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "4",
+      "explanation": "Cette indication implique qu'un personnage entre sur sc\u00e8ne (\u00e0 Hauteroche), ce qui correspond \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "\u00c0 Hauteroche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "8",
+      "explanation": "L'indication 'Air 15' indique qu'il s'agit d'une direction musicale, ce qui qualifie cette action comme musique.",
+      "stgdir": "Air 15 : Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "9",
+      "explanation": "La mention 'Le Roi dort' donne une information narrative sur une situation, ce qui s'apparente \u00e0 la narration.",
+      "stgdir": "Le Roi dort.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit l'apparition des personnages sur sc\u00e8ne et le rassemblement de la foule, ce qui rel\u00e8ve d'une narration des \u00e9v\u00e9nements.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "L'indication 'Au peuple' montre la direction \u00e0 laquelle le personnage s'adresse, ce qui entre dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au peuple.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "6",
+      "explanation": "En montrant un personnage, il s'agit d'une interaction non verbale o\u00f9 le personnage pointe une personne.",
+      "stgdir": "En montrant N\u00e9restan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "0",
+      "explanation": "Cette direction implique une action de danse et d'entourer, ce qui peut \u00eatre class\u00e9 comme une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Des soldats de la suite du Major entourent Roquillard, en lui pr\u00e9sentant de tous c\u00f4t\u00e9s la pointe de la hallebarde\u00a0; et pendant ce temps Arlequin emm\u00e8ne Isabelle. Les soldats et Roquillard forment une danse, qui sert de divertissement pour le troisi\u00e8me acte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "3",
+      "explanation": "L'indication 'On sonne une seconde fois' sugg\u00e8re une action de livraison en relation avec un son ou un appel, mais cela peut aussi t\u00e9moigner de la musique.",
+      "stgdir": "On sonne une seconde fois.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "12",
+      "explanation": "L'indication '\u00c0 la Servante' montre qui est l'addressee, ce qui correspond \u00e0 la direction 'toward'.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8060.738325119019,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "720",
+      "category": "11",
+      "explanation": "This direction describes the setting of the characters Melpom\u00e8ne and Thalie in their respective positions on the sides of the stage, indicating the stage location.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "721",
+      "category": "0",
+      "explanation": "The action of 'se jetant sur un fautenil' describes a general character action of sitting down, which fits into the category of action.",
+      "stgdir": "Se jetant sur un fautenil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "722",
+      "category": "8",
+      "explanation": "The term 'AIR' indicates that this is a musical piece being played or sung, categorizing it under music.",
+      "stgdir": "AIR. Que de Gentillesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "723",
+      "category": "10",
+      "explanation": "The action of quickly closing the secret of the \u00e9crin refers to interacting with an object, which corresponds to the category for object.",
+      "stgdir": "Il referme vite le secret de l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "724",
+      "category": "8",
+      "explanation": "Similar to direction 722, 'Air : Quel amour fut aussi tendre !' indicates a musical piece, thus belonging to the category of music.",
+      "stgdir": "Air : Quel amour fut aussi tendre ! De Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "725",
+      "category": "8",
+      "explanation": "'S\u00c9R\u00c9NADE' suggests a musical or song performance, categorizing this direction under music.",
+      "stgdir": "S\u00c9R\u00c9NADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "726",
+      "category": "6",
+      "explanation": "This direction refers to an interaction with the insular characters of both sexes, indicative of non-verbal interaction.",
+      "stgdir": "Aux insulaires de l'un et de l'autre sexes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "727",
+      "category": "3",
+      "explanation": "The phrase 'Il dit en riant les derniers mots' involves vocal delivery as the character is speaking while laughing, corresponding to the delivery category.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "728",
+      "category": "4",
+      "explanation": "The direction 'Entrant' indicates that a character is entering the stage, which fits the entrance category.",
+      "stgdir": "Entrant.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "729",
+      "category": "5",
+      "explanation": "The phrase 'Tirsis se retire' indicates that the character Tirsis is exiting the stage, categorizing this direction under exit.",
+      "stgdir": "Tirsis se retire.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 8360.084295272827,
+  "model": "gpt-4o-mini"
+}

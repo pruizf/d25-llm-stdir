@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1950",
+      "category": "8",
+      "explanation": "Cette direction mentionne que 'la vielle joue tr\u00e8s doucement', ce qui fait r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1951",
+      "category": "8",
+      "explanation": "On entend une symphonie, ce qui d\u00e9finit \u00e9galement un moment musical.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1952",
+      "category": "1",
+      "explanation": "Le personnage tire un poignard, ce qui repr\u00e9sente une action violente.",
+      "stgdir": "Il tire son poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1953",
+      "category": "1",
+      "explanation": "Cette direction d\u00e9crit une bataille \u00e0 coups d'\u00e9p\u00e9e, ce qui est clairement un acte d'agression.",
+      "stgdir": "Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e. Les derniers sont repouss\u00e9s, et abandonnent le champ de bataille.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1954",
+      "category": "0",
+      "explanation": "Tous se mettent \u00e0 genoux, ce qui est une action g\u00e9n\u00e9rale sans violence, appropri\u00e9e pour la cat\u00e9gorie action.",
+      "stgdir": "Tous se mettent \u00e0 genoux, except\u00e9 le Juge et les Soldats.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1955",
+      "category": "4",
+      "explanation": "Lisanor para\u00eet, ce qui indique une entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1956",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Ariston' indique l'adresse d'un discours ou d'un acte, ce qui correspond \u00e0 la cat\u00e9gorie vers.",
+      "stgdir": "\u00c0 Ariston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1957",
+      "category": "11",
+      "explanation": "La direction d\u00e9crit le cadre du th\u00e9\u00e2tre repr\u00e9sentant l'entr\u00e9e de la for\u00eat sacr\u00e9e, ce qui est une description de l'environnement.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'entr\u00e9e de la for\u00eat sacr\u00e9e : on y voit les tombeaux et les statues des Rois de la Colchide.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1958",
+      "category": "9",
+      "explanation": "Cette direction a une qualit\u00e9 narrative, d\u00e9crivant les \u00e9motions du personnage Kerkabon; elle est longue et orient\u00e9e vers les lecteurs.",
+      "stgdir": "Apr\u00e8s un silence, assez long pour reposer les yeux du spectateur, qui doivent avoir peine \u00e0 suivre les vivacit\u00e9s des mouvements pr\u00e9c\u00e9dents, l'infortun\u00e9 Kerkabon, abattu par le malheur, offre ses jours pour r\u00e9parer sa faute :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1959",
+      "category": "8",
+      "explanation": "La mention 'Air : Lampons' indique une pi\u00e8ce musicale sp\u00e9cifique, qui est une cat\u00e9gorie musicale.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 11554.659366607666,
+  "model": "gpt-4o-mini"
+}

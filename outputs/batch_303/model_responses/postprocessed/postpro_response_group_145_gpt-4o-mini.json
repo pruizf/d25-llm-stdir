@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1440",
+      "category": "8",
+      "explanation": "Starts with 'Air', indicating it is related to music.",
+      "stgdir": "Air : Ah ! que la paresseuse Automne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1441",
+      "category": "5",
+      "explanation": "The phrase 'Sortant par la porte \u00e0 droite' indicates an exit from the stage.",
+      "stgdir": "Sortant par la porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1442",
+      "category": "6",
+      "explanation": "The character sees Monsieur Raimond, indicating a visual, non-verbal interaction.",
+      "stgdir": "Voyant Monsieur Raimond.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1443",
+      "category": "6",
+      "explanation": "The action of calling suggests a non-verbal interaction.",
+      "stgdir": "Elle l'appelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1444",
+      "category": "6",
+      "explanation": "The character's action of seeing her sister indicates a visual interaction.",
+      "stgdir": "En apercevant sa soeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1445",
+      "category": "8",
+      "explanation": "Starts with 'AIR', indicating it is related to music.",
+      "stgdir": "AIR : Ton humeur indiff\u00e9rente.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1446",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 \u00c9n\u00e9e' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9n\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1447",
+      "category": "12",
+      "explanation": "The phrase 'Parlant \u00e0 Nars\u00e9e' indicates the addressee of a speech.",
+      "stgdir": "Parlant \u00e0 Nars\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1448",
+      "category": "8",
+      "explanation": "Starts with 'Air', indicating it is related to music.",
+      "stgdir": "Air : Ah! voila comme l'homme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1449",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Fabrice' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Fabrice",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 6492.802619934082,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2650",
+      "category": "0",
+      "explanation": "Elle l\u00e8ve ici son masque - This is a general character action describing the act of lifting a mask.",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2651",
+      "category": "6",
+      "explanation": "- Il la regarde - This describes a non-verbal interaction where one character looks at another.",
+      "stgdir": "- Il la regarde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2652",
+      "category": "0",
+      "explanation": "Revenant \u00e0 elle - This describes a general action of returning to someone, but does not classify strictly as movement or interaction.",
+      "stgdir": "Revenant \u00e0 elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2653",
+      "category": "12",
+      "explanation": "\u00c0 Madame Mondor - This direction indicates the addressee of dialogue, categorizing it as toward.",
+      "stgdir": "\u00c0 Madame Mondor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2654",
+      "category": "3",
+      "explanation": "Il chante l'air en entier - Singing is a vocal expression, fitting in the delivery category.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2655",
+      "category": "0",
+      "explanation": "Qui connait le prix des moments, va fermer la porte avec un doigt de verrous, fait un petit saut de caract\u00e8re ; et sans autre pr\u00e9ambule, dit au Vicomte - This is an action involving multiple components that do not fit other specific categories.",
+      "stgdir": "Qui connait le prix des moments, va fermer la porte avec un doigt de verrous, fait un petit saut de caract\u00e8re ; et sans autre pr\u00e9ambule, dit au Vicomte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2656",
+      "category": "0",
+      "explanation": "Duo - This indicates a type of action involving two characters, but does not detail specific movement or interaction.",
+      "stgdir": "Duo.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2657",
+      "category": "10",
+      "explanation": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive - This describes an interaction with objects (bottles), classifying it in the object category.",
+      "stgdir": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2658",
+      "category": "0",
+      "explanation": "\u00c0 ses gardes - This direction suggests some action related to guards but lacks further detail, hence fits in general action.",
+      "stgdir": "\u00c0 ses gardes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2659",
+      "category": "7",
+      "explanation": "Narbas et Eurycl\u00e8s s'\u00e9loignent un peu - This indicates characters moving away from each other, categorizing it as movement.",
+      "stgdir": "Narbas et Eurycl\u00e8s s'\u00e9loignent un peu.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 6465.646505355835,
+  "model": "gpt-4o-mini"
+}

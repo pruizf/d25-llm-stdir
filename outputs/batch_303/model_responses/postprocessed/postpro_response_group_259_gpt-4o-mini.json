@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2580",
+      "category": "5",
+      "explanation": "Le terme 'sort' indique clairement une sortie de la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie d' 'exit'.",
+      "stgdir": "Paquita sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2581",
+      "category": "3",
+      "explanation": "Le terme 'AIR' signale une chanson ou un air musical, et la demande de portrait est une expression vocale qui se rattache \u00e0 la cat\u00e9gorie de 'delivery'.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2582",
+      "category": "0",
+      "explanation": "Le verbe 's'ass\u00eced' (s'asseoir) est une action g\u00e9n\u00e9rale et ne correspond pas \u00e0 d'autres cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Guillot s'ass\u00eced.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2583",
+      "category": "0",
+      "explanation": "L'expression 'Apr\u00e8s avoir encore bu, il dit' d\u00e9crit une action g\u00e9n\u00e9rale (parler apr\u00e8s avoir bu), ce qui la classe comme une action.",
+      "stgdir": "Apr\u00e8s avoir encore bu, il dit :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2584",
+      "category": "8",
+      "explanation": "Le mot 'AIR' indique qu'il s'agit d'un air musical, une indication de musique, donc il appartient \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR. Ah ! le bel oiseau maman.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2585",
+      "category": "9",
+      "explanation": "Cette direction indique un \u00e9v\u00e9nement temporel, le son de minuit, ce qui rel\u00e8ve du r\u00e9cit ou de la narration.",
+      "stgdir": "On entend sonner minuit \u00e0 l'horloge de l'h\u00f4tel de ville.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2586",
+      "category": "8",
+      "explanation": "Le d\u00e9but par 'Air' indique qu\u2019il s'agit d'une r\u00e9f\u00e9rence \u00e0 la musique, ce qui classe cette direction dans la cat\u00e9gorie de musique.",
+      "stgdir": "Air : Cet Oracle est plus fur, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2587",
+      "category": "8",
+      "explanation": "L'indication que 'L'ouverture continue' concerne la musique, donc elle est class\u00e9e dans la cat\u00e9gorie de musique.",
+      "stgdir": "L'ouverture continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2588",
+      "category": "6",
+      "explanation": "La phrase 'Il prend Hector \u00e0 la cravate' d\u00e9crit une interaction non verbale entre deux personnages, class\u00e9e dans l'interaction.",
+      "stgdir": "Il prend Hector \u00e0 la cravate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2589",
+      "category": "8",
+      "explanation": "Comme les pr\u00e9c\u00e9dents, le mot 'Air' indique qu'il s'agit d'une pi\u00e8ce musicale, et est donc class\u00e9 dans la cat\u00e9gorie de musique.",
+      "stgdir": "Air : Honor\u00e9 du brillant poste.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6282.575607299805,
+  "model": "gpt-4o-mini"
+}

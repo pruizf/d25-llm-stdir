@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2450",
+      "category": 3,
+      "explanation": "Le terme 'Triomphalement' indique une mani\u00e8re de livrer quelque chose avec un sentiment de triomphe, ce qui est associ\u00e9 \u00e0 l'expression vocale et \u00e9motionnelle.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2451",
+      "category": 10,
+      "explanation": "Cette direction d\u00e9crit l'action de recevoir un objet, en l'occurrence un billet. Cela correspond donc \u00e0 l'interaction avec un objet.",
+      "stgdir": "Elle re\u00e7oit son billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2452",
+      "category": 12,
+      "explanation": "La mention '\u00c0 Antenor' indique clairement l'adressage d'une parole ou d'une action vers Antenor, ce qui le classe dans la cat\u00e9gorie vers.",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2453",
+      "category": 0,
+      "explanation": "Se relever apr\u00e8s une chute est une action g\u00e9n\u00e9rale, qualifi\u00e9e ici simplement comme un mouvement sans entrer dans les cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2454",
+      "category": 7,
+      "explanation": "D\u00e9tail d'un personnage se d\u00e9pla\u00e7ant pour se mettre entre deux autres, ce qui correspond \u00e0 une action de mouvement.",
+      "stgdir": "Il va se mettre entre Damis et Marthon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2455",
+      "category": 12,
+      "explanation": "La mention de 'l'Infant' d\u00e9signe l'adresse d'une action ou d'une parole vers cet individu sp\u00e9cifique, ce qui le classe dans la cat\u00e9gorie vers.",
+      "stgdir": "Avisant l'Infant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2456",
+      "category": 9,
+      "explanation": "La phrase indique le d\u00e9but d'une s\u00e9quence musicale suivie de la reprise de la parole par un personnage, ce qui inclut une narration d'\u00e9v\u00e9nement.",
+      "stgdir": "Ici recommence la symphonie, et Joad aussit\u00f4t reprend la parole.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2457",
+      "category": 10,
+      "explanation": "Il s'agit ici de remettre une personne (Sophie) entre les bras d'un autre, ce qui implique une interaction directe avec un objet humain.",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2458",
+      "category": 6,
+      "explanation": "La mention de 'Parlant \u00e0 Ninon' indique une interaction non verbale, comme celle de se tourner ou d'adresser quelque chose \u00e0 quelqu'un.",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2459",
+      "category": 8,
+      "explanation": "La mention d'un 'Air de PLANTADE' fait r\u00e9f\u00e9rence \u00e0 un morceau de musique, ce qui est directement associ\u00e9 \u00e0 la cat\u00e9gorie de musique.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5268.337726593018,
+  "model": "gpt-4o-mini"
+}

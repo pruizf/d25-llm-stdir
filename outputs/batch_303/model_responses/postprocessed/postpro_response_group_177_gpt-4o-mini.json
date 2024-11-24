@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1760",
+      "category": "8",
+      "explanation": "Cette direction fait r\u00e9f\u00e9rence \u00e0 des instruments de musique (fl\u00fbtes et clarinettes), ce qui la classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1761",
+      "category": "5",
+      "explanation": "La phrase indique que le personnage veut s\u2019enfuir, ce qui est interpr\u00e9t\u00e9 comme une exit du personnage.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1762",
+      "category": "3",
+      "explanation": "Cette direction indique que le personnage chante un air, ce qui se rapporte \u00e0 la mani\u00e8re de livrer une performance vocale.",
+      "stgdir": "AIR. Il n'est point de fleurettes, etc.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1763",
+      "category": "7",
+      "explanation": "Le verbe 'apercevant' sugg\u00e8re un mouvement du regard du personnage, ce qui rentre dans la cat\u00e9gorie de mouvement.",
+      "stgdir": "Apercevant Jean.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1764",
+      "category": "3",
+      "explanation": "Encore une fois, cela se rapporte \u00e0 la livraison d'un air, ce qui indique une performance vocale.",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1765",
+      "category": "9",
+      "explanation": "Cette direction est d'une nature narrative et d\u00e9crit une sc\u00e8ne avec des \u00e9l\u00e9ments d'imagination, ce qui en fait une narration.",
+      "stgdir": "L'Amour para\u00eet dans sa Gloire, environn\u00e9 de Gr\u00e2ces et de Plaisirs. Les Divinit\u00e9s de la Terre sont assises sur les ailes du Th\u00e9\u00e2tre, encha\u00een\u00e9es de Fleurs ; et les Divinit\u00e9s du Ciel sont au-dessus, assises sur des Nuages. On voit au fond l'Antre de la Jalousie, o\u00f9 elle est encha\u00een\u00e9e avec la Rage et le D\u00e9sespoir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1766",
+      "category": "3",
+      "explanation": "Le terme 'ORACLE' peut \u00eatre vu comme un geste de livraison impliquant une d\u00e9claration ou un chant.",
+      "stgdir": "ORACLE.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1767",
+      "category": "12",
+      "explanation": "Ce passage indique que l'adresse est sp\u00e9cifique \u00e0 Eurycl\u00e8s, ce qui le classe comme une indication d'adresse au discours.",
+      "stgdir": "\u00c0 Eurycl\u00e8s.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1768",
+      "category": "8",
+      "explanation": "La mention de 'CLOMIRE, PASTORALE' \u00e9voque une musique, indiquant une direction musicale.",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1769",
+      "category": "12",
+      "explanation": "Cette direction mentionne C\u00e9lie, qui est probablement le destinataire de paroles, indiquant qu'il s'agit d'une adresse.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 5187.4048709869385,
+  "model": "gpt-4o-mini"
+}
