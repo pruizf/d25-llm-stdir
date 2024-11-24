@@ -81,15 +81,10 @@ if __name__ == "__main__":
     os.makedirs(cf.log_dir)
 
   # run the client
+  batch_start_time = time.time()
   oa_client = OpenAI()
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
-
-  #TODO
-  """
-  Create the dataframe group column.
-  Then iterate over the groups and generate the prompt for each group.
-  """
 
   #TODO change CLI args making group_size obligatory
   if args.group_size:
@@ -103,7 +98,7 @@ if __name__ == "__main__":
     for gidx, grpn in enumerate(stdirs['groupNbr'].unique()):
       if False and grpn > 1:
         break
-      print(f"Group: {grpn}")
+      print(f"# Group: {grpn}")
       stdirs_grp = stdirs[stdirs['groupNbr'] == grpn]
       stdirs_for_grp = stdirs_grp['stgdir'].tolist()
       stdirs_for_prompt = []
@@ -174,7 +169,7 @@ if __name__ == "__main__":
         result["categFull"] = cf.categs_as13[int(result["category"])]
       jresp["response_time"] = td
       jresp["model"] = args.model
-      print(f"# Processing group: {grpn}")
+      print(f"## Processing group: {grpn}")
       for result in jresp["result_list"]:
         print(f"- Stage direction: {result['stgdir']}")
         print(f'- Response categ: {result["category"]}. {cf.categs_as13[int(result["category"])]}')
@@ -191,3 +186,6 @@ if __name__ == "__main__":
 
       with (open(out_prompt_fn, "w") as out_prompt_fh):
         out_prompt_fh.write(prompt)
+
+  batch_end_time = time.time()
+  print(f"\nBatch duration: {batch_end_time - batch_start_time:.2f} seconds")
