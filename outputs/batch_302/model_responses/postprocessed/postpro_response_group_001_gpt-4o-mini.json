@@ -1,0 +1,86 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": 5,
+      "explanation": "L'avocat sort indique clairement que le personnage sort de la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "confidence": 1.0,
+      "stgdir": "L'avocat sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": 9,
+      "explanation": "Cette direction d\u00e9crit une s\u00e9quence narrative complexe avec des interactions magiques et des personnages fantastiques, ce qui entre dans la cat\u00e9gorie de narration.",
+      "confidence": 1.0,
+      "stgdir": "C'est dans cette sc\u00e8ne que les lutins d\u00e9guis\u00e9s font une c\u00e9r\u00e9monie magique pour feindre d'embellir Forestan, et pour se moquer de lui. Deux magiciens paraissent chacun une baguette \u00e0 la main, ils frappent, la Terre en dansant, et font sortir six d\u00e9mons qui se joignent avec eux. Trois sorci\u00e8res sortent aussi de dessous terre, et faisant asseoir Forestan au milieu d'elles, m\u00ealent leur chants aux danses des Magiciens et des D\u00e9mons, pour former une mani\u00e8re d'enchantement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": 8,
+      "explanation": "Le terme 'Sixi\u00e8me Couplet' sugg\u00e8re une particularit\u00e9 musicale, donc cette direction se classe sous musique.",
+      "confidence": 1.0,
+      "stgdir": "Sixi\u00e8me Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": 4,
+      "explanation": "N\u00e9rine para\u00eet indique une entr\u00e9e d'un personnage sur sc\u00e8ne, ce qui est clairement une direction d'entr\u00e9e.",
+      "confidence": 1.0,
+      "stgdir": "N\u00e9rine para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": 7,
+      "explanation": "Il passe devant \u00c9velina d\u00e9crit un mouvement physique d'un personnage dans la sc\u00e8ne sans sortir ni entrer.",
+      "confidence": 1.0,
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": 8,
+      "explanation": "LE CHOEUR r\u00e9p\u00e8te indique une action musicale, c'est donc class\u00e9 comme musical.",
+      "confidence": 1.0,
+      "stgdir": "LE CHOEUR r\u00e9p\u00e8te.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": 4,
+      "explanation": "\u00c0 Dariolette indique une entr\u00e9e, ce qui se classe sous la cat\u00e9gorie d'entr\u00e9e.",
+      "confidence": 1.0,
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": 6,
+      "explanation": "Ceux \u00e0 qui elle parle se retirent indique une interaction non verbale entre les personnages, se classant donc sous interaction.",
+      "confidence": 1.0,
+      "stgdir": "Ceux \u00e0 qui elle parle se retirent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": 8,
+      "explanation": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res implique une performance qui est li\u00e9e \u00e0 la musique.",
+      "confidence": 1.0,
+      "stgdir": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": 9,
+      "explanation": "On entend quelqu'un qui vient d\u00e9crit un bruit, ce qui appartient \u00e0 la cat\u00e9gorie narration.",
+      "confidence": 1.0,
+      "stgdir": "On entend quelqu'un qui vient.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 5993.18528175354,
+  "model": "gpt-4o-mini"
+}

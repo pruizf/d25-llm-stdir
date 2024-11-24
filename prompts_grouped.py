@@ -31,7 +31,7 @@ Note that all stage directions are in French.
 """
 
 prompt_def_only = """
-You will find below a numbered list of stage directions in French. within the <<<>>> signs. For each stage direction, classify it into one of the categories provided in the category list below the stage direction list:
+You will find below a numbered list of stage directions in French, within the <<<>>> signs. For each stage direction, classify it into one of the categories provided in the category list below the stage direction list:
 
 <<<
 Stage direction list:

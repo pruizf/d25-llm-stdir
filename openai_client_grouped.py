@@ -99,15 +99,16 @@ if __name__ == "__main__":
     stdirs = stdirs.copy()
     stdirs['groupNbr'] = (stdirs.index // args.group_size) + 1
     # iterate over groups, getting one response per group
-    for grpn in stdirs['groupNbr'].unique():
-      if grpn > 1:
+    # enumerate cos we use zero indexes everywhere in this app
+    for gidx, grpn in enumerate(stdirs['groupNbr'].unique()):
+      if False and grpn > 1:
         break
       print(f"Group: {grpn}")
       stdirs_grp = stdirs[stdirs['groupNbr'] == grpn]
       stdirs_for_grp = stdirs_grp['stgdir'].tolist()
       stdirs_for_prompt = []
       for sidx, stgdir in enumerate(stdirs_for_grp):
-        global_idx = grpn * args.group_size + sidx
+        global_idx = gidx * args.group_size + sidx
         # add the concatenation of the stage directions to the prompt
         stdirs_for_prompt.append(f"{global_idx}. {stgdir}")
         print(f"- Stage direction {sidx}: {stgdir}")
@@ -135,7 +136,7 @@ if __name__ == "__main__":
         prompt = prompt_template.format(
           numbered_categories=ut.number_categories(cf.categs_as13),
           stdir=stdirs_as_str,
-          category_details=ut.get_category_info_two_shot())
+          category_details=ut.get_category_info_two_shot().rstrip())
       # prompt with a detailed definition only (no examples)
       elif args.prompt_mode == "definition":
         prompt_template = prg.prompt_def_only if args.prompt_lang == "en" else prg.prompt_def_only_fr
@@ -143,7 +144,7 @@ if __name__ == "__main__":
         prompt = prompt_template.format(
           numbered_categories=ut.number_categories(cf.categs_as13),
           stdir=stdirs_as_str,
-          category_details=catinfo_template)
+          category_details=catinfo_template.rstrip())
       # few-shot, without detailed definition
       elif args.prompt_mode == "few-shot":
         prompt_template = prg.gen_prompt if args.prompt_lang == "en" else prg.gen_prompt_fr
@@ -152,7 +153,7 @@ if __name__ == "__main__":
         prompt = prompt_template.format(
           numbered_categories=ut.number_categories(cf.categs_as13),
           stdir=stdirs_as_str,
-          category_details=catinfo_template.format(**shots_per_cat))
+          category_details=catinfo_template.format(**shots_per_cat).rstrip())
       # few-shot, with detailed definition (mode def-few-shot)
       else:
         prompt_template = prg.gen_prompt if args.prompt_lang == "en" else prg.gen_prompt_fr
@@ -161,7 +162,7 @@ if __name__ == "__main__":
         prompt = prompt_template.format(
           numbered_categories=ut.number_categories(cf.categs_as13),
           stdir=stdirs_as_str,
-          category_details=catinfo_template.format(**shots_per_cat))
+          category_details=catinfo_template.format(**shots_per_cat).rstrip())
 
       # obtain response for group
       completion, resp, td = get_openai_response(oa_client, args.model, prompt, cf)
