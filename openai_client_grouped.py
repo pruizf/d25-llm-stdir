@@ -69,7 +69,7 @@ if __name__ == "__main__":
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}], mode [{args.prompt_mode}]\n")
 
   # make sure to import updated modules
-  for module in [cf, pr, ut, catinfo, ut.catinfo]:
+  for module in [cf, pr, prg, ut, catinfo, ut.catinfo]:
     reload(module)
 
   # IO
@@ -166,13 +166,26 @@ if __name__ == "__main__":
       jresp = json.loads(resp[0])
       for ridx, result in enumerate(jresp["result_list"]):
         result["stgdir"] = stdirs_for_grp[ridx]
-        result["categFull"] = cf.categs_as13[int(result["category"])]
+        try:
+          result["categFull"] = cf.categs_as13[int(result["category"])]
+        except ValueError:
+          assert result["category"] in cf.categs_as13, f"Category {result['category']} not in {cf.categs_as13}"
+          print(f"- >>> String label used, group index [{gidx}], group number [{grpn}], result number [{ridx}]")
+          # bring back label to a numberic label (for evaluation)
+          result["categFull"] = result["category"]
       jresp["response_time"] = td
       jresp["model"] = args.model
       print(f"## Processing group: {grpn}")
-      for result in jresp["result_list"]:
+      for jidx, result in enumerate(jresp["result_list"]):
         print(f"- Stage direction: {result['stgdir']}")
-        print(f'- Response categ: {result["category"]}. {cf.categs_as13[int(result["category"])]}')
+        try:
+          print(f'- Response categ: {result["category"]}. {cf.categs_as13[int(result["category"])]}')
+        except ValueError:
+          print(f'- Response categ: {result["category"]}. {result["category"]}')
+
+          print(f"- >>> String label used, group index [{gidx}], group number [{grpn}], result number [{jidx}]")
+          # bring back label to a numberic label (for evaluation)
+          result["category"] = cf.categs_as13.index(result["category"])
         print(f"- Response: {result}")
       print(f"- Response time: {td} ms")
       print()

@@ -91,3 +91,11 @@ Note that, in all batches from 005 onwards, all prompts in English mention expli
 - **1**: 100% of the testset (2923 examples) from [Schneider & Ruiz Fabo (2024)](https://aclanthology.org/2024.latechclfl-1.28/), available at https://nakala.fr/10.34847/nkl.fde37ug3.
 - **0.3 stratified**: 30% of the testset, stratified by category.
 
+#  Grouped prompts
+
+We also tested prompts where, instead of asking to classify a single stage direction, the model is asked to classify a list of stage directions. The table below summarizes such results.
+
+| id  | prompt language |         example use         |     data split     |       model        | macro F1 | weighted F1 | acc  |
+|-----|:----------------:|:---------------:|:---------------------------:|:------------------:|:------------------:|:--------:|:-----------:|:----:|
+|a|a|a|a|a|a|a|a|
+

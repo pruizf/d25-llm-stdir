@@ -55,14 +55,11 @@ Response format will be as follows:
 {{"result_list": [
   {{
     "stgdir_nbr": "stage direction number",
-    "category": "number",
+    "category": "category number",
     "explanation": "explanation for choice"
-    "confidence": "confidence score"
   }} ...
   ]
 }}
-
-For each stage direction, express your confidence in your response in a 0 to 1 scale, where 1 is the most confident, output this in the same JSON object as the category and explanation, using the key "confidence".
 
 Note that all stage directions are in French.
 

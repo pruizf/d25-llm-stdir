@@ -113,18 +113,23 @@ def format_examples_for_few_shot_prompt(sampled_df_fn, lang):
 
 # EVALUATION ------------------------------------------------------------------
 
-def extract_category_from_openai_output(resdir):
+def extract_category_from_openai_output(resdir, mode="individual"):
   """
   Get OpenAI classification results into a list. Assumes that the response files
   contain a JSON field "category" with the category number.
   """
+  assert mode in ["individual", "grouped"], "mode must be 'individual' or 'grouped'"
   all_res = []
   for fn in sorted(os.listdir(resdir)):
     if "response" not in fn:
       continue
     with open(os.path.join(resdir, fn), "r") as f:
       jo = json.load(f)
-      all_res.append(int(jo["category"]))
+      if mode == "individual":
+        all_res.append(int(jo["category"]))
+      else:
+        for result in jo["result_list"]:
+          all_res.append(int(result["category"]))
   return all_res
 
 
