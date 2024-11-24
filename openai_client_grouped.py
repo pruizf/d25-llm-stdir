@@ -98,7 +98,7 @@ if __name__ == "__main__":
     for gidx, grpn in enumerate(stdirs['groupNbr'].unique()):
       if False and grpn > 1:
         break
-      print(f"# Group: {grpn}")
+      print(f"# Group: {gidx}")
       stdirs_grp = stdirs[stdirs['groupNbr'] == grpn]
       stdirs_for_grp = stdirs_grp['stgdir'].tolist()
       stdirs_for_prompt = []
@@ -112,14 +112,14 @@ if __name__ == "__main__":
       # back to group level
       # IO
       out_comp_fn = os.path.join(cf.completions_dir.format(batch_id=args.batch_name),
-                                 f"completion_group_{str.zfill(str(grpn), 3)}_{args.model}.json")
+                                 f"completion_group_{str.zfill(str(gidx), 3)}_{args.model}.json")
       out_resp_fn = os.path.join(cf.postpro_response_dir.format(batch_id=args.batch_name),
-                                 f"postpro_response_group_{str.zfill(str(grpn), 3)}_{args.model}.json")
+                                 f"postpro_response_group_{str.zfill(str(gidx), 3)}_{args.model}.json")
       out_prompt_fn = os.path.join(cf.prompts_dir.format(batch_id=args.batch_name),
-                                   f"prompt_group_{str.zfill(str(grpn), 4)}_{args.model}.txt")
+                                   f"prompt_group_{str.zfill(str(gidx), 4)}_{args.model}.txt")
       # do not call API if the response is already available
       if os.path.exists(out_comp_fn) and os.path.exists(out_resp_fn) and os.path.exists(out_prompt_fn):
-        print(f"# Skipping group direction: {grpn}")
+        print(f"# Skipping group: {gidx}")
         continue
 
       # per-group prompts (note value of `stdir` in the prompt)
