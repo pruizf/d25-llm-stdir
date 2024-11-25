@@ -136,7 +136,10 @@ def extract_category_from_model_output(resdir, mode="individual"):
 
 def safe_extract(gr_results: List, gr_size: int, data_size: int):
   """
+  Extract the category number from the grouped model output and
+  return it indexed by the stage direction number.
   """
+  #TODO remove unused parameter gr_size
   gr_out = {}
   for res in gr_results:
     gr_out[int(res["stgdir_nbr"])] = int(res["category"])
@@ -150,6 +153,7 @@ def extract_category_from_model_output_safe(resdir: str, grsize: int, dtsize: in
   """
   #TODO make the individual mode "safe" too (but so far only grouped
   # results needed the "safe" extraction)
+  #TODO remove unused arguments grsize and dtsize
   assert mode == "grouped"
   all_res = {}
   for fn in sorted(os.listdir(resdir)):

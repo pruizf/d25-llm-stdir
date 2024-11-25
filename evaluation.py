@@ -69,15 +69,15 @@ def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
   sys_jmt = ut.extract_category_from_model_output_safe(res_dir, group_size, data_size, mode=prompt_type)
   # also do dictionary here for ref_jmt, based on index as key, categNbr as labels
   ref_jmt = golden_df['categNbr'].to_dict()
-  # now that both ref and sys results are indexed by stgdir number, compare
-  # and fill missing numbers with a random category
-  # missing stgdir numbers
+  # now that both ref and sys results are indexed by stgdir number, compare to
+  # figure out missing numbers. Fill inmissing numbers with a random category
   ref_stgdir_nbrs = set(ref_jmt.keys())
   sys_stgdir_nbrs = set(sys_jmt.keys())
   missing_stgdir_nbrs = ref_stgdir_nbrs - sys_stgdir_nbrs
   for ms in missing_stgdir_nbrs:
     rand_choice = random.choice(cf.categs_as13)
     sys_jmt[ms] = cf.categs_as13.index(rand_choice)
+    print(f"Missing stage direction {ms} filled with random category {rand_choice}")
   ref_jmt_as_list = [ref_jmt[stgdir] for stgdir in sorted(ref_jmt.keys())]
   sys_jmt_as_list = [sys_jmt[stgdir] for stgdir in sorted(sys_jmt.keys())]
   # actual evaluation
