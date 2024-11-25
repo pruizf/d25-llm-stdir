@@ -88,23 +88,30 @@ Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 e
 """
 
 prompt_def_only_fr = """
-Classifiez la didascalie suivante dans l'une des catégories fournies ci-dessous :
+Vous trouverez ci-dessous une liste numérotée de didascalies en français, à l'intérieur des signes <<<>>>. Pour chaque didascalie, classez-la dans l'une des catégories fournies dans la liste de catégories située sous la liste de didascalies :
 
-Didascalie : {stdir}
+<<<
+Liste de didascalies :
+{stdir}
+>>>
 
+###
 Liste des catégories :
 {numbered_categories}
 
 Pour vous aider à la classification, voici une définition de chaque catégorie:
 {category_details}
+###
 
-Fournissez une réponse au format JSON. Dans votre réponse, indiquez le numéro de la catégorie qui correspond le mieux au type de didascalie, ainsi qu'une explication de votre choix, en utilisant le format suivant :
+Fournissez une réponse au format JSON. Votre réponse contiendra un élément nommé `result_list`. À l'intérieur de cet élément, il y aura une entrée pour chaque didascalie. Chaque entrée contiendra le numéro de la didascalie, le numéro de la catégorie qui correspond le mieux au type de la didascalie, ainsi qu'une explication de votre choix. Utilisez le format suivant :
 
-{{
-  "category": "numéro de la catégorie",
-  "explanation": "explication du choix"
+{{"result_list": [
+  {{
+    "stgdir_nbr": "numéro de la didascalie",
+    "category": "numéro de la catégorie",
+    "explanation": "explication du choix"
+  }} ...
+  ]
 }}
-
-Exprimez votre confiance dans votre réponse sur une échelle de 0 à 1, où 1 est le niveau de confiance le plus élevé, et indiquez-le dans le même objet JSON avec la clé "confidence".
 
 """
