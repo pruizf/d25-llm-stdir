@@ -76,7 +76,7 @@ def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
   missing_stgdir_nbrs = ref_stgdir_nbrs - sys_stgdir_nbrs
   added_categs = {}
   for ms in missing_stgdir_nbrs:
-    if ms in previous_categs:
+    if previous_categs is not None and ms in previous_categs:
       sys_jmt[ms] = previous_categs[ms]
       print(f"Missing stage direction {ms} filled with previous random category {previous_categs[ms]}")
       continue
@@ -92,7 +92,7 @@ def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
   plot_confusion_matrix(sys_jmt_as_list, ref_jmt_as_list, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
   plain_cm = confusion_matrix(ref_jmt_as_list, sys_jmt_as_list, normalize="true")
   return {"sys_res": sys_jmt_as_list, "ref_res": ref_jmt_as_list, "cm": plain_cm, "cr": classif_report,
-          "added_categs": {}}
+          "added_categs": added_categs}
 
 
 if __name__ == "__main__":
@@ -135,9 +135,10 @@ if __name__ == "__main__":
                               10, 2923,
                               batch_sfx=args.batch_name.replace("batch_", ""))
     # log added categories to reuse later
-    with open(os.path.join("logs", f"added_categs_{args.batch_name}.txt"), "w") as out_ac:
-      for k, v in eval_data["added_categs"].items():
-        out_ac.write(f"{k}\t{v}\n")
+    if len(eval_data["added_categs"]) > 0:
+      with open(os.path.join("logs", f"added_categs_{args.batch_name}.txt"), "w") as out_ac:
+        for k, v in eval_data["added_categs"].items():
+          out_ac.write(f"{k}\t{v}\n")
   else:
     eval_data = eval_res(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
   print(eval_data["cr"])
