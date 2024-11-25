@@ -62,6 +62,23 @@ def eval_res(res_dir, golden_df, color_mode, prompt_type, batch_sfx=None):
   return {"sys_res": sys_jmt, "ref_res": ref_jmt, "cm": plain_cm, "cr": classif_report}
 
 
+def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
+                  group_size, data_size, batch_sfx=None):
+  assert color_mode in clrmap_dict
+  sys_jmt = ut.extract_category_from_model_output_safe(res_dir, group_size, data_size, mode=prompt_type)
+  #gold_df = pd.read_csv(golden_fn, sep=cf.sep_test)
+  # also do dictionary here for ref_jmt, based on index as key, categNbr as labels
+  #ref_jmt = golden_df['categNbr'].tolist()
+  ref_jmt = golden_df['categNbr'].to_dict()
+  # now that both ref and sys results are indexed by stgdir number, compare
+  # and fill missing numbers with the majority category
+  labels = cf.categs_as13
+  classif_report = classification_report(ref_jmt, sys_jmt, target_names=labels, digits=3)
+  plot_confusion_matrix(sys_jmt, ref_jmt, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
+  plain_cm = confusion_matrix(ref_jmt, sys_jmt, normalize="true")
+  return {"sys_res": sys_jmt, "ref_res": ref_jmt, "cm": plain_cm, "cr": classif_report}
+
+
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Evaluation of LLM-based classification")
   parser.add_argument("batch_name", help="Batch name used as prefix on outputs")
@@ -69,6 +86,9 @@ if __name__ == "__main__":
   parser.add_argument("model", help="Model used for generating the response")
   parser.add_argument("run_mode", choices=["individual", "grouped"],
                       help="Whether prompt contained a single stage direction or several")
+  parser.add_argument("--safe_eval", "-s",
+                      help="Compares stage direction number in reference and results, "
+                           "to account for cases where model skips some stage directions", type=int)
   args = parser.parse_args()
   assert args.model in cf.llm_list, f"Model {args.model} not in {cf.llm_list}"
   assert args.batch_name in os.listdir(cf.response_base_dir), f"Results for batch {args.batch_name} not available"
@@ -87,7 +107,10 @@ if __name__ == "__main__":
   corpus_sep = "\t" if "30" in args.corpus else ","
   golden = ut.get_and_format_data(args.corpus, corpus_sep)
 
-  eval_data = eval_res(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
+  if args.safe_eval:
+    eval_data = eval_res_safe(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
+  else:
+    eval_data = eval_res(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
   print(eval_data["cr"])
   print()
   with open(os.path.join(cf.plot_dir.format(batch_id=args.batch_name),

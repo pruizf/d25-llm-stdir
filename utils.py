@@ -2,6 +2,7 @@ from copy import copy
 import json
 import os
 import re
+from typing import List
 
 import pandas as pd
 
@@ -130,6 +131,40 @@ def extract_category_from_model_output(resdir, mode="individual"):
       else:
         for result in jo["result_list"]:
           all_res.append(int(result["category"]))
+  return all_res
+
+
+def safe_extract(gr_results: List, gr_size: int, data_size: int):
+  """
+  """
+  gr_out = {}
+  for res in gr_results:
+    gr_out[int(res["stgdir_nbr"])] = int(res["category"])
+  return gr_out
+
+
+def extract_category_from_model_output_safe(resdir: str, grsize: int, dtsize: int, mode="individual"):
+  """
+  Get OpenAI (or Mistral) classification results into a list. Assumes that the response files
+  contain a JSON field "category" with the category number.
+  """
+  #TODO make the individual mode "safe" too
+  assert mode == "grouped"
+  all_res = {}
+  for fn in sorted(os.listdir(resdir)):
+    if "response" not in fn:
+      continue
+    with open(os.path.join(resdir, fn), "r") as f:
+      jo = json.load(f)
+      #if mode == "individual":
+        # all_res.append(int(jo["category"]))
+      # else:
+    group_res = safe_extract(jo["result_list"], grsize, dtsize)
+    for ke in group_res.keys():
+      assert ke not in all_res, f"Stage direction {ke} already in the results"
+      all_res.update(group_res)
+    #for result in jo["result_list"]:
+    #  all_res.append(int(result["category"]))
   return all_res
 
 
