@@ -113,9 +113,9 @@ def format_examples_for_few_shot_prompt(sampled_df_fn, lang):
 
 # EVALUATION ------------------------------------------------------------------
 
-def extract_category_from_openai_output(resdir, mode="individual"):
+def extract_category_from_model_output(resdir, mode="individual"):
   """
-  Get OpenAI classification results into a list. Assumes that the response files
+  Get OpenAI (or Mistral) classification results into a list. Assumes that the response files
   contain a JSON field "category" with the category number.
   """
   assert mode in ["individual", "grouped"], "mode must be 'individual' or 'grouped'"
