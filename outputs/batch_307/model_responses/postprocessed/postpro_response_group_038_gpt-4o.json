@@ -1,0 +1,517 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2850",
+      "category": "6",
+      "explanation": "The stage direction describes the characters shaking hands, which is a non-verbal interaction.",
+      "stgdir": "Ils se serrent la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2851",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward Thibaudier.",
+      "stgdir": "\u00c0 Thibaudier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2852",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating that it refers to a musical piece.",
+      "stgdir": "AIR : V'la ce que c'est qu'd'aller au bois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2853",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward Araminte.",
+      "stgdir": "\u00c0 Araminte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2854",
+      "category": "0",
+      "explanation": "The stage direction is about the character reacting to seeing the closed door, categorized under general character action.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2855",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, as someone is being recalled or called back.",
+      "stgdir": "La rappelant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2856",
+      "category": "9",
+      "explanation": "The stage direction refers to a sound (tin clashing), which is part of the narrative setting.",
+      "stgdir": "Bruit de fer-blanc heurt\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2857",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating that it refers to a musical piece.",
+      "stgdir": "AIR. Je ne veux d'autre bien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2858",
+      "category": "0",
+      "explanation": "The stage direction simply notes that someone is speaking, which can be categorized under general actions.",
+      "stgdir": "Parlant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2859",
+      "category": "9",
+      "explanation": "This long, narrative stage direction describes multiple actions and emotions, falling under the narration category.",
+      "stgdir": "Entrant dans son Palais, elle le trouve mort sur son lit de parade ; ses douleurs \u00e9clatent incontinent par les plaintes et ses lamentations, mais la violence de ses pleurs la tire aussi t\u00f4t dans la faiblesse. Elle est secourue par la Princesse sa confidente, revient de p\u00e2moison et demande, qu'on la laisse en repos.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2860",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward Val\u00e9re.",
+      "stgdir": "\u00c0 Val\u00e9re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2861",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating that it refers to a musical piece.",
+      "stgdir": "AIR Tu croyais, en aimant Colette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2862",
+      "category": "4",
+      "explanation": "C\u00e9cile enters the stage, which fits the entrance category.",
+      "stgdir": "Entre C\u00e9cile un livre \u00e0 la main.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2863",
+      "category": "0",
+      "explanation": "The stage direction describes someone kneeling, a general action of movement.",
+      "stgdir": "Se laissant tomber \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2864",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating that it refers to a musical piece.",
+      "stgdir": "Air, Ah le bel oiseau etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2865",
+      "category": "7",
+      "explanation": "The stage direction describes the movement of the guards as they retreat with Artaban and Armetzar.",
+      "stgdir": "Les Gardes se retirent avec Artaban et Armetzar.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2866",
+      "category": "5",
+      "explanation": "Orphise exits the stage, categorized under exit.",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2867",
+      "category": "3",
+      "explanation": "The stage direction relates to the delivery, stating someone is speaking quietly.",
+      "stgdir": "Il parle bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2868",
+      "category": "5",
+      "explanation": "The druids exit the stage, categorized under exit.",
+      "stgdir": "Deux druides sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2869",
+      "category": "11",
+      "explanation": "The stage direction provides a detailed description of the stage setting and environment.",
+      "stgdir": "L'ancienne galerie des portraits seigneuriaux du burg de Heppenheff. Cette galerie, qui \u00e9tait circulaire, se d\u00e9veloppait autour du grand donjon, et communiquait avec le reste du ch\u00e2teau par quatre grandes portes situ\u00e9es aux quatre points cardinaux. Au lever du rideau, on aper\u00e7oit une partie de cette galerie, qui fait retour et qu'on voit se perdre derri\u00e8re le mur arrondi du donjon. A gauche, une des quatre grandes portes de communication. \u00c0 droite, une haute et large porte communiquant avec l'int\u00e9rieur du donjon, exhauss\u00e9e sur un degr\u00e9 de trois marches et accost\u00e9e d'une porte b\u00e2tarde. Au fond, un promenoir roman \u00e0 pleins cintres, \u00e0 piliers bas, \u00e0 chapiteaux bizarres, portant un deuxi\u00e8me \u00e9tage (praticable), et communiquant avec la galerie par un grand degr\u00e9 de six marches. \u00c0 travers les larges arcades de ce promenoir, on aper\u00e7oit le ciel et le reste du ch\u00e2teau, dont la plus haute tour est surmont\u00e9e d'un immense drapeau noir qui flotte au vent. \u00c0 gauche, pr\u00e8s de la grande porte \u00e0 deux battants, une petite fen\u00eatre ferm\u00e9e d'un vitrail haut en couleur. Pr\u00e8s de la fen\u00eatre, un fauteuil. Toute la galerie a l'aspect d\u00e9labr\u00e9 et inhabit\u00e9. Les murailles et les vo\u00fbtes de pierre, sur lesquelles on distingue quelques vestiges de fresques effac\u00e9es, sont verdies et moisies par le suintement des pluies. Les portraits suspendus dans les panneaux de la galerie sont tous retourn\u00e9s la face contre le mur. Au moment o\u00f9 le rideau se l\u00e8ve, le soir vient. La partie du ch\u00e2teau qu'on aper\u00e7oit par les archivoltes du promenoir au fond du th\u00e9\u00e2tre semble \u00e9clair\u00e9e et illumin\u00e9e \u00e0 l'int\u00e9rieur, quoiqu'il fasse encore-grand jour. On entend venir de ce c\u00f4t\u00e9 du burg un bruit de trompettes et de clairons, et par moments des Chansons chant\u00e9es \u00e0 pleines voix au cliquetis des verres. Plus pr\u00e8s on entend un froissement de ferrailles, comme si une troupe d'hommes encha\u00een\u00e9s allait et venait dans la portion du promenoir qu'on ne voit pas. Une femme, seule, vieille, \u00e0 demi cach\u00e9e par un long voile noir, v\u00eatue d'un sac de toile grise en lambeaux, encha\u00een\u00e9e d'une cha\u00eene qui se rattache par un double anneau \u00e0 sa ceinture et \u00e0 son pied nu, un collier de fer autour du cou, s'appuie contre la grande porte, et semble \u00e9couter les fanfares et les chants de la salle voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2870",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward the small Befor.",
+      "stgdir": "Au petit Befor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2871",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating that it refers to a musical piece.",
+      "stgdir": "AIR. R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2872",
+      "category": "10",
+      "explanation": "The stage direction involves an interaction with objects, namely delivering papers to Madame Befor.",
+      "stgdir": "Il donne le papier d'\u00e9critures du petit Dupr\u00e9 \u00e0 Madame Befor, quelle garde.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2873",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward Marthe.",
+      "stgdir": "\u00c0 Marthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2874",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward Colin.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2875",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking toward G\u00e9ronte in their usual voice.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2876",
+      "category": "0",
+      "explanation": "Involves observing the mother's dressing table; categorized under general character action.",
+      "stgdir": "Apercevant la toilette de sa m\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2877",
+      "category": "5",
+      "explanation": "The stage direction states that someone is leaving with Clotilde, falling under the exit category.",
+      "stgdir": "Il se retire avec Clotilde.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2878",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating that it refers to a musical piece.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2879",
+      "category": "3",
+      "explanation": "The stage direction notes that someone is speaking in a loud manner, indicating delivery.",
+      "stgdir": "Haut",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2880",
+      "category": "6",
+      "explanation": "It describes a non-verbal action of pointing out tragic actors and actresses.",
+      "stgdir": "En montrant les acteurs et actrices tragiques.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2881",
+      "category": "11",
+      "explanation": "The stage direction gives a detailed description of the stage setting as an antechamber salon.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2882",
+      "category": "7",
+      "explanation": "Dorval turning toward Andr\u00e9 involves character movement.",
+      "stgdir": "Ici Dorval se retourne du c\u00f4t\u00e9 d'Andr\u00e9, et lui donne attention.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2883",
+      "category": "5",
+      "explanation": "Indicates that she exits with Toinette, falling under the exit category.",
+      "stgdir": "Elle sort avec Toinette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2884",
+      "category": "10",
+      "explanation": "Describes an interaction with gloves, which is about handling an object.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2885",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward the Courtisan.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2886",
+      "category": "11",
+      "explanation": "Provides a description of the stage setting, representing Mount Etna.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Mont Aetna environn\u00e9 d'\u00e9paisses for\u00eats.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2887",
+      "category": "6",
+      "explanation": "Describes a scene where Ch\u00e9rubin and Fanchette look at each other silently, forming a non-verbal interaction.",
+      "stgdir": "Ch\u00e9rubin et Fanchette se regardent pendant le dialogue suivant, et forment une sc\u00e8ne muette et int\u00e9ressante.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2888",
+      "category": "0",
+      "explanation": "The action of knocking on the door falls under general character action.",
+      "stgdir": "On frappe \u00e0 la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2889",
+      "category": "0",
+      "explanation": "Gesticulating and messing up the skein describes a character action.",
+      "stgdir": "En gesticulant il brouille tout l'\u00e9cheveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2890",
+      "category": "0",
+      "explanation": "The character falls to their knees, which is a general character action.",
+      "stgdir": "Il se jette aux genoux de L\u00e9onore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2891",
+      "category": "2",
+      "explanation": "The stage direction is an aside, indicating a spoken thought directed toward the audience.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2892",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating that it refers to a musical piece.",
+      "stgdir": "AIR : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2893",
+      "category": "0",
+      "explanation": "Reading the notice is a general character action.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2894",
+      "category": "5",
+      "explanation": "The stage direction indicates both characters exit, each in different directions.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2895",
+      "category": "0",
+      "explanation": "Looking at cartes is categorized under general character actions.",
+      "stgdir": "En regardant les cartes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2896",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating it involves music.",
+      "stgdir": "Air : Comme un Coucou.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2897",
+      "category": "3",
+      "explanation": "Relates to speaking and addressing someone, indicating delivery.",
+      "stgdir": "Il appelle l'Apothicaire et lui parle.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2898",
+      "category": "12",
+      "explanation": "The stage direction indicates that someone is speaking or directing attention toward Clidamis.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2899",
+      "category": "8",
+      "explanation": "The stage direction involves music as indicated by 'AIR' and notes a 'Rondeau'.",
+      "stgdir": "AIR 32 : Du haut en bas. (Rondeau)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2900",
+      "category": "1",
+      "explanation": "The violent action of plunging the knife into someone is categorized as aggression.",
+      "stgdir": "Elle lui plonge le coutelas dans le corps, et para\u00eet vouloir le s\u00e9parer en deux comme pour le d\u00e9vorer\u00a0; les soldats attir\u00e9s de nouveau par la faim, reviennent, et l'un d'eux, en se reculant d'horreur, dit \u00e0 l'arri\u00e8re-sc\u00e8ne :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2901",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating it refers to a musical piece.",
+      "stgdir": "Air : La Carmagnole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2902",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating it involves music.",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2903",
+      "category": "4",
+      "explanation": "The stage direction indicates L\u00e9andre enters the cabinet.",
+      "stgdir": "L\u00e9andre rentre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2904",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating it involves music.",
+      "stgdir": "Air : Si Dorilas contre les femmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2905",
+      "category": "12",
+      "explanation": "The stage direction indicates someone speaking or directing attention toward the Marquise.",
+      "stgdir": "\u00c0 la Marquise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2906",
+      "category": "12",
+      "explanation": "The stage direction indicates someone speaking or directing attention toward the comtesse.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2907",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating it involves music.",
+      "stgdir": "Air : Le premier du mois de Janvier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2908",
+      "category": "6",
+      "explanation": "Describes the non-verbal action of showing.",
+      "stgdir": "Montrant \u00c9velina.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2909",
+      "category": "0",
+      "explanation": "The action of standing up from the table is categorized under general character action.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2910",
+      "category": "8",
+      "explanation": "The stage direction involves music as indicated by 'Air'.",
+      "stgdir": "Air I. R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2911",
+      "category": "12",
+      "explanation": "The stage direction indicates someone speaking or directing attention toward Alcm\u00e8ne.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2912",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating it involves music.",
+      "stgdir": "AIR. M. le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2913",
+      "category": "4",
+      "explanation": "Indicates Oronte's entrance.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2914",
+      "category": "0",
+      "explanation": "The action of observing the Marquis falls under general character action.",
+      "stgdir": "Apercevant le Marquis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2915",
+      "category": "12",
+      "explanation": "The stage direction indicates someone speaking or directing attention toward Paturon.",
+      "stgdir": "\u00c0 Paturon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2916",
+      "category": "3",
+      "explanation": "Involves delivering speech and actions related to showing (delivery manner).",
+      "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2917",
+      "category": "12",
+      "explanation": "The stage direction indicates someone speaking or directing attention toward Gercour.",
+      "stgdir": "\u00c0 Gercour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2918",
+      "category": "9",
+      "explanation": "Describes a letter, which contributes to the narrative setting.",
+      "stgdir": "LETTRE DU DUC DE CARDONNE \u00c0 ASTOLFE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2919",
+      "category": "11",
+      "explanation": "Refers to a specific location within the setting, the caf\u00e9 of the Alliance.",
+      "stgdir": "Au caf\u00e9 de l'Alliance. \u2014 Un coin r\u00e9serv\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2920",
+      "category": "8",
+      "explanation": "The stage direction involves music as indicated by 'Air'.",
+      "stgdir": "Air : Quand on a prononc\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2921",
+      "category": "0",
+      "explanation": "The action of raising sticks is categorized under general character action.",
+      "stgdir": "Ils haussent leurs b\u00e2tons.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2922",
+      "category": "4",
+      "explanation": "Salom\u00e9 enters, fitting the entrance category.",
+      "stgdir": "Salom\u00e9 entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 56994.86017227173,
+  "model": "gpt-4o"
+}

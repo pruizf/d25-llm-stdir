@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "8",
+      "explanation": "The stage direction indicates the same tune as the previous verse, related to music.",
+      "stgdir": "M\u00eame air que le couplet pr\u00e9c\u00e9dent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "9",
+      "explanation": "This stage direction has a narrative quality, describing a silent scene involving characters and their interactions.",
+      "stgdir": "Ici une Sc\u00e8ne muette de Falaise qui voit le Chevalier avec Ang\u00e9lique, et le soup\u00e7onne. Il regarde ensuite N\u00e9rine, et feint d'en \u00eatre charm\u00e9\u00a0; apr\u00e8s quoi il se retire d'un c\u00f4t\u00e9 et le Chevalier d'un autre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "5",
+      "explanation": "The stage direction 'Lascy s'en va' indicates an exit.",
+      "stgdir": "Lascy s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "11",
+      "explanation": "It provides a description of the stage setting, including locations and props.",
+      "stgdir": "La Sc\u00e8ne repr\u00e9sente les Charniers des Innocents. \u00c0 droite est la boutique de Madame de L'Aiguille, Marchande Ling\u00e8re, et \u00e0 gauche, un tonneau qui sert de Bureau \u00e0 Monsieur Discret, \u00e9crivain.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "12",
+      "explanation": "This indicates to whom the speech or action is directed, in this case, Philox\u00e8ne.",
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Dans quel canton est l'Huronie' refers to a music tune.",
+      "stgdir": "Air : Dans quel canton est l'Huronie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Qu'a du vin' refers to a music tune.",
+      "stgdir": "AIR : Qu'a du vin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "2",
+      "explanation": "The direction 'Il dit \u00e0 part' indicates an aside, where the character is speaking privately or to the audience.",
+      "stgdir": "Il dit \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "5",
+      "explanation": "The stage direction 'Les \u00c9thiopiens sortent' indicates an exit.",
+      "stgdir": "Les \u00c9thiopiens sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "12",
+      "explanation": "This indicates to whom the speech or action is directed, in this case, \u00c9ricie.",
+      "stgdir": "\u00c0 \u00c9ricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "160",
+      "category": "5",
+      "explanation": "This stage direction indicates a character's exit, 'Il sort par la droite. La sc\u00e8ne demeure vide.'",
+      "stgdir": "Il sort par la droite. La sc\u00e8ne demeure vide.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "3",
+      "explanation": "The term 'Bis des deux vers' suggests repetition or emphasis in delivery.",
+      "stgdir": "Bis des deux vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "7",
+      "explanation": "Character movement is indicated by 'Il fait six pas', referring to taking steps.",
+      "stgdir": "Il fait six pas.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "6",
+      "explanation": "This describes non-verbal interaction as one character helps another with a tray.",
+      "stgdir": "Il l'aide \u00e0 d\u00e9poser le plateau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "12",
+      "explanation": "This indicates to whom the speech or action is directed, in this case, Mademoiselle Beaulieu.",
+      "stgdir": "\u00c0 Mademoiselle Beaulieu.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "0",
+      "explanation": "Character action of showing 'ses yeux poch\u00e9s'. Falls under general action.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Quand je tiens de ce jus d'Octobre' refers to a music tune.",
+      "stgdir": "Air : Quand je tiens de ce jus d'Octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Moi qui veux m'instruire' refers to a music tune.",
+      "stgdir": "Air : Moi qui veux m'instruire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "0",
+      "explanation": "The action of 'Elle regarde les fleurs' falls under general character action.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Du Grand Cond\u00e9' refers to a music tune.",
+      "stgdir": "AIR : Du Grand Cond\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "170",
+      "category": "5",
+      "explanation": "The stage direction 'Ils sortent de la caverne' indicates an exit.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Les filles de Nanterre' refers to a music tune.",
+      "stgdir": "AIR : Les filles de Nanterre,",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "0",
+      "explanation": "The action of listening ('Ils \u00e9coutent') falls under general character action.",
+      "stgdir": "Ils \u00e9coutent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "12",
+      "explanation": "This indicates to whom the speech or action is directed, in this case, Guillaume.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "8",
+      "explanation": "The term 'SONNET' implies a vocal or musical performance.",
+      "stgdir": "SONNET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "4",
+      "explanation": "The stage direction 'Timag\u00e8ne rentre sur le th\u00e9\u00e2tre' indicates an entrance.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "6",
+      "explanation": "Describes non-verbal interaction as Don C\u00e9sar receives Isabelle's hand.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "0",
+      "explanation": "The action of sitting ('Ils s'attablent') falls under general character action.",
+      "stgdir": "Ils s'attablent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "8",
+      "explanation": "Although the structure is different, the mention of 'AIR.' suggests a vocal or musical performance, indicating delivery.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "The stage direction 'Air : La b\u00e9quille du P\u00e8re Barnaba' refers to a music tune.",
+      "stgdir": "Air : La b\u00e9quille du P\u00e8re Barnaba.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "180",
+      "category": "12",
+      "explanation": "This indicates to whom the speech or action is directed, in this case, 'Au Facteur en le payant.'",
+      "stgdir": "Au Facteur en le payant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "0",
+      "explanation": "The action of sitting ('Elles s'asseyent') falls under general character action.",
+      "stgdir": "Elles s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "2",
+      "explanation": "Indicates an aside ('Le premier vers, \u00e0 part'), revealing private speech or thoughts.",
+      "stgdir": "Le premier vers, \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "6",
+      "explanation": "Describes non-verbal interaction as Mondor embraces his wife tenderly.",
+      "stgdir": "Mondor embrasse tendrement sa femme.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "0",
+      "explanation": "This describes a procession or action involving characters moving.",
+      "stgdir": "Marche de toutes sortes de Personnages de l'ancienne Com\u00e9die Fran\u00e7aise et Italienne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "4",
+      "explanation": "The stage direction 'Julie rentre du c\u00f4t\u00e9 de la maison' indicates an entrance.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "11",
+      "explanation": "It describes the stage decoration or setting, being the same as the previous.",
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "9",
+      "explanation": "Narrative description of actions, involving Ren\u00e9 and another character, detailing a sequence of events.",
+      "stgdir": "Et malgr\u00e9 lui, elle lui replace le bras dans l'\u00e9charpe, apr\u00e8s en avoir r\u00e9-assujetti rapidement le pansement. Ren\u00e9, apr\u00e8s la premi\u00e8re r\u00e9volte, se laisse faire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "5",
+      "explanation": "The phrase 'En s'en allant' indicates an exit or departure.",
+      "stgdir": "En s'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "11",
+      "explanation": "Refers to a stage setting or location type; being 'En prison' suggests a setting.",
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "190",
+      "category": "11",
+      "explanation": "Describes a change in the theater setting to represent the 'Palais de PLUTON.'",
+      "stgdir": "Le Th\u00e9\u00e2tre change, et repr\u00e9sente le Palais de PLUTON.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "3",
+      "explanation": "Describes delivery or vocal manner as 'D'un ton d\u00e9cid\u00e9.'",
+      "stgdir": "D'un ton d\u00e9cid\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "6",
+      "explanation": "Describes an interaction where character gives the right hand.",
+      "stgdir": "En lui donnant la main droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "4",
+      "explanation": "The stage direction 'Judith entre' indicates an entrance.",
+      "stgdir": "Judith entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "12",
+      "explanation": "This indicates to whom the speech or action is directed, in this case, 'Au Moineau.'",
+      "stgdir": "Au Moineau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "0",
+      "explanation": "The action of standing up ('Tous se l\u00e8vent de table') falls under general character action.",
+      "stgdir": "Tous se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "6",
+      "explanation": "Non-verbal interaction when showing someone his hand.",
+      "stgdir": "Il lui montrera alors sa main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "10",
+      "explanation": "Describes an action with an object; 'remet en main son roman' indicates handing over a book.",
+      "stgdir": "Il lui remet en main son roman.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "5",
+      "explanation": "The stage direction 'Valentin sort' indicates an exit.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "3",
+      "explanation": "Describes delivery or vocal manner as 'Avec un air grave.'",
+      "stgdir": "Avec un air grave",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "200",
+      "category": "6",
+      "explanation": "Describes non-verbal interaction with Almaviva and L\u00e9on supporting a character under the arms as they exit.",
+      "stgdir": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "8",
+      "explanation": "The stage direction 'Air : De la b\u00e9quille' refers to a music tune.",
+      "stgdir": "Air : De la b\u00e9quille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "6",
+      "explanation": "Refers to a non-verbal interaction as 'Il la choque un peu.'",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "6",
+      "explanation": "Describes an action involving leaving or quitting non-verbally.",
+      "stgdir": "Ils la quittent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "3",
+      "explanation": "Describes a delivery or performance element where an actress sings a piece of her choice.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "9",
+      "explanation": "Long narrative stage direction detailing actions and events surrounding a ceremony.",
+      "stgdir": "Apr\u00e8s que Neptune eut \u00e9t\u00e9 remerci\u00e9 par le sieur de Poutrincourt de ses offres au bieN de la France, les sauvages le furent semblablement de leur bonne volont\u00e9 et d\u00e9votion, et incit\u00e9s de venir au Fort-Royal prendre du caracona. \u00c0 l'instant la troupe de Neptune chante en musique \u00e0 quatre parties ce qui s'enfuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "6",
+      "explanation": "Non-verbal interaction involving pointing at or showing someone, in this case, Cic\u00e9ron.",
+      "stgdir": "Montrant Cic\u00e9ron.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "5",
+      "explanation": "The stage direction 'Les chasseurs se retirent' indicates an exit.",
+      "stgdir": "Les chasseurs se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "1",
+      "explanation": "Describes aggression as the 'ma\u00eetre d'armes' performs hits (bottes) towards another character.",
+      "stgdir": "Le ma\u00eetre d'armes, lui pousse deux ou trois bottes, en lui disant : \"En garde.\"",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "9",
+      "explanation": "Narrative detailing interaction and movement involving multiple characters.",
+      "stgdir": "Ici Lisette en approchant de l'Olive qu'elle ne voit point, \u00e9tend sa main, et le prend par le collet, et dans le m\u00eame temps Ang\u00e9lique rencontre la main de Dorante, qu'elle prend.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "210",
+      "category": "6",
+      "explanation": "Non-verbal interaction as Parth\u00e9nice subtly inquires about Floridan\u2019s state.",
+      "stgdir": "Parth\u00e9nice vient savoir finement en quel \u00e9tat est Floridan aupr\u00e8s de C\u00e9linde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "0",
+      "explanation": "General action of 'Il la reprend', implying taking her back or lifting her up again.",
+      "stgdir": "Il la reprend.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "12",
+      "explanation": "Indicates to whom speech or action is directed; in this case, 'Au grand bramine.'",
+      "stgdir": "Au grand bramine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : O gu\u00e9 lan la, lanlaire' refers to a music tune.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "12",
+      "explanation": "Indicates to whom speech or action is directed; in this case, to '\u00c0 Coucy.'",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Faut-il qu'une fi faible plante' refers to a music tune.",
+      "stgdir": "Air : Faut-il qu'une fi faible plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "9",
+      "explanation": "Narrative describing a background element, involving hearing singing in the street.",
+      "stgdir": "On entend chanter dans la rue.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Fanfare de Saint-Cloud' refers to a music tune.",
+      "stgdir": "Air : Fanfare de Saint-Cloud.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "0",
+      "explanation": "Describes the action of Damis standing up, falling under general character actions.",
+      "stgdir": "Damis, se l\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "12",
+      "explanation": "Indicates to whom speech or action is directed; in this case, to '\u00c0 un voisin..'",
+      "stgdir": "\u00c0 un voisin, qui somnole dans l'angle du compartiment.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "220",
+      "category": "9",
+      "explanation": "A long narrative description detailing Clairville's emotional state and actions.",
+      "stgdir": "Clairville quitte Rosalie. Il est comme un fou. Il va, il vient, il s'arr\u00eate. Il soupire de douleur, de fureur. Il s'appuie les coudes sur le dos d'un fauteuil, la t\u00eate sur ses mains, et les poings dans les yeux. Le silence dure un moment. Enfin il dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "12",
+      "explanation": "Indicates to whom speech or action is directed; in this case, to '\u00c0 Philotas.'",
+      "stgdir": "\u00c0 Philotas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "6",
+      "explanation": "Describes non-verbal interaction as someone is pointing to the 'ilote.'",
+      "stgdir": "Montrant l'ilote, qui salue modestement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "0",
+      "explanation": "Describes the action of revealing or uncovering his stomach.",
+      "stgdir": "Il d\u00e9couvre son estomac.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "0",
+      "explanation": "Describes the reaction of young girls, laughing, which is a general action.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 55795.11880874634,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2550",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Sophie.' indicates the addressee of speech, fitting the category 'toward'.",
+      "stgdir": "\u00c0 Sophie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2551",
+      "category": "1",
+      "explanation": "The direction describes an aggressive action: Don Juan forcibly takes and breaks a sword.",
+      "stgdir": "Don Juan lui arrache l'\u00e9p\u00e9e des mains et la brise.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2552",
+      "category": "9",
+      "explanation": "This is a narrative sequence describing multiple actions and interactions.",
+      "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2553",
+      "category": "6",
+      "explanation": "The character is interacting non-verbally by showing his bed.",
+      "stgdir": "Montrant son lit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2554",
+      "category": "6",
+      "explanation": "This is a non-verbal interaction where a character looks at Gaston.",
+      "stgdir": "Regardant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2555",
+      "category": "8",
+      "explanation": "Part of the music category as identified by 'Air' with a tune name.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2556",
+      "category": "9",
+      "explanation": "Narrative stage direction explaining the characters leaving the table.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2557",
+      "category": "8",
+      "explanation": "This is related to music, identified as a musical couplet.",
+      "stgdir": "III COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2558",
+      "category": "12",
+      "explanation": "Designating the speech direction towards Barberin.",
+      "stgdir": "\u00c0 Barberin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2559",
+      "category": "12",
+      "explanation": "Indicating the addressee of speech: '\u00c0 Spartacus.'",
+      "stgdir": "\u00c0 Spartacus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2560",
+      "category": "3",
+      "explanation": "Refers to the character's delivery as he sings or hums a tune.",
+      "stgdir": "Il fredonne l'Amant d'Amanda.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2561",
+      "category": "8",
+      "explanation": "Identified as music due to 'Air' followed by the tune name.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2562",
+      "category": "0",
+      "explanation": "General action of knocking on a door outside.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2563",
+      "category": "1",
+      "explanation": "Describing a fight, fitting the category of aggression.",
+      "stgdir": "L\u00e0 ils recommencent le combat plus vivement.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2564",
+      "category": "6",
+      "explanation": "Non-verbal interaction: 'She lets herself be kissed.'",
+      "stgdir": "Elle se laisse embrasser.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2565",
+      "category": "0",
+      "explanation": "Describes the action of sitting, fitting the general action category.",
+      "stgdir": "Camille s'assoit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2566",
+      "category": "8",
+      "explanation": "The stage direction identifies a 'CANTATE', falling under music.",
+      "stgdir": "CANTATE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2567",
+      "category": "9",
+      "explanation": "Describes group dance interrupted by couplets, forming a narrative scene.",
+      "stgdir": "On danse, et la danse est coup\u00e9e par ces deux couplets.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2568",
+      "category": "10",
+      "explanation": "Interaction with an object, presenting a pie suddenly.",
+      "stgdir": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2569",
+      "category": "12",
+      "explanation": "'Il parle \u00e0 Troile' indicates the addressee of a speech.",
+      "stgdir": "Il parle \u00e0 Troile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2570",
+      "category": "6",
+      "explanation": "Non-verbal interaction where something is shown\u2014the Muses.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2571",
+      "category": "2",
+      "explanation": "The character speaks to himself, fitting the aside category (aparte).",
+      "stgdir": "Il se parle \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2572",
+      "category": "12",
+      "explanation": "Addresses speech direction towards young girls and boys: 'Aux filles et aux gar\u00e7ons.'",
+      "stgdir": "Aux filles et aux gar\u00e7ons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2573",
+      "category": "11",
+      "explanation": "Describes the setting change to a different location on stage.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le palais du grand sacrificateur de Cyb\u00e8le.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2574",
+      "category": "2",
+      "explanation": "Th\u00e9s\u00e9e makes an aside thinking about \u00c9g\u00e9e, fitting the aparte category.",
+      "stgdir": "[Th\u00e9s\u00e9e fait un apart\u00e9 en pensant \u00e0 \u00c9g\u00e9e].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2575",
+      "category": "12",
+      "explanation": "Speech direction towards Madame de Lucenay.",
+      "stgdir": "\u00c0 Madame de Lucenay.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2576",
+      "category": "0",
+      "explanation": "A movement is described: Eug\u00e9nie makes a gesture.",
+      "stgdir": "Eug\u00e9nie fait un mouvement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2577",
+      "category": "10",
+      "explanation": "Action involving a costume part: 'She lifts her coif.'",
+      "stgdir": "Elle l\u00e8ve sa coiffe.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2578",
+      "category": "12",
+      "explanation": "Speech directed towards Albin: '\u00c0 Albin.'",
+      "stgdir": "\u00c0 Albin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2579",
+      "category": "8",
+      "explanation": "Music indicated by 'AIR' followed by text.",
+      "stgdir": "AIR : D'une main je tiens mon pot.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2580",
+      "category": "5",
+      "explanation": "Indicates exit of Paquita from the stage.",
+      "stgdir": "Paquita sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2581",
+      "category": "8",
+      "explanation": "The direction is part of the music category.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2582",
+      "category": "0",
+      "explanation": "The action of sitting is a general action.",
+      "stgdir": "Guillot s'ass\u00eced.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2583",
+      "category": "9",
+      "explanation": "This is a narrative section describing drinking followed by an action.",
+      "stgdir": "Apr\u00e8s avoir encore bu, il dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2584",
+      "category": "8",
+      "explanation": "Identified as music due to 'AIR' with a tune name.",
+      "stgdir": "AIR. Ah ! le bel oiseau maman.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2585",
+      "category": "9",
+      "explanation": "Narrative quality: describes the clock striking midnight.",
+      "stgdir": "On entend sonner minuit \u00e0 l'horloge de l'h\u00f4tel de ville.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2586",
+      "category": "8",
+      "explanation": "This is related to music as identified by 'Air' and subsequent text.",
+      "stgdir": "Air : Cet Oracle est plus fur, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2587",
+      "category": "8",
+      "explanation": "Continuation of music, an overture.",
+      "stgdir": "L'ouverture continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2588",
+      "category": "6",
+      "explanation": "Non-verbal interaction with Hector as he's taken by the tie.",
+      "stgdir": "Il prend Hector \u00e0 la cravate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2589",
+      "category": "8",
+      "explanation": "Identified as music due to 'Air' with a tune name.",
+      "stgdir": "Air : Honor\u00e9 du brillant poste.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2590",
+      "category": "10",
+      "explanation": "Indicates giving an object to someone.",
+      "stgdir": "Il donne \u00e0 la suivante le papier sur lequel il a \u00e9crit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2591",
+      "category": "4",
+      "explanation": "This describes the entrance of characters: followers of Fortune.",
+      "stgdir": "Entr\u00e9e de suivants de la Fortune.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2592",
+      "category": "12",
+      "explanation": "Speech directed towards Cr\u00e9sus: 'Cr\u00e9sus, appelant.'",
+      "stgdir": "Cr\u00e9sus, appelant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2593",
+      "category": "12",
+      "explanation": "Speech is directed towards Rhadamisthe.",
+      "stgdir": "\u00c0 Rhadamisthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2594",
+      "category": "6",
+      "explanation": "Non-verbal interaction of embracing Argie.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2595",
+      "category": "9",
+      "explanation": "Narrative sequence describing complex characters' actions.",
+      "stgdir": "Tandis que Moli\u00e8re reste pensif, Dassoucy, Pierrotin et le Docteur sortent bruyamment du ch\u00e2teau ; Pierrotin porte un flacon et un gobelet, boit \u00e0 petits coups, fait claquer sa langue et se caresse l'estomac avec b\u00e9atitude.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2596",
+      "category": "8",
+      "explanation": "Music indicated by 'Air' followed by text.",
+      "stgdir": "Air : De tous les Capucins du monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2597",
+      "category": "9",
+      "explanation": "Narrative direction describing outdoor activities.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2598",
+      "category": "10",
+      "explanation": "Describes character interaction with an object.",
+      "stgdir": "Ses doigts, qui errent \u00e0 l'aventure, rencontrent les panneaux sup\u00e9rieurs du buffet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2599",
+      "category": "8",
+      "explanation": "Music indicated by 'Air' followed by a tune.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2600",
+      "category": "0",
+      "explanation": "General action: character appears to admire herself while arranging flowers.",
+      "stgdir": "Elle semble se mirer dans un ruisseau en arrangeant les fleurs dans ses cheveux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2601",
+      "category": "6",
+      "explanation": "Non-verbal interaction involving embracing.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2602",
+      "category": "6",
+      "explanation": "Non-verbal interaction as the character sees Maximin.",
+      "stgdir": "Voyant Maximin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2603",
+      "category": "12",
+      "explanation": "Speech is directed towards 'Au Sauvage.'",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2604",
+      "category": "3",
+      "explanation": "Describes the mode of delivery, being in a low voice.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2605",
+      "category": "10",
+      "explanation": "Interaction with an object, which is reading the content.",
+      "stgdir": "Il l'\u00f4te et lit :",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2606",
+      "category": "6",
+      "explanation": "Non-verbal action showing someone to another character.",
+      "stgdir": "Il montre Florange.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2607",
+      "category": "0",
+      "explanation": "General action of jumping.",
+      "stgdir": "Il saute.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2608",
+      "category": "10",
+      "explanation": "Reading a note is interaction with an object.",
+      "stgdir": "Il lit un des billets que Livie lui a rendus.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2609",
+      "category": "12",
+      "explanation": "Speech directed towards 'Aux Esprits.'",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2610",
+      "category": "5",
+      "explanation": "Describes Flore's exit from the stage.",
+      "stgdir": "Flore sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2611",
+      "category": "12",
+      "explanation": "Speech towards '\u00c0 Bel-Air.'",
+      "stgdir": "\u00c0 Bel-Air.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2612",
+      "category": "11",
+      "explanation": "Setting description of the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2613",
+      "category": "12",
+      "explanation": "Addressed towards '\u00c0 Monsieur_le_Duc de la Fenillade.'",
+      "stgdir": "\u00c0 Monsieur_le_Duc de la Fenillade.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2614",
+      "category": "11",
+      "explanation": "Description of the Council room setting.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2615",
+      "category": "12",
+      "explanation": "Towards other characters on stage: 'Aux autres personnages.'",
+      "stgdir": "Aux autres personnages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2616",
+      "category": "0",
+      "explanation": "General action of spreading oneself on a chair.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2617",
+      "category": "7",
+      "explanation": "Describes movement towards Adrienne.",
+      "stgdir": "Il se rapproche d'Adrienne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2618",
+      "category": "4",
+      "explanation": "Indicates the entrance of a courtly character.",
+      "stgdir": "Entre un seigneur de la cour.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2619",
+      "category": "9",
+      "explanation": "Narrative: characters encounter others while in disguise.",
+      "stgdir": "Orante et N\u00e9rine en habit d'hommes les rencontr\u00e8rent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2620",
+      "category": "3",
+      "explanation": "Harangue is related to speech delivery.",
+      "stgdir": "HARANGUE DE MASSINISSE",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2621",
+      "category": "9",
+      "explanation": "Narrative direction describing staged combat.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2622",
+      "category": "6",
+      "explanation": "Perception of unsheathed swords is a form of interaction.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2623",
+      "category": "9",
+      "explanation": "Narration: describes sound event of clock striking.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2624",
+      "category": "3",
+      "explanation": "Describes the delivery manner or emotional tone.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 48584.640979766846,
+  "model": "gpt-4o"
+}

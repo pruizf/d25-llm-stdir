@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2325",
+      "category": "3",
+      "explanation": "The stage direction 'Fondant en sanglots' describes an emotional expression related to crying, which falls under the delivery of vocal or emotional expression.",
+      "stgdir": "Fondant en sanglots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2326",
+      "category": "11",
+      "explanation": "The direction 'Le Th\u00e9\u00e2tre repr\u00e9sente le vestibule du s\u00e9rail' indicates the setting of the play, describing the stage as representing a specific location.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le vestibule du s\u00e9rail.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2327",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui donne le paquet ouvert' involves giving an object, which is an interaction with an object category.",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2328",
+      "category": "11",
+      "explanation": "Like 2326, this direction describes the setting, as it states what the theater is representing.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la maison d'Hilaire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2329",
+      "category": "11",
+      "explanation": "This is a setting description, specifying that the theater represents a place used for M\u00e9d\u00e9e's evocations.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu destin\u00e9 aux \u00e9vocations de M\u00e9d\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2330",
+      "category": "5",
+      "explanation": "The phrase 'Ang\u00e9lique et Temire se retirent' refers to an exit, indicating the characters are leaving the stage.",
+      "stgdir": "Ang\u00e9lique et Temire se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2331",
+      "category": "9",
+      "explanation": "'Le rideau tombe' describes an event on stage, likely indicating the end of an act or scene, thus narrative.",
+      "stgdir": "Le rideau tombe.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2332",
+      "category": "12",
+      "explanation": "'\u00c0 Lina' indicates that the following dialogue is addressed to Lina, thus belonging to the 'toward' category.",
+      "stgdir": "\u00c0 Lina.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2333",
+      "category": "10",
+      "explanation": "The action 'Il tire un porte-feuille' involves handling an object, so it is classified under object.",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2334",
+      "category": "8",
+      "explanation": "This direction describes a musical entry as part of a ballet, fitting the music category.",
+      "stgdir": "Deuxi\u00e8me entr\u00e9e de ballet : Huit p\u00eacheurs de corail.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2335",
+      "category": "9",
+      "explanation": "'Le Ciel se referme' narrates a visual effect or change, which can suggest an atmospheric or narrative setting change.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2336",
+      "category": "2",
+      "explanation": "'Il dit ce vers bas' describes how a verse is delivered, indicating a character might be speaking aside or in a lower tone, characteristic of an aside.",
+      "stgdir": "Il dit ce vers bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2337",
+      "category": "7",
+      "explanation": "The action 'Georges s'\u00e9loigne' involves movement, indicating that the character is moving away.",
+      "stgdir": "Georges s'\u00e9loigne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2338",
+      "category": "9",
+      "explanation": "This is an extensive description of the character's appearance and costume, lending a narrative quality.",
+      "stgdir": "La m\u00e9disance est habill\u00e9e en d\u00e9vote, sans panier, avec une pointe noir et une esp\u00e8ce de guimpe ou de collet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2339",
+      "category": "0",
+      "explanation": "The phrase 'Reprenant la sc\u00e8ne' suggests resuming action on stage, classified more broadly as general action.",
+      "stgdir": "Reprenant la sc\u00e8ne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2340",
+      "category": "12",
+      "explanation": "The phrase 'Aux autres conseillers' indicates who is being addressed, thus falling under 'toward.'",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2341",
+      "category": "3",
+      "explanation": "'L\u00e9lio rit' describes a vocal expression of emotion, essentially laughter, under delivery.",
+      "stgdir": "L\u00e9lio rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2342",
+      "category": "9",
+      "explanation": "This direction narrates a dramatic sequence involving multiple actions and reactions, making it narrative.",
+      "stgdir": "Il \u00e9tend les bras. Tout le monde s'\u00e9carte et la t\u00eate de Moral\u00e8s, envelopp\u00e9e d'un voile noir, pos\u00e9e sur la table. Fargus enl\u00e8ve brusquement le voile. Tous reculent en poussant un cri d'horreur. La t\u00eate humaine, les yeux ferm\u00e9s, la face souill\u00e9e de sang, est l\u00e0, en pleine lumi\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2343",
+      "category": "6",
+      "explanation": "'Apercevant Barberin' implies non-verbal character interaction through recognition or realization.",
+      "stgdir": "Apercevant Barberin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2344",
+      "category": "6",
+      "explanation": "'Rappelant Bourdon' involves interaction as the character is specifically recalling or referring to another.",
+      "stgdir": "Rappelant Bourdon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2345",
+      "category": "11",
+      "explanation": "The description indicates the stage setting of the theater as having a specific decoration of a grand portico and temple.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2346",
+      "category": "4",
+      "explanation": "Involving 'Un druide conduisant la c\u00e9r\u00e9monie,' this marks an entrance or appearance of a character leading a ceremony.",
+      "stgdir": "Un druide conduisant la c\u00e9r\u00e9monie de la f\u00eate du gui de l'an neuf, \u00e0 la place d'Adamas.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2347",
+      "category": "4",
+      "explanation": "Plutus appearing signifies an entrance onto the scene.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2348",
+      "category": "6",
+      "explanation": "The action of admiring a statue involves non-verbal interaction or observation.",
+      "stgdir": "Regardant la statue aux pieds de laquelle B\u00e9carre est rest\u00e9, et l'admirant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2349",
+      "category": "8",
+      "explanation": "This is the title of a piece of music ('Air 14'), indicating it as part of the play's musical elements.",
+      "stgdir": "Air 14 : Voulez-vous savoir qui de deux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2350",
+      "category": "8",
+      "explanation": "Like 2349, this names a musical air ('Air 176'), which relates to the music performed or referenced.",
+      "stgdir": "Air 176 : De La Renaissance de la Foire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2351",
+      "category": "10",
+      "explanation": "This stage direction describes forceful interaction with a door as the character puts it to the ground, involving an object.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2352",
+      "category": "8",
+      "explanation": "Begins with 'AIR,' indicating a musical piece or tune reference in the scene.",
+      "stgdir": "AIR. Qu'on me bl\u00e2me tant que l'on voudra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2353",
+      "category": "5",
+      "explanation": "'Laure sort' is a simple exit, as it involves the character leaving the stage.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2354",
+      "category": "8",
+      "explanation": "'AIR. Ah ! Robin, tais-toi' indicates a music piece or song being referenced.",
+      "stgdir": "AIR. Ah ! Robin, tais-toi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2355",
+      "category": "1",
+      "explanation": "The action 'Elle se pr\u00e9cipite dans la mer' suggests a deliberate or aggressive motion similar to a suicide attempt, hence aggression.",
+      "stgdir": "Elle se pr\u00e9cipite dans la mer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2356",
+      "category": "3",
+      "explanation": "Describes the character's demeanor as serious, which relates to how they deliver their actions or words.",
+      "stgdir": "Elle para\u00eet s\u00e9rieuse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2357",
+      "category": "8",
+      "explanation": "Identified as an air, it denotes a piece of music related to the play's performance.",
+      "stgdir": "Air : Courons de la blonde \u00e0 la brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2358",
+      "category": "0",
+      "explanation": "Describes a character seating themselves, a general action of sitting.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2359",
+      "category": "11",
+      "explanation": "The stage description involves geographic elements, indicating the represented setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le bord de la mer. On voit de c\u00f4t\u00e9 et d'autres diff\u00e9rentes ouvertures entre des rochers ; mais la grotte de Philoct\u00e8te est suppos\u00e9e ne pouvoir \u00eatre vue que dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2360",
+      "category": "4",
+      "explanation": "'L'esclave para\u00eet' signals a character's entrance or appearance on stage.",
+      "stgdir": "L'esclave para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2361",
+      "category": "9",
+      "explanation": "Involves a combination of musical and narrative direction, describing choral singing and divine action.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2362",
+      "category": "12",
+      "explanation": "'\u00c0 Deschamps' indicates the person being addressed next, hence falls under 'toward.'",
+      "stgdir": "\u00c0 Deschamps.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2363",
+      "category": "3",
+      "explanation": "The phrase 'Il rit de toute sa force' expresses delivering laughter with emphasis, categorized as delivery.",
+      "stgdir": "Il rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2364",
+      "category": "12",
+      "explanation": "The term 'Au marquis' indicates who is being spoken to next, classifying it under 'toward.'",
+      "stgdir": "Au marquis",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2365",
+      "category": "5",
+      "explanation": "'Il part' indicates a departure from the scene, fitting the exit category.",
+      "stgdir": "Il part.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2366",
+      "category": "8",
+      "explanation": "Starts with 'Air' followed by the music title, categorizing it within musical references.",
+      "stgdir": "Air: Le moyen de faire autrement. Du Peintre amoureux, N\u00b0 3.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2367",
+      "category": "6",
+      "explanation": "'L\u00e9onore lui propose une longue entrevue avec Julie' engages in interaction by proposing a meeting.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2368",
+      "category": "8",
+      "explanation": "The name 'LES SIRENES' suggests a musical performance or piece.",
+      "stgdir": "LES SIRENES.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2369",
+      "category": "8",
+      "explanation": "Involves another musical number ('Comp\u00e8re Gervais'), identified as part of the music.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2370",
+      "category": "12",
+      "explanation": "'Aux Grands' indicates the audience for the subsequent action or speech, falling under 'toward.'",
+      "stgdir": "Aux Grands.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2371",
+      "category": "10",
+      "explanation": "Describes the action 'En lui donnant l'\u00e9crit,' involving giving a document, interaction with an object.",
+      "stgdir": "En lui donnant l'\u00e9crit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2372",
+      "category": "10",
+      "explanation": "The action 'Regard \u00e0 la montre' involves interaction with an object, specifically a watch.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2373",
+      "category": "5",
+      "explanation": "'Lidamant s'en va' indicates an exit as the character goes away.",
+      "stgdir": "Lidamant s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2374",
+      "category": "12",
+      "explanation": "'\u00c0 Mademoiselle Dumeny' specifies the recipient of speech or action, hence toward.",
+      "stgdir": "\u00c0 Mademoiselle Dumeny.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2375",
+      "category": "7",
+      "explanation": "'Zirph\u00e9e passe de l'autre c\u00f4t\u00e9 de la sc\u00e8ne' describes a movement across the stage, fitting the movement category.",
+      "stgdir": "Zirph\u00e9e passe de l'autre c\u00f4t\u00e9 de la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2376",
+      "category": "9",
+      "explanation": "A richly narrative direction, describing sequences of performance events, actions, and musical accompaniments.",
+      "stgdir": "Chaconne dans le grand genre, une troupe de Boh\u00e9miens. Le petit homme noir, connu dans l'Histoire de Madame Scarron, dira \u00e0 chacun sa bonne aventure, par des couplets analogues \u00e0 leur caract\u00e8re. Ballet de Boh\u00e9miens, troupe de Soldats, qui peindra l'Histoire du Grand-Cond\u00e9, quand il reprit les armes pour la France\u00a0; combats, victoire qu'il remporte sur l'ennemi. Tous se mettent \u00e0 genoux devant le Tr\u00f4ne. Les Soldats renversent leurs armes devant le Grand Cond\u00e9, et lui pr\u00e9sentent le Pavillon de l'arm\u00e9e ennemie\u00a0; pendant ce temps, le canon, les timbales, les trompettes, doivent former une musique martiale. Elle finit, piano, piano, au point qu'on doit entendre de loin un chalumeau, qui doit faire contraste avec cette grande Musique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2377",
+      "category": "6",
+      "explanation": "Involves a demonstration towards his brother of the actions/feelings experienced, thus interaction.",
+      "stgdir": "Dont le Duc Dessau son fr\u00e8re, ne peut supporter la folle passion et lui repr\u00e9sente, les extr\u00e9mit\u00e9s o\u00f9 il se laisse engager par son amour.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2378",
+      "category": "7",
+      "explanation": "'Tout \u00e0 fait rapproch\u00e9' suggests movement of getting closer or reducing distance.",
+      "stgdir": "Tout \u00e0 fait rapproch\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2379",
+      "category": "9",
+      "explanation": "This detailed stage direction discusses a complex sequence of actions and interactions with narration.",
+      "stgdir": "Il lui pince la taille, et entre. Il est dans un galant d\u00e9shabill\u00e9, s'avance \u00e0 pas de loup, il entr'ouvre les rideaux \u00e0 peine y met l'O dans sa bouche et d'une voix formidable qui fait trembler la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2380",
+      "category": "4",
+      "explanation": "'Thersandre para\u00eet' indicates an entrance of the character onto the stage.",
+      "stgdir": "Thersandre para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2381",
+      "category": "5",
+      "explanation": "'Dorante s'en va' describes an exit from the stage.",
+      "stgdir": "Dorante s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2382",
+      "category": "4",
+      "explanation": "'Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s' signals an entrance or presence with specific reference to armament.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2383",
+      "category": "11",
+      "explanation": "Stage setting description of the theater, specifying the scene as near the Baron's house at sunset.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2384",
+      "category": "12",
+      "explanation": "The phrase 'Aux femmes' directs subsequent dialogue or action to be addressed to women.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2385",
+      "category": "9",
+      "explanation": "A detailed account of on-stage movement and atmospheres during a speech, lending itself to narration.",
+      "stgdir": "Il se fait un grand mouvement parmi les g\u00e9n\u00e9raux, pendant que Wallstein parle. Ils regardent G\u00e9raldin d'un air mena\u00e7ant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2386",
+      "category": "10",
+      "explanation": "'Il prend le livre' describes an action involving manipulation of an object, a book in this case.",
+      "stgdir": "Il prend le livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2387",
+      "category": "3",
+      "explanation": "'Baissant sa voix' refers to manner of delivery, specifically modifying tone or intensity of speech.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2388",
+      "category": "3",
+      "explanation": "Describes emotional posture or demeanor, Ad\u00e9la\u00efde's absorption, and another character's effort to suppress laughter.",
+      "stgdir": "Ad\u00e9la\u00efde reste absorb\u00e9e : Madame Wanderk pr\u00eate \u00e0 rentrer, jette un coup d'oeil, et \u00e0 toutes les peines du monde \u00e0 s'emp\u00eacher de rire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2389",
+      "category": "3",
+      "explanation": "Expressive physicality described ('Il \u00e9treint sa poitrine d'une main fi\u00e9vreuse'), indicating emotional delivery.",
+      "stgdir": "Il \u00e9treint sa poitrine d'une main fi\u00e9vreuse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2390",
+      "category": "6",
+      "explanation": "'Montrant la Baronne' involves non-verbal interaction via pointing or indicating another character.",
+      "stgdir": "Montrant la Baronne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2391",
+      "category": "0",
+      "explanation": "Use of oven-related action (enfourne) likely indicates metaphorical or other broad action beyond object use.",
+      "stgdir": "On enfourne les financiers.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2392",
+      "category": "7",
+      "explanation": "'Se rapprochant de Rosalie' involves movement toward another character.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2393",
+      "category": "6",
+      "explanation": "Describes reciprocal interaction via exchange of looks conveying despair.",
+      "stgdir": "Alceste et Philinte \u00e9changent un coup d'oeil d\u00e9sesp\u00e9r\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2394",
+      "category": "9",
+      "explanation": "Describing a specific atmospheric sound ('tintement d'une sonnette'), lending itself to narrative ambiance.",
+      "stgdir": "On entend le tintement d'une sonnette.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2395",
+      "category": "10",
+      "explanation": "Describes the act of handing over a physical object, a sugared water glass, to Thibaudier.",
+      "stgdir": "Donnant le verre d'eau sucr\u00e9e \u00e0 Thibaudier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2396",
+      "category": "11",
+      "explanation": "Detailed description of the scene's setting, a salon post-meal at night in a country house, indicating environment.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un petit salon dans une grande maison de campagne ; une table o\u00f9 il reste les reliefs d'un repas. Elle a \u00e9t\u00e9 dress\u00e9e pour un d\u00eener improvis\u00e9. Il est dix heures du soir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2397",
+      "category": "10",
+      "explanation": "'Elle lui donne son jupon' involves giving or transferring an item of clothing, thus interaction with an object.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2398",
+      "category": "4",
+      "explanation": "The phrase 'Le Chevalier vient,' is indicative of a character arriving on the scene.",
+      "stgdir": "Le Chevalier vient, et Trivelin dit :",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2399",
+      "category": "9",
+      "explanation": "A narrative event involving a mystical object interaction, creating an atmosphere with detailed unfolding.",
+      "stgdir": "L'ange touche la terre avec sa palme, et fait jaillir \u00e0 l'instant une source abondante.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 71568.09186935425,
+  "model": "gpt-4o"
+}

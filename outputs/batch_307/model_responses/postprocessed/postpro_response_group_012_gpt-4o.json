@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "900",
+      "category": "11",
+      "explanation": "The stage direction describes the setting, including a road, an inn, a gothic castle, and mountains.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "901",
+      "category": "0",
+      "explanation": "The stage direction indicates a character obeys, which is a general action.",
+      "stgdir": "Il ob\u00e9it.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "902",
+      "category": "3",
+      "explanation": "This describes the delivery manner as the character is sobbing and crying.",
+      "stgdir": "En sanglotant, et en pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "903",
+      "category": "8",
+      "explanation": "This indicates an 'AIR' or tune, fitting the music category.",
+      "stgdir": "AIR. Nous sommes Pr\u00e9cepteurs d'Amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "904",
+      "category": "0",
+      "explanation": "The action is that a character goes to fetch something, a general action.",
+      "stgdir": "Il va les chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "905",
+      "category": "11",
+      "explanation": "This details the setting of a theatrical scene.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "906",
+      "category": "8",
+      "explanation": "Indicates 'Air op\u00e9ra', referring to a musical aspect.",
+      "stgdir": "Air op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "907",
+      "category": "3",
+      "explanation": "Character singing is classified under delivery.",
+      "stgdir": "Monsieur Jourdain chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "908",
+      "category": "12",
+      "explanation": "Indicates the addressee of an action or dialogue, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Menos.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "909",
+      "category": "10",
+      "explanation": "The character interacts with a portfolio, indicating object handling.",
+      "stgdir": "Il ouvre le portefeuille, il examine ce qu'il contient, et dit :",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "910",
+      "category": "12",
+      "explanation": "Identifies the addressees, 'Au turc et au Mogol'.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "911",
+      "category": "3",
+      "explanation": "Denotes delivery; the character is hesitant.",
+      "stgdir": "H\u00e9sitant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "912",
+      "category": "12",
+      "explanation": "Indicates interaction directed towards painters.",
+      "stgdir": "Aux peintres qui sont rest\u00e9s et qui l'attendent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "913",
+      "category": "1",
+      "explanation": "Physical aggression is involved as lutins attack and toss Arlequin.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "914",
+      "category": "11",
+      "explanation": "Describes the stage setting, indicating a caf\u00e9 and rooms.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un caf\u00e9 et des chambres sur les ailes, de fa\u00e7on qu'un peut entrer de plain-pied des appartements dans le caf\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "915",
+      "category": "10",
+      "explanation": "Character action involving an object, putting on a wig.",
+      "stgdir": "Il met la perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "916",
+      "category": "12",
+      "explanation": "Indicates addressing Drusus.",
+      "stgdir": "\u00c0 Drusus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "917",
+      "category": "11",
+      "explanation": "Describes a setting for a scene.",
+      "stgdir": "Cette sc\u00e8ne est dans une salle pr\u00e9par\u00e9e pour un bal, o\u00f9 il y a compagnie, et des violons.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "918",
+      "category": "12",
+      "explanation": "Indicates addressing Lafrappe.",
+      "stgdir": "\u00c0 Lafrappe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "919",
+      "category": "8",
+      "explanation": "Begins with 'Air', indicating a musical piece.",
+      "stgdir": "Air : Si le Roi m'avait donn\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "920",
+      "category": "4",
+      "explanation": "Flore and Blanche make an entrance.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "921",
+      "category": "12",
+      "explanation": "Indicates addressing Ibrahim.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "922",
+      "category": "11",
+      "explanation": "Describes the setting, the palace of the Kings of Argos.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "923",
+      "category": "8",
+      "explanation": "Begins with 'AIR', indicating a music piece.",
+      "stgdir": "AIR. Votre beaut\u00e9 soumet tout l'univers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "924",
+      "category": "12",
+      "explanation": "Indicates addressees, the two Comedies.",
+      "stgdir": "Aux deux Com\u00e9dies.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "925",
+      "category": "12",
+      "explanation": "Addressing Constantin.",
+      "stgdir": "\u00c0 Constantin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "926",
+      "category": "5",
+      "explanation": "The character exits through the chamber door.",
+      "stgdir": "Elle sort par la porte de la chambre nuptiale.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "927",
+      "category": "12",
+      "explanation": "Addressing the Muses.",
+      "stgdir": "Aux Muses.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "928",
+      "category": "12",
+      "explanation": "Indicates address toward 'Aux Gens du Bailli'.",
+      "stgdir": "Aux Gens du Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "929",
+      "category": "4",
+      "explanation": "Dorante makes an entrance.",
+      "stgdir": "Dorante entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "930",
+      "category": "12",
+      "explanation": "Addressed to Plisth\u00e8ne.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "931",
+      "category": "7",
+      "explanation": "The character's movement is specified without exiting or entering.",
+      "stgdir": "Il passe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "932",
+      "category": "5",
+      "explanation": "Brigitte exits the stage.",
+      "stgdir": "Brigitte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "933",
+      "category": "4",
+      "explanation": "Indicates a character's entrance.",
+      "stgdir": "Entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "934",
+      "category": "1",
+      "explanation": "Violent action as the soldier strikes with a spear.",
+      "stgdir": "Le soldat le frappe de sa pique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "935",
+      "category": "11",
+      "explanation": "Describes the stage setting of the gardens of Hercules' palace.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente les jardins du Palais d'Hercule sur le bord de la mer.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "936",
+      "category": "10",
+      "explanation": "Character action involving an object; taking out a volume.",
+      "stgdir": "Il tire un petit volume de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "937",
+      "category": "9",
+      "explanation": "Standalone numeral indicating a scene number, fitting narration.",
+      "stgdir": "IV.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "938",
+      "category": "11",
+      "explanation": "Describes the setting, the abode of the Abb\u00e9.",
+      "stgdir": "La sc\u00e8ne est chez l'Abb\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "939",
+      "category": "0",
+      "explanation": "General action description; 'without kneeling' implies context of action.",
+      "stgdir": "Sans se mettre \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "940",
+      "category": "12",
+      "explanation": "Indicates addressee, Medwin.",
+      "stgdir": "\u00c0 Medwin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "941",
+      "category": "12",
+      "explanation": "Addressing the horse.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "942",
+      "category": "11",
+      "explanation": "Details the setting of Gerald's cabinet.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente Le cabinet de G\u00e9ralde ; sur La gauche est une table, couverte de papiers en d\u00e9sordre ; sur sa droite, un clavecin ; une biblioth\u00e8que, dans Le fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "943",
+      "category": "12",
+      "explanation": "Addressing Dangeste.",
+      "stgdir": "\u00c0 Dangeste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "944",
+      "category": "3",
+      "explanation": "Specifies delivery method; in a loud voice.",
+      "stgdir": "\u00c0 voix haute.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "945",
+      "category": "9",
+      "explanation": "Narrative element; implies sound of a cuckoo singing.",
+      "stgdir": "Le coucou chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "946",
+      "category": "6",
+      "explanation": "Indicates interaction with an object, Arlequin holding a match.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "947",
+      "category": "12",
+      "explanation": "Addressing Delphine.",
+      "stgdir": "\u00c0 Delphine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "948",
+      "category": "10",
+      "explanation": "Character action involving an object; taking Albert (presumed object).",
+      "stgdir": "Il prend Albert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "949",
+      "category": "0",
+      "explanation": "General action describing a futile attempt to restart a discourse.",
+      "stgdir": "Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "950",
+      "category": "4",
+      "explanation": "Orphise and Lise make an entrance.",
+      "stgdir": "Orphise et Lise entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "951",
+      "category": "12",
+      "explanation": "Addressed to Fanchette.",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "952",
+      "category": "3",
+      "explanation": "Character sings a couplet, fits under delivery (singing).",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "953",
+      "category": "1",
+      "explanation": "Involves forceful action; 'removal' indicates aggression.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "954",
+      "category": "8",
+      "explanation": "Introduces a tune, fitting the music category.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "955",
+      "category": "1",
+      "explanation": "Aggression; striking the ears of a donkey which kicks.",
+      "stgdir": "Elle frappe sur les oreilles de l'\u00e2ne qui rue.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "956",
+      "category": "12",
+      "explanation": "Addressed to 'l'intendant'.",
+      "stgdir": "\u00c0 l'intendant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "957",
+      "category": "6",
+      "explanation": "Non-verbal interaction; looking at children.",
+      "stgdir": "En regardant les enfants.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "958",
+      "category": "10",
+      "explanation": "Character's interaction with an object; opening a drawer.",
+      "stgdir": "Elle ouvre un tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "959",
+      "category": "8",
+      "explanation": "Introduces a melody, fitting under music.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "960",
+      "category": "11",
+      "explanation": "Describes the setting along the banks of the Tiber.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "961",
+      "category": "9",
+      "explanation": "Narrative element; suggests a sound (coughing behind theater).",
+      "stgdir": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "962",
+      "category": "11",
+      "explanation": "Describes the setting as a desert and cave.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "963",
+      "category": "5",
+      "explanation": "Don Quichotte exits the stage.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "964",
+      "category": "6",
+      "explanation": "Non-verbal interaction involving an embrace between characters.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "965",
+      "category": "9",
+      "explanation": "Narrative element mentioning French scenes.",
+      "stgdir": "SC\u00c8NES FRAN\u00c7AISES.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "966",
+      "category": "7",
+      "explanation": "Indicates movement away with Perillo.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "967",
+      "category": "7",
+      "explanation": "Describes movement as a troupe files past, led by Victor and Valentin.",
+      "stgdir": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "968",
+      "category": "5",
+      "explanation": "Indicates characters exiting; 's'en vont' implies leaving.",
+      "stgdir": "Ils s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "969",
+      "category": "7",
+      "explanation": "Character is getting back up, a movement action.",
+      "stgdir": "Se relevant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "970",
+      "category": "12",
+      "explanation": "Addressed to Ergazile.",
+      "stgdir": "\u00c0 Ergazile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "971",
+      "category": "6",
+      "explanation": "Interaction with an object as the character takes a fold or crease.",
+      "stgdir": "Prenant le pli.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "972",
+      "category": "8",
+      "explanation": "Music indication 'Air : Des Pierrots'.",
+      "stgdir": "Air : Des Pierrots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "973",
+      "category": "8",
+      "explanation": "Music indication 'Air : Not\u00e9 \u00e0 la fin'.",
+      "stgdir": "Air : Not\u00e9 \u00e0 la fin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "974",
+      "category": "7",
+      "explanation": "Character pulls away, a type of movement.",
+      "stgdir": "Il se tire \u00e0 l'\u00e9cart.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 62085.354804992676,
+  "model": "gpt-4o"
+}

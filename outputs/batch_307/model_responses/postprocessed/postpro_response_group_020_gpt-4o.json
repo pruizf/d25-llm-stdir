@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1500",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the play, indicating what the theater represents (pleasant meadows and a river).",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1501",
+      "category": "9",
+      "explanation": "This is a narrative stage direction describing a complex scene involving multiple characters fighting and interacting. It fits the narration category due to its length and detail.",
+      "stgdir": "L'imp\u00e9ratrice et le pape se battent, l'une avec son sceptre et l'autre avec sa croix : un coup de sceptre casse la croix ; le pape jette sa tiare \u00e0 la t\u00eate de Catherine et lui renverse sa couronne. Ils se battent avec leurs cha\u00eenes. Le roi de Pologne veut mettre le hol\u00e0, en \u00f4tant des mains le sceptre \u00e0 Catherine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1502",
+      "category": "6",
+      "explanation": "Verseuil giving his hand to Julie is a non-verbal interaction between characters.",
+      "stgdir": "Verseuil donne la main \u00e0 Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1503",
+      "category": "10",
+      "explanation": "This describes characters handling objects, such as holding a shaving dish and some clothes.",
+      "stgdir": "Cadet aura un plat \u00e0 barbe en main, le petit portera le peignoir et la m\u00e8re aura des hardes sous le bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1504",
+      "category": "5",
+      "explanation": "The character exits the stage, indicated by 'Elle sort'.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1505",
+      "category": "9",
+      "explanation": "It narrates the action of translating for savages and describes their reactions during the stage event.",
+      "stgdir": "Le vieillard sert de truchement aux sauvages, devant lesquels passent en revue les rois. Il leur traduit dans le langage des signes, ce qui se dit \u00e0 mesure que les rois paraissent sur la sc\u00e8ne. Les sauvages donnent tour \u00e0 tour des marques d'\u00e9tonnement et d'indignation.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1506",
+      "category": "10",
+      "explanation": "Describes an action with an object: opening a drawer.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1507",
+      "category": "11",
+      "explanation": "Describes the setting of the scene, which is the Palace of Folly.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1508",
+      "category": "6",
+      "explanation": "Character showing rings is a non-verbal interaction meant for another character or the audience.",
+      "stgdir": "Il lui montre des bagues qu'il a.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1509",
+      "category": "6",
+      "explanation": "They press each other\u2019s hands, indicating non-verbal interaction.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1510",
+      "category": "6",
+      "explanation": "Character interaction upon seeing the Count, showing a non-verbal acknowledgment or reaction.",
+      "stgdir": "En apercevant le Comte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1511",
+      "category": "7",
+      "explanation": "Implies that Polidor has followed Tirsis, indicating movement.",
+      "stgdir": "Polidor doit avoir suivi Tirsis.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1512",
+      "category": "10",
+      "explanation": "Action involving an object (ring) and touching it to lips.",
+      "stgdir": "Elle porte la bague \u00e0 ses l\u00e8vres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1513",
+      "category": "8",
+      "explanation": "The word 'AIR' followed by a tune name indicates a musical element.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1514",
+      "category": "9",
+      "explanation": "Describes off-stage sounds, which are often noted in narrative stage directions.",
+      "stgdir": "Cris au-dehors :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1515",
+      "category": "5",
+      "explanation": "Beatrix exits, indicated by 'se retire'.",
+      "stgdir": "B\u00e9atrix se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1516",
+      "category": "7",
+      "explanation": "Describes the movement of a character walking around the room.",
+      "stgdir": "Elle se l\u00e8ve, et parcourt la chambre de long en large.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1517",
+      "category": "12",
+      "explanation": "Shows the addressee of an upcoming speech: '\u00c0 la Reine' means addressing the Queen.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1518",
+      "category": "6",
+      "explanation": "Indicates showing or pointing towards Milady, which is non-verbal interaction.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1519",
+      "category": "12",
+      "explanation": "Indicates the addressee of the speech or action: '\u00c0 Zaide'.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1520",
+      "category": "8",
+      "explanation": "The stage direction mentions a musical air or tune, fitting the music category.",
+      "stgdir": "Air : Le tout par nature.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1521",
+      "category": "5",
+      "explanation": "Indicates that he returns or leaves, suggesting an exit.",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1522",
+      "category": "10",
+      "explanation": "Describes the character tearing papers, an action involving objects.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1523",
+      "category": "4",
+      "explanation": "The characters Cl\u00e9andre and Ferrande returning suggests an entrance.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1524",
+      "category": "0",
+      "explanation": "Pantomime is a type of performance involving actions without words, thus fitting general action.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1525",
+      "category": "8",
+      "explanation": "Designates a specific tune, indicated with 'AIR' and a song title.",
+      "stgdir": "AIR. ( Quand je tiens de ce jus d'octobre. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1526",
+      "category": "5",
+      "explanation": "Adrien exits the scene, as indicated by 'sort'.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1527",
+      "category": "10",
+      "explanation": "Opening a letter involves interaction with an object.",
+      "stgdir": "Ouvrant la premi\u00e8re lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1528",
+      "category": "8",
+      "explanation": "Indicates a song that will be played or referenced, as denoted by 'AIR'.",
+      "stgdir": "AIR. N'avez-vous pas vu l'horloge.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1529",
+      "category": "6",
+      "explanation": "Showing or pointing at Cris\u00e9is indicates non-verbal character interaction.",
+      "stgdir": "Montrant Cris\u00e9is.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1530",
+      "category": "6",
+      "explanation": "Similar to the previous, showing Frontin suggests non-verbal interaction.",
+      "stgdir": "Montrant Frontin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1531",
+      "category": "8",
+      "explanation": "A specified air (song), hence related to music.",
+      "stgdir": "Air 200. Du Feu d'Artifice.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1532",
+      "category": "7",
+      "explanation": "Describes movement as characters approach, not entering or exiting.",
+      "stgdir": "C\u00e9cile et Germeuil s'approchent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1533",
+      "category": "9",
+      "explanation": "A long descriptive narrative of actions and stage events including effects, fitting narration.",
+      "stgdir": "Ils continuent a chercher le faux Proph\u00e8te, qui jette sur eux quantit\u00e9 de p\u00e9tards et d'autres feux d'artifice qui enflamment l'air. On voit en m\u00eame temps Arlequin dans sa machine qui traverse le th\u00e9\u00e2tre. Il a un pourpoint noir avec un turban et une longue barbe blanche. Le Roi et le Kam sont frapp\u00e9s de cette apparition ; et la Suivante profitant de la crainte dont elle voit le Roi saisi lui dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1534",
+      "category": "5",
+      "explanation": "Indicates that La Branche exits the scene.",
+      "stgdir": "La Branche sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1535",
+      "category": "9",
+      "explanation": "Describes background noise, part of stage narration.",
+      "stgdir": "On entend un outil qui fourrage dans la serrure.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1536",
+      "category": "6",
+      "explanation": "Arlequin speaking to his master is an interaction, although verbal interactions are generally implied, not classified explicitly.",
+      "stgdir": "Arlequin voyant son ma\u00eetre revenu lui dit ;",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1537",
+      "category": "12",
+      "explanation": "Designates the addressee of the speech or action: '\u00c0 Virgine'.",
+      "stgdir": "\u00c0 Virgine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1538",
+      "category": "11",
+      "explanation": "Describes where the scene takes place.",
+      "stgdir": "La Sc\u00e8ne se passe dans le palais de Lothaire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1539",
+      "category": "8",
+      "explanation": "Introduces a song or tune, indicated by 'AIR'.",
+      "stgdir": "AIR : J'en avons tant ri",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1540",
+      "category": "11",
+      "explanation": "Describes the scenic setting: an elegant salon.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant dans une maison de campagne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1541",
+      "category": "5",
+      "explanation": "Indicates a character escaping, considered an exit.",
+      "stgdir": "Il s'\u00e9chappe.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1542",
+      "category": "8",
+      "explanation": "Refers to a specific tune or song to be played.",
+      "stgdir": "Air : Quand la berg\u00e8re vient des champs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1543",
+      "category": "4",
+      "explanation": "An entrance cue for the blacksmiths implies their entrance.",
+      "stgdir": "Entr\u00e9e des forgerons.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1544",
+      "category": "7",
+      "explanation": "Describes movement towards a tomb.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1545",
+      "category": "10",
+      "explanation": "Involves handing swords, which is an interaction with objects.",
+      "stgdir": "Il donne une \u00e9p\u00e9e \u00e0 Francis et l'autre \u00e0 Alfred.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1546",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing: '\u00c0 L\u00e9onidas'.",
+      "stgdir": "\u00c0 L\u00e9onidas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1547",
+      "category": "6",
+      "explanation": "Seeing Dormene and potentially reacting non-verbally is interaction.",
+      "stgdir": "Apercevant Dormene.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1548",
+      "category": "9",
+      "explanation": "Describes a visual effect on stage (Marquis appearing in the mirror), which is more narrative.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1549",
+      "category": "12",
+      "explanation": "Refers to the person being addressed: '\u00c0 son fils'.",
+      "stgdir": "\u00c0 son fils",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1550",
+      "category": "6",
+      "explanation": "Action focused on pointing or showing Martin.",
+      "stgdir": "Montrant Martin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1551",
+      "category": "6",
+      "explanation": "Involves non-verbal interaction by looking at a daughter.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1552",
+      "category": "8",
+      "explanation": "The stage direction refers to a musical piece.",
+      "stgdir": "Air : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1553",
+      "category": "7",
+      "explanation": "Movement towards a different area of the stage (to the left).",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1554",
+      "category": "9",
+      "explanation": "Narrates that all characters return, and an object (lamp) is set down, fitting the storytelling nature.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1555",
+      "category": "5",
+      "explanation": "Refers to Sainte C\u00e9cile leaving, indicating an exit.",
+      "stgdir": "Sainte C\u00e9cile sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1556",
+      "category": "8",
+      "explanation": "Refers to a tune or air for the scene.",
+      "stgdir": "Air : Voulez-vous savoir qui des deux",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1557",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech: '\u00c0 Valentin'.",
+      "stgdir": "\u00c0 Valentin",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1558",
+      "category": "12",
+      "explanation": "Designates the addressee of someone's action: speaking to the horse.",
+      "stgdir": "Parlant \u00e0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1559",
+      "category": "8",
+      "explanation": "Introduces a musical element with 'AIR' followed by the song name.",
+      "stgdir": "AIR. Tout roule aujourd'hui dans le monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1560",
+      "category": "0",
+      "explanation": "Involves action related to removing stage props, which doesn't have a direct specific category besides general action.",
+      "stgdir": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1561",
+      "category": "12",
+      "explanation": "Identifies Drouillac as the person being addressed.",
+      "stgdir": "\u00c0 Drouillac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1562",
+      "category": "6",
+      "explanation": "Non-verbal interaction upon seeing Ang\u00e9lique.",
+      "stgdir": "Apercevant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1563",
+      "category": "0",
+      "explanation": "The action is described as searching, a general action without specific classification.",
+      "stgdir": "Ayant l'air de chercher autour d'elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1564",
+      "category": "12",
+      "explanation": "Denotes speaking, targeting the speech to Hortensius.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1565",
+      "category": "9",
+      "explanation": "Narrates the difficulty in calming characters, fitting more into storytelling.",
+      "stgdir": "On les apaise \u00e0 grand peine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1566",
+      "category": "5",
+      "explanation": "Duparc exits, as 'sort' implies normal exit.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1567",
+      "category": "6",
+      "explanation": "Describes a non-verbal affectionate action.",
+      "stgdir": "Il embrasse Nicette et Mimi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1568",
+      "category": "7",
+      "explanation": "Involves moving towards the back of the stage.",
+      "stgdir": "Il remonte la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1569",
+      "category": "0",
+      "explanation": "General action without a more specific context.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1570",
+      "category": "12",
+      "explanation": "Indicates a direction toward a group of people or audience: 'Aux guerriers'.",
+      "stgdir": "Aux guerriers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1571",
+      "category": "5",
+      "explanation": "Indicates Villiers disappearing, considered a form of exit.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1572",
+      "category": "8",
+      "explanation": "A musical element introduction marked by 'AIR'.",
+      "stgdir": "AIR. ( L'autre nuit j'aper\u00e7us en songe. }",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1573",
+      "category": "7",
+      "explanation": "Describes movement as characters advance with swords.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1574",
+      "category": "6",
+      "explanation": "Non-verbal interaction involving mimicking or touching another character.",
+      "stgdir": "Il lui porte de m\u00eame son bras sous le nez.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 46683.14504623413,
+  "model": "gpt-4o"
+}

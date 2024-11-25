@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "225",
+      "category": "10",
+      "explanation": "The stage direction involves returning weapons, which refers to interacting with an object.",
+      "stgdir": "Il lui rend ses armes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "6",
+      "explanation": "Looking at someone is considered non-verbal character interaction.",
+      "stgdir": "Le regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "10",
+      "explanation": "The action of discovering a dress adorned with flowers is an interaction with an object.",
+      "stgdir": "Le Laquais d\u00e9couvre une robe garnie de fleurs.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "8",
+      "explanation": "The word 'Air' signifies that it is related to music, specifically a piece titled 'Menuet de Monsieur Grandval.'",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "0",
+      "explanation": "Searching for an idea is a general action that doesn't fit better in other established categories.",
+      "stgdir": "Cherchant une id\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "230",
+      "category": "12",
+      "explanation": "The direction is addressing the character 'to the marquis,' indicating the addressee of a speech.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "8",
+      "explanation": "The direction 'AIR du vaudeville de l'Avare' clearly denotes a musical piece.",
+      "stgdir": "AIR du vaudeville de l'Avare.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "The direction 'AIR : J'en jurerais presque sur sa laideur' indicates the title of a musical piece.",
+      "stgdir": "AIR : J'en jurerais presque sur sa laideur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "3",
+      "explanation": "The word 'Fredonnant' (humming) refers to a manner of vocal expression related to music.",
+      "stgdir": "Fredonnant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "9",
+      "explanation": "This lengthy direction akin to a prepared declaration resembles narration rather than stage action.",
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "9",
+      "explanation": "A narrative paragraph describing a sequence of events, rather than immediate stage actions.",
+      "stgdir": "Tout \u00e9tant dispos\u00e9, et le cur\u00e9 \u00e9tant arriv\u00e9 dans une cal\u00e8che a six chevaux qu'on avait envoy\u00e9e au devant de lui, il fut conduit \u00e0 son tr\u00f4ne. D\u00e8s qu'il fut assis, l'orateur lui pronon\u00e7a \u00e0 genoux une harangue dans le style de l'acad\u00e9mie, pleine de louanges, d'antith\u00e8ses, et de mots nouveaux. Le cur\u00e9 re\u00e7ut tous ces \u00e9loges avec l'air d'un homme qui sait bien qu'il en m\u00e9rite encore davantage ; car tout le monde n'est pas de l'humeur de notre reine***, qui hait les louanges autant qu'elle les m\u00e9rite. Apr\u00e8s la harangue, on ex\u00e9cuta le concert dont on vous envoie les paroles ; les choeurs all\u00e8rent \u00e0 merveille, et la c\u00e9r\u00e9monie finit par une grande pi\u00e8ce de vers poupeux, \u00e0 laquelle ni les assistants, ni le cur\u00e9, ni l'auteur, n'entendirent rien. Il faudrait avoir \u00e9t\u00e9 t\u00e9moin de cette f\u00eate pour en bien sentir l'agr\u00e9ment : les projets et les pr\u00e9paratifs de ces divertissements sont toujours agr\u00e9ables, l'ex\u00e9cution rarement bonne, et le r\u00e9cit souvent ennuyeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "8",
+      "explanation": "The mention of a 'symphonie vive recommence' pertains to the resumption of music.",
+      "stgdir": "La symphonie vive recommence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "6",
+      "explanation": "The exchanging of cards involves a non-verbal interaction between characters.",
+      "stgdir": "\u00c9change des cartes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "6",
+      "explanation": "Talking to those who want to help him walk implies a form of interaction with others.",
+      "stgdir": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "7",
+      "explanation": "The action of coming and going around the room is classified under general movement.",
+      "stgdir": "Girolamo lui pr\u00e9sente plusieurs lettres puis va et vient dans l'appartement en pr\u00e9parant ce qu'il faut pour la toilette de son ma\u00eetre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "240",
+      "category": "5",
+      "explanation": "The action 'Il sort avec Dorante' involves leaving the stage, thus an exit.",
+      "stgdir": "Il sort avec Dorante.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": "12",
+      "explanation": "The mention '\u00c0 Adario' indicates that something is directed towards this character.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": "12",
+      "explanation": "Addressing '\u00c0 Crispin' suggests directing a speech or action towards the character.",
+      "stgdir": "\u00c0 Crispin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": "6",
+      "explanation": "Indicating while showing a letter involves a non-verbal interaction.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": "6",
+      "explanation": "He turns to his son and speaks, involving direct interaction with the character.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": "10",
+      "explanation": "Removing a hat from Alain's head involves manipulating an object.",
+      "stgdir": "Arnolphe \u00f4te le chapeau de dessus la t\u00eate d'Alain.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": "5",
+      "explanation": "The phrase 'Odmar sort' signifies the character exiting the scene.",
+      "stgdir": "Odmar sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": "8",
+      "explanation": "Indicates a noted music piece, clearly falling under the music category.",
+      "stgdir": "Air Not\u00e9, N\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": "8",
+      "explanation": "The phrase 'Air : Non je ne ferai pas, etc.' denotes a tune or music piece.",
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": "12",
+      "explanation": "Addressing '\u00c0 Germeuil' indicates directing a speech or action to this character.",
+      "stgdir": "\u00c0 Germeuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "250",
+      "category": "5",
+      "explanation": "The phrase indicates a character stepping back or withdrawing from a dance.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "251",
+      "category": "0",
+      "explanation": "Knocking on the door involves a general action that doesn't fit better into other categories.",
+      "stgdir": "Val\u00e8re frappe \u00e0 la porte du logis de Clim\u00e8ne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "252",
+      "category": "10",
+      "explanation": "Involves closing and filling a bag, which is manipulation of an object.",
+      "stgdir": "Serre-fort remplit et referme le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "253",
+      "category": "5",
+      "explanation": "Indicates an individual and their group leaving the scene.",
+      "stgdir": "Lincoln et sa troupe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "254",
+      "category": "0",
+      "explanation": "Sitting at the table involves a general action.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "255",
+      "category": "8",
+      "explanation": "Refers to music, indicated by the placeholder 'A I R.'",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "256",
+      "category": "8",
+      "explanation": "Mention 'Air : Vaudeville de Jean Monnet' relates to a specific song or tune.",
+      "stgdir": "Air : Vaudeville de Jean Monnet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "257",
+      "category": "12",
+      "explanation": "Indicating a direction 'toward Marlot.'",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "258",
+      "category": "8",
+      "explanation": "Placeholder 'AIR' signifies music-related indication.",
+      "stgdir": "AIR.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "259",
+      "category": "12",
+      "explanation": "Direction indicating something towards a character, Marforio.",
+      "stgdir": "\u00c0 Marforio.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "260",
+      "category": "6",
+      "explanation": "The scene involves the count intercepting the countess, indicating interaction.",
+      "stgdir": "La comtesse se l\u00e8ve et va pour rentrer chez elle, le Comte l'arr\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "261",
+      "category": "8",
+      "explanation": "Mention 'Air : La bonne aventure, \u00f4 gai ?' refers to the name of a piece of music.",
+      "stgdir": "Air : La bonne aventure, \u00f4 gai ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "262",
+      "category": "12",
+      "explanation": "The use of '\u00c0 Albert' indicates directing something towards this character.",
+      "stgdir": "\u00c0 Albert.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "263",
+      "category": "5",
+      "explanation": "The stage direction 'Elle sort' indicates the characters leaving the stage.",
+      "stgdir": "Elle sort avec Guerland par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "264",
+      "category": "6",
+      "explanation": "Resting against the altar suggests a physical interaction with the setting.",
+      "stgdir": "Elle s'appuie contre l'autel.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "265",
+      "category": "3",
+      "explanation": "The use of 'gaiement' (cheerfully) relates to vocal delivery or expression of emotion.",
+      "stgdir": "Gaiment.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "266",
+      "category": "8",
+      "explanation": "Phrase 'Air : Sauter donc, mon coeur' indicates a composition or song.",
+      "stgdir": "Air : Sauter donc, mon coeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "267",
+      "category": "11",
+      "explanation": "Describes a stage setting change and involves location description.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le temple d'Isis avec la statue de cette d\u00e9esse. Apr\u00e8s la danse, Dana\u00fcs, Hypermnestre, Lync\u00e9e, arrivent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "268",
+      "category": "3",
+      "explanation": "Changing tone relates to the manner of delivery.",
+      "stgdir": "Changeant de ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "269",
+      "category": "12",
+      "explanation": "Addressing '\u00c0 Michaud' indicates directing something to this character.",
+      "stgdir": "\u00c0 Michaud.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "270",
+      "category": "6",
+      "explanation": "The action of putting something on someone involves interaction.",
+      "stgdir": "Il lui met son manchon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": "11",
+      "explanation": "Provides an elaborate description of a setting for the scene.",
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": "2",
+      "explanation": "Speaking to oneself indicates an aside.",
+      "stgdir": "Se parlant \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": "3",
+      "explanation": "Laughing loudly pertains to a form of vocal delivery or emotional expression.",
+      "stgdir": "Arlequin rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": "12",
+      "explanation": "Addressing '\u00c0 Arcas' signifies directing towards this character.",
+      "stgdir": "\u00c0 Arcas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": "8",
+      "explanation": "'AIR' in the phrase indicates a musical piece titled 'Ah! je vous trouve, Chevalier.'",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": "12",
+      "explanation": "Direction indicating something towards the character R\u00e9gina.",
+      "stgdir": "\u00c0 R\u00e9gina.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": "11",
+      "explanation": "Refers to a specific location within the play setting - chez la marquise Cibo.",
+      "stgdir": "Chez la marquise Cibo.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": "8",
+      "explanation": "'AIR' signifies it announces a song or piece, titled 'Ah! le charmant Berger que j'aime.'",
+      "stgdir": "AIR. Ah ! le charmant Berger que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": "1",
+      "explanation": "The action of hitting La Crainte and driving it away involves aggression.",
+      "stgdir": "Ils donnent des coups de b\u00e2ton \u00e0 la Crainte et la mettent en fuite.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "280",
+      "category": "3",
+      "explanation": "Singing is related to vocal delivery or expression \u2013 the remainder is sung.",
+      "stgdir": "Tout ce reste est chant\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "6",
+      "explanation": "Pointing to one's forehead involves non-verbal interaction or indication.",
+      "stgdir": "Montrant son front.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "4",
+      "explanation": "The direction 'Auguste rents' denotes a character entrance.",
+      "stgdir": "Auguste rentre avec un plateau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "8",
+      "explanation": "'AIR.' No, always say no' indicates a musical piece titled.",
+      "stgdir": "AIR. Non, toujours dire non.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "3",
+      "explanation": "Continuing to talk relates to voice or delivery manner.",
+      "stgdir": "Il continue toujours \u00e0 parler.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "4",
+      "explanation": "This indicates someone entering the stage.",
+      "stgdir": "On entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "7",
+      "explanation": "The action of getting up involves character movement.",
+      "stgdir": "Th\u00e9r\u00e8se et Madame Raquin se l\u00e8vent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "3",
+      "explanation": "Refers to a segment in music, typically sung.",
+      "stgdir": "TROISI\u00c8ME COUPLET.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "3",
+      "explanation": "Epithalamic ode generally refers to a delivered poetic or vocal piece.",
+      "stgdir": "ODE \u00c9PITHALAMIQUE.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "11",
+      "explanation": "Provides a description of the stage to represent Aristandre's Cave.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "290",
+      "category": "10",
+      "explanation": "Taking one's coat indicates handling an object.",
+      "stgdir": "Lui prenant son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "291",
+      "category": "7",
+      "explanation": "Describes the position and seating arrangement of characters on stage.",
+      "stgdir": "Ils sont tous assis, except\u00e9 Lisette.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "292",
+      "category": "8",
+      "explanation": "Title 'AIR. As a Swallow' identifies a specific musical piece.",
+      "stgdir": "AIR. Ainsi qu'une Hirondelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "293",
+      "category": "6",
+      "explanation": "Showing a vial refers to non-verbal interaction or indication.",
+      "stgdir": "Il montre la fiole de Cl\u00e9arque et celle de Climante.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "294",
+      "category": "8",
+      "explanation": "Title 'Air: De la Meuni\u00e8re' specifies a musical piece.",
+      "stgdir": "Air : De la Meuni\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "295",
+      "category": "0",
+      "explanation": "Acting like asleep is a stage action that aligns with general actions.",
+      "stgdir": "Il fait semblant de dormir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "296",
+      "category": "0",
+      "explanation": "Bringing characters involves action, and having them engaged indicates movement.",
+      "stgdir": "L'Abb\u00e9 am\u00e8ne plusieurs domestiques qui s'empressent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "297",
+      "category": "8",
+      "explanation": "The piece 'Air : Non, je ne ferai pas ce qu'on veut que je fasse' refers to music.",
+      "stgdir": "AIR : Non, je ne ferai pas ce qu'on veut que je fasse",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "298",
+      "category": "8",
+      "explanation": "Title 'Air: Folies d'Espagne' signifies a named musical piece.",
+      "stgdir": "Air : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "299",
+      "category": "8",
+      "explanation": "The version 'Air : Du Vaudeville des deux Veuves' signifies a music piece title.",
+      "stgdir": "Air : Du Vaudeville des deux Veuves.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 65044.60620880127,
+  "model": "gpt-4o"
+}
