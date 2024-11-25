@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2400,
+      "category": 0,
+      "explanation": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du th\u00e9\u00e2tre. (action)",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2401,
+      "category": 9,
+      "explanation": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne. (narration)",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2402,
+      "category": 4,
+      "explanation": "Patrocle entre. (entrance)",
+      "stgdir": "Patrocle entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2403,
+      "category": 7,
+      "explanation": "Il t\u00e9moigne s'en vouloir aller. (movement)",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2404,
+      "category": 3,
+      "explanation": "Arlequin chante : (delivery)",
+      "stgdir": "Arlequin chante :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2405,
+      "category": 12,
+      "explanation": "\u00c0 Monsieur Mananville. (toward)",
+      "stgdir": "\u00c0 Monsieur Mananville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2406,
+      "category": 4,
+      "explanation": "Ariston para\u00eet. (entrance)",
+      "stgdir": "Ariston para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2407,
+      "category": 7,
+      "explanation": "Carlos rabat son chapeau sur son visage, et s'avance pr\u00e9cipitamment vers elle. Do\u00f1a Sol, laissant tomber sa lampe. (movement)",
+      "stgdir": "Carlos rabat son chapeau sur son visage, et s'avance pr\u00e9cipitamment vers elle. Do\u00f1a Sol, laissant tomber sa lampe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2408,
+      "category": 12,
+      "explanation": "\u00c0 \u00c9rix\u00e8ne. (toward)",
+      "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2409,
+      "category": 10,
+      "explanation": "Elle reprend le mouchoir et se couvre le sein. (object)",
+      "stgdir": "Elle reprend le mouchoir et se couvre le sein.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2410,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente le cabinet de L\u00e9ontine. (setting)",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le cabinet de L\u00e9ontine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2411,
+      "category": 10,
+      "explanation": "Il relit l'adresse. (object)",
+      "stgdir": "Il relit l'adresse.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2412,
+      "category": 5,
+      "explanation": "Elle rentre dans le palais. (exit)",
+      "stgdir": "Elle rentre dans le palais.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2413,
+      "category": 1,
+      "explanation": "Il veut se percer. (aggression)",
+      "stgdir": "Il veut se percer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2414,
+      "category": 12,
+      "explanation": "\u00c0 Colin qui rapporte les cent \u00e9cus. (toward)",
+      "stgdir": "\u00c0 Colin qui rapporte les cent \u00e9cus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2415,
+      "category": 8,
+      "explanation": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands. (music)",
+      "stgdir": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2416,
+      "category": 8,
+      "explanation": "AIR R\u00e9veillez-vous. (music)",
+      "stgdir": "AIR R\u00e9veillez-vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2417,
+      "category": 7,
+      "explanation": "Dassoucy, poursuivant Pierrotin, descend du ch\u00e2teau dans le parc ; il court, embarrasse par son luth qu'il tient de la main gauche. (movement)",
+      "stgdir": "Dassoucy, poursuivant Pierrotin, descend du ch\u00e2teau dans le parc ; il court, embarrasse par son luth qu'il tient de la main gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2418,
+      "category": 0,
+      "explanation": "Mais elle se met \u00e0 chanter, il \u00e9coute. (action)",
+      "stgdir": "Mais elle se met \u00e0 chanter, il \u00e9coute.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2419,
+      "category": 8,
+      "explanation": "Air : La Fustemberg. (music)",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2420,
+      "category": 0,
+      "explanation": "Il aper\u00e7oit Nicodon. (action)",
+      "stgdir": "Il aper\u00e7oit Nicodon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2421,
+      "category": 4,
+      "explanation": "ENTR\u00c9E de deux meuniers et de deux meuni\u00e8res. (entrance)",
+      "stgdir": "ENTR\u00c9E de deux meuniers et de deux meuni\u00e8res.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2422,
+      "category": 6,
+      "explanation": "Ang\u00e9lique, sans lui r\u00e9pondre, tire la bo\u00eete aux bijoux et la lui rend sans le regarder : elle la met dans sa main ; et il s'arr\u00eate comme surpris et sans la lui remettre, apr\u00e8s quoi il sort. (interaction)",
+      "stgdir": "Ang\u00e9lique, sans lui r\u00e9pondre, tire la bo\u00eete aux bijoux et la lui rend sans le regarder : elle la met dans sa main ; et il s'arr\u00eate comme surpris et sans la lui remettre, apr\u00e8s quoi il sort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2423,
+      "category": 8,
+      "explanation": "AIR 108. [ \u00d4 turlutaine ! ] (music)",
+      "stgdir": "AIR 108. [ \u00d4 turlutaine ! ]",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2424,
+      "category": 0,
+      "explanation": "Il se jette dans un fauteuil. (action)",
+      "stgdir": "Il se jette dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2425,
+      "category": 5,
+      "explanation": "Elle sort avec Lucie. (exit)",
+      "stgdir": "Elle sort avec Lucie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2426,
+      "category": 6,
+      "explanation": "Il montre le mari de la Vieille. (interaction)",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2427,
+      "category": 8,
+      "explanation": "AIR : Mes chers amis, pouvez -vous m' enseigner. (music)",
+      "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2428,
+      "category": 4,
+      "explanation": "Val\u00e9rian entre. (entrance)",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2429,
+      "category": 10,
+      "explanation": "Il commence \u00e0 lire le billet. (object)",
+      "stgdir": "Il commence \u00e0 lire le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2430,
+      "category": 9,
+      "explanation": "La Reine ayant accept\u00e9 son d\u00e9fi, d\u00e9couvre ses intentions \u00e0 tous ses Princes assembl\u00e9s, qui t\u00e2chent de la divertir du dessein qu'elle \u00e0 con\u00e7u de le combattre. (narration)",
+      "stgdir": "La Reine ayant accept\u00e9 son d\u00e9fi, d\u00e9couvre ses intentions \u00e0 tous ses Princes assembl\u00e9s, qui t\u00e2chent de la divertir du dessein qu'elle \u00e0 con\u00e7u de le combattre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2431,
+      "category": 12,
+      "explanation": "Il s'adresse aux Enfants. (toward)",
+      "stgdir": "Il s'adresse aux Enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2432,
+      "category": 6,
+      "explanation": "Il baise la main du Prince. (interaction)",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2433,
+      "category": 12,
+      "explanation": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel. (toward)",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2434,
+      "category": 8,
+      "explanation": "Air : Not\u00e9 n\u00b01. (music)",
+      "stgdir": "Air : Not\u00e9 n\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2435,
+      "category": 5,
+      "explanation": "Mademoiselle Clairet, Madame Papillon et sa fille de boutique sortent. (exit)",
+      "stgdir": "Mademoiselle Clairet, Madame Papillon et sa fille de boutique sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2436,
+      "category": 10,
+      "explanation": "LETTRE D'HELENE A PHALANTE. (object)",
+      "stgdir": "LETTRE D'HELENE A PHALANTE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2437,
+      "category": 8,
+      "explanation": "Air : Cet arbre apport\u00e9 de Provence. (music)",
+      "stgdir": "Air : Cet arbre apport\u00e9 de Provence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2438,
+      "category": 6,
+      "explanation": "Il parle \u00e0 sa femme. (interaction)",
+      "stgdir": "Il parle \u00e0 sa femme.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2439,
+      "category": 12,
+      "explanation": "\u00c0 Clytemnestre. (toward)",
+      "stgdir": "\u00c0 Clytemnestre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2440,
+      "category": 8,
+      "explanation": "AIR. Allons donc, jouez violons. (music)",
+      "stgdir": "AIR. Allons donc, jouez violons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2441,
+      "category": 10,
+      "explanation": "Monsieur Carondas, fouillant dans la poche de Val\u00e8re. (object)",
+      "stgdir": "Monsieur Carondas, fouillant dans la poche de Val\u00e8re.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2442,
+      "category": 8,
+      "explanation": "On entend une symphonie douce. (music)",
+      "stgdir": "On entend une symphonie douce.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2443,
+      "category": 8,
+      "explanation": "Air : On dit par tout le monde. (music)",
+      "stgdir": "Air : On dit par tout le monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2444,
+      "category": 5,
+      "explanation": "Ils sortent l'un et l'autre. (exit)",
+      "stgdir": "Ils sortent l'un et l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2445,
+      "category": 9,
+      "explanation": "APOTH\u00c9OSE. - RIDEAU (narration)",
+      "stgdir": "APOTH\u00c9OSE. - RIDEAU",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2446,
+      "category": 4,
+      "explanation": "Blaise et G\u00e9rault entrent. (entrance)",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2447,
+      "category": 7,
+      "explanation": "Elle se pr\u00e9pare \u00e0 sortir. (movement)",
+      "stgdir": "Elle se pr\u00e9pare \u00e0 sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2448,
+      "category": 8,
+      "explanation": "AIR. Dans la jeune saison. (music)",
+      "stgdir": "AIR. Dans la jeune saison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2449,
+      "category": 6,
+      "explanation": "Elle veut lui mettre le bonnet. (interaction)",
+      "stgdir": "Elle veut lui mettre le bonnet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2450,
+      "category": 3,
+      "explanation": "Triomphalement. (delivery)",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2451,
+      "category": 10,
+      "explanation": "Elle re\u00e7oit son billet. (object)",
+      "stgdir": "Elle re\u00e7oit son billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2452,
+      "category": 12,
+      "explanation": "\u00c0 Antenor. (toward)",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2453,
+      "category": 0,
+      "explanation": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve. (action)",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2454,
+      "category": 7,
+      "explanation": "Il va se mettre entre Damis et Marthon. (movement)",
+      "stgdir": "Il va se mettre entre Damis et Marthon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2455,
+      "category": 12,
+      "explanation": "Avisant l'Infant. (toward)",
+      "stgdir": "Avisant l'Infant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2456,
+      "category": 8,
+      "explanation": "Ici recommence la symphonie, et Joad aussit\u00f4t reprend la parole. (music)",
+      "stgdir": "Ici recommence la symphonie, et Joad aussit\u00f4t reprend la parole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2457,
+      "category": 6,
+      "explanation": "Il lui remet Sophie entre les bras. (interaction)",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2458,
+      "category": 12,
+      "explanation": "Parlant \u00e0 Ninon. (toward)",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2459,
+      "category": 8,
+      "explanation": "Air de PLANTADE. (music)",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2460,
+      "category": 8,
+      "explanation": "Air : Vaudeville de Racan. (music)",
+      "stgdir": "Air : Vaudeville de Racan.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2461,
+      "category": 7,
+      "explanation": "Tout le Peuple va se ranger au bout de la Cour. (movement)",
+      "stgdir": "Tout le Peuple va se ranger au bout de la Cour.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2462,
+      "category": 12,
+      "explanation": "\u00c0 Madame Duru. (toward)",
+      "stgdir": "\u00c0 Madame Duru.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2463,
+      "category": 10,
+      "explanation": "Il l\u00e8ve son marteau. (object)",
+      "stgdir": "Il l\u00e8ve son marteau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2464,
+      "category": 5,
+      "explanation": "Il s'enfuit par le fond. (exit)",
+      "stgdir": "Il s'enfuit par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2465,
+      "category": 5,
+      "explanation": "Phoedime sort. (exit)",
+      "stgdir": "Phoedime sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2466,
+      "category": 10,
+      "explanation": "Mettant le portefeuille sur une table[.] (object)",
+      "stgdir": "Mettant le portefeuille sur une table[.]",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2467,
+      "category": 12,
+      "explanation": "\u00c0 Hyacinte. (toward)",
+      "stgdir": "\u00c0 Hyacinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2468,
+      "category": 6,
+      "explanation": "Appelant un domestique. (interaction)",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2469,
+      "category": 8,
+      "explanation": "Air : Aye, aye, aye, Jeannette. (music)",
+      "stgdir": "Air : Aye, aye, aye, Jeannette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2470,
+      "category": 0,
+      "explanation": "Ils boivent de nouveau. (action)",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2471,
+      "category": 0,
+      "explanation": "En se retournant, elle aper\u00e7oit Don Juan sur le seuil de la porte. (action)",
+      "stgdir": "En se retournant, elle aper\u00e7oit Don Juan sur le seuil de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2472,
+      "category": 6,
+      "explanation": "Montrant Nadine. (interaction)",
+      "stgdir": "Montrant Nadine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2473,
+      "category": 7,
+      "explanation": "Il veut partir. (movement)",
+      "stgdir": "Il veut partir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2474,
+      "category": 8,
+      "explanation": "AIR : Vaudeville de l'Isle des femmes. (music)",
+      "stgdir": "AIR : Vaudeville de l'Isle des femmes.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 112516.68763160706,
+  "model": "mistral-large-2407"
+}

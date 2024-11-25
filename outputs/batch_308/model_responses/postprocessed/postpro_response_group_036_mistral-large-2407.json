@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2700,
+      "category": 1,
+      "explanation": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet. \u2014> Action violente li\u00e9e \u00e0 la d\u00e9sarmement.",
+      "stgdir": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2701,
+      "category": 0,
+      "explanation": "Quatre fois. \u2014> Action g\u00e9n\u00e9rale sans sp\u00e9cificit\u00e9.",
+      "stgdir": "Quatre fois.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2702,
+      "category": 12,
+      "explanation": "\u00c0 Mercure. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2703,
+      "category": 8,
+      "explanation": "Chanson \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Chanson",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2704,
+      "category": 1,
+      "explanation": "Il se tue de ceux coups de poignards. \u2014> Action violente li\u00e9e au suicide.",
+      "stgdir": "Il se tue de ceux coups de poignards.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2705,
+      "category": 7,
+      "explanation": "Il va pour entrer chez son Colonel. \u2014> D\u00e9placement du personnage.",
+      "stgdir": "Il va pour entrer chez son Colonel.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2706,
+      "category": 0,
+      "explanation": "En se regardant. \u2014> Action g\u00e9n\u00e9rale de regarder.",
+      "stgdir": "En se regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2707,
+      "category": 12,
+      "explanation": "Montrant Br\u00e9court. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Montrant Br\u00e9court.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2708,
+      "category": 12,
+      "explanation": "Au gar\u00e7on qui porte le fauteuil. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au gar\u00e7on qui porte le fauteuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2709,
+      "category": 12,
+      "explanation": "\u00c0 Clarine. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Clarine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2710,
+      "category": 12,
+      "explanation": "\u00c0 la Folie. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 la Folie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2711,
+      "category": 8,
+      "explanation": "AIR. Not\u00e9 N\u00b04. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR. Not\u00e9 N\u00b04.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2712,
+      "category": 10,
+      "explanation": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre. \u2014> Interaction avec un objet.",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2713,
+      "category": 5,
+      "explanation": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond. \u2014> Sortie de sc\u00e8ne.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2714,
+      "category": 8,
+      "explanation": "Air : Une jeune Pucelle, etc. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2715,
+      "category": 0,
+      "explanation": "Il regarde autour de lui, et vois du sang. \u2014> Action g\u00e9n\u00e9rale de regarder.",
+      "stgdir": "Il regarde autour de lui, et vois du sang.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2716,
+      "category": 11,
+      "explanation": "La sc\u00e8ne repr\u00e9sente un salon, plusieurs tableaux sont suspendus \u00e7\u00e0 et l\u00e0. Un portrait de femme, plac\u00e9 sur un chevalet, est plus en vue que les autres. Th\u00e9odore est assis devant une table, sur laquelle il y a du papier, une \u00e9critoire, de la musique, etc. Dubois arrange l'appartement. \u2014> Description de la sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un salon, plusieurs tableaux sont suspendus \u00e7\u00e0 et l\u00e0. Un portrait de femme, plac\u00e9 sur un chevalet, est plus en vue que les autres. Th\u00e9odore est assis devant une table, sur laquelle il y a du papier, une \u00e9critoire, de la musique, etc. Dubois arrange l'appartement.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2717,
+      "category": 7,
+      "explanation": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve. \u2014> D\u00e9placement du personnage.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2718,
+      "category": 8,
+      "explanation": "Refrain de l'AIR 72 : Morguienne de vous. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Refrain de l'AIR 72 : Morguienne de vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2719,
+      "category": 8,
+      "explanation": "Air : Souvenez-vous en. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air : Souvenez-vous en.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2720,
+      "category": 10,
+      "explanation": "Il cach\u00e8te sa lettre. \u2014> Interaction avec un objet.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2721,
+      "category": 4,
+      "explanation": "Camille rentre. \u2014> Entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Camille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2722,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes. \u2014> Description de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2723,
+      "category": 12,
+      "explanation": "Au Grand Bibi. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au Grand Bibi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2724,
+      "category": 8,
+      "explanation": "Air De l'Anonyme. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air De l'Anonyme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2725,
+      "category": 6,
+      "explanation": "D\u00e9mophon, lui montrant la promesse. \u2014> Interaction non verbale.",
+      "stgdir": "D\u00e9mophon, lui montrant la promesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2726,
+      "category": 8,
+      "explanation": "AIR : \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2727,
+      "category": 8,
+      "explanation": "Air : La vieille m\u00e9thode. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air : La vieille m\u00e9thode.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2728,
+      "category": 12,
+      "explanation": "\u00c0 Calotin. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Calotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2729,
+      "category": 12,
+      "explanation": "Au Ma\u00eetre d'H\u00f4tel. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au Ma\u00eetre d'H\u00f4tel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2730,
+      "category": 5,
+      "explanation": "Phoenix sort. \u2014> Sortie de sc\u00e8ne.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2731,
+      "category": 0,
+      "explanation": "Scarron continue d'\u00e9crire. \u2014> Action g\u00e9n\u00e9rale d'\u00e9crire.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2732,
+      "category": 12,
+      "explanation": "\u00c0 Arsace. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Arsace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2733,
+      "category": 9,
+      "explanation": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise. \u2014> Didascalie narrative.",
+      "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2734,
+      "category": 4,
+      "explanation": "Edgard entre. \u2014> Entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Edgard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2735,
+      "category": 0,
+      "explanation": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant. \u2014> Action g\u00e9n\u00e9rale de s'asseoir.",
+      "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2736,
+      "category": 12,
+      "explanation": "\u00c0 Arons. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Arons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2737,
+      "category": 8,
+      "explanation": "Tous reprennent le rondeau. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Tous reprennent le rondeau.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2738,
+      "category": 8,
+      "explanation": "Air 18 : Branle de Metz. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air 18 : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2739,
+      "category": 8,
+      "explanation": "AIR : Du pas redoubl\u00e9 de l'Infanterie. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR : Du pas redoubl\u00e9 de l'Infanterie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2740,
+      "category": 12,
+      "explanation": "\u00c0 Marco. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Marco.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2741,
+      "category": 4,
+      "explanation": "\u00c9lise entre. \u2014> Entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "\u00c9lise entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2742,
+      "category": 6,
+      "explanation": "Ils s'embrassent \u2014> Interaction non verbale.",
+      "stgdir": "Ils s'embrassent",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2743,
+      "category": 12,
+      "explanation": "\u00c0 B\u00eame. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 B\u00eame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2744,
+      "category": 8,
+      "explanation": "AIR : Je n'en dirai pas davantage. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR : Je n'en dirai pas davantage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2745,
+      "category": 6,
+      "explanation": "Regardant Rouqu\u00e9rolle. \u2014> Interaction non verbale.",
+      "stgdir": "Regardant Rouqu\u00e9rolle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2746,
+      "category": 0,
+      "explanation": "Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion. \u2014> Action g\u00e9n\u00e9rale.",
+      "stgdir": "Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2747,
+      "category": 8,
+      "explanation": "AIR : Tique tique taque lon lan la. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR : Tique tique taque lon lan la.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2748,
+      "category": 0,
+      "explanation": "Pluton et Proserpine ensemble. \u2014> Action g\u00e9n\u00e9rale.",
+      "stgdir": "Pluton et Proserpine ensemble.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2749,
+      "category": 12,
+      "explanation": "\u00c0 Dorante. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Dorante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2750,
+      "category": 5,
+      "explanation": "Gallas sort. \u2014> Sortie de sc\u00e8ne.",
+      "stgdir": "Gallas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2751,
+      "category": 10,
+      "explanation": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte. \u2014> Interaction avec un objet.",
+      "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2752,
+      "category": 12,
+      "explanation": "\u00c0 La Brie. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 La Brie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2753,
+      "category": 6,
+      "explanation": "Voyant Gaston. \u2014> Interaction non verbale.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2754,
+      "category": 1,
+      "explanation": "Il frappe Arlequin. \u2014> Action violente.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2755,
+      "category": 7,
+      "explanation": "Le garde s'\u00e9loigne un moment. \u2014> D\u00e9placement du personnage.",
+      "stgdir": "Le garde s'\u00e9loigne un moment.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2756,
+      "category": 5,
+      "explanation": "Salviati entre dans le palais. \u2014> Sortie de sc\u00e8ne.",
+      "stgdir": "Salviati entre dans le palais.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2757,
+      "category": 8,
+      "explanation": "Air : Eh! zon, zon, zon. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air : Eh! zon, zon, zon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2758,
+      "category": 0,
+      "explanation": "On frappe de nouveau. \u2014> Action g\u00e9n\u00e9rale.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2759,
+      "category": 4,
+      "explanation": "Premi\u00e8re entr\u00e9e. \u2014> Entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Premi\u00e8re entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2760,
+      "category": 10,
+      "explanation": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche. \u2014> Interaction avec un objet.",
+      "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2761,
+      "category": 0,
+      "explanation": "Il veut lire. \u2014> Action g\u00e9n\u00e9rale de lire.",
+      "stgdir": "Il veut lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2762,
+      "category": 6,
+      "explanation": "Regardant. \u2014> Interaction non verbale.",
+      "stgdir": "Regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2763,
+      "category": 3,
+      "explanation": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0: \u2014> D\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0:",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2764,
+      "category": 12,
+      "explanation": "\u00c0 N\u00e9optol\u00e9mus. \u2014> Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2765,
+      "category": 11,
+      "explanation": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond. \u2014> Description de la sc\u00e8ne.",
+      "stgdir": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2766,
+      "category": 8,
+      "explanation": "AIR de la Somnambule. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR de la Somnambule.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2767,
+      "category": 7,
+      "explanation": "Se rapprochant. \u2014> D\u00e9placement du personnage.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2768,
+      "category": 8,
+      "explanation": "AIR : Sans dessus desssous. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR : Sans dessus desssous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2769,
+      "category": 8,
+      "explanation": "Air 69. Un certain je-ne-sais-quoi. \u2014> R\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2770,
+      "category": 7,
+      "explanation": "Il fait un mouvement pour aller au Chevalier. \u2014> D\u00e9placement du personnage.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2771,
+      "category": 5,
+      "explanation": "Le chevalier Uladislas sort de l'h\u00f4tellerie. \u2014> Sortie de sc\u00e8ne.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2772,
+      "category": 6,
+      "explanation": "Observant Terville. \u2014> Interaction non verbale.",
+      "stgdir": "Observant Terville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2773,
+      "category": 0,
+      "explanation": "Elle repeint. \u2014> Action g\u00e9n\u00e9rale de peindre.",
+      "stgdir": "Elle repeint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2774,
+      "category": 6,
+      "explanation": "Elle le regarde toujours. \u2014> Interaction non verbale.",
+      "stgdir": "Elle le regarde toujours.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 127537.08076477051,
+  "model": "mistral-large-2407"
+}

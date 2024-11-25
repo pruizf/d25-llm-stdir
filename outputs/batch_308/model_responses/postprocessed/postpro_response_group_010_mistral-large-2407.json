@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 750,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit l'action de jeter une clef, ce qui est une interaction avec un objet.",
+      "stgdir": "Lui jetant une clef.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 751,
+      "category": 8,
+      "explanation": "La didascalie mentionne un r\u00e9citatif, ce qui est une description de la musique.",
+      "stgdir": "R\u00c9CITATIF, par MONSIEUR LA RUETTE. N\u00b01",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 752,
+      "category": 4,
+      "explanation": "La didascalie d\u00e9crit l'entr\u00e9e d'un messager.",
+      "stgdir": "Un Messager entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 753,
+      "category": 11,
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne et le d\u00e9cor du th\u00e9\u00e2tre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un verger, et de chaque c\u00f4te de la sc\u00e8ne, sur le devant, un petit carr\u00e9 de jardin. On voit la maison de Caleb sur la droite, et un berceau d'orangers \u00e0 la porte : le verger est enclos d'une esp\u00e8ce de haie qui a une porte au milieu ; par-del\u00e0 est une cha\u00eene de montagnes : tous les arbres doivent \u00eatre abondamment garnis de fruits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 754,
+      "category": 5,
+      "explanation": "La didascalie d\u00e9crit la sortie de Justine.",
+      "stgdir": "Justine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 755,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de pr\u00e9paration sans sp\u00e9cifier d'objet ou d'interaction.",
+      "stgdir": "Scapin et Monsieur Dumont pr\u00e9parent tout.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 756,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique en montrant Bouchet.",
+      "stgdir": "En montrant Bouchet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 757,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action d'\u00e9crire en chantant.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 758,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de rire.",
+      "stgdir": "Bi\u00e8vre rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 759,
+      "category": 1,
+      "explanation": "La didascalie d\u00e9crit une action agressive de mettre la main \u00e0 un poignard.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 760,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de s'agenouiller.",
+      "stgdir": "Il est \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 761,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit une interaction avec un objet (l'\u00e9p\u00e9e).",
+      "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 762,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de sonner.",
+      "stgdir": "Il sonne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 763,
+      "category": 11,
+      "explanation": "La didascalie d\u00e9crit un changement de sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 764,
+      "category": 6,
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 765,
+      "category": 6,
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "G\u00e9ronte s'approcha de la Dame, et lev\u00e9 sa cal\u00e8che.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 766,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de tomber \u00e0 genoux.",
+      "stgdir": "Il tombe \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 767,
+      "category": 7,
+      "explanation": "La didascalie d\u00e9crit un mouvement de rentrer sur la pointe des pieds.",
+      "stgdir": "Il rentre sur la pointe des pieds.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 768,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de se t\u00e2ter.",
+      "stgdir": "Se t\u00e2tant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 769,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique \u00e0 Marthon.",
+      "stgdir": "\u00c0 Marthon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 770,
+      "category": 7,
+      "explanation": "La didascalie d\u00e9crit un mouvement de suivre.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 771,
+      "category": 5,
+      "explanation": "La didascalie d\u00e9crit une sortie avec Silvia.",
+      "stgdir": "Il part avec Silvia.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 772,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "Air : Je ne verrai plus ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 773,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique \u00e0 Madame Patin.",
+      "stgdir": "\u00c0 Madame Patin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 774,
+      "category": 4,
+      "explanation": "La didascalie d\u00e9crit l'entr\u00e9e de Tartuffe chez Thalie.",
+      "stgdir": "Tartuffe entre chez Thalie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 775,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "AIR : Quel plaisir de voir Claudine !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 776,
+      "category": 11,
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne et le d\u00e9cor du th\u00e9\u00e2tre.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 777,
+      "category": 7,
+      "explanation": "La didascalie d\u00e9crit un mouvement d'aller \u00e0 Marie.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 778,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique \u00e0 Arlequin.",
+      "stgdir": "\u00c0 Arlequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 779,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de chercher.",
+      "stgdir": "Ayant l'air de chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 780,
+      "category": 4,
+      "explanation": "La didascalie d\u00e9crit l'entr\u00e9e chez Sylviane.",
+      "stgdir": "Elle entre chez Sylviane.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 781,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de se lever.",
+      "stgdir": "Elle se l\u00e8ve ainsi que Lamblin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 782,
+      "category": 9,
+      "explanation": "La didascalie d\u00e9crit un bruit de coups \u00e0 la porte, ce qui est une narration.",
+      "stgdir": "On entend des coups \u00e0 la porte d'en bas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 783,
+      "category": 9,
+      "explanation": "La didascalie d\u00e9crit un chant, ce qui est une narration.",
+      "stgdir": "On chante un cantique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 784,
+      "category": 5,
+      "explanation": "La didascalie d\u00e9crit une sortie chez elle.",
+      "stgdir": "Elle rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 785,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique au Noble.",
+      "stgdir": "Au Noble.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 786,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de pleurer.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 787,
+      "category": 9,
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions des personnages, ce qui est une narration.",
+      "stgdir": "Ce disant, il d\u00e9signe des Urlis qui arrive en costume de N\u00e9arque, un petit chien sur un bras et un bilboquet \u00e0 la main.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 788,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit une interaction avec des objets (bijoux et argent).",
+      "stgdir": "Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 789,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique \u00e0 Sommerset.",
+      "stgdir": "\u00c0 Sommerset.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 790,
+      "category": 11,
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne et le d\u00e9cor du th\u00e9\u00e2tre.",
+      "stgdir": "Le Soleil parait dans son palais. Ce palais est d'or, compos\u00e9 avec des colonnes torses d'or poli, qui sont rev\u00eatues de branches de Laurier qui les environnent, de couleur naturelle. Les chapiteaux sont d'or fin cisel\u00e9, et les bases des colonnes de m\u00eame mati\u00e8re, aussi bien que la frise et la corniche. Le corps du massif de ce palais est de pierres pr\u00e9cieuses, et tous les pi\u00e9destaux de marbre blanc, au milieu desquels on voit de gros Rubis. Les panneaux sont enrichis de veines d'or sur un fond de lapis. Au-dessus de la Corniche on voit, dans une esp\u00e8ce de petite Attique d'o\u00f9 naissent les cintres, des lires d'or, avec plusieurs ornements\u00a0; et dans le milieu des vo\u00fbtes sont peints de grands Soleils d'or poli, avec quantit\u00e9s d'autres ornements. L'Optique de ce palais est toute transparente, et jette un \u00e9clat qui \u00e9blouit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 791,
+      "category": 6,
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Il embrasse Rom\u00e9o.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 792,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique \u00e0 Illo.",
+      "stgdir": "\u00c0 Illo.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 793,
+      "category": 6,
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Il embrasse Lisidan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 794,
+      "category": 2,
+      "explanation": "La didascalie d\u00e9crit un personnage seul, ce qui est un apart\u00e9.",
+      "stgdir": "\u00c9tant seule.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 795,
+      "category": 6,
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 796,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "Air d'Arlequin afficheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 797,
+      "category": 9,
+      "explanation": "La didascalie d\u00e9crit une action de baisser la toile, ce qui est une narration.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 798,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 799,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de se jeter aux genoux.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 800,
+      "category": 7,
+      "explanation": "La didascalie d\u00e9crit un mouvement de se rapprocher.",
+      "stgdir": "Marthon se rapproche ici de Madame Lisban et de Lindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 801,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de continuer \u00e0 regarder.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 802,
+      "category": 9,
+      "explanation": "La didascalie d\u00e9crit une action continue dans le salon des prisonniers du Temple, ce qui est une narration.",
+      "stgdir": "L'action continue dans le salon des prisonniers du Temple.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 803,
+      "category": 6,
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 804,
+      "category": 9,
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions des personnages, ce qui est une narration.",
+      "stgdir": "Pasquariel se change en monstre. Arlequin jette son manteau royal, et para\u00eet mont\u00e9 sur un cheval ail\u00e9, combat le monstre, et apr\u00e8s un jeu de culbutes, la sc\u00e8ne finit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 805,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit une interaction avec un objet (une clef).",
+      "stgdir": "Tirant une clef de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 806,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de se jeter \u00e0 genoux.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 807,
+      "category": 4,
+      "explanation": "La didascalie d\u00e9crit une entr\u00e9e.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 808,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "Air : Babet, que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 809,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "Air : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 810,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit une interaction avec un objet (une lettre).",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 811,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique en le montrant.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 812,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de rire.",
+      "stgdir": "Elle rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 813,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit une interaction avec un objet (une lettre).",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 814,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "Air : Re\u00e7ois dans ton galetas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 815,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de partir en riant.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 816,
+      "category": 12,
+      "explanation": "La didascalie indique le destinataire d'une r\u00e9plique \u00e0 Illo et \u00e0 Tersky.",
+      "stgdir": "\u00c0 Illo et \u00e0 Tersky.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 817,
+      "category": 8,
+      "explanation": "La didascalie mentionne un air, ce qui est une description de la musique.",
+      "stgdir": "AIR : L'amiti\u00e9 seule te s\u00e9duit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 818,
+      "category": 6,
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "La Haine et l'Envie s'embrassent, en rechignant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 819,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit une interaction avec un objet (un demi-cercle et une canne).",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 820,
+      "category": 9,
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions des personnages, ce qui est une narration.",
+      "stgdir": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 821,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de regarder.",
+      "stgdir": "Regardant les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 822,
+      "category": 10,
+      "explanation": "La didascalie d\u00e9crit une interaction avec un objet (un corsage).",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 823,
+      "category": 0,
+      "explanation": "La didascalie d\u00e9crit une action de s'asseoir.",
+      "stgdir": "Elle s'asseoit \u00e0 une table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 824,
+      "category": 3,
+      "explanation": "La didascalie d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Et comme tout bas.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 129416.35632514954,
+  "model": "mistral-large-2407"
+}
