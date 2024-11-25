@@ -64,7 +64,7 @@ def eval_res(res_dir, golden_df, color_mode, prompt_type, batch_sfx=None):
 
 
 def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
-                  group_size, data_size, batch_sfx=None):
+                  group_size, data_size, batch_sfx=None, previous_categs=None):
   assert color_mode in clrmap_dict
   sys_jmt = ut.extract_category_from_model_output_safe(res_dir, group_size, data_size, mode=prompt_type)
   # also do dictionary here for ref_jmt, based on index as key, categNbr as labels
@@ -74,9 +74,15 @@ def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
   ref_stgdir_nbrs = set(ref_jmt.keys())
   sys_stgdir_nbrs = set(sys_jmt.keys())
   missing_stgdir_nbrs = ref_stgdir_nbrs - sys_stgdir_nbrs
+  added_categs = {}
   for ms in missing_stgdir_nbrs:
+    if ms in previous_categs:
+      sys_jmt[ms] = previous_categs[ms]
+      print(f"Missing stage direction {ms} filled with previous random category {previous_categs[ms]}")
+      continue
     rand_choice = random.choice(cf.categs_as13)
     sys_jmt[ms] = cf.categs_as13.index(rand_choice)
+    added_categs[ms] = cf.categs_as13.index(rand_choice)
     print(f"Missing stage direction {ms} filled with random category {rand_choice}")
   ref_jmt_as_list = [ref_jmt[stgdir] for stgdir in sorted(ref_jmt.keys())]
   sys_jmt_as_list = [sys_jmt[stgdir] for stgdir in sorted(sys_jmt.keys())]
@@ -85,7 +91,8 @@ def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
   classif_report = classification_report(ref_jmt_as_list, sys_jmt_as_list, target_names=labels, digits=3)
   plot_confusion_matrix(sys_jmt_as_list, ref_jmt_as_list, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
   plain_cm = confusion_matrix(ref_jmt_as_list, sys_jmt_as_list, normalize="true")
-  return {"sys_res": sys_jmt_as_list, "ref_res": ref_jmt_as_list, "cm": plain_cm, "cr": classif_report}
+  return {"sys_res": sys_jmt_as_list, "ref_res": ref_jmt_as_list, "cm": plain_cm, "cr": classif_report,
+          "added_categs": {}}
 
 
 if __name__ == "__main__":
@@ -117,11 +124,20 @@ if __name__ == "__main__":
   golden = ut.get_and_format_data(args.corpus, corpus_sep)
 
   if args.safe_eval:
+    # get last-added random categories for missing stage directions
+    if os.path.exists(os.path.join("logs", f"added_categs_{args.batch_name}.txt")):
+      with open(os.path.join("logs", f"added_categs_{args.batch_name}.txt"), "r") as in_ac:
+        added_categs = in_ac.readlines()
+        added_categs = {int(l.split("\t")[0].strip()): int(l.split("\t")[1].strip()) for l in added_categs}
     #TODO these arguments should be dynamic
     # read group size from results and data size from golden
     eval_data = eval_res_safe(results_dir, golden, args.model, args.run_mode,
                               10, 2923,
                               batch_sfx=args.batch_name.replace("batch_", ""))
+    # log added categories to reuse later
+    with open(os.path.join("logs", f"added_categs_{args.batch_name}.txt"), "w") as out_ac:
+      for k, v in eval_data["added_categs"].items():
+        out_ac.write(f"{k}\t{v}\n")
   else:
     eval_data = eval_res(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
   print(eval_data["cr"])

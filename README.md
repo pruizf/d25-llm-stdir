@@ -95,15 +95,18 @@ Note that, in all batches from 005 onwards, all prompts in English mention expli
 
 We also tested prompts where, instead of asking to classify a single stage direction, the model is asked to classify a list of stage directions. The table below summarizes such results.
 
-| id  | prompt language | stdir per prompt |         example use         |   data split   |        model        | macro F1 | weighted F1 |  acc  |  secs   |
-|-----|:----------------:|:----------------:|:-------:|:--------------:|:-------------------:|:--------:|:-----------:|:-----:|:-------:|
-| 303 |en|        10        |zero-shot|       1        |     gpt-4o-mini     |   0.60   |    0.66     | 0.64  |         |
-| 304 |en|        10        |zero-shot|       1        |       gpt-4o        |   0.70   |    0.739    | 0.733 |         |
-| 304 |en|        10        |zero-shot|       1        |       gpt-4o        |   0.70   |    0.739    | 0.733 |         |
-| 305 |en|        10        |zero-shot| 0.3 stratified | mistral-large |   xxx    |     xxx     |  xxx  |         |
-| 306 |en|        10        |zero-shot|       1        | mistral-large |   0.69   |    0.726    | 0.726 | 5812.24 |
-| 307 |en|        75        |zero-shot|       1        | mistral-large |  0.696   |    0.745    | 0.735 | 2510.22 |
+| id  | prompt language | stdir per prompt |         example use         |   data split   |     model     | macro F1 | weighted F1 |   acc    |    secs    |
+|-----|:---------------:|:----------------:|:-------:|:--------------:|:-------------:|:--------:|:-----------:|:--------:|:----------:|
+| 303 |       en        |        10        |zero-shot|       1        |  gpt-4o-mini  |   0.60   |    0.66     |   0.64   |            |
+| 304 |       en        |        10        |zero-shot|       1        |    gpt-4o     |   0.70   |    0.739    |  0.733   |            |
+| 304 |       en        |        10        |zero-shot|       1        |    gpt-4o     |   0.70   |    0.739    |  0.733   |            |
+| 305 |       en        |        10        |zero-shot| 0.3 stratified | mistral-large |   xxx    |     xxx     |   xxx    |            |
+| 306 |       en        |        10        |zero-shot|       1        | mistral-large |   0.69   |    0.726    |  0.726   |  5812.24   |
+| 307 |       en        |        75        |zero-shot|       1        |    gpt-4o     |  0.696   |    0.745    |  0.735   |  2510.22   |
+| 308 |       fr        |        75        |zero-shot|       1        | mistral-large | xxx |  xxx   | xxx | 5244.82 |
 
+305 bad batch (res does not match ref)
+306 once so, but now fixed
 
-305 and 306 bad batches (res does not match ref)
+Note that Mistral client sleeps for one second after each call.
 
