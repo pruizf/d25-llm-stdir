@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1760,
+      "category": 8,
+      "explanation": "This stage direction describes the orchestra playing flutes and clarinettes, which is a music description.",
+      "stgdir": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1761,
+      "category": 5,
+      "explanation": "This stage direction indicates that the character wants to flee, which is an exit action.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1762,
+      "category": 8,
+      "explanation": "This stage direction specifies a tune name, indicating music.",
+      "stgdir": "AIR. Il n'est point de fleurettes, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1763,
+      "category": 7,
+      "explanation": "This stage direction describes the character noticing Jean, which involves character movement but not exit/entrance.",
+      "stgdir": "Apercevant Jean.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1764,
+      "category": 8,
+      "explanation": "This stage direction specifies a tune name, indicating music.",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1765,
+      "category": 11,
+      "explanation": "This stage direction provides a detailed description of the stage setting and the appearance of various characters and elements.",
+      "stgdir": "L'Amour para\u00eet dans sa Gloire, environn\u00e9 de Gr\u00e2ces et de Plaisirs. Les Divinit\u00e9s de la Terre sont assises sur les ailes du Th\u00e9\u00e2tre, encha\u00een\u00e9es de Fleurs ; et les Divinit\u00e9s du Ciel sont au-dessus, assises sur des Nuages. On voit au fond l'Antre de la Jalousie, o\u00f9 elle est encha\u00een\u00e9e avec la Rage et le D\u00e9sespoir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1766,
+      "category": 8,
+      "explanation": "This stage direction indicates a musical segment, likely an oracle's song or musical piece.",
+      "stgdir": "ORACLE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1767,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, which is Eurycl\u00e8s.",
+      "stgdir": "\u00c0 Eurycl\u00e8s.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1768,
+      "category": 8,
+      "explanation": "This stage direction specifies a pastoral tune, indicating music.",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1769,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, which is C\u00e9lie, and specifies the manner of delivery as Galimatias.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15774.634599685669,
+  "model": "mistral-large-2407"
+}

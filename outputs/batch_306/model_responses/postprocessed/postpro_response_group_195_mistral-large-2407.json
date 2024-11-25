@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1950",
+      "category": "8",
+      "explanation": "The stage direction describes music playing softly, which fits the definition of the music category.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1951",
+      "category": "8",
+      "explanation": "The stage direction indicates that a symphony is heard, which is a description of music.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1952",
+      "category": "10",
+      "explanation": "The stage direction describes a character drawing his dagger, which is an interaction with an object.",
+      "stgdir": "Il tire son poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1953",
+      "category": "1",
+      "explanation": "The stage direction describes a fight with swords and retreat, which fits the definition of aggression.",
+      "stgdir": "Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e. Les derniers sont repouss\u00e9s, et abandonnent le champ de bataille.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1954",
+      "category": "7",
+      "explanation": "The stage direction describes characters kneeling, which is a movement action.",
+      "stgdir": "Tous se mettent \u00e0 genoux, except\u00e9 le Juge et les Soldats.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1955",
+      "category": "4",
+      "explanation": "The stage direction describes a character appearing on stage, which fits the definition of an entrance.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1956",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of a speech, which fits the definition of toward.",
+      "stgdir": "\u00c0 Ariston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1957",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the stage, which fits the definition of setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'entr\u00e9e de la for\u00eat sacr\u00e9e : on y voit les tombeaux et les statues des Rois de la Colchide.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1958",
+      "category": "9",
+      "explanation": "The stage direction provides a narrative description intended for readers, which fits the definition of narration.",
+      "stgdir": "Apr\u00e8s un silence, assez long pour reposer les yeux du spectateur, qui doivent avoir peine \u00e0 suivre les vivacit\u00e9s des mouvements pr\u00e9c\u00e9dents, l'infortun\u00e9 Kerkabon, abattu par le malheur, offre ses jours pour r\u00e9parer sa faute :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1959",
+      "category": "8",
+      "explanation": "The stage direction indicates an air (tune), which fits the definition of music.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 15101.866483688354,
+  "model": "mistral-large-2407"
+}

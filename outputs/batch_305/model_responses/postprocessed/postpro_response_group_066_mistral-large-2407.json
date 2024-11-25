@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 660,
+      "category": 10,
+      "explanation": "Lui prenant son habit. This stage direction involves an interaction with an object (habit).",
+      "stgdir": "Lui prenant son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 661,
+      "category": 10,
+      "explanation": "On offre des pr\u00e9sents. This stage direction involves giving objects (pr\u00e9sents).",
+      "stgdir": "On offre des pr\u00e9sents.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 662,
+      "category": 10,
+      "explanation": "Figaro passe le linge au cou de Bartholo. This stage direction involves handling an object (linge).",
+      "stgdir": "Figaro passe le linge au cou de Bartholo.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 663,
+      "category": 10,
+      "explanation": "Il lui donne le paquet ouvert. This stage direction involves giving an object (paquet).",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 664,
+      "category": 10,
+      "explanation": "Elle lui donne l'habit. This stage direction involves giving an object (habit).",
+      "stgdir": "Elle lui donne l'habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 665,
+      "category": 10,
+      "explanation": "Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant. This stage direction involves giving an object (couronne de laurier) and singing, which is also part of delivery.",
+      "stgdir": "Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 666,
+      "category": 10,
+      "explanation": "Tirant un portefeuille de sa poche. This stage direction involves handling an object (portefeuille).",
+      "stgdir": "Tirant un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 667,
+      "category": 10,
+      "explanation": "On le lui pr\u00e9sente. This stage direction involves presenting an object.",
+      "stgdir": "On le lui pr\u00e9sente.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 668,
+      "category": 10,
+      "explanation": "Il leur baille des fleurets. This stage direction involves giving objects (fleurets).",
+      "stgdir": "Il leur baille des fleurets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 669,
+      "category": 10,
+      "explanation": "Il cach\u00e8te sa lettre. This stage direction involves handling an object (lettre).",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 26400.293588638306,
+  "model": "mistral-large-2407"
+}

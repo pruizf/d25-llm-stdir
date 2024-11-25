@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1480,
+      "category": 4,
+      "explanation": "Entr\u00e9e de Dangeville et de Lolotte describes characters entering the stage.",
+      "stgdir": "Entr\u00e9e de Dangeville et de Lolotte.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1481,
+      "category": 9,
+      "explanation": "This stage direction describes a sequence of actions and events, which makes it a narration.",
+      "stgdir": "I. Genevi\u00e8ve ayant pass\u00e9 doucement la nuit dans sa Grotte, est f\u00e9licit\u00e9e \u00e0 son r\u00e9veil d'un concert de Musique que lui font les Anges qui la servent dans une profonde extase.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1482,
+      "category": 3,
+      "explanation": "Criant au travers de la porte describes the manner of delivery, specifically shouting through the door.",
+      "stgdir": "Criant au travers de la porte.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1483,
+      "category": 12,
+      "explanation": "\u00c0 Dufour indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Dufour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1484,
+      "category": 12,
+      "explanation": "Au d\u00e9put\u00e9 indicates the addressee of a speech.",
+      "stgdir": "Au d\u00e9put\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1485,
+      "category": 7,
+      "explanation": "This stage direction describes the movement of characters, but not an entrance or exit.",
+      "stgdir": "L'un passe par devant Lucinde, et l'autre par devant G\u00e9ronte, et prennent tous deux le milieu, ils se trouvent l'un pr\u00e8s de l'autre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1486,
+      "category": 8,
+      "explanation": "AIR. Oh ! oh ! ah, ah describes the music being played or sung.",
+      "stgdir": "AIR. Oh ! oh ! ah, ah.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1487,
+      "category": 0,
+      "explanation": "Madame Leblanc montre successivement ses broderies describes a general action of showing.",
+      "stgdir": "Madame Leblanc montre successivement ses broderies.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1488,
+      "category": 11,
+      "explanation": "This stage direction describes the setting or stage description.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un Cabinet de verdure, o\u00f9 aboutissent plusieurs all\u00e9es de charmille ; sur le devant est un banc de gazon. Au fond, dans l'\u00e9loignement, on aper\u00e7oit le Ch\u00e2teau du Marquis.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1489,
+      "category": 0,
+      "explanation": "Il s'appuie contre un arbre describes a general action of leaning against a tree.",
+      "stgdir": "Il s'appuie contre un arbre.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 14152.611255645752,
+  "model": "mistral-large-2407"
+}

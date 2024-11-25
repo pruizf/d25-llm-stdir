@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 980,
+      "category": 10,
+      "explanation": "Durval la lui donne. (Durval gives it to her) - This involves giving an object, so it fits the object category.",
+      "stgdir": "Durval la lui donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 981,
+      "category": 7,
+      "explanation": "Il entre dans sa maison. (He enters his house) - This involves character movement, so it fits the movement category.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 982,
+      "category": 10,
+      "explanation": "Elle tire un poignard. (She draws a dagger) - This involves interaction with an object, so it fits the object category.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 983,
+      "category": 1,
+      "explanation": "Frappant la Chicanne. (Hitting Chicanne) - This involves a violent action, so it fits the aggression category.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 984,
+      "category": 6,
+      "explanation": "Il d\u00e9signe le roi des Ondines. (He points to the king of the Ondines) - This involves non-verbal interaction, so it fits the interaction category.",
+      "stgdir": "Il d\u00e9signe le roi des Ondines.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 985,
+      "category": 5,
+      "explanation": "Jacinte sort. (Jacinte exits) - This involves a character exiting, so it fits the exit category.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 986,
+      "category": 11,
+      "explanation": "D\u00c9CORATION de L'ACTE SECOND. (SETTING FOR THE SECOND ACT) - This describes the stage setting, so it fits the setting category.",
+      "stgdir": "D\u00c9CORATION de L'ACTE SECOND. Dans le lointain, deux montagnes, l'une chauve, l'autre d'une belle verdure, et laissant \u00e9chapper une source du sommet. Entre elles, le fleuve Ohio tombe avec bruit d'une cascade effrayante. Un pont de lianes \u00e9lastiques, joint au-dessus les deux montagnes. Au pied de l'Ohio, quelques pirogues : ce fleuve couvre la plaine et borde le fonds du Th\u00e9\u00e2tre, qui est en gazon. \u00c0 la droite du fleuve, a mi-coteau, une cabane appuy\u00e9e contre un rocher qui pose sur une pointe \u00e0 terre ; sa partie sup\u00e9rieure \u00e9vas\u00e9e, sert de cuvette \u00e0 un ruisseau qui se pr\u00e9cipite dans l'Ohio. Pr\u00e8s de l'avant-sc\u00e8ne, une statue du Mars des Am\u00e9ricains, d'Areski sur un pi\u00e9destal orn\u00e9 de pelleteries. \u00c0 la gauche plus recul\u00e9, le tombeau d'Artamon en gazon et orn\u00e9 de fleurs ; le troph\u00e9e de ses armes sur le dessus ; et au c\u00f4t\u00e9, une large pierre grav\u00e9e d'hi\u00e9roglyphes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 987,
+      "category": 4,
+      "explanation": "Ils entrent tous les deux. (Both enter) - This involves characters entering the stage, so it fits the entrance category.",
+      "stgdir": "Ils entrent tous les deux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 988,
+      "category": 12,
+      "explanation": "\u00c0 sa suite. (Following him) - This indicates the addressee of a speech, so it fits the toward category.",
+      "stgdir": "\u00c0 sa suite.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 989,
+      "category": 7,
+      "explanation": "Il va pour s'en aller. (He goes to leave) - This involves character movement, so it fits the movement category.",
+      "stgdir": "Il va pour s'en aller.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 24914.09730911255,
+  "model": "mistral-large-2407"
+}

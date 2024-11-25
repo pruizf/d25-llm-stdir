@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1720",
+      "category": "5",
+      "explanation": "Colombine rentre chez elle. - This stage direction indicates that Colombine is exiting, which fits the exit category.",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1721",
+      "category": "12",
+      "explanation": "\u00c0 ses soeurs. - This stage direction indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "\u00c0 ses soeurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1722",
+      "category": "7",
+      "explanation": "Elle va ouvrir. - This stage direction describes a character's movement without specifying an entrance or exit, fitting the movement category.",
+      "stgdir": "Elle va ouvrir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1723",
+      "category": "10",
+      "explanation": "Elle ferme la bible et va prendre le berceau. - This stage direction describes the interaction with objects, fitting the object category.",
+      "stgdir": "Elle ferme la bible et va prendre le berceau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1724",
+      "category": "12",
+      "explanation": "\u00c0 Zoroaste. - This stage direction indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "\u00c0 Zoroaste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1725",
+      "category": "0",
+      "explanation": "Oronte s'endort. - This stage direction describes the general action of sleeping, fitting the action category.",
+      "stgdir": "Oronte s'endort.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1726",
+      "category": "3",
+      "explanation": "Les ombres r\u00e9p\u00e8tent ces deux derniers vers. - This stage direction describes a delivery manner, fitting the delivery category.",
+      "stgdir": "Les ombres r\u00e9p\u00e8tent ces deux derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1727",
+      "category": "3",
+      "explanation": "D'un ton s\u00e9v\u00e8re. - This stage direction describes a delivery manner, fitting the delivery category.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1728",
+      "category": "0",
+      "explanation": "Apr\u00e8s avoir lu la lettre. - This stage direction describes a general action of reading a letter, fitting the action category.",
+      "stgdir": "Apr\u00e8s avoir lu la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1729",
+      "category": "9",
+      "explanation": "Il se met \u00e0 sa table de travail, \u00e9tale des papiers et s'y absorbe. Un quart d'heure s'\u00e9coule. Colombinette fait mine de s'\u00e9veiller. Pierrot met sa plume d'oie \u00e0 l'oreille, et appr\u00eate vite le caf\u00e9 au lait de Colombinette. Au moment o\u00f9 elle ouvre les yeux, il le lui pose sur la tablette. - This stage direction is a long narrative description intended for readers, fitting the narration category.",
+      "stgdir": "Il se met \u00e0 sa table de travail, \u00e9tale des papiers et s'y absorbe. Un quart d'heure s'\u00e9coule. Colombinette fait mine de s'\u00e9veiller. Pierrot met sa plume d'oie \u00e0 l'oreille, et appr\u00eate vite le caf\u00e9 au lait de Colombinette. Au moment o\u00f9 elle ouvre les yeux, il le lui pose sur la tablette.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 22595.866680145264,
+  "model": "mistral-large-2407"
+}

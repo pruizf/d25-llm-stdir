@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "9",
+      "explanation": "This stage direction describes a sequence of actions (the door reopening), which is a narrative quality intended for readers.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "10",
+      "explanation": "This stage direction describes the character interacting with an object (a paper).",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "11",
+      "explanation": "This stage direction provides a description of the stage setting, including the characters' positions and the objects on the table.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "9",
+      "explanation": "This stage direction narrates an observation by a character (seeing the door closed), which is a narrative quality intended for readers.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "0",
+      "explanation": "This stage direction describes a general character action (trying to open the door).",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "0",
+      "explanation": "This stage direction describes a general character action (looking at the watch).",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "6",
+      "explanation": "This stage direction describes a non-verbal character interaction (looking at Moli\u00e8re with hesitation).",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "7",
+      "explanation": "This stage direction describes a character movement (sitting in the armchair).",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "7",
+      "explanation": "This stage direction describes a character movement (sitting at someone's feet).",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of actions (characters seeing others from their windows), which is a narrative quality intended for readers.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 15510.348558425903,
+  "model": "mistral-large-2407"
+}

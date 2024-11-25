@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 500,
+      "category": 3,
+      "explanation": "Le choeur r\u00e9p\u00e8te ces derniers vers. This describes the delivery manner, specifically the choir repeating the verses.",
+      "stgdir": "Le choeur r\u00e9p\u00e8te ces derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 501,
+      "category": 5,
+      "explanation": "Elle rentre dans ses appartements. This indicates a character exiting the stage.",
+      "stgdir": "Elle rentre dans ses appartements.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 502,
+      "category": 10,
+      "explanation": "Pendant ce temps l'on pose les scell\u00e9s. This describes an interaction with an object, specifically seals being placed.",
+      "stgdir": "Pendant ce temps l'on pose les scell\u00e9s.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 503,
+      "category": 5,
+      "explanation": "Mademoiselle Damour sort. This indicates a character exiting the stage.",
+      "stgdir": "Mademoiselle Damour sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 504,
+      "category": 8,
+      "explanation": "On entend le tambour. This describes music, specifically the sound of a drum.",
+      "stgdir": "On entend le tambour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 505,
+      "category": 6,
+      "explanation": "Il chante avec Galaor. This describes a non-verbal interaction, specifically singing together.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 506,
+      "category": 5,
+      "explanation": "Elle dispara\u00eet dans la nuit. This indicates a character exiting the stage.",
+      "stgdir": "Elle dispara\u00eet dans la nuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 507,
+      "category": 0,
+      "explanation": "Il h\u00e9site. This describes a general action, specifically hesitation.",
+      "stgdir": "Il h\u00e9site.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 508,
+      "category": 12,
+      "explanation": "\u00c0 un garde. This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 un garde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 509,
+      "category": 8,
+      "explanation": "AIR : C'est la fille \u00e0 Simonette. This describes a tune name, specifically the song 'C'est la fille \u00e0 Simonette'.",
+      "stgdir": "AIR : C'est la fille \u00e0 Simonette.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 16572.20959663391,
+  "model": "mistral-large-2407"
+}

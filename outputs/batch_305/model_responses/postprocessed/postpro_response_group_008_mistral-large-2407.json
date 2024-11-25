@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 80,
+      "category": 6,
+      "explanation": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant : This stage direction describes a non-verbal interaction where Adam raises his hand and shows the forbidden fruit, indicating interaction.",
+      "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 81,
+      "category": 3,
+      "explanation": "Il signe. This stage direction indicates the manner of delivery, specifically that the character is signing.",
+      "stgdir": "Il signe.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 82,
+      "category": 1,
+      "explanation": "Frappant sur la table. This stage direction describes an aggressive action where the character hits the table.",
+      "stgdir": "Frappant sur la table.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 83,
+      "category": 0,
+      "explanation": "Apercevant Octave. This stage direction describes the character noticing Octave, which is a general action.",
+      "stgdir": "Apercevant Octave.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 84,
+      "category": 0,
+      "explanation": "Apercevant leurs \u00e9p\u00e9es nues. This stage direction describes the character noticing their drawn swords, which is a general action.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 85,
+      "category": 10,
+      "explanation": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom. This stage direction describes the character presenting a letter, which is an interaction with an object.",
+      "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 86,
+      "category": 9,
+      "explanation": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible : This stage direction is a long narrative describing a sequence of actions, intended for readers.",
+      "stgdir": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 87,
+      "category": 7,
+      "explanation": "Elle fouille dans ses poches. This stage direction describes the character searching through her pockets, which is a character movement.",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 88,
+      "category": 6,
+      "explanation": "Montrant les anciens S\u00e9nateurs. This stage direction describes a non-verbal interaction where the character shows the old senators.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 89,
+      "category": 5,
+      "explanation": "Elle s'\u00e9loigne avec Perillo. This stage direction describes the character exiting with Perillo.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 19888.803958892822,
+  "model": "mistral-large-2407"
+}

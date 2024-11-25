@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 690,
+      "category": 4,
+      "explanation": "The stage direction describes characters entering the stage, which fits the category of 'entrance'.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 691,
+      "category": 11,
+      "explanation": "The stage direction describes the setting and the appearance of characters, which fits the category of 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 692,
+      "category": 5,
+      "explanation": "The stage direction indicates the curtain lowering, which can be interpreted as an exit from the scene, fitting the category of 'exit'.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 693,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the scene, including the environment and specific elements, which fits the category of 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; une habitation est \u00e0 la droite du spectateur ; parmi les arbres qui d\u00e9corent la sc\u00e8ne, on remarque un sumac du Canada, qui doit \u00eatre plus apparent que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 694,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the scene, including the environment and specific elements, which fits the category of 'setting'.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 695,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the scene, including the environment and specific elements, which fits the category of 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 696,
+      "category": 0,
+      "explanation": "The stage direction describes characters preparing something, which is a general character action fitting the category of 'action'.",
+      "stgdir": "Scapin et Monsieur Dumont pr\u00e9parent tout.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 697,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the scene, including the environment, which fits the category of 'setting'.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 698,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the scene, including the environment and specific elements, which fits the category of 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 699,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the scene, including the environment, which fits the category of 'setting'.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 17136.571645736694,
+  "model": "mistral-large-2407"
+}

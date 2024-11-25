@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 400,
+      "category": 12,
+      "explanation": "\u00c0 Perdiccas. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Perdiccas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 401,
+      "category": 0,
+      "explanation": "Il voit Sophie. - General character action of seeing someone.",
+      "stgdir": "Il voit Sophie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 402,
+      "category": 3,
+      "explanation": "R\u00e9pondant. - Indicates the manner of delivery, responding.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 403,
+      "category": 8,
+      "explanation": "Sur l'Air : Quand on a bu, la t\u00eate tourne. - Describes the tune name, indicating music.",
+      "stgdir": "Sur l'Air : Quand on a bu, la t\u00eate tourne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 404,
+      "category": 10,
+      "explanation": "Elle pr\u00e9sente le peignoir au feu. - Describes interaction with an object, presenting the peignoir.",
+      "stgdir": "Elle pr\u00e9sente le peignoir au feu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 405,
+      "category": 4,
+      "explanation": "Il entre aussi chez Hipolite. - Indicates a character entering the stage.",
+      "stgdir": "Il entre aussi chez Hipolite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 406,
+      "category": 11,
+      "explanation": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal. - Describes the setting of the scene.",
+      "stgdir": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 407,
+      "category": 8,
+      "explanation": "Air : Sur le Pont d'Avignon. - Describes the tune name, indicating music.",
+      "stgdir": "Air : Sur le Pont d'Avignon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 408,
+      "category": 6,
+      "explanation": "Elle l'embrasse encore. - Indicates a non-verbal character interaction, kissing.",
+      "stgdir": "Elle l'embrasse encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 409,
+      "category": 12,
+      "explanation": "\u00c0 Achior. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Achior.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14888.28730583191,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1140,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Acante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1141,
+      "category": 5,
+      "explanation": "Character exits (verb 'sortent' means 'exit').",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1142,
+      "category": 0,
+      "explanation": "General character action (verb 'entendre frapper' means 'hear knocking').",
+      "stgdir": "On entend frapper et la porte. - Se levant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1143,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (verb 'jeter un regard' means 'to cast a look').",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1144,
+      "category": 9,
+      "explanation": "Narration describing a moment in the play.",
+      "stgdir": "Arrive l'instant d\u00e9finitif.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1145,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Darius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1146,
+      "category": 8,
+      "explanation": "Music description ('Ensemble' often refers to a musical cue).",
+      "stgdir": "Ensemble",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1147,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (verb 'montrer' means 'to show').",
+      "stgdir": "Elle montre Racine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1148,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au souffleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1149,
+      "category": 9,
+      "explanation": "Narration describing a sound effect ('une cloche' means 'a bell').",
+      "stgdir": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 13992.563009262085,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "590",
+      "category": "9",
+      "explanation": "This stage direction describes a sequence of actions and interactions, making it a narration.",
+      "stgdir": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "591",
+      "category": "9",
+      "explanation": "This stage direction describes a noise (a bell ringing), which fits the narration category.",
+      "stgdir": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "592",
+      "category": "9",
+      "explanation": "This stage direction describes a noise (a horn sounding), which fits the narration category.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "593",
+      "category": "9",
+      "explanation": "This stage direction describes a sequence of actions and interactions, making it a narration.",
+      "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "594",
+      "category": "11",
+      "explanation": "This stage direction describes the setting of the stage, specifically the appearance of the Sun's palace.",
+      "stgdir": "Le Soleil parait dans son palais. Ce palais est d'or, compos\u00e9 avec des colonnes torses d'or poli, qui sont rev\u00eatues de branches de Laurier qui les environnent, de couleur naturelle. Les chapiteaux sont d'or fin cisel\u00e9, et les bases des colonnes de m\u00eame mati\u00e8re, aussi bien que la frise et la corniche. Le corps du massif de ce palais est de pierres pr\u00e9cieuses, et tous les pi\u00e9destaux de marbre blanc, au milieu desquels on voit de gros Rubis. Les panneaux sont enrichis de veines d'or sur un fond de lapis. Au-dessus de la Corniche on voit, dans une esp\u00e8ce de petite Attique d'o\u00f9 naissent les cintres, des lires d'or, avec plusieurs ornements\u00a0; et dans le milieu des vo\u00fbtes sont peints de grands Soleils d'or poli, avec quantit\u00e9s d'autres ornements. L'Optique de ce palais est toute transparente, et jette un \u00e9clat qui \u00e9blouit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "595",
+      "category": "9",
+      "explanation": "This stage direction describes a sequence of actions and interactions, making it a narration.",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "596",
+      "category": "9",
+      "explanation": "This stage direction describes a sequence of events involving thunder, fire, earthquakes, and shadows, which fits the narration category.",
+      "stgdir": "Tonnerre, pluie de feu, tremblement de terre, des ombres sortent des tombeaux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "597",
+      "category": "9",
+      "explanation": "This stage direction describes a noise (a whistle sounding), which fits the narration category.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "598",
+      "category": "5",
+      "explanation": "This stage direction describes characters exiting the stage, which fits the exit category.",
+      "stgdir": "Madame Dumond et le prieur sortent. H\u00e9l\u00e8ne va leur ouvrir la porte, et leur fait plusieurs r\u00e9v\u00e9rences, que Madame Dumond lui rend apr\u00e8s l'avoir embrass\u00e9e. Pendant ce temps Monique reste seule sur le devant du th\u00e9\u00e2tre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "599",
+      "category": "9",
+      "explanation": "This stage direction describes a noise (a loud sound), which fits the narration category.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 15586.520433425903,
+  "model": "mistral-large-2407"
+}

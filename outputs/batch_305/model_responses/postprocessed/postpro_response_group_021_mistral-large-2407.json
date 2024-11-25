@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 210,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction where all four characters speak at the same time.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 211,
+      "category": 3,
+      "explanation": "The stage direction describes the character singing, which falls under delivery manner.",
+      "stgdir": "Il chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 212,
+      "category": 3,
+      "explanation": "The stage direction indicates a change in vocal delivery, specifically lowering the voice.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 213,
+      "category": 9,
+      "explanation": "The stage direction provides narrative information about what is heard, intended for readers.",
+      "stgdir": "On n'entend pas le reste.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 214,
+      "category": 0,
+      "explanation": "The stage direction describes a general action where all characters laugh.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 215,
+      "category": 5,
+      "explanation": "The stage direction describes the character exiting while singing.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 216,
+      "category": 3,
+      "explanation": "The stage direction describes the character singing a small motet, which falls under delivery manner.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 217,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, which is a response.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 218,
+      "category": 9,
+      "explanation": "The stage direction provides narrative information about a voice being heard, intended for readers.",
+      "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 219,
+      "category": 0,
+      "explanation": "The stage direction describes a general action where the character recovers or sets themselves right.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 13503.8321018219,
+  "model": "mistral-large-2407"
+}

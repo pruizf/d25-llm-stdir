@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 830,
+      "category": 12,
+      "explanation": "Au Crocheteur indicates the addressee of a speech.",
+      "stgdir": "Au Crocheteur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 831,
+      "category": 12,
+      "explanation": "\u00c0 Zoroastre indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Zoroastre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 832,
+      "category": 12,
+      "explanation": "\u00c0 \u00c9rix\u00e8ne indicates the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 833,
+      "category": 12,
+      "explanation": "Aux Esprits indicates the addressee of a speech.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 834,
+      "category": 12,
+      "explanation": "\u00c0 Hauteroche indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Hauteroche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 835,
+      "category": 12,
+      "explanation": "\u00c0 L\u00e9ontine indicates the addressee of a speech.",
+      "stgdir": "\u00c0 L\u00e9ontine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 836,
+      "category": 12,
+      "explanation": "Aux Chouans indicates the addressee of a speech.",
+      "stgdir": "Aux Chouans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 837,
+      "category": 12,
+      "explanation": "Au peuple indicates the addressee of a speech.",
+      "stgdir": "Au peuple.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 838,
+      "category": 12,
+      "explanation": "\u00c0 Madame Mondor indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame Mondor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 839,
+      "category": 12,
+      "explanation": "\u00c0 Tronquoy indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Tronquoy.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 13784.55376625061,
+  "model": "mistral-large-2407"
+}

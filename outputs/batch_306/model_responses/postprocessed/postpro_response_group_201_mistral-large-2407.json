@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2010,
+      "category": 4,
+      "explanation": "Le choeur arrive sur la sc\u00e8ne. - This is an entrance of a character or group.",
+      "stgdir": "Le choeur arrive sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2011,
+      "category": 8,
+      "explanation": "Menuet. - This refers to a specific tune or dance.",
+      "stgdir": "Menuet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2012,
+      "category": 8,
+      "explanation": "BALADE. - This refers to a specific type of music or song.",
+      "stgdir": "BALADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2013,
+      "category": 4,
+      "explanation": "Pasquin para\u00eet. - This is an entrance of the character Pasquin.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2014,
+      "category": 12,
+      "explanation": "Montrant Claudine. - This indicates the addressee of a speech.",
+      "stgdir": "Montrant Claudine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2015,
+      "category": 6,
+      "explanation": "Apr\u00e8s l'avoir bais\u00e9e. - This is a non-verbal interaction.",
+      "stgdir": "Apr\u00e8s l'avoir bais\u00e9e.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2016,
+      "category": 8,
+      "explanation": "Troisi\u00e8me entr\u00e9e de ballet - This refers to a specific dance or music sequence.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2017,
+      "category": 0,
+      "explanation": "On entend de nouveau frapper \u00e0 la porte du fond. - This is a general action of knocking.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2018,
+      "category": 9,
+      "explanation": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit : - This is a long stage direction with a narrative quality.",
+      "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2019,
+      "category": 10,
+      "explanation": "Elle ouvre le m\u00e9daillon, et fait voir \u00e0 la Comtesse le portrait de Napol\u00e9on. - This describes interaction with an object (opening a medallion).",
+      "stgdir": "Elle ouvre le m\u00e9daillon, et fait voir \u00e0 la Comtesse le portrait de Napol\u00e9on.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 17693.488359451294,
+  "model": "mistral-large-2407"
+}

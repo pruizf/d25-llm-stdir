@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1300,
+      "category": 10,
+      "explanation": "Il lui ferme aussi la fen\u00eatre. - Describes an interaction with an object (closing a window).",
+      "stgdir": "Il lui ferme aussi la fen\u00eatre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1301,
+      "category": 5,
+      "explanation": "Sunnon sort. - Character exits the stage.",
+      "stgdir": "Sunnon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1302,
+      "category": 7,
+      "explanation": "Il revient. - Character movement (returning).",
+      "stgdir": "Il revient.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1303,
+      "category": 8,
+      "explanation": "AIR : De la Fricass\u00e9e. - Music description (name of a tune).",
+      "stgdir": "AIR : De la Fricass\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1304,
+      "category": 0,
+      "explanation": "Beronte heurte chez Ragonde. - General character action (knocking).",
+      "stgdir": "Beronte heurte chez Ragonde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1305,
+      "category": 8,
+      "explanation": "On joue l'ouverture. - Music description (playing the overture).",
+      "stgdir": "On joue l'ouverture.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1306,
+      "category": 10,
+      "explanation": "Il prend la lettre. - Describes an interaction with an object (taking a letter).",
+      "stgdir": "Il prend la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1307,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une \u00eele. - Stage description or play location (the theater represents an island).",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une \u00eele.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1308,
+      "category": 8,
+      "explanation": "Air : Tique, tique, taque. - Music description (name of a tune).",
+      "stgdir": "Air : Tique, tique, taque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1309,
+      "category": 0,
+      "explanation": "Voyant venir G\u00e9ronte. - General character action (seeing someone coming).",
+      "stgdir": "Voyant venir G\u00e9ronte.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 25325.42896270752,
+  "model": "mistral-large-2407"
+}

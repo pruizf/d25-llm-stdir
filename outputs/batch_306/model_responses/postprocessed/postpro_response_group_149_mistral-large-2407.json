@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1490",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Et puis \u00e0 tous.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1491",
+      "category": "6",
+      "explanation": "Non-verbal character interaction, specifically pointing or showing.",
+      "stgdir": "Il montre celle qui est sur le tombeau d'Artamon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1492",
+      "category": "10",
+      "explanation": "Describes an object or a character's interaction with an object, specifically pulling out a box.",
+      "stgdir": "Tirant une bo\u00eete \u00e0 mouches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1493",
+      "category": "8",
+      "explanation": "Music description, starts with the word 'AIR' indicating a tune name.",
+      "stgdir": "AIR : Jardinier ne vois-tu pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1494",
+      "category": "10",
+      "explanation": "Describes an object or a character's interaction with an object, specifically moving a glass.",
+      "stgdir": "\u00c9cartant le verre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1495",
+      "category": "4",
+      "explanation": "Character enters stage, with additional details about the entrance.",
+      "stgdir": "Esther entre, s'appuyant sur \u00c9lise ; quatre Isra\u00e9lites soutiennent sa robe.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1496",
+      "category": "9",
+      "explanation": "Narrative quality stage direction, intended for readers, describing a sound effect.",
+      "stgdir": "On entend le canon au loin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1497",
+      "category": "9",
+      "explanation": "Narrative quality stage direction, intended for readers, describing a sound effect.",
+      "stgdir": "On entend une sourde rumeur \u00e0 la cantonade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1498",
+      "category": "5",
+      "explanation": "Character exits.",
+      "stgdir": "Ils rentrent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1499",
+      "category": "3",
+      "explanation": "Delivery manner, indicating characters singing together.",
+      "stgdir": "DAPHNIS ET SYLVANDRE ensemble.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 15411.510229110718,
+  "model": "mistral-large-2407"
+}

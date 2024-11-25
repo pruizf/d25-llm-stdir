@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 70,
+      "category": 6,
+      "explanation": "The stage direction 'Montrant Trissotin.' involves showing or pointing at Trissotin, which is a non-verbal interaction.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 71,
+      "category": 0,
+      "explanation": "The stage direction 'Parcourant la lettre.' describes the action of reading or looking through a letter, which fits under general character action.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 72,
+      "category": 0,
+      "explanation": "The stage direction 'Il montre ses yeux poch\u00e9s.' involves showing his black eyes, which is a general character action.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 73,
+      "category": 0,
+      "explanation": "The stage direction 'Regardant.' involves looking, which is a general character action.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 74,
+      "category": 10,
+      "explanation": "The stage direction 'Elle soul\u00e8ve l'autre vase et prend le billet.' involves interacting with objects (lifting a vase and taking a note), which fits the object category.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 75,
+      "category": 6,
+      "explanation": "The stage direction 'En montrant Scanderberg.' involves pointing at or showing Scanderberg, which is a non-verbal interaction.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 76,
+      "category": 1,
+      "explanation": "The stage direction 'Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.' involves moving forward with swords in hand, which is an aggressive action.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 77,
+      "category": 9,
+      "explanation": "The stage direction 'La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.' is a long stage direction with narrative quality, describing a sequence of character actions and movements.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 78,
+      "category": 4,
+      "explanation": "The stage direction 'Arlequin avec l'allumette.' describes Arlequin entering with a match, which fits the entrance category.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 79,
+      "category": 0,
+      "explanation": "The stage direction 'Montrant son front.' involves showing his forehead, which is a general character action.",
+      "stgdir": "Montrant son front.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 20734.549522399902,
+  "model": "mistral-large-2407"
+}

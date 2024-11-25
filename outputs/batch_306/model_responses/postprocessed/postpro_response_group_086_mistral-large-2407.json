@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 860,
+      "category": 10,
+      "explanation": "Il tire un Papier. This stage direction describes a character's interaction with an object (a paper), so it fits into the object category.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 861,
+      "category": 8,
+      "explanation": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous. This stage direction describes a tune name, so it fits into the music category.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 862,
+      "category": 11,
+      "explanation": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout. This stage direction describes the arrangement and setting of the stage, so it fits into the setting category.",
+      "stgdir": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 863,
+      "category": 7,
+      "explanation": "Il sort de son si\u00e8ge. This stage direction describes a character movement (getting out of a seat), so it fits into the movement category.",
+      "stgdir": "Il sort de son si\u00e8ge.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 864,
+      "category": 4,
+      "explanation": "L'Oranger et l'Aub\u00e9pine paraissent au fond. This stage direction describes characters entering the stage, so it fits into the entrance category.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 865,
+      "category": 9,
+      "explanation": "On entend la voiture de Doduvert qui s'en va. This stage direction narrates a sound event (hearing a carriage leaving), so it fits into the narration category.",
+      "stgdir": "On entend la voiture de Doduvert qui s'en va.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 866,
+      "category": 3,
+      "explanation": "Il continue \u00e0 chanter. This stage direction describes the delivery manner (continuing to sing), so it fits into the delivery category.",
+      "stgdir": "Il continue \u00e0 chanter.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 867,
+      "category": 5,
+      "explanation": "Il entre chez lui. This stage direction describes a character exiting the stage (entering his home), so it fits into the exit category.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 868,
+      "category": 3,
+      "explanation": "Tout bas. This stage direction describes the delivery manner (speaking in a low voice), so it fits into the delivery category.",
+      "stgdir": "Tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 869,
+      "category": 5,
+      "explanation": "Baptiste se sauve. This stage direction describes a character exiting the stage (running away), so it fits into the exit category.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 19952.5089263916,
+  "model": "mistral-large-2407"
+}

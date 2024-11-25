@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1900,
+      "category": 8,
+      "explanation": "This stage direction mentions 'AIR' and a song title, indicating it is related to music.",
+      "stgdir": "AIR. Quel plaisir va nous unir.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1901,
+      "category": 8,
+      "explanation": "This stage direction mentions 'AIR' and a song title, indicating it is related to music.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1902,
+      "category": 8,
+      "explanation": "This stage direction mentions 'Air' and a song title, indicating it is related to music.",
+      "stgdir": "Air : Des Proverbes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1903,
+      "category": 7,
+      "explanation": "This stage direction describes a character's movement, specifically taking a step.",
+      "stgdir": "Azor fait un pas.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1904,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of the character collapsing and being supported by another character.",
+      "stgdir": "Elle s'affaisse dans les bras de Rosalie et glisse peu \u00e0 peu jusqu'\u00e0 terre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1905,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, suggesting direction toward someone.",
+      "stgdir": "Pr\u00e9sentant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1906,
+      "category": 5,
+      "explanation": "This stage direction describes characters exiting the stage.",
+      "stgdir": "Ils sortent tous, except\u00e9 H\u00e9mon et Antigone.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1907,
+      "category": 10,
+      "explanation": "This stage direction describes a character interacting with an object, specifically looking at a figure of the madone.",
+      "stgdir": "Regardant la figure de la madone.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1908,
+      "category": 9,
+      "explanation": "This stage direction narrates a noise, indicating a narrative quality intended for readers.",
+      "stgdir": "Le bruit redouble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1909,
+      "category": 8,
+      "explanation": "This stage direction mentions 'Air' and a song title, indicating it is related to music.",
+      "stgdir": "Air : Des Fraises.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 15217.032432556152,
+  "model": "mistral-large-2407"
+}

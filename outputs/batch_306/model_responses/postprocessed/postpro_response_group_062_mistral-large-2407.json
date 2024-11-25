@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 620,
+      "category": 8,
+      "explanation": "This stage direction refers to a tune name, which is a category 8 (music).",
+      "stgdir": "AIR : Voulez-vous savoir qui des deux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 621,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, which is a category 12 (toward).",
+      "stgdir": "\u00c0 Henry.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 622,
+      "category": 3,
+      "explanation": "This stage direction describes the delivery manner of the choir repeating the verses, which is a category 3 (delivery).",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 623,
+      "category": 9,
+      "explanation": "This stage direction narrates a sequence of actions involving the Mufti and the Turks, which is a category 9 (narration).",
+      "stgdir": "Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahom\u00e9tane, et leur chante ces paroles :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 624,
+      "category": 8,
+      "explanation": "This stage direction refers to a tune name, which is a category 8 (music).",
+      "stgdir": "AIR : Eh zon, zon, zon, Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 625,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where she places her hand on Th\u00e9odat's arm, which is a category 6 (interaction).",
+      "stgdir": "Elle met timidement, mais avec r\u00e9solution, sur le bras de Th\u00e9odat, sa main qui se crispe \u00e0 la chair sentie sous les \u00e9toffes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 626,
+      "category": 4,
+      "explanation": "This stage direction indicates a character entering the stage, which is a category 4 (entrance).",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 627,
+      "category": 3,
+      "explanation": "This stage direction describes the delivery manner as 'avec feu' (with passion), which is a category 3 (delivery).",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 628,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of the character looking at a portrait, which is a category 0 (action).",
+      "stgdir": "Il regarde le portrait.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 629,
+      "category": 11,
+      "explanation": "This stage direction indicates a change in the scene, which is a category 11 (setting).",
+      "stgdir": "SC\u00c8NE II.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 17674.498319625854,
+  "model": "mistral-large-2407"
+}

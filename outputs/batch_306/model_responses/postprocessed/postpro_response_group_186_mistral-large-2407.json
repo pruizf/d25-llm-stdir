@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1860,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Thar\u00e8s.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1861,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'oreille de Dandinville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1862,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 La Ram\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1863,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air. Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1864,
+      "category": 11,
+      "explanation": "Describes a setting or stage description.",
+      "stgdir": "LION OURS TIGRE ET PANTHERE",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1865,
+      "category": 10,
+      "explanation": "Describes an interaction with an object.",
+      "stgdir": "Elle reprend les tablettes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1866,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1867,
+      "category": 8,
+      "explanation": "Describes a tune name with a specific number.",
+      "stgdir": "Air 154 : Est-ce que \u00e7a se demande ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1868,
+      "category": 5,
+      "explanation": "Character exits.",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1869,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR. Le vieux Docteur Blaise.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 13497.081279754639,
+  "model": "mistral-large-2407"
+}

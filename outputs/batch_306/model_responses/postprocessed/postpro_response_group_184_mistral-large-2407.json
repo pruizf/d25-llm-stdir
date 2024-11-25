@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1840",
+      "category": "12",
+      "explanation": "\u00c0 Adrienne. Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Adrienne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1841",
+      "category": "5",
+      "explanation": "Il se sauve. Character exits.",
+      "stgdir": "Il se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1842",
+      "category": "5",
+      "explanation": "Cassiope sort. Character exits.",
+      "stgdir": "Cassiope sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1843",
+      "category": "12",
+      "explanation": "Vers Ang\u00e9lique. Indicates the addressee of a speech.",
+      "stgdir": "Vers Ang\u00e9lique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1844",
+      "category": "4",
+      "explanation": "Mariette parait. Character enters stage.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1845",
+      "category": "0",
+      "explanation": "Ayant lu. General character action of reading.",
+      "stgdir": "Ayant lu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1846",
+      "category": "12",
+      "explanation": "\u00c0 Margot. Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1847",
+      "category": "12",
+      "explanation": "\u00c0 Fr\u00e9missin. Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1848",
+      "category": "2",
+      "explanation": "\u00c0 part de l'autre c\u00f4t\u00e9 de l'endroit d'o\u00f9 on l'\u00e9coutait, mais, assez bas pour qu'il ne puisse \u00eatre entendu des berg\u00e8res. Character addresses the audience or is alone.",
+      "stgdir": "\u00c0 part de l'autre c\u00f4t\u00e9 de l'endroit d'o\u00f9 on l'\u00e9coutait, mais, assez bas pour qu'il ne puisse \u00eatre entendu des berg\u00e8res.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1849",
+      "category": "10",
+      "explanation": "Elle lui donne son portrait enrichi de diamants. Describes a character's interaction with an object, specifically giving an object.",
+      "stgdir": "Elle lui donne son portrait enrichi de diamants.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 16938.39144706726,
+  "model": "mistral-large-2407"
+}

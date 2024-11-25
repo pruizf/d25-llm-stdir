@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 290,
+      "category": 5,
+      "explanation": "The stage direction indicates that all characters except Babet exit the stage, which fits the 'exit' category.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 291,
+      "category": 5,
+      "explanation": "Moli\u00e8re exits the stage, which fits the 'exit' category.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 292,
+      "category": 5,
+      "explanation": "The character exits the stage in anger, which fits the 'exit' category.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 293,
+      "category": 5,
+      "explanation": "Multiple characters exit the stage, which fits the 'exit' category.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 294,
+      "category": 5,
+      "explanation": "Merlin flees the stage, which fits the 'exit' category.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 295,
+      "category": 5,
+      "explanation": "M\u00e9gatise exits the stage, which fits the 'exit' category.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 296,
+      "category": 5,
+      "explanation": "The character exits immediately, which fits the 'exit' category.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 297,
+      "category": 5,
+      "explanation": "The character exits through the left door, which fits the 'exit' category.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 298,
+      "category": 5,
+      "explanation": "The porter exits to return immediately with another character, which fits the 'exit' category. The additional action of the bishop murmuring is a secondary action within the context of the exit.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 299,
+      "category": 5,
+      "explanation": "Duparc exits the stage, which fits the 'exit' category.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 15008.623600006104,
+  "model": "mistral-large-2407"
+}

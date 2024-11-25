@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "50",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where the character falls to his knees before the Marquise.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where D\u00e9lie throws a passionate glance.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "0",
+      "explanation": "The stage direction describes a general action where the character raises the Guards of the Chamber.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where the character is looking at Terville.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "3",
+      "explanation": "The stage direction describes a delivery manner where the character interrupts himself upon seeing Don Juan about to get angry.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "0",
+      "explanation": "The stage direction describes a general action where Scarron continues to write.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "10",
+      "explanation": "The stage direction describes an interaction with an object where the character opens a paper.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "10",
+      "explanation": "The stage direction describes an interaction with an object where the character shows his 'vit' (an object).",
+      "stgdir": "Il montre son vit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "7",
+      "explanation": "The stage direction describes a character movement where they sit down.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where the character turns his eyes towards Henry.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 14502.90322303772,
+  "model": "mistral-large-2407"
+}

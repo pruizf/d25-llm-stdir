@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 100,
+      "category": 7,
+      "explanation": "The stage direction 'Elle remonte.' indicates movement, as the character is moving upwards.",
+      "stgdir": "Elle remonte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 101,
+      "category": 9,
+      "explanation": "This is a long stage direction with narrative quality, describing a sequence of actions and interactions between characters.",
+      "stgdir": "Cette sc\u00e8ne est tr\u00e8s divertissante, et jou\u00e9e parfaitement par le P\u00e9dant, qui devient amoureux \u00e0 son tour de Colombine. D'abord il lui donne un mouchoir pour cacher sa gorge ; mais incontinent il se laisse entra\u00eener au pouvoir de l'amour. L'\u00e9colier survient qui voit le P\u00e9dant embrasser Colombine : il lui rend avec usure les coups de b\u00e2ton ; ce qui finit la sc\u00e8ne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 102,
+      "category": 5,
+      "explanation": "The stage direction 'Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.' indicates an exit, as the character and others are leaving the stage.",
+      "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 103,
+      "category": 1,
+      "explanation": "The stage direction 'Elle recommence le combat.' indicates aggression, as the character is resuming a fight.",
+      "stgdir": "Elle recommence le combat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 104,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Lafleur.' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Lafleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 105,
+      "category": 9,
+      "explanation": "The stage direction 'LETTRE DU GRAND VIZIR.' is a narrative element, providing context rather than a specific action or movement.",
+      "stgdir": "LETTRE DU GRAND VIZIR.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 106,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Hurlubrelu.' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Hurlubrelu.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 107,
+      "category": 7,
+      "explanation": "The stage direction 'Les N\u00e9r\u00e9ides se plongent aussi dans le mer.' indicates movement, as the characters are plunging into the sea.",
+      "stgdir": "Les N\u00e9r\u00e9ides se plongent aussi dans le mer.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 108,
+      "category": 0,
+      "explanation": "The stage direction 'Ils pleurent.' indicates a general action, as the characters are crying.",
+      "stgdir": "Ils pleurent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 109,
+      "category": 9,
+      "explanation": "This is a long stage direction with narrative quality, describing a sequence of actions and interactions between characters.",
+      "stgdir": "Au m\u00eame instant, le jeune sauvage, arm\u00e9 de son arc et de ses fl\u00e8ches, sort de la maison de Monsieur de Kerkabon, et compl\u00e8te le tableau, en s'arr\u00eatant avec admiration \u00e0 quelque distance du groupe villageois, L'aimable et modeste Kerkabon se d\u00e9robe \u00e0 cet hommage, pour courir au devant de l'Ing\u00e9nu, qui lui baise la main avec respect, et prie le ciel d'exaucer ses voeux reconnaissants en faveur de sa bienfaitrice. Elle lui t\u00e9moigne de nouveau le plus vif int\u00e9r\u00eat, et le voyant dispos\u00e9 \u00e0 partir pour la chasse, l'invite \u00e0 h\u00e2ter son retour ; il le promet, et apr\u00e8s avoir jet\u00e9 un regard expressif sur l'habitation de mademoiselle de Saint-Yves, apr\u00e8s avoir port\u00e9 la main sur son coeur et pouss\u00e9 un profond soupir, il gagne le sommet de la troisi\u00e8me colline avec rapidit\u00e9.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 19045.828104019165,
+  "model": "mistral-large-2407"
+}

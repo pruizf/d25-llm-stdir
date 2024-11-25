@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "60",
+      "category": "7",
+      "explanation": "This stage direction describes a character showing another character, which is a non-verbal interaction and thus falls under the movement category.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "12",
+      "explanation": "The character is looking towards the door, indicating the direction of their attention.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "6",
+      "explanation": "Showing the husband of the old woman is a non-verbal interaction.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "0",
+      "explanation": "Sitting down to eat is a general character action that does not fit into other categories.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "0",
+      "explanation": "Listening is a general character action.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "10",
+      "explanation": "This stage direction describes the character showing objects (sword and pistol), which is an interaction with objects.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "0",
+      "explanation": "Making the sign of the cross is a general character action.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "6",
+      "explanation": "Apercevoir (noticing) someone is a non-verbal interaction.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "0",
+      "explanation": "Tending the ear anxiously is a general character action.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "7",
+      "explanation": "Going to the fountains and drinking involves movement across the stage.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 10161.488056182861,
+  "model": "mistral-small-latest"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 410,
+      "category": 0,
+      "explanation": "The stage direction describes a general action performed by the character. Although the exact action is unclear due to a possible typo ('de dis'), it likely falls under the 'action' category.",
+      "stgdir": "Elle le fait comme elle de dis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 411,
+      "category": 5,
+      "explanation": "The stage direction describes characters exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Laurent et Grivet sortent par la porte du fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 412,
+      "category": 8,
+      "explanation": "The stage direction mentions an 'Air', which is a tune, fitting the 'music' category.",
+      "stgdir": "Air : Voulez-vous savoir l'histoire, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 413,
+      "category": 8,
+      "explanation": "The stage direction describes a sound, which is related to music, fitting the 'music' category.",
+      "stgdir": "On entend un bruit de hautbois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 414,
+      "category": 8,
+      "explanation": "The stage direction mentions an 'Air nouveau', which is a tune, fitting the 'music' category.",
+      "stgdir": "Air nouveau du C. DELAPORTE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 415,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Finot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 416,
+      "category": 8,
+      "explanation": "The stage direction mentions an 'Air', which is a tune, fitting the 'music' category.",
+      "stgdir": "Air 171. Menuet des F\u00eates Grecques et Rom.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 417,
+      "category": 6,
+      "explanation": "The stage direction describes a character's non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Apercevant Cassandre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 418,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 419,
+      "category": 0,
+      "explanation": "The stage direction describes a general action performed by the character, fitting the 'action' category.",
+      "stgdir": "Il sonne du cor.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 17832.05556869507,
+  "model": "mistral-large-2407"
+}

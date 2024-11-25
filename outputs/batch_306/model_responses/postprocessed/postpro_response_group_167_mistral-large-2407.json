@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1670,
+      "category": 0,
+      "explanation": "Elle fait un grand cri. (She makes a big cry.) This is a general character action.",
+      "stgdir": "Elle fait un grand cri.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1671,
+      "category": 8,
+      "explanation": "AIR. \u00c0 quoi s'occupe Magdelon ? (AIR. What is Magdelon doing?) This indicates a tune or music description.",
+      "stgdir": "AIR. \u00c0 quoi s'occupe Magdelon ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1672,
+      "category": 8,
+      "explanation": "AIR. Rions, chantons. (AIR. Let's laugh, let's sing.) This indicates a tune or music description.",
+      "stgdir": "AIR. Rions, chantons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1673,
+      "category": 8,
+      "explanation": "On entend dans la coulisse le refrain suivant. (We hear from the wings the following refrain.) This indicates a music description.",
+      "stgdir": "On entend dans la coulisse le refrain suivant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1674,
+      "category": 12,
+      "explanation": "Aux Licteurs. (To the Lictors.) This indicates the addressee of a speech.",
+      "stgdir": "Aux Licteurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1675,
+      "category": 6,
+      "explanation": "\u00c0 Isabelle se touchant le front avec la main. (To Isabelle touching her forehead with her hand.) This indicates a non-verbal character interaction.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1676,
+      "category": 11,
+      "explanation": "Un repas champ\u00eatre. L'AMOUR. (A countryside meal. LOVE.) This describes the setting or stage description.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1677,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'Hercule \u00e0 Trachine. (The theater represents the palace of Hercules at Trachis.) This describes the setting or stage description.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'Hercule \u00e0 Trachine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1678,
+      "category": 5,
+      "explanation": "Carille sort. (Carille exits.) This indicates a character exit.",
+      "stgdir": "Carille sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1679,
+      "category": 5,
+      "explanation": "C\u00e9liante sort. (C\u00e9liante exits.) This indicates a character exit.",
+      "stgdir": "C\u00e9liante sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 20554.614305496216,
+  "model": "mistral-large-2407"
+}

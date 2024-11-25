@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 650,
+      "category": 10,
+      "explanation": "Il couvre le presse-papier avec le chapeau. This stage direction describes an interaction with an object, specifically covering a paperweight with a hat.",
+      "stgdir": "Il couvre le presse-papier avec le chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 651,
+      "category": 6,
+      "explanation": "Prenant la main de Silvia. This stage direction describes a non-verbal interaction between characters, specifically taking someone's hand.",
+      "stgdir": "Prenant la main de Silvia.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 652,
+      "category": 10,
+      "explanation": "Il prend le livre. This stage direction describes an interaction with an object, specifically taking a book.",
+      "stgdir": "Il prend le livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 653,
+      "category": 10,
+      "explanation": "Elle le met \u00e0 son corsage. This stage direction describes an interaction with an object, specifically placing something in a bodice.",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 654,
+      "category": 10,
+      "explanation": "Elle lui donne un billet. This stage direction describes an interaction with an object, specifically giving a note.",
+      "stgdir": "Elle lui donne un billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 655,
+      "category": 6,
+      "explanation": "Il lui remet Sophie entre les bras. This stage direction describes a non-verbal interaction between characters, specifically handing Sophie over to someone.",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 656,
+      "category": 10,
+      "explanation": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas. This stage direction describes an interaction with an object, specifically a ghost taking a sword.",
+      "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 657,
+      "category": 10,
+      "explanation": "Ils tendent tous deux la main, et prennent l'argent. This stage direction describes an interaction with an object, specifically both characters reaching out their hands and taking money.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 658,
+      "category": 10,
+      "explanation": "Elle lui rend la bague. This stage direction describes an interaction with an object, specifically returning a ring.",
+      "stgdir": "Elle lui rend la bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 659,
+      "category": 10,
+      "explanation": "Il arrache les papiers. This stage direction describes an interaction with an object, specifically tearing papers.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 20257.151126861572,
+  "model": "mistral-large-2407"
+}

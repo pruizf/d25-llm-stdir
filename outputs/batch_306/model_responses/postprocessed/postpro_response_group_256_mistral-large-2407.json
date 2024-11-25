@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2560,
+      "category": 3,
+      "explanation": "Il fredonne l'Amant d'Amanda. This stage direction indicates that the character is humming a tune, which relates to vocal delivery.",
+      "stgdir": "Il fredonne l'Amant d'Amanda.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2561,
+      "category": 8,
+      "explanation": "Air : n\u00b0 1. This stage direction describes a piece of music, indicating a specific tune.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2562,
+      "category": 0,
+      "explanation": "Elle frappe \u00e0 la porte en dehors. This action involves knocking on a door, which is a general character action.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2563,
+      "category": 1,
+      "explanation": "L\u00e0 ils recommencent le combat plus vivement. This stage direction describes a fight, which relates to violent action.",
+      "stgdir": "L\u00e0 ils recommencent le combat plus vivement.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2564,
+      "category": 6,
+      "explanation": "Elle se laisse embrasser. This stage direction involves a non-verbal interaction where one character allows another to embrace them.",
+      "stgdir": "Elle se laisse embrasser.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2565,
+      "category": 0,
+      "explanation": "Camille s'assoit. This stage direction describes a simple action of sitting down, which is a general character action.",
+      "stgdir": "Camille s'assoit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2566,
+      "category": 8,
+      "explanation": "CANTATE. This stage direction indicates a musical performance, specifically a cantata.",
+      "stgdir": "CANTATE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2567,
+      "category": 9,
+      "explanation": "On danse, et la danse est coup\u00e9e par ces deux couplets. This stage direction provides a narrative description of dancing and the interruption by couplets, intended for readers.",
+      "stgdir": "On danse, et la danse est coup\u00e9e par ces deux couplets.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2568,
+      "category": 10,
+      "explanation": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9. This stage direction involves the character being presented with an object, specifically a pie.",
+      "stgdir": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2569,
+      "category": 6,
+      "explanation": "Il parle \u00e0 Troile. This stage direction indicates a non-verbal interaction where one character speaks to another.",
+      "stgdir": "Il parle \u00e0 Troile.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 17321.963787078857,
+  "model": "mistral-large-2407"
+}

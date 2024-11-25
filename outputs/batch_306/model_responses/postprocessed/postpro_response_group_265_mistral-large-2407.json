@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2650,
+      "category": 0,
+      "explanation": "Elle l\u00e8ve ici son masque. - The character is performing an action of lifting a mask, which fits the 'action' category.",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2651,
+      "category": 12,
+      "explanation": "- Il la regarde. - The character is looking at someone, which fits the 'toward' category.",
+      "stgdir": "- Il la regarde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2652,
+      "category": 7,
+      "explanation": "Revenant \u00e0 elle. - The character is moving towards someone or something, which fits the 'movement' category.",
+      "stgdir": "Revenant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2653,
+      "category": 12,
+      "explanation": "\u00c0 Madame Mondor. - The stage direction indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Madame Mondor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2654,
+      "category": 3,
+      "explanation": "Il chante l'air en entier. - The character is singing, which fits the 'delivery' category.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2655,
+      "category": 9,
+      "explanation": "Qui connait le prix des moments, va fermer la porte avec un doigt de verrous, fait un petit saut de caract\u00e8re ; et sans autre pr\u00e9ambule, dit au Vicomte. - This is a long stage direction with narrative quality, intended for readers, which fits the 'narration' category.",
+      "stgdir": "Qui connait le prix des moments, va fermer la porte avec un doigt de verrous, fait un petit saut de caract\u00e8re ; et sans autre pr\u00e9ambule, dit au Vicomte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2656,
+      "category": 8,
+      "explanation": "Duo. - This indicates a musical piece, which fits the 'music' category.",
+      "stgdir": "Duo.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2657,
+      "category": 10,
+      "explanation": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive. - The character is interacting with objects, which fits the 'object' category.",
+      "stgdir": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2658,
+      "category": 12,
+      "explanation": "\u00c0 ses gardes. - The stage direction indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "\u00c0 ses gardes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2659,
+      "category": 7,
+      "explanation": "Narbas et Eurycl\u00e8s s'\u00e9loignent un peu. - The characters are moving away, which fits the 'movement' category.",
+      "stgdir": "Narbas et Eurycl\u00e8s s'\u00e9loignent un peu.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 22800.763368606567,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,69 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 230,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 231,
+      "category": 8,
+      "explanation": "Describes a tune name, starting with 'AIR'.",
+      "stgdir": "AIR du vaudeville de l'Avare.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 232,
+      "category": 8,
+      "explanation": "Describes a tune name, starting with 'AIR'.",
+      "stgdir": "AIR : J'en jurerais presque sur sa laideur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 233,
+      "category": 3,
+      "explanation": "Describes the delivery manner, as the character is humming ('Fredonnant').",
+      "stgdir": "Fredonnant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 234,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality, intended for readers.",
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 236,
+      "category": 8,
+      "explanation": "Describes music, as it mentions a symphony.",
+      "stgdir": "Tout \u00e9tant dispos\u00e9, et le cur\u00e9 \u00e9tant arriv\u00e9 dans une cal\u00e8che a six chevaux qu'on avait envoy\u00e9e au devant de lui, il fut conduit \u00e0 son tr\u00f4ne. D\u00e8s qu'il fut assis, l'orateur lui pronon\u00e7a \u00e0 genoux une harangue dans le style de l'acad\u00e9mie, pleine de louanges, d'antith\u00e8ses, et de mots nouveaux. Le cur\u00e9 re\u00e7ut tous ces \u00e9loges avec l'air d'un homme qui sait bien qu'il en m\u00e9rite encore davantage ; car tout le monde n'est pas de l'humeur de notre reine***, qui hait les louanges autant qu'elle les m\u00e9rite. Apr\u00e8s la harangue, on ex\u00e9cuta le concert dont on vous envoie les paroles ; les choeurs all\u00e8rent \u00e0 merveille, et la c\u00e9r\u00e9monie finit par une grande pi\u00e8ce de vers poupeux, \u00e0 laquelle ni les assistants, ni le cur\u00e9, ni l'auteur, n'entendirent rien. Il faudrait avoir \u00e9t\u00e9 t\u00e9moin de cette f\u00eate pour en bien sentir l'agr\u00e9ment : les projets et les pr\u00e9paratifs de ces divertissements sont toujours agr\u00e9ables, l'ex\u00e9cution rarement bonne, et le r\u00e9cit souvent ennuyeux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 237,
+      "category": 10,
+      "explanation": "Describes an interaction with an object, specifically exchanging cards.",
+      "stgdir": "La symphonie vive recommence.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 238,
+      "category": 6,
+      "explanation": "Describes non-verbal interaction, as the character speaks to those helping him.",
+      "stgdir": "\u00c9change des cartes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 239,
+      "category": 10,
+      "explanation": "Describes an interaction with objects, specifically letters and preparing for a toilette.",
+      "stgdir": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 15851.639032363892,
+  "model": "mistral-large-2407"
+}

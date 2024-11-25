@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2480,
+      "category": 8,
+      "explanation": "The stage direction 'Air: Mon p\u00e8re \u00e9tait pot.' describes a tune name, which falls under the music category.",
+      "stgdir": "Air: Mon p\u00e8re \u00e9tait pot.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2481,
+      "category": 3,
+      "explanation": "The stage direction 'Haut, faisant un effort.' describes a delivery manner, indicating vocal expression or effort, which falls under the delivery category.",
+      "stgdir": "Haut, faisant un effort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2482,
+      "category": 8,
+      "explanation": "The stage direction 'AIR. J'\u00e9tais perdue.' describes a tune name, which falls under the music category.",
+      "stgdir": "AIR. J'\u00e9tais perdue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2483,
+      "category": 3,
+      "explanation": "The stage direction 'JE JURE QUE DE DOROTH\u00c9E' indicates a delivery manner, likely indicating vocal emphasis or emotion, which falls under the delivery category.",
+      "stgdir": "JE JURE QUE DE DOROTH\u00c9E",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2484,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Fidel \u00e9poux.' describes a tune name, which falls under the music category.",
+      "stgdir": "Air : Fidel \u00e9poux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2485,
+      "category": 6,
+      "explanation": "The stage direction 'Ad\u00e9la\u00efde en la prenant par la main.' describes a non-verbal interaction, specifically taking someone by the hand, which falls under the interaction category.",
+      "stgdir": "Ad\u00e9la\u00efde en la prenant par la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2486,
+      "category": 7,
+      "explanation": "The stage direction 'Apercevant son fils.' describes a character movement, specifically noticing or seeing someone, which falls under the movement category.",
+      "stgdir": "Apercevant son fils.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2487,
+      "category": 3,
+      "explanation": "The stage direction 'Cinqui\u00e8me couplet.' refers to a part of a song, indicating a delivery manner, which falls under the delivery category.",
+      "stgdir": "Cinqui\u00e8me couplet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2488,
+      "category": 10,
+      "explanation": "The stage direction 'Billet de Constantine.' describes an object, specifically a letter or note, which falls under the object category.",
+      "stgdir": "Billet de Constantine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2489,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Th\u00e9r\u00e8se et Laurent.' indicates the addressee of a speech, which falls under the toward category.",
+      "stgdir": "\u00c0 Th\u00e9r\u00e8se et Laurent.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 19690.629243850708,
+  "model": "mistral-large-2407"
+}

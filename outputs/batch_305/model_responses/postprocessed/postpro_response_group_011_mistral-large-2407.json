@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 110,
+      "category": 6,
+      "explanation": "Montrant la lettre. - This stage direction involves non-verbal interaction, specifically showing a letter to someone.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 111,
+      "category": 7,
+      "explanation": "Apercevant plusieurs sortes d'Animaux. - This stage direction describes the character's movement or action of seeing various kinds of animals.",
+      "stgdir": "Apercevant plusieurs sortes d'Animaux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 112,
+      "category": 0,
+      "explanation": "Elle regarde par la fen\u00eatre. - This stage direction is a general action of looking out the window.",
+      "stgdir": "Elle regarde par la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 113,
+      "category": 7,
+      "explanation": "Apercevant Monsieur Rossignol qui entre. - This stage direction describes the character's movement or action of seeing Mr. Rossignol entering.",
+      "stgdir": "Apercevant Monsieur Rossignol qui entre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 114,
+      "category": 6,
+      "explanation": "Lui montrant le billet. - This stage direction involves non-verbal interaction, specifically showing a ticket to someone.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 115,
+      "category": 10,
+      "explanation": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne. - This stage direction describes the character's interaction with objects, specifically serving soup into plates.",
+      "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 116,
+      "category": 0,
+      "explanation": "Il regarde dans l'antichambre. - This stage direction is a general action of looking into the antechamber.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 117,
+      "category": 6,
+      "explanation": "Lui montrant le caf\u00e9 de l'Alliance. - This stage direction involves non-verbal interaction, specifically showing the Alliance cafe to someone.",
+      "stgdir": "Lui montrant le caf\u00e9 de l'Alliance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 118,
+      "category": 6,
+      "explanation": "Montrant Montval. - This stage direction involves non-verbal interaction, specifically showing Montval to someone.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 119,
+      "category": 10,
+      "explanation": "Elle reprend la lettre et lit. - This stage direction describes the character's interaction with an object, specifically taking back the letter and reading it.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 21196.934700012207,
+  "model": "mistral-large-2407"
+}

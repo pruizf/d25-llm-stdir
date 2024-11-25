@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2820,
+      "category": 6,
+      "explanation": "Lui tendant la main. (Offering him his hand) is an interaction between characters.",
+      "stgdir": "Lui tendant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2821,
+      "category": 4,
+      "explanation": "Il entre avec humeur, dans son cabinet. (He enters angrily into his office) describes a character entering the stage.",
+      "stgdir": "Il entre avec humeur, dans son cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2822,
+      "category": 8,
+      "explanation": "Air : Nos plaisirs seront peu durables. (Tune: Our pleasures will be short-lived) describes a tune.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2823,
+      "category": 9,
+      "explanation": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection. (Juno appears in a magnificent chariot, pulled by two peacocks, and so richly adorned that it seems worthy of the pride of the goddess who is carried there. She walks through the air, which our poets attribute to her empire, and makes several turns, sometimes to the right and sometimes to the left, while she assures Phineus of her protection) is a long stage direction with narrative quality.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2824,
+      "category": 8,
+      "explanation": "AIR : Or \u00e9coutez petits et grands. (Tune: Now listen, young and old) describes a tune.",
+      "stgdir": "AIR : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2825,
+      "category": 8,
+      "explanation": "AIR. ( Ma raison s'en va beau train. ) (Tune: My reason goes well) describes a tune.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2826,
+      "category": 12,
+      "explanation": "\u00c0 Mademoiselle Moli\u00e8re. (To Miss Moli\u00e8re) indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2827,
+      "category": 8,
+      "explanation": "Air : des Pendus. (Tune: of the Hanged) describes a tune.",
+      "stgdir": "Air : des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2828,
+      "category": 0,
+      "explanation": "Le Sagamo reste immobile Arlequin lui fait voler la t\u00eate de son propre sabre qu'il lui a \u00f4t\u00e9, mais tout \u00e0 coup il rena\u00eet une autre t\u00eate au Sagamo qui rit au nez d'Arlequin. (The Sagamo remains still, Arlequin makes his head fly with his own sabre that he took from him, but suddenly another head appears on the Sagamo who laughs at Arlequin) describes a general character action involving magical elements.",
+      "stgdir": "Le Sagamo reste immobile Arlequin lui fait voler la t\u00eate de son propre sabre qu'il lui a \u00f4t\u00e9, mais tout \u00e0 coup il rena\u00eet une autre t\u00eate au Sagamo qui rit au nez d'Arlequin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2829,
+      "category": 0,
+      "explanation": "Cassandre dans le tableau. (Cassandra in the frame) describes a general character action or position.",
+      "stgdir": "Cassandre dans le tableau.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 25209.110498428345,
+  "model": "mistral-large-2407"
+}

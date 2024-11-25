@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2300,
+      "category": 11,
+      "explanation": "Le Temple s'ouvre. This stage direction describes the setting or a change in the setting.",
+      "stgdir": "Le Temple s'ouvre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2301,
+      "category": 4,
+      "explanation": "Ils paraissent tous les deux. This stage direction indicates the entrance of characters.",
+      "stgdir": "Ils paraissent tous les deux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2302,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu champ\u00eatre. This stage direction describes the setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu champ\u00eatre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2303,
+      "category": 12,
+      "explanation": "\u00c0 Tronquoy. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Tronquoy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2304,
+      "category": 6,
+      "explanation": "Tous les deux prennent place devant la table. This stage direction indicates a non-verbal interaction with an object (the table).",
+      "stgdir": "Tous les deux prennent place devant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2305,
+      "category": 5,
+      "explanation": "Il sort par la petite porte \u00e0 droite. This stage direction indicates the exit of a character.",
+      "stgdir": "Il sort par la petite porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2306,
+      "category": 5,
+      "explanation": "Tout le monde sort. Agla\u00e9 reste un peu derri\u00e8re avec le Chevalier. Elle lui dit : This stage direction indicates the exit of characters and a specific interaction.",
+      "stgdir": "Tout le monde sort. Agla\u00e9 reste un peu derri\u00e8re avec le Chevalier. Elle lui dit :",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2307,
+      "category": 1,
+      "explanation": "Il les met en termes de combattre. This stage direction suggests aggressive or violent action.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2308,
+      "category": 8,
+      "explanation": "Air. Dans le fond d'une \u00e9curie. This stage direction describes music, starting with 'Air'.",
+      "stgdir": "Air. Dans le fond d'une \u00e9curie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2309,
+      "category": 7,
+      "explanation": "Il s'approche de C\u00e9cile. This stage direction indicates a character movement towards another character.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 16619.07410621643,
+  "model": "mistral-large-2407"
+}

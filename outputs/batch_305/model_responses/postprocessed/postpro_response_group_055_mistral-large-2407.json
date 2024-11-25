@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 550,
+      "category": 4,
+      "explanation": "ENTR\u00c9E de toutes sortes de personnes amoureuse de la nouveaut\u00e9. The stage direction indicates that various people are entering the stage, which fits the 'entrance' category.",
+      "stgdir": "ENTR\u00c9E de toutes sortes de personnes amoureuse de la nouveaut\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 551,
+      "category": 8,
+      "explanation": "Air Not\u00e9, N\u00b03. The stage direction refers to a musical piece, fitting the 'music' category.",
+      "stgdir": "Air Not\u00e9, N\u00b03",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 552,
+      "category": 8,
+      "explanation": "AIR. Je voudrais bien me marier. The stage direction indicates a musical piece titled 'Je voudrais bien me marier', fitting the 'music' category.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 553,
+      "category": 8,
+      "explanation": "Air Par bonheur, ou par malheur. The stage direction refers to a musical piece titled 'Par bonheur, ou par malheur', fitting the 'music' category.",
+      "stgdir": "Air Par bonheur, ou par malheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 554,
+      "category": 8,
+      "explanation": "A I R. This indicates a musical piece is being played, fitting the 'music' category.",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 555,
+      "category": 8,
+      "explanation": "On entend la ritournelle du morceau. The stage direction indicates that a musical piece's ritournelle is heard, fitting the 'music' category.",
+      "stgdir": "On entend la ritournelle du morceau.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 556,
+      "category": 8,
+      "explanation": "Fin de l'air : Revenant de Lorette. The stage direction indicates the end of a musical piece titled 'Revenant de Lorette', fitting the 'music' category.",
+      "stgdir": "Fin de l'air : Revenant de Lorette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 557,
+      "category": 8,
+      "explanation": "AIR. S\u00fbre de ta foi. The stage direction indicates a musical piece titled 'S\u00fbre de ta foi', fitting the 'music' category.",
+      "stgdir": "AIR. S\u00fbre de ta foi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 558,
+      "category": 8,
+      "explanation": "Seconde chanson \u00e0 boire. The stage direction refers to a second drinking song, fitting the 'music' category.",
+      "stgdir": "Seconde chanson \u00e0 boire",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 559,
+      "category": 8,
+      "explanation": "Air, Ah le bel oiseau etc. The stage direction indicates a musical piece titled 'Ah le bel oiseau etc.', fitting the 'music' category.",
+      "stgdir": "Air, Ah le bel oiseau etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 19300.15754699707,
+  "model": "mistral-large-2407"
+}

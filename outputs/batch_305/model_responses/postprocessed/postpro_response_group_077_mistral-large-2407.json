@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 770,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 771,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 772,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 773,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 774,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 775,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 776,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 777,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 778,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 779,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14051.963806152344,
+  "model": "mistral-large-2407"
+}

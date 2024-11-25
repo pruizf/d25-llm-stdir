@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2520,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "S'adressant \u00e0 la reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2521,
+      "category": 7,
+      "explanation": "Describes character movement (coming to the front of the stage).",
+      "stgdir": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2522,
+      "category": 10,
+      "explanation": "Describes the character interacting with an object (the pieces of the \u00e9crin).",
+      "stgdir": "Il prend l'une apr\u00e8s l'autre toutes les pi\u00e8ces de l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2523,
+      "category": 11,
+      "explanation": "Provides a detailed description of the stage setting.",
+      "stgdir": "D\u00c9CORATION DU IVe ACTE. >Cet Acte qui se passe dans le lieu le plus d\u00e9sert du Palais de Circ\u00e9, n'a point d'autre d\u00e9coration que de grands Arbres touffus, qui forment un bois dont l'\u00e9paisseur semble \u00eatre imp\u00e9n\u00e9trable \u00e0 la clart\u00e9 du Soleil.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2524,
+      "category": 4,
+      "explanation": "Indicates the entrance of characters (Quarto and Ultimo).",
+      "stgdir": "QUARTO et ULTIMO.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2525,
+      "category": 0,
+      "explanation": "General character action (sitting on the canap\u00e9).",
+      "stgdir": "S'asseyant sur le canap\u00e9 n\u00b0 1.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2526,
+      "category": 10,
+      "explanation": "Describes the character interacting with an object (closing the guichet).",
+      "stgdir": "Elle ferme le guichet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2527,
+      "category": 8,
+      "explanation": "Provides the name of a tune (music stage direction).",
+      "stgdir": "Air : J'\u00e9tois, j'\u00e9tois malade d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2528,
+      "category": 8,
+      "explanation": "Indicates another tune (music stage direction).",
+      "stgdir": "AUTRE AIR.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2529,
+      "category": 3,
+      "explanation": "Describes the manner of delivery (speaking loudly while excusing himself).",
+      "stgdir": "Haut, s'excusant.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 15167.542934417725,
+  "model": "mistral-large-2407"
+}

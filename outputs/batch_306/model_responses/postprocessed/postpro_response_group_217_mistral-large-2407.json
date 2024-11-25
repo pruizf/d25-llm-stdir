@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2170,
+      "category": 8,
+      "explanation": "This stage direction indicates a song, which falls under the category of music.",
+      "stgdir": "CHANSON DE M. Sall\u00e9 et Ponteuil.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2171,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, which is a courtyard of a prison.",
+      "stgdir": "La sc\u00e8ne para\u00eet une cour de prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2172,
+      "category": 5,
+      "explanation": "This stage direction indicates a character exiting from a tent, which falls under the category of exit.",
+      "stgdir": "Il sort de sa tente.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2173,
+      "category": 5,
+      "explanation": "This stage direction indicates a character leaving, which falls under the category of exit.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2174,
+      "category": 5,
+      "explanation": "This stage direction indicates a character exiting, which falls under the category of exit.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2175,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, which falls under the category of toward.",
+      "stgdir": "\u00c0 La Fleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2176,
+      "category": 8,
+      "explanation": "This stage direction indicates a tune, which falls under the category of music.",
+      "stgdir": "AIR : sur Radegonde",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2177,
+      "category": 8,
+      "explanation": "This stage direction indicates a tune, which falls under the category of music.",
+      "stgdir": "AIR. \u00c7a n'vous va brin, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2178,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, which falls under the category of toward.",
+      "stgdir": "\u00c0 Liou-Li.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2179,
+      "category": 5,
+      "explanation": "This stage direction indicates a character exiting, which falls under the category of exit.",
+      "stgdir": "Il sort par le fond du th\u00e9\u00e2tre.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 24267.500638961792,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2050,
+      "category": 0,
+      "explanation": "Il le met sur sa t\u00eate. (He puts it on his head.) - This is a general character action.",
+      "stgdir": "Il le met sur sa t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2051,
+      "category": 11,
+      "explanation": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue. (He opens the trellis, and one sees the Countess in place of the statue.) - This describes the stage setting.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2052,
+      "category": 0,
+      "explanation": "Il d\u00e9croche. (He unhooks.) - This is a general character action.",
+      "stgdir": "Il d\u00e9croche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2053,
+      "category": 7,
+      "explanation": "Ulysse et les Grecs sont pr\u00e8s d'emmener Polix\u00e8ne. (Ulysses and the Greeks are about to take Polixene.) - This describes character movement.",
+      "stgdir": "Ulysse et les Grecs sont pr\u00e8s d'emmener Polix\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2054,
+      "category": 1,
+      "explanation": "Elle lui frappe le coeur. (She strikes his heart.) - This is a violent action.",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2055,
+      "category": 8,
+      "explanation": "AIR. C'est ce qui nous enrhume. (AIR. This is what makes us catch cold.) - This is a music description.",
+      "stgdir": "AIR. C'est ce qui nous enrhume.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2056,
+      "category": 0,
+      "explanation": "Il y cherche. (He searches there.) - This is a general character action.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2057,
+      "category": 3,
+      "explanation": "Ici les sanglots de Sophie lui doivent couper la voix. (Here, Sophie's sobs must cut off her voice.) - This describes the delivery manner.",
+      "stgdir": "Ici les sanglots de Sophie lui doivent couper la voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2058,
+      "category": 12,
+      "explanation": "Aux soldats des troupes de ligne. (To the soldiers of the line troops.) - This indicates the addressee of a speech.",
+      "stgdir": "Aux soldats des troupes de ligne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2059,
+      "category": 0,
+      "explanation": "Il d\u00e9ploie sa boutique. (He deploys his shop.) - This is a general character action.",
+      "stgdir": "Il d\u00e9ploie sa boutique.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 20150.455713272095,
+  "model": "mistral-large-2407"
+}

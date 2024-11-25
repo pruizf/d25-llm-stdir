@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 710,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifically the representation of the Palais de l'Ocean and Th\u00e9tis, including various water features. It fits the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 711,
+      "category": 11,
+      "explanation": "This stage direction describes the scene setting, including a rural location and a rock formation with a view of the sea. It also mentions the characters present on stage and their accompanying groups, which is part of the setting description.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente sur le devant un lieu champ\u00eatre, et dans l'enfoncement un rocher perc\u00e9 \u00e0 jour, \u00e0 travers duquel on voit la mer en \u00e9loignement. Flore para\u00eet au milieu du th\u00e9\u00e2tre, accompagn\u00e9 de Vertumne Dieu des Arbres et des Fruits, et de Palamon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinit\u00e9s ; l'un m\u00e8ne \u00e0 sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Na\u00efades, Flore chante ce r\u00e9cit pour inviter V\u00e9nus \u00e0 descendre en Terre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 712,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, including a road in front of an inn and a Gothic castle in the mountains. It fits the 'setting' category.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 713,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifically an inn room. It fits the 'setting' category.",
+      "stgdir": "Une salle d'auberge.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 714,
+      "category": 7,
+      "explanation": "This stage direction describes a character movement, specifically passing in front of \u00c9velina. It fits the 'movement' category.",
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 715,
+      "category": 7,
+      "explanation": "This stage direction describes a character movement, specifically going towards the door of a cabinet. It fits the 'movement' category.",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 716,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifically pleasant meadows with the Inachus river winding through it. It fits the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 717,
+      "category": 10,
+      "explanation": "This stage direction describes the characters' interaction with objects, specifically Pauline with a candle and \u00c9lise at a window. It fits the 'object' category.",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 718,
+      "category": 7,
+      "explanation": "This stage direction describes a character movement, specifically passing to the left. It fits the 'movement' category.",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 719,
+      "category": 7,
+      "explanation": "This stage direction describes a character movement, specifically two characters crossing the stage. It fits the 'movement' category.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 19324.647188186646,
+  "model": "mistral-large-2407"
+}

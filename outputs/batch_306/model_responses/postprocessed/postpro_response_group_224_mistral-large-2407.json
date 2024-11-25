@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2240,
+      "category": 7,
+      "explanation": "Il se dirige vers le secr\u00e9taire. \u2013 This indicates character movement towards an object, which falls under the 'movement' category.",
+      "stgdir": "Il se dirige vers le secr\u00e9taire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2241,
+      "category": 9,
+      "explanation": "Apr\u00e8s un instant de silence. \u2013 This is a narrative description intended for the reader, fitting the 'narration' category.",
+      "stgdir": "Apr\u00e8s un instant de silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2242,
+      "category": 12,
+      "explanation": "A Armande. \u2013 This indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "A Armande.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2243,
+      "category": 8,
+      "explanation": "Le chant est interrompu. \u2013 This describes a musical action, fitting the 'music' category.",
+      "stgdir": "Le chant est interrompu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2244,
+      "category": 10,
+      "explanation": "Il \u00f4te la perruque. \u2013 This describes the character's interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il \u00f4te la perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2245,
+      "category": 7,
+      "explanation": "Puis s'avan\u00e7ant \u00e0 G\u00e9landre. \u2013 This indicates the character moving towards someone, fitting the 'movement' category.",
+      "stgdir": "Puis s'avan\u00e7ant \u00e0 G\u00e9landre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2246,
+      "category": 8,
+      "explanation": "On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments. \u2013 This describes a musical sound, fitting the 'music' category.",
+      "stgdir": "On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2247,
+      "category": 9,
+      "explanation": "Dorval continuant toujours de se taire, Constance ajoute : \u2013 This is a narrative description intended for the reader, fitting the 'narration' category.",
+      "stgdir": "Dorval continuant toujours de se taire, Constance ajoute :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2248,
+      "category": 10,
+      "explanation": "Il s'appuie sur le gu\u00e9ridon. \u2013 This describes the character's interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il s'appuie sur le gu\u00e9ridon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2249,
+      "category": 5,
+      "explanation": "Elle entre dans son cabinet. \u2013 This indicates the character exiting the stage, fitting the 'exit' category.",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 17674.712419509888,
+  "model": "mistral-large-2407"
+}

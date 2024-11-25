@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 150,
+      "category": 10,
+      "explanation": "Il l\u00e8ve sa canne. (He raises his cane.) This action involves an interaction with an object.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 151,
+      "category": 1,
+      "explanation": "Ils le frappent. (They hit him.) This is a violent action.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 152,
+      "category": 1,
+      "explanation": "Il les met en termes de combattre. (He puts them in terms of fighting.) This implies a threat or aggressive action.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 153,
+      "category": 10,
+      "explanation": "Il met la main \u00e0 un poignard. (He puts his hand on a dagger.) This involves an interaction with an object.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 154,
+      "category": 1,
+      "explanation": "On \u00e9gorge les Victimes. (The victims are slaughtered.) This is a violent action.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 155,
+      "category": 9,
+      "explanation": "On entend un bruit de guerre. (One hears a noise of war.) This is a narrative description intended for the reader.",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 156,
+      "category": 1,
+      "explanation": "Il fait un massacre de Polonais. (He massacres the Poles.) This is a violent action.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 157,
+      "category": 10,
+      "explanation": "Dorante veut tirer son \u00e9p\u00e9e. (Dorante wants to draw his sword.) This involves an interaction with an object.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 158,
+      "category": 10,
+      "explanation": "Elle tire un poignard. (She draws a dagger.) This involves an interaction with an object.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 159,
+      "category": 1,
+      "explanation": "Frappant la Chicanne. (Striking the Chicanne.) This is a violent action.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 17511.707544326782,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1310,
+      "category": 5,
+      "explanation": "Le Baron sort. (The Baron exits.) This falls under the 'exit' category as the character is leaving the stage.",
+      "stgdir": "Le Baron sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1311,
+      "category": 5,
+      "explanation": "Elle rentre dans le ch\u00e2teau. (She enters the castle.) This falls under the 'exit' category as the character is leaving the current scene by entering the castle.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1312,
+      "category": 7,
+      "explanation": "Voyant approcher Gustave. (Seeing Gustave approaching.) This falls under the 'movement' category as it describes a character's movement.",
+      "stgdir": "Voyant approcher Gustave.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1313,
+      "category": 8,
+      "explanation": "AIR. De la Royale, etc. (TUNE. De la Royale, etc.) This falls under the 'music' category as it describes a tune.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1314,
+      "category": 8,
+      "explanation": "Air : Babet que t'es gentille ! (TUNE: Babet you are so kind!) This falls under the 'music' category as it describes a tune.",
+      "stgdir": "Air : Babet que t'es gentille !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1315,
+      "category": 0,
+      "explanation": "Montval, lit. (Montval, reads.) This falls under the 'action' category as it describes a general character action.",
+      "stgdir": "Montval, lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1316,
+      "category": 5,
+      "explanation": "Elle sort avec Octave. (She exits with Octave.) This falls under the 'exit' category as the character is leaving the stage.",
+      "stgdir": "Elle sort avec Octave.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1317,
+      "category": 6,
+      "explanation": "Il lui serre le bout des doigts. (He squeezes the tips of her fingers.) This falls under the 'interaction' category as it describes a non-verbal interaction between characters.",
+      "stgdir": "Il lui serre le bout des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1318,
+      "category": 10,
+      "explanation": "Montrant sa bague. (Showing her ring.) This falls under the 'object' category as it describes an interaction with an object.",
+      "stgdir": "Montrant sa bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1319,
+      "category": 7,
+      "explanation": "Il fait un pas pour s'en aller et revient toujours. (He takes a step to leave and always comes back.) This falls under the 'movement' category as it describes a character's movement.",
+      "stgdir": "Il fait un pas pour s'en aller et revient toujours.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 25496.00386619568,
+  "model": "mistral-large-2407"
+}

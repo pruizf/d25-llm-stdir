@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 330,
+      "category": 5,
+      "explanation": "The stage direction 'Ils sortent en causant.' involves characters exiting while talking, which falls under the 'exit' category.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 331,
+      "category": 5,
+      "explanation": "The stage direction 'Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.' involves characters exiting, which falls under the 'exit' category.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 332,
+      "category": 4,
+      "explanation": "The stage direction 'Il entre dans sa maison.' involves a character entering, which falls under the 'entrance' category.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 333,
+      "category": 5,
+      "explanation": "The stage direction 'Antelme s'en va.' involves a character exiting, which falls under the 'exit' category.",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 334,
+      "category": 5,
+      "explanation": "The stage direction 'Scanderberg sort.' involves a character exiting, which falls under the 'exit' category.",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 335,
+      "category": 5,
+      "explanation": "The stage direction 'La t\u00eate de Georges dispara\u00eet.' involves a character's head disappearing, which can be interpreted as an exit, falling under the 'exit' category.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 336,
+      "category": 5,
+      "explanation": "The stage direction 'Il sort par la petite porte \u00e0 droite.' involves a character exiting, which falls under the 'exit' category.",
+      "stgdir": "Il sort par la petite porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 337,
+      "category": 5,
+      "explanation": "The stage direction 'Laure sort.' involves a character exiting, which falls under the 'exit' category.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 338,
+      "category": 4,
+      "explanation": "The stage direction 'Staphyla rentre.' involves a character entering, which falls under the 'entrance' category.",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 339,
+      "category": 5,
+      "explanation": "The stage direction 'Laurence sort.' involves a character exiting, which falls under the 'exit' category.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 16448.25577735901,
+  "model": "mistral-large-2407"
+}

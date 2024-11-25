@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 120,
+      "category": 6,
+      "explanation": "Montrant Milady. - This stage direction indicates a non-verbal interaction where a character points at or shows Milady.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 121,
+      "category": 7,
+      "explanation": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.] - This stage direction describes a character hopping or moving under windows, indicating movement.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 122,
+      "category": 11,
+      "explanation": "Un repas champ\u00eatre. L'AMOUR. - This stage direction describes a setting of a picnic or outdoor meal, indicating the stage setting.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 123,
+      "category": 0,
+      "explanation": "Il lit la lettre de Damis. - This stage direction describes a character reading a letter, which is a general action.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 124,
+      "category": 6,
+      "explanation": "Elle montre le banc de pierre. - This stage direction indicates a non-verbal interaction where a character shows or points at a stone bench.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 125,
+      "category": 6,
+      "explanation": "Madame Leblanc montre successivement ses broderies. - This stage direction indicates a non-verbal interaction where Madame Leblanc shows her embroideries.",
+      "stgdir": "Madame Leblanc montre successivement ses broderies.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 126,
+      "category": 10,
+      "explanation": "Il ouvre l'\u00e9crin. - This stage direction describes a character opening a casket, which involves interaction with an object.",
+      "stgdir": "Il ouvre l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 127,
+      "category": 10,
+      "explanation": "Elle ouvre la lettre. - This stage direction describes a character opening a letter, which involves interaction with an object.",
+      "stgdir": "Elle ouvre la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 128,
+      "category": 10,
+      "explanation": "Elle ouvre un autre tiroir. - This stage direction describes a character opening another drawer, which involves interaction with an object.",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 129,
+      "category": 6,
+      "explanation": "Il choque avec elle. - This stage direction indicates a non-verbal interaction where a character bumps into or collides with another character.",
+      "stgdir": "Il choque avec elle.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 16858.213186264038,
+  "model": "mistral-large-2407"
+}

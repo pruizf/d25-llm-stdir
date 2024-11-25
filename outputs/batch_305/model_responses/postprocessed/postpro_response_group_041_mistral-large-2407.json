@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 410,
+      "category": 7,
+      "explanation": "Il s'approche d'un tombeau. \u2013 This stage direction indicates movement towards an object, hence it fits the 'movement' category.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 411,
+      "category": 7,
+      "explanation": "Il s'avance vers la petite porte. \u2013 This stage direction indicates movement towards a specific location, fitting the 'movement' category.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 412,
+      "category": 7,
+      "explanation": "Se rapprochant de Rosalie. \u2013 This stage direction indicates movement towards a character, fitting the 'movement' category.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 413,
+      "category": 7,
+      "explanation": "Il s'approche de C\u00e9cile. \u2013 This stage direction indicates movement towards a character, fitting the 'movement' category.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 414,
+      "category": 8,
+      "explanation": "Air : Ce que j'\u00e9prouve en vous voyant. \u2013 This stage direction indicates music, fitting the 'music' category.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 415,
+      "category": 8,
+      "explanation": "CHANSON des Basques. \u2013 This stage direction indicates music, fitting the 'music' category.",
+      "stgdir": "CHANSON des Basques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 416,
+      "category": 8,
+      "explanation": "Air 26 : Talarire. \u2013 This stage direction indicates music, fitting the 'music' category.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 417,
+      "category": 8,
+      "explanation": "Air des Bossus. \u2013 This stage direction indicates music, fitting the 'music' category.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 418,
+      "category": 8,
+      "explanation": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb. \u2013 This stage direction indicates music, fitting the 'music' category.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 419,
+      "category": 8,
+      "explanation": "AIR. ( De la Besogne. ) \u2013 This stage direction indicates music, fitting the 'music' category.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 16693.148851394653,
+  "model": "mistral-large-2407"
+}

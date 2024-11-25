@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "170",
+      "category": "2",
+      "explanation": "\u00c0 part, avec ironie. - This stage direction indicates the character is speaking aside, which fits the 'aparte' category.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "2",
+      "explanation": "\u00c0 part, apr\u00e8s avoir lu. - This stage direction indicates the character is speaking aside after reading, which fits the 'aparte' category.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "3",
+      "explanation": "Il dit ces quatre vers bas. - This stage direction indicates the character is speaking softly, which fits the 'delivery' category.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "1",
+      "explanation": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant : - This stage direction indicates an aggressive action (b\u00e2tonner) followed by singing, which fits the 'aggression' category.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "3",
+      "explanation": "Il chante avec Galaor. - This stage direction indicates the character is singing with Galaor, which fits the 'delivery' category.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "9",
+      "explanation": "On entend crier de loin Ruflaut et Jeannot. - This stage direction describes a sound heard from a distance, which fits the 'narration' category.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "0",
+      "explanation": "Apr\u00e8s un silence. - This stage direction indicates a pause or silence, which fits the 'action' category.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "3",
+      "explanation": "D'un air d'importance. - This stage direction indicates the manner of delivery, which fits the 'delivery' category.",
+      "stgdir": "D'un air d'importance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "9",
+      "explanation": "On entend Sosie qui chante. - This stage direction describes a sound heard from a distance, which fits the 'narration' category.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "3",
+      "explanation": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers. - This stage direction indicates the choir repeating verses, which fits the 'delivery' category.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 19663.87915611267,
+  "model": "mistral-large-2407"
+}

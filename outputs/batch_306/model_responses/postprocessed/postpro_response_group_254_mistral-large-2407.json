@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2540,
+      "category": 6,
+      "explanation": "Il lui parle \u00e0 l'oreille. - Non-verbal interaction, as one character speaks into another's ear.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2541,
+      "category": 9,
+      "explanation": "II. - This appears to be a narrative element, possibly indicating a scene or act change, intended for readers.",
+      "stgdir": "II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2542,
+      "category": 4,
+      "explanation": "Entrent le gardien Beno\u00eet, Moral\u00e8s, le Juge d'instruction, le Directeur de la prison, et les autres personnes (ad libitum) qui l\u00e9galement doivent assister \u00e0 une ex\u00e9cution capitale : Docteur, commissaire de police, greffier, etc. - Describes the entrance of multiple characters.",
+      "stgdir": "Entrent le gardien Beno\u00eet, Moral\u00e8s, le Juge d'instruction, le Directeur de la prison, et les autres personnes (ad libitum) qui l\u00e9galement doivent assister \u00e0 une ex\u00e9cution capitale : Docteur, commissaire de police, greffier, etc.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2543,
+      "category": 9,
+      "explanation": "Nouveaux conjur\u00e9s. Bruit de pas. - Narrative description of new conspirators and the sound of footsteps.",
+      "stgdir": "Nouveaux conjur\u00e9s. Bruit de pas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2544,
+      "category": 9,
+      "explanation": "Neptune ayant achev\u00e9, une trompette commence \u00e0 \u00e9clater hautement et encourager les tritons \u00e0 faire de m\u00eame. Cependant le sieur de Poutrincourt tenait son \u00e9p\u00e9e en main, laquelle il ne remit point au fourreau jusques \u00e0 ce que les tritons eurent prononc\u00e9 comme s'ensuit. - Long narrative stage direction describing a sequence of actions and events.",
+      "stgdir": "Neptune ayant achev\u00e9, une trompette commence \u00e0 \u00e9clater hautement et encourager les tritons \u00e0 faire de m\u00eame. Cependant le sieur de Poutrincourt tenait son \u00e9p\u00e9e en main, laquelle il ne remit point au fourreau jusques \u00e0 ce que les tritons eurent prononc\u00e9 comme s'ensuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2545,
+      "category": 8,
+      "explanation": "1er Couplet - Indicates a musical element, likely the first verse of a song.",
+      "stgdir": "1er Couplet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2546,
+      "category": 8,
+      "explanation": "Reprise de Choeur. - Indicates a musical element, the reprise of a chorus.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2547,
+      "category": 5,
+      "explanation": "La fille rentre. - Describes the exit of a character.",
+      "stgdir": "La fille rentre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2548,
+      "category": 7,
+      "explanation": "Il la cherche de la main sans tourner la t\u00eate. - Describes the movement of a character searching with his hand.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2549,
+      "category": 6,
+      "explanation": "Elle le montre du doigt. - Non-verbal interaction, as one character points at another.",
+      "stgdir": "Elle le montre du doigt.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 19024.807453155518,
+  "model": "mistral-large-2407"
+}

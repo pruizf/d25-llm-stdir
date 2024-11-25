@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 850,
+      "category": 12,
+      "explanation": "\u00c0 Albert indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Albert.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 851,
+      "category": 12,
+      "explanation": "Au turc et au Mogol indicates the addressees of a speech.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 852,
+      "category": 12,
+      "explanation": "Parlant \u00e0 Ninon indicates the addressee of a speech.",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 853,
+      "category": 12,
+      "explanation": "\u00c0 Plisth\u00e8ne indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 854,
+      "category": 12,
+      "explanation": "\u00c0 \u00c9sope indicates the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9sope.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 855,
+      "category": 12,
+      "explanation": "Il s'adresse aux Enfants indicates the addressees of a speech.",
+      "stgdir": "Il s'adresse aux Enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 856,
+      "category": 12,
+      "explanation": "\u00c0 l'Eth\u00e9r\u00e9e indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'Eth\u00e9r\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 857,
+      "category": 12,
+      "explanation": "\u00c0 Zaide indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 858,
+      "category": 12,
+      "explanation": "\u00c0 la Servante indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 859,
+      "category": 12,
+      "explanation": "\u00c0 Hiaskar indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 13487.385988235474,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1270,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9narus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1271,
+      "category": 1,
+      "explanation": "Describes a violent action related to suicide.",
+      "stgdir": "Le Prince veut se jeter sur une \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1272,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Torine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1273,
+      "category": 5,
+      "explanation": "Describes a character exiting the stage.",
+      "stgdir": "Il sort a reculons en saluant \u00e0 droite et \u00e0 gauche et dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1274,
+      "category": 11,
+      "explanation": "Describes the stage setting.",
+      "stgdir": "M\u00eame d\u00e9coration qu'au premier acte ; seulement, la porte du fond est grande ouverte et l'on voit la campagne au printemps.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1275,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Aux l\u00e9vites.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1276,
+      "category": 9,
+      "explanation": "Provides a narrative quality stage direction intended for readers.",
+      "stgdir": "LETTRE AU BRAVE Don CARLOS.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1277,
+      "category": 6,
+      "explanation": "Describes a non-verbal interaction between characters.",
+      "stgdir": "Colombinette n'ose protester et l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1278,
+      "category": 6,
+      "explanation": "Describes a non-verbal interaction between characters.",
+      "stgdir": "Genevi\u00e8ve le lui rend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1279,
+      "category": 5,
+      "explanation": "Describes characters exiting the stage.",
+      "stgdir": "Les gens sortent.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 12103.725671768188,
+  "model": "mistral-large-2407"
+}

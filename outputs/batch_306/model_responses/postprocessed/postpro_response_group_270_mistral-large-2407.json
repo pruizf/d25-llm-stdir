@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2700,
+      "category": 6,
+      "explanation": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet. - This stage direction involves disarming and recognizing someone, which are non-verbal interactions.",
+      "stgdir": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2701,
+      "category": 3,
+      "explanation": "Quatre fois. - This stage direction relates to the manner of delivery, indicating repetition.",
+      "stgdir": "Quatre fois.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2702,
+      "category": 12,
+      "explanation": "\u00c0 Mercure. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2703,
+      "category": 8,
+      "explanation": "Chanson - This stage direction relates to music.",
+      "stgdir": "Chanson",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2704,
+      "category": 1,
+      "explanation": "Il se tue de ceux coups de poignards. - This stage direction involves a violent action, specifically suicide.",
+      "stgdir": "Il se tue de ceux coups de poignards.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2705,
+      "category": 7,
+      "explanation": "Il va pour entrer chez son Colonel. - This stage direction involves character movement towards an entrance.",
+      "stgdir": "Il va pour entrer chez son Colonel.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2706,
+      "category": 6,
+      "explanation": "En se regardant. - This stage direction involves a non-verbal interaction of looking at oneself.",
+      "stgdir": "En se regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2707,
+      "category": 12,
+      "explanation": "Montrant Br\u00e9court. - This stage direction indicates the addressee of a speech, pointing out Br\u00e9court.",
+      "stgdir": "Montrant Br\u00e9court.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2708,
+      "category": 12,
+      "explanation": "Au gar\u00e7on qui porte le fauteuil. - This stage direction indicates the addressee of a speech, directed towards the boy carrying the chair.",
+      "stgdir": "Au gar\u00e7on qui porte le fauteuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2709,
+      "category": 12,
+      "explanation": "\u00c0 Clarine. - This stage direction indicates the addressee of a speech, directed towards Clarine.",
+      "stgdir": "\u00c0 Clarine.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15860.500574111938,
+  "model": "mistral-large-2407"
+}

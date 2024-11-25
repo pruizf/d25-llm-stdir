@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2390,
+      "category": 12,
+      "explanation": "Montrant la Baronne. - Indicates the addressee of a speech.",
+      "stgdir": "Montrant la Baronne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2391,
+      "category": 0,
+      "explanation": "On enfourne les financiers. - General character action of putting financiers in the oven.",
+      "stgdir": "On enfourne les financiers.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2392,
+      "category": 7,
+      "explanation": "Se rapprochant de Rosalie. - Character movement towards Rosalie.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2393,
+      "category": 6,
+      "explanation": "Alceste et Philinte \u00e9changent un coup d'oeil d\u00e9sesp\u00e9r\u00e9. - Non-verbal interaction between Alceste and Philinte.",
+      "stgdir": "Alceste et Philinte \u00e9changent un coup d'oeil d\u00e9sesp\u00e9r\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2394,
+      "category": 9,
+      "explanation": "On entend le tintement d'une sonnette. - Narrative quality describing a sound.",
+      "stgdir": "On entend le tintement d'une sonnette.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2395,
+      "category": 10,
+      "explanation": "Donnant le verre d'eau sucr\u00e9e \u00e0 Thibaudier. - Character interaction with an object (giving a glass of sugared water).",
+      "stgdir": "Donnant le verre d'eau sucr\u00e9e \u00e0 Thibaudier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2396,
+      "category": 11,
+      "explanation": "La sc\u00e8ne repr\u00e9sente un petit salon dans une grande maison de campagne ; une table o\u00f9 il reste les reliefs d'un repas. Elle a \u00e9t\u00e9 dress\u00e9e pour un d\u00eener improvis\u00e9. Il est dix heures du soir. - Stage description or play location.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un petit salon dans une grande maison de campagne ; une table o\u00f9 il reste les reliefs d'un repas. Elle a \u00e9t\u00e9 dress\u00e9e pour un d\u00eener improvis\u00e9. Il est dix heures du soir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2397,
+      "category": 10,
+      "explanation": "Elle lui donne son jupon. - Character interaction with an object (giving a petticoat).",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2398,
+      "category": 4,
+      "explanation": "Le Chevalier vient, et Trivelin dit : - Character enters the stage.",
+      "stgdir": "Le Chevalier vient, et Trivelin dit :",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2399,
+      "category": 0,
+      "explanation": "L'ange touche la terre avec sa palme, et fait jaillir \u00e0 l'instant une source abondante. - General character action of the angel touching the ground with a palm and creating a spring.",
+      "stgdir": "L'ange touche la terre avec sa palme, et fait jaillir \u00e0 l'instant une source abondante.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 19487.141847610474,
+  "model": "mistral-large-2407"
+}

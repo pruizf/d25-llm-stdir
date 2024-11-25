@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2210,
+      "category": 6,
+      "explanation": "Prenant la main de Silvia. - This describes a non-verbal interaction where the character takes Silvia's hand.",
+      "stgdir": "Prenant la main de Silvia.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2211,
+      "category": 4,
+      "explanation": "Ces deux divinit\u00e9s paraissent. - This describes the entrance of two characters on stage.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2212,
+      "category": 12,
+      "explanation": "\u00c0 Omar. - This indicates that the speech is directed towards Omar.",
+      "stgdir": "\u00c0 Omar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2213,
+      "category": 0,
+      "explanation": "Violette et Arlequin rient, et les ris d'Arlequin augmentent \u00e0 mesure qu'il se voit rire. - This describes the general action of characters laughing and the action of Arlequin laughing more as he sees himself laugh.",
+      "stgdir": "Violette et Arlequin rient, et les ris d'Arlequin augmentent \u00e0 mesure qu'il se voit rire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2214,
+      "category": 7,
+      "explanation": "Il va vers la porte du cabinet. - This describes the character's movement towards the door of the cabinet.",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2215,
+      "category": 11,
+      "explanation": "Toute la cour est en deuil. - This describes the setting or stage description where the entire court is in mourning.",
+      "stgdir": "Toute la cour est en deuil.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2216,
+      "category": 8,
+      "explanation": "Fin de l'air : Revenant de Lorette. - This refers to the end of a musical piece named 'Revenant de Lorette'.",
+      "stgdir": "Fin de l'air : Revenant de Lorette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2217,
+      "category": 8,
+      "explanation": "On entend un air gai. - This describes a musical component where a cheerful tune is heard.",
+      "stgdir": "On entend un air gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2218,
+      "category": 12,
+      "explanation": "\u00c0 l'Officier. - This indicates that the speech is directed towards the Officer.",
+      "stgdir": "\u00c0 l'Officier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2219,
+      "category": 12,
+      "explanation": "\u00c0 la femme. - This indicates that the speech is directed towards the woman.",
+      "stgdir": "\u00c0 la femme.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 18165.353536605835,
+  "model": "mistral-large-2407"
+}

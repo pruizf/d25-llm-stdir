@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1240,
+      "category": 4,
+      "explanation": "Derville entre. - This stage direction indicates a character entering the stage, which fits the category 'entrance'.",
+      "stgdir": "Derville entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1241,
+      "category": 5,
+      "explanation": "Il sort en chantonnant de nouveau le refrain de l'Amant d'Amanda. - This stage direction indicates a character exiting the stage, which fits the category 'exit'.",
+      "stgdir": "Il sort en chantonnant de nouveau le refrain de l'Amant d'Amanda.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1242,
+      "category": 9,
+      "explanation": "Adeline, Eglante, Necelle, sont toutes tremblantes , craignant que l'ordre ne soit contre elles. Elles ne se rassurent un peu, que lorsqu'elles sont certaines que l'exempt n'en veut qu'\u00e0 la Marquise, qu'elles ont cru jusqu'\u00e0 ce moment une nouvelle d\u00e9barqu\u00e9e de province, qui \u00e9tait venue, comme le chevalier le leur a dit, pour d\u00e9buter \u00e0 l'Op\u00e9ra. - This stage direction provides a narrative description of the characters' emotions and thoughts, which fits the category 'narration'.",
+      "stgdir": "Adeline, Eglante, Necelle, sont toutes tremblantes , craignant que l'ordre ne soit contre elles. Elles ne se rassurent un peu, que lorsqu'elles sont certaines que l'exempt n'en veut qu'\u00e0 la Marquise, qu'elles ont cru jusqu'\u00e0 ce moment une nouvelle d\u00e9barqu\u00e9e de province, qui \u00e9tait venue, comme le chevalier le leur a dit, pour d\u00e9buter \u00e0 l'Op\u00e9ra.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1243,
+      "category": 8,
+      "explanation": "Air : Nous sommes pr\u00e9cepteurs d'amour. - This stage direction indicates a musical piece being played, which fits the category 'music'.",
+      "stgdir": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1244,
+      "category": 7,
+      "explanation": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire. - This stage direction describes the character's movement and physical actions on stage, which fits the category 'movement'.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1245,
+      "category": 5,
+      "explanation": "Antelme s'en va. - This stage direction indicates a character exiting the stage, which fits the category 'exit'.",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1246,
+      "category": 10,
+      "explanation": "Les femmes donnent aux hommes des noeuds d'\u00e9p\u00e9e etc. - This stage direction describes the characters interacting with objects, which fits the category 'object'.",
+      "stgdir": "Les femmes donnent aux hommes des noeuds d'\u00e9p\u00e9e etc.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1247,
+      "category": 7,
+      "explanation": "Il s'accroche \u00e0 un des rosiers de l'Ecole des Femmes. - This stage direction describes the character's movement and interaction with an object, which fits the category 'movement'.",
+      "stgdir": "Il s'accroche \u00e0 un des rosiers de l'Ecole des Femmes.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1248,
+      "category": 12,
+      "explanation": "Se retournant vers les Spectateurs. - This stage direction indicates the addressee of a speech, which fits the category 'toward'.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1249,
+      "category": 12,
+      "explanation": "Au po\u00e8te. - This stage direction indicates the addressee of a speech, which fits the category 'toward'.",
+      "stgdir": "Au po\u00e8te.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 27609.163761138916,
+  "model": "mistral-large-2407"
+}

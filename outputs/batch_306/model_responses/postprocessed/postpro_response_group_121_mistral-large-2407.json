@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1210,
+      "category": 10,
+      "explanation": "Il ramasse les pistolets. This stage direction involves interaction with objects (pistols).",
+      "stgdir": "Il ramasse les pistolets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1211,
+      "category": 9,
+      "explanation": "On entend un bruit de guerre. This stage direction narrates a sound effect (noise of war).",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1212,
+      "category": 6,
+      "explanation": "Les regardant tous en face. This stage direction involves non-verbal interaction (looking at others).",
+      "stgdir": "Les regardant tous en face.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1213,
+      "category": 8,
+      "explanation": "Air : Du haut en bas. This stage direction describes music.",
+      "stgdir": "Air : Du haut en bas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1214,
+      "category": 8,
+      "explanation": "Air : Des fraises. This stage direction describes music.",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1215,
+      "category": 12,
+      "explanation": "\u00c0 Marton. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marton.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1216,
+      "category": 9,
+      "explanation": "On n'entend pas le reste de la phrase. This stage direction narrates the inaudibility of a phrase.",
+      "stgdir": "On n'entend pas le reste de la phrase.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1217,
+      "category": 12,
+      "explanation": "\u00c0 Dormene. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Dormene.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1218,
+      "category": 10,
+      "explanation": "Elle lui donne l'habit. This stage direction involves interaction with an object (clothing).",
+      "stgdir": "Elle lui donne l'habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1219,
+      "category": 8,
+      "explanation": "AIR. De mon Berger volage. This stage direction describes music.",
+      "stgdir": "AIR. De mon Berger volage.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 14855.61466217041,
+  "model": "mistral-large-2407"
+}

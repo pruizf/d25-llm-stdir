@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 340,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air 135 : Les fanatiques,' which indicates a musical tune. This falls under the 'music' category.",
+      "stgdir": "Air 135 : Les fanatiques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 341,
+      "category": 5,
+      "explanation": "The stage direction 'Les deux Blanchet sortent' indicates that the characters are exiting the stage. This falls under the 'exit' category.",
+      "stgdir": "Les deux Blanchet sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 342,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Gillette' indicates the addressee of a speech. This falls under the 'toward' category.",
+      "stgdir": "\u00c0 Gillette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 343,
+      "category": 8,
+      "explanation": "The stage direction 'Air du bienheureux Lisandre' mentions a musical tune. This falls under the 'music' category.",
+      "stgdir": "Air du bienheureux Lisandre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 344,
+      "category": 4,
+      "explanation": "The stage direction 'Apercevant Monsieur Rossignol qui entre' indicates a character entering the stage. This falls under the 'entrance' category.",
+      "stgdir": "Apercevant Monsieur Rossignol qui entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 345,
+      "category": 10,
+      "explanation": "The stage direction 'Il d\u00e9chire le billet' involves interaction with an object (tearing a note). This falls under the 'object' category.",
+      "stgdir": "Il d\u00e9chire le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 346,
+      "category": 5,
+      "explanation": "The stage direction 'Elle rentre du m\u00eame c\u00f4t\u00e9' indicates a character exiting the stage. This falls under the 'exit' category.",
+      "stgdir": "Elle rentre du m\u00eame c\u00f4t\u00e9.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 347,
+      "category": 8,
+      "explanation": "The stage direction 'Air : La com\u00e9die est un miroir' mentions a musical tune. This falls under the 'music' category.",
+      "stgdir": "Air : La com\u00e9die est un miroir.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 348,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Roulant ma brouette' mentions a musical tune. This falls under the 'music' category.",
+      "stgdir": "Air : Roulant ma brouette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 349,
+      "category": 8,
+      "explanation": "The stage direction 'AIR : Par piti\u00e9 daignez vous rendre' mentions a musical tune. This falls under the 'music' category.",
+      "stgdir": "AIR : Par piti\u00e9 daignez vous rendre.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 20589.53285217285,
+  "model": "mistral-large-2407"
+}

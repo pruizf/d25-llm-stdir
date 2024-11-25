@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 840,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 841,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monr\u00e9al p\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 842,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Il parle \u00e0 sa femme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 843,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 844,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au Jeune Homme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 845,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 846,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 847,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Spartacus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 848,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Aux Grands.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 849,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la F\u00e9e.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 12667.519807815552,
+  "model": "mistral-large-2407"
+}

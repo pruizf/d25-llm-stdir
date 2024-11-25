@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "250",
+      "category": "4",
+      "explanation": "L'Oranger et l'Aub\u00e9pine paraissent au fond. (The Orange Tree and the Hawthorn appear in the back.) This indicates characters entering the stage.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "251",
+      "category": "5",
+      "explanation": "Ils sortent de la caverne. (They exit the cave.) This indicates characters exiting from a location.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "252",
+      "category": "4",
+      "explanation": "Ces deux divinit\u00e9s paraissent. (These two deities appear.) This indicates characters entering the stage.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "253",
+      "category": "4",
+      "explanation": "Entre Dergos. (Enter Dergos.) This indicates a character entering the stage.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "254",
+      "category": "4",
+      "explanation": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux. (Mithridate and Hypsicratee exit armed, and Mitridatie, Nise, and Berenice with them.) This indicates characters entering the stage.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "255",
+      "category": "4",
+      "explanation": "Elles entrent. (They enter.) This indicates characters entering the stage.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "256",
+      "category": "4",
+      "explanation": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre. (Timagenes re-enters the stage.) This indicates a character entering the stage.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "257",
+      "category": "7",
+      "explanation": "Les domestiques accourent. (The servants rush forward.) This indicates character movement but not an entrance or exit.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "258",
+      "category": "4",
+      "explanation": "L'Exempt et ses Gardes arrivent. (The Exempt and his Guards arrive.) This indicates characters entering the stage.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "259",
+      "category": "4",
+      "explanation": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite. (They enter from two different sides of the stage; Pasquin first, and walking very quickly.) This indicates characters entering the stage and includes additional movement details.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 21169.71230506897,
+  "model": "mistral-large-2407"
+}

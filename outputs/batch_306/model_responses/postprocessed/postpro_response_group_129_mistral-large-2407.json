@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1290,
+      "category": 0,
+      "explanation": "The stage direction 'Apr\u00e8s avoir bu.' describes a general character action of drinking, which fits into the 'action' category.",
+      "stgdir": "Apr\u00e8s avoir bu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1291,
+      "category": 4,
+      "explanation": "The stage direction 'Ils entrent en sc\u00e8ne.' describes characters entering the stage, which fits into the 'entrance' category.",
+      "stgdir": "Ils entrent en sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1292,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 M\u00e9gabise.' indicates the addressee of a speech, which fits into the 'toward' category.",
+      "stgdir": "\u00c0 M\u00e9gabise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1293,
+      "category": 7,
+      "explanation": "The stage direction 'Elle l\u00e8ve la t\u00eate.' describes a character movement of lifting the head, which fits into the 'movement' category.",
+      "stgdir": "Elle l\u00e8ve la t\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1294,
+      "category": 9,
+      "explanation": "The stage direction 'D\u00c9CORATION DU PROLOGUE. ...' is a long stage direction with narrative quality, intended for readers, which fits into the 'narration' category.",
+      "stgdir": "D\u00c9CORATION DU PROLOGUE. L'heureux mariage de Sa Majest\u00e9, et la paix qu'il lui a pu donner \u00e0 ses peuples, ayant \u00e9t\u00e9 les motifs de la r\u00e9jouissance publique pour laquelle cette trag\u00e9die a \u00e9t\u00e9 pr\u00e9par\u00e9e, non seulement il \u00e9tait juste qu'ils servissent de sujet au prologue qui la pr\u00e9c\u00e8de, mais il \u00e9tait m\u00eame absolument impossible d'en choisir une plus illustre mati\u00e8re. L'ouverture du th\u00e9\u00e2tre fait voir un pays ruin\u00e9 par les guerres, et termin\u00e9 dans son enfoncement par une ville qui n'en est pas mieux trait\u00e9e, ce qui marque le pitoyable \u00e9tat ou la France \u00e9tait r\u00e9duite avant cette faveur du ciel, qu'elle a si longtemps souhait\u00e9e, et dont la bont\u00e9 de son g\u00e9n\u00e9reux monarque la fait jouir \u00e0 pr\u00e9sent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1295,
+      "category": 10,
+      "explanation": "The stage direction 'Elle lui donne un billet.' describes a character giving an object, which fits into the 'object' category.",
+      "stgdir": "Elle lui donne un billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1296,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 LISANDRE.' indicates the addressee of a speech, which fits into the 'toward' category.",
+      "stgdir": "\u00c0 LISANDRE.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1297,
+      "category": 6,
+      "explanation": "The stage direction 'Il lui pose sa cha\u00eene sur le cou.' describes a non-verbal character interaction of placing a chain on someone's neck, which fits into the 'interaction' category.",
+      "stgdir": "Il lui pose sa cha\u00eene sur le cou.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1298,
+      "category": 8,
+      "explanation": "The stage direction 'Air 5 : Quand le p\u00e9ril est agr\u00e9able.' describes a tune name, which fits into the 'music' category.",
+      "stgdir": "Air 5 : Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1299,
+      "category": 8,
+      "explanation": "The stage direction 'on entand une symphonie qui \u00e9clate' describes a music direction, which fits into the 'music' category.",
+      "stgdir": "on entand une symphonie qui \u00e9clate",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 19446.250677108765,
+  "model": "mistral-large-2407"
+}

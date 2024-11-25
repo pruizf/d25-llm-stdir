@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1970,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifying the location as 'Le palais du roi' (The king's palace).",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1971,
+      "category": 10,
+      "explanation": "This stage direction describes the character taking flowers from a drawer, which is an interaction with an object.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1972,
+      "category": 9,
+      "explanation": "This stage direction has a narrative quality, describing a sequence of actions and the unnoticed entrance of Mouravieff, making it suitable for the narration category.",
+      "stgdir": "Il l\u00e8ve les yeux et voit Mouravieff qui est entr\u00e9 sans qu'il l'ait entendu, et qui est debout immobile aupr\u00e8s de lui.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1973,
+      "category": 7,
+      "explanation": "This stage direction describes the character falling to his knees, which is a movement.",
+      "stgdir": "Il se jette \u00e0 genoux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1974,
+      "category": 10,
+      "explanation": "This stage direction describes the character presenting an object (a piece) to Varade, which is an interaction with an object.",
+      "stgdir": "Pr\u00e9sentant un morceau \u00e0 Varade.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1975,
+      "category": 10,
+      "explanation": "This stage direction describes the character presenting a feather, which is an interaction with an object.",
+      "stgdir": "En lui pr\u00e9sentant la plume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1976,
+      "category": 9,
+      "explanation": "This stage direction describes the sound of weapons, which is a narrative description of a noise.",
+      "stgdir": "L'on entend un bruit d'armes.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1977,
+      "category": 6,
+      "explanation": "This stage direction describes the character speaking to Sicandre, which is a non-verbal interaction.",
+      "stgdir": "Elle parle \u00e0 Sicandre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1978,
+      "category": 6,
+      "explanation": "This stage direction describes the character taking the hands of Clarice and the Chevalier, which is a non-verbal interaction.",
+      "stgdir": "Elle prend les mains de Clarice et du Chevalier, en disant \u00e0 la Dame :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1979,
+      "category": 10,
+      "explanation": "This stage direction describes the character giving Cl\u00e9andre's promise, which is an interaction with an object.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 17809.751510620117,
+  "model": "mistral-large-2407"
+}

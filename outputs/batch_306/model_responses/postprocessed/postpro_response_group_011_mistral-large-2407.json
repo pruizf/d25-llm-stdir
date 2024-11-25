@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "110",
+      "category": "1",
+      "explanation": "This stage direction involves violent action ('donnent plusieurs coups de b\u00e2ton') and is related to aggression.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "111",
+      "category": "8",
+      "explanation": "This stage direction refers to music ('Symphonie').",
+      "stgdir": "Symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "112",
+      "category": "3",
+      "explanation": "This stage direction is related to the delivery of a song ('Aux Couplets').",
+      "stgdir": "Aux Couplets.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "113",
+      "category": "3",
+      "explanation": "This stage direction is related to the delivery of a song ('CHANSON').",
+      "stgdir": "CHANSON, sur le chant de \"Las qui h\u00e2tera le temps\".",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "114",
+      "category": "4",
+      "explanation": "This stage direction indicates the entrance of a character ('Staphyla rentre').",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "115",
+      "category": "8",
+      "explanation": "This stage direction refers to music ('Air : Tout roule aujourd'hui').",
+      "stgdir": "Air : Tout roule aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "116",
+      "category": "10",
+      "explanation": "This stage direction involves the character interacting with an object ('prend son chapeau').",
+      "stgdir": "Il prend son chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "117",
+      "category": "5",
+      "explanation": "This stage direction indicates the exit of a character ('se l\u00e8ve pour sortir').",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "118",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech ('\u00c0 Nour').",
+      "stgdir": "\u00c0 Nour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "119",
+      "category": "6",
+      "explanation": "This stage direction involves non-verbal interaction between characters ('Nicaise finit une chanson \u00e0 une paysanne qui le fuit').",
+      "stgdir": "Nicaise finit une chanson \u00e0 une paysanne qui le fuit.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 15830.835580825806,
+  "model": "mistral-large-2407"
+}

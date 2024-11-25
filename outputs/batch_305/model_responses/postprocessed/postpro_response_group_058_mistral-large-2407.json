@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "580",
+      "category": "8",
+      "explanation": "The stage direction mentions 'AIR' and the name of the tune, which fits the 'music' category.",
+      "stgdir": "AIR : Jupin d\u00e8s le matin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "581",
+      "category": "8",
+      "explanation": "The stage direction mentions 'AIR' and the name of the tune, which fits the 'music' category.",
+      "stgdir": "AIR : Changement pique l'app\u00e9tit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "582",
+      "category": "8",
+      "explanation": "The stage direction describes an 'Air op\u00e9ra,' which fits the 'music' category.",
+      "stgdir": "Air op\u00e9ra, fin de la quatri\u00e8me sc\u00e8ne de la premi\u00e8re entr\u00e9e",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "583",
+      "category": "8",
+      "explanation": "The stage direction mentions 'AIR' and the name of the tune, which fits the 'music' category.",
+      "stgdir": "AIR : Les filles sont si sottes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "584",
+      "category": "8",
+      "explanation": "The stage direction mentions 'Air 107' and the name of the tune, which fits the 'music' category.",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "585",
+      "category": "8",
+      "explanation": "The stage direction mentions 'Air' and the name of the tune, which fits the 'music' category.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "586",
+      "category": "8",
+      "explanation": "The stage direction mentions 'Air' and the name of the tune, which fits the 'music' category.",
+      "stgdir": "Air : Vaudeville de Jean Monnet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "587",
+      "category": "9",
+      "explanation": "The stage direction describes a general uproar, which fits the 'narration' category as it provides context for the scene.",
+      "stgdir": "Toll\u00e9 g\u00e9n\u00e9ral.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "588",
+      "category": "9",
+      "explanation": "The stage direction provides a narrative description of a sequence of actions, which fits the 'narration' category.",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "589",
+      "category": "9",
+      "explanation": "The stage direction provides a narrative description of a sequence of actions, which fits the 'narration' category.",
+      "stgdir": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 18414.039611816406,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2600,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of the character arranging flowers in her hair while looking at herself in a stream. This falls under general character action.",
+      "stgdir": "Elle semble se mirer dans un ruisseau en arrangeant les fleurs dans ses cheveux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2601,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction where characters approach and embrace Dormel. This involves touching and is a clear example of non-verbal interaction.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2602,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, referring to 'Voyant Maximin.' This indicates toward whom the speech is directed.",
+      "stgdir": "Voyant Maximin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2603,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, referring to 'Au Sauvage.' This indicates toward whom the speech is directed.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2604,
+      "category": 3,
+      "explanation": "The stage direction describes the manner of delivery, '\u00c0 mi-voix,' which means 'in a half-voice' or 'softly.' This is related to vocal expression.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2605,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of the character removing an object and reading it. This falls under general character action.",
+      "stgdir": "Il l'\u00f4te et lit :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2606,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction where the character points out Florange. This involves pointing and is a clear example of non-verbal interaction.",
+      "stgdir": "Il montre Florange.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2607,
+      "category": 7,
+      "explanation": "The stage direction describes a character movement, 'Il saute,' which means 'he jumps.' This falls under character movement.",
+      "stgdir": "Il saute.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2608,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of the character reading one of the notes that Livie gave him. This falls under general character action.",
+      "stgdir": "Il lit un des billets que Livie lui a rendus.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2609,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, referring to 'Aux Esprits.' This indicates toward whom the speech is directed.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 33255.419969558716,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 860,
+      "category": 12,
+      "explanation": "Il s'adresse \u00e0 Ragotin. The stage direction indicates the addressee of a speech.",
+      "stgdir": "Il s'adresse \u00e0 Ragotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 861,
+      "category": 12,
+      "explanation": "\u00c0 Alcm\u00e8ne. The stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 862,
+      "category": 12,
+      "explanation": "\u00c0 Rosbif. The stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Rosbif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 863,
+      "category": 12,
+      "explanation": "\u00c0 ses gardes. The stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 ses gardes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 864,
+      "category": 12,
+      "explanation": "\u00c0 Omphale. The stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Omphale.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 865,
+      "category": 6,
+      "explanation": "Il interroge Zinca. The stage direction indicates a non-verbal interaction (interrogation).",
+      "stgdir": "Il interroge Zinca.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 866,
+      "category": 3,
+      "explanation": "Haut \u00e0 Fanchette. The stage direction indicates a delivery manner (speaking loudly).",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 867,
+      "category": 12,
+      "explanation": "\u00c0 un de ses suivants. The stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 un de ses suivants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 868,
+      "category": 12,
+      "explanation": "\u00c0 son cheval. The stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 869,
+      "category": 12,
+      "explanation": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher. The stage direction indicates the addressee of a speech.",
+      "stgdir": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 16192.58427619934,
+  "model": "mistral-large-2407"
+}

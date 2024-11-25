@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2230,
+      "category": 4,
+      "explanation": "Ici Phalante para\u00eet. - This stage direction indicates that Phalante enters the stage, so it fits the 'entrance' category.",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2231,
+      "category": 5,
+      "explanation": "Les choristes se retirent. - This stage direction indicates that the chorists exit the stage, so it fits the 'exit' category.",
+      "stgdir": "Les choristes se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2232,
+      "category": 7,
+      "explanation": "Il s'assoit pr\u00e8s de Philippe. - This stage direction indicates a character's movement to sit near Philippe, so it fits the 'movement' category.",
+      "stgdir": "Il s'assoit pr\u00e8s de Philippe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2233,
+      "category": 7,
+      "explanation": "Fran\u00e7ois va vers la fen\u00eatre. - This stage direction indicates a character's movement towards the window, so it fits the 'movement' category.",
+      "stgdir": "Fran\u00e7ois va vers la fen\u00eatre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2234,
+      "category": 9,
+      "explanation": "Il se fait un grand bruit sous le th\u00e9\u00e2tre. - This stage direction narrates a noise that occurs, so it fits the 'narration' category.",
+      "stgdir": "Il se fait un grand bruit sous le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2235,
+      "category": 6,
+      "explanation": "Tous les com\u00e9diens l'entourent. - This stage direction indicates a non-verbal interaction where all the actors surround someone, so it fits the 'interaction' category.",
+      "stgdir": "Tous les com\u00e9diens l'entourent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2236,
+      "category": 10,
+      "explanation": "Il ouvre l'\u00e9crin. - This stage direction indicates an interaction with an object (opening a case), so it fits the 'object' category.",
+      "stgdir": "Il ouvre l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2237,
+      "category": 4,
+      "explanation": "Entre Pierre Strozzi. - This stage direction indicates that Pierre Strozzi enters the stage, so it fits the 'entrance' category.",
+      "stgdir": "Entre Pierre Strozzi.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2238,
+      "category": 8,
+      "explanation": "Air op\u00e9ra, fin de la quatri\u00e8me sc\u00e8ne de la premi\u00e8re entr\u00e9e - This stage direction describes music, so it fits the 'music' category.",
+      "stgdir": "Air op\u00e9ra, fin de la quatri\u00e8me sc\u00e8ne de la premi\u00e8re entr\u00e9e",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2239,
+      "category": 2,
+      "explanation": "\u00c0 part, avec ironie. - This stage direction indicates an aside with irony, so it fits the 'aparte' category.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    }
+  ],
+  "response_time": 18526.981115341187,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1870,
+      "category": 10,
+      "explanation": "Regardant \u00e0 sa montre. - This indicates interaction with an object (a watch), so it falls under the 'object' category.",
+      "stgdir": "Regardant \u00e0 sa montre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1871,
+      "category": 7,
+      "explanation": "Il entend de Porcie. - This implies movement or action related to listening, so it falls under 'movement'.",
+      "stgdir": "Il entend de Porcie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1872,
+      "category": 4,
+      "explanation": "Domitian entre. - This indicates a character entering the stage, so it falls under 'entrance'.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1873,
+      "category": 8,
+      "explanation": "Air : Vivre sans amour. - This is a music description, so it falls under 'music'.",
+      "stgdir": "Air : Vivre sans amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1874,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change, et repr\u00e9sente les Champs \u00c9lys\u00e9es. - This describes a change in the stage setting, so it falls under 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre change, et repr\u00e9sente les Champs \u00c9lys\u00e9es.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1875,
+      "category": 4,
+      "explanation": "Entr\u00e9e de ballet de trois Pantomimes. - This indicates characters entering the stage, so it falls under 'entrance'.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1876,
+      "category": 12,
+      "explanation": "\u00c0 La Baronne. - This indicates the addressee of a speech, so it falls under 'toward'.",
+      "stgdir": "\u00c0 La Baronne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1877,
+      "category": 4,
+      "explanation": "ENTR\u00c9E. - This indicates a character entering the stage, so it falls under 'entrance'.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1878,
+      "category": 3,
+      "explanation": "Avec col\u00e8re. - This describes the delivery manner of the character, showing anger, so it falls under 'delivery'.",
+      "stgdir": "Avec col\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1879,
+      "category": 7,
+      "explanation": "Il revient encore. - This indicates movement of the character, so it falls under 'movement'.",
+      "stgdir": "Il revient encore.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 23203.97663116455,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1830",
+      "category": "5",
+      "explanation": "La Ram\u00e9e s'enfuit. - This describes a character exiting the stage.",
+      "stgdir": "La Ram\u00e9e s'enfuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1831",
+      "category": "8",
+      "explanation": "AIR. (Je ne suis n\u00e9 ni Roi ni Prince.) - This indicates a tune name, which is a music stage direction.",
+      "stgdir": "AIR. (Je ne suis n\u00e9 ni Roi ni Prince.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1832",
+      "category": "12",
+      "explanation": "\u00c0 Ag\u00e9nor. - This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ag\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1833",
+      "category": "6",
+      "explanation": "Figaro passe le linge au cou de Bartholo. - This describes a non-verbal interaction between characters.",
+      "stgdir": "Figaro passe le linge au cou de Bartholo.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1834",
+      "category": "5",
+      "explanation": "S'en allant. - This describes a character exiting the stage.",
+      "stgdir": "S'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1835",
+      "category": "0",
+      "explanation": "Le Comte sied dans un fauteuil. - This describes a general character action of sitting down.",
+      "stgdir": "Le Comte sied dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1836",
+      "category": "7",
+      "explanation": "Rosa se rel\u00e8ve. - This describes a character movement of standing up.",
+      "stgdir": "Rosa se rel\u00e8ve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1837",
+      "category": "10",
+      "explanation": "\u00d4tant ses bottes et mettant des pantoufles. - This describes a character's interaction with objects (boots and slippers).",
+      "stgdir": "\u00d4tant ses bottes et mettant des pantoufles.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1838",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un salon. Une porte au milieu et d'autres sur les c\u00f4t\u00e9s. L'action se passe le matin. - This describes the stage setting and play location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon. Une porte au milieu et d'autres sur les c\u00f4t\u00e9s. L'action se passe le matin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1839",
+      "category": "3",
+      "explanation": "Il chante avec l'\u00e9colier. - This describes the character singing, which is a form of delivery.",
+      "stgdir": "Il chante avec l'\u00e9colier.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 17187.374353408813,
+  "model": "mistral-large-2407"
+}

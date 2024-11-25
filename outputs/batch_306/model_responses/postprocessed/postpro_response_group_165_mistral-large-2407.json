@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1650,
+      "category": 6,
+      "explanation": "Il lui parle \u00e0 l'oreille. - Non-verbal character interaction (whispering in the ear).",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1651,
+      "category": 0,
+      "explanation": "Apercevant d'Herbain. - General character action (seeing/noticing someone).",
+      "stgdir": "Apercevant d'Herbain.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1652,
+      "category": 6,
+      "explanation": "Il lui baise les mains. - Non-verbal character interaction (kissing hands).",
+      "stgdir": "Il lui baise les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1653,
+      "category": 5,
+      "explanation": "Germon sort. - Character exits.",
+      "stgdir": "Germon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1654,
+      "category": 10,
+      "explanation": "Elle lui montre un coeur de diamant. - Character's interaction with an object (showing a diamond heart).",
+      "stgdir": "Elle lui montre un coeur de diamant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1655,
+      "category": 11,
+      "explanation": "La chambre de C\u00e9sar s'ouvre. - Stage description (Cesar's room opening).",
+      "stgdir": "La chambre de C\u00e9sar s'ouvre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1656,
+      "category": 9,
+      "explanation": "C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers. - Long stage direction with narrative quality.",
+      "stgdir": "C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1657,
+      "category": 7,
+      "explanation": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse. - Character movement (going to stand between L\u00e9lie and his mistress).",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1658,
+      "category": 8,
+      "explanation": "AIR. S\u00fbre de ta foi. - Music description (name of the tune).",
+      "stgdir": "AIR. S\u00fbre de ta foi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1659,
+      "category": 8,
+      "explanation": "Air 75 : Un petit moment plus tard. - Music description (name of the tune).",
+      "stgdir": "Air 75 : Un petit moment plus tard.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 16868.842124938965,
+  "model": "mistral-large-2407"
+}

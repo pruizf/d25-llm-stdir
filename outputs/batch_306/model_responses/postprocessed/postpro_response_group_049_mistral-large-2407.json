@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "490",
+      "category": "10",
+      "explanation": "The stage direction describes Subtil taking a handkerchief from his pocket and preparing to blow his nose, which involves interaction with an object.",
+      "stgdir": "Subtil tire un mouchoir blanc de sa poche, et est pr\u00eat de se moucher.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "491",
+      "category": "8",
+      "explanation": "The stage direction indicates the name of a tune, which is a music description.",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "492",
+      "category": "3",
+      "explanation": "The stage direction describes the manner of delivery, specifically a stifled cry.",
+      "stgdir": "Avec un cri \u00e9touff\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "493",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of a speech, specifically 'Au p\u00e8re de famille' (to the father of the family).",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "494",
+      "category": "11",
+      "explanation": "The stage direction describes the setting or location, specifically at the railing.",
+      "stgdir": "\u00c0 la balustrade.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "495",
+      "category": "7",
+      "explanation": "The stage direction describes a movement, specifically a gesture to move away.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "496",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where multiple characters are speaking together.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "497",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of the character 'Le chevalier', who enters soaked ('ruisselant').",
+      "stgdir": "Le chevalier rentre, ruisselant.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "498",
+      "category": "3",
+      "explanation": "The stage direction describes the manner of delivery, specifically speaking loudly but in a low and obsequious tone.",
+      "stgdir": "Haut, d'un ton bas et rampant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "499",
+      "category": "9",
+      "explanation": "The stage direction is a long narrative description intended for readers, detailing the actions of the Ogres and Arlequin, including their movements and interactions.",
+      "stgdir": "Les Ogres se prosternent devant Arlequin. Ensuite ils se rangent en deux files, accroupis, ayant les coudes sur les genoux, et les deux poings sous le menton. Un vieillard s'avance et pr\u00e9sente \u00e0 genoux une couronne \u00e0 Arlequin, qui fait ses lazzis.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 15832.479238510132,
+  "model": "mistral-large-2407"
+}

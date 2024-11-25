@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 520,
+      "category": 4,
+      "explanation": "Marton para\u00eet. - This stage direction indicates that Marton enters the stage, which fits the definition of category 4 (entrance).",
+      "stgdir": "Marton para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 521,
+      "category": 3,
+      "explanation": "Patrice chante. - This stage direction indicates that Patrice sings, which fits the definition of category 3 (delivery).",
+      "stgdir": "Patrice chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 522,
+      "category": 9,
+      "explanation": "L'ouverture se fait par \u00c9raste... - This stage direction is a long narrative description intended for readers, which fits the definition of category 9 (narration).",
+      "stgdir": "L'ouverture se fait par \u00c9raste, qui conduit un grand concert, de voix et d'instruments, pour une s\u00e9r\u00e9nade, dont les paroles chant\u00e9es par trois voix en mani\u00e8re de dialogue, sont faites sur le sujet de la com\u00e9die, et expriment les sentiments de deux amants, qui, \u00e9tant bien ensemble, sont travers\u00e9s par le caprice des parents.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 523,
+      "category": 8,
+      "explanation": "AIR : du Libera de la Bourbonnoise. - This stage direction describes a tune name, which fits the definition of category 8 (music).",
+      "stgdir": "AIR : du Libera de la Bourbonnoise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 524,
+      "category": 4,
+      "explanation": "Le m\u00e9decin Louis XV s'avance. - This stage direction indicates that the doctor Louis XV enters the stage, which fits the definition of category 4 (entrance).",
+      "stgdir": "Le m\u00e9decin Louis XV s'avance.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 525,
+      "category": 9,
+      "explanation": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re... - This stage direction is a long narrative description intended for readers, which fits the definition of category 9 (narration).",
+      "stgdir": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s,",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 526,
+      "category": 6,
+      "explanation": "Il lui envoie des baisers. - This stage direction indicates a non-verbal interaction of sending kisses, which fits the definition of category 6 (interaction).",
+      "stgdir": "Il lui envoie des baisers.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 527,
+      "category": 5,
+      "explanation": "Edwige sort. - This stage direction indicates that Edwige exits the stage, which fits the definition of category 5 (exit).",
+      "stgdir": "Edwige sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 528,
+      "category": 12,
+      "explanation": "\u00c0 Asser. - This stage direction indicates the addressee of a speech, which fits the definition of category 12 (toward).",
+      "stgdir": "\u00c0 Asser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 529,
+      "category": 12,
+      "explanation": "\u00c0 Nanine. - This stage direction indicates the addressee of a speech, which fits the definition of category 12 (toward).",
+      "stgdir": "\u00c0 Nanine.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 23455.259799957275,
+  "model": "mistral-large-2407"
+}

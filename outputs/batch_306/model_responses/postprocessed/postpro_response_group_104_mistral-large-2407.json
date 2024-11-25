@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1040,
+      "category": 10,
+      "explanation": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue. This involves handling and manipulating objects (money and songs).",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1041,
+      "category": 12,
+      "explanation": "\u00c0 Gaston. Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1042,
+      "category": 12,
+      "explanation": "\u00c0 Villebrequin. Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Villebrequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1043,
+      "category": 7,
+      "explanation": "Elles retournent \u00e0 leur place. Describes character movement (but not exit/entrance).",
+      "stgdir": "Elles retournent \u00e0 leur place.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1044,
+      "category": 9,
+      "explanation": "Apollon descend sur un tr\u00f4ne de lumi\u00e8re. Cette pompe est jointe \u00e0 une musique douce. Il est entour\u00e9 des Heures, qui chantent ces mots. This is a long stage direction with narrative quality, intended for readers.",
+      "stgdir": "Apollon descend sur un tr\u00f4ne de lumi\u00e8re. Cette pompe est jointe \u00e0 une musique douce. Il est entour\u00e9 des Heures, qui chantent ces mots.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1045,
+      "category": 8,
+      "explanation": "AIR. Mon Papa toute la nuit. Describes music, specifically a tune name.",
+      "stgdir": "AIR. Mon Papa toute la nuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1046,
+      "category": 11,
+      "explanation": "Chez la marquise. Describes the play location, a setting.",
+      "stgdir": "Chez la marquise.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1047,
+      "category": 0,
+      "explanation": "Il l'ouvre. General character action (opening something).",
+      "stgdir": "Il l'ouvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1048,
+      "category": 1,
+      "explanation": "Dorante veut tirer son \u00e9p\u00e9e. Describes a violent action (attempting to draw a sword).",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1049,
+      "category": 10,
+      "explanation": "Billet d'Alcipe \u00e0 L\u00e9andre. Describes an object (a note from Alcipe to L\u00e9andre).",
+      "stgdir": "Billet d'Alcipe \u00e0 L\u00e9andre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 18280.210971832275,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,69 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 550,
+      "category": 9,
+      "explanation": "This stage direction describes a sequence of actions and events, including movements, interactions, and reactions of multiple characters. It has a narrative quality intended for readers, fitting the 'narration' category.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 551,
+      "category": 10,
+      "explanation": "The stage direction 'Montrant le manuscrit.' describes the action of showing an object (a manuscript), which fits the 'object' category.",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 552,
+      "category": 5,
+      "explanation": "The stage direction 'Les gar\u00e7ons disparaissent.' describes characters exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Montrant le manuscrit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 553,
+      "category": 6,
+      "explanation": "The stage direction 'Antoine le tire par son habit.' describes a non-verbal interaction where one character pulls another by their coat, fitting the 'interaction' category.",
+      "stgdir": "Les gar\u00e7ons disparaissent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 554,
+      "category": 8,
+      "explanation": "The stage direction 'AIR. ( Attende-moi sous l'Orme. )' indicates a musical tune, fitting the 'music' category.",
+      "stgdir": "Antoine le tire par son habit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 555,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Vaud[e]v[ille] d'Abuzar.' indicates a musical tune, fitting the 'music' category.",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 556,
+      "category": 8,
+      "explanation": "The stage direction 'AIR Dans un Couvent bien-heureux.' indicates a musical tune, fitting the 'music' category.",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 557,
+      "category": 9,
+      "explanation": "This stage direction describes a sequence of actions and events, including the General's instructions and plans. It has a narrative quality intended for readers, fitting the 'narration' category.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 558,
+      "category": 1,
+      "explanation": "The stage direction 'Harpag\u00eame se met dans le pi\u00e8ge.' describes a character getting into a trap, which can be interpreted as a form of aggression or threat, fitting the 'aggression' category.",
+      "stgdir": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 21360.91160774231,
+  "model": "mistral-large-2407"
+}

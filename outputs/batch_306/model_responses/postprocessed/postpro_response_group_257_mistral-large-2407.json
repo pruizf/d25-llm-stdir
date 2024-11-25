@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2570,
+      "category": 6,
+      "explanation": "Montrant les Muses - This stage direction indicates non-verbal interaction, as the character is showing the Muses.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2571,
+      "category": 2,
+      "explanation": "Il se parle \u00e0 lui-m\u00eame - This stage direction indicates an aside, as the character is speaking to himself.",
+      "stgdir": "Il se parle \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 2572,
+      "category": 12,
+      "explanation": "Aux filles et aux gar\u00e7ons - This stage direction indicates the addressees of a speech.",
+      "stgdir": "Aux filles et aux gar\u00e7ons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2573,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente le palais du grand sacrificateur de Cyb\u00e8le - This stage direction describes the setting or stage location.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le palais du grand sacrificateur de Cyb\u00e8le.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2574,
+      "category": 2,
+      "explanation": "[Th\u00e9s\u00e9e fait un apart\u00e9 en pensant \u00e0 \u00c9g\u00e9e] - This stage direction indicates an aside, as Th\u00e9s\u00e9e is speaking aside while thinking about \u00c9g\u00e9e.",
+      "stgdir": "[Th\u00e9s\u00e9e fait un apart\u00e9 en pensant \u00e0 \u00c9g\u00e9e].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 2575,
+      "category": 12,
+      "explanation": "\u00c0 Madame de Lucenay - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame de Lucenay.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2576,
+      "category": 7,
+      "explanation": "Eug\u00e9nie fait un mouvement - This stage direction indicates character movement.",
+      "stgdir": "Eug\u00e9nie fait un mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2577,
+      "category": 10,
+      "explanation": "Elle l\u00e8ve sa coiffe - This stage direction describes the character's interaction with an object, specifically lifting her coiffe.",
+      "stgdir": "Elle l\u00e8ve sa coiffe.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2578,
+      "category": 12,
+      "explanation": "\u00c0 Albin - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Albin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2579,
+      "category": 8,
+      "explanation": "AIR : D'une main je tiens mon pot - This stage direction indicates music, specifically the name of a tune.",
+      "stgdir": "AIR : D'une main je tiens mon pot.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 24344.889163970947,
+  "model": "mistral-large-2407"
+}

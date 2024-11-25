@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1470,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mme Vigneron.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1471,
+      "category": 5,
+      "explanation": "Character exits (Le Facteur s'en va).",
+      "stgdir": "Le Facteur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1472,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (Madeleine chancelle, Pierrette la retient dans ses bras).",
+      "stgdir": "Madeleine, qui est rest\u00e9e la derni\u00e8re avec Pierrette, chancelle au moment de sortir ; Pierrette la retient dans ses bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1473,
+      "category": 0,
+      "explanation": "General character action (Il lit les requ\u00eates).",
+      "stgdir": "Il lit les requ\u00eates.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1474,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (Il parle au Chevalier).",
+      "stgdir": "Il parle au Chevalier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1475,
+      "category": 8,
+      "explanation": "Music description (Air 178 : Ah ! Quel plaisir lorsqu'apr\u00e8s mille alarmes).",
+      "stgdir": "Air 178 : Ah ! Quel plaisir lorsqu'apr\u00e8s mille alarmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1476,
+      "category": 8,
+      "explanation": "Music description (dialogue en musique, choeur entier de la musique).",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1477,
+      "category": 0,
+      "explanation": "General character action (Apercevant sa femme).",
+      "stgdir": "Apercevant sa femme.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1478,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object (Tirant un portefeuille de sa poche).",
+      "stgdir": "Tirant un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1479,
+      "category": 11,
+      "explanation": "Stage description or play location (LE MOINEAU EN CAGE).",
+      "stgdir": "LE MOINEAU EN CAGE.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 15742.776870727539,
+  "model": "mistral-large-2407"
+}

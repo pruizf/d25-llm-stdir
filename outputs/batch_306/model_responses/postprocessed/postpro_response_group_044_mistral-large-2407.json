@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 440,
+      "category": 8,
+      "explanation": "The stage direction indicates a musical piece, which fits the 'music' category.",
+      "stgdir": "Air : Du partage de la richesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 441,
+      "category": 6,
+      "explanation": "The stage direction describes a character retaining someone by the arm, which is a non-verbal interaction.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 442,
+      "category": 10,
+      "explanation": "The stage direction describes a character pulling paper from a pot, which is an interaction with an object.",
+      "stgdir": "Il tire du papier mou de son pot.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 443,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 444,
+      "category": 8,
+      "explanation": "The stage direction indicates a musical piece, which fits the 'music' category.",
+      "stgdir": "Air : Menuet d'Exaudet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 445,
+      "category": 5,
+      "explanation": "The stage direction describes a character exiting, which fits the 'exit' category.",
+      "stgdir": "C\u00e9sario sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 446,
+      "category": 11,
+      "explanation": "The stage direction describes a setting or stage description, which fits the 'setting' category.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 447,
+      "category": 10,
+      "explanation": "The stage direction describes a character interacting with an object (a vase and a billet), which fits the 'object' category.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 448,
+      "category": 5,
+      "explanation": "The stage direction describes a character exiting, which fits the 'exit' category.",
+      "stgdir": "N\u00e9restan sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 449,
+      "category": 8,
+      "explanation": "The stage direction indicates a musical piece, which fits the 'music' category.",
+      "stgdir": "AIR ( Le Cabaret est mon r\u00e9duit. )",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17290.131092071533,
+  "model": "mistral-large-2407"
+}

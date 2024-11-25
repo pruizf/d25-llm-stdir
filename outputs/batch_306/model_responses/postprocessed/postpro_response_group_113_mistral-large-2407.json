@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1130",
+      "category": "9",
+      "explanation": "This stage direction describes a noise event, which fits the category of narration.",
+      "stgdir": "Une effroyable clameur se fait entendre au dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1131",
+      "category": "5",
+      "explanation": "The verb 'sort' indicates an exit, which fits the category of exit.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1132",
+      "category": "10",
+      "explanation": "The stage direction describes the character interacting with an object (gobelet), which fits the category of object.",
+      "stgdir": "Elle prend le gobelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1133",
+      "category": "11",
+      "explanation": "This is a detailed description of the setting and location, which fits the category of setting.",
+      "stgdir": "Un patio du palais de Silva. \u00c0 gauche, les grands murs du palais, avec une fen\u00eatre \u00e0 balcon. Au-dessous de la fen\u00eatre, une petite porte. \u00c0 droite et au fond, des maisons et des rues. - Il est nuit. - On voit briller \u00e7\u00e0 et l\u00e0, aux fa\u00e7ades des \u00e9difices, quelques fen\u00eatres encore \u00e9clair\u00e9es.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1134",
+      "category": "5",
+      "explanation": "The verb 'se retire' indicates an exit, which fits the category of exit.",
+      "stgdir": "Hersile se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1135",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action (not moving), which fits the category of action.",
+      "stgdir": "Personne ne bouge.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1136",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of a speech, which fits the category of toward.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1137",
+      "category": "8",
+      "explanation": "The stage direction describes music being played, which fits the category of music.",
+      "stgdir": "Les Symphonistes jouent une Ritournelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1138",
+      "category": "11",
+      "explanation": "This is a detailed description of the setting and location, which fits the category of setting.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1139",
+      "category": "11",
+      "explanation": "This is a detailed description of the setting and location, which fits the category of setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le camp de Washington, on voit la tente de ce g\u00e9n\u00e9ral.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 16202.249765396118,
+  "model": "mistral-large-2407"
+}

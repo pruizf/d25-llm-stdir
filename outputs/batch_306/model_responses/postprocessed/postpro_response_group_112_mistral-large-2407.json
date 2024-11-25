@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1120,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Arsino\u00e9.' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Arsino\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1121,
+      "category": 9,
+      "explanation": "The stage direction 'Un bruit de clef dans la serrure de l'antichambre.' has a narrative quality intended for readers, describing a noise.",
+      "stgdir": "Un bruit de clef dans la serrure de l'antichambre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1122,
+      "category": 11,
+      "explanation": "The stage direction 'D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.' describes the stage setting or play location.",
+      "stgdir": "D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1123,
+      "category": 8,
+      "explanation": "The stage direction 'La musique continue.' describes the continuation of music, indicating a music description.",
+      "stgdir": "La musique continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1124,
+      "category": 7,
+      "explanation": "The stage direction 'Ils se sauvent.' describes character movement, specifically characters running away.",
+      "stgdir": "Ils se sauvent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1125,
+      "category": 8,
+      "explanation": "The stage direction 'AIR. Tu croyais en aimant Colette.' starts with 'AIR' and provides the name of the tune, indicating a music stage direction.",
+      "stgdir": "AIR. Tu croyais en aimant Colette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1126,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Madame Abraham, en allant l'embrasser.' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame Abraham, en allant l'embrasser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1127,
+      "category": 5,
+      "explanation": "The stage direction 'Oloodeme et Eristene se retirent.' describes characters exiting the stage.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1128,
+      "category": 10,
+      "explanation": "The stage direction 'Il examine les papiers.' describes a character's interaction with an object, specifically examining papers.",
+      "stgdir": "Il examine les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1129,
+      "category": 8,
+      "explanation": "The stage direction 'AIR. Contre un engagement, etc.' starts with 'AIR' and provides the name of the tune, indicating a music stage direction.",
+      "stgdir": "AIR. Contre un engagement, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 24063.884735107422,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 500,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 501,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 502,
+      "category": 9,
+      "explanation": "This stage direction provides a narrative description of conditions under which characters promise to love each other, which has a narrative quality intended for readers.",
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 503,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "Air : De Weick.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 504,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "Air : Tique, tique, taque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 505,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 506,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 507,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 508,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "AIR : le joli jeu d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 509,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a specific name, indicating it is a tune name.",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 24276.119232177734,
+  "model": "mistral-large-2407"
+}

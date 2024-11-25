@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1400,
+      "category": 8,
+      "explanation": "Quatri\u00e8me Couplet refers to a musical part, likely indicating a tune or song.",
+      "stgdir": "Quatri\u00e8me Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1401,
+      "category": 7,
+      "explanation": "Elle entre dans le tombeau describes a movement, specifically entering a tomb.",
+      "stgdir": "Elle entre dans le tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1402,
+      "category": 7,
+      "explanation": "Elle s'assied \u00e0 gauche de la chemin\u00e9e describes a movement, specifically sitting down next to the fireplace.",
+      "stgdir": "Elle s'assied \u00e0 gauche de la chemin\u00e9e.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1403,
+      "category": 10,
+      "explanation": "Elle remet la lettre a Julie describes an interaction with an object, specifically giving a letter to Julie.",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1404,
+      "category": 9,
+      "explanation": "On entend un grand bruit du c\u00f4t\u00e9 de la maison is a narrative stage direction describing a sound event.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1405,
+      "category": 9,
+      "explanation": "This lengthy stage direction narrates a sequence of actions and interactions, intended for readers.",
+      "stgdir": "FRONTIN dit \u00e0 son ma\u00eetre qu'il a toutes les peines du monde \u00e0 tirer de l'argent de Monsieur Simon son usurier ordinaire mais qu'\u00e0 la fin il lui a donn\u00e9 deux mille livres, apr\u00e8s avoir rempli son blanc-seing de quatre mille livres. Ce sont deux mille livres qu'il m'en co\u00fbte, r\u00e9pond Adraste mais que ne ferait-on pas pour se tirer d'affaire avec honneur ? Va ajo\u00fbte-t-il \u00e0 Frontin, assemble mes cr\u00e9anciers chez moi : je vais t'y joindre, et les payer.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1406,
+      "category": 10,
+      "explanation": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main describes an interaction with objects, specifically showing a sword and a pistol.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1407,
+      "category": 7,
+      "explanation": "Il se place derri\u00e8re le Peintre describes a movement, specifically positioning oneself behind someone.",
+      "stgdir": "Il se place derri\u00e8re le Peintre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1408,
+      "category": 5,
+      "explanation": "Tous sortent, except\u00e9 Chapelle et Lafor\u00eat describes characters exiting the stage.",
+      "stgdir": "Tous sortent, except\u00e9 Chapelle et Lafor\u00eat.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1409,
+      "category": 8,
+      "explanation": "PETITE REPRISE refers to a musical part, likely indicating a tune or song.",
+      "stgdir": "PETITE REPRISE",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17458.171844482422,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 830,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a tune name, indicating it is a music direction.",
+      "stgdir": "AIR : Quand tu chantes, berc\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 831,
+      "category": 3,
+      "explanation": "This stage direction indicates a manner of delivery, as the character is resuming their speech.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 832,
+      "category": 5,
+      "explanation": "This stage direction describes characters exiting the stage, specifically entering different buildings.",
+      "stgdir": "Il rentre dans l'auberge, et Marianne dans sa maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 833,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a tune name, indicating it is a music direction.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 834,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where the character speaks to his squire.",
+      "stgdir": "Il parle \u00e0 son \u00e9cuyer.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 835,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where characters are giving hands.",
+      "stgdir": "Monsieur Orgon donne la main \u00e0 Madame Oronte, et Val\u00e8re \u00e0 Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 836,
+      "category": 0,
+      "explanation": "The stage direction describes a general character action of knocking.",
+      "stgdir": "Le Financier frappe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 837,
+      "category": 11,
+      "explanation": "This stage direction provides a detailed description of the stage setting.",
+      "stgdir": "Int\u00e9rieur du Palais ; un tr\u00f4ne au milieu et la Toison d'or suspendue au-dessus du tr\u00f4ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 838,
+      "category": 4,
+      "explanation": "This stage direction describes the entrance of a character, specifically the Prince, in a certain mood.",
+      "stgdir": "Le Prince arrive tout triste et tout en col\u00e8re.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 839,
+      "category": 8,
+      "explanation": "The stage direction starts with 'Air' and describes a tune name, indicating it is a music direction.",
+      "stgdir": "Air Tique, tique, toque , et lonlanla.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 25084.05089378357,
+  "model": "mistral-large-2407"
+}

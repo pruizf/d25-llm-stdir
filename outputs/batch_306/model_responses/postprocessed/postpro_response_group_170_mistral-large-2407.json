@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1700,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air', which indicates a music category.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1701,
+      "category": 0,
+      "explanation": "The character hears something, which is a general action.",
+      "stgdir": "Il entend La Marquise.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1702,
+      "category": 11,
+      "explanation": "This stage direction describes the stage setting, including the entrance of characters and the presence of men with torches.",
+      "stgdir": "Valentin sort. On voit des hommes qui portent des torches, r\u00f4der \u00e0 travers la for\u00eat. Entrent la baronne et l'abb\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1703,
+      "category": 7,
+      "explanation": "The character is moving by kneeling down, which is a movement.",
+      "stgdir": "Il se met \u00e0 genoux devant elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1704,
+      "category": 10,
+      "explanation": "The character presents an object (\u00e9p\u00e9e), which is an interaction with an object.",
+      "stgdir": "Il lui pr\u00e9sente son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1705,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Aldamon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1706,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air', which indicates a music category.",
+      "stgdir": "Air : Un Pr\u00e9fet beau, bien fait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1707,
+      "category": 7,
+      "explanation": "The character is stopping, which is a movement.",
+      "stgdir": "S'arr\u00eatant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1708,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR', which indicates a music category.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1709,
+      "category": 0,
+      "explanation": "The characters are drinking, which is a general action.",
+      "stgdir": "Ils boivent tous trois.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 16949.527502059937,
+  "model": "mistral-large-2407"
+}

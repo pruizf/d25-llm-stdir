@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "170",
+      "category": "5",
+      "explanation": "The stage direction 'Ils sortent de la caverne.' indicates characters exiting, which falls under the 'exit' category.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Les filles de Nanterre,' indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR : Les filles de Nanterre,",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "0",
+      "explanation": "The stage direction 'Ils \u00e9coutent.' indicates a general action of listening, which falls under the 'action' category.",
+      "stgdir": "Ils \u00e9coutent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Guillaume.' indicates the addressee of a speech, which falls under the 'toward' category.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "3",
+      "explanation": "The stage direction 'SONNET.' indicates a delivery manner, which falls under the 'delivery' category.",
+      "stgdir": "SONNET.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "4",
+      "explanation": "The stage direction 'Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.' indicates a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "6",
+      "explanation": "The stage direction 'Don C\u00e9sar re\u00e7oit la main d'Isabelle.' indicates a non-verbal interaction of receiving the hand, which falls under the 'interaction' category.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "7",
+      "explanation": "The stage direction 'Ils s'attablent.' indicates a character movement of sitting at a table, which falls under the 'movement' category.",
+      "stgdir": "Ils s'attablent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Non, je ne serai pas.' indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "The stage direction 'Air : La b\u00e9quille du P\u00e8re Barnaba.' indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : La b\u00e9quille du P\u00e8re Barnaba.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 25219.14005279541,
+  "model": "mistral-large-2407"
+}

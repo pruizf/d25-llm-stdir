@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 430,
+      "category": 11,
+      "explanation": "This stage direction describes the setting or location of the play (in the woods).",
+      "stgdir": "dans le bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 431,
+      "category": 8,
+      "explanation": "This stage direction mentions a tune name, indicating music.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 432,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where a character examines another from head to toe.",
+      "stgdir": "Il l'examine des pieds \u00e0 la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 433,
+      "category": 8,
+      "explanation": "This stage direction mentions a tune name, indicating music.",
+      "stgdir": "Air : Alarmez vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 434,
+      "category": 10,
+      "explanation": "This stage direction describes a character arranging fruits and flowers in a basket, which is an interaction with objects.",
+      "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 435,
+      "category": 7,
+      "explanation": "This stage direction describes a character's movement (passing without looking).",
+      "stgdir": "Orph\u00e9e passe sans regarder Eurydice.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 436,
+      "category": 9,
+      "explanation": "This stage direction provides a narrative quality, describing a character's actions and the scenario.",
+      "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 437,
+      "category": 8,
+      "explanation": "This stage direction mentions a tune name, indicating music.",
+      "stgdir": "AIR : De la marche du Malade imaginaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 438,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where a character kisses another on the mouth.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 439,
+      "category": 7,
+      "explanation": "This stage direction describes a character's movement (standing up).",
+      "stgdir": "Il se l\u00e8ve, ainsi que Maurice.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 31474.97057914734,
+  "model": "mistral-large-2407"
+}

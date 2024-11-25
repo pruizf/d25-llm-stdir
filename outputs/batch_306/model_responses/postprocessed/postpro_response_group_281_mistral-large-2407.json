@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2810,
+      "category": 8,
+      "explanation": "The stage direction describes music being played, specifically the march of the Bostangis.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2811,
+      "category": 0,
+      "explanation": "The character crying is a general action that does not fit into other specific categories.",
+      "stgdir": "Il pleure.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2812,
+      "category": 0,
+      "explanation": "Painting is a general action that does not fit into other specific categories.",
+      "stgdir": "Il peint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2813,
+      "category": 8,
+      "explanation": "The stage direction describes a tune, indicated by the word 'AIR' and the following text is the name of the tune.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2814,
+      "category": 0,
+      "explanation": "Eating avidly is a general action that does not fit into other specific categories.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2815,
+      "category": 6,
+      "explanation": "The character is interacting non-verbally by squeezing someone's hand affectionately.",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2816,
+      "category": 7,
+      "explanation": "The character is moving to fetch the bag of gold, which is a specific movement action.",
+      "stgdir": "Il va chercher le sac d'or.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2817,
+      "category": 0,
+      "explanation": "Continuing alone is a general action that does not fit into other specific categories.",
+      "stgdir": "Il continue, \u00e9tant seul.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2818,
+      "category": 8,
+      "explanation": "The stage direction describes a tune, indicated by the word 'AIR' and the following text is the name of the tune.",
+      "stgdir": "AIR. Oui, j'ai tout vu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2819,
+      "category": 0,
+      "explanation": "Seeing the Princess coming is a general action that does not fit into other specific categories.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 22891.136407852173,
+  "model": "mistral-large-2407"
+}

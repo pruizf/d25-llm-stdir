@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 460,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' and a song name, indicating it is a music stage direction.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 461,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' and a song name, indicating it is a music stage direction.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 462,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Pr\u00e9lude', indicating it is a music stage direction.",
+      "stgdir": "Pr\u00e9lude.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 463,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' and a song name, indicating it is a music stage direction.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 464,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' and a song name, indicating it is a music stage direction.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 465,
+      "category": 8,
+      "explanation": "The stage direction mentions 'symphonie', indicating it is a music stage direction.",
+      "stgdir": "On entend une symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 466,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' and a song name, indicating it is a music stage direction.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 467,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' and a song name, indicating it is a music stage direction.",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 468,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' and a song name, indicating it is a music stage direction.",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 469,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' and a song name, indicating it is a music stage direction.",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17307.997465133667,
+  "model": "mistral-large-2407"
+}

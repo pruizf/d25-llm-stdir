@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1630,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la petite Befor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1631,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Denys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1632,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech, directed towards everyone.",
+      "stgdir": "[\u00c0 tous.]",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1633,
+      "category": 3,
+      "explanation": "Describes the delivery manner, instructing the character to speak louder.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1634,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality, describing a sequence of actions by Hilaire p\u00e8re and his son.",
+      "stgdir": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1635,
+      "category": 8,
+      "explanation": "Indicates the name of a tune, starting with 'Air'.",
+      "stgdir": "Air : Ne m'entendez-vous pas",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1636,
+      "category": 8,
+      "explanation": "Describes the sound of a carillon, related to music.",
+      "stgdir": "D'une voix il fait marcher la sonnerie. Carillon chez le ministre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1637,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality, describing a sequence of actions involving a paysan, an \u00e2ne, and Ninette.",
+      "stgdir": "Le paysan veut \u00e0 son tour prendre Ninette ; mais l'\u00e2ne, qui s'impatiente, commence \u00e0 sauter et lancer des ruades \u00e0 droite et \u00e0 gauche. Le paysan, pour en \u00e9viter une dans le ventre, se retourne et la re\u00e7oit dans le derri\u00e8re. Ninette, qui, pendant ce d\u00e9bat, n'a cess\u00e9 de crier Maman ! pique son \u00e2ne et se sauve en disant :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1638,
+      "category": 3,
+      "explanation": "Describes the delivery manner, instructing the character to appear calmer.",
+      "stgdir": "En s'effor\u00e7ant de para\u00eetre encore plus calme",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1639,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Raton.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14043.272018432617,
+  "model": "mistral-large-2407"
+}

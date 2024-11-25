@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 530,
+      "category": 9,
+      "explanation": "This stage direction describes a sequence of actions and interactions between characters and narrates a story, fitting the narration category.",
+      "stgdir": "Cinthio et Colombine arrivent ensemble \u00e0 l'h\u00f4tellerie d'Arlequin. Colombine fait part \u00e0 Cinthio de l'infid\u00e9lit\u00e9 d'Octave, et de l'embarras o\u00f9 elle se trouve en voyageant seule. Cinthio t\u00e2che de la rassurer, offre de l'accompagner, et lui persuade de se faire passer pour sa soeur. Il frappe \u00e0 la porte d'Arlequin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 531,
+      "category": 10,
+      "explanation": "This stage direction describes the character's interaction with objects (chapeau and ch\u00e2le), fitting the object category.",
+      "stgdir": "Elle quitte son chapeau et son ch\u00e2le.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 532,
+      "category": 8,
+      "explanation": "This stage direction mentions 'AIR', which indicates a tune name or music description, fitting the music category.",
+      "stgdir": "AIR. Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 533,
+      "category": 5,
+      "explanation": "This stage direction indicates that a character exits, fitting the exit category.",
+      "stgdir": "La Fleur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 534,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressees of a speech, fitting the toward category.",
+      "stgdir": "Au commandeur et au comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 535,
+      "category": 0,
+      "explanation": "This stage direction describes a general action (portant la main \u00e0 son coeur), fitting the action category.",
+      "stgdir": "Portant le main \u00e0 son coeur.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 536,
+      "category": 3,
+      "explanation": "This stage direction describes the delivery manner (sur le m\u00eame ton), fitting the delivery category.",
+      "stgdir": "Sur le m\u00eame ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 537,
+      "category": 3,
+      "explanation": "This stage direction describes the delivery manner (en chorus), fitting the delivery category.",
+      "stgdir": "En chorus.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 538,
+      "category": 10,
+      "explanation": "This stage direction describes the character's interaction with an object (ouvre un autre tiroir), fitting the object category.",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 539,
+      "category": 4,
+      "explanation": "This stage direction indicates that a character enters the stage, fitting the entrance category.",
+      "stgdir": "Sabine entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 18532.405376434326,
+  "model": "mistral-large-2407"
+}

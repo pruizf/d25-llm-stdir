@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 510,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 511,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 512,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 513,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR : du Libera de la Bourbonnoise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 514,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "Air du bienheureux Lisandre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 515,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 516,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR : De Z\u00e9mire et Azor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 517,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Babet que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 518,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR Tu croyais, en aimant Colette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 519,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 23324.67484474182,
+  "model": "mistral-large-2407"
+}

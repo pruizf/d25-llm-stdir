@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1660,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la foule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1661,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1662,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Beno\u00eet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1663,
+      "category": 8,
+      "explanation": "Describes a tune name, starts with 'AIR'.",
+      "stgdir": "AIR : Ne m'entendez-vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1664,
+      "category": 9,
+      "explanation": "Narrative stage direction describing a sequence of actions.",
+      "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1665,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 madame B\u00e9verlei.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1666,
+      "category": 8,
+      "explanation": "Describes a tune name, starts with 'Air'.",
+      "stgdir": "Air de la Clef des champs (Deff\u00e8s)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1667,
+      "category": 6,
+      "explanation": "Non-verbal interaction, describes extending a hand.",
+      "stgdir": "Lui tendant la main :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1668,
+      "category": 9,
+      "explanation": "Narrative stage direction describing a sequence of actions.",
+      "stgdir": "Il va se cacher derri\u00e8re L\u00e9andre. Pierrot fait signe \u00e0 Arlequin de s'approcher ; il flatte le Gougou et fait entendre par signes \u00e0 Arlequin qu'il est doux et honorable d'en \u00eatre mang\u00e9. Arlequin branle la t\u00eate. Carabosse veut entra\u00eener Arlequin vers le Gougou.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1669,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Tous.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 13849.29370880127,
+  "model": "mistral-large-2407"
+}

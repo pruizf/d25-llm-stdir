@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "180",
+      "category": "0",
+      "explanation": "Il appelle ses valets. - This is a general action where the character is calling his servants.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "8",
+      "explanation": "ENSEMBLE - This indicates a musical ensemble, which is a music description.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "0",
+      "explanation": "Il rappelle Monsieur Oronte. - This is a general action where the character is calling Monsieur Oronte back.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "6",
+      "explanation": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble. - This indicates a non-verbal interaction where multiple characters are talking together.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "3",
+      "explanation": "Criant tr\u00e8s fort. - This describes the delivery manner, specifically shouting very loudly.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "6",
+      "explanation": "Ils rient. - This indicates a non-verbal interaction where the characters are laughing.",
+      "stgdir": "Ils rient.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "8",
+      "explanation": "Ici l'actrice chante un morceau \u00e0 son choix. - This describes a musical performance where the actress sings a piece of her choice.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "3",
+      "explanation": "Triomphalement. - This describes the delivery manner, indicating triumph.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "3",
+      "explanation": "Avec ravissement. - This describes the delivery manner, indicating rapture or delight.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "8",
+      "explanation": "Reprise de Choeur. - This indicates a musical direction, specifically the reprise of a chorus.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 20796.562433242798,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2400,
+      "category": 0,
+      "explanation": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre. - This is a general character action where Alfred is looking at the officers.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2401,
+      "category": 11,
+      "explanation": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne. - This stage direction describes the setting and where the characters are located.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2402,
+      "category": 4,
+      "explanation": "Patrocle entre. - This stage direction indicates that Patrocle enters the stage.",
+      "stgdir": "Patrocle entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2403,
+      "category": 5,
+      "explanation": "Il t\u00e9moigne s'en vouloir aller. - This stage direction indicates that the character is intending to leave, which can be categorized as an exit.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2404,
+      "category": 3,
+      "explanation": "Arlequin chante : - This stage direction indicates that Arlequin is singing, which falls under delivery.",
+      "stgdir": "Arlequin chante :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2405,
+      "category": 12,
+      "explanation": "\u00c0 Monsieur Mananville. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monsieur Mananville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2406,
+      "category": 4,
+      "explanation": "Ariston para\u00eet. - This stage direction indicates that Ariston appears on stage, which is an entrance.",
+      "stgdir": "Ariston para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2407,
+      "category": 7,
+      "explanation": "Carlos rabat son chapeau sur son visage, et s'avance pr\u00e9cipitamment vers elle. Do\u00f1a Sol, laissant tomber sa lampe. - This stage direction describes Carlos moving and Do\u00f1a Sol dropping her lamp, which are movements.",
+      "stgdir": "Carlos rabat son chapeau sur son visage, et s'avance pr\u00e9cipitamment vers elle. Do\u00f1a Sol, laissant tomber sa lampe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2408,
+      "category": 12,
+      "explanation": "\u00c0 \u00c9rix\u00e8ne. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2409,
+      "category": 10,
+      "explanation": "Elle reprend le mouchoir et se couvre le sein. - This stage direction describes the character's interaction with an object, the mouchoir.",
+      "stgdir": "Elle reprend le mouchoir et se couvre le sein.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 19247.596263885498,
+  "model": "mistral-large-2407"
+}

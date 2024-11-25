@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2870,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au petit Befor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2871,
+      "category": 8,
+      "explanation": "Describes music with the tune name.",
+      "stgdir": "AIR. R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2872,
+      "category": 10,
+      "explanation": "Describes the interaction with an object (paper).",
+      "stgdir": "Il donne le papier d'\u00e9critures du petit Dupr\u00e9 \u00e0 Madame Befor, quelle garde.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2873,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2874,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2875,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2876,
+      "category": 11,
+      "explanation": "Describes the setting or an element of the stage.",
+      "stgdir": "Apercevant la toilette de sa m\u00e8re.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2877,
+      "category": 5,
+      "explanation": "Character exits the stage.",
+      "stgdir": "Il se retire avec Clotilde.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2878,
+      "category": 8,
+      "explanation": "Describes music with the tune name.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2879,
+      "category": 3,
+      "explanation": "Describes the delivery manner, indicating the way something is said.",
+      "stgdir": "Haut",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 17950.243949890137,
+  "model": "mistral-large-2407"
+}

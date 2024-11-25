@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1280,
+      "category": 10,
+      "explanation": "This stage direction describes valets hanging dominos on windows, which is an interaction with objects.",
+      "stgdir": "Des valets suspendent des dominos aux crois\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1281,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 son a\u00een\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1282,
+      "category": 10,
+      "explanation": "This stage direction describes characters taking money, which is an interaction with an object.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1283,
+      "category": 9,
+      "explanation": "This stage direction is a long narrative description intended for readers, describing a sequence of actions and events.",
+      "stgdir": "C'est une c\u00e9r\u00e9monie burlesque d'un homme qu'on fait m\u00e9decin en r\u00e9cit, chant, et danse. Plusieurs tapissiers viennent pr\u00e9parer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assembl\u00e9e, compos\u00e9e de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir m\u00e9decin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1284,
+      "category": 8,
+      "explanation": "This stage direction refers to a tune name, indicating music.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1285,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the stage, representing the Palace of the Ocean and Thetis.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1286,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech.",
+      "stgdir": "Au Cadet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1287,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifically designating the table.",
+      "stgdir": "Lui d\u00e9signant la table.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1288,
+      "category": 10,
+      "explanation": "This stage direction describes the character presenting a small mirror, which is an interaction with an object.",
+      "stgdir": "Elle lui pr\u00e9sente un petit miroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1289,
+      "category": 7,
+      "explanation": "This stage direction describes a character movement, specifically catching oneself.",
+      "stgdir": "Se rattrapant.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 14892.269134521484,
+  "model": "mistral-large-2407"
+}

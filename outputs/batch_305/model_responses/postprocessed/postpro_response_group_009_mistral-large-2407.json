@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 90,
+      "category": 6,
+      "explanation": "The stage direction 'Regardant sa fille.' involves a character looking at another character, which is a non-verbal interaction.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 91,
+      "category": 6,
+      "explanation": "The stage direction 'Apercevant la Pr\u00e9sidente.' involves a character noticing another character, which is a non-verbal interaction.",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 92,
+      "category": 1,
+      "explanation": "The stage direction 'Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.' describes an aggressive gesture intended to incite aggression.",
+      "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 93,
+      "category": 6,
+      "explanation": "The stage direction 'Voyant Gaston.' involves a character seeing another character, which is a non-verbal interaction.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 94,
+      "category": 0,
+      "explanation": "The stage direction 'Il montre son pouce.' involves a character showing their thumb, which is a general action.",
+      "stgdir": "Il montre son pouce.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 95,
+      "category": 7,
+      "explanation": "The stage direction 'Il saute.' involves a character jumping, which is a movement.",
+      "stgdir": "Il saute.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 96,
+      "category": 10,
+      "explanation": "The stage direction 'Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.' describes a character interacting with objects (a half circle and a cane).",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 97,
+      "category": 0,
+      "explanation": "The stage direction 'Elle mange avidement.' involves a character eating, which is a general action.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 98,
+      "category": 6,
+      "explanation": "The stage direction 'Il la cherche de la main sans tourner la t\u00eate.' involves a character searching for another character with their hand, which is a non-verbal interaction.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 99,
+      "category": 9,
+      "explanation": "The stage direction 'Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :' narrates a sequence of actions and is likely intended for readers, fitting the narration category.",
+      "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 20871.314764022827,
+  "model": "mistral-large-2407"
+}

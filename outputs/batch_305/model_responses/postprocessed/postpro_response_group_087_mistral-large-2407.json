@@ -1,0 +1,55 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 870,
+      "category": 12,
+      "explanation": "\u00c0 Antiochus. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 871,
+      "category": 12,
+      "explanation": "Au bourreau. This stage direction indicates the addressee of a speech.",
+      "stgdir": "Au bourreau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 872,
+      "category": 12,
+      "explanation": "\u00c0 Antonin. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 873,
+      "category": 12,
+      "explanation": "\u00c0 l'esclave. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'esclave",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 874,
+      "category": 12,
+      "explanation": "Au pr\u00e9sident. This stage direction indicates the addressee of a speech.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 875,
+      "category": 12,
+      "explanation": "Aux Licteurs. This stage direction indicates the addressee of a speech.",
+      "stgdir": "Aux Licteurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 876,
+      "category": 12,
+      "explanation": "\u00c0 Antoinette. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Antoinette.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10317.475318908691,
+  "model": "mistral-large-2407"
+}

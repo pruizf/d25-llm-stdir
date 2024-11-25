@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1580",
+      "category": "10",
+      "explanation": "Il lui donne de l'argent. - Describes an interaction with an object, specifically giving money.",
+      "stgdir": "Il lui donne de l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1581",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; une habitation est \u00e0 la droite du spectateur ; parmi les arbres qui d\u00e9corent la sc\u00e8ne, on remarque un sumac du Canada, qui doit \u00eatre plus apparent que les autres. - Describes the stage setting and location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; une habitation est \u00e0 la droite du spectateur ; parmi les arbres qui d\u00e9corent la sc\u00e8ne, on remarque un sumac du Canada, qui doit \u00eatre plus apparent que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1582",
+      "category": "5",
+      "explanation": "L\u00e9andre sort avec Babot. - Describes characters exiting the stage.",
+      "stgdir": "L\u00e9andre sort avec Babot.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1583",
+      "category": "9",
+      "explanation": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce. - Long stage direction with narrative quality, intended for readers.",
+      "stgdir": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1584",
+      "category": "10",
+      "explanation": "Elle rend la lettre a Cl\u00e9mentine. - Describes an interaction with an object, specifically giving a letter.",
+      "stgdir": "Elle rend la lettre a Cl\u00e9mentine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1585",
+      "category": "0",
+      "explanation": "Dorante, se jetant de nouveau \u00e0 ses pieds. - Describes a general character action, specifically throwing himself at someone's feet.",
+      "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1586",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le devant de la maison de Pantalon. - Describes the stage setting and location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le devant de la maison de Pantalon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1587",
+      "category": "0",
+      "explanation": "Il ouvre la porte et lit attentivement une carte de visite clou\u00e9e \u00e0 l'ext\u00e9rieur. - Describes general character actions, specifically opening a door and reading a card.",
+      "stgdir": "Il ouvre la porte et lit attentivement une carte de visite clou\u00e9e \u00e0 l'ext\u00e9rieur.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1588",
+      "category": "12",
+      "explanation": "Au Suisse. - Indicates the addressee of a speech.",
+      "stgdir": "Au Suisse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1589",
+      "category": "0",
+      "explanation": "Phalante continue. - Describes a general character action, specifically continuing an action.",
+      "stgdir": "Phalante continue.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 29706.254959106445,
+  "model": "mistral-large-2407"
+}

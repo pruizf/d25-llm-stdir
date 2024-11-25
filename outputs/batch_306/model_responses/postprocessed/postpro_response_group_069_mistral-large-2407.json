@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 690,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of the characters remaining in silence, which falls under the 'action' category.",
+      "stgdir": "Ils restent tous deux un instant dans le silence.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 691,
+      "category": 9,
+      "explanation": "This is a long stage direction with narrative quality, describing various sounds and events over time, which fits the 'narration' category.",
+      "stgdir": "Abois de chiens sur la route... Autos qui passent... Silence. Deux heures, bruits d'autos... Silence. Trois heures... Chants du coq se r\u00e9pandant dans la campagne... Silence. Quatre heures...",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 692,
+      "category": 10,
+      "explanation": "The stage direction describes the characters putting on masks and taking the coats of the dead, which involves interaction with objects, fitting the 'object' category.",
+      "stgdir": "L\u00e0, ils se masquent, et prennent les casaques des morts.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 693,
+      "category": 9,
+      "explanation": "This is a detailed and lengthy stage direction that narrates the actions and movements of various characters, fitting the 'narration' category.",
+      "stgdir": "Les prisonniers ramassent leurs outils, s'accouplent en silence et sortent la t\u00eate basse sous le fouet du soldat. Guanhumara repara\u00eet sur la galerie haute et les suit des yeux. Au moment o\u00f9 les prisonniers disparaissent, entrent par la grande porte R\u00e9gina, Edwige et Otbert ; R\u00e9gina, v\u00eatue de blanc ; Edwige, la nourrice, vieille, v\u00eatue de noir ; Otbert, en habit de capitaine aventurier, avec le coutelas et la grande \u00e9p\u00e9e ; R\u00e9gina, toute jeune, pale, accabl\u00e9e et se tra\u00eenant \u00e0 peine, comme une personne malade depuis longtemps et presque mourante. Elle se penche sur le bras d'Otbert, qui la soutient et fixe sur elle un regard plein d'angoisse et d'amour. Edwige la suit. Guanhumara, sans \u00eatre vue d'aucun des trois, les observe et les \u00e9coute quelques instants, puis sort par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 elle est entr\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 694,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the scene, which fits the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une grande Salle de Spectacle, o\u00f9 l'on voit une troupe de Peuples de diff\u00e9rents Provinces, qui forment le d\u00e9but de ce Prologue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 695,
+      "category": 7,
+      "explanation": "The stage direction describes a character seizing the hand of another, which is a form of movement, fitting the 'movement' category.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 696,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 B\u00e9r\u00e9nice.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 697,
+      "category": 8,
+      "explanation": "The stage direction specifies a tune name, which fits the 'music' category.",
+      "stgdir": "Air : Dondaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 698,
+      "category": 5,
+      "explanation": "The stage direction describes characters exiting the stage, fitting the 'exit' category.",
+      "stgdir": "Ils rentrent, \u00e0 la r\u00e9serve de Paquette, et de Champagne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 699,
+      "category": 7,
+      "explanation": "The stage direction describes a character leaning out of a window, which is a form of movement, fitting the 'movement' category.",
+      "stgdir": "Elle se penche \u00e0 la fen\u00eatre.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 18540.241479873657,
+  "model": "mistral-large-2407"
+}

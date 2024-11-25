@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 240,
+      "category": 4,
+      "explanation": "Plutus para\u00eet \u00e0 la place du sac. - Indicates an entrance, as 'para\u00eet' (appears) is a way of saying a character enters the stage.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 241,
+      "category": 4,
+      "explanation": "Domitian entre. - Clearly indicates an entrance, as 'entre' means to enter.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 242,
+      "category": 4,
+      "explanation": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables. - Indicates an entrance of groups, as it describes troops of magicians and demons entering.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 243,
+      "category": 4,
+      "explanation": "Entre le Cardinal. - Clearly indicates an entrance, as 'entre' means to enter.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 244,
+      "category": 4,
+      "explanation": "Entrent Madeleine Ozeray et Raymone. - Clearly indicates an entrance, as 'entrent' means they enter.",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 245,
+      "category": 8,
+      "explanation": "Troisi\u00e8me entr\u00e9e de ballet - Indicates a musical performance or dance, which is related to music.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 246,
+      "category": 4,
+      "explanation": "Elle arrive. - Indicates an entrance, as 'arrive' means to arrive or enter.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 247,
+      "category": 4,
+      "explanation": "Pasquin para\u00eet. - Indicates an entrance, as 'para\u00eet' (appears) is a way of saying a character enters the stage.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 248,
+      "category": 4,
+      "explanation": "Val\u00e9rian entre. - Clearly indicates an entrance, as 'entre' means to enter.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 249,
+      "category": 4,
+      "explanation": "Entre Henri Bassou. - Clearly indicates an entrance, as 'entre' means to enter.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 27355.445861816406,
+  "model": "mistral-large-2407"
+}

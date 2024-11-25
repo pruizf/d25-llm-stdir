@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2080,
+      "category": 6,
+      "explanation": "Il lui met la main dans la poche - This action involves non-verbal interaction between characters.",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2081,
+      "category": 5,
+      "explanation": "Elle descend. - This action indicates a character exiting the stage.",
+      "stgdir": "Elle descend.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2082,
+      "category": 6,
+      "explanation": "En d\u00e9signant celle de droite. - This action involves non-verbal interaction, specifically pointing.",
+      "stgdir": "En d\u00e9signant celle de droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2083,
+      "category": 12,
+      "explanation": "\u00c0 Mme Lourdis. - This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mme Lourdis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2084,
+      "category": 0,
+      "explanation": "Elle s'assoit et attache le gland qui manquait. - This is a general character action of sitting and attaching something.",
+      "stgdir": "Elle s'assoit et attache le gland qui manquait.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2085,
+      "category": 8,
+      "explanation": "Air : Un ancien proverbe nous dit. - This indicates a tune name, which is related to music.",
+      "stgdir": "Air : Un ancien proverbe nous dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2086,
+      "category": 9,
+      "explanation": "L\u00e0, Ma\u00eetre Godard le menace, encor, du geste, et Champagne poursuit, apr\u00e8s. - This is a narrative stage direction describing a sequence of actions.",
+      "stgdir": "L\u00e0, Ma\u00eetre Godard le menace, encor, du geste, et Champagne poursuit, apr\u00e8s.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2087,
+      "category": 1,
+      "explanation": "Elle se jette l'\u00e9p\u00e9e \u00e0 la main entre Aristandre et le Peuple. - This action is aggressive, involving a sword.",
+      "stgdir": "Elle se jette l'\u00e9p\u00e9e \u00e0 la main entre Aristandre et le Peuple.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2088,
+      "category": 7,
+      "explanation": "Revenant promptement \u00e0 elle. - This indicates a character movement, specifically returning quickly.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2089,
+      "category": 12,
+      "explanation": "\u00c0 une des dames. - This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 une des dames.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 21604.84266281128,
+  "model": "mistral-large-2407"
+}

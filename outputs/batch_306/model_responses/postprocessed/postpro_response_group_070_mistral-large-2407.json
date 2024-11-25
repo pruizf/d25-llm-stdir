@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 700,
+      "category": 7,
+      "explanation": "Les clercs s'assemblent devant lui. \u2014 This describes a movement of characters gathering together.",
+      "stgdir": "Les clercs s'assemblent devant lui.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 701,
+      "category": 1,
+      "explanation": "Lutte valeureuse de Th\u00e9odore avec le mot \"humiliation\". \u2014 This describes a struggle or fight, which is a form of aggression.",
+      "stgdir": "Lutte valeureuse de Th\u00e9odore avec le mot \"humiliation\".",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 702,
+      "category": 11,
+      "explanation": "La sc\u00e8ne est \u00e0 Paris. \u2014 This describes the location setting of the scene.",
+      "stgdir": "La sc\u00e8ne est \u00e0 Paris.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 703,
+      "category": 12,
+      "explanation": "\u00c0 \u00c9rope et \u00e0 Thyeste. \u2014 This indicates the addressees of a speech.",
+      "stgdir": "\u00c0 \u00c9rope et \u00e0 Thyeste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 704,
+      "category": 10,
+      "explanation": "Il tire un des parchemins de l'urne. \u2014 This describes an interaction with an object.",
+      "stgdir": "Il tire un des parchemins de l'urne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 705,
+      "category": 10,
+      "explanation": "Il donne son fouet \u00e0 L\u00e9pine. \u2014 This describes giving an object to another character.",
+      "stgdir": "Il donne son fouet \u00e0\u00a0 L\u00e9pine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 706,
+      "category": 12,
+      "explanation": "En montrant Betti. \u2014 This indicates the addressee of a speech.",
+      "stgdir": "En montrant Betti.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 707,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'int\u00e9rieur d'un caf\u00e9, dans lequel on voit les bustes de quelques grands hommes, ni entr'autres celui de Moli\u00e8re. \u2014 This describes the setting of the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'int\u00e9rieur d'un caf\u00e9, dans lequel on voit les bustes de quelques grands hommes, ni entr'autres celui de Moli\u00e8re.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 708,
+      "category": 0,
+      "explanation": "Ils mangent tous deux. \u2014 This describes the characters eating, which is a general action.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 709,
+      "category": 6,
+      "explanation": "Elle l'embrasse passionn\u00e9ment. \u2014 This describes a non-verbal interaction of embracing.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 24552.85334587097,
+  "model": "mistral-large-2407"
+}

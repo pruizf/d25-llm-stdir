@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 480,
+      "category": 8,
+      "explanation": "This stage direction is a music description, as it starts with 'Air' and describes a tune.",
+      "stgdir": "Air 84 : De quoi vous plaignez-vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 481,
+      "category": 10,
+      "explanation": "This stage direction describes an interaction with an object (a letter).",
+      "stgdir": "Donnant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 482,
+      "category": 9,
+      "explanation": "This is a long stage direction with narrative quality, describing a sequence of actions involving multiple characters and objects.",
+      "stgdir": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 483,
+      "category": 1,
+      "explanation": "This stage direction describes a violent or aggressive action, indicated by the anger in the bishop's eyes.",
+      "stgdir": "Une col\u00e8re, en \u00e9clairs, passe dans les yeux de l'\u00e9v\u00eaque ; mais il se contient jusqu'aux derni\u00e8res paroles de",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 484,
+      "category": 2,
+      "explanation": "This stage direction indicates that the character is speaking aside, addressing the audience or alone.",
+      "stgdir": "Ariste \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 485,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, as indicated by 'Strophe VII'.",
+      "stgdir": "Strophe VII.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 486,
+      "category": 9,
+      "explanation": "This stage direction is descriptive and indicates a pause or silence, providing narrative quality.",
+      "stgdir": "Apr\u00e8s un silence...",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 487,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, as the character notices Mademoiselle Damour.",
+      "stgdir": "Apercevant Mademoiselle Damour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 488,
+      "category": 9,
+      "explanation": "This is a long stage direction with narrative quality, describing the entrance and movements of multiple characters.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 489,
+      "category": 11,
+      "explanation": "This stage direction describes the setting, including the presence of magicians and demons.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 18168.753385543823,
+  "model": "mistral-large-2407"
+}

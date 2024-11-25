@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 600,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR', which indicates it's a music direction.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 601,
+      "category": 1,
+      "explanation": "The action 'arracher du poil' (tearing out hair) is a form of aggression.",
+      "stgdir": "Il arrache du poil.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 602,
+      "category": 4,
+      "explanation": "The verb 'para\u00eetre' (appear) indicates an entrance onto the stage.",
+      "stgdir": "Il para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 603,
+      "category": 1,
+      "explanation": "The action 'donner plusieurs coups de b\u00e2ton' (giving several blows with a stick) is a form of aggression.",
+      "stgdir": "Il donne plusieurs coups de b\u00e2ton sur le sac.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 604,
+      "category": 10,
+      "explanation": "The action 'montrant son \u00e9charpe' (showing his scarf) involves interaction with an object.",
+      "stgdir": "Montrant son \u00e9charpe.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 605,
+      "category": 9,
+      "explanation": "The stage direction describes a series of actions and events, making it a narration.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 606,
+      "category": 5,
+      "explanation": "The action 'faire semblant de s'en aller' (pretending to leave) indicates an exit.",
+      "stgdir": "Guillot fait semblant de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 607,
+      "category": 12,
+      "explanation": "The stage direction '\u00e0 Antiochus' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 608,
+      "category": 12,
+      "explanation": "The stage direction '\u00e0 D\u00e9janire' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 D\u00e9janire",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 609,
+      "category": 12,
+      "explanation": "The stage direction '\u00e0 Verseuil' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Verseuil.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 26522.486686706543,
+  "model": "mistral-large-2407"
+}

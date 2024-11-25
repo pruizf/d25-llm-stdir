@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 950,
+      "category": 4,
+      "explanation": "Orphise et Lise entrent. - This stage direction indicates characters entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Orphise et Lise entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 951,
+      "category": 12,
+      "explanation": "Haut \u00e0 Fanchette. - This stage direction indicates the addressee of a speech, which falls under the 'toward' category.",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 952,
+      "category": 10,
+      "explanation": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab Morguienne de vous \u00bb. - This stage direction involves an interaction with an object (mouchoir), which falls under the 'object' category.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 953,
+      "category": 0,
+      "explanation": "Elles enl\u00e8vent Constance. - This stage direction describes a general action of removing or taking away Constance, which falls under the 'action' category.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 954,
+      "category": 8,
+      "explanation": "AIR : Va t'en voir s'ils viennent Jean. - This stage direction refers to music, specifically the tune name, which falls under the 'music' category.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 955,
+      "category": 1,
+      "explanation": "Elle frappe sur les oreilles de l'\u00e2ne qui rue. - This stage direction describes a violent action, which falls under the 'aggression' category.",
+      "stgdir": "Elle frappe sur les oreilles de l'\u00e2ne qui rue.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 956,
+      "category": 12,
+      "explanation": "\u00c0 l'intendant. - This stage direction indicates the addressee of a speech, which falls under the 'toward' category.",
+      "stgdir": "\u00c0 l'intendant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 957,
+      "category": 12,
+      "explanation": "En regardant les enfants. - This stage direction indicates the addressee of a speech or action, which falls under the 'toward' category.",
+      "stgdir": "En regardant les enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 958,
+      "category": 0,
+      "explanation": "Elle ouvre un tiroir. - This stage direction describes a general action of opening a drawer, which falls under the 'action' category.",
+      "stgdir": "Elle ouvre un tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 959,
+      "category": 8,
+      "explanation": "AIR. Je voudrais bien me marier. - This stage direction refers to music, specifically the tune name, which falls under the 'music' category.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 18764.50538635254,
+  "model": "mistral-large-2407"
+}

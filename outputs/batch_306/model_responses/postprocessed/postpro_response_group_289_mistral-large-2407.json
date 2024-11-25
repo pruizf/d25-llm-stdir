@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2890,
+      "category": 0,
+      "explanation": "Il se jette aux genoux de L\u00e9onore - This is a general character action, falling to the knees of L\u00e9onore, which fits the action category.",
+      "stgdir": "Il se jette aux genoux de L\u00e9onore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2891,
+      "category": 2,
+      "explanation": "[\u00c0 part. Il ne parle point de Calatabellotte.] - This stage direction indicates an aside, where the character is speaking to themselves or the audience, which fits the aparte category.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 2892,
+      "category": 8,
+      "explanation": "AIR : Folies d'Espagne. - This stage direction indicates a tune name, which fits the music category.",
+      "stgdir": "AIR : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2893,
+      "category": 0,
+      "explanation": "Il lit l'affiche. - This is a general character action, reading a poster, which fits the action category.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2894,
+      "category": 5,
+      "explanation": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre. - This stage direction indicates characters exiting the stage, which fits the exit category.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2895,
+      "category": 0,
+      "explanation": "En regardant les cartes. - This is a general character action, looking at the cards, which fits the action category.",
+      "stgdir": "En regardant les cartes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2896,
+      "category": 8,
+      "explanation": "Air : Comme un Coucou. - This stage direction indicates a tune name, which fits the music category.",
+      "stgdir": "Air : Comme un Coucou.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2897,
+      "category": 6,
+      "explanation": "Il appelle l'Apothicaire et lui parle. - This stage direction indicates a non-verbal interaction, calling and speaking to the Apothicaire, which fits the interaction category.",
+      "stgdir": "Il appelle l'Apothicaire et lui parle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2898,
+      "category": 12,
+      "explanation": "\u00c0 Clidamis. - This stage direction indicates the addressee of a speech, which fits the toward category.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2899,
+      "category": 8,
+      "explanation": "AIR 32 : Du haut en bas. (Rondeau) - This stage direction indicates a tune name, which fits the music category.",
+      "stgdir": "AIR 32 : Du haut en bas. (Rondeau)",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 20199.037790298462,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 250,
+      "category": 5,
+      "explanation": "Le petit Befor se retire de la danse. \u2014 The verb 'se retire' indicates an exit from the stage.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 251,
+      "category": 0,
+      "explanation": "Val\u00e8re frappe \u00e0 la porte du logis de Clim\u00e8ne. \u2014 The verb 'frappe' indicates a general action of knocking on the door.",
+      "stgdir": "Val\u00e8re frappe \u00e0 la porte du logis de Clim\u00e8ne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 252,
+      "category": 10,
+      "explanation": "Serre-fort remplit et referme le sac. \u2014 The verbs 'remplit' and 'referme' indicate interaction with an object (the sac).",
+      "stgdir": "Serre-fort remplit et referme le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 253,
+      "category": 5,
+      "explanation": "Lincoln et sa troupe sortent. \u2014 The verb 'sortent' indicates an exit from the stage.",
+      "stgdir": "Lincoln et sa troupe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 254,
+      "category": 0,
+      "explanation": "On se met \u00e0 table. \u2014 The verb 'se met \u00e0 table' indicates a general action of sitting down at the table.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 255,
+      "category": 8,
+      "explanation": "A I R. \u2014 'AIR' indicates a description of music.",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 256,
+      "category": 8,
+      "explanation": "Air : Vaudeville de Jean Monnet. \u2014 'Air' indicates a description of music, specifically the tune 'Vaudeville de Jean Monnet'.",
+      "stgdir": "Air : Vaudeville de Jean Monnet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 257,
+      "category": 12,
+      "explanation": "\u00c0 Marlot. \u2014 Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 258,
+      "category": 8,
+      "explanation": "AIR. \u2014 'AIR' indicates a description of music.",
+      "stgdir": "AIR.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 259,
+      "category": 12,
+      "explanation": "\u00c0 Marforio. \u2014 Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marforio.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 25363.55185508728,
+  "model": "mistral-large-2407"
+}

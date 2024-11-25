@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 210,
+      "category": 7,
+      "explanation": "This stage direction indicates movement as Parth\u00e9nice is coming to inquire about Floridan's condition, which involves movement towards someone or somewhere.",
+      "stgdir": "Parth\u00e9nice vient savoir finement en quel \u00e9tat est Floridan aupr\u00e8s de C\u00e9linde.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 211,
+      "category": 1,
+      "explanation": "The verb 'reprendre' indicates a form of aggression or reprimand, fitting the category of aggression.",
+      "stgdir": "Il la reprend.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 212,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, directed toward the grand bramine.",
+      "stgdir": "Au grand bramine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 213,
+      "category": 8,
+      "explanation": "The stage direction includes 'AIR' followed by the name of the tune, clearly indicating a music category.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 214,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, directed toward Coucy.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 215,
+      "category": 8,
+      "explanation": "The stage direction includes 'Air' followed by the name of the tune, clearly indicating a music category.",
+      "stgdir": "Air : Faut-il qu'une fi faible plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 216,
+      "category": 8,
+      "explanation": "This stage direction describes hearing music in the street, fitting the music category.",
+      "stgdir": "On entend chanter dans la rue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 217,
+      "category": 8,
+      "explanation": "The stage direction includes 'Air' followed by the name of the tune, clearly indicating a music category.",
+      "stgdir": "Air : Fanfare de Saint-Cloud.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 218,
+      "category": 7,
+      "explanation": "This stage direction indicates Damis rising, which is a form of movement.",
+      "stgdir": "Damis, se l\u00e8ve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 219,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, directed toward a neighbor who is dozing in the compartment.",
+      "stgdir": "\u00c0 un voisin, qui somnole dans l'angle du compartiment.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 17171.926498413086,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 300,
+      "category": 3,
+      "explanation": "D'une voix cass\u00e9e. This stage direction indicates a delivery manner, specifically the way a character's voice sounds.",
+      "stgdir": "D'une voix cass\u00e9e.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 301,
+      "category": 6,
+      "explanation": "Il embrasse Fleur-de-Sauge. This stage direction describes a non-verbal interaction between characters.",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 302,
+      "category": 8,
+      "explanation": "Air : Nous n'avons qu'un temps \u00e0 vivre. This stage direction gives the name of a tune, indicating music.",
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 303,
+      "category": 9,
+      "explanation": "Th\u00e9r\u00e8se et Manette sont \u00e0 c\u00f4t\u00e9 l'une de l'autre, Elles travaillent ensemble \u00e0 garnir une robe. Th\u00e9r\u00e8se est habill\u00e9e tr\u00e8s simplement, coiff\u00e9e en grand bonnet, et para\u00eet triste et r\u00eaveuse. This stage direction has a narrative quality, describing the setting and the characters' actions in detail.",
+      "stgdir": "Th\u00e9r\u00e8se et Manette sont \u00e0 c\u00f4t\u00e9 l'une de l'autre, Elles travaillent ensemble \u00e0 garnir une robe. Th\u00e9r\u00e8se est habill\u00e9e tr\u00e8s simplement, coiff\u00e9e en grand bonnet, et para\u00eet triste et r\u00eaveuse.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 304,
+      "category": 12,
+      "explanation": "\u00c0 Salome. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Salome.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 305,
+      "category": 1,
+      "explanation": "Il tire son \u00e9p\u00e9e. This stage direction indicates an aggressive action, as drawing a sword can be considered a threat.",
+      "stgdir": "Il tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 306,
+      "category": 12,
+      "explanation": "Au bourreau. This stage direction indicates the addressee of a speech.",
+      "stgdir": "Au bourreau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 307,
+      "category": 5,
+      "explanation": "Idas sort. This stage direction indicates a character exiting the stage.",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 308,
+      "category": 4,
+      "explanation": "Hyp\u00e9rie para\u00eet. This stage direction indicates a character entering the stage.",
+      "stgdir": "Hyp\u00e9rie para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 309,
+      "category": 12,
+      "explanation": "\u00c0 Double-Sens. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Double-Sens.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 18724.915266036987,
+  "model": "mistral-large-2407"
+}

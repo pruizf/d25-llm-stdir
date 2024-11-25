@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 760,
+      "category": 6,
+      "explanation": "L\u00e9onore lui propose une longue entrevue avec Julie. This stage direction indicates a non-verbal interaction between characters.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 761,
+      "category": 12,
+      "explanation": "Au p\u00e8re de famille. This stage direction indicates the addressee of a speech.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 762,
+      "category": 12,
+      "explanation": "\u00c0 Philom\u00e8le. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 763,
+      "category": 12,
+      "explanation": "\u00c0 Adario. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 764,
+      "category": 12,
+      "explanation": "\u00c0 Crassus. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 765,
+      "category": 12,
+      "explanation": "\u00c0 \u00c9liante et Philinte. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 766,
+      "category": 12,
+      "explanation": "\u00c0 Placide. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 767,
+      "category": 12,
+      "explanation": "\u00c0 Tatonet. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 768,
+      "category": 12,
+      "explanation": "\u00c0 la Vidame. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 769,
+      "category": 12,
+      "explanation": "AU PARTERRE. This stage direction indicates the addressee of a speech.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15443.10736656189,
+  "model": "mistral-large-2407"
+}

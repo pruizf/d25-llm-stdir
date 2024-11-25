@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 400,
+      "category": 5,
+      "explanation": "Elle s'en va. - This stage direction indicates an exit, as 's'en aller' means to go away.",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 401,
+      "category": 7,
+      "explanation": "Il le suit. - This stage direction indicates movement, as 'suivre' means to follow.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 402,
+      "category": 5,
+      "explanation": "Le petit Befor se retire de la danse. - This stage direction indicates an exit, as 'se retirer' means to withdraw or leave.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 403,
+      "category": 7,
+      "explanation": "Elle veut s'enfuir. - This stage direction indicates movement, as 's'enfuir' means to run away.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 404,
+      "category": 7,
+      "explanation": "Il fait un mouvement pour aller au Chevalier. - This stage direction indicates movement, as 'faire un mouvement' means to make a movement.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 405,
+      "category": 7,
+      "explanation": "Revenant promptement \u00e0 elle. - This stage direction indicates movement, as 'revenir' means to come back.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 406,
+      "category": 7,
+      "explanation": "Il fait un mouvement pour s'\u00e9loigner. - This stage direction indicates movement, as 'faire un mouvement' means to make a movement and 's'\u00e9loigner' means to move away.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 407,
+      "category": 7,
+      "explanation": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me. - This stage direction indicates movement, as 'se rendre' means to go to or move to.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 408,
+      "category": 5,
+      "explanation": "Frontin s'en va. - This stage direction indicates an exit, as 's'en aller' means to go away.",
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 409,
+      "category": 7,
+      "explanation": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse. - This stage direction indicates movement, as 'se mettre' means to place oneself.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 18288.90633583069,
+  "model": "mistral-large-2407"
+}

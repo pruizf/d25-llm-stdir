@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1320,
+      "category": 1,
+      "explanation": "Ph\u00e9nice lui frappe sur l'\u00e9paule. This stage direction involves a violent action, so it fits the 'aggression' category.",
+      "stgdir": "Ph\u00e9nice lui frappe sur l'\u00e9paule.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1321,
+      "category": 0,
+      "explanation": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement. This describes a general character action, so it fits the 'action' category.",
+      "stgdir": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1322,
+      "category": 9,
+      "explanation": "Maurice ne dit pas ces mots pour la flatter, car, depuis un instant, il ne l'\u00e9coute plus... This is a long stage direction with narrative quality, intended for readers, so it fits the 'narration' category.",
+      "stgdir": "Maurice ne dit pas ces mots pour la flatter, car, depuis un instant, il ne l'\u00e9coute plus. Il \u00e9coute des feuilles qui semblent r\u00e9gler leur froissement sur sa marche. Elles se taisent quand il s'arr\u00eate, et quand il repart, aussit\u00f4t elles craquent. C'est s\u00fbr que quelqu'un de mal intentionn\u00e9 suit le couple \u00e0 travers les arbres, en se cachant. Et Blanche qui, tout \u00e0 l'heure, s'effrayait sans raison, parle haut maintenant, laisse \u00e9clater une joie innocente, ne soup\u00e7onne rien et gourmande Maurice.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1323,
+      "category": 5,
+      "explanation": "L\u00e9onor et Marine se retirent. This describes characters exiting, so it fits the 'exit' category.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1324,
+      "category": 7,
+      "explanation": "Il va pour sortir. This describes a character's movement, specifically moving to exit, so it fits the 'movement' category.",
+      "stgdir": "Il va pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1325,
+      "category": 11,
+      "explanation": "\u00c0 Bi\u00e8vre. This describes the play location, so it fits the 'setting' category.",
+      "stgdir": "\u00c0 Bi\u00e8vre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1326,
+      "category": 10,
+      "explanation": "Elle prend la pomme des mains du Normand. This describes a character interacting with an object, so it fits the 'object' category.",
+      "stgdir": "Elle prend la pomme des mains du Normand.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1327,
+      "category": 5,
+      "explanation": "Monsieur Mathieu sort, sans \u00e9couter Benjamine. This describes a character exiting, so it fits the 'exit' category.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1328,
+      "category": 6,
+      "explanation": "Ils m\u00ealent leurs mains l'une dans l'autre. This describes a non-verbal interaction between characters, so it fits the 'interaction' category.",
+      "stgdir": "Ils m\u00ealent leurs mains l'une dans l'autre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1329,
+      "category": 5,
+      "explanation": "Il dispara\u00eet enti\u00e8rement. This describes a character exiting, so it fits the 'exit' category.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 27949.33533668518,
+  "model": "mistral-large-2407"
+}

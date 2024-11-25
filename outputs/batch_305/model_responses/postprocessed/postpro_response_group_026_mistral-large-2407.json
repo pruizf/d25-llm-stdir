@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 260,
+      "category": 4,
+      "explanation": "The stage direction 'Ici Phalante para\u00eet.' describes a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 261,
+      "category": 9,
+      "explanation": "The stage direction 'Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.' is a long stage direction with narrative quality, intended for readers, which falls under the 'narration' category.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 262,
+      "category": 4,
+      "explanation": "The stage direction 'Lisanor para\u00eet.' describes a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 263,
+      "category": 4,
+      "explanation": "The stage direction 'Entr\u00e9e d'un Gille.' describes a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 264,
+      "category": 4,
+      "explanation": "The stage direction 'On voit para\u00eetre le Marquis dans le miroir.' describes a character appearing, which can be considered an entrance, falling under the 'entrance' category.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 265,
+      "category": 4,
+      "explanation": "The stage direction 'Flore et Blanche rentrent.' describes characters entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 266,
+      "category": 4,
+      "explanation": "The stage direction 'Oronte para\u00eet.' describes a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 267,
+      "category": 9,
+      "explanation": "The stage direction 'Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.' describes a narrative event, which falls under the 'narration' category.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 268,
+      "category": 4,
+      "explanation": "The stage direction 'Entr\u00e9e de ballet de trois Pantomimes.' describes characters entering the stage for a ballet, which falls under the 'entrance' category.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 269,
+      "category": 4,
+      "explanation": "The stage direction 'ENTR\u00c9E.' describes a general entrance, which falls under the 'entrance' category.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 17873.834133148193,
+  "model": "mistral-large-2407"
+}

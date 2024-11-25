@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2320",
+      "category": "6",
+      "explanation": "Graindor l'embrasse sur une joue. \u2014 This stage direction involves a non-verbal interaction between characters, specifically an embrace.",
+      "stgdir": "Graindor l'embrasse sur une joue.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2321",
+      "category": "9",
+      "explanation": "L\u00e9andre et Isabelle s'\u00e9pousent, puis se d\u00e9couvrent. Le gouverneur qui reconna\u00eet qu'il a \u00e9t\u00e9 tromp\u00e9, et que c'est sa femme qu'il vient de marier \u00e0 L\u00e9andre, apr\u00e8s les premiers emportements, consent d'en \u00e9pouser une autre, ratifie leur mariage, et ordonne la f\u00eate qui suit. \u2014 This is a long stage direction with narrative quality, describing a sequence of actions and events.",
+      "stgdir": "L\u00e9andre et Isabelle s'\u00e9pousent, puis se d\u00e9couvrent. Le gouverneur qui reconna\u00eet qu'il a \u00e9t\u00e9 tromp\u00e9, et que c'est sa femme qu'il vient de marier \u00e0 L\u00e9andre, apr\u00e8s les premiers emportements, consent d'en \u00e9pouser une autre, ratifie leur mariage, et ordonne la f\u00eate qui suit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2322",
+      "category": "6",
+      "explanation": "Il lui serre les bouts des doigts. \u2014 This stage direction involves a non-verbal interaction between characters, specifically holding the tips of someone's fingers.",
+      "stgdir": "Il lui serre les bouts des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2323",
+      "category": "10",
+      "explanation": "Elle d\u00e9cachette la lettre. \u2014 This stage direction describes a character's interaction with an object, specifically opening a letter.",
+      "stgdir": "Elle d\u00e9cachette la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2324",
+      "category": "4",
+      "explanation": "Entre La Baronne. \u2014 This stage direction indicates a character entering the stage.",
+      "stgdir": "Entre La Baronne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2325",
+      "category": "3",
+      "explanation": "Fondant en sanglots. \u2014 This stage direction describes the delivery manner of a character, specifically bursting into tears.",
+      "stgdir": "Fondant en sanglots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2326",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente le vestibule du s\u00e9rail. \u2014 This stage direction describes the setting or location of the play.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le vestibule du s\u00e9rail.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2327",
+      "category": "10",
+      "explanation": "Il lui donne le paquet ouvert. \u2014 This stage direction describes a character's interaction with an object, specifically giving an open package.",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2328",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente la maison d'Hilaire. \u2014 This stage direction describes the setting or location of the play.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la maison d'Hilaire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2329",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu destin\u00e9 aux \u00e9vocations de M\u00e9d\u00e9e. \u2014 This stage direction describes the setting or location of the play.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu destin\u00e9 aux \u00e9vocations de M\u00e9d\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 20088.740587234497,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1880,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Lise demande son portrait.' indicates a musical piece, which falls under the music category.",
+      "stgdir": "Air : Lise demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1881,
+      "category": 5,
+      "explanation": "The stage direction 'Harald sort.' indicates a character exiting, which falls under the exit category.",
+      "stgdir": "Harald sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1882,
+      "category": 7,
+      "explanation": "The stage direction 'Se soulevant un peu.' indicates a character movement, which falls under the movement category.",
+      "stgdir": "Se soulevant un peu.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1883,
+      "category": 6,
+      "explanation": "The stage direction 'Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :' indicates a non-verbal interaction, pointing at something, which falls under the interaction category.",
+      "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1884,
+      "category": 8,
+      "explanation": "The stage direction 'AIR : Marchande de mar\u00e9e.' indicates a musical piece, which falls under the music category.",
+      "stgdir": "AIR : Marchande de mar\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1885,
+      "category": 3,
+      "explanation": "The stage direction 'Il chante.' indicates the delivery manner of singing, which falls under the delivery category.",
+      "stgdir": "Il chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1886,
+      "category": 8,
+      "explanation": "The stage direction 'AIR : J'aime Henriette (d'une Heure de Folie.)' indicates a musical piece, which falls under the music category.",
+      "stgdir": "AIR : J'aime Henriette (d'une Heure de Folie.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1887,
+      "category": 0,
+      "explanation": "The stage direction 'Marton rit.' indicates a general action of laughing, which falls under the action category.",
+      "stgdir": "Marton rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1888,
+      "category": 5,
+      "explanation": "The stage direction 'M\u00e9lisse se retire.' indicates a character exiting, which falls under the exit category.",
+      "stgdir": "M\u00e9lisse se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1889,
+      "category": 3,
+      "explanation": "The stage direction 'La voix reprend.' indicates the delivery manner of singing or speaking again, which falls under the delivery category.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 19738.415241241455,
+  "model": "mistral-large-2407"
+}

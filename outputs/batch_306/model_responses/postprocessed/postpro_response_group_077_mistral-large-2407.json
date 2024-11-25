@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 770,
+      "category": 7,
+      "explanation": "Hortense les suit. - This indicates movement, specifically following someone.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 771,
+      "category": 5,
+      "explanation": "Il part avec Silvia. - This indicates an exit from the stage.",
+      "stgdir": "Il part avec Silvia.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 772,
+      "category": 8,
+      "explanation": "Air : Je ne verrai plus ce que j'aime. - This indicates music, specifically the name of a tune.",
+      "stgdir": "Air : Je ne verrai plus ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 773,
+      "category": 12,
+      "explanation": "\u00c0 Madame Patin. - This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame Patin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 774,
+      "category": 4,
+      "explanation": "Tartuffe entre chez Thalie. - This indicates an entrance onto the stage.",
+      "stgdir": "Tartuffe entre chez Thalie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 775,
+      "category": 8,
+      "explanation": "AIR : Quel plaisir de voir Claudine ! - This indicates music, specifically the name of a tune.",
+      "stgdir": "AIR : Quel plaisir de voir Claudine !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 776,
+      "category": 9,
+      "explanation": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique. - This is a long stage direction with narrative quality, describing the setting and actions.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 777,
+      "category": 7,
+      "explanation": "Allant \u00e0 Marie. - This indicates movement, specifically going towards someone.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 778,
+      "category": 12,
+      "explanation": "\u00c0 Arlequin. - This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Arlequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 779,
+      "category": 0,
+      "explanation": "Ayant l'air de chercher. - This indicates a general character action, specifically searching.",
+      "stgdir": "Ayant l'air de chercher.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 19956.18176460266,
+  "model": "mistral-large-2407"
+}

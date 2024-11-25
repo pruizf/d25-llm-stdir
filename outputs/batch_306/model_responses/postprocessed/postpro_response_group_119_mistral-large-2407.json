@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1190",
+      "category": "9",
+      "explanation": "This stage direction describes a narrative event (the swan singing as it dies) intended for readers.",
+      "stgdir": "Le cygne chante en mourant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1191",
+      "category": "9",
+      "explanation": "This stage direction narrates an event (Thecla's cries) intended for readers.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1192",
+      "category": "4",
+      "explanation": "This stage direction indicates that characters are entering the stage.",
+      "stgdir": "Il rentrent tous.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1193",
+      "category": "5",
+      "explanation": "This stage direction indicates that the character M\u00e9gatise is exiting.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1194",
+      "category": "1",
+      "explanation": "This stage direction describes a violent action (being beaten).",
+      "stgdir": "Il est encore battu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1195",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech (Risette).",
+      "stgdir": "\u00c0 Risette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1196",
+      "category": "9",
+      "explanation": "This stage direction narrates a sound event (trumpets and drums being heard) intended for readers.",
+      "stgdir": "Les trompettes et les tambours se font entendre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1197",
+      "category": "8",
+      "explanation": "This stage direction indicates the name of a tune (Air: De Weick).",
+      "stgdir": "Air : De Weick.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1198",
+      "category": "8",
+      "explanation": "This stage direction indicates the name of a tune (Air: Babet que t'es gentille).",
+      "stgdir": "Air : Babet que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1199",
+      "category": "6",
+      "explanation": "This stage direction describes a non-verbal interaction (Rosa being led by another character).",
+      "stgdir": "Elle entraine Rosa.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 14358.13045501709,
+  "model": "mistral-large-2407"
+}

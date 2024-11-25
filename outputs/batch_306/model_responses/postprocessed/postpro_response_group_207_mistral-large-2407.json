@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2070,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 ses pages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2071,
+      "category": 8,
+      "explanation": "Describes music, starts with 'AIR'.",
+      "stgdir": "AIR. Un mouvement de curiosit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2072,
+      "category": 10,
+      "explanation": "Describes the character's interaction with an object (a letter).",
+      "stgdir": "Il rend la lettre \u00e0 C\u00e9line.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2073,
+      "category": 8,
+      "explanation": "Describes music, starts with 'AIR'.",
+      "stgdir": "AIR. Di que st'alma, il fior tormento, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2074,
+      "category": 6,
+      "explanation": "Non-verbal interaction, showing something to another character.",
+      "stgdir": "Lui montrant le caf\u00e9 de l'Alliance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2075,
+      "category": 7,
+      "explanation": "Character movement, approaching another object (a statue).",
+      "stgdir": "Il s'approche d'une autre Statue.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2076,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Omphale.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2077,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality, describing a sequence of actions and events.",
+      "stgdir": "Les cris redoublent en dehors, les tambours battent, une foule de g\u00e9n\u00e9raux et d'officiers d'\u00e9tat major paraissent au fond et se placent vis-\u00e0-vis les portes vitr\u00e9es.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2078,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Don Alvar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2079,
+      "category": 11,
+      "explanation": "Describes a change in the stage setting.",
+      "stgdir": "Le th\u00e9\u00e2tre change.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 14730.29375076294,
+  "model": "mistral-large-2407"
+}

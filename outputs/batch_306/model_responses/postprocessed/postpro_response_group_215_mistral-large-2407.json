@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2150,
+      "category": 9,
+      "explanation": "Le th\u00e9\u00e2tre tremble. This stage direction describes a physical event affecting the theater, which is narrative in nature and intended for readers.",
+      "stgdir": "Le th\u00e9\u00e2tre tremble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2151,
+      "category": 12,
+      "explanation": "S'avan\u00e7ant ensuite vers la Vicomtesse. This stage direction indicates movement towards another character, which signifies the addressee of a speech.",
+      "stgdir": "S'avan\u00e7ant ensuite vers la Vicomtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2152,
+      "category": 0,
+      "explanation": "Apr\u00e8s avoir regard\u00e9 de tous cot\u00e9s. This stage direction describes a general action of looking around, which does not fit other specific categories.",
+      "stgdir": "Apr\u00e8s avoir regard\u00e9 de tous cot\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2153,
+      "category": 10,
+      "explanation": "Ici le couteau lui tombe [des] mains. This stage direction describes the interaction with an object (the knife falling from the hands).",
+      "stgdir": "Ici le couteau lui tombe [des] mains.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2154,
+      "category": 12,
+      "explanation": "Il est port\u00e9 vers Cl\u00e9op\u00e2tre. This stage direction indicates movement towards another character, which signifies the addressee of a speech.",
+      "stgdir": "Il est port\u00e9 vers Cl\u00e9op\u00e2tre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2155,
+      "category": 8,
+      "explanation": "Air. L\u00e0-haut sur ces montagnes. This stage direction describes a tune name, which is a music description.",
+      "stgdir": "Air. L\u00e0-haut sur ces montagnes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2156,
+      "category": 7,
+      "explanation": "Elle va s'asseoir \u00e0 gauche. This stage direction describes the character's movement (sitting down) but not an exit or entrance.",
+      "stgdir": "Elle va s'asseoir \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2157,
+      "category": 1,
+      "explanation": "Il les tient pr\u00eat \u00e0 les d\u00e9chirer. This stage direction describes a violent action (preparing to tear something).",
+      "stgdir": "Il les tient pr\u00eat \u00e0 les d\u00e9chirer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2158,
+      "category": 8,
+      "explanation": "Air : Femmes, voulez-vous \u00e9prouver. This stage direction describes a tune name, which is a music description.",
+      "stgdir": "Air : Femmes, voulez-vous \u00e9prouver.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2159,
+      "category": 10,
+      "explanation": "Il pose un domino. This stage direction describes the interaction with an object (placing a domino).",
+      "stgdir": "Il pose un domino.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 16694.14210319519,
+  "model": "mistral-large-2407"
+}

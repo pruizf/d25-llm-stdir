@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1560,
+      "category": 10,
+      "explanation": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires. This stage direction describes characters interacting with objects (accessoires).",
+      "stgdir": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1561,
+      "category": 12,
+      "explanation": "\u00c0 Drouillac. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Drouillac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1562,
+      "category": 7,
+      "explanation": "Apercevant Ang\u00e9lique. This stage direction describes character movement or perception, which is a form of movement.",
+      "stgdir": "Apercevant Ang\u00e9lique.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1563,
+      "category": 0,
+      "explanation": "Ayant l'air de chercher autour d'elle. This stage direction describes a general character action of looking around or searching.",
+      "stgdir": "Ayant l'air de chercher autour d'elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1564,
+      "category": 12,
+      "explanation": "Et \u00e0 Hortensius. This stage direction indicates the addressee of a speech.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1565,
+      "category": 1,
+      "explanation": "On les apaise \u00e0 grand peine. This stage direction describes a situation where characters are being calmed down, which could imply some form of aggression or conflict.",
+      "stgdir": "On les apaise \u00e0 grand peine.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1566,
+      "category": 5,
+      "explanation": "Duparc sort. This stage direction describes a character exiting the stage.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1567,
+      "category": 6,
+      "explanation": "Il embrasse Nicette et Mimi. This stage direction describes a non-verbal character interaction (embracing).",
+      "stgdir": "Il embrasse Nicette et Mimi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1568,
+      "category": 7,
+      "explanation": "Il remonte la sc\u00e8ne. This stage direction describes character movement (moving up the stage).",
+      "stgdir": "Il remonte la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1569,
+      "category": 7,
+      "explanation": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus. This stage direction describes character movement (approaching).",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 17720.670223236084,
+  "model": "mistral-large-2407"
+}

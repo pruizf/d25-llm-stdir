@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1150,
+      "category": 5,
+      "explanation": "Val\u00e9rian sort. (Val\u00e9rian exits) indicates a character exit.",
+      "stgdir": "Val\u00e9rian sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1151,
+      "category": 9,
+      "explanation": "Apr\u00e8s qu'il a lu. (After he has read) is a narrative description intended for readers.",
+      "stgdir": "Apr\u00e8s qu'il a lu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1152,
+      "category": 11,
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin. (The theater represents a landscape. On one side, Thomas's farm; on the other, Mathurin's) describes the setting of the play.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1153,
+      "category": 0,
+      "explanation": "Anselme rit. (Anselme laughs) is a general character action.",
+      "stgdir": "Anselme rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1154,
+      "category": 10,
+      "explanation": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets pour compl\u00e9ter la description du repas qu'il fait. (During this verse he tears, without noticing, all his tickets to complete the description of the meal he makes) describes a character's interaction with an object.",
+      "stgdir": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets pour compl\u00e9ter la description du repas qu'il fait.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1155,
+      "category": 7,
+      "explanation": "Ils entrent d'un pas d\u00e9gag\u00e9 l'un du jardin, l'autre de la cour. (They enter with a relaxed stride, one from the garden, the other from the courtyard) describes character movement.",
+      "stgdir": "Ils entrent d'un pas d\u00e9gag\u00e9 l'un du jardin, l'autre de la cour.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1156,
+      "category": 8,
+      "explanation": "AIR : Je n'ai pas le pouvoir. (AIR: I do not have the power) describes a tune name.",
+      "stgdir": "AIR : Je n'ai pas le pouvoir.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1157,
+      "category": 12,
+      "explanation": "\u00c0 la F\u00e9e. (To the Fairy) indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la F\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1158,
+      "category": 12,
+      "explanation": "\u00c0 Mathurin et \u00e0 Fran\u00e7oise. (To Mathurin and to Fran\u00e7oise) indicates the addressees of a speech.",
+      "stgdir": "\u00c0 Mathurin et \u00e0 Fran\u00e7oise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1159,
+      "category": 0,
+      "explanation": "En leur montrant Am\u00e9lite. (Showing them Am\u00e9lite) is a general character action.",
+      "stgdir": "En leur montrant Am\u00e9lite.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 19397.422075271606,
+  "model": "mistral-large-2407"
+}

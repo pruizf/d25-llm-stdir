@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 700,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifically the location and time of day.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 701,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, including the decoration and layout.",
+      "stgdir": "D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 702,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, detailing the layout of a salon.",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 703,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifically the location of Ubu's council room.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 704,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, detailing Rosine's apartment.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 705,
+      "category": 7,
+      "explanation": "This stage direction describes the movement of a character towards a specific object within the setting.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 706,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifically the change to the fairy's garden.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 707,
+      "category": 9,
+      "explanation": "This stage direction has a narrative quality, describing an event that occurs within the scene.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 708,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, including the decoration and layout.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 709,
+      "category": 10,
+      "explanation": "This stage direction describes an object within the setting, specifically a portrait on a stand.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 31842.649936676025,
+  "model": "mistral-large-2407"
+}

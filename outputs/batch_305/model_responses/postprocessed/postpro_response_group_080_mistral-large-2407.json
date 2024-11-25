@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 800,
+      "category": 12,
+      "explanation": "\u00c0 Marlot. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 801,
+      "category": 12,
+      "explanation": "\u00c0 Colette. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 802,
+      "category": 12,
+      "explanation": "\u00c0 G\u00e9ronte de sa voix ordinaire. - Indicates the addressee of a speech and specifies the delivery manner.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 803,
+      "category": 12,
+      "explanation": "Aux femmes. - Indicates the addressee of a speech.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 804,
+      "category": 12,
+      "explanation": "\u00c0 Monsieur de Chambre. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 805,
+      "category": 12,
+      "explanation": "\u00c0 son \u00e9poux. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 806,
+      "category": 12,
+      "explanation": "\u00c0 Hortensius. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 807,
+      "category": 12,
+      "explanation": "\u00c0 Guillaume. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 808,
+      "category": 12,
+      "explanation": "Aux Esclaves de son sexe. - Indicates the addressee of a speech.",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 809,
+      "category": 12,
+      "explanation": "\u00c0 Margot. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 19130.57017326355,
+  "model": "mistral-large-2407"
+}

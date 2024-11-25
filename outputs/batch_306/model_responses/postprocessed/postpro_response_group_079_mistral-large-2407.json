@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 790,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, detailing the appearance of the Sun's palace. It fits the 'setting' category.",
+      "stgdir": "Le Soleil parait dans son palais. Ce palais est d'or, compos\u00e9 avec des colonnes torses d'or poli, qui sont rev\u00eatues de branches de Laurier qui les environnent, de couleur naturelle. Les chapiteaux sont d'or fin cisel\u00e9, et les bases des colonnes de m\u00eame mati\u00e8re, aussi bien que la frise et la corniche. Le corps du massif de ce palais est de pierres pr\u00e9cieuses, et tous les pi\u00e9destaux de marbre blanc, au milieu desquels on voit de gros Rubis. Les panneaux sont enrichis de veines d'or sur un fond de lapis. Au-dessus de la Corniche on voit, dans une esp\u00e8ce de petite Attique d'o\u00f9 naissent les cintres, des lires d'or, avec plusieurs ornements\u00a0; et dans le milieu des vo\u00fbtes sont peints de grands Soleils d'or poli, avec quantit\u00e9s d'autres ornements. L'Optique de ce palais est toute transparente, et jette un \u00e9clat qui \u00e9blouit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 791,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction between characters (embracing Rom\u00e9o). It fits the 'interaction' category.",
+      "stgdir": "Il embrasse Rom\u00e9o.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 792,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech (\u00c0 Illo). It fits the 'toward' category.",
+      "stgdir": "\u00c0 Illo.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 793,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction between characters (embracing Lisidan). It fits the 'interaction' category.",
+      "stgdir": "Il embrasse Lisidan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 794,
+      "category": 2,
+      "explanation": "This stage direction indicates that the character is alone, which can be considered an aside. It fits the 'aparte' category.",
+      "stgdir": "\u00c9tant seule.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 795,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction between characters (retaining Hernani). It fits the 'interaction' category.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 796,
+      "category": 8,
+      "explanation": "This stage direction describes a tune name (Air d'Arlequin afficheur). It fits the 'music' category.",
+      "stgdir": "Air d'Arlequin afficheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 797,
+      "category": 5,
+      "explanation": "This stage direction indicates the end of the scene (La toile se baisse). It fits the 'exit' category as it implies characters exiting the stage.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 798,
+      "category": 8,
+      "explanation": "This stage direction describes a tune name (Air : Aim\u00e9 de la belle Ninon). It fits the 'music' category.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 799,
+      "category": 0,
+      "explanation": "This stage direction describes a general character action (kneeling before the Marquise). It fits the 'action' category.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 21798.01607131958,
+  "model": "mistral-large-2407"
+}

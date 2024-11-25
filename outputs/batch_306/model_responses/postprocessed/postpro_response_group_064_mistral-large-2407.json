@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 640,
+      "category": 8,
+      "explanation": "Il pr\u00e9lude encore. - This stage direction refers to musical prelude, which fits the category of music.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 641,
+      "category": 9,
+      "explanation": "(Gen. XXII, 17 et 18). - This stage direction seems to be a reference to a biblical passage, which adds narrative quality and is intended for readers.",
+      "stgdir": "(Gen. XXII, 17 et 18).",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 642,
+      "category": 4,
+      "explanation": "Le Comte para\u00eet. - This indicates the Count entering the stage, which fits the category of entrance.",
+      "stgdir": "Le Comte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 643,
+      "category": 7,
+      "explanation": "Tout accourt \u00e0 sa voix. - This indicates movement towards someone or something, which fits the category of movement.",
+      "stgdir": "Tout accourt \u00e0 sa voix.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 644,
+      "category": 0,
+      "explanation": "Il se l\u00e8ve de table. - This is a general action of standing up from the table, which fits the category of action.",
+      "stgdir": "Il se l\u00e8ve de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 645,
+      "category": 3,
+      "explanation": "\u00c0 demi-voix. - This describes the manner of speaking, which fits the category of delivery.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 646,
+      "category": 7,
+      "explanation": "Elles traversent toutes deux. - This indicates movement across the stage, which fits the category of movement.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 647,
+      "category": 0,
+      "explanation": "Elle joint les mains. - This is a general action of joining hands, which fits the category of action.",
+      "stgdir": "Elle joint les mains.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 648,
+      "category": 10,
+      "explanation": "On frappe \u00e0 la porte au fond. - This describes an interaction with an object (the door), which fits the category of object.",
+      "stgdir": "On frappe \u00e0 la porte au fond.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 649,
+      "category": 6,
+      "explanation": "Paquette lui serrant la main. - This indicates a non-verbal interaction between characters, which fits the category of interaction.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 19767.073154449463,
+  "model": "mistral-large-2407"
+}

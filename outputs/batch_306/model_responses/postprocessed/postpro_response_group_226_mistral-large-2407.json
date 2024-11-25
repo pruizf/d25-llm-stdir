@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2260,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air', which indicates a music description.",
+      "stgdir": "Air. H\u00e9las, ce fut sa faute.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2261,
+      "category": 4,
+      "explanation": "The stage direction describes characters entering the stage.",
+      "stgdir": "Ils arrivent tous quatre, don Carlos en t\u00eate. Ils sont envelopp\u00e9s de longs manteaux dont leurs \u00e9p\u00e9es soul\u00e8vent le bord inf\u00e9rieur.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2262,
+      "category": 5,
+      "explanation": "The stage direction describes a character exiting the stage.",
+      "stgdir": "Thibaut s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2263,
+      "category": 1,
+      "explanation": "The stage direction describes a violent action (taking poison).",
+      "stgdir": "Elle avale le poison.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2264,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR', which indicates a music description.",
+      "stgdir": "AIR : Ne m'entendez vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2265,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction (presenting an object).",
+      "stgdir": "On le lui pr\u00e9sente.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2266,
+      "category": 9,
+      "explanation": "The stage direction is a long narrative description intended for readers.",
+      "stgdir": "Voyant qu'elles s'expliquaient \u00e0 moi sans aucun scrupule, je leur dis qu'encore qu'elles m'eussent command\u00e9 de les \u00e9couter sans interrompre leurs discours, que je ne pouvais m'emp\u00eacher de leur confesser qu'elles avaient assez bien d\u00e9fendu leur opinion, touchant l'amour qu'elles pouvaient avoir pour un seul objet ; mais qu'il fallait traiter de cet amour qu'on feint d'avoir pour plusieurs, toutefois en ressentir que pour soi-m\u00eame.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2267,
+      "category": 7,
+      "explanation": "The stage direction describes a character movement (advancing on stage).",
+      "stgdir": "Avan\u00e7ant en sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2268,
+      "category": 0,
+      "explanation": "The stage direction describes a general character action (reading).",
+      "stgdir": "Don Cosme lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2269,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air', which indicates a music description.",
+      "stgdir": "Air 85 : Y-avance, y-avance.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 13863.446474075317,
+  "model": "mistral-large-2407"
+}

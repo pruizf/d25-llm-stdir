@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 330,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, specifically the location and context where the action takes place.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'\u00cele de Tenede, o\u00f9 Achille s'est retir\u00e9 aupr\u00e8s de ses vaisseaux, depuis sa querelle avec Agamemnon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 331,
+      "category": 2,
+      "explanation": "The term '[\u00c0 part]' indicates that the character is speaking aside, either to the audience or to themselves.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 332,
+      "category": 10,
+      "explanation": "This stage direction describes the character interacting with an object, specifically unwrapping a paper.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 333,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 G\u00e9ronte' indicates the addressee of the speech.",
+      "stgdir": "\u00c0 G\u00e9ronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 334,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, providing details about the location and layout of the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une salle du Palais des Capellets, qui communique d'un c\u00f4t\u00e9 aux Jardins.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 335,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Crassus' indicates the addressee of the speech.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 336,
+      "category": 5,
+      "explanation": "The term 'Le Garde sort' indicates that the character is exiting the stage.",
+      "stgdir": "Le Garde sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 337,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where the character touches someone else.",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 338,
+      "category": 1,
+      "explanation": "The character's actions of taking the b\u00fbche and making threatening gestures in the air indicate an aggressive or violent action.",
+      "stgdir": "Il prend la b\u00fbche et fait dans l'air des gestes mena\u00e7ants, il pose au milieu de la table.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 339,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Alain' indicates the addressee of the speech.",
+      "stgdir": "\u00c0 Alain.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 16415.77982902527,
+  "model": "mistral-large-2407"
+}

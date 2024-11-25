@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1370",
+      "category": "7",
+      "explanation": "Il le suit. (He follows him.) This indicates a character movement, following another character.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1371",
+      "category": "6",
+      "explanation": "Il parle \u00e0 Haly. (He speaks to Haly.) This indicates a non-verbal interaction, as the stage direction specifies to whom the character is speaking.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1372",
+      "category": "8",
+      "explanation": "AIR. Ah ! que je me lasse d'\u00eatre. (AIR. Ah! How I tire of being.) This indicates a music stage direction, specifying the name of the tune.",
+      "stgdir": "AIR. Ah ! que je me lasse d'\u00eatre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1373",
+      "category": "7",
+      "explanation": "Fr\u00e9d\u00e9ric emm\u00e8ne Ferdinand. (Fr\u00e9d\u00e9ric takes Ferdinand away.) This indicates a character movement, taking another character away.",
+      "stgdir": "Fr\u00e9d\u00e9ric emm\u00e8ne Ferdinand.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1374",
+      "category": "8",
+      "explanation": "Air. \u00c0 la fa\u00e7on de Barbari. (Air. In the manner of Barbari.) This indicates a music stage direction, specifying the name of the tune.",
+      "stgdir": "Air. \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1375",
+      "category": "8",
+      "explanation": "Air : La danse n'eslpas Ce que j'aime. (Air: Dancing is not what I love.) This indicates a music stage direction, specifying the name of the tune.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1376",
+      "category": "5",
+      "explanation": "Lucile et Damis sortent. (Lucile and Damis exit.) This indicates a character exit.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1377",
+      "category": "5",
+      "explanation": "Il s'en va et il emporte le couplet. (He goes away and takes the verse with him.) This indicates a character exit.",
+      "stgdir": "Il s'en va et il emporte le couplet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1378",
+      "category": "10",
+      "explanation": "Il lui montre le portrait d'\u00c9lise qu'il a au bras. (He shows him the portrait of \u00c9lise that he has on his arm.) This indicates an interaction with an object, showing a portrait.",
+      "stgdir": "Il lui montre le portrait d'\u00c9lise qu'il a au bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1379",
+      "category": "6",
+      "explanation": "Apercevant Cl\u00e9on. (Seeing Cl\u00e9on.) This indicates a non-verbal interaction, seeing a character.",
+      "stgdir": "Apercevant Cl\u00e9on.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 27204.057455062866,
+  "model": "mistral-large-2407"
+}

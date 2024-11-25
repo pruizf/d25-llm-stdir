@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 640,
+      "category": 10,
+      "explanation": "Serre-fort remplit et referme le sac. This stage direction describes the character interacting with an object (a bag), thus it falls under the 'object' category.",
+      "stgdir": "Serre-fort remplit et referme le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 641,
+      "category": 10,
+      "explanation": "Il jette sa bague \u00e0 terre. This stage direction describes the character interacting with an object (a ring), thus it falls under the 'object' category.",
+      "stgdir": "Il jette sa bague \u00e0 terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 642,
+      "category": 10,
+      "explanation": "Il donne une ordonnance. This stage direction describes the character giving an object (a prescription), thus it falls under the 'object' category.",
+      "stgdir": "Il donne une ordonnance.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 643,
+      "category": 10,
+      "explanation": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue. This stage direction describes the character interacting with an object (a sword), thus it falls under the 'object' category.",
+      "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 644,
+      "category": 10,
+      "explanation": "Il lui baille une lettre. This stage direction describes the character giving an object (a letter), thus it falls under the 'object' category.",
+      "stgdir": "Il lui baille une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 645,
+      "category": 10,
+      "explanation": "Prenant la bouteille. This stage direction describes the character interacting with an object (a bottle), thus it falls under the 'object' category.",
+      "stgdir": "Prenant la bouteille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 646,
+      "category": 10,
+      "explanation": "Il lui met le manteau royal. This stage direction describes the character interacting with an object (a royal cloak), thus it falls under the 'object' category.",
+      "stgdir": "Il lui met le manteau royal.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 647,
+      "category": 10,
+      "explanation": "Il \u00f4te son costume de vieillard. This stage direction describes the character interacting with an object (a costume), thus it falls under the 'object' category.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 648,
+      "category": 10,
+      "explanation": "En prenant le chapeau qu'Olympe avait laiss\u00e9. This stage direction describes the character interacting with an object (a hat), thus it falls under the 'object' category.",
+      "stgdir": "En prenant le chapeau qu'Olympe avait laiss\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 649,
+      "category": 10,
+      "explanation": "Il lui donne la promesse de Cl\u00e9andre. This stage direction describes the character giving an object (a promise), thus it falls under the 'object' category.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 26031.893730163574,
+  "model": "mistral-large-2407"
+}

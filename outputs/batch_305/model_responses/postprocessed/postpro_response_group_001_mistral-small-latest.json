@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "10",
+      "category": "7",
+      "explanation": "This stage direction describes a character action that is a movement (pointing with the foot).",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "0",
+      "explanation": "This stage direction describes a general character action (kneeling).",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "5",
+      "explanation": "This stage direction indicates that a character exits ('en dehors' means 'outside').",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "0",
+      "explanation": "This stage direction describes a general character action (eating).",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "7",
+      "explanation": "This stage direction describes a character movement (sitting on a chair).",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "5",
+      "explanation": "This stage direction indicates that a character exits ('sortir' means 'to leave').",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "10",
+      "explanation": "This stage direction describes an interaction with an object (pulling a cord).",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "1",
+      "explanation": "This stage direction describes a violent action (drawing a sword).",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "6",
+      "explanation": "This stage direction describes a non-verbal interaction (pointing at someone).",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "3",
+      "explanation": "This stage direction describes a delivery manner (changing tone to supplication).",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 6315.679311752319,
+  "model": "mistral-small-latest"
+}

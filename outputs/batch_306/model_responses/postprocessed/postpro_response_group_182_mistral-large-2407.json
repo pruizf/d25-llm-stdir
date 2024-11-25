@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1820,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 C\u00e9lidan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1821,
+      "category": 11,
+      "explanation": "Describes the stage setting or play location.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une Solitude.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1822,
+      "category": 9,
+      "explanation": "Narrative quality, intended for readers, describing characters or scene.",
+      "stgdir": "L'ABEILLE ET L'ARAIGN\u00c9E.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1823,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la m\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1824,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1825,
+      "category": 8,
+      "explanation": "Describes music or a tune name, often starts with 'AIR'.",
+      "stgdir": "AIR : Jusque dans la moindre chose. .",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1826,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mademoiselle B\u00e9jart et \u00e0 B\u00e9jart.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1827,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 S\u00e9sostris.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1828,
+      "category": 6,
+      "explanation": "Non-verbal character interaction, indicating 'Roger also'.",
+      "stgdir": "Et Roger aussi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1829,
+      "category": 11,
+      "explanation": "Describes the stage setting or play location.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 14844.977855682373,
+  "model": "mistral-large-2407"
+}

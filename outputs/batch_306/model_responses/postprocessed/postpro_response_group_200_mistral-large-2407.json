@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2000,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Joconde.' indicates the name of a tune, which falls under the 'music' category.",
+      "stgdir": "Air : Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2001,
+      "category": 0,
+      "explanation": "The stage direction 'Ils se mettent \u00e0 table.' describes a general action of the characters sitting at a table.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2002,
+      "category": 12,
+      "explanation": "The stage direction 'Montrant son amant.' indicates the addressee of a speech, which falls under the 'toward' category.",
+      "stgdir": "Montrant son amant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2003,
+      "category": 1,
+      "explanation": "The stage direction 'Il met la main \u00e0 l'\u00e9p\u00e9e.' indicates a violent action, suggesting a threat, which falls under the 'aggression' category.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2004,
+      "category": 9,
+      "explanation": "The stage direction 'On entend les cris du Peuple dans le fond.' is a narrative description intended for readers, which falls under the 'narration' category.",
+      "stgdir": "On entend les cris du Peuple dans le fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2005,
+      "category": 6,
+      "explanation": "The stage direction 'Elles ne se regardent plus.' describes a non-verbal interaction between characters, which falls under the 'interaction' category.",
+      "stgdir": "Elles ne se regardent plus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2006,
+      "category": 12,
+      "explanation": "The stage direction 'L'abordant.' indicates the addressee of a speech, which falls under the 'toward' category.",
+      "stgdir": "L'abordant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2007,
+      "category": 0,
+      "explanation": "The stage direction 'Regardant le chanson.' describes a general action of looking at something, which falls under the 'action' category.",
+      "stgdir": "Regardant le chanson.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2008,
+      "category": 7,
+      "explanation": "The stage direction 'Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne.' describes a character movement, which falls under the 'movement' category.",
+      "stgdir": "Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2009,
+      "category": 8,
+      "explanation": "The stage direction 'Air : P\u00e8re je me confesse.' indicates the name of a tune, which falls under the 'music' category.",
+      "stgdir": "Air : P\u00e8re je me confesse.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 26778.33127975464,
+  "model": "mistral-large-2407"
+}

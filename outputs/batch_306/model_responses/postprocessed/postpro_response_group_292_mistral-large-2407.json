@@ -1,0 +1,27 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2920",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Quand on a prononc\u00e9.' refers to a tune name and is therefore classified under the music category.",
+      "stgdir": "Air : Quand on a prononc\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2921",
+      "category": "1",
+      "explanation": "The stage direction 'Ils haussent leurs b\u00e2tons.' describes a potentially aggressive action with b\u00e2tons, thus it is classified under the aggression category.",
+      "stgdir": "Ils haussent leurs b\u00e2tons.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2922",
+      "category": "4",
+      "explanation": "The stage direction 'Salom\u00e9 entre.' indicates that a character is entering the stage, hence it is classified under the entrance category.",
+      "stgdir": "Salom\u00e9 entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 6004.90927696228,
+  "model": "mistral-large-2407"
+}

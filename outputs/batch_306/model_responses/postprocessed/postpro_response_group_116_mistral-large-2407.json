@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1160,
+      "category": 3,
+      "explanation": "Marquant sa joie. This stage direction indicates a character expressing joy, which falls under delivery manner.",
+      "stgdir": "Marquant sa joie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1161,
+      "category": 0,
+      "explanation": "Il lit la lettre apr\u00e8s quoi il dit. This stage direction indicates a character reading a letter and then speaking, which is a general character action.",
+      "stgdir": "Il lit la lettre apr\u00e8s quoi il dit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1162,
+      "category": 8,
+      "explanation": "AIR Quand le p\u00e9ril est agr\u00e9able. This stage direction indicates a musical tune, which falls under music.",
+      "stgdir": "AIR Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1163,
+      "category": 6,
+      "explanation": "Il rappelle Monsieur Oronte. This stage direction indicates a character calling someone, which is a non-verbal interaction.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1164,
+      "category": 12,
+      "explanation": "\u00c0 Zika. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Zika.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1165,
+      "category": 12,
+      "explanation": "\u00c0 Lycandre. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1166,
+      "category": 8,
+      "explanation": "On entend la ritournelle du morceau. This stage direction indicates hearing a musical piece, which falls under music.",
+      "stgdir": "On entend la ritournelle du morceau.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1167,
+      "category": 0,
+      "explanation": "Lisant. This stage direction indicates a character reading, which is a general character action.",
+      "stgdir": "Lisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1168,
+      "category": 10,
+      "explanation": "Elle ouvre l'armoire. This stage direction indicates a character interacting with an object (opening an armoire), which falls under object.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1169,
+      "category": 8,
+      "explanation": "Air : Le Cabaret est mon r\u00e9duit. This stage direction indicates a musical tune, which falls under music.",
+      "stgdir": "Air : Le Cabaret est mon r\u00e9duit.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17427.77943611145,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 630,
+      "category": 10,
+      "explanation": "Il la reprend. (He takes it back.) - This involves interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il la reprend.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 631,
+      "category": 6,
+      "explanation": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre. (Meanwhile, Monsieur Hardouin moves Madame Bertrand's shawl aside and disarranges her a bit.) - This is a non-verbal interaction between characters, fitting the 'interaction' category.",
+      "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 632,
+      "category": 10,
+      "explanation": "Il lui donne la lettre. (He gives her the letter.) - This involves giving an object, fitting the 'object' category.",
+      "stgdir": "Il lui donne la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 633,
+      "category": 10,
+      "explanation": "Il la donne. (He gives it.) - This involves giving an object, fitting the 'object' category.",
+      "stgdir": "Il la donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 634,
+      "category": 10,
+      "explanation": "Bernard prend le portefeuille. (Bernard takes the wallet.) - This involves interaction with an object, fitting the 'object' category.",
+      "stgdir": "Bernard prend le portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 635,
+      "category": 6,
+      "explanation": "Lui effeuillant son bouquet de roses sur la t\u00eate. (He scatters the petals of his bouquet of roses on her head.) - This is a non-verbal interaction between characters, fitting the 'interaction' category.",
+      "stgdir": "Lui effeuillant son bouquet de roses sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 636,
+      "category": 10,
+      "explanation": "Elle remet la lettre a Julie. (She gives the letter back to Julie.) - This involves giving an object, fitting the 'object' category.",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 637,
+      "category": 10,
+      "explanation": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche. (He takes a letter from his pocket and goes to place it on the log.) - This involves interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 638,
+      "category": 6,
+      "explanation": "Paquette lui serrant la main. (Paquette squeezes his hand.) - This is a non-verbal interaction between characters, fitting the 'interaction' category.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 639,
+      "category": 10,
+      "explanation": "Il d\u00e9chire la Version. (He tears up the Version.) - This involves interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il d\u00e9chire la Version.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 20869.97938156128,
+  "model": "mistral-large-2407"
+}

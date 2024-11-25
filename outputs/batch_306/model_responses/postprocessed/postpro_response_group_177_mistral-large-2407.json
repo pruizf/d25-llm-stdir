@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1770,
+      "category": 9,
+      "explanation": "This stage direction describes a sequence of actions involving multiple characters and objects, making it a narration.",
+      "stgdir": "LICOM\u00c8DE contraint ALCESTE d'entrer dans la Ville, C\u00c9PHISE la suit, et les soldats de LICOM\u00c8DE ferment la Porte de la Ville aussit\u00f4t qu'ils y sont entr\u00e9s.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1771,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Perside.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1772,
+      "category": 8,
+      "explanation": "This stage direction starts with 'AIR' and describes a tune, making it a music stage direction.",
+      "stgdir": "AIR : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1773,
+      "category": 5,
+      "explanation": "This stage direction describes a character exiting ('se retire'), which fits the exit category.",
+      "stgdir": "Sangaride se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1774,
+      "category": 10,
+      "explanation": "This stage direction describes a character presenting an object (three pailles), fitting the object category.",
+      "stgdir": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1775,
+      "category": 10,
+      "explanation": "This stage direction describes a character interacting with an object (avient une paire de pistolets), fitting the object category.",
+      "stgdir": "Il avient une paire de pistolets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1776,
+      "category": 8,
+      "explanation": "This stage direction starts with 'AIR' and describes a tune, making it a music stage direction.",
+      "stgdir": "AIR : Amis, voici la riante semaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1777,
+      "category": 5,
+      "explanation": "This stage direction describes a character exiting ('l'Abb\u00e9 sort'), which fits the exit category.",
+      "stgdir": "L'Abb\u00e9 sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1778,
+      "category": 3,
+      "explanation": "This stage direction describes the manner of delivery ('il dit ces quatre vers bas'), fitting the delivery category.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1779,
+      "category": 2,
+      "explanation": "This stage direction indicates an aside ('Voyant para\u00eetre \u00c9liante'), fitting the aparte category.",
+      "stgdir": "Voyant para\u00eetre \u00c9liante.",
+      "categFull": "aparte"
+    }
+  ],
+  "response_time": 16352.944135665894,
+  "model": "mistral-large-2407"
+}

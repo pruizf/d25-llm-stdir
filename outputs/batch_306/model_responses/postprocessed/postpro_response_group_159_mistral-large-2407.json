@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1590",
+      "category": "11",
+      "explanation": "This stage direction describes the setting of the scene, specifying that the theater represents the palace of A\u00ebt\u00e8s.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'A\u00ebt\u00e8s.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1591",
+      "category": "10",
+      "explanation": "This stage direction involves the character throwing an object (a ring) to the ground.",
+      "stgdir": "Il jette sa bague \u00e0 terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1592",
+      "category": "1",
+      "explanation": "This stage direction describes a violent action where the character is being hit.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1593",
+      "category": "4",
+      "explanation": "This stage direction describes the entrance of characters (Pauline and \u00c9lise) onto the stage.",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1594",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech, specifically '\u00c0 Estelle' (to Estelle).",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1595",
+      "category": "9",
+      "explanation": "This stage direction has a narrative quality, describing that the scenes are Italian.",
+      "stgdir": "Sc\u00e8nes italiennes.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1596",
+      "category": "1",
+      "explanation": "This stage direction describes a fight, which is a violent action.",
+      "stgdir": "Ils se battent, et Roger ne fait que parer les coups.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1597",
+      "category": "8",
+      "explanation": "This stage direction describes a musical action where the character sings a small motet.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1598",
+      "category": "6",
+      "explanation": "This stage direction describes a non-verbal interaction where the characters look at each other with their glasses.",
+      "stgdir": "Ils se regardent tous deux avec leurs lunettes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1599",
+      "category": "6",
+      "explanation": "This stage direction describes a non-verbal interaction where the character is trying to take someone's hand.",
+      "stgdir": "Voulant lui prendre la main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 16540.555715560913,
+  "model": "mistral-large-2407"
+}

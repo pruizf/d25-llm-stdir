@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2670,
+      "category": 12,
+      "explanation": "Montrant Crispin. Indicates the addressee of a speech.",
+      "stgdir": "Montrant Crispin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2671,
+      "category": 8,
+      "explanation": "Air : Du vaudeville de Madame Scarron. Describes a tune name, indicating music.",
+      "stgdir": "Air : Du vaudeville de Madame Scarron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2672,
+      "category": 12,
+      "explanation": "Montrant Trissotin. Indicates the addressee of a speech.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2673,
+      "category": 0,
+      "explanation": "Ils rient. General character action of laughing.",
+      "stgdir": "Ils rient.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2674,
+      "category": 12,
+      "explanation": "Au Crocheteur. Indicates the addressee of a speech.",
+      "stgdir": "Au Crocheteur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2675,
+      "category": 1,
+      "explanation": "Alexandre mettant la main sur son \u00e9p\u00e9e. Indicates a potentially violent action of putting a hand on a sword.",
+      "stgdir": "Alexandre mettant la main sur son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2676,
+      "category": 8,
+      "explanation": "Air 91 : \u00d4 gu\u00e9, lon-la, lan-laire. Describes a tune name, indicating music.",
+      "stgdir": "Air 91 : \u00d4 gu\u00e9, lon-la, lan-laire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2677,
+      "category": 5,
+      "explanation": "Ils sortent tous avec le poignard sanglant \u00e0 la main apr\u00e8s avoir tu\u00e9 C\u00e9sar. Indicates characters exiting the stage.",
+      "stgdir": "Ils sortent tous avec le poignard sanglant \u00e0 la main apr\u00e8s avoir tu\u00e9 C\u00e9sar.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2678,
+      "category": 4,
+      "explanation": "Entr\u00e9e d'un Gille. Indicates a character entering the stage.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2679,
+      "category": 8,
+      "explanation": "AIR. Au bout du monde, etc. Describes a tune name, indicating music.",
+      "stgdir": "AIR. Au bout du monde, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 15362.853050231934,
+  "model": "mistral-large-2407"
+}

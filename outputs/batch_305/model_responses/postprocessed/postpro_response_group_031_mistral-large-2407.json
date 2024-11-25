@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 310,
+      "category": 7,
+      "explanation": "The stage direction describes the character joining \u00c9tienne and moving away ('reculant') and saving himself. This is a character movement, not specifically an exit or entrance.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 311,
+      "category": 5,
+      "explanation": "The stage direction describes characters exiting with valets and flambeaux. The duc and the king are exiting the stage.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 312,
+      "category": 5,
+      "explanation": "Algine is exiting the stage. The verb 'sort' indicates an exit.",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 313,
+      "category": 5,
+      "explanation": "All characters are exiting the stage. The verb 'sortent' indicates an exit.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 314,
+      "category": 5,
+      "explanation": "Ormin is exiting the stage. The phrase 's'en va' indicates an exit.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 315,
+      "category": 5,
+      "explanation": "La Montagne is exiting the stage. The phrase 's'en va' indicates an exit.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 316,
+      "category": 5,
+      "explanation": "Idas is exiting the stage. The verb 'sort' indicates an exit.",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 317,
+      "category": 5,
+      "explanation": "Alcandre is exiting the stage. The verb 'sort' indicates an exit.",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 318,
+      "category": 4,
+      "explanation": "Julie enters the Cardinal's place, and Lamperri\u00e8re exits through the back. The verb 'entre' indicates an entrance for Julie, and 'sort' indicates an exit for Lamperri\u00e8re.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 319,
+      "category": 7,
+      "explanation": "The stage direction describes the character returning. The phrase 's'en retourne' indicates a movement, not specifically an exit or entrance.",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 16048.707008361816,
+  "model": "mistral-large-2407"
+}

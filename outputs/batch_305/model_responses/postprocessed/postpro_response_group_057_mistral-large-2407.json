@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 570,
+      "category": 9,
+      "explanation": "Strophe VII indicates a narrative quality, likely describing a scene or sequence of actions.",
+      "stgdir": "Strophe VII.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 571,
+      "category": 8,
+      "explanation": "AIR. Je crois Lison indicates a tune name or music description.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 572,
+      "category": 8,
+      "explanation": "AIR : Quand on conspire indicates a tune name or music description.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 573,
+      "category": 8,
+      "explanation": "AIR. Di que st'alma, il fior tormento, etc. indicates a tune name or music description.",
+      "stgdir": "AIR. Di que st'alma, il fior tormento, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 574,
+      "category": 8,
+      "explanation": "Air de Marianne indicates a tune name or music description.",
+      "stgdir": "Air de Marianne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 575,
+      "category": 8,
+      "explanation": "Air 30 : Lanturlu indicates a tune name or music description.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 576,
+      "category": 8,
+      "explanation": "Air : Folies d'Espagne indicates a tune name or music description.",
+      "stgdir": "Air : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 577,
+      "category": 8,
+      "explanation": "Air : Aim\u00e9 de la belle Ninon indicates a tune name or music description.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 578,
+      "category": 8,
+      "explanation": "Air : Ah ! Madame Anroux indicates a tune name or music description.",
+      "stgdir": "Air : Ah ! Madame Anroux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 579,
+      "category": 9,
+      "explanation": "Stances indicates a narrative quality, likely describing a scene or sequence of actions.",
+      "stgdir": "Stances.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 14520.49708366394,
+  "model": "mistral-large-2407"
+}

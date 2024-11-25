@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 710,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 711,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Il prend des notes pour sa collection.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 712,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Elle se jette \u00e0 terre et se prosterne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 713,
+      "category": 6,
+      "explanation": "Non-verbal character interaction. The interaction must be non-verbal, e.g. heurter (hit), faire trois ou quatre pas (take three or four steps).",
+      "stgdir": "Il heurte Grapinian, qui fait trois ou quatre pas, et se touchant le coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 714,
+      "category": 6,
+      "explanation": "Non-verbal character interaction. The interaction must be non-verbal, e.g. \u00e9clater de rire (burst out laughing).",
+      "stgdir": "Dassoucy, le Docteur et Pierrotin \u00e9clatent de rire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 715,
+      "category": 6,
+      "explanation": "Non-verbal character interaction. The interaction must be non-verbal, e.g. se retourner (turn around), faire des signes (make signs).",
+      "stgdir": "Il se retourne devers Isidore, \u00e0 chaque parole qu'il dit \u00e0 Don_P\u00e8dre : et lui fait des signes pour lui faire conna\u00eetre le dessein de son ma\u00eetre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 716,
+      "category": 8,
+      "explanation": "Tune names (plays with songs). Music description. Often starts with the word 'AIR' or 'Air'.",
+      "stgdir": "Air. Nanon dormait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 717,
+      "category": 8,
+      "explanation": "Tune names (plays with songs). Music description. Often starts with the word 'AIR' or 'Air'.",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 718,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Argimont.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 719,
+      "category": 5,
+      "explanation": "Character exits. Verbs related to this type of stage direction are (in French) 'se retirer', 'sortir', 's'en aller' and other close verbs.",
+      "stgdir": "Il sort en tirant ses tablettes.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 16817.084074020386,
+  "model": "mistral-large-2407"
+}

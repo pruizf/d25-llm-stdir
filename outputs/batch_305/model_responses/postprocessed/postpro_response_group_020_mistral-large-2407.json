@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 200,
+      "category": 9,
+      "explanation": "This stage direction describes a silence, which is a narrative element intended for readers, hence it falls under 'narration'.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 201,
+      "category": 4,
+      "explanation": "Laurent enters the stage, which is an 'entrance'.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 202,
+      "category": 8,
+      "explanation": "The action 'pr\u00e9lude' refers to music, so it falls under 'music'.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 203,
+      "category": 9,
+      "explanation": "This stage direction describes Th\u00e9cla's cries, which is a narrative element intended for readers, hence it falls under 'narration'.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 204,
+      "category": 9,
+      "explanation": "This stage direction describes distant cries and a military march, which are narrative elements intended for readers, hence it falls under 'narration'.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 205,
+      "category": 3,
+      "explanation": "This stage direction describes the manner of delivery, hence it falls under 'delivery'.",
+      "stgdir": "Reprenant son ton de voix familier et indiff\u00e9rent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 206,
+      "category": 3,
+      "explanation": "This stage direction describes the manner of delivery, hence it falls under 'delivery'.",
+      "stgdir": "Parlant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 207,
+      "category": 3,
+      "explanation": "This stage direction describes the manner of delivery, hence it falls under 'delivery'.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 208,
+      "category": 1,
+      "explanation": "This stage direction describes an aggressive action, hence it falls under 'aggression'.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 209,
+      "category": 9,
+      "explanation": "This stage direction describes the reaction of the young girls, which is a narrative element intended for readers, hence it falls under 'narration'.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 19385.736227035522,
+  "model": "mistral-large-2407"
+}

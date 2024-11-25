@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1030,
+      "category": 1,
+      "explanation": "Il veut faire un pas. Do\u00f1a Sol l\u00e8ve le poignard. This stage direction involves a violent action (leving a poignard), so it falls under the aggression category.",
+      "stgdir": "Il veut faire un pas. Do\u00f1a Sol l\u00e8ve le poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1031,
+      "category": 4,
+      "explanation": "Entrent Madeleine Ozeray et Raymone. This stage direction describes characters entering the stage, so it falls under the entrance category.",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1032,
+      "category": 12,
+      "explanation": "\u00c0 Champagne. This stage direction indicates the addressee of a speech, so it falls under the toward category.",
+      "stgdir": "\u00c0 Champagne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1033,
+      "category": 8,
+      "explanation": "AIR Patapan. This stage direction describes a tune name, so it falls under the music category.",
+      "stgdir": "AIR Patapan.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1034,
+      "category": 6,
+      "explanation": "Dorante baise la main de la Comtesse. This stage direction involves a non-verbal interaction (kissing a hand), so it falls under the interaction category.",
+      "stgdir": "Dorante baise la main de la Comtesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1035,
+      "category": 12,
+      "explanation": "\u00c0 Henri. This stage direction indicates the addressee of a speech, so it falls under the toward category.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1036,
+      "category": 10,
+      "explanation": "Il prend dans le gousset de son gilet une boite d'allumettes bougies. This stage direction describes a character's interaction with an object (taking a box of matches), so it falls under the object category.",
+      "stgdir": "Il prend dans le gousset de son gilet une boite d'allumettes bougies.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1037,
+      "category": 3,
+      "explanation": "Changeant de ton et suppliant. This stage direction describes a delivery manner (changing tone and supplicating), so it falls under the delivery category.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1038,
+      "category": 4,
+      "explanation": "Gr\u00e9goire para\u00eet. This stage direction describes a character entering the stage, so it falls under the entrance category.",
+      "stgdir": "Gr\u00e9goire para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1039,
+      "category": 1,
+      "explanation": "Comme il les voit se battre, tout bless\u00e9 il se jette entre le fr\u00e8re et la soeur pour les s\u00e9parer. This stage direction involves a violent action (fighting and separating), so it falls under the aggression category.",
+      "stgdir": "Comme il les voit se battre, tout bless\u00e9 il se jette entre le fr\u00e8re et la soeur pour les s\u00e9parer.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 18560.794353485107,
+  "model": "mistral-large-2407"
+}

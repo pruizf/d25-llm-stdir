@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2720,
+      "category": 10,
+      "explanation": "Il cachette sa lettre. This stage direction describes a character interacting with an object (a letter), so it fits best in the 'object' category.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2721,
+      "category": 4,
+      "explanation": "Camille rentre. This stage direction indicates a character entering the stage, so it fits best in the 'entrance' category.",
+      "stgdir": "Camille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2722,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes. This stage direction describes a change in the stage setting, so it fits best in the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2723,
+      "category": 12,
+      "explanation": "Au Grand Bibi. This stage direction indicates the addressee of a speech, so it fits best in the 'toward' category.",
+      "stgdir": "Au Grand Bibi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2724,
+      "category": 8,
+      "explanation": "Air De l'Anonyme. This stage direction describes a tune name, so it fits best in the 'music' category.",
+      "stgdir": "Air De l'Anonyme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2725,
+      "category": 6,
+      "explanation": "D\u00e9mophon, lui montrant la promesse. This stage direction describes a non-verbal interaction (showing a promise), so it fits best in the 'interaction' category.",
+      "stgdir": "D\u00e9mophon, lui montrant la promesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2726,
+      "category": 8,
+      "explanation": "AIR : This stage direction describes the beginning of a tune, so it fits best in the 'music' category.",
+      "stgdir": "AIR :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2727,
+      "category": 8,
+      "explanation": "Air : La vieille m\u00e9thode. This stage direction describes a tune name, so it fits best in the 'music' category.",
+      "stgdir": "Air : La vieille m\u00e9thode.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2728,
+      "category": 12,
+      "explanation": "\u00c0 Calotin. This stage direction indicates the addressee of a speech, so it fits best in the 'toward' category.",
+      "stgdir": "\u00c0 Calotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2729,
+      "category": 12,
+      "explanation": "Au Ma\u00eetre d'H\u00f4tel. This stage direction indicates the addressee of a speech, so it fits best in the 'toward' category.",
+      "stgdir": "Au Ma\u00eetre d'H\u00f4tel.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 20302.67381668091,
+  "model": "mistral-large-2407"
+}

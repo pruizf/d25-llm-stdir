@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1930,
+      "category": 10,
+      "explanation": "The stage direction involves an object (a mirror) being brought in and interacted with by a character (Ang\u00e9lique).",
+      "stgdir": "On apporte un grand Miroir, Ang\u00e9lique s'y voit fort laide, et s'en va toute f\u00e2ch\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1931,
+      "category": 5,
+      "explanation": "The stage direction describes a character (Ang\u00e9lique) exiting the stage with another character (Lisette).",
+      "stgdir": "Elle sort avec Lisette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1932,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech (Antoine, qui veut parler).",
+      "stgdir": "\u00c0 Antoine, qui veut parler.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1933,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech (Monsieur de Chambre).",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1934,
+      "category": 4,
+      "explanation": "The stage direction describes a character entering the stage from the left.",
+      "stgdir": "Elle entre \u00e0 gauche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1935,
+      "category": 9,
+      "explanation": "The stage direction is a narrative element, likely intended for readers, describing a sonnet.",
+      "stgdir": "Sonnet",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1936,
+      "category": 0,
+      "explanation": "The stage direction describes a general character action (eating greedily).",
+      "stgdir": "Il mange goul\u00fbment.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1937,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction (Justine defending herself).",
+      "stgdir": "Justine se d\u00e9fend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1938,
+      "category": 3,
+      "explanation": "The stage direction describes the delivery manner of a character (repeating four last verses).",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1939,
+      "category": 1,
+      "explanation": "The stage direction describes a violent action (slaughtering victims).",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 17137.749195098877,
+  "model": "mistral-large-2407"
+}

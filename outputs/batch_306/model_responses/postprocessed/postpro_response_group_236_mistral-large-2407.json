@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2360,
+      "category": 4,
+      "explanation": "L'esclave para\u00eet. - This stage direction indicates a character entering the stage.",
+      "stgdir": "L'esclave para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2361,
+      "category": 8,
+      "explanation": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira : - This stage direction describes music and a sequence of actions, fitting into the 'music' category.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2362,
+      "category": 12,
+      "explanation": "\u00c0 Deschamps. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Deschamps.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2363,
+      "category": 0,
+      "explanation": "Il rit de toute sa force. - This stage direction describes a general character action (laughing).",
+      "stgdir": "Il rit de toute sa force.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2364,
+      "category": 12,
+      "explanation": "Au marquis - This stage direction indicates the addressee of a speech.",
+      "stgdir": "Au marquis",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2365,
+      "category": 5,
+      "explanation": "Il part. - This stage direction indicates a character exiting the stage.",
+      "stgdir": "Il part.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2366,
+      "category": 8,
+      "explanation": "Air: Le moyen de faire autrement. Du Peintre amoureux, N\u00b0 3. - This stage direction describes a tune name, fitting into the 'music' category.",
+      "stgdir": "Air: Le moyen de faire autrement. Du Peintre amoureux, N\u00b0 3.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2367,
+      "category": 6,
+      "explanation": "L\u00e9onore lui propose une longue entrevue avec Julie. - This stage direction describes a non-verbal interaction where L\u00e9onore proposes an interaction with Julie.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2368,
+      "category": 11,
+      "explanation": "LES SIRENES. - This stage direction could be interpreted as a setting or stage description involving sirens.",
+      "stgdir": "LES SIRENES.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2369,
+      "category": 8,
+      "explanation": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais. - This stage direction describes music, specifically a tune name.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 18220.839023590088,
+  "model": "mistral-large-2407"
+}

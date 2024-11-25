@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 30,
+      "category": 11,
+      "explanation": "Il fait lever la toile. This stage direction describes the setting, specifically the raising of the curtain, which is a stage description.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 31,
+      "category": 9,
+      "explanation": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit; le Docteur le poursuit en parlant toujours ad libitum. This is a long stage direction with narrative quality, describing a sequence of character actions.",
+      "stgdir": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 32,
+      "category": 5,
+      "explanation": "Actor s'en va. This stage direction indicates the character's exit.",
+      "stgdir": "Actor s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 33,
+      "category": 10,
+      "explanation": "Elle d\u00e9chire la lettre. This stage direction describes the character's interaction with an object, specifically tearing a letter.",
+      "stgdir": "Elle d\u00e9chire la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 34,
+      "category": 8,
+      "explanation": "Air nouveau de Couder. This stage direction describes music, specifically a new tune by Couder.",
+      "stgdir": "Air nouveau de Couder.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 35,
+      "category": 12,
+      "explanation": "\u00c0 Poquelin. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 36,
+      "category": 8,
+      "explanation": "Air : Je veux t'\u00eatre un Chien, etc. This stage direction describes music, specifically the tune 'Je veux t'\u00eatre un Chien'.",
+      "stgdir": "Air : Je veux t'\u00eatre un Chien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 37,
+      "category": 3,
+      "explanation": "Elle aper\u00e7oit Dorval et change de ton. This stage direction describes a change in the delivery manner, specifically a change in tone.",
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 38,
+      "category": 12,
+      "explanation": "\u00c0 Lucinde. This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Lucinde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 39,
+      "category": 0,
+      "explanation": "Elle s'arrange la figure devant la glace. This stage direction describes a general character action, specifically arranging her face in front of a mirror.",
+      "stgdir": "Elle s'arrange la figure devant la glace.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 20035.06112098694,
+  "model": "mistral-large-2407"
+}

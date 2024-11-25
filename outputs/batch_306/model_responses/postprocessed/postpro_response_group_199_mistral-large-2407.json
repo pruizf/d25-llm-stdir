@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1990,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Aux soldats.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1991,
+      "category": 7,
+      "explanation": "Character movement, not exit/entrance.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1992,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Charlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1993,
+      "category": 10,
+      "explanation": "Describes a character's interaction with an object (costume).",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1994,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (giving the hand).",
+      "stgdir": "Octave lui donnant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1995,
+      "category": 10,
+      "explanation": "Describes a character's interaction with an object (giving a manche d'\u00e9clanche).",
+      "stgdir": "Il lui donne un manche d'\u00e9clanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1996,
+      "category": 7,
+      "explanation": "Character movement, not exit/entrance.",
+      "stgdir": "En s'\u00e9loignant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1997,
+      "category": 2,
+      "explanation": "Character addresses the audience or is alone.",
+      "stgdir": "PRIMO.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 1998,
+      "category": 9,
+      "explanation": "Narrative quality, intended for readers.",
+      "stgdir": "Fin de la lettre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1999,
+      "category": 0,
+      "explanation": "General character action (knocking).",
+      "stgdir": "Il frappe toujours.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 19100.594997406006,
+  "model": "mistral-large-2407"
+}

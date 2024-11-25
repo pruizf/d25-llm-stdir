@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 340,
+      "category": 7,
+      "explanation": "Il veut partir. - This indicates a character's intent to move, but not an actual exit, so it fits under 'movement'.",
+      "stgdir": "Il veut partir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 341,
+      "category": 5,
+      "explanation": "L\u00e9onor et Marine se retirent. - This indicates characters exiting the stage, so it fits under 'exit'.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 342,
+      "category": 7,
+      "explanation": "Il dispara\u00eet enti\u00e8rement. - This indicates a movement where the character disappears, so it fits under 'movement'.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 343,
+      "category": 4,
+      "explanation": "Il entre chez lui. - This indicates a character entering a location, so it fits under 'entrance'.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 344,
+      "category": 5,
+      "explanation": "Jos\u00e9phine et Marthe sortent. - This indicates characters exiting the stage, so it fits under 'exit'.",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 345,
+      "category": 7,
+      "explanation": "Elle veut sortir. - This indicates a character's intent to move, but not an actual exit, so it fits under 'movement'.",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 346,
+      "category": 5,
+      "explanation": "Orphise sort. - This indicates a character exiting the stage, so it fits under 'exit'.",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 347,
+      "category": 6,
+      "explanation": "Il lui serre la main plus fort. - This indicates a non-verbal interaction between characters, so it fits under 'interaction'.",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 348,
+      "category": 6,
+      "explanation": "Il embrasse Ducr\u00f4ne et Jenneval. - This indicates a non-verbal interaction between characters, so it fits under 'interaction'.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 349,
+      "category": 6,
+      "explanation": "Don C\u00e9sar re\u00e7oit la main d'Isabelle. - This indicates a non-verbal interaction between characters, so it fits under 'interaction'.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 17799.550771713257,
+  "model": "mistral-large-2407"
+}

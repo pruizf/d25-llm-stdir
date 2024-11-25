@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 380,
+      "category": 10,
+      "explanation": "The stage direction describes Madame Raquin interacting with the lamp, which is an object.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 381,
+      "category": 7,
+      "explanation": "The stage direction describes the movement of the two women without specifying an entrance or exit.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 382,
+      "category": 12,
+      "explanation": "The stage direction indicates that the character is moving towards Marie, specifying the addressee of the speech.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 383,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction between the characters, with one presenting a hand and the other making a reverence.",
+      "stgdir": "Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 384,
+      "category": 4,
+      "explanation": "The stage direction describes the entrance of Cl\u00e9andre and Ferrande.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 385,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction, with one character talking to another's ear.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 386,
+      "category": 12,
+      "explanation": "The stage direction indicates that the character is moving towards someone, specifying the addressee of the speech.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 387,
+      "category": 7,
+      "explanation": "The stage direction describes the character making a few steps to leave, indicating movement without specifying an entrance or exit.",
+      "stgdir": "Elle fait quelques pas pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 388,
+      "category": 7,
+      "explanation": "The stage direction describes the character moving towards the poet, indicating movement without specifying an entrance or exit.",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 389,
+      "category": 7,
+      "explanation": "The stage direction describes the character returning to their desk, indicating movement without specifying an entrance or exit.",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 22276.856660842896,
+  "model": "mistral-large-2407"
+}

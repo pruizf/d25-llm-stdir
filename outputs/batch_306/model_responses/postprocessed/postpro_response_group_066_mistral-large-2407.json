@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 660,
+      "category": 9,
+      "explanation": "This stage direction is a long narrative description of a sequence of actions and interactions, which fits the 'narration' category.",
+      "stgdir": "Il y a une ottomane qui r\u00e8gne le long de la salle, le Chinois et la Chinoise s'y accroupissent. Un Tartare et une Tartare paraissent sans saluer personne ; ils ont un arc en main et un carquois sur l'\u00e9paule ; ils se couchent aupr\u00e8s des Chinois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 661,
+      "category": 11,
+      "explanation": "This stage direction describes the setting or location of the play, which fits the 'setting' category.",
+      "stgdir": "Une maison de paysans dans les environs de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 662,
+      "category": 7,
+      "explanation": "This stage direction describes a character movement, which fits the 'movement' category.",
+      "stgdir": "Montano s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 663,
+      "category": 11,
+      "explanation": "This stage direction describes the setting or layout of the stage, which fits the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un petit salon. Porte au fond. Porte lat\u00e9rale \u00e0 droite. - Une fen\u00eatre \u00e0 gauche. - \u00c0 droite, une table.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 664,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "Elle parle \u00e0 Anth\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 665,
+      "category": 0,
+      "explanation": "This stage direction describes a general character action, which fits the 'action' category.",
+      "stgdir": "Elle d\u00e9trempe les papiers dans l'eau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 666,
+      "category": 0,
+      "explanation": "This stage direction describes a general character action, which fits the 'action' category.",
+      "stgdir": "Regardant le portrait de L\u00e9lie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 667,
+      "category": 8,
+      "explanation": "This stage direction indicates a musical cue or ensemble, which fits the 'music' category.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 668,
+      "category": 11,
+      "explanation": "This stage direction describes the setting or layout of the stage, which fits the 'setting' category.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente le boudoir de la Comtesse. \u00c0 gauche, un petit paravent. Au lever du rideau, la Comtesse de La Roche-Gaston est seule en sc\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 669,
+      "category": 8,
+      "explanation": "This stage direction indicates a musical cue or tune, which fits the 'music' category.",
+      "stgdir": "Air : Oh, oh, oh, ah, ah, ah !",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 20745.869636535645,
+  "model": "mistral-large-2407"
+}

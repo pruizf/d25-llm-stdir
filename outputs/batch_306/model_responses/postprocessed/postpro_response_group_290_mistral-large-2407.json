@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2900,
+      "category": 1,
+      "explanation": "This stage direction describes a violent action where a character stabs another with a dagger, indicating aggression.",
+      "stgdir": "Elle lui plonge le coutelas dans le corps, et para\u00eet vouloir le s\u00e9parer en deux comme pour le d\u00e9vorer\u00a0; les soldats attir\u00e9s de nouveau par la faim, reviennent, et l'un d'eux, en se reculant d'horreur, dit \u00e0 l'arri\u00e8re-sc\u00e8ne :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2901,
+      "category": 8,
+      "explanation": "This stage direction refers to a specific tune, 'La Carmagnole', indicating music.",
+      "stgdir": "Air : La Carmagnole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2902,
+      "category": 8,
+      "explanation": "This stage direction refers to a specific tune, 'R\u00e9formez ma musette', indicating music.",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2903,
+      "category": 5,
+      "explanation": "This stage direction describes a character, L\u00e9andre, entering a cabinet, indicating an exit.",
+      "stgdir": "L\u00e9andre rentre dans le cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2904,
+      "category": 8,
+      "explanation": "This stage direction refers to a specific tune, 'Si Dorilas contre les femmes', indicating music.",
+      "stgdir": "Air : Si Dorilas contre les femmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2905,
+      "category": 12,
+      "explanation": "This stage direction indicates that the speech is addressed to the Marquise, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 la Marquise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2906,
+      "category": 12,
+      "explanation": "This stage direction indicates that the speech is addressed to the comtesse, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2907,
+      "category": 8,
+      "explanation": "This stage direction refers to a specific tune, 'Le premier du mois de Janvier', indicating music.",
+      "stgdir": "Air : Le premier du mois de Janvier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2908,
+      "category": 6,
+      "explanation": "This stage direction describes a character pointing to \u00c9velina, indicating a non-verbal interaction.",
+      "stgdir": "Montrant \u00c9velina.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2909,
+      "category": 7,
+      "explanation": "This stage direction describes characters getting up from the table, indicating movement.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 18042.46425628662,
+  "model": "mistral-large-2407"
+}

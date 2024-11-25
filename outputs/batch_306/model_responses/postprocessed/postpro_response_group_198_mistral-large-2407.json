@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1980,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Tout est dit.' mentions a tune, which falls under the music category.",
+      "stgdir": "Air : Tout est dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1981,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Suzon.' indicates the addressee of a speech, which falls under the toward category.",
+      "stgdir": "\u00c0 Suzon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1982,
+      "category": 8,
+      "explanation": "The stage direction 'DUO du silvain.' mentions a musical piece, which falls under the music category.",
+      "stgdir": "DUO du silvain.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1983,
+      "category": 9,
+      "explanation": "The stage direction 'On entend un bruit souterrain.' describes a sound effect, which falls under the narration category.",
+      "stgdir": "On entend un bruit souterrain.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1984,
+      "category": 10,
+      "explanation": "The stage direction 'Il donne le papier \u00e0 Ragueneau.' describes an interaction with an object, which falls under the object category.",
+      "stgdir": "Il donne le papier \u00e0 Ragueneau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1985,
+      "category": 4,
+      "explanation": "The stage direction 'Un deuxi\u00e8me valet entre.' describes a character entering the stage, which falls under the entrance category.",
+      "stgdir": "Un deuxi\u00e8me valet entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1986,
+      "category": 8,
+      "explanation": "The stage direction 'AIR. La Gentille.' mentions a tune, which falls under the music category.",
+      "stgdir": "AIR. La Gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1987,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Thaler.' indicates the addressee of a speech, which falls under the toward category.",
+      "stgdir": "\u00c0 Thaler.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1988,
+      "category": 6,
+      "explanation": "The stage direction 'Ils se tiennent les mains un instant.' describes a non-verbal interaction, which falls under the interaction category.",
+      "stgdir": "Ils se tiennent les mains un instant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1989,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Paul Ferrier.' indicates the addressee of a speech, which falls under the toward category.",
+      "stgdir": "\u00c0 Paul Ferrier.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 18660.65287590027,
+  "model": "mistral-large-2407"
+}

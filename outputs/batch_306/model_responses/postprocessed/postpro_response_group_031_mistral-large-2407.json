@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 310,
+      "category": 6,
+      "explanation": "Ils rient tous trois. - This stage direction describes non-verbal interaction (laughter) among characters.",
+      "stgdir": "Ils rient tous trois.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 311,
+      "category": 5,
+      "explanation": "Tous s'en vont. - This stage direction describes characters exiting the stage.",
+      "stgdir": "Tous s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 312,
+      "category": 12,
+      "explanation": "\u00c0 Monsieur Argant. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monsieur Argant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 313,
+      "category": 10,
+      "explanation": "Il couvre le presse-papier avec le chapeau. - This stage direction describes a character's interaction with an object (covering the paperweight with the hat).",
+      "stgdir": "Il couvre le presse-papier avec le chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 314,
+      "category": 3,
+      "explanation": "Il crie. - This stage direction describes the delivery manner of the character (crying out).",
+      "stgdir": "Il crie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 315,
+      "category": 12,
+      "explanation": "Parlant au prince. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 316,
+      "category": 5,
+      "explanation": "Le Roi et le Comte sortent. - This stage direction describes characters exiting the stage.",
+      "stgdir": "Le Roi et le Comte sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 317,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente un petit espace de terre aride et d\u00e9serte ... - This stage direction describes the stage setting or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un petit espace de terre aride et d\u00e9serte ; cet face est borde par des Montagnes d'une hauteur prodigieuse, dont la principale est le Mont \u00c6thna ; on voit a cot\u00e9 un petit Temple consacr\u00e9 \u00e0 Junon ; la mer paro\u00eet dans l'\u00e9loignement.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 318,
+      "category": 8,
+      "explanation": "Air : De la petite Poste. - This stage direction describes a tune name (music).",
+      "stgdir": "Air : De la petite Poste.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 319,
+      "category": 5,
+      "explanation": "Il sort en toussant suivi par de Brie. - This stage direction describes a character exiting the stage (while coughing).",
+      "stgdir": "Il sort en toussant suivi par de Brie.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 15133.795499801636,
+  "model": "mistral-large-2407"
+}

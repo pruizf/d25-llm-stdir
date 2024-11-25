@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1390,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air', which indicates a music stage direction.",
+      "stgdir": "Air : Colin un jour trouva Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1391,
+      "category": 9,
+      "explanation": "This is a narrative stage direction describing the end of the play with a general march.",
+      "stgdir": "La pi\u00e8ce finit par une marche g\u00e9n\u00e9rale.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1392,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air pr\u00e9c\u00e9dent', which indicates a music stage direction.",
+      "stgdir": "Air pr\u00e9c\u00e9dent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1393,
+      "category": 10,
+      "explanation": "This stage direction describes an interaction with an object (Marotte).",
+      "stgdir": "Elle jette sa Marotte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1394,
+      "category": 7,
+      "explanation": "The stage direction describes a character movement (approaching).",
+      "stgdir": "Elle approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1395,
+      "category": 11,
+      "explanation": "This is a detailed description of the stage setting and environment.",
+      "stgdir": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re ; de jeunes cavaliers et de jeunes femmes se l\u00e8vent de table ; deux n\u00e8gres v\u00eatus en pages entrent en portant des flambeaux ; la sc\u00e8ne s'\u00e9claire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1396,
+      "category": 9,
+      "explanation": "This stage direction narrates an event (hearing J\u00e9r\u00f4me's voice) intended for the audience.",
+      "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1397,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech (\u00c0 Tatonet).",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1398,
+      "category": 1,
+      "explanation": "The stage direction describes a violent action (d\u00e9pouiller).",
+      "stgdir": "Il la d\u00e9pouille.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1399,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech (\u00c0 l'un des Arabes).",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15305.834770202637,
+  "model": "mistral-large-2407"
+}

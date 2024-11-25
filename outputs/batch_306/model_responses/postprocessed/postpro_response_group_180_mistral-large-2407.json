@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1800,
+      "category": 8,
+      "explanation": "The stage direction 'AIR : Changement pique l'app\u00e9tit.' indicates music, as it starts with 'AIR' and describes a tune.",
+      "stgdir": "AIR : Changement pique l'app\u00e9tit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1801,
+      "category": 7,
+      "explanation": "The stage direction 'Elle fuit les \u00c9gyptiens.' describes movement, specifically fleeing.",
+      "stgdir": "Elle fuit les \u00c9gyptiens.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1802,
+      "category": 0,
+      "explanation": "The stage direction 'Frappant du pied.' describes a general action of stamping the foot.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1803,
+      "category": 6,
+      "explanation": "The stage direction 'Le poussant du coude.' describes non-verbal interaction, specifically pushing with the elbow.",
+      "stgdir": "Le poussant du coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1804,
+      "category": 10,
+      "explanation": "The stage direction 'Elle lui donne la lettre, il lit tout bas \u00e0 part.' describes interaction with an object (the letter) and reading it.",
+      "stgdir": "Elle lui donne la lettre, il lit tout bas \u00e0 part.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1805,
+      "category": 0,
+      "explanation": "The stage direction 'Apercevant la Pr\u00e9sidente.' describes a general action of noticing someone.",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1806,
+      "category": 4,
+      "explanation": "The stage direction 'Dorame et Oronte viennent.' indicates the entrance of characters onto the stage.",
+      "stgdir": "Dorame et Oronte viennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1807,
+      "category": 5,
+      "explanation": "The stage direction 'En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.' describes the character exiting the stage.",
+      "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1808,
+      "category": 1,
+      "explanation": "The stage direction 'Il frappe Scaramouche de toute sa force.' describes a violent action, specifically hitting someone.",
+      "stgdir": "Il frappe Scaramouche de toute sa force.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1809,
+      "category": 0,
+      "explanation": "The stage direction 'Lisant son m\u00e9moire.' describes a general action of reading.",
+      "stgdir": "Lisant son m\u00e9moire.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 21567.044496536255,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "180",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au Facteur en le payant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "0",
+      "explanation": "General character action of sitting.",
+      "stgdir": "Elles s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "2",
+      "explanation": "Character addresses the audience or is alone.",
+      "stgdir": "Le premier vers, \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "6",
+      "explanation": "Non-verbal character interaction of embracing.",
+      "stgdir": "Mondor embrasse tendrement sa femme.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "11",
+      "explanation": "Stage description or play location.",
+      "stgdir": "Marche de toutes sortes de Personnages de l'ancienne Com\u00e9die Fran\u00e7aise et Italienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "4",
+      "explanation": "Character enters the stage.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "11",
+      "explanation": "Stage description or play location.",
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "9",
+      "explanation": "Long stage direction with narrative quality intended for readers.",
+      "stgdir": "Et malgr\u00e9 lui, elle lui replace le bras dans l'\u00e9charpe, apr\u00e8s en avoir r\u00e9-assujetti rapidement le pansement. Ren\u00e9, apr\u00e8s la premi\u00e8re r\u00e9volte, se laisse faire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "5",
+      "explanation": "Character exits.",
+      "stgdir": "En s'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "11",
+      "explanation": "Stage description or play location.",
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 15819.276571273804,
+  "model": "mistral-large-2407"
+}

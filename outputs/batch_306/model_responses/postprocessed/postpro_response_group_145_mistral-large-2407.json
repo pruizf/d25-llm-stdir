@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1450,
+      "category": 9,
+      "explanation": "Lettre de Florinde \u00e0 Filemon. This describes a narrative action involving a letter, fitting the 'narration' category.",
+      "stgdir": "Lettre de Florinde \u00e0 Filemon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1451,
+      "category": 11,
+      "explanation": "Marche des P\u00e2tres et des Sylvains. This describes a setting or stage description, fitting the 'setting' category.",
+      "stgdir": "Marche des P\u00e2tres et des Sylvains.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1452,
+      "category": 8,
+      "explanation": "AIR : Faut attendre avec patience. This is clearly a music description, fitting the 'music' category.",
+      "stgdir": "AIR : Faut attendre avec patience",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1453,
+      "category": 12,
+      "explanation": "\u00c0 la Nuit. This indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 la Nuit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1454,
+      "category": 7,
+      "explanation": "S'approchant d'Alcindor. This describes a character movement, fitting the 'movement' category.",
+      "stgdir": "S'approchant d'Alcindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1455,
+      "category": 8,
+      "explanation": "Air 196 Combattants de Cadmus. This is a music description, fitting the 'music' category.",
+      "stgdir": "Air 196 Combattants de Cadmus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1456,
+      "category": 5,
+      "explanation": "Agathe sort. This describes a character exiting, fitting the 'exit' category.",
+      "stgdir": "Agathe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1457,
+      "category": 6,
+      "explanation": "Il lui pose la couronne sur la t\u00eate. This describes a non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1458,
+      "category": 7,
+      "explanation": "Il se rassoit. This describes a character movement, fitting the 'movement' category.",
+      "stgdir": "Il se rassoit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1459,
+      "category": 8,
+      "explanation": "Air de Marianne. This is a music description, fitting the 'music' category.",
+      "stgdir": "Air de Marianne.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17812.31689453125,
+  "model": "mistral-large-2407"
+}

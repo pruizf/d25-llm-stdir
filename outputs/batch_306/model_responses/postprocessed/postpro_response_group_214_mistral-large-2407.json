@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2140,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la Dupuis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2141,
+      "category": 0,
+      "explanation": "General character action, involving the character ringing the bell.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2142,
+      "category": 9,
+      "explanation": "Narrative quality stage direction describing a sequence of events or weather events.",
+      "stgdir": "Tonnerre, pluie de feu, tremblement de terre, des ombres sortent des tombeaux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2143,
+      "category": 0,
+      "explanation": "General character action, involving the character falling to their knees.",
+      "stgdir": "Il tombe \u00e0 leurs genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2144,
+      "category": 4,
+      "explanation": "Passersby entering the stage, described as 'narquois' (sneering).",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2145,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Tomi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2146,
+      "category": 5,
+      "explanation": "Character exits the stage.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2147,
+      "category": 7,
+      "explanation": "Character movement, describing the character moving to follow someone.",
+      "stgdir": "S'\u00e9lan\u00e7ant pour la suivre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2148,
+      "category": 6,
+      "explanation": "Non-verbal character interaction, pointing at Antigone.",
+      "stgdir": "Montrant Antigone.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2149,
+      "category": 8,
+      "explanation": "Music description, starting with 'AIR' indicating it is a tune name.",
+      "stgdir": "AIR. Oh reguingu\u00e9.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 14767.864227294922,
+  "model": "mistral-large-2407"
+}

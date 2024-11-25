@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 850,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 851,
+      "category": 4,
+      "explanation": "Character enters stage.",
+      "stgdir": "Il arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 852,
+      "category": 7,
+      "explanation": "Character movement, Iole advances to pay homage.",
+      "stgdir": "Iole s'avance pour rendre hommage \u00e0 D\u00e9janire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 853,
+      "category": 7,
+      "explanation": "Character movement, L\u00e9on makes a large movement.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 854,
+      "category": 5,
+      "explanation": "Character exits, they go to dine.",
+      "stgdir": "Elles vont d\u00eener.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 855,
+      "category": 3,
+      "explanation": "Delivery manner, expressing satisfaction through a sigh.",
+      "stgdir": "Soupir de satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 856,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality, intended for readers.",
+      "stgdir": "Le jeune Kerkabon, qui vainement a voulu suivre son amie, s\u00e9par\u00e9 d'elle, et pour jamais, s'abandonne au plus affreux d\u00e9sespoir ; il l'appelle en tendant les bras vers le lieu qui la d\u00e9robe \u00e0 ses regards, il l'appelle... et voyant qu'elle me r\u00e9pond pas, il parait vouloir renoncer \u00e0 la vie, il s'\u00e9chappe des bras qui lui sont ouverts, et va tomber sur le banc de gazon, plac\u00e9 \u00e0 gauche du spectateur. Les g\u00e9n\u00e9reux parents s'empressent \u00e0 lui t\u00e9moigner l'int\u00e9r\u00eat le plus tendre !... Celui que l'on doit au malheur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 857,
+      "category": 10,
+      "explanation": "Describes an object and its interaction, she puts the crown on her head.",
+      "stgdir": "Elle met la couronne sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 858,
+      "category": 2,
+      "explanation": "Character speaks aside or addresses the audience.",
+      "stgdir": "Elle lui parle bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 859,
+      "category": 0,
+      "explanation": "General character action, Julie looks at the marquis, lifts her eyes to the sky, and leaves.",
+      "stgdir": "Julie regarde le marquis, l\u00e8ve les yeux au ciel, et s'en va.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 15222.203254699707,
+  "model": "mistral-large-2407"
+}

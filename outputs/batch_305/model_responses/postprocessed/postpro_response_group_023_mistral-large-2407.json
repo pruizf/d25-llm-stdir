@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 230,
+      "category": 3,
+      "explanation": "Il r\u00e9p\u00e8te encore ces quatre derniers vers. This describes the delivery manner, specifically the character repeating a verse.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 231,
+      "category": 12,
+      "explanation": "Appelant un domestique. This indicates the addressee of a speech, as the character is calling a servant.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 232,
+      "category": 8,
+      "explanation": "Duo. This is a music stage direction, describing a musical performance.",
+      "stgdir": "Duo.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 233,
+      "category": 3,
+      "explanation": "Solennel. This describes the delivery manner, indicating a solemn tone.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 234,
+      "category": 3,
+      "explanation": "Il chante l'air en entier. This describes the delivery manner, specifically the character singing a song.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 235,
+      "category": 12,
+      "explanation": "Elle appelle Lubin. This indicates the addressee of a speech, as the character is calling Lubin.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 236,
+      "category": 4,
+      "explanation": "Mariette parait. This describes a character entering the stage.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 237,
+      "category": 4,
+      "explanation": "Entre Madame Dergos. This describes a character entering the stage.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 238,
+      "category": 4,
+      "explanation": "Le chevalier Uladislas sort de l'h\u00f4tellerie. This describes a character entering the stage from the inn.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 239,
+      "category": 4,
+      "explanation": "Il paraissent tous trois. This describes multiple characters entering the stage.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 16330.323696136475,
+  "model": "mistral-large-2407"
+}

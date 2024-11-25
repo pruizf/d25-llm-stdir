@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 350,
+      "category": 10,
+      "explanation": "The stage direction describes the character serving soup into Laurent's plate and her own, which is an interaction with an object.",
+      "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 351,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, which is 'Aux Bergers' (To the Shepherds).",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 352,
+      "category": 4,
+      "explanation": "The stage direction indicates that Staphyla enters the stage.",
+      "stgdir": "Staphyla vient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 353,
+      "category": 7,
+      "explanation": "The stage direction describes the character moving to someone's feet, which is a type of movement.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 354,
+      "category": 7,
+      "explanation": "The stage direction describes the character moving forward to leave, which is a type of movement.",
+      "stgdir": "Elle s'avance pour s'en aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 355,
+      "category": 5,
+      "explanation": "The stage direction indicates that Lucie exits the stage.",
+      "stgdir": "Lucie sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 356,
+      "category": 8,
+      "explanation": "The stage direction specifies a tune name, which is a music description.",
+      "stgdir": "AIR 141 : Cotillon des F\u00eates de Thalie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 357,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, which is '\u00c0 l'esclave' (To the slave).",
+      "stgdir": "\u00c0 l'esclave",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 358,
+      "category": 8,
+      "explanation": "The stage direction specifies a tune name, which is a music description.",
+      "stgdir": "Air : Lon la landerirette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 359,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, which is '\u00c0 l'huissier' (To the usher).",
+      "stgdir": "\u00c0 l'huissier.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 16079.357862472534,
+  "model": "mistral-large-2407"
+}

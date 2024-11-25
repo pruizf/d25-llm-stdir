@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 90,
+      "category": 6,
+      "explanation": "Il lui pr\u00e9sente un bouquet. This stage direction involves a character presenting a bouquet to another character, which is a form of non-verbal interaction.",
+      "stgdir": "Il lui pr\u00e9sente un bouquet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 91,
+      "category": 5,
+      "explanation": "Scanderberg sort. This stage direction indicates that the character Scanderberg exits the stage.",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 92,
+      "category": 10,
+      "explanation": "Il l\u00e8ve sa canne. This stage direction involves a character lifting his cane, which describes an interaction with an object.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 93,
+      "category": 7,
+      "explanation": "Elle veut sortir. This stage direction describes the character's intention to move, specifically to exit, which is a form of movement.",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 94,
+      "category": 12,
+      "explanation": "Au sultan. This stage direction indicates the addressee of a speech, which is the sultan.",
+      "stgdir": "Au sultan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 95,
+      "category": 7,
+      "explanation": "Elle fait quelques pas pour sortir. This stage direction describes the character taking a few steps to exit, which is a form of movement.",
+      "stgdir": "Elle fait quelques pas pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 96,
+      "category": 9,
+      "explanation": "On entend crier de loin Ruflaut et Jeannot. This stage direction describes a noise heard from a distance, which has a narrative quality intended for readers.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 97,
+      "category": 1,
+      "explanation": "Il tire un pistolet qui rate. This stage direction involves a character attempting to fire a pistol, which is a form of aggressive action.",
+      "stgdir": "Il tire un pistolet qui rate.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 98,
+      "category": 5,
+      "explanation": "La Plume sort ; Madame Savon, et Th\u00e9riaque entrent dans l'autre chambre. This stage direction indicates characters exiting and entering different parts of the stage.",
+      "stgdir": "La Plume sort ; Madame Savon, et Th\u00e9riaque entrent dans l'autre chambre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 99,
+      "category": 8,
+      "explanation": "Air 211 : De Monsieur Gillier. This stage direction describes a tune name, which is a form of music description.",
+      "stgdir": "Air 211 : De Monsieur Gillier.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 18627.420663833618,
+  "model": "mistral-large-2407"
+}

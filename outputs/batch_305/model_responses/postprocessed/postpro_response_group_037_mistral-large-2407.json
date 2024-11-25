@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 370,
+      "category": 6,
+      "explanation": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io. This stage direction describes a non-verbal interaction between characters (receiving Io).",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 371,
+      "category": 6,
+      "explanation": "Elle reprend le bras de Phanor. This stage direction describes a non-verbal interaction (taking Phanor's arm).",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 372,
+      "category": 6,
+      "explanation": "En lui serrant affectueusement la main. This stage direction describes a non-verbal interaction (shaking hands affectionately).",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 373,
+      "category": 6,
+      "explanation": "Ma\u00eetre Godard la presse, encor, du geste, seulement. This stage direction describes a non-verbal interaction (pressing her with a gesture).",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 374,
+      "category": 6,
+      "explanation": "Il embrasse Fleur-de-Sauge. This stage direction describes a non-verbal interaction (kissing Fleur-de-Sauge).",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 375,
+      "category": 6,
+      "explanation": "Il la baise avec peine. This stage direction describes a non-verbal interaction (kissing her with difficulty).",
+      "stgdir": "Il la baise avec peine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 376,
+      "category": 6,
+      "explanation": "Lui baisant la bouche. This stage direction describes a non-verbal interaction (kissing her mouth).",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 377,
+      "category": 6,
+      "explanation": "Retenant Hernani. This stage direction describes a non-verbal interaction (holding back Hernani).",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 378,
+      "category": 7,
+      "explanation": "Puis revenant \u00e0 Oronte. This stage direction describes movement (returning to Oronte).",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 379,
+      "category": 7,
+      "explanation": "Il va \u00e0 elle. This stage direction describes movement (going to her).",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 16712.07308769226,
+  "model": "mistral-large-2407"
+}

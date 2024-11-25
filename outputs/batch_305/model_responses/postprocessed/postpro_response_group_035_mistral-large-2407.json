@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 350,
+      "category": 1,
+      "explanation": "Poussant rudement Val\u00e8re. This stage direction describes a violent action, so it falls under the aggression category.",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 351,
+      "category": 6,
+      "explanation": "Elles enl\u00e8vent Constance. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 352,
+      "category": 6,
+      "explanation": "Il baise la main du Prince. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 353,
+      "category": 6,
+      "explanation": "Ils se pressent les mains. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 354,
+      "category": 6,
+      "explanation": "Embrassant son p\u00e8re. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 355,
+      "category": 1,
+      "explanation": "Il la choque un peu. This stage direction describes a mildly violent action, so it falls under the aggression category.",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 356,
+      "category": 6,
+      "explanation": "Il le baise encore. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 357,
+      "category": 6,
+      "explanation": "Elle touche Picus. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 358,
+      "category": 6,
+      "explanation": "Il veut lui prendre une main. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 359,
+      "category": 6,
+      "explanation": "Elle lui tape dans une main. This stage direction describes a non-verbal interaction, so it falls under the interaction category.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 21857.404470443726,
+  "model": "mistral-large-2407"
+}

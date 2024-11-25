@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1500,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the theater, including the landscape and the river Inachus.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1501,
+      "category": 1,
+      "explanation": "This stage direction describes a violent action with fighting and physical aggression.",
+      "stgdir": "L'imp\u00e9ratrice et le pape se battent, l'une avec son sceptre et l'autre avec sa croix : un coup de sceptre casse la croix ; le pape jette sa tiare \u00e0 la t\u00eate de Catherine et lui renverse sa couronne. Ils se battent avec leurs cha\u00eenes. Le roi de Pologne veut mettre le hol\u00e0, en \u00f4tant des mains le sceptre \u00e0 Catherine.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1502,
+      "category": 6,
+      "explanation": "This stage direction involves a non-verbal interaction where Verseuil gives his hand to Julie.",
+      "stgdir": "Verseuil donne la main \u00e0 Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1503,
+      "category": 10,
+      "explanation": "This stage direction describes the interaction of characters with objects such as a shaving dish, a bathrobe, and clothes.",
+      "stgdir": "Cadet aura un plat \u00e0 barbe en main, le petit portera le peignoir et la m\u00e8re aura des hardes sous le bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1504,
+      "category": 5,
+      "explanation": "This stage direction indicates that a character exits the stage in anger.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1505,
+      "category": 9,
+      "explanation": "This stage direction is a long narrative description of a sequence of actions involving multiple characters interacting with each other and the audience.",
+      "stgdir": "Le vieillard sert de truchement aux sauvages, devant lesquels passent en revue les rois. Il leur traduit dans le langage des signes, ce qui se dit \u00e0 mesure que les rois paraissent sur la sc\u00e8ne. Les sauvages donnent tour \u00e0 tour des marques d'\u00e9tonnement et d'indignation.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1506,
+      "category": 10,
+      "explanation": "This stage direction describes the character opening a drawer, which is an interaction with an object.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1507,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the theater, depicting the Palace of LA FOLIE.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1508,
+      "category": 10,
+      "explanation": "This stage direction describes the character showing rings, which involves an interaction with an object.",
+      "stgdir": "Il lui montre des bagues qu'il a.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1509,
+      "category": 6,
+      "explanation": "This stage direction involves a non-verbal interaction where characters press each other's hands.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 17869.13752555847,
+  "model": "mistral-large-2407"
+}

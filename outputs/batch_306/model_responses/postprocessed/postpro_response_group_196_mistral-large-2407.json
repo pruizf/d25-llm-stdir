@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1960,
+      "category": 5,
+      "explanation": "La quittant. This stage direction indicates that a character is leaving, which fits the 'exit' category.",
+      "stgdir": "La quittant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1961,
+      "category": 8,
+      "explanation": "AIR : C'est Suson la camarde. This stage direction starts with 'AIR' and is followed by a tune name, fitting the 'music' category.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1962,
+      "category": 8,
+      "explanation": "AIR. La mort de mon cher p\u00e8re. This stage direction starts with 'AIR' and is followed by a tune name, fitting the 'music' category.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1963,
+      "category": 10,
+      "explanation": "Il ramasse tous ses papiers. This stage direction involves a character interacting with an object (papers), fitting the 'object' category.",
+      "stgdir": "Il ramasse tous ses papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1964,
+      "category": 8,
+      "explanation": "Air : Vous avez raison, la Plante. This stage direction starts with 'Air' and is followed by a tune name, fitting the 'music' category.",
+      "stgdir": "Air : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1965,
+      "category": 5,
+      "explanation": "Elle sort avec Monsieur S\u00e9vin. This stage direction indicates that a character is exiting, which fits the 'exit' category.",
+      "stgdir": "Elle sort avec Monsieur S\u00e9vin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1966,
+      "category": 8,
+      "explanation": "Air 78 : Or \u00e9coutez, Petits et Grands. This stage direction starts with 'Air' and is followed by a tune name, fitting the 'music' category.",
+      "stgdir": "Air 78 : Or \u00e9coutez, Petits et Grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1967,
+      "category": 12,
+      "explanation": "\u00c0 Lourdis en riant. This stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Lourdis en riant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1968,
+      "category": 12,
+      "explanation": "\u00c0 Edouard. This stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Edouard.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1969,
+      "category": 12,
+      "explanation": "\u00c0 la Fleur. This stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 la Fleur.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 19413.53154182434,
+  "model": "mistral-large-2407"
+}

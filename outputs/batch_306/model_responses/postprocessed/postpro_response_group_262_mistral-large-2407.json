@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2620",
+      "category": "9",
+      "explanation": "HARANGUE DE MASSINISSE is a long stage direction with narrative quality, intended for readers.",
+      "stgdir": "HARANGUE DE MASSINISSE",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2621",
+      "category": "9",
+      "explanation": "On forme un combat \u00e0 la mani\u00e8re des anciens describes a sequence of character actions and has a narrative quality.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2622",
+      "category": "6",
+      "explanation": "Apercevant leurs \u00e9p\u00e9es nues is a non-verbal interaction where characters notice each other's drawn swords.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2623",
+      "category": "9",
+      "explanation": "La pendule sonne six heures describes a noise event and is a narrative stage direction.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2624",
+      "category": "3",
+      "explanation": "Avec ravissement indicates a manner of delivery, expressing emotion.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2625",
+      "category": "3",
+      "explanation": "Pr\u00e8s de pleurer indicates a manner of delivery, expressing emotion.",
+      "stgdir": "Pr\u00e8s de pleurer.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2626",
+      "category": "8",
+      "explanation": "On entend un hautbois describes a musical element.",
+      "stgdir": "On entend un hautbois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2627",
+      "category": "8",
+      "explanation": "Air : \u00c0 l'ombre de ce vert bocage specifies the name of a tune.",
+      "stgdir": "Air : \u00c0 l'ombre de ce vert bocage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2628",
+      "category": "4",
+      "explanation": "Cordiani para\u00eet indicates a character entering the stage.",
+      "stgdir": "Cordiani para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2629",
+      "category": "12",
+      "explanation": "\u00c0 la Vidame indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15237.407922744751,
+  "model": "mistral-large-2407"
+}

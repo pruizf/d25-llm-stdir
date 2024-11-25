@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 740,
+      "category": 0,
+      "explanation": "Il accorde sa guitare. This is a general character action of tuning a guitar, which falls under the 'action' category.",
+      "stgdir": "Il accorde sa guitare.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 741,
+      "category": 7,
+      "explanation": "Il s'avance vers la petite porte. This describes a character movement towards something, which falls under the 'movement' category.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 742,
+      "category": 11,
+      "explanation": "Un salon chez Chameroy, ameublement sans \u00e9l\u00e9gance. Un bureau \u00e0 gauche, \u00e0 droite un canap\u00e9. This describes the setting of the stage, which falls under the 'setting' category.",
+      "stgdir": "Un salon chez Chameroy, ameublement sans \u00e9l\u00e9gance. Un bureau \u00e0 gauche, \u00e0 droite un canap\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 743,
+      "category": 8,
+      "explanation": "AIR. Paris est au Roi, mon coeur est \u00e0 moi. This describes a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR. Paris est au Roi, mon coeur est \u00e0 moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 744,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel. This describes the setting of the stage, which falls under the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 745,
+      "category": 1,
+      "explanation": "Elle se tue. This describes a violent action, which falls under the 'aggression' category.",
+      "stgdir": "Elle se tue.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 746,
+      "category": 8,
+      "explanation": "Air : Le coeur de mon Annette. This describes a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Le coeur de mon Annette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 747,
+      "category": 8,
+      "explanation": "AIR d'Yelva. This describes a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR d'Yelva.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 748,
+      "category": 11,
+      "explanation": "M\u00eame d\u00e9cor qu'au premier acte. Huit heures du soir. This describes the setting of the stage, which falls under the 'setting' category.",
+      "stgdir": "M\u00eame d\u00e9cor qu'au premier acte. Huit heures du soir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 749,
+      "category": 8,
+      "explanation": "Air 172 : Je suis Madelon Friquet. This describes a tune name, which falls under the 'music' category.",
+      "stgdir": "Air 172 : Je suis Madelon Friquet.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 24300.40669441223,
+  "model": "mistral-large-2407"
+}

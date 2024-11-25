@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2760,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of embracing a doll, putting it in a basket, and moving to join other characters. It doesn't fit other more specific categories.",
+      "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2761,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of wanting to read, which fits the general character action category.",
+      "stgdir": "Il veut lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2762,
+      "category": 7,
+      "explanation": "The stage direction indicates a character movement, specifically looking or staring, which is a form of movement.",
+      "stgdir": "Regardant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2763,
+      "category": 3,
+      "explanation": "The stage direction describes the character performing a musical prelude and singing, which fits the delivery manner category, especially since it involves singing.",
+      "stgdir": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0:",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2764,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, specifically to N\u00e9optol\u00e9mus.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2765,
+      "category": 11,
+      "explanation": "The stage direction describes the setting or stage location, specifically a palace with a hall and a gallery at the back.",
+      "stgdir": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2766,
+      "category": 8,
+      "explanation": "The stage direction indicates a musical tune name, which fits the music category.",
+      "stgdir": "AIR de la Somnambule.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2767,
+      "category": 7,
+      "explanation": "The stage direction indicates a character movement, specifically moving closer, which fits the movement category.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2768,
+      "category": 8,
+      "explanation": "The stage direction indicates a musical tune name, which fits the music category.",
+      "stgdir": "AIR : Sans dessus desssous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2769,
+      "category": 8,
+      "explanation": "The stage direction indicates a musical tune name, which fits the music category.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 16758.769273757935,
+  "model": "mistral-large-2407"
+}

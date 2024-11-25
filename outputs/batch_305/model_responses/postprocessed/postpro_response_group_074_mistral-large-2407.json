@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 740,
+      "category": 11,
+      "explanation": "This stage direction describes the setting or location of the play. It mentions a camp under Varsovie.",
+      "stgdir": "Le camp sous Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 741,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene, detailing a disordered hotel room with various objects.",
+      "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 742,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards Madherbal.",
+      "stgdir": "\u00c0 Madherbal",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 743,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards Madame Abraham as the character goes to embrace her.",
+      "stgdir": "\u00c0 Madame Abraham, en allant l'embrasser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 744,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards Araminte.",
+      "stgdir": "\u00c0 Araminte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 745,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards Valentin.",
+      "stgdir": "\u00c0 Valentin",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 746,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards a boy (gar\u00e7on).",
+      "stgdir": "Au gar\u00e7on.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 747,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards Paul Ferrier.",
+      "stgdir": "\u00c0 Paul Ferrier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 748,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards Madame Grognac.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 749,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that it is directed towards N\u00e9optol\u00e9mus.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 20055.86338043213,
+  "model": "mistral-large-2407"
+}

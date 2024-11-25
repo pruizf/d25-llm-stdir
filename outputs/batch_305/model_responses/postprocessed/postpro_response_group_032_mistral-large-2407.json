@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 320,
+      "category": 4,
+      "explanation": "Le Chevalier entre dans le cabinet. This stage direction describes a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 321,
+      "category": 5,
+      "explanation": "Don Quichotte se retire. This stage direction describes a character exiting the stage, which falls under the 'exit' category.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 322,
+      "category": 5,
+      "explanation": "S'en allant. This stage direction describes a character leaving, which falls under the 'exit' category.",
+      "stgdir": "S'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 323,
+      "category": 5,
+      "explanation": "Elle part en riant. This stage direction describes a character leaving the stage, which falls under the 'exit' category.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 324,
+      "category": 5,
+      "explanation": "Il sort en toussant suivi par de Brie. This stage direction describes a character exiting the stage, which falls under the 'exit' category.",
+      "stgdir": "Il sort en toussant suivi par de Brie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 325,
+      "category": 4,
+      "explanation": "Blaise et G\u00e9rault entrent. This stage direction describes characters entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 326,
+      "category": 5,
+      "explanation": "Don Alfonce s'en va. This stage direction describes a character leaving the stage, which falls under the 'exit' category.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 327,
+      "category": 5,
+      "explanation": "Il se sauve. This stage direction describes a character running away, which falls under the 'exit' category.",
+      "stgdir": "Il se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 328,
+      "category": 5,
+      "explanation": "Colombine rentre chez elle. This stage direction describes a character returning home, which falls under the 'exit' category.",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 329,
+      "category": 5,
+      "explanation": "Phoenix sort. This stage direction describes a character exiting the stage, which falls under the 'exit' category.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 16939.286708831787,
+  "model": "mistral-large-2407"
+}

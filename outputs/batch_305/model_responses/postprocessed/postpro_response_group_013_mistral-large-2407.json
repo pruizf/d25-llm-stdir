@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "130",
+      "category": "7",
+      "explanation": "Dorante, se jetant de nouveau \u00e0 ses pieds. - This indicates a movement of the character Dorante.",
+      "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "131",
+      "category": "6",
+      "explanation": "Le regardant. - This indicates a non-verbal interaction of looking at someone.",
+      "stgdir": "Le regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "132",
+      "category": "6",
+      "explanation": "Montrant Pyrrhus. - This indicates a non-verbal interaction of pointing at Pyrrhus.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "133",
+      "category": "10",
+      "explanation": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es. - This describes an interaction with an object.",
+      "stgdir": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "134",
+      "category": "6",
+      "explanation": "En leur montrant Am\u00e9lite. - This indicates a non-verbal interaction of showing Am\u00e9lite to others.",
+      "stgdir": "En leur montrant Am\u00e9lite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "135",
+      "category": "6",
+      "explanation": "Regardant Ang\u00e9lique. - This indicates a non-verbal interaction of looking at Ang\u00e9lique.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "136",
+      "category": "0",
+      "explanation": "Il est rest\u00e9 assis sur le remblai. - This indicates a general action of the character remaining seated.",
+      "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "137",
+      "category": "6",
+      "explanation": "Ils se regardent tous deux avec leurs lunettes. - This indicates a non-verbal interaction of looking at each other with their glasses.",
+      "stgdir": "Ils se regardent tous deux avec leurs lunettes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "138",
+      "category": "0",
+      "explanation": "Il finit sa lettre. - This indicates a general action of finishing a letter.",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "139",
+      "category": "9",
+      "explanation": "Des passants narquois entendent les derniers mots. - This is a narrative stage direction describing an event for the readers.",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 21155.142784118652,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 90,
+      "category": 0,
+      "explanation": "The character is performing a general action of watching his daughter.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 91,
+      "category": 6,
+      "explanation": "The character is interacting non-verbally by noticing someone (the President).",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 92,
+      "category": 1,
+      "explanation": "The character is making a gesture associated with instigating a fight, which is a form of aggression.",
+      "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 93,
+      "category": 6,
+      "explanation": "The character is interacting non-verbally by noticing someone (Gaston).",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 94,
+      "category": 6,
+      "explanation": "The character is interacting non-verbally by showing his thumb, which could be a gesture to indicate approval or agreement.",
+      "stgdir": "Il montre son pouce.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 95,
+      "category": 7,
+      "explanation": "The character is moving by jumping.",
+      "stgdir": "Il saute.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 96,
+      "category": 10,
+      "explanation": "The character is interacting with an object (a semicircle) and using it with another object (a cane).",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 97,
+      "category": 0,
+      "explanation": "The character is performing a general action of eating avidly.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 98,
+      "category": 6,
+      "explanation": "The character is interacting non-verbally by searching for something without turning the head.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 99,
+      "category": 12,
+      "explanation": "The direction indicates the addressee of a speech (the tree whose fruit is forbidden).",
+      "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 11774.784803390503,
+  "model": "mistral-small-latest"
+}

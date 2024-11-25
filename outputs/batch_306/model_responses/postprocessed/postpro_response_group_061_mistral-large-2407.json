@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 610,
+      "category": 0,
+      "explanation": "Il va ouvrir la porte. (He goes to open the door.) - This is a general character action, opening a door.",
+      "stgdir": "Il va ouvrir la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 611,
+      "category": 4,
+      "explanation": "Il paraissent tous trois. (They all three appear.) - This indicates characters entering the stage.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 612,
+      "category": 4,
+      "explanation": "Entre le Cardinal. (The Cardinal enters.) - This is a character entrance.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 613,
+      "category": 9,
+      "explanation": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens. (Sixth interlude; Which is the solemnity of the Pythian Games.) - This is a long stage direction with narrative quality.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 614,
+      "category": 1,
+      "explanation": "Il le bat. (He beats him.) - This is a violent action, indicating aggression.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 615,
+      "category": 4,
+      "explanation": "Il entre avec l'orf\u00e8vre. (He enters with the goldsmith.) - This indicates a character entrance.",
+      "stgdir": "Il entre avec l'orf\u00e8vre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 616,
+      "category": 10,
+      "explanation": "Elle ramasse le bonnet. (She picks up the cap.) - This describes a character's interaction with an object.",
+      "stgdir": "Elle ramasse le bonnet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 617,
+      "category": 8,
+      "explanation": "Air : Or \u00e9coutez petits et grands. (Tune: Now listen, young and old.) - This is a music description.",
+      "stgdir": "Air : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 618,
+      "category": 4,
+      "explanation": "Une troupe de Matelots descendent d'un vaisseau \u00e9chou\u00e9. (A troop of Sailors descend from a stranded vessel.) - This indicates characters entering the stage.",
+      "stgdir": "Une troupe de Matelots descendent d'un vaisseau \u00e9chou\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 619,
+      "category": 12,
+      "explanation": "\u00c0 Antonin. (To Antonin.) - This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 19399.580240249634,
+  "model": "mistral-large-2407"
+}

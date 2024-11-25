@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2280",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 un serviteur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2281",
+      "category": "0",
+      "explanation": "General character action. The verb 'fond en larmes' (bursts into tears) fits the action category.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2282",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame L\u00e9ger qui entre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2283",
+      "category": "0",
+      "explanation": "General character action. The verb 'se remettant' (recovering) fits the action category.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2284",
+      "category": "7",
+      "explanation": "Character movement. The phrase 'il va aux fontaines et boit' (he goes to the fountains and drinks) describes movement.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2285",
+      "category": "8",
+      "explanation": "Music description. The phrase 'AIR : Belle Raimonde' indicates a tune name.",
+      "stgdir": "AIR : Belle Raimonde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2286",
+      "category": "8",
+      "explanation": "Music description. The phrase 'AIR : Du Coucou' indicates a tune name.",
+      "stgdir": "AIR : Du Coucou.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2287",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au Prince de Thrace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2288",
+      "category": "7",
+      "explanation": "Character movement. The phrase 'il se l\u00e8ve ainsi que sa soeur' (he stands up as well as his sister) describes movement.",
+      "stgdir": "Il se l\u00e8ve ainsi que sa soeur.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2289",
+      "category": "10",
+      "explanation": "Describes an object or a character's interaction with an object. The phrase 'il prend le papier' (he takes the paper) involves handling an object.",
+      "stgdir": "Il prend le papier.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 17488.603830337524,
+  "model": "mistral-large-2407"
+}

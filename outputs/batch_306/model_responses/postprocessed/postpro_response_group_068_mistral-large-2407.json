@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 680,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mirval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 681,
+      "category": 7,
+      "explanation": "Character movement toward a specific location.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 682,
+      "category": 8,
+      "explanation": "Describes the tune and its name.",
+      "stgdir": "Air : Toujours seule, disait Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 683,
+      "category": 6,
+      "explanation": "Non-verbal interaction of guiding or accompanying someone.",
+      "stgdir": "Le reconduisant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 684,
+      "category": 7,
+      "explanation": "Character movement toward specific objects or locations.",
+      "stgdir": "Elle s'approche du fauteuil de gauche et elle indique celui de droite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 685,
+      "category": 1,
+      "explanation": "Violent action involving lifting a stick and drawing a pistol.",
+      "stgdir": "Br\u00e9court l\u00e8ve son b\u00e2ton, que le cavalier pare avec un pistolet qu'il a tir\u00e9 rapidement de sa ceinture.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 686,
+      "category": 4,
+      "explanation": "Character enters the stage.",
+      "stgdir": "Chompr\u00e9 para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 687,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Arsame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 688,
+      "category": 8,
+      "explanation": "Describes the tune and its name.",
+      "stgdir": "AIR : Du Vaudeville de Figaro.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 689,
+      "category": 11,
+      "explanation": "Describes the stage setting and location.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 12269.353866577148,
+  "model": "mistral-large-2407"
+}

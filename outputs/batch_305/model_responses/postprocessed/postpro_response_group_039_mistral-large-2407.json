@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 390,
+      "category": 5,
+      "explanation": "Tous s'en vont. - This stage direction indicates that everyone is leaving, which fits the 'exit' category.",
+      "stgdir": "Tous s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 391,
+      "category": 6,
+      "explanation": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature. - This stage direction describes non-verbal interactions such as approaching, embracing, and tightening a ligature, which fits the 'interaction' category.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 392,
+      "category": 7,
+      "explanation": "Elle lui fait faire le tour du th\u00e9\u00e2tre. - This stage direction describes movement around the theater, which fits the 'movement' category.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 393,
+      "category": 5,
+      "explanation": "Elle se retire. - This stage direction indicates that someone is leaving, which fits the 'exit' category.",
+      "stgdir": "Elle se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 394,
+      "category": 7,
+      "explanation": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus. - This stage direction describes movement (approaching), which fits the 'movement' category.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 395,
+      "category": 7,
+      "explanation": "Il t\u00e9moigne s'en vouloir aller. - This stage direction indicates the intention to leave, which fits the 'movement' category.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 396,
+      "category": 7,
+      "explanation": "Se rapprochant. - This stage direction describes movement (approaching), which fits the 'movement' category.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 397,
+      "category": 7,
+      "explanation": "Hortense les suit. - This stage direction describes movement (following), which fits the 'movement' category.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 398,
+      "category": 0,
+      "explanation": "m\u00eame jeu que plus haut. - This stage direction indicates a repeated action, which fits the 'action' category.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 399,
+      "category": 0,
+      "explanation": "Elle \u00f4te sa main. - This stage direction describes a general action (removing a hand), which fits the 'action' category.",
+      "stgdir": "Elle \u00f4te sa main.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 37706.97331428528,
+  "model": "mistral-large-2407"
+}

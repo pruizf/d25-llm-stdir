@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 820,
+      "category": 9,
+      "explanation": "This stage direction is a long narrative sequence describing multiple actions and events, intended for readers.",
+      "stgdir": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 821,
+      "category": 0,
+      "explanation": "The character is performing the action of looking at the flowers, which is a general character action.",
+      "stgdir": "Regardant les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 822,
+      "category": 10,
+      "explanation": "The character is interacting with an object by placing it on her corsage.",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 823,
+      "category": 0,
+      "explanation": "The character is performing the action of sitting down, which is a general character action.",
+      "stgdir": "Elle s'asseoit \u00e0 une table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 824,
+      "category": 3,
+      "explanation": "The stage direction indicates a manner of delivery, specifically speaking quietly as if whispering.",
+      "stgdir": "Et comme tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 825,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, directing the speech towards the Domestique.",
+      "stgdir": "Au Domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 826,
+      "category": 1,
+      "explanation": "The stage direction describes a violent or aggressive movement by Monsieur Blaisy.",
+      "stgdir": "Mouvement violent de monsieur Blaisy.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 827,
+      "category": 7,
+      "explanation": "The character is performing a movement by freeing himself from the arms of others.",
+      "stgdir": "Il s'arrache de leurs bras.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 828,
+      "category": 5,
+      "explanation": "The stage direction describes characters exiting the stage with specific details about their exit.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 829,
+      "category": 8,
+      "explanation": "The stage direction indicates a tune name, starting with 'Air', which is characteristic of a music stage direction.",
+      "stgdir": "Air : Ami, qui l'aurait pu croire.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 15428.943395614624,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 820,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 821,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 822,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 823,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech and includes an action of showing.",
+      "stgdir": "Au Roi, en lui montrant Thamar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 824,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 825,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame Duru.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 826,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ariston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 827,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 G\u00e9ronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 828,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mademoiselle Dumeny.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 829,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la foule.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14271.795272827148,
+  "model": "mistral-large-2407"
+}

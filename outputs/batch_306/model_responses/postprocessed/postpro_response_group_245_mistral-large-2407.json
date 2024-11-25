@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2450,
+      "category": 3,
+      "explanation": "Triomphalement. (Triumphantly) This indicates a manner of delivery, expressing triumph or enthusiasm.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2451,
+      "category": 10,
+      "explanation": "Elle re\u00e7oit son billet. (She receives her ticket) This involves the interaction with an object, specifically receiving an item.",
+      "stgdir": "Elle re\u00e7oit son billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2452,
+      "category": 12,
+      "explanation": "\u00c0 Antenor. (To Antenor) This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2453,
+      "category": 0,
+      "explanation": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve. (D'Orfeuil remains momentarily stunned by his fall; he gets up) This describes a general action of falling and getting up, which does not fit into other categories.",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2454,
+      "category": 7,
+      "explanation": "Il va se mettre entre Damis et Marthon. (He goes to stand between Damis and Marthon) This indicates a movement to a specific position on the stage.",
+      "stgdir": "Il va se mettre entre Damis et Marthon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2455,
+      "category": 6,
+      "explanation": "Avisant l'Infant. (Noticing the Infant) This indicates a non-verbal interaction, specifically noticing someone.",
+      "stgdir": "Avisant l'Infant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2456,
+      "category": 8,
+      "explanation": "Ici recommence la symphonie, et Joad aussit\u00f4t reprend la parole. (Here the symphony starts again, and Joad immediately speaks) This describes the music starting again.",
+      "stgdir": "Ici recommence la symphonie, et Joad aussit\u00f4t reprend la parole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2457,
+      "category": 10,
+      "explanation": "Il lui remet Sophie entre les bras. (He hands Sophie over to him) This involves the interaction with an object, specifically handing over a person (Sophie).",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2458,
+      "category": 12,
+      "explanation": "Parlant \u00e0 Ninon. (Speaking to Ninon) This indicates the addressee of a speech.",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2459,
+      "category": 8,
+      "explanation": "Air de PLANTADE. (Tune of PLANTADE) This describes a specific tune or music element.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 18437.333345413208,
+  "model": "mistral-large-2407"
+}

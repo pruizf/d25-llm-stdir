@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "490",
+      "category": "8",
+      "explanation": "The stage direction describes a tune with the word 'AIR', indicating it is related to music.",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "491",
+      "category": "8",
+      "explanation": "The stage direction describes a tune with the word 'Air', indicating it is related to music.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "492",
+      "category": "8",
+      "explanation": "The stage direction describes a musical prelude, indicating it is related to music.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "493",
+      "category": "8",
+      "explanation": "The stage direction describes a tune with the word 'Air', indicating it is related to music.",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "494",
+      "category": "10",
+      "explanation": "The stage direction describes a letter, which is an object.",
+      "stgdir": "Lettre de Florinde \u00e0 Filemon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "495",
+      "category": "8",
+      "explanation": "The stage direction describes a tune with the word 'Air', indicating it is related to music.",
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "496",
+      "category": "10",
+      "explanation": "The stage direction describes specific objects (L'ABEILLE ET L'ARAIGN\u00c9E), indicating it is related to objects.",
+      "stgdir": "L'ABEILLE ET L'ARAIGN\u00c9E.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "497",
+      "category": "8",
+      "explanation": "The stage direction describes a tune with the word 'Air', indicating it is related to music.",
+      "stgdir": "Air : Du haut en bas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "498",
+      "category": "8",
+      "explanation": "The stage direction describes a tune with the word 'Air', indicating it is related to music.",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "499",
+      "category": "8",
+      "explanation": "The stage direction describes a tune with the word 'Air', indicating it is related to music.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 20297.42932319641,
+  "model": "mistral-large-2407"
+}

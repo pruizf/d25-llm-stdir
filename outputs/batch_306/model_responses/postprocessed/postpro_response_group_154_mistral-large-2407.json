@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1540",
+      "category": "11",
+      "explanation": "This stage direction describes the setting of the play, specifying the location as a salon in a country house.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant dans une maison de campagne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1541",
+      "category": "5",
+      "explanation": "This stage direction indicates a character exiting the stage.",
+      "stgdir": "Il s'\u00e9chappe.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1542",
+      "category": "8",
+      "explanation": "This stage direction provides the name of a tune, indicating music.",
+      "stgdir": "Air : Quand la berg\u00e8re vient des champs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1543",
+      "category": "4",
+      "explanation": "This stage direction describes the entrance of the blacksmiths onto the stage.",
+      "stgdir": "Entr\u00e9e des forgerons.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1544",
+      "category": "7",
+      "explanation": "This stage direction describes a character's movement towards a tomb.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1545",
+      "category": "10",
+      "explanation": "This stage direction describes a character giving an object (swords) to other characters.",
+      "stgdir": "Il donne une \u00e9p\u00e9e \u00e0 Francis et l'autre \u00e0 Alfred.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1546",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 L\u00e9onidas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1547",
+      "category": "0",
+      "explanation": "This stage direction describes a general action of seeing someone.",
+      "stgdir": "Apercevant Dormene.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1548",
+      "category": "4",
+      "explanation": "This stage direction describes the appearance of the Marquis in a mirror, indicating an entrance.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1549",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 son fils",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 19600.83770751953,
+  "model": "mistral-large-2407"
+}

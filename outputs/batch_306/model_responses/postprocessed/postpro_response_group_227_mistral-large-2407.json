@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2270,
+      "category": 10,
+      "explanation": "Il remet une lettre \u00e0 Ar\u00e9taphile. This stage direction involves giving an object (a letter) to another character.",
+      "stgdir": "Il remet une lettre \u00e0 Ar\u00e9taphile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2271,
+      "category": 6,
+      "explanation": "Les yeux du mort ayant rencontr\u00e9 ceux de l'avocat G\u00e9n\u00e9ral, s'immobilisent. This describes a non-verbal interaction where the eyes of the deceased meet those of the advocate general.",
+      "stgdir": "Les yeux du mort ayant rencontr\u00e9 ceux de l'avocat G\u00e9n\u00e9ral, s'immobilisent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2272,
+      "category": 12,
+      "explanation": "\u00c0 Darie. This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2273,
+      "category": 12,
+      "explanation": "\u00c0 l'Eth\u00e9r\u00e9e. This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'Eth\u00e9r\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2274,
+      "category": 5,
+      "explanation": "Sort la bonne. This indicates a character exiting the stage.",
+      "stgdir": "Sort la bonne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2275,
+      "category": 8,
+      "explanation": "AIR : Dans ma cabane obscure. This stage direction refers to a piece of music.",
+      "stgdir": "AIR : Dans ma cabane obscure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2276,
+      "category": 12,
+      "explanation": "\u00c0 Sganarelle. This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Sganarelle",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2277,
+      "category": 9,
+      "explanation": "Nota. Pendant ce monologue, la toilette va toujours. This is a narrative stage direction describing ongoing action during a monologue.",
+      "stgdir": "Nota. Pendant ce monologue, la toilette va toujours.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2278,
+      "category": 7,
+      "explanation": "D\u00e9signant du pied une dalle. This describes a character's movement or gesture, specifically pointing with the foot.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2279,
+      "category": 2,
+      "explanation": "Puis, \u00e9tant seul. This indicates the character is alone, likely addressing the audience or in an aside.",
+      "stgdir": "Puis, \u00e9tant seul.",
+      "categFull": "aparte"
+    }
+  ],
+  "response_time": 21447.48544692993,
+  "model": "mistral-large-2407"
+}

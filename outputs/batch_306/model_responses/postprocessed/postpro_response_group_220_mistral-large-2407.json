@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2200,
+      "category": 6,
+      "explanation": "Regardant Ang\u00e9lique. This stage direction indicates non-verbal interaction, specifically looking at someone.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2201,
+      "category": 7,
+      "explanation": "Marche des Acteurs du Divertissement. This stage direction describes the movement of actors.",
+      "stgdir": "Marche des Acteurs du Divertissement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2202,
+      "category": 8,
+      "explanation": "AIR de COUPERIN. Soeur Monique. This stage direction refers to music, specifically the name of a tune.",
+      "stgdir": "AIR de COUPERIN. Soeur Monique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2203,
+      "category": 4,
+      "explanation": "Elles entrent. This stage direction indicates characters entering the stage.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2204,
+      "category": 5,
+      "explanation": "Pimandre et \u00c9raste sortent. This stage direction indicates characters exiting the stage.",
+      "stgdir": "Pimandre et \u00c9raste sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2205,
+      "category": 7,
+      "explanation": "\u00c9lyse y va. This stage direction describes the movement of a character.",
+      "stgdir": "\u00c9lyse y va.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2206,
+      "category": 0,
+      "explanation": "Ronchaud prend un air s\u00e9v\u00e8re. This stage direction describes a general action of taking on a serious appearance.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2207,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une partie des Jardins du S\u00e9rail termin\u00e9e par un canal. This stage direction describes the setting of the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une partie des Jardins du S\u00e9rail termin\u00e9e par un canal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2208,
+      "category": 6,
+      "explanation": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne. This stage direction describes non-verbal interaction between characters.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2209,
+      "category": 7,
+      "explanation": "Il va pour s'en aller. This stage direction describes the movement of a character preparing to leave.",
+      "stgdir": "Il va pour s'en aller.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 15712.967157363892,
+  "model": "mistral-large-2407"
+}

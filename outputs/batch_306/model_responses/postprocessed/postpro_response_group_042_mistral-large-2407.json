@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 420,
+      "category": 8,
+      "explanation": "The stage direction mentions a musical prelude, which indicates music.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 421,
+      "category": 4,
+      "explanation": "The stage direction describes Antoinette appearing, which indicates an entrance.",
+      "stgdir": "Antoinette para\u00eet au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 422,
+      "category": 8,
+      "explanation": "The stage direction mentions an air (song), which indicates music.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 423,
+      "category": 5,
+      "explanation": "The stage direction describes characters exiting while talking, which indicates an exit.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 424,
+      "category": 8,
+      "explanation": "The stage direction mentions an air (song), which indicates music.",
+      "stgdir": "Air : Un jour que j'avais mal dans\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 425,
+      "category": 0,
+      "explanation": "The stage direction describes a character hearing something, which is a general action.",
+      "stgdir": "Il entend sa ma\u00eetresse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 426,
+      "category": 4,
+      "explanation": "The stage direction describes Lucile returning, which indicates an entrance.",
+      "stgdir": "Lucile revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 427,
+      "category": 7,
+      "explanation": "The stage direction describes a character jumping under windows, which indicates movement.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 428,
+      "category": 10,
+      "explanation": "The stage direction describes the character showing a note, which involves interaction with an object.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 429,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, which is 'toward' a specific character.",
+      "stgdir": "\u00c0 Eum\u00e9e.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14387.086391448975,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1690,
+      "category": 12,
+      "explanation": "AU PARTERRE indicates the addressee of a speech.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1691,
+      "category": 7,
+      "explanation": "Se jetant aux pieds de Wild describes a character movement.",
+      "stgdir": "Se jetant aux pieds de Wild.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1692,
+      "category": 8,
+      "explanation": "Stances refers to a specific tune or musical piece.",
+      "stgdir": "Stances.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1693,
+      "category": 0,
+      "explanation": "Il regarde l'heure \u00e0 sa montre describes a general character action of looking at the time on a watch.",
+      "stgdir": "Il regarde l'heure \u00e0 sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1694,
+      "category": 12,
+      "explanation": "Aux princes indicates the addressee of a speech.",
+      "stgdir": "Aux princes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1695,
+      "category": 8,
+      "explanation": "VERS refers to a specific tune or musical piece.",
+      "stgdir": "VERS.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1696,
+      "category": 8,
+      "explanation": "AIR 6. ( Vous avez bien de la bont\u00e9. ) refers to a specific tune named AIR 6.",
+      "stgdir": "AIR 6. ( Vous avez bien de la bont\u00e9. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1697,
+      "category": 8,
+      "explanation": "Air : Nous autres bons villageois refers to a specific tune named Nous autres bons villageois.",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1698,
+      "category": 12,
+      "explanation": "\u00c0 Do\u00f1a Sol indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Do\u00f1a Sol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1699,
+      "category": 8,
+      "explanation": "Air : Entre l'amour et la raison refers to a specific tune named Entre l'amour et la raison.",
+      "stgdir": "Air : Entre l'amour et la raison.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 16071.87533378601,
+  "model": "mistral-large-2407"
+}

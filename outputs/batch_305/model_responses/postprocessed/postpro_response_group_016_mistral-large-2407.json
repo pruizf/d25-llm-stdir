@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "160",
+      "category": "1",
+      "explanation": "Il frappe Arlequin. This stage direction describes a violent action, specifically hitting, which falls under the aggression category.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "1",
+      "explanation": "Amadis combat contre Arcala\u00fcs. This stage direction describes a fight, which is a form of aggression.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "1",
+      "explanation": "Il frappe Scaramouche de toute sa force. This stage direction describes a violent action, specifically hitting with force, which falls under the aggression category.",
+      "stgdir": "Il frappe Scaramouche de toute sa force.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "1",
+      "explanation": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence. This stage direction describes hitting with a stick, which is a form of aggression.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "1",
+      "explanation": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre. This stage direction describes beating, which is a form of aggression.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "1",
+      "explanation": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent. This stage direction describes a violent action where Arlequin is attacked and wrapped in a blanket, which falls under the aggression category.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "0",
+      "explanation": "On forme un combat \u00e0 la mani\u00e8re des anciens. This stage direction describes a general action of forming a combat, which does not specifically involve violence but rather preparation for it, so it falls under the action category.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "10",
+      "explanation": "Il en donne dans la porte qu'il met par terre. This stage direction describes interacting with an object (a door) by hitting it and knocking it down, which falls under the object category.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "2",
+      "explanation": "[\u00c0 part]. This stage direction indicates an aside, where the character speaks to the audience or to themselves, which falls under the aparte category.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "2",
+      "explanation": "[\u00c0 part. Il ne parle point de Calatabellotte.] This stage direction indicates an aside, where the character speaks to the audience or to themselves, which falls under the aparte category.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    }
+  ],
+  "response_time": 19153.491020202637,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1510,
+      "category": 6,
+      "explanation": "En apercevant le Comte. (Looking at the Count) is a non-verbal interaction.",
+      "stgdir": "En apercevant le Comte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1511,
+      "category": 7,
+      "explanation": "Polidor doit avoir suivi Tirsis. (Polidor must have followed Tirsis) describes a movement.",
+      "stgdir": "Polidor doit avoir suivi Tirsis.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1512,
+      "category": 10,
+      "explanation": "Elle porte la bague \u00e0 ses l\u00e8vres. (She brings the ring to her lips) involves interaction with an object.",
+      "stgdir": "Elle porte la bague \u00e0 ses l\u00e8vres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1513,
+      "category": 8,
+      "explanation": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands. (AIR: Monsieur le Pr\u00e9v\u00f4t des Marchands) is a music description.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1514,
+      "category": 9,
+      "explanation": "Cris au-dehors : (Cries outside:) is a narrative stage direction intended for readers.",
+      "stgdir": "Cris au-dehors :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1515,
+      "category": 5,
+      "explanation": "B\u00e9atrix se retire. (Beatrix withdraws) is an exit.",
+      "stgdir": "B\u00e9atrix se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1516,
+      "category": 7,
+      "explanation": "Elle se l\u00e8ve, et parcourt la chambre de long en large. (She gets up and paces the room) describes movement.",
+      "stgdir": "Elle se l\u00e8ve, et parcourt la chambre de long en large.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1517,
+      "category": 12,
+      "explanation": "\u00c0 la Reine. (To the Queen) indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1518,
+      "category": 6,
+      "explanation": "Montrant Milady. (Showing Milady) is a non-verbal interaction.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1519,
+      "category": 12,
+      "explanation": "\u00c0 Zaide. (To Zaide) indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 17473.182678222656,
+  "model": "mistral-large-2407"
+}

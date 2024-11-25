@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 450,
+      "category": 2,
+      "explanation": "This stage direction is an aside where the character is expressing a thought to the audience.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 451,
+      "category": 8,
+      "explanation": "This stage direction is related to music, indicating the name of the tune.",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 452,
+      "category": 2,
+      "explanation": "This stage direction is an aside where the character is making a vow to love.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 453,
+      "category": 8,
+      "explanation": "This stage direction is related to music, indicating a repeat of the previous tune.",
+      "stgdir": "bis",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 454,
+      "category": 8,
+      "explanation": "This stage direction is related to music, indicating the name of the tune.",
+      "stgdir": "AIR 5. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 455,
+      "category": 2,
+      "explanation": "This stage direction is an aside where the character is expressing a testament.",
+      "stgdir": "Testament de L\u00e9once.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 456,
+      "category": 8,
+      "explanation": "This stage direction is related to music, indicating the name of the tune.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 457,
+      "category": 8,
+      "explanation": "This stage direction is related to music, indicating the name of the tune.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 458,
+      "category": 8,
+      "explanation": "This stage direction is related to music, indicating the name of the tune.",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 459,
+      "category": 8,
+      "explanation": "This stage direction is related to music, indicating the playing of a symphony.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17062.647104263306,
+  "model": "mistral-large-2407"
+}

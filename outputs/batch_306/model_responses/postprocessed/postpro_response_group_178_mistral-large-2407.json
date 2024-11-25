@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1780",
+      "category": "7",
+      "explanation": "The stage direction 'Vivement et allant \u00e0 lui.' describes a character moving quickly towards another character, which falls under the 'movement' category.",
+      "stgdir": "Vivement et allant \u00e0 lui.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1781",
+      "category": "9",
+      "explanation": "This stage direction is a long narrative description of a sequence of actions, including fighting, calling for help, and chasing. It has a narrative quality intended for readers, fitting the 'narration' category.",
+      "stgdir": "Ils se retirent chacun de leur c\u00f4t\u00e9. Les filous reviennent, se f\u00e9licitent de leur fourberie et se proposent de partager la bourse. Divertissant dit qu'il en veut les deux tiers ; Sans-Quartier pr\u00e9tend en avoir la moiti\u00e9. Ils se battent, le Ma\u00eetre et Gilles se jettent sur eux, appellent les voisins \u00e0 leur secours. Ils s'emparent de la bourse et battent les filous qui se sauvent, poursuivis par les voisins. Gilles, anim\u00e9 de col\u00e8re, ne s'en aper\u00e7oit pas, il se jette sur son ma\u00eetre qui tient la bourse, la lui veut arracher ; l'assomme de coups. Le Ma\u00eetre crie au secours, les voisins l'arrachent des mains de Gilles qui rosse et son ma\u00eetre et tous les voisins. Apr\u00e8s s'\u00eatre bien battus, ils se reconnaissent, s'embrassent et finissent ainsi la parade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1782",
+      "category": "4",
+      "explanation": "The stage direction 'Au moment o\u00f9 l'on voit qu'elle va dire : J'irai, arrive Monsieur de Courcelles.' describes a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Au moment o\u00f9 l'on voit qu'elle va dire : J'irai, arrive Monsieur de Courcelles.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1783",
+      "category": "4",
+      "explanation": "The stage direction 'L'Exempt et ses Gardes arrivent.' describes characters entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1784",
+      "category": "11",
+      "explanation": "The stage direction 'Le camp sous Varsovie.' describes the setting or location of the play, fitting the 'setting' category.",
+      "stgdir": "Le camp sous Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1785",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Alcipe.' indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Alcipe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1786",
+      "category": "5",
+      "explanation": "The stage direction 'Ils sortent de la maison d'Atalante.' describes characters exiting the stage, fitting the 'exit' category.",
+      "stgdir": "Ils sortent de la maison d'Atalante.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1787",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Monr\u00e9al fils.' indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Monr\u00e9al fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1788",
+      "category": "10",
+      "explanation": "The stage direction 'Il veut prendre Javotte.' describes a character's interaction with another character (trying to take Javotte), fitting the 'object' category.",
+      "stgdir": "Il veut prendre Javotte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1789",
+      "category": "0",
+      "explanation": "The stage direction 'Tout le monde garde le silence.' describes a general action of all characters keeping quiet, which falls under the 'action' category.",
+      "stgdir": "Tout le monde garde le silence.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 23694.772005081177,
+  "model": "mistral-large-2407"
+}

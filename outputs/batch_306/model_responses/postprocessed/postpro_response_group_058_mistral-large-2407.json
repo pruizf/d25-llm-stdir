@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 580,
+      "category": 8,
+      "explanation": "The stage direction mentions 'RONDEAU du Prisonnier', which refers to a musical piece, indicating it is a music stage direction.",
+      "stgdir": "RONDEAU du Prisonnier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 581,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Florine' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Florine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 582,
+      "category": 12,
+      "explanation": "The stage direction 'S'adressant \u00e0 L\u00e9andre' indicates the addressee of a speech.",
+      "stgdir": "S'adressant \u00e0 L\u00e9andre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 583,
+      "category": 5,
+      "explanation": "The stage direction 'Il feint de s'en aller' suggests the character is pretending to leave, which is related to exiting.",
+      "stgdir": "Il feint de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 584,
+      "category": 8,
+      "explanation": "The stage direction 'Air : des Fraises' refers to a musical piece, indicating it is a music stage direction.",
+      "stgdir": "Air : des Fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 585,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Ardenie' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 586,
+      "category": 10,
+      "explanation": "The stage direction 'LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE' describes an object, specifically a letter.",
+      "stgdir": "LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 587,
+      "category": 4,
+      "explanation": "The stage direction 'Fenise rentre' indicates that a character enters the stage.",
+      "stgdir": "Fenise rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 588,
+      "category": 9,
+      "explanation": "The stage direction describes a sequence of character actions with narrative quality, intended for readers.",
+      "stgdir": "Tandis que cette premi\u00e8re statue par ses attitudes et ses pas, marque sa surprise et son admiration, Prom\u00e9th\u00e9e par ses gestes marque combien il est satisfait de son ouvrage, et t\u00e2che de faire entrer Mercure dans sa joie. II anime une seconde Statue qui est encore celle d'un homme, et qui exprime \u00e0 la vue du Ciel et de la Terre les m\u00eames mouvements de surprise que la premi\u00e8re ; ensuite ils s'aper\u00e7oivent, courent l'un \u00e0 l'autre, s'embrassent et se donnent tous les t\u00e9moignages de l'amiti\u00e9 la plus vive.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 589,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Philom\u00e8le' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 22959.722995758057,
+  "model": "mistral-large-2407"
+}

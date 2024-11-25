@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2910,
+      "category": 8,
+      "explanation": "The stage direction 'Air I. R\u00e9veillez-vous, belle Endormie.' refers to a tune name, making it a music category.",
+      "stgdir": "Air I. R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2911,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Alcm\u00e8ne.' indicates the addressee of a speech, making it a toward category.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2912,
+      "category": 8,
+      "explanation": "The stage direction 'AIR. M. le Pr\u00e9v\u00f4t des Marchands.' refers to a tune name, making it a music category.",
+      "stgdir": "AIR. M. le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2913,
+      "category": 4,
+      "explanation": "The stage direction 'Oronte para\u00eet.' indicates a character entering the stage, making it an entrance category.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2914,
+      "category": 6,
+      "explanation": "The stage direction 'Apercevant le Marquis.' indicates a non-verbal interaction (seeing the Marquis), making it an interaction category.",
+      "stgdir": "Apercevant le Marquis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2915,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Paturon.' indicates the addressee of a speech, making it a toward category.",
+      "stgdir": "\u00c0 Paturon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2916,
+      "category": 10,
+      "explanation": "The stage direction 'Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :' describes an interaction with an object (the forbidden fruit), making it an object category.",
+      "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2917,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Gercour.' indicates the addressee of a speech, making it a toward category.",
+      "stgdir": "\u00c0 Gercour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2918,
+      "category": 9,
+      "explanation": "The stage direction 'LETTRE DU DUC DE CARDONNE \u00c0 ASTOLFE.' is a narrative description intended for readers, making it a narration category.",
+      "stgdir": "LETTRE DU DUC DE CARDONNE \u00c0 ASTOLFE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2919,
+      "category": 11,
+      "explanation": "The stage direction 'Au caf\u00e9 de l'Alliance. \u2014 Un coin r\u00e9serv\u00e9.' describes the play location, making it a setting category.",
+      "stgdir": "Au caf\u00e9 de l'Alliance. \u2014 Un coin r\u00e9serv\u00e9.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 19274.20926094055,
+  "model": "mistral-large-2407"
+}

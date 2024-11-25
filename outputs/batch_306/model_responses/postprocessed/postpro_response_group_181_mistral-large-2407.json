@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1810,
+      "category": 10,
+      "explanation": "Il montre un manuscrit avec modestie. \u2014 This stage direction describes a character's interaction with an object (manuscrit).",
+      "stgdir": "Il montre un manuscrit avec modestie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1811,
+      "category": 5,
+      "explanation": "Colin sort. \u2014 This stage direction indicates a character exiting the stage.",
+      "stgdir": "Colin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1812,
+      "category": 8,
+      "explanation": "Air : Que ne suis-je la foug\u00e8re ? \u2014 This stage direction describes a tune name for a play with songs.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1813,
+      "category": 5,
+      "explanation": "Licaste sort. \u2014 This stage direction indicates a character exiting the stage.",
+      "stgdir": "Licaste sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1814,
+      "category": 0,
+      "explanation": "Ils s'asseyent tous les deux. \u2014 This stage direction describes a general character action (sitting).",
+      "stgdir": "Ils s'asseyent tous les deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1815,
+      "category": 3,
+      "explanation": "Criant au fond. \u2014 This stage direction describes a delivery manner, specifically shouting.",
+      "stgdir": "Criant au fond.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1816,
+      "category": 10,
+      "explanation": "Il leur baille des fleurets. \u2014 This stage direction describes a character's interaction with an object (fleurets).",
+      "stgdir": "Il leur baille des fleurets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1817,
+      "category": 7,
+      "explanation": "Il se jette \u00e0 ses genoux. \u2014 This stage direction describes a character's movement (kneeling).",
+      "stgdir": "Il se jette \u00e0 ses genoux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1818,
+      "category": 7,
+      "explanation": "Elle veut s'\u00e9loigner. \u2014 This stage direction describes a character's movement (moving away).",
+      "stgdir": "Elle veut s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1819,
+      "category": 7,
+      "explanation": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle. \u2014 This stage direction describes a character's movement (moving towards).",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 24399.630069732666,
+  "model": "mistral-large-2407"
+}

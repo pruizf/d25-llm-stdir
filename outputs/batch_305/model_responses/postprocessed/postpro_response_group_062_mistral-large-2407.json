@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 620,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction between characters, specifically the Doctor and Arlequin, involving the exchange of money and a conversation about a diamond.",
+      "stgdir": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 621,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of Don Juan asking for a drink and then drinking, which fits the definition of the 'action' category.",
+      "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 622,
+      "category": 9,
+      "explanation": "The stage direction 'Le bruit redouble' describes an increase in noise, which is a narrative element intended for readers and fits the 'narration' category.",
+      "stgdir": "Le bruit redouble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 623,
+      "category": 0,
+      "explanation": "The stage direction describes a general action of a character closing a bible and picking up a cradle, which fits the 'action' category.",
+      "stgdir": "Elle ferme la bible et va prendre le berceau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 624,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction where one character gives a purse to another, fitting the 'interaction' category.",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 625,
+      "category": 10,
+      "explanation": "The stage direction involves a character dropping a letter, which is an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il laisse tomber sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 626,
+      "category": 10,
+      "explanation": "The stage direction describes a character taking out a countryside outfit, which is an interaction with a piece of clothing, fitting the 'object' category.",
+      "stgdir": "Il tire un habit de campagne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 627,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction where Nicaise gives money and takes songs, fitting the 'interaction' category.",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 628,
+      "category": 10,
+      "explanation": "The stage direction describes a character putting on a wig, which is an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il met sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 629,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction where one character gives a novel to another, fitting the 'interaction' category.",
+      "stgdir": "Il lui remet en main son roman.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 18386.476516723633,
+  "model": "mistral-large-2407"
+}

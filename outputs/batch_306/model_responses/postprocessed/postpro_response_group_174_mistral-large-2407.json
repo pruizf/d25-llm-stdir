@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1740,
+      "category": 0,
+      "explanation": "Il l\u00e8ve les Gardes de la Chambre - This is a general character action.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1741,
+      "category": 5,
+      "explanation": "Madame Simon et Perrette sortent - This indicates characters exiting.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1742,
+      "category": 11,
+      "explanation": "La crypte des anciens rois de Pologne dans la cath\u00e9drale de Varsovie - This describes the setting.",
+      "stgdir": "La crypte des anciens rois de Pologne dans la cath\u00e9drale de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1743,
+      "category": 11,
+      "explanation": "NUIT - This describes the setting (time of day).",
+      "stgdir": "NUIT.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1744,
+      "category": 7,
+      "explanation": "Mouvement de retraite - This indicates character movement.",
+      "stgdir": "Mouvement de retraite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1745,
+      "category": 1,
+      "explanation": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre - This describes a violent action.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1746,
+      "category": 6,
+      "explanation": "En regardant le diamant - This indicates a non-verbal interaction with an object.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1747,
+      "category": 5,
+      "explanation": "Val\u00e8re sort - This indicates a character exiting.",
+      "stgdir": "Val\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1748,
+      "category": 4,
+      "explanation": "Don Juan entre - This indicates a character entering the stage.",
+      "stgdir": "Don Juan entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1749,
+      "category": 9,
+      "explanation": "Les vents ob\u00e9issent aussit\u00f4t \u00e0 ce commandement de Pers\u00e9e, et on les voit en un moment d\u00e9tacher cette princesse, et la reporter par-dessus les flots jusqu'aux lieux d'o\u00f9 ils avaient apport\u00e9e au commencement de cet acte. En m\u00eame temps Pers\u00e9e revole en haut sur son cheval ail\u00e9 ; et, apr\u00e8s avoir fait un caracol admirable au milieu de l'air, il tire du m\u00eame c\u00f4t\u00e9 qu'on a vu dispara\u00eetre la Princesse : tandis qu'il vole, tout le rivage retentit de cris de joie et de chants de victoire. - This is a long stage direction with narrative quality.",
+      "stgdir": "Les vents ob\u00e9issent aussit\u00f4t \u00e0 ce commandement de Pers\u00e9e, et on les voit en un moment d\u00e9tacher cette princesse, et la reporter par-dessus les flots jusqu'aux lieux d'o\u00f9 ils avaient apport\u00e9e au commencement de cet acte. En m\u00eame temps Pers\u00e9e revole en haut sur son cheval ail\u00e9 ; et, apr\u00e8s avoir fait un caracol admirable au milieu de l'air, il tire du m\u00eame c\u00f4t\u00e9 qu'on a vu dispara\u00eetre la Princesse : tandis qu'il vole, tout le rivage retentit de cris de joie et de chants de victoire.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 19644.29521560669,
+  "model": "mistral-large-2407"
+}

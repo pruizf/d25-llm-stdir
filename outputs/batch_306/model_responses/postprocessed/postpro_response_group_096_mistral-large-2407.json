@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 960,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the play, specifically the location represented on stage.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 961,
+      "category": 9,
+      "explanation": "This stage direction has a narrative quality, describing a sound that occurs, intended for the readers.",
+      "stgdir": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 962,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the play, specifically the change in the location represented on stage.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 963,
+      "category": 5,
+      "explanation": "This stage direction indicates a character exiting the stage.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 964,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction between characters, specifically embracing.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 965,
+      "category": 9,
+      "explanation": "This stage direction has a narrative quality, indicating a change in scenes and is intended for the readers.",
+      "stgdir": "SC\u00c8NES FRAN\u00c7AISES.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 966,
+      "category": 7,
+      "explanation": "This stage direction describes the movement of a character, specifically moving away.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 967,
+      "category": 5,
+      "explanation": "This stage direction indicates characters exiting the stage.",
+      "stgdir": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 968,
+      "category": 5,
+      "explanation": "This stage direction indicates characters exiting the stage.",
+      "stgdir": "Ils s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 969,
+      "category": 0,
+      "explanation": "This stage direction describes a general character action, specifically the act of standing up.",
+      "stgdir": "Se relevant.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 19763.962507247925,
+  "model": "mistral-large-2407"
+}

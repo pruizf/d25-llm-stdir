@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2850,
+      "category": 6,
+      "explanation": "Ils se serrent la main. - This stage direction describes a non-verbal interaction where characters shake hands.",
+      "stgdir": "Ils se serrent la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2851,
+      "category": 12,
+      "explanation": "\u00c0 Thibaudier. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Thibaudier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2852,
+      "category": 8,
+      "explanation": "AIR : V'la ce que c'est qu'd'aller au bois. - This stage direction describes a tune name, indicating music.",
+      "stgdir": "AIR : V'la ce que c'est qu'd'aller au bois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2853,
+      "category": 12,
+      "explanation": "\u00c0 Araminte. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Araminte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2854,
+      "category": 7,
+      "explanation": "En voyant la porte ferm\u00e9e. - This stage direction describes a character's movement or reaction to seeing the door closed.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2855,
+      "category": 9,
+      "explanation": "La rappelant. - This stage direction narrates an action of calling someone back, with a narrative quality intended for readers.",
+      "stgdir": "La rappelant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2856,
+      "category": 10,
+      "explanation": "Bruit de fer-blanc heurt\u00e9. - This stage direction describes a sound made by an object, indicating interaction with an object.",
+      "stgdir": "Bruit de fer-blanc heurt\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2857,
+      "category": 8,
+      "explanation": "AIR. Je ne veux d'autre bien, etc. - This stage direction describes a tune name, indicating music.",
+      "stgdir": "AIR. Je ne veux d'autre bien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2858,
+      "category": 3,
+      "explanation": "Parlant. - This stage direction indicates a delivery manner, specifically that the character is speaking.",
+      "stgdir": "Parlant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2859,
+      "category": 9,
+      "explanation": "Entrant dans son Palais, elle le trouve mort sur son lit de parade ; ses douleurs \u00e9clatent incontinent par les plaintes et ses lamentations, mais la violence de ses pleurs la tire aussi t\u00f4t dans la faiblesse. Elle est secourue par la Princesse sa confidente, revient de p\u00e2moison et demande, qu'on la laisse en repos. - This stage direction narrates a sequence of character actions and emotional reactions in a detailed manner, intended for readers.",
+      "stgdir": "Entrant dans son Palais, elle le trouve mort sur son lit de parade ; ses douleurs \u00e9clatent incontinent par les plaintes et ses lamentations, mais la violence de ses pleurs la tire aussi t\u00f4t dans la faiblesse. Elle est secourue par la Princesse sa confidente, revient de p\u00e2moison et demande, qu'on la laisse en repos.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 21392.595767974854,
+  "model": "mistral-large-2407"
+}

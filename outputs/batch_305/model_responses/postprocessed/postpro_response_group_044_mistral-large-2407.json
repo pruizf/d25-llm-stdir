@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 440,
+      "category": 0,
+      "explanation": "PANTOMIME is a general character action, not specific enough to fit into other categories.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 441,
+      "category": 8,
+      "explanation": "Air : Quand on tient de ce jus d'octobre is a music stage direction, describing a tune.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 442,
+      "category": 10,
+      "explanation": "LETTRE refers to an object, specifically a letter.",
+      "stgdir": "LETTRE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 443,
+      "category": 8,
+      "explanation": "AIR. Mon Papa toute la nuit is a music stage direction, describing a tune.",
+      "stgdir": "AIR. Mon Papa toute la nuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 444,
+      "category": 9,
+      "explanation": "Strophe X. is a narration, providing a narrative quality intended for readers.",
+      "stgdir": "Strophe X.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 445,
+      "category": 8,
+      "explanation": "On entend une symphonie douce describes music, indicating a tune being played.",
+      "stgdir": "On entend une symphonie douce.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 446,
+      "category": 8,
+      "explanation": "Air : \u00c0 l'ombre de ce vert bocage is a music stage direction, describing a tune.",
+      "stgdir": "Air : \u00c0 l'ombre de ce vert bocage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 447,
+      "category": 8,
+      "explanation": "AIR : Va t'en voir s'ils viennent Jean is a music stage direction, describing a tune.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 448,
+      "category": 8,
+      "explanation": "Air : Une jeune Pucelle, etc. is a music stage direction, describing a tune.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 449,
+      "category": 8,
+      "explanation": "AIR : Ne m'entendez-vous pas is a music stage direction, describing a tune.",
+      "stgdir": "AIR : Ne m'entendez-vous pas.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 25048.63929748535,
+  "model": "mistral-large-2407"
+}

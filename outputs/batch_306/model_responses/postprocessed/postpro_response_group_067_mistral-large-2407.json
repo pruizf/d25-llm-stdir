@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 670,
+      "category": 6,
+      "explanation": "Montrant Tancr\u00e8de. - This stage direction describes a non-verbal interaction where the character is showing Tancr\u00e8de.",
+      "stgdir": "Montrant Tancr\u00e8de.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 671,
+      "category": 12,
+      "explanation": "\u00c0 ses fils. - This stage direction indicates the addressee of a speech, the character's sons.",
+      "stgdir": "\u00c0 ses fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 672,
+      "category": 8,
+      "explanation": "AIR 97. (J'ai bien la plus sobre femme.) - This stage direction describes a tune name, indicating it is a music description.",
+      "stgdir": "AIR 97. (J'ai bien la plus sobre femme.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 673,
+      "category": 7,
+      "explanation": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures. - This stage direction describes the movement of several characters getting up and moving towards the cabinet.",
+      "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 674,
+      "category": 8,
+      "explanation": "Air : \u00c0 la fa\u00e7on de Barbari. - This stage direction describes a tune name, indicating it is a music description.",
+      "stgdir": "Air : \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 675,
+      "category": 12,
+      "explanation": "\u00c0 Isabelle. - This stage direction indicates the addressee of a speech, Isabelle.",
+      "stgdir": "\u00c0 Isabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 676,
+      "category": 5,
+      "explanation": "Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort. - This stage direction describes Loretta exiting the stage.",
+      "stgdir": "Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 677,
+      "category": 12,
+      "explanation": "\u00c0 Doligni. - This stage direction indicates the addressee of a speech, Doligni.",
+      "stgdir": "\u00c0 Doligni.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 678,
+      "category": 12,
+      "explanation": "\u00c0 celui qui porte l'urne. - This stage direction indicates the addressee of a speech, the one who carries the urn.",
+      "stgdir": "\u00c0 celui qui porte l'urne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 679,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e. - This stage direction describes the setting of the stage, Rosine's apartment.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 37706.33387565613,
+  "model": "mistral-large-2407"
+}

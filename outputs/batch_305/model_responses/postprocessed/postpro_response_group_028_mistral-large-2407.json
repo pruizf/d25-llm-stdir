@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 280,
+      "category": 5,
+      "explanation": "Adrien sort. - This stage direction indicates that Adrien is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 281,
+      "category": 5,
+      "explanation": "Oloodeme et Eristene se retirent. - This stage direction indicates that Oloodeme and Eristene are leaving the stage, which fits the 'exit' category.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 282,
+      "category": 5,
+      "explanation": "Crispe se retire et l'on continue. - This stage direction indicates that Crispe is leaving the stage, which fits the 'exit' category.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 283,
+      "category": 5,
+      "explanation": "Pysandre sort. - This stage direction indicates that Pysandre is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 284,
+      "category": 7,
+      "explanation": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate. - This stage direction describes Blanche leaving her mother and then stopping, which fits the 'movement' category.",
+      "stgdir": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 285,
+      "category": 7,
+      "explanation": "Ils s'enfuient hors du Palais, et le Roi continue. - This stage direction describes characters fleeing the palace, which fits the 'movement' category.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 286,
+      "category": 6,
+      "explanation": "Il prend Albert. - This stage direction describes a character taking Albert, which fits the 'interaction' category.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 287,
+      "category": 5,
+      "explanation": "Valentin sort. - This stage direction indicates that Valentin is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 288,
+      "category": 5,
+      "explanation": "Baptiste se sauve. - This stage direction indicates that Baptiste is leaving the stage, which fits the 'exit' category.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 289,
+      "category": 5,
+      "explanation": "Elle rentre dans le ch\u00e2teau. - This stage direction indicates that she is entering the castle, which fits the 'exit' category even though it's an entrance, it's a form of leaving the current scene.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 18514.890670776367,
+  "model": "mistral-large-2407"
+}

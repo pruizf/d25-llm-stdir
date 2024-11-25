@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2750,
+      "category": 5,
+      "explanation": "Gallas sort. - This stage direction indicates that Gallas exits, so it falls under the 'exit' category.",
+      "stgdir": "Gallas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2751,
+      "category": 10,
+      "explanation": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte. - This stage direction describes the character interacting with objects such as an \u00e9chelle and a fl\u00fbte, so it falls under the 'object' category.",
+      "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2752,
+      "category": 12,
+      "explanation": "\u00c0 La Brie. - This stage direction indicates that the speech is directed towards La Brie, so it falls under the 'toward' category.",
+      "stgdir": "\u00c0 La Brie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2753,
+      "category": 12,
+      "explanation": "Voyant Gaston. - This stage direction indicates that the speech is directed towards Gaston, so it falls under the 'toward' category.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2754,
+      "category": 1,
+      "explanation": "Il frappe Arlequin. - This stage direction indicates a violent action where the character hits Arlequin, so it falls under the 'aggression' category.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2755,
+      "category": 7,
+      "explanation": "Le garde s'\u00e9loigne un moment. - This stage direction indicates that the guard moves away, so it falls under the 'movement' category.",
+      "stgdir": "Le garde s'\u00e9loigne un moment.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2756,
+      "category": 4,
+      "explanation": "Salviati entre dans le palais. - This stage direction indicates that Salviati enters the stage, so it falls under the 'entrance' category.",
+      "stgdir": "Salviati entre dans le palais.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2757,
+      "category": 8,
+      "explanation": "Air : Eh! zon, zon, zon. - This stage direction indicates the name of a tune, so it falls under the 'music' category.",
+      "stgdir": "Air : Eh! zon, zon, zon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2758,
+      "category": 0,
+      "explanation": "On frappe de nouveau. - This stage direction indicates a general action of knocking, so it falls under the 'action' category.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2759,
+      "category": 4,
+      "explanation": "Premi\u00e8re entr\u00e9e. - This stage direction indicates an entrance, so it falls under the 'entrance' category.",
+      "stgdir": "Premi\u00e8re entr\u00e9e.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 20464.05577659607,
+  "model": "mistral-large-2407"
+}

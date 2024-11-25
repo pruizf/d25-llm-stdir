@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1000,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Idamir.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1001,
+      "category": 5,
+      "explanation": "Character exits.",
+      "stgdir": "Elle s'en va avec Henriette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1002,
+      "category": 10,
+      "explanation": "Describes a character's interaction with an object (putting on a wig).",
+      "stgdir": "Il met sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1003,
+      "category": 8,
+      "explanation": "Music description. The content following 'AIR' is the name of the tune.",
+      "stgdir": "AIR Le bruit des ar~c~.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1004,
+      "category": 8,
+      "explanation": "Music description, indicating the third verse.",
+      "stgdir": "Troisi\u00e8me couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1005,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Abramane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1006,
+      "category": 1,
+      "explanation": "Violent action, as it involves beating someone.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1007,
+      "category": 8,
+      "explanation": "Music description. The content following 'Air' is the name of the tune.",
+      "stgdir": "Air. Un inconnu pour vos charmes soupire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1008,
+      "category": 10,
+      "explanation": "Describes a character's interaction with an object (opening a secretary desk).",
+      "stgdir": "Elle ouvre le secr\u00e9taire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1009,
+      "category": 8,
+      "explanation": "Music description. The content following 'AIR' is the name of the tune.",
+      "stgdir": "AIR : Oh ! Que nenni.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 14195.613384246826,
+  "model": "mistral-large-2407"
+}

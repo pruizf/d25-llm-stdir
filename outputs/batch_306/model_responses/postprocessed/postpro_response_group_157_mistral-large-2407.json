@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1570",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Aux guerriers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1571",
+      "category": "5",
+      "explanation": "Character exits. The verb 'dispara\u00eet' indicates an exit.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1572",
+      "category": "8",
+      "explanation": "Music description. The presence of the word 'AIR' indicates a music stage direction.",
+      "stgdir": "AIR. ( L'autre nuit j'aper\u00e7us en songe. }",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1573",
+      "category": "1",
+      "explanation": "Violent action. The characters are advancing with swords in hand, indicating aggression.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1574",
+      "category": "6",
+      "explanation": "Non-verbal character interaction. The action of putting his arm under someone's nose is a form of interaction.",
+      "stgdir": "Il lui porte de m\u00eame son bras sous le nez.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1575",
+      "category": "9",
+      "explanation": "Narration. Describes a noise heard from outside, which is a narrative quality.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1576",
+      "category": "10",
+      "explanation": "Describes an interaction with an object. The character is assembling jewelry into a small bag.",
+      "stgdir": "Elle a assembl\u00e9 dans le petit sac tous les bijoux.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1577",
+      "category": "0",
+      "explanation": "General character action. The character is showing a wall that can be turned, which is a general action not fitting more specific categories.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1578",
+      "category": "8",
+      "explanation": "Music description. The presence of the word 'Air' indicates a music stage direction.",
+      "stgdir": "Air : A travers ce flacon brillant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1579",
+      "category": "0",
+      "explanation": "General character action. The character is continuing to read, which is a general action.",
+      "stgdir": "Continuant \u00e0 lire.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 15108.086347579956,
+  "model": "mistral-large-2407"
+}

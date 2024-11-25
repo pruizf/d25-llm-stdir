@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1620",
+      "category": "6",
+      "explanation": "Ma\u00eetre Godard la presse, encor, du geste, seulement. - This stage direction describes a non-verbal interaction where Ma\u00eetre Godard presses someone with a gesture, which falls under interaction.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1621",
+      "category": "9",
+      "explanation": "Voyant para\u00eetre M De Forlis. - This stage direction has a narrative quality, describing the action of seeing M De Forlis appear, which is intended for readers.",
+      "stgdir": "Voyant para\u00eetre M De Forlis.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1622",
+      "category": "9",
+      "explanation": "On entend dans la Chambre voisine, VA\u00een\u00e9 qui appelle \u00e0 lui en criant. - This stage direction describes a sound event occurring in the adjacent room, which has a narrative quality for readers.",
+      "stgdir": "On entend dans la Chambre voisine, VA\u00cen\u00e9 qui appelle \u00e0 lui en criant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1623",
+      "category": "12",
+      "explanation": "\u00c0 Rosbif. - This stage direction indicates the addressee of a speech, which is Rosbif.",
+      "stgdir": "\u00c0 Rosbif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1624",
+      "category": "8",
+      "explanation": "Air : Vaudeville de Claudine. - This stage direction describes a tune name, indicating music.",
+      "stgdir": "Air : Vaudeville de Claudine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1625",
+      "category": "0",
+      "explanation": "Il appelle ses valets. - This stage direction describes a general character action of calling his servants.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1626",
+      "category": "7",
+      "explanation": "Il recule d'un autre c\u00f4t\u00e9. - This stage direction describes a character movement of stepping back to another side.",
+      "stgdir": "Il recule d'un autre c\u00f4t\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1627",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente une Place publique. - This stage direction describes the setting of the stage, which is a public square.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une Place publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1628",
+      "category": "4",
+      "explanation": "Sabine rentre, et Dorante continue. - This stage direction describes Sabine entering the stage.",
+      "stgdir": "Sabine rentre, et Dorante continue.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1629",
+      "category": "8",
+      "explanation": "Air 51 : Branle de Metz retourn\u00e9. - This stage direction describes a tune name, indicating music.",
+      "stgdir": "Air 51 : Branle de Metz retourn\u00e9.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 18466.803312301636,
+  "model": "mistral-large-2407"
+}

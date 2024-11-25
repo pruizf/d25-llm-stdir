@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 720,
+      "category": 7,
+      "explanation": "The stage direction describes the characters taking their places, which is a movement.",
+      "stgdir": "Tous les deux prennent place devant la table.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 721,
+      "category": 7,
+      "explanation": "The character moves up the stage and goes to exit, which is a movement.",
+      "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 722,
+      "category": 11,
+      "explanation": "The stage direction indicates a setting or location, specifically at the balustrade.",
+      "stgdir": "\u00c0 la balustrade.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 723,
+      "category": 11,
+      "explanation": "The stage direction describes the setting where the curtain is raised.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 724,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the theater representing the front of Pantalon's house.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le devant de la maison de Pantalon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 725,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the theater representing the banks of the Tiber.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 726,
+      "category": 11,
+      "explanation": "The stage direction describes the setting change to represent the palace of AEg\u00e9e.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 727,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the theater representing the vestibule of a town hall.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 728,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of a library with Sainte-Beuve and a devil.",
+      "stgdir": "Une biblioth\u00e8que dont tous les rayons sont vides ; au milieu, Sainte-Beuve, et \u00e0 son c\u00f4t\u00e9 un diable, travesti en \u00e9tudiant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 729,
+      "category": 11,
+      "explanation": "The stage direction describes the setting change to represent a forest and a castle, with a young prince appearing.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 19029.06560897827,
+  "model": "mistral-large-2407"
+}

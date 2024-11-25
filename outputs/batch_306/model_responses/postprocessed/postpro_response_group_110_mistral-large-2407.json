@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1100,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1101,
+      "category": 5,
+      "explanation": "Character exits the stage.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1102,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Trasibule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1103,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (speaking to the ear of another character).",
+      "stgdir": "Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1104,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1105,
+      "category": 10,
+      "explanation": "Character interaction with an object (takes a book).",
+      "stgdir": "Hortensius tire un livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1106,
+      "category": 10,
+      "explanation": "Character interaction with an object (takes a box from his pocket).",
+      "stgdir": "Il tire un \u00e9crin de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1107,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monsieur Dabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1108,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (puts a purse in someone's hand).",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1109,
+      "category": 10,
+      "explanation": "Character interaction with an object (giving letters).",
+      "stgdir": "Et donnant les Lettres.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 14234.719514846802,
+  "model": "mistral-large-2407"
+}

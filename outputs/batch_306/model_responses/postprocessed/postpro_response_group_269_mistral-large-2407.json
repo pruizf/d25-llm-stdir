@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2690,
+      "category": 0,
+      "explanation": "Regardant sa montre. (Looking at his watch) is a general character action that does not fit other categories.",
+      "stgdir": "Regardant sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2691,
+      "category": 11,
+      "explanation": "Il est sur le pont de son palais. (He is on the bridge of his palace) describes the setting or play location.",
+      "stgdir": "Il est sur le pont de son palais.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2692,
+      "category": 8,
+      "explanation": "Huiti\u00e8me et dernier Couplet. (Eighth and last stanza) is a music description.",
+      "stgdir": "Huiti\u00e8me et dernier Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2693,
+      "category": 10,
+      "explanation": "Il la donne. (He gives it) describes a character giving an object.",
+      "stgdir": "Il la donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2694,
+      "category": 4,
+      "explanation": "Ad\u00e8le para\u00eet. (Ad\u00e8le appears) indicates a character entering the stage.",
+      "stgdir": "Ad\u00e8le para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2695,
+      "category": 1,
+      "explanation": "Don Juan lui donne un soufflet. (Don Juan slaps him) is a violent action.",
+      "stgdir": "Don Juan lui donne un soufflet.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2696,
+      "category": 9,
+      "explanation": "Les d\u00e9lib\u00e9rations des Princes, qui s'ensuivirent pour ce sujet, furent interrompues par une querelle qui s'allait vivement allumer entre l'oncle paternel de la Reine et Horuestat; puissant Prince dans le Royaume, sans la prudence de Leque, qui en assoupit les premiers feux. (The deliberations of the Princes, which followed on this subject, were interrupted by a quarrel which was about to flare up between the Queen's paternal uncle and Horuestat; a powerful Prince in the Kingdom, without the prudence of Leque, who smothered the first flames.) is a long stage direction with narrative quality intended for readers.",
+      "stgdir": "Les d\u00e9lib\u00e9rations des Princes, qui s'ensuivirent pour ce sujet, furent interrompues par une querelle qui s'allait vivement allumer entre l'oncle paternel de la Reine et Horuestat ; puissant Prince dans le Royaume, sans la prudence de Leque, qui en assoupit les premiers feux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2697,
+      "category": 4,
+      "explanation": "Bertram surgit. (Bertram appears) indicates a character entering the stage.",
+      "stgdir": "Bertram surgit.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2698,
+      "category": 12,
+      "explanation": "\u00c0 Ant\u00e9nor. (To Ant\u00e9nor) indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ant\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2699,
+      "category": 12,
+      "explanation": "Au troisi\u00e8me Laquais. (To the third servant) indicates the addressee of a speech.",
+      "stgdir": "Au troisi\u00e8me Laquais.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 22358.384132385254,
+  "model": "mistral-large-2407"
+}

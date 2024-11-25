@@ -166,6 +166,26 @@ def classification_results_to_df(resdir):
       all_lines.append([jo["stgdir"], jo["category"]])
   return pd.DataFrame(all_lines, columns=["stgdir", "categNbr"])
 
+
+def find_missing_numbers(numbers: list[int]) -> list[int]:
+  """
+  To find indices for missing stage directions in grouped responses
+  (for more than one stage direction), when result count does not
+  match reference (behaviour seen with Mistral).
+  """
+  #TODO: Add cases when index is missing from beginning or end of group list
+  # use group size and number of examples as the clue
+  missing_nums = []
+  for i in range(len(numbers) - 1):
+    current_num = numbers[i]
+    next_num = numbers[i + 1]
+    if next_num - current_num > 1:
+      for missing_num in range(current_num + 1, next_num):
+        #print(missing_num)
+        missing_nums.append(missing_num)
+  return missing_nums
+
+
 # Manual analyses ---------------------
 def add_category_names(df, categ_dict=cf.categ_col_map):
   """

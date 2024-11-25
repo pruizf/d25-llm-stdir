@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2680,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Zirph\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2681,
+      "category": 10,
+      "explanation": "Describes a character's interaction with an object (Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e).",
+      "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2682,
+      "category": 3,
+      "explanation": "Refers to the manner of delivery (Avec beaucoup d'ironie).",
+      "stgdir": "Avec beaucoup d'ironie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2683,
+      "category": 11,
+      "explanation": "Describes the stage setting or play location (\u00c0 Venise).",
+      "stgdir": "\u00c0 Venise.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2684,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality, intended for readers.",
+      "stgdir": "Les Osages portent d'\u00e9normes casse-t\u00eates ; leurs cheveux peints en rouge sont entrelac\u00e9s de plumes jaunes et noires. Des serpents et des peaux de tigres leurs servent de ceintures-carquois, d'\u00e9corce d'arbre, arcs et boucliers, avec la figure Dareski.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2685,
+      "category": 0,
+      "explanation": "General character action (On frappe de nouveau).",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2686,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (Il le baise encore).",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2687,
+      "category": 8,
+      "explanation": "Tune names (AIR: Les Trembleurs).",
+      "stgdir": "AIR: Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2688,
+      "category": 6,
+      "explanation": "Non-verbal character interaction (L'examinant encore).",
+      "stgdir": "L'examinant encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2689,
+      "category": 10,
+      "explanation": "Describes a character's interaction with an object (Il lui \u00f4te ses fers).",
+      "stgdir": "Il lui \u00f4te ses fers.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 14410.511255264282,
+  "model": "mistral-large-2407"
+}

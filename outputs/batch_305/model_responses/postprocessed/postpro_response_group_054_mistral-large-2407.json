@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 540,
+      "category": 10,
+      "explanation": "This stage direction describes an object (a letter) and the interaction with it (writing or receiving a letter).",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 541,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'Air 62' and the title of the tune.",
+      "stgdir": "Air 62 : R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 542,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'AIR' and the title of the tune.",
+      "stgdir": "AIR : Y a coups de pieds, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 543,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'AIR' and the title of the tune.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 544,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'Air' and the title of the tune.",
+      "stgdir": "Air : Dans un bosquet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 545,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'AIR' and the title of the tune.",
+      "stgdir": "AIR. \u00c0 sa voisine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 546,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'AIR' and the title of the tune.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 547,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'Air' and the title of the tune.",
+      "stgdir": "Air : Fidel \u00e9poux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 548,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'Air' and the title of the tune.",
+      "stgdir": "Air : La raison propose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 549,
+      "category": 8,
+      "explanation": "This stage direction refers to a musical piece, indicated by 'AIR 121' and the title of the tune.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 15807.266473770142,
+  "model": "mistral-large-2407"
+}

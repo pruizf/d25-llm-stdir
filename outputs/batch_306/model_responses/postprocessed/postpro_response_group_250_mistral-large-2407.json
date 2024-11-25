@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2500,
+      "category": 6,
+      "explanation": "Elle embrasse la Comtesse. This is an interaction between characters.",
+      "stgdir": "Elle embrasse la Comtesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2501,
+      "category": 10,
+      "explanation": "Il prend son billet et le confronte avec celui qu'\u00c9raste lui a laiss\u00e9. This involves handling objects.",
+      "stgdir": "Il prend son billet et le confronte avec celui qu'\u00c9raste lui a laiss\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2502,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le m\u00eame cabinet de Madame Almaviva. This describes the setting of the play.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le m\u00eame cabinet de Madame Almaviva.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2503,
+      "category": 9,
+      "explanation": "[Il interrompt la lecture. ] This is a narrative description intended for readers.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2504,
+      "category": 1,
+      "explanation": "Elle lui arrache la fiole. This is an aggressive action.",
+      "stgdir": "Elle lui arrache la fiole.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2505,
+      "category": 10,
+      "explanation": "Il lui donne la lettre. This involves giving an object.",
+      "stgdir": "Il lui donne la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2506,
+      "category": 10,
+      "explanation": "Elle remet la carte \u00e0 Thibaudier. This involves giving an object.",
+      "stgdir": "Elle remet la carte \u00e0 Thibaudier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2507,
+      "category": 9,
+      "explanation": "Arlequin, pendant ce temps, change de Juste-au-corps et de chapeau, et para\u00eet en boulanger, avec une chemisette rouge et un bonnet de laine, et son soufflet se trouve chang\u00e9 en charrette. This is a narrative description of a sequence of actions.",
+      "stgdir": "Arlequin, pendant ce temps, change de Juste-au-corps et de chapeau, et para\u00eet en boulanger, avec une chemisette rouge et un bonnet de laine, et son soufflet se trouve chang\u00e9 en charrette.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2508,
+      "category": 3,
+      "explanation": "Avec solennit\u00e9. This describes the delivery manner of the character.",
+      "stgdir": "Avec solennit\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2509,
+      "category": 8,
+      "explanation": "Air : Maman vous a dit, dans six ans. This describes a tune name or music.",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 19655.256986618042,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 630,
+      "category": 10,
+      "explanation": "The stage direction 'Lui donnant le bracelet' describes the action of giving an object, which falls under the 'object' category.",
+      "stgdir": "Lui donnant le bracelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 631,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Pauvre Jacques' refers to a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Pauvre Jacques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 632,
+      "category": 12,
+      "explanation": "The stage direction 'Au duc d'Alcala' indicates the addressee of a speech, which falls under the 'toward' category.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 633,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !' refers to a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 634,
+      "category": 1,
+      "explanation": "The stage direction 'On lui corne aux oreilles avec une trompe de postillon' describes a violent action, which falls under the 'aggression' category.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 635,
+      "category": 9,
+      "explanation": "The stage direction 'Antistrophe II' is a narrative element intended for readers, which falls under the 'narration' category.",
+      "stgdir": "Antistrophe II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 636,
+      "category": 9,
+      "explanation": "The stage direction 'Strophe X' is a narrative element intended for readers, which falls under the 'narration' category.",
+      "stgdir": "Strophe X.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 637,
+      "category": 7,
+      "explanation": "The stage direction 'Apercevant Job' describes a character movement, which falls under the 'movement' category.",
+      "stgdir": "Apercevant Job.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 638,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Mon joli petit Corbillon' refers to a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Mon joli petit Corbillon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 639,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Le petit mot, etc.' refers to a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Le petit mot, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 22101.057529449463,
+  "model": "mistral-large-2407"
+}

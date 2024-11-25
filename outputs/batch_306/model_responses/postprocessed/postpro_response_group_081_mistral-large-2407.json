@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 810,
+      "category": 10,
+      "explanation": "This stage direction describes an object (a letter) and Daphn\u00e9's interaction with it by writing it.",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 811,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where a character shows something to another character.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 812,
+      "category": 3,
+      "explanation": "This stage direction describes a character's action of laughing, which is a form of vocal expression of emotion.",
+      "stgdir": "Elle rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 813,
+      "category": 10,
+      "explanation": "This stage direction describes a character's interaction with an object (a letter) by reading it.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 814,
+      "category": 8,
+      "explanation": "This stage direction indicates the name of a tune, starting with 'Air', which classifies it under music.",
+      "stgdir": "Air : Re\u00e7ois dans ton galetas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 815,
+      "category": 5,
+      "explanation": "This stage direction describes a character exiting the scene while laughing.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 816,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, specifically directed towards Illo and Tersky.",
+      "stgdir": "\u00c0 Illo et \u00e0 Tersky.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 817,
+      "category": 8,
+      "explanation": "This stage direction indicates the name of a tune, starting with 'AIR', which classifies it under music.",
+      "stgdir": "AIR : L'amiti\u00e9 seule te s\u00e9duit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 818,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where characters (La Haine and l'Envie) embrace each other while showing disdain.",
+      "stgdir": "La Haine et l'Envie s'embrassent, en rechignant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 819,
+      "category": 10,
+      "explanation": "This stage direction describes a character's interaction with objects (a half-circle and a cane), involving manipulating and using them.",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 15709.994792938232,
+  "model": "mistral-large-2407"
+}

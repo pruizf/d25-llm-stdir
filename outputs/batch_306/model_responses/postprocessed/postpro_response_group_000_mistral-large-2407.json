@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "5",
+      "explanation": "The stage direction 'L'avocat sort.' indicates that the lawyer exits the stage, which fits the 'exit' category.",
+      "stgdir": "L'avocat sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "9",
+      "explanation": "This is a long stage direction with a narrative quality, describing a sequence of actions and events. It fits the 'narration' category.",
+      "stgdir": "C'est dans cette sc\u00e8ne que les lutins d\u00e9guis\u00e9s font une c\u00e9r\u00e9monie magique pour feindre d'embellir Forestan, et pour se moquer de lui. Deux magiciens paraissent chacun une baguette \u00e0 la main, ils frappent, la Terre en dansant, et font sortir six d\u00e9mons qui se joignent avec eux. Trois sorci\u00e8res sortent aussi de dessous terre, et faisant asseoir Forestan au milieu d'elles, m\u00ealent leur chants aux danses des Magiciens et des D\u00e9mons, pour former une mani\u00e8re d'enchantement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "8",
+      "explanation": "The stage direction 'Sixi\u00e8me Couplet.' refers to a musical element, indicating a specific section of a song. It fits the 'music' category.",
+      "stgdir": "Sixi\u00e8me Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "4",
+      "explanation": "The stage direction 'N\u00e9rine para\u00eet.' indicates that N\u00e9rine enters the stage, which fits the 'entrance' category.",
+      "stgdir": "N\u00e9rine para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "7",
+      "explanation": "The stage direction 'Il passe devant \u00c9velina.' describes a character's movement without exiting or entering, which fits the 'movement' category.",
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "3",
+      "explanation": "The stage direction 'LE CHOEUR r\u00e9p\u00e8te.' indicates a specific manner of delivery, where the chorus repeats something. It fits the 'delivery' category.",
+      "stgdir": "LE CHOEUR r\u00e9p\u00e8te.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Dariolette.' indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "7",
+      "explanation": "The stage direction 'Ceux \u00e0 qui elle parle se retirent.' describes characters moving away, which fits the 'movement' category.",
+      "stgdir": "Ceux \u00e0 qui elle parle se retirent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "11",
+      "explanation": "The stage direction 'DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.' describes a setting or a specific scene, which fits the 'setting' category.",
+      "stgdir": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "9",
+      "explanation": "The stage direction 'On entend quelqu'un qui vient.' describes a noise or event that is heard, which fits the 'narration' category.",
+      "stgdir": "On entend quelqu'un qui vient.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 16953.850507736206,
+  "model": "mistral-large-2407"
+}

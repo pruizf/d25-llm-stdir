@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2790,
+      "category": 9,
+      "explanation": "On entend frapper \u00e0 la porte. - This stage direction describes a noise (knocking at the door), which is narrative in quality and intended for readers.",
+      "stgdir": "On entend frapper \u00e0 la porte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2791,
+      "category": 5,
+      "explanation": "L'Abb\u00e9 et le petit Minot sortent. - This stage direction describes characters exiting the stage.",
+      "stgdir": "L'Abb\u00e9 et le petit Minot sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2792,
+      "category": 12,
+      "explanation": "\u00c0 Don Sanche. - This stage direction indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Don Sanche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2793,
+      "category": 10,
+      "explanation": "Il prend ses tablettes. - This stage direction describes a character interacting with an object (taking his tablets).",
+      "stgdir": "Il prend ses tablettes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2794,
+      "category": 8,
+      "explanation": "Air 176 : Vous avez raison, la Plante. - This stage direction describes a tune name and music description.",
+      "stgdir": "Air 176 : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2795,
+      "category": 8,
+      "explanation": "CHANSON DE Monsieur Sall\u00e9. - This stage direction describes a song performed by Monsieur Sall\u00e9.",
+      "stgdir": "CHANSON DE Monsieur Sall\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2796,
+      "category": 12,
+      "explanation": "En montrant Scanderberg. - This stage direction indicates the addressee of a speech by showing Scanderberg.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2797,
+      "category": 8,
+      "explanation": "AIR : La jeune Isabelle. - This stage direction describes a tune name.",
+      "stgdir": "AIR : La jeune Isabelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2798,
+      "category": 9,
+      "explanation": "Des petits frondeurs les viennent interrompre qui sont chass\u00e9s en suite. - This stage direction narrates a sequence of actions (interruption and chasing) intended for readers.",
+      "stgdir": "Des petits frondeurs les viennent interrompre qui sont chass\u00e9s en suite.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2799,
+      "category": 8,
+      "explanation": "AIR : Jean de Vert. - This stage direction describes a tune name.",
+      "stgdir": "AIR : Jean de Vert.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17931.92410469055,
+  "model": "mistral-large-2407"
+}

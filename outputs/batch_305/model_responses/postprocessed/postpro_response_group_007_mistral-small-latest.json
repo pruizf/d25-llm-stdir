@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 70,
+      "category": 10,
+      "explanation": "The stage direction describes a character showing another character, which is a non-verbal interaction with an object (another character).",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 71,
+      "category": 0,
+      "explanation": "The character is reading a letter, which is a general action.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 72,
+      "category": 10,
+      "explanation": "The character shows his eyes, which is an interaction with his own body, considered an object in this context.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 73,
+      "category": 0,
+      "explanation": "The character is looking, which is a general action.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 74,
+      "category": 10,
+      "explanation": "The character interacts with an object (a vase and a bill).",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 75,
+      "category": 10,
+      "explanation": "The character shows another character, which is an interaction with an object (another character).",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 76,
+      "category": 1,
+      "explanation": "The characters approach with swords, which is a violent action.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 77,
+      "category": 9,
+      "explanation": "The stage direction describes a sequence of character actions and their positions, intended for readers.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 78,
+      "category": 10,
+      "explanation": "The character holds an allumette, which is an interaction with an object.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 79,
+      "category": 10,
+      "explanation": "The character shows his own body part (front), which is an interaction with an object (his own body).",
+      "stgdir": "Montrant son front.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 6999.248743057251,
+  "model": "mistral-small-latest"
+}

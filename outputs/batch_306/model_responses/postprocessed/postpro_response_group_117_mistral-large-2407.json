@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1170,
+      "category": 6,
+      "explanation": "Il parle \u00e0 Dionys. - This stage direction indicates a non-verbal interaction (speaking to someone), hence it fits the 'interaction' category.",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1171,
+      "category": 7,
+      "explanation": "Il regarde dans un petit cabinet. - This stage direction indicates a character movement, specifically looking into a cabinet, which fits the 'movement' category.",
+      "stgdir": "Il regarde dans un petit cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1172,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une cour... - This stage direction describes the stage setting or play location, hence it fits the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une cour. - A gauche du public un pavillon au premier plan.- Au deuxi\u00e8me plan, un mur avec une fen\u00eatre et un balcon. -\u00c0 droite, un jardin, au fond, un mur avec une grille. - Il fait nuit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1173,
+      "category": 11,
+      "explanation": "D\u00c9CORATION DU Ier ACTE... - This stage direction provides a detailed description of the stage setting, which fits the 'setting' category.",
+      "stgdir": "D\u00c9CORATION DU Ier ACTE. Le th\u00e9\u00e2tre du Prologue fait place \u00e0 une D\u00e9coration moins r\u00e9guli\u00e8re, mais qui dans son irr\u00e9gularit\u00e9 ne laisse pas d'avoir des beaut\u00e9s qui plaisent \u00e9galement \u00e0 la vue. Elle repr\u00e9sente une Plaine, o\u00f9 diverses Ruines marquent les restes de quelques Palais d\u00e9molis, et le tout dans une si agr\u00e9able vari\u00e9t\u00e9, qu'elle n'a aucune partie qui ne fasse para\u00eetre quelque chose de diff\u00e9rent. Au bout de cette plaine on d\u00e9couvre une Montagne d'une grandeur prodigieuse. Elle est fertile dans le bas en Plantes et Fleurs b\u00e2tardes\u00a0; et \u00e0 mesure qu'elle s'\u00e9l\u00e8ve, elle devient aride, formant des Rochers peu remplis de verdure, et entrecoup\u00e9s de chemins. Le sommet laisse voir un Palais ruin\u00e9 et d\u00e9sert, avec un grand Horizon tout autour, en sorte que la Montagne est isol\u00e9e, et para\u00eet naturelle aux yeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1174,
+      "category": 10,
+      "explanation": "L'effigie du Comte se soul\u00e8ve... - This stage direction describes interaction with an object (the effigy, plume, and parchemin), which fits the 'object' category.",
+      "stgdir": "L'effigie du Comte se soul\u00e8ve lentement sur le tombeau, prend la plume et le parchemin des mains de Don Jos\u00e8s, signe, laisse tomber le parchemin, et se recouche sans pousser un soupir, sans prononcer une parole.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1175,
+      "category": 12,
+      "explanation": "\u00c0 Tib\u00e8re. - This stage direction indicates the addressee of a speech, hence it fits the 'toward' category.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1176,
+      "category": 9,
+      "explanation": "Le choeur r\u00e9p\u00e8te ces quatre derniers vers... - This stage direction narrates a sequence of actions and interactions, which fits the 'narration' category.",
+      "stgdir": "Le choeur r\u00e9p\u00e8te ces quatre derniers vers ; la suite de la Paix et celle de Pan forment une entr\u00e9e, au milieu de laquelle deux bergers chantent s\u00e9par\u00e9ment les deux couplets qui suivent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1177,
+      "category": 8,
+      "explanation": "Air 179 : La faridondaine, gu\u00e9 ! - This stage direction describes a tune name, which fits the 'music' category.",
+      "stgdir": "Air 179 : La faridondaine, gu\u00e9 !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1178,
+      "category": 8,
+      "explanation": "Air : Ah ! Madame Anroux. - This stage direction describes a tune name, which fits the 'music' category.",
+      "stgdir": "Air : Ah ! Madame Anroux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1179,
+      "category": 3,
+      "explanation": "Elle dit ceci bas. - This stage direction specifies the delivery manner (speaking softly), which fits the 'delivery' category.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 21609.94839668274,
+  "model": "mistral-large-2407"
+}

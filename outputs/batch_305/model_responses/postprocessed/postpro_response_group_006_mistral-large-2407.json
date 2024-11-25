@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 60,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, mentioning the Chief of the fugitives and the Prelate.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 61,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of looking towards the door.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 62,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, mentioning the husband of the old woman.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 63,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of setting at the table.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 64,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of listening.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 65,
+      "category": 10,
+      "explanation": "This stage direction describes an interaction with objects, specifically showing a sword and a pistol.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 66,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of making the sign of the cross.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 67,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of noticing Ad\u00e9la\u00efde.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 68,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of listening anxiously.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 69,
+      "category": 7,
+      "explanation": "This stage direction describes a character movement, specifically going to the fountains and drinking.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 14716.780662536621,
+  "model": "mistral-large-2407"
+}

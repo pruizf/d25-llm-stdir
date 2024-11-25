@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 530,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a tune, indicating it falls under the music category.",
+      "stgdir": "AIR. Dans la jeune saison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 531,
+      "category": 8,
+      "explanation": "This stage direction also starts with 'AIR' and describes a tune, fitting the music category.",
+      "stgdir": "AIR: Ton petit minois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 532,
+      "category": 8,
+      "explanation": "The stage direction starts with 'Air' and describes a tune, classifying it under the music category.",
+      "stgdir": "Air : Je ne verrai plus ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 533,
+      "category": 8,
+      "explanation": "This stage direction refers to an air and a number, indicating it is a music-related stage direction.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 534,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a vaudeville tune, classifying it under the music category.",
+      "stgdir": "AIR 17. (Vaudeville du Nouveau-Monde. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 535,
+      "category": 8,
+      "explanation": "This stage direction describes musicians playing a tune, fitting the music category.",
+      "stgdir": "Les Symphonistes jouent une Ritournelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 536,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a vaudeville tune, classifying it under the music category.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 537,
+      "category": 8,
+      "explanation": "This stage direction starts with 'AIR' and describes a tune, fitting the music category.",
+      "stgdir": "AIR. Paris est au Roi, mon coeur est \u00e0 moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 538,
+      "category": 8,
+      "explanation": "The stage direction refers to couplets on a specific tune, indicating it is a music-related stage direction.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 539,
+      "category": 9,
+      "explanation": "This stage direction provides a narrative description of an allegory, fitting the narration category.",
+      "stgdir": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 16234.626054763794,
+  "model": "mistral-large-2407"
+}

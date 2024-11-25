@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1380,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1381,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "VERS AU ROI.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1382,
+      "category": 6,
+      "explanation": "Non-verbal character interaction, specifically 'looking at' another character.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1383,
+      "category": 8,
+      "explanation": "Tune name (plays with songs). Music description.",
+      "stgdir": "Air. Du Cap de Bonne-Esp\u00e8rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1384,
+      "category": 5,
+      "explanation": "Character exits, indicated by 'se sauvant' (escaping/fleeing).",
+      "stgdir": "En se sauvant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1385,
+      "category": 0,
+      "explanation": "General character action, specifically 'noticing' something.",
+      "stgdir": "Apercevant le bouquet oubli\u00e9 sur le divan.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1386,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais d'Oromas\u00e8s, Roi des G\u00e9nies.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1387,
+      "category": 7,
+      "explanation": "Character movement, specifically returning to a location.",
+      "stgdir": "Elle retourne sur le rocher.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1388,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object, specifically a portrait on a stand.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1389,
+      "category": 8,
+      "explanation": "Tune name (plays with songs). Music description.",
+      "stgdir": "Air : Vaudeville des deux Veuves.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 12922.035217285156,
+  "model": "mistral-large-2407"
+}

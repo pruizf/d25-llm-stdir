@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 280,
+      "category": 3,
+      "explanation": "This stage direction indicates that the rest is sung, which falls under the delivery category, specifically singing.",
+      "stgdir": "Tout ce reste est chant\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 281,
+      "category": 12,
+      "explanation": "This stage direction indicates that the character is showing their front, which suggests an interaction or movement towards something or someone.",
+      "stgdir": "Montrant son front.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 282,
+      "category": 4,
+      "explanation": "This stage direction indicates that Auguste enters with a tray, which falls under the entrance category.",
+      "stgdir": "Auguste rentre avec un plateau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 283,
+      "category": 8,
+      "explanation": "This stage direction describes a tune, specifically an air, which falls under the music category.",
+      "stgdir": "AIR. Non, toujours dire non.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 284,
+      "category": 0,
+      "explanation": "This stage direction indicates that the character continues to speak, which is a general character action.",
+      "stgdir": "Il continue toujours \u00e0 parler.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 285,
+      "category": 4,
+      "explanation": "This stage direction indicates that someone enters, which falls under the entrance category.",
+      "stgdir": "On entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 286,
+      "category": 7,
+      "explanation": "This stage direction indicates that Th\u00e9r\u00e8se and Madame Raquin stand up, which is a movement category.",
+      "stgdir": "Th\u00e9r\u00e8se et Madame Raquin se l\u00e8vent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 287,
+      "category": 8,
+      "explanation": "This stage direction describes a musical section, specifically a third couplet, which falls under the music category.",
+      "stgdir": "TROISI\u00c8ME COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 288,
+      "category": 8,
+      "explanation": "This stage direction describes a musical piece, specifically an epithalamic ode, which falls under the music category.",
+      "stgdir": "ODE \u00c9PITHALAMIQUE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 289,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the stage, specifically the cave of Aristandre, which falls under the setting category.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 14667.637586593628,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "20",
+      "category": "6",
+      "explanation": "She calls Lubin, which is a non-verbal interaction, specifically calling someone.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "0",
+      "explanation": "Reading is a general action, not specifically fitting into other categories.",
+      "stgdir": "Lisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "5",
+      "explanation": "She exits followed by her page and the Countess, which is an exit action.",
+      "stgdir": "Elle sort suivie de son page et de la Comtesse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "8",
+      "explanation": "New AIR: Music by Auguste BLANGY, which is a music description.",
+      "stgdir": "AIR NOUVEAU : Musique d'Augusrte BLANGY.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "He hits her, which is a violent action, classified as aggression.",
+      "stgdir": "Il la frappe",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "10",
+      "explanation": "He gives her the roll, which involves interaction with an object.",
+      "stgdir": "Il lui donne le rouleau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "0",
+      "explanation": "Bobielle goes to throw something into the vase, which is a general action not specifically fitting into other categories.",
+      "stgdir": "Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "5",
+      "explanation": "Adonias exits, which is an exit action.",
+      "stgdir": "Adonias sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "5",
+      "explanation": "La Montagne leaves, which is an exit action.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "10",
+      "explanation": "He takes it from Liliane, which involves interaction with an object.",
+      "stgdir": "Il l'\u00f4te \u00e0 Liliane.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 17862.446069717407,
+  "model": "mistral-large-2407"
+}

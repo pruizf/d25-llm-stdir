@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1090,
+      "category": 10,
+      "explanation": "The stage direction describes a character showing a packet of letters, which is an interaction with an object.",
+      "stgdir": "En montrant un paquet de lettres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1091,
+      "category": 3,
+      "explanation": "The stage direction describes the manner of delivery, indicating emotion.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1092,
+      "category": 3,
+      "explanation": "The stage direction describes the manner of delivery, indicating the character starts to cry.",
+      "stgdir": "Il se met \u00e0 crier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1093,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the play.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un coin de verdure, dans la campagne, Noellie est endormie sur un banc de gazon, \u00e0 c\u00f4t\u00e9 de sa guitare.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1094,
+      "category": 8,
+      "explanation": "The stage direction indicates a piece of music, starting with 'AIR'.",
+      "stgdir": "AIR: Ton petit minois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1095,
+      "category": 7,
+      "explanation": "The stage direction describes the character moving towards a specific location.",
+      "stgdir": "Allant vers La gu\u00e9rite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1096,
+      "category": 10,
+      "explanation": "The stage direction describes the character interacting with an object (fouiller dans ses poches).",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1097,
+      "category": 10,
+      "explanation": "The stage direction describes the character interacting with an object (tirer un paquet de cigarettes).",
+      "stgdir": "Il tire machinalement un paquet de cigarettes de la poche de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1098,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech (\u00c0 Adam).",
+      "stgdir": "\u00c0 Adam.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1099,
+      "category": 7,
+      "explanation": "The stage direction describes the character moving to a specific location (s'assied en un coin du th\u00e9\u00e2tre).",
+      "stgdir": "Il s'assied en un coin du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 15462.417602539062,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2840,
+      "category": 12,
+      "explanation": "Il appelle Lubin. This stage direction indicates that the character is calling Lubin, hence it fits the 'toward' category.",
+      "stgdir": "Il appelle Lubin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2841,
+      "category": 7,
+      "explanation": "Ils se retirent en un coin du Th\u00e9\u00e2tre. This stage direction describes characters moving to a corner of the theater, hence it fits the 'movement' category.",
+      "stgdir": "Ils se retirent en un coin du Th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2842,
+      "category": 12,
+      "explanation": "\u00c0 Monsieur Pot-De-Vin. This stage direction indicates that the character is addressing Monsieur Pot-De-Vin, hence it fits the 'toward' category.",
+      "stgdir": "\u00c0 Monsieur Pot-De-Vin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2843,
+      "category": 0,
+      "explanation": "\u00c0 genoux. This stage direction describes the character kneeling, which is a general character action, hence it fits the 'action' category.",
+      "stgdir": "\u00c0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2844,
+      "category": 12,
+      "explanation": "Au Huron. This stage direction indicates that the character is addressing the Huron, hence it fits the 'toward' category.",
+      "stgdir": "Au Huron.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2845,
+      "category": 8,
+      "explanation": "AIR. Quand le p\u00e9ril est agr\u00e9able. This stage direction starts with 'AIR' and describes a tune, hence it fits the 'music' category.",
+      "stgdir": "AIR. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2846,
+      "category": 12,
+      "explanation": "\u00c0 Mouravieff. This stage direction indicates that the character is addressing Mouravieff, hence it fits the 'toward' category.",
+      "stgdir": "\u00c0 Mouravieff.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2847,
+      "category": 1,
+      "explanation": "Le petit laquais pousse le si\u00e8ge rudement. This stage direction describes a violent action of pushing, hence it fits the 'aggression' category.",
+      "stgdir": "Le petit laquais pousse le si\u00e8ge rudement.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2848,
+      "category": 6,
+      "explanation": "Montrant les anciens S\u00e9nateurs. This stage direction describes a non-verbal interaction of showing, hence it fits the 'interaction' category.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2849,
+      "category": 6,
+      "explanation": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire. This stage direction describes a non-verbal interaction of showing, hence it fits the 'interaction' category.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 19337.659120559692,
+  "model": "mistral-large-2407"
+}

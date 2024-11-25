@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 450,
+      "category": 7,
+      "explanation": "The stage direction 'Ici, tout le monde fait un cercle autour de l'intendant.' describes a movement where everyone forms a circle around the intendant.",
+      "stgdir": "Ici, tout le monde fait un cercle autour de l'intendant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 451,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Louisette et \u00e0 Jean.' indicates the addressee of a speech, specifically to Louisette and Jean.",
+      "stgdir": "\u00c0 Louisette et \u00e0 Jean.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 452,
+      "category": 0,
+      "explanation": "The stage direction 'Il refrappe.' describes a general action of knocking again, which does not fit into more specific categories.",
+      "stgdir": "Il refrappe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 453,
+      "category": 10,
+      "explanation": "The stage direction 'Il d\u00e9chire la Version.' describes an interaction with an object, specifically tearing a version.",
+      "stgdir": "Il d\u00e9chire la Version.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 454,
+      "category": 5,
+      "explanation": "The stage direction 'Ils s'\u00e9loignent.' describes characters exiting the stage by moving away.",
+      "stgdir": "Ils s'\u00e9loignent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 455,
+      "category": 6,
+      "explanation": "The stage direction 'Montrant Pyrrhus.' describes a non-verbal interaction of pointing at or indicating Pyrrhus.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 456,
+      "category": 12,
+      "explanation": "The stage direction 'Au laboureur.' indicates the addressee of a speech, specifically to the laborer.",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 457,
+      "category": 11,
+      "explanation": "The stage direction 'V\u00e9nus a disparu.' describes a setting change where Venus has disappeared.",
+      "stgdir": "V\u00e9nus a disparu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 458,
+      "category": 0,
+      "explanation": "The stage direction 'Il finit sa lettre.' describes a general action of finishing a letter.",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 459,
+      "category": 8,
+      "explanation": "The stage direction 'AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.' indicates a musical piece, specifically an air named 'Mathieu, gr\u00e2ce \u00e0 Dieu'.",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 18099.242210388184,
+  "model": "mistral-large-2407"
+}

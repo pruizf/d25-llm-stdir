@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1080,
+      "category": 9,
+      "explanation": "Strophe IX is a narrative stage direction intended for readers, indicating a structural element of the play.",
+      "stgdir": "Strophe IX.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1081,
+      "category": 7,
+      "explanation": "Ils s'asseyent describes the characters sitting down, which is a movement.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1082,
+      "category": 5,
+      "explanation": "Il sort par la porte de gauche describes the character exiting the stage.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1083,
+      "category": 0,
+      "explanation": "Il regarde dans l'antichambre describes the character looking into the antechamber, a general action.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1084,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the stage, including details about the room and its layout.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une salle de caf\u00e9. Au milieu est un po\u00eale \u00e9conomique surmont\u00e9 d'un Mont-Parnasse, compos\u00e9 selon le syst\u00e8me des Litt\u00e9rateurs modernes, et cons\u00e9quemment tout l'oppos\u00e9 de celui que M. Titon du Tillet a \u00e9lev\u00e9 \u00e0 la gloire du si\u00e8cle de Louis XIV. Chaque table est garnie d'encre, de papier et d'une inscription relative aux feuilles et aux brochures qui leur est propre. On aper\u00e7oit, dans le fond, une biblioth\u00e8que fort en d\u00e9sordre. Parnassot et deux gar\u00e7ons arrangent la salle. Parnassot est coiff\u00e9 d'un p\u00e9tasse ou bonnet de Mercure, les gar\u00e7ons en ont un \u00e0-peu-pr\u00e9s semblable, except\u00e9 que les ailes rabattues forment des oreilles de Midas.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1085,
+      "category": 0,
+      "explanation": "Tapant du pied describes the character stamping their foot, a general action.",
+      "stgdir": "Tapant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1086,
+      "category": 8,
+      "explanation": "Air : Madame en v\u00e9rit\u00e9 indicates a tune or music, starting with 'Air'.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1087,
+      "category": 4,
+      "explanation": "[Il] d\u00e9bouche describes the character entering the stage.",
+      "stgdir": "[Il] d\u00e9bouche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1088,
+      "category": 12,
+      "explanation": "En regardant Terville indicates the addressee of a speech, directed toward Terville.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1089,
+      "category": 8,
+      "explanation": "AIR. Songez \u00e0 vous d\u00e9fendre indicates a tune or music, starting with 'AIR'.",
+      "stgdir": "AIR. Songez \u00e0 vous d\u00e9fendre.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 15437.307834625244,
+  "model": "mistral-large-2407"
+}

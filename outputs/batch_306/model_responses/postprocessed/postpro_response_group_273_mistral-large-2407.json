@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2730,
+      "category": 5,
+      "explanation": "Phoenix sort. 'Sort' means 'exit' in French, so this stage direction indicates a character exiting.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2731,
+      "category": 0,
+      "explanation": "Scarron continue d'\u00e9crire. 'Continue d'\u00e9crire' means 'continues to write' in French, which is a general character action.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2732,
+      "category": 12,
+      "explanation": "\u00c0 Arsace. This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Arsace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2733,
+      "category": 9,
+      "explanation": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise. This describes a sequence of weather events, which is a narrative quality intended for readers.",
+      "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2734,
+      "category": 4,
+      "explanation": "Edgard entre. 'Entre' means 'enter' in French, so this stage direction indicates a character entering the stage.",
+      "stgdir": "Edgard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2735,
+      "category": 7,
+      "explanation": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant. 'S'assied' means 'sits down' in French, which is a character movement.",
+      "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2736,
+      "category": 12,
+      "explanation": "\u00c0 Arons. This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Arons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2737,
+      "category": 3,
+      "explanation": "Tous reprennent le rondeau. 'Reprennent le rondeau' means 'all resume the rondeau,' which refers to the delivery manner of singing.",
+      "stgdir": "Tous reprennent le rondeau.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2738,
+      "category": 8,
+      "explanation": "Air 18 : Branle de Metz. This starts with 'Air' and describes the name of the tune, which fits the music category.",
+      "stgdir": "Air 18 : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2739,
+      "category": 8,
+      "explanation": "AIR : Du pas redoubl\u00e9 de l'Infanterie. This starts with 'AIR' and describes the name of the tune, which fits the music category.",
+      "stgdir": "AIR : Du pas redoubl\u00e9 de l'Infanterie.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17697.11995124817,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2090,
+      "category": 8,
+      "explanation": "The stage direction describes a musical element, specifically a drumroll, which fits the 'music' category.",
+      "stgdir": "Roulement de tambours qui battent aux champs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2091,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air 204' followed by a tune name, which fits the 'music' category.",
+      "stgdir": "Air 204. L'Amour veut devenir vainqueur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2092,
+      "category": 7,
+      "explanation": "The stage direction describes a character's movement to the clavecin and back, which fits the 'movement' category.",
+      "stgdir": "Elle va \u00e0 son clavecin, et revient aussit\u00f4t.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2093,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the stage, which fits the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon d'\u00e9t\u00e9 des plus riches. Trois portes-fen\u00eatres au fond, ouvertes sur des jardins orn\u00e9s de statues. Deux portraits en pied de l'empereur et de l'Imp\u00e9ratrice sont plac\u00e9s entre les fen\u00eatres, vis-\u00e0-vis les spectateurs.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2094,
+      "category": 10,
+      "explanation": "The stage direction involves an interaction with an object (a flacon), which fits the 'object' category.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2095,
+      "category": 11,
+      "explanation": "The stage direction describes the setting of the stage, specifically an apartment, which fits the 'setting' category.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2096,
+      "category": 9,
+      "explanation": "The stage direction is narrative, describing an event happening off-stage, which fits the 'narration' category.",
+      "stgdir": "On entend un colporteur qui crie en dehors : \u00ab C'est aujourd'hui la Loterie Nationale de France ; qu'est-ce qui veut le gros lot ? 955 francs pour 24 sols.\u00bb",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2097,
+      "category": 7,
+      "explanation": "The stage direction describes a character's movement towards a door, which fits the 'movement' category.",
+      "stgdir": "Il s'approche de la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2098,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction (pushing), which fits the 'interaction' category.",
+      "stgdir": "Il le pousse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2099,
+      "category": 9,
+      "explanation": "The stage direction is narrative, describing a sequence of actions and events, which fits the 'narration' category.",
+      "stgdir": "Un lit de gazon s'\u00e9l\u00e8ve fort \u00e0 propos propos. Le Pasteur tombe dessus sans connaissance, les Aguilons, les Cyclopes et les Sulamandres se retiremt.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 18919.09098625183,
+  "model": "mistral-large-2407"
+}

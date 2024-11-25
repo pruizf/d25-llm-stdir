@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2590,
+      "category": 10,
+      "explanation": "The stage direction describes the character giving a paper to the suivante, which is an interaction with an object.",
+      "stgdir": "Il donne \u00e0 la suivante le papier sur lequel il a \u00e9crit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2591,
+      "category": 4,
+      "explanation": "The stage direction describes the entrance of suivants de la Fortune.",
+      "stgdir": "Entr\u00e9e de suivants de la Fortune.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2592,
+      "category": 3,
+      "explanation": "The stage direction describes Cr\u00e9sus calling, which is a form of vocal expression or delivery.",
+      "stgdir": "Cr\u00e9sus, appelant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2593,
+      "category": 12,
+      "explanation": "The stage direction indicates the addressee of a speech, which is Rhadamisthe.",
+      "stgdir": "\u00c0 Rhadamisthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2594,
+      "category": 6,
+      "explanation": "The stage direction describes a non-verbal interaction where the character embraces Argie.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2595,
+      "category": 9,
+      "explanation": "The stage direction has a narrative quality, describing a sequence of character actions and movements in detail.",
+      "stgdir": "Tandis que Moli\u00e8re reste pensif, Dassoucy, Pierrotin et le Docteur sortent bruyamment du ch\u00e2teau ; Pierrotin porte un flacon et un gobelet, boit \u00e0 petits coups, fait claquer sa langue et se caresse l'estomac avec b\u00e9atitude.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2596,
+      "category": 8,
+      "explanation": "The stage direction describes a tune name, indicating music.",
+      "stgdir": "Air : De tous les Capucins du monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2597,
+      "category": 11,
+      "explanation": "The stage direction describes the setting with several groups of Bergers and Berg\u00e8res playing games.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2598,
+      "category": 7,
+      "explanation": "The stage direction describes the character's fingers moving, which is a form of movement.",
+      "stgdir": "Ses doigts, qui errent \u00e0 l'aventure, rencontrent les panneaux sup\u00e9rieurs du buffet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2599,
+      "category": 8,
+      "explanation": "The stage direction describes a tune name, indicating music.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17822.1116065979,
+  "model": "mistral-large-2407"
+}

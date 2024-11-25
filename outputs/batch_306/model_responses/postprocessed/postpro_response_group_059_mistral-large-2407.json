@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "590",
+      "category": "0",
+      "explanation": "The stage direction 'Ils s'asseyent tous deux.' describes a general action of sitting, which fits the definition of 'action'.",
+      "stgdir": "Ils s'asseyent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "591",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Tartuffe.' indicates the addressee of a speech, which fits the definition of 'toward'.",
+      "stgdir": "\u00c0 Tartuffe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "592",
+      "category": "5",
+      "explanation": "The stage direction 'Ils sortent avec la M\u00e8re Ubu.' describes characters exiting the stage, which fits the definition of 'exit'.",
+      "stgdir": "Ils sortent avec la M\u00e8re Ubu.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "593",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Oh ! Ricandaine.' describes a tune name, which fits the definition of 'music'.",
+      "stgdir": "AIR. Oh ! Ricandaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "594",
+      "category": "12",
+      "explanation": "The stage direction 'En apercevant Eve.' indicates the addressee of a speech or the focus of attention, which fits the definition of 'toward'.",
+      "stgdir": "En apercevant Eve.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "595",
+      "category": "0",
+      "explanation": "The stage direction 'Regardant sa main vide.' describes a general action of looking at one's hand, which fits the definition of 'action'.",
+      "stgdir": "Regardant sa main vide.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "596",
+      "category": "6",
+      "explanation": "The stage direction 'Elle reprend le bras de Phanor.' describes a non-verbal interaction of taking someone's arm, which fits the definition of 'interaction'.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "597",
+      "category": "10",
+      "explanation": "The stage direction 'Elle lui rend la bague.' describes giving an object, which fits the definition of 'object'.",
+      "stgdir": "Elle lui rend la bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "598",
+      "category": "0",
+      "explanation": "The stage direction 'Se remettant.' describes a general action of recovering or composing oneself, which fits the definition of 'action'.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "599",
+      "category": "9",
+      "explanation": "The stage direction 'Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.' is a long stage direction with narrative quality, intended for readers, which fits the definition of 'narration'.",
+      "stgdir": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 23574.803352355957,
+  "model": "mistral-large-2407"
+}

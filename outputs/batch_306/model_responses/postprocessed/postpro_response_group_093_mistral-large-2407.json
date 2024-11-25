@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 930,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 931,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Il passe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 932,
+      "category": 5,
+      "explanation": "Character exits.",
+      "stgdir": "Brigitte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 933,
+      "category": 4,
+      "explanation": "Character enters stage.",
+      "stgdir": "Entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 934,
+      "category": 1,
+      "explanation": "Violent action.",
+      "stgdir": "Le soldat le frappe de sa pique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 935,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente les jardins du Palais d'Hercule sur le bord de la mer.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 936,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Il tire un petit volume de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 937,
+      "category": 9,
+      "explanation": "Narrative quality intended for readers.",
+      "stgdir": "IV.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 938,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "La sc\u00e8ne est chez l'Abb\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 939,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Sans se mettre \u00e0 genoux.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 13493.381261825562,
+  "model": "mistral-large-2407"
+}

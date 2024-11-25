@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1750",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Les Proverbes.' specifies a tune name, which falls under the 'music' category.",
+      "stgdir": "Air : Les Proverbes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1751",
+      "category": "6",
+      "explanation": "The stage direction 'Il la caresse.' describes a non-verbal interaction, which fits the 'interaction' category.",
+      "stgdir": "Il la caresse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1752",
+      "category": "7",
+      "explanation": "The stage direction 'Il va pour \u00e9couter \u00e0 la porte.' indicates character movement, fitting the 'movement' category.",
+      "stgdir": "Il va pour \u00e9couter \u00e0 la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1753",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Baliveau, voyant son profond \u00e9tonnement.' indicates the addressee of a speech, which falls under the 'toward' category.",
+      "stgdir": "\u00c0 Baliveau, voyant son profond \u00e9tonnement.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1754",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Ces Filles sont si sottes.' specifies a tune name, which fits the 'music' category.",
+      "stgdir": "Air : Ces Filles sont si sottes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1755",
+      "category": "0",
+      "explanation": "The stage direction 'Apr\u00e8s qu'elle a lu.' describes a general action (reading), fitting the 'action' category.",
+      "stgdir": "Apr\u00e8s qu'elle a lu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1756",
+      "category": "0",
+      "explanation": "The stage direction 'Ils s'asseyent \u00e0 la table.' describes a general action (sitting), fitting the 'action' category.",
+      "stgdir": "Ils s'asseyent \u00e0 la table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1757",
+      "category": "8",
+      "explanation": "The stage direction 'AIR 49 : Jardinier, ne vois-tu, pas ?' specifies a tune name, which fits the 'music' category.",
+      "stgdir": "AIR 49 : Jardinier, ne vois-tu, pas ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1758",
+      "category": "6",
+      "explanation": "The stage direction 'Embrassant son p\u00e8re.' describes a non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1759",
+      "category": "4",
+      "explanation": "The stage direction 'Madame de l'Architrave accompagn\u00e9e de plusieurs ma\u00e7ons avec leurs outils, salue Arlequin.' describes an entrance, fitting the 'entrance' category.",
+      "stgdir": "Madame de l'Architrave accompagn\u00e9e de plusieurs ma\u00e7ons avec leurs outils, salue Arlequin.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 18494.271993637085,
+  "model": "mistral-large-2407"
+}

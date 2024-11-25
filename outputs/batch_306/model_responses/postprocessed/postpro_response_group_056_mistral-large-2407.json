@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 560,
+      "category": 11,
+      "explanation": "This stage direction describes the state of the theater, which is a setting description.",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 561,
+      "category": 9,
+      "explanation": "This is a long stage direction with narrative quality, describing a sequence of actions and interactions.",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 562,
+      "category": 11,
+      "explanation": "This stage direction indicates the location, which is a setting description.",
+      "stgdir": "\u00c0 Trasimon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 563,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of the doctor standing up.",
+      "stgdir": "Le docteur se l\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 564,
+      "category": 1,
+      "explanation": "This stage direction indicates a violent action, suggesting aggression.",
+      "stgdir": "Il tire.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 565,
+      "category": 0,
+      "explanation": "This stage direction describes a general action related to a knightly order.",
+      "stgdir": "Serment de l'Ordre de Chevalerie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 566,
+      "category": 11,
+      "explanation": "This stage direction indicates the location, which is a setting description.",
+      "stgdir": "\u00c0 Sozame.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 567,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction between characters.",
+      "stgdir": "Embrassant Madame Milville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 568,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of examining a painting.",
+      "stgdir": "Examinant le tableau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 569,
+      "category": 8,
+      "explanation": "This stage direction describes a musical piece, indicating a tune name.",
+      "stgdir": "Air de la SIR\u00c8NE, d'Auber.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 18905.153036117554,
+  "model": "mistral-large-2407"
+}

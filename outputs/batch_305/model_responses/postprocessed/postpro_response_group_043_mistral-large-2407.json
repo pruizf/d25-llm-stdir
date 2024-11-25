@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 430,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "AIR : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 431,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 432,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 433,
+      "category": 9,
+      "explanation": "This is a long stage direction with narrative quality, describing a sequence of actions involving singing and dialogue.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 434,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 435,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "Air : Sa ne vous va brin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 436,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 437,
+      "category": 8,
+      "explanation": "The stage direction mentions 'AIR' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 438,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "Air : Pour qu'sa pr\u00e9tention soit bannie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 439,
+      "category": 8,
+      "explanation": "The stage direction mentions 'Air' followed by a phrase, indicating it is a tune name for a song.",
+      "stgdir": "Air : Va, va, Fanchon, J'irai en salle.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17059.359312057495,
+  "model": "mistral-large-2407"
+}

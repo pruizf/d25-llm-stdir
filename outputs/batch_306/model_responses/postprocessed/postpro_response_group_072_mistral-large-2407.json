@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 720,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the stage, indicating where Melpom\u00e8ne and Thalie are positioned.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 721,
+      "category": 7,
+      "explanation": "This stage direction describes a character's movement, specifically throwing themselves onto a chair.",
+      "stgdir": "Se jetant sur un fautenil.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 722,
+      "category": 8,
+      "explanation": "This stage direction indicates a musical piece, starting with 'AIR' and followed by the name of the tune.",
+      "stgdir": "AIR. Que de Gentillesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 723,
+      "category": 10,
+      "explanation": "This stage direction describes the character's interaction with an object, specifically closing a box (\u00e9crin).",
+      "stgdir": "Il referme vite le secret de l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 724,
+      "category": 8,
+      "explanation": "This stage direction indicates a musical piece, starting with 'Air' and followed by the name of the tune.",
+      "stgdir": "Air : Quel amour fut aussi tendre ! De Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 725,
+      "category": 8,
+      "explanation": "This stage direction indicates a musical piece, referring to a 'S\u00c9R\u00c9NADE'.",
+      "stgdir": "S\u00c9R\u00c9NADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 726,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, referring to 'insulaires de l'un et de l'autre sexes'.",
+      "stgdir": "Aux insulaires de l'un et de l'autre sexes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 727,
+      "category": 3,
+      "explanation": "This stage direction describes the delivery manner, indicating that the character is saying the last words while laughing.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 728,
+      "category": 4,
+      "explanation": "This stage direction indicates a character entering the stage.",
+      "stgdir": "Entrant.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 729,
+      "category": 5,
+      "explanation": "This stage direction indicates a character exiting the stage, using the verb 'se retire'.",
+      "stgdir": "Tirsis se retire.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 20382.407903671265,
+  "model": "mistral-large-2407"
+}

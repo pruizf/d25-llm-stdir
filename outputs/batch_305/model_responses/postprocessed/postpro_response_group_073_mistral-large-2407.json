@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 730,
+      "category": 11,
+      "explanation": "This stage direction describes a setting: 'Une fontaine dans un bois' (A fountain in a wood).",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 731,
+      "category": 11,
+      "explanation": "This stage direction describes a setting: 'Un salon de coiffeur' (A hair salon) with various objects.",
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 732,
+      "category": 11,
+      "explanation": "This stage direction describes a setting: 'En prison' (In prison).",
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 733,
+      "category": 9,
+      "explanation": "This stage direction has a narrative quality, describing the state of the stage: 'Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre' (At the rise of the curtain, the theater is in disorder).",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 734,
+      "category": 11,
+      "explanation": "This stage direction describes a setting: 'LE CH\u00c2TEAU DE SILVA. Dans les montagnes d'Aragon' (Silva's Castle. In the mountains of Aragon) with detailed descriptions of the room.",
+      "stgdir": "LE CH\u00c2TEAU DE SILVA. Dans les montagnes d'Aragon. La galerie des portraits de famille de Silva ; grande salle, dont ces portraits entour\u00e9s de riches bordures, et surmont\u00e9s de couronnes ducales et d'\u00e9cussons dor\u00e9s, font la d\u00e9coration. Au fond une haute porte gothique. Entre chaque portrait une panoplie compl\u00e8te, toutes ces armures de si\u00e8cles diff\u00e9rents.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 735,
+      "category": 11,
+      "explanation": "This stage direction describes a setting: 'Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher' (The theater represents a bedroom).",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 736,
+      "category": 9,
+      "explanation": "This stage direction has a narrative quality, describing a sequence of actions: 'La porte du fond s'ouvre' (The door at the back opens) and the subsequent events.",
+      "stgdir": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re ; de jeunes cavaliers et de jeunes femmes se l\u00e8vent de table ; deux n\u00e8gres v\u00eatus en pages entrent en portant des flambeaux ; la sc\u00e8ne s'\u00e9claire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 737,
+      "category": 9,
+      "explanation": "This stage direction has a narrative quality, describing a sequence of actions: 'Elles ont achev\u00e9 de mettre la table' (They have finished setting the table).",
+      "stgdir": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 738,
+      "category": 2,
+      "explanation": "This stage direction indicates an aside: 'Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre' (He says these words behind the theater).",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 739,
+      "category": 11,
+      "explanation": "This stage direction describes a setting: 'Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte' (The theater represents Monsieur Oronte's apartment).",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 18474.571466445923,
+  "model": "mistral-large-2407"
+}

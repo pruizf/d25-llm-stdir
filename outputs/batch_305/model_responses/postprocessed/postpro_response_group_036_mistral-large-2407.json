@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 360,
+      "category": 6,
+      "explanation": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne. This describes a non-verbal interaction between characters.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 361,
+      "category": 6,
+      "explanation": "En saisissant la main de son p\u00e8re. This describes a non-verbal interaction between characters.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 362,
+      "category": 10,
+      "explanation": "Il lui met la main dans la poche. This describes an interaction with an object (pocket).",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 363,
+      "category": 6,
+      "explanation": "Il la retient encore par le bras, et, perdant tout respect. This describes a non-verbal interaction between characters.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 364,
+      "category": 6,
+      "explanation": "Il serre la main du Grand \u00c9crivain. This describes a non-verbal interaction between characters.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 365,
+      "category": 6,
+      "explanation": "Elle l'embrasse passionn\u00e9ment. This describes a non-verbal interaction between characters.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 366,
+      "category": 6,
+      "explanation": "Le poussant du coude. This describes a non-verbal interaction between characters.",
+      "stgdir": "Le poussant du coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 367,
+      "category": 6,
+      "explanation": "Il le pousse. This describes a non-verbal interaction between characters.",
+      "stgdir": "Il le pousse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 368,
+      "category": 6,
+      "explanation": "Elle lui frappe le coeur. This describes a non-verbal interaction between characters.",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 369,
+      "category": 6,
+      "explanation": "Il embrasse Argie. This describes a non-verbal interaction between characters.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 17167.173624038696,
+  "model": "mistral-large-2407"
+}

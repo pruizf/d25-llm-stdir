@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2630,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2631,
+      "category": 8,
+      "explanation": "Describes the start of singing, which falls under music.",
+      "stgdir": "On commence \u00e0 chanter des couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2632,
+      "category": 8,
+      "explanation": "Describes the tune name, which falls under music.",
+      "stgdir": "Air : Il faut aimer, c'est la loi de Cyth\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2633,
+      "category": 10,
+      "explanation": "Describes the character's interaction with an object (habit).",
+      "stgdir": "Il se met l'habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2634,
+      "category": 0,
+      "explanation": "General character action (reading a letter).",
+      "stgdir": "Il lit la lettre bas.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2635,
+      "category": 1,
+      "explanation": "Violent action with an \u00e9p\u00e9e (sword).",
+      "stgdir": "Il fait le moulinet avec son \u00e9p\u00e9e et en fait un massacre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2636,
+      "category": 9,
+      "explanation": "Narrative quality describing distant sounds and a military march.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2637,
+      "category": 7,
+      "explanation": "Character movement (remaining silent for a while).",
+      "stgdir": "Il demeure quelque temps sans parler.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2638,
+      "category": 5,
+      "explanation": "Character exits (makes a step to leave).",
+      "stgdir": "Il fait un pas pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2639,
+      "category": 4,
+      "explanation": "Describes the entrance of multiple characters.",
+      "stgdir": "* Deux dames, Mademoiselle Kerkabon, Dum\u00e9nil, Mademoisolle Saint-Yves, le Huron, Kerkabon, Madame Plougoulin, Mademoiselle des Gu\u00e9rets, deux dames.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 13177.767753601074,
+  "model": "mistral-large-2407"
+}

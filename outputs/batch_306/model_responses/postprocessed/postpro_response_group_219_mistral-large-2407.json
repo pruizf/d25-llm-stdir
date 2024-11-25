@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2190,
+      "category": 5,
+      "explanation": "La F\u00e9e sort et les diables aussi. - 'sort' indicates that characters are exiting the stage.",
+      "stgdir": "La F\u00e9e sort et les diables aussi.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2191,
+      "category": 7,
+      "explanation": "Il s'approche lentement. - 's'approche' indicates movement towards something or someone.",
+      "stgdir": "Il s'approche lentement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2192,
+      "category": 7,
+      "explanation": "Paolo monte les degr\u00e9s qui conduisent \u00e0 sa chambre. - 'monte' indicates movement up the stairs.",
+      "stgdir": "Paolo monte les degr\u00e9s qui conduisent \u00e0 sa chambre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2193,
+      "category": 5,
+      "explanation": "Le Comte sort. - 'sort' indicates that the character is exiting the stage.",
+      "stgdir": "Le Comte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2194,
+      "category": 0,
+      "explanation": "Parcourant la lettre. - 'parcourant' indicates the action of reading or scanning a letter.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2195,
+      "category": 5,
+      "explanation": "Elle s'en va. - 's'en va' indicates that the character is exiting the stage.",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2196,
+      "category": 9,
+      "explanation": "Nota. Dans la sc\u00e8ne XIII, les deux Seigneurs qui ont paru dans les premi\u00e8res sc\u00e8nes, entrent avec le Prince de Cond\u00e9. - This is a narrative stage direction describing scene details.",
+      "stgdir": "Nota. Dans la sc\u00e8ne XIII, les deux Seigneurs qui ont paru dans les premi\u00e8res sc\u00e8nes, entrent avec le Prince de Cond\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2197,
+      "category": 8,
+      "explanation": "AIR : Chansons, Chansons. - 'AIR' indicates that this is a music stage direction.",
+      "stgdir": "AIR : Chansons, Chansons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2198,
+      "category": 12,
+      "explanation": "\u00c0 Gigolet. - '\u00c0' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Gigolet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2199,
+      "category": 0,
+      "explanation": "Il montre son vit. - 'montre' indicates the action of showing something.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 21536.988258361816,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 970,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ergazile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 971,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Prenant le pli.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 972,
+      "category": 8,
+      "explanation": "Tune names (plays with songs). Music description.",
+      "stgdir": "Air : Des Pierrots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 973,
+      "category": 8,
+      "explanation": "Tune names (plays with songs). Music description.",
+      "stgdir": "Air : Not\u00e9 \u00e0 la fin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 974,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Il se tire \u00e0 l'\u00e9cart.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 975,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "L\u00e9andre jette la montre, croyant jeter le tabac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 976,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Apercevant la Muse du Drame.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 977,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Il tire un habit de campagne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 978,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Il se rapproche de Julie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 979,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "Il lui serre la main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 13795.540571212769,
+  "model": "mistral-large-2407"
+}

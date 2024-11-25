@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 570,
+      "category": 0,
+      "explanation": "Le Chevalier tombe \u00e0 genoux; - This indicates a general character action of kneeling, which falls under the 'action' category.",
+      "stgdir": "Le Chevalier tombe \u00e0 genoux;",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 571,
+      "category": 8,
+      "explanation": "AIR : R\u00e9veillez-vous belle endormie. - This indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR : R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 572,
+      "category": 8,
+      "explanation": "AIR 105 : La bonne aventure, \u00f4 gai. - This indicates a tune name, which falls under the 'music' category.",
+      "stgdir": "AIR 105 : La bonne aventure, \u00f4 gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 573,
+      "category": 0,
+      "explanation": "Regardant la table servie. - This indicates a general character action of looking at something, which falls under the 'action' category.",
+      "stgdir": "Regardant la table servie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 574,
+      "category": 4,
+      "explanation": "Saint-Alban parait. - This indicates a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Saint-Alban parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 575,
+      "category": 4,
+      "explanation": "Entre Henri Bassou. - This indicates a character entering the stage, which falls under the 'entrance' category.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 576,
+      "category": 1,
+      "explanation": "Il le d\u00e9chire. - This indicates a violent action of tearing something, which falls under the 'aggression' category.",
+      "stgdir": "Il le d\u00e9chire.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 577,
+      "category": 10,
+      "explanation": "Lettre de MASSINISSE \u00e0 SOPHONISBE - This indicates an interaction with an object (a letter), which falls under the 'object' category.",
+      "stgdir": "Lettre de MASSINISSE \u00e0 SOPHONISBE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 578,
+      "category": 7,
+      "explanation": "Se jetant aux pieds d'In\u00e8s. - This indicates a character movement (throwing oneself at someone's feet), which falls under the 'movement' category.",
+      "stgdir": "Se jetant aux pieds d'In\u00e8s.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 579,
+      "category": 7,
+      "explanation": "Se posant devant Julie. - This indicates a character movement (positioning oneself in front of someone), which falls under the 'movement' category.",
+      "stgdir": "Se posant devant Julie.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 27630.59687614441,
+  "model": "mistral-large-2407"
+}

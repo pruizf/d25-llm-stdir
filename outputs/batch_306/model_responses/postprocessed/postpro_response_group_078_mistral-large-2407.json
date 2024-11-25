@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 780,
+      "category": 4,
+      "explanation": "Elle entre chez Sylviane. - This stage direction indicates the character entering a location, which fits the 'entrance' category.",
+      "stgdir": "Elle entre chez Sylviane.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 781,
+      "category": 7,
+      "explanation": "Elle se l\u00e8ve ainsi que Lamblin. - This stage direction describes the characters getting up, which is a type of movement but not an entrance or exit, fitting the 'movement' category.",
+      "stgdir": "Elle se l\u00e8ve ainsi que Lamblin.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 782,
+      "category": 9,
+      "explanation": "On entend des coups \u00e0 la porte d'en bas. - This stage direction describes a noise, which is a narrative element intended for readers, fitting the 'narration' category.",
+      "stgdir": "On entend des coups \u00e0 la porte d'en bas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 783,
+      "category": 8,
+      "explanation": "On chante un cantique. - This stage direction describes music being played or sung, fitting the 'music' category.",
+      "stgdir": "On chante un cantique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 784,
+      "category": 5,
+      "explanation": "Elle rentre chez elle. - This stage direction indicates the character exiting a location, fitting the 'exit' category.",
+      "stgdir": "Elle rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 785,
+      "category": 12,
+      "explanation": "Au Noble. - This stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "Au Noble.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 786,
+      "category": 0,
+      "explanation": "Elle pleure am\u00e8rement. - This stage direction describes a general character action (crying), which fits the 'action' category.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 787,
+      "category": 9,
+      "explanation": "Ce disant, il d\u00e9signe des Urlis qui arrive en costume de N\u00e9arque, un petit chien sur un bras et un bilboquet \u00e0 la main. - This stage direction is a long narrative description intended for readers, fitting the 'narration' category.",
+      "stgdir": "Ce disant, il d\u00e9signe des Urlis qui arrive en costume de N\u00e9arque, un petit chien sur un bras et un bilboquet \u00e0 la main.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 788,
+      "category": 10,
+      "explanation": "Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent. - This stage direction describes the character's interaction with objects, fitting the 'object' category.",
+      "stgdir": "Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 789,
+      "category": 12,
+      "explanation": "\u00c0 Sommerset. - This stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Sommerset.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 23126.778602600098,
+  "model": "mistral-large-2407"
+}

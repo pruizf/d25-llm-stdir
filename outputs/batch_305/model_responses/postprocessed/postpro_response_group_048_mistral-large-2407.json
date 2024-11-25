@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "480",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "481",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "Air : J'ai vu partout dans mes voyages.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "482",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "483",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "AIR : Vous m'entendez bien.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "484",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "Air : Tout est dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "485",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "AIR : Sans cesse \u00e0 la Ville, \u00e0 ta Cour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "486",
+      "category": "9",
+      "explanation": "The stage direction describes a narrative event involving sound, which is intended for the readers.",
+      "stgdir": "On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "487",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "488",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "AIR : Le luth galant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "489",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' and is followed by a tune name, indicating it is a music stage direction.",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 23074.588775634766,
+  "model": "mistral-large-2407"
+}

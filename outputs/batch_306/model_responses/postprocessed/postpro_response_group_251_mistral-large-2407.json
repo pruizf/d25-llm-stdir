@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2510,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Val\u00e8re et \u00e0 Sophie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2511,
+      "category": 10,
+      "explanation": "Describes an interaction with an object.",
+      "stgdir": "Il couvre la b\u00fbche avec le chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2512,
+      "category": 11,
+      "explanation": "Describes the stage setting.",
+      "stgdir": "Tout dispara\u00eet. Le Th\u00e9\u00e2tre change. Il repr\u00e9sente l'int\u00e9rieur redoutable du ch\u00e2teau-fort des rois de la Bactriane",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2513,
+      "category": 10,
+      "explanation": "Describes an interaction with an object.",
+      "stgdir": "Elle prend le manuscrit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2514,
+      "category": 10,
+      "explanation": "Describes an interaction with an object.",
+      "stgdir": "Il se couvre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2515,
+      "category": 10,
+      "explanation": "Describes an interaction with an object.",
+      "stgdir": "Elle ferme la fen\u00eatre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2516,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "La Fontaine se tait un moment.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2517,
+      "category": 10,
+      "explanation": "Describes an interaction with an object.",
+      "stgdir": "Il se chausse.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2518,
+      "category": 8,
+      "explanation": "Describes music or a tune name.",
+      "stgdir": "AIR : De Z\u00e9mire et Azor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2519,
+      "category": 7,
+      "explanation": "Character movement (not exit/entrance).",
+      "stgdir": "Il s'assied dans un fauteuil.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 19371.59538269043,
+  "model": "mistral-large-2407"
+}

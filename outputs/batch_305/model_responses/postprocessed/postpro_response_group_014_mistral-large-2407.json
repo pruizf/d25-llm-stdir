@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "140",
+      "category": "0",
+      "explanation": "Il regarde dans un petit cabinet. This is a general action where the character looks into a small cabinet.",
+      "stgdir": "Il regarde dans un petit cabinet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "141",
+      "category": "10",
+      "explanation": "Ouvrant une autre lettre. This involves the character interacting with an object, specifically opening another letter.",
+      "stgdir": "Ouvrant une autre lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "142",
+      "category": "0",
+      "explanation": "En montrant ses jambes. This is a general action where the character shows their legs.",
+      "stgdir": "En montrant ses jambes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "143",
+      "category": "7",
+      "explanation": "L\u00e9on fait un grand mouvement. This describes a character movement, specifically a large movement by L\u00e9on.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "144",
+      "category": "0",
+      "explanation": "Don Cosme lit. This is a general action where Don Cosme reads.",
+      "stgdir": "Don Cosme lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "145",
+      "category": "0",
+      "explanation": "Elle l\u00e8ve ici son masque. This is a general action where the character lifts her mask.",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "146",
+      "category": "1",
+      "explanation": "Il le bat. This is an aggressive action where the character hits someone.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "147",
+      "category": "1",
+      "explanation": "Ils haussent leurs b\u00e2tons. This is an aggressive action where the characters raise their sticks.",
+      "stgdir": "Ils haussent leurs b\u00e2tons.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "148",
+      "category": "1",
+      "explanation": "Il met la main \u00e0 l'\u00e9p\u00e9e. This is an aggressive action where the character puts his hand on the sword.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "149",
+      "category": "1",
+      "explanation": "Il veut se percer. This is an aggressive action where the character wants to stab himself.",
+      "stgdir": "Il veut se percer.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 21123.485803604126,
+  "model": "mistral-large-2407"
+}

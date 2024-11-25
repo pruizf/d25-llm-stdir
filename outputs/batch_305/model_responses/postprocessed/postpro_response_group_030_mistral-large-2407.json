@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 300,
+      "category": 5,
+      "explanation": "The stage direction 'Damon sort.' indicates that Damon is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 301,
+      "category": 5,
+      "explanation": "The stage direction 'Madame Simon et Perrette sortent.' indicates that Madame Simon and Perrette are exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 302,
+      "category": 5,
+      "explanation": "The stage direction 'Jacinte sort.' indicates that Jacinte is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 303,
+      "category": 5,
+      "explanation": "The stage direction 'Tous sortent, except\u00e9 Baron.' indicates that everyone except Baron is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 304,
+      "category": 5,
+      "explanation": "The stage direction 'Lucile et Damis sortent.' indicates that Lucile and Damis are exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 305,
+      "category": 4,
+      "explanation": "The stage direction 'Julie rentre du c\u00f4t\u00e9 de la maison.' indicates that Julie is entering the stage, which fits the 'entrance' category.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 306,
+      "category": 5,
+      "explanation": "The stage direction 'Zerbine sort.' indicates that Zerbine is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 307,
+      "category": 5,
+      "explanation": "The stage direction 'Elle sort avec Val\u00e8re.' indicates that she is exiting the stage with Val\u00e8re, which fits the 'exit' category.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 308,
+      "category": 5,
+      "explanation": "The stage direction 'Villiers dispara\u00eet.' indicates that Villiers is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 309,
+      "category": 4,
+      "explanation": "The stage direction 'Elle entre dans son cabinet.' indicates that she is entering her cabinet, which fits the 'entrance' category.",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 16691.951990127563,
+  "model": "mistral-large-2407"
+}

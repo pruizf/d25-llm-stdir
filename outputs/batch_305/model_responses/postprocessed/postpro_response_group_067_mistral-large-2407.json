@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 670,
+      "category": 10,
+      "explanation": "Il lui pose sa cha\u00eene sur le cou. \u2014 This stage direction describes a character's interaction with an object (a chain).",
+      "stgdir": "Il lui pose sa cha\u00eene sur le cou.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 671,
+      "category": 10,
+      "explanation": "Durval la lui donne. \u2014 This stage direction describes a character giving an object to another character.",
+      "stgdir": "Durval la lui donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 672,
+      "category": 10,
+      "explanation": "Il remet une lettre \u00e0 Ar\u00e9taphile. \u2014 This stage direction describes a character giving an object (a letter) to another character.",
+      "stgdir": "Il remet une lettre \u00e0 Ar\u00e9taphile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 673,
+      "category": 0,
+      "explanation": "Il se couvre. \u2014 This stage direction describes a general action of the character (covering himself).",
+      "stgdir": "Il se couvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 674,
+      "category": 10,
+      "explanation": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e. \u2014 This stage direction describes a character giving an object (a letter) to another character.",
+      "stgdir": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 675,
+      "category": 11,
+      "explanation": "Le Ciel se referme. \u2014 This stage direction describes a change in the setting (the sky closing).",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 676,
+      "category": 10,
+      "explanation": "Il tire un porte-feuille. \u2014 This stage direction describes a character interacting with an object (drawing out a wallet).",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 677,
+      "category": 10,
+      "explanation": "Elle lui donne son jupon. \u2014 This stage direction describes a character giving an object (a skirt) to another character.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 678,
+      "category": 10,
+      "explanation": "Prenant des fleurs dans le tiroir. \u2014 This stage direction describes a character interacting with an object (taking flowers from a drawer).",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 679,
+      "category": 10,
+      "explanation": "Il prend une couronne dans le panier d'Antoine. \u2014 This stage direction describes a character interacting with an object (taking a crown from a basket).",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 17308.145999908447,
+  "model": "mistral-large-2407"
+}

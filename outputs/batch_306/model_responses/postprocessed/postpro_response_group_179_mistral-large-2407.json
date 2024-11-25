@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1790",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au grand-pr\u00eatre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1791",
+      "category": "8",
+      "explanation": "Describes a tune name, indicating a song.",
+      "stgdir": "CHANSON des Basques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1792",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au Jeune Homme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1793",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9milie et au Marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1794",
+      "category": "4",
+      "explanation": "Describes a character entering the stage.",
+      "stgdir": "Entrant dans le corridor.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1795",
+      "category": "8",
+      "explanation": "Describes a tune name and provides the name of the tune.",
+      "stgdir": "AIR 5. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1796",
+      "category": "9",
+      "explanation": "A long stage direction with narrative quality, intended for readers.",
+      "stgdir": "Il est interrompu par l'arriv\u00e9e d'Andr\u00e9 qui, d'un air effray\u00e9, entre par le fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1797",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, where a character is showing something.",
+      "stgdir": "Montrant M\u00e9gatise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1798",
+      "category": "8",
+      "explanation": "Describes a tune name, indicating a song.",
+      "stgdir": "Air. Pour la Baronne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1799",
+      "category": "9",
+      "explanation": "A narrative stage direction describing an event.",
+      "stgdir": "On n'entend pas le reste.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 14055.955648422241,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 50,
+      "category": 3,
+      "explanation": "The stage direction 'PREMIER COUPLET.' indicates a musical delivery, which fits the category of 'delivery'.",
+      "stgdir": "PREMIER COUPLET.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 51,
+      "category": 8,
+      "explanation": "The stage direction 'AIR : Evohe ! que ces d\u00e9esses...' describes a tune name, which fits the category of 'music'.",
+      "stgdir": "AIR : Evohe ! que ces d\u00e9esses...",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 52,
+      "category": 6,
+      "explanation": "The stage direction 'Il lui balsa la main.' describes a non-verbal interaction, which fits the category of 'interaction'.",
+      "stgdir": "Il lui balsa la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 53,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Laurent.' indicates the addressee of a speech, which fits the category of 'toward'.",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 54,
+      "category": 8,
+      "explanation": "The stage direction 'Air 107 : Faites boire \u00e0 triple mesure.' describes a tune name, which fits the category of 'music'.",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 55,
+      "category": 12,
+      "explanation": "The stage direction 'Montrant Jenneval.' indicates the addressee of a speech, which fits the category of 'toward'.",
+      "stgdir": "Montrant Jenneval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 56,
+      "category": 8,
+      "explanation": "The stage direction 'Air : Dis-moi donc, mon cher Hypolite.' describes a tune name, which fits the category of 'music'.",
+      "stgdir": "Air : Dis-moi donc, mon cher Hypolite.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 57,
+      "category": 9,
+      "explanation": "The stage direction 'Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.' is a long stage direction with narrative quality, which fits the category of 'narration'.",
+      "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 58,
+      "category": 8,
+      "explanation": "The stage direction 'AIR. Un inconnu.' describes a tune name, which fits the category of 'music'.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 59,
+      "category": 9,
+      "explanation": "The stage direction 'Les violons jouent un branle pendant que Polydas parle et que les convi\u00e9s dansent.' is a long stage direction with narrative quality, which fits the category of 'narration'.",
+      "stgdir": "Les violons jouent un branle pendant que Polydas parle et que les convi\u00e9s dansent.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 17792.98734664917,
+  "model": "mistral-large-2407"
+}

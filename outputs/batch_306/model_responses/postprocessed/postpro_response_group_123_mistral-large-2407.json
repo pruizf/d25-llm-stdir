@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1230,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1231,
+      "category": 4,
+      "explanation": "This stage direction describes a character entering a specific location, which is an entrance.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1232,
+      "category": 10,
+      "explanation": "This stage direction describes the character's interaction with an object (his sword).",
+      "stgdir": "Il tire son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1233,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech.",
+      "stgdir": "Aux deux marquis Platon et Gilissa.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1234,
+      "category": 9,
+      "explanation": "This stage direction is a long narrative describing a sequence of actions and interactions, intended for readers.",
+      "stgdir": "Le Docteur lit la lettre, apprend que le fils de Colin est malade ; et qu'il ne peut se mette sit\u00f4t en chemin ; il jette en m\u00eame tempos les yeux sur Arlequin qui lui soutient effront\u00e9ment qu'il est le fils du Fermier de Domfront, et qu'il se porte bien. Le Docteur demande au Paysan s'il le conna\u00eet ; le Paysan r\u00e9pond que non, et que ce n'est pas l\u00e0 le Fils de son Ma\u00eetre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1235,
+      "category": 6,
+      "explanation": "This stage direction describes a non-verbal interaction where each character receives money and makes a different gesture.",
+      "stgdir": "Il les paye, et chacun, en recevant l'argent, fait un geste diff\u00e9rent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1236,
+      "category": 7,
+      "explanation": "This stage direction describes the character's movement towards a table and his action with an object (a book).",
+      "stgdir": "Il s'approche de la table et parcourt le livre sans s'asseoir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1237,
+      "category": 9,
+      "explanation": "This stage direction is a narrative element describing a moment of silence, intended for readers.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1238,
+      "category": 11,
+      "explanation": "This stage direction describes the setting of the scene.",
+      "stgdir": "La d\u00e9coration repr\u00e9sente un lieu champ\u00eatre fort agr\u00e9able.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1239,
+      "category": 9,
+      "explanation": "This stage direction is a narrative element describing a noise, intended for readers.",
+      "stgdir": "On entend du bruit dans la maison.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 23855.040073394775,
+  "model": "mistral-large-2407"
+}

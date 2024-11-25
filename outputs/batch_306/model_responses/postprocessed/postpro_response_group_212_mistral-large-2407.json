@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2120",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Du jaloux malgr\u00e9 lui.' starts with 'Air' and specifies a tune name, fitting the music category.",
+      "stgdir": "Air : Du jaloux malgr\u00e9 lui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2121",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Belle Chanoinesse.' starts with 'Air' and specifies a tune name, fitting the music category.",
+      "stgdir": "Air : Belle Chanoinesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2122",
+      "category": "4",
+      "explanation": "The stage direction 'Il entre chez le Cardinal.' indicates a character entering, fitting the entrance category.",
+      "stgdir": "Il entre chez le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2123",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant son enfant.' describes a non-verbal interaction, fitting the interaction category.",
+      "stgdir": "Montrant son enfant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2124",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Durval.' indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "\u00c0 Durval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2125",
+      "category": "8",
+      "explanation": "The stage direction 'Air 49 : Jardinier ne vois-tu pas.' starts with 'Air' and specifies a tune name, fitting the music category.",
+      "stgdir": "Air 49 : Jardinier ne vois-tu pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2126",
+      "category": "5",
+      "explanation": "The stage direction 'Rosine sort.' indicates a character exiting, fitting the exit category.",
+      "stgdir": "Rosine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2127",
+      "category": "0",
+      "explanation": "The stage direction 'Il ne r\u00e9pond rien.' describes a general character action, fitting the action category.",
+      "stgdir": "Il ne r\u00e9pond rien.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2128",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 M\u00e9rione.' indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2129",
+      "category": "0",
+      "explanation": "The stage direction 'C\u00c9LINDE et LUCIDOR en m\u00eame temps.' describes a general character action, fitting the action category.",
+      "stgdir": "C\u00c9LINDE et LUCIDOR en m\u00eame temps.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 23600.84319114685,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 10,
+      "category": 12,
+      "explanation": "D\u00e9signant du pied une dalle. This stage direction indicates pointing at an object, which can be categorized as 'toward'.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 11,
+      "category": 0,
+      "explanation": "Ils se jettent \u00e0 genoux. This stage direction describes a general action of characters kneeling, which can be categorized as 'action'.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 12,
+      "category": 0,
+      "explanation": "Elle frappe \u00e0 la porte en dehors. This stage direction describes a general action of knocking on a door, which can be categorized as 'action'.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 13,
+      "category": 0,
+      "explanation": "Ils mangent tous deux. This stage direction describes a general action of characters eating, which can be categorized as 'action'.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 14,
+      "category": 7,
+      "explanation": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche. This stage direction describes a movement of a character sitting down, which can be categorized as 'movement'.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 15,
+      "category": 5,
+      "explanation": "Elle se l\u00e8ve pour sortir. This stage direction describes a character getting up to exit, which can be categorized as 'exit'.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 16,
+      "category": 0,
+      "explanation": "Il tire le cordon de la sonnette. This stage direction describes a general action of ringing a bell, which can be categorized as 'action'.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 17,
+      "category": 1,
+      "explanation": "Don Carlos tire son \u00e9p\u00e9e. This stage direction describes a violent action of drawing a sword, which can be categorized as 'aggression'.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 18,
+      "category": 12,
+      "explanation": "Montrant l'huissier. This stage direction indicates pointing at a character, which can be categorized as 'toward'.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 19,
+      "category": 3,
+      "explanation": "Changeant de ton et suppliant. This stage direction describes a change in tone and manner of delivery, which can be categorized as 'delivery'.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 23904.082775115967,
+  "model": "mistral-large-2407"
+}

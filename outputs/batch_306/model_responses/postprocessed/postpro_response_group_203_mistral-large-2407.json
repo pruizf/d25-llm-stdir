@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2030,
+      "category": 2,
+      "explanation": "This stage direction indicates that someone has heard something, which could be an aside comment. It fits best under the 'aparte' category.",
+      "stgdir": "Qui a entendu les trois derniers vers de Tib\u00e8re.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 2031,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a tune, fitting the 'music' category.",
+      "stgdir": "AIR. Preuve de folie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2032,
+      "category": 9,
+      "explanation": "This is a narrative stage direction that describes a sequence of actions and events, fitting the 'narration' category.",
+      "stgdir": "Chant des Argonautes, entendu dabord dans le lointain de la for\u00eat ; ils s'avancent en triomphe, et portent la Toison d'or.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2033,
+      "category": 6,
+      "explanation": "This describes a non-verbal interaction where multiple characters speak at the same time, fitting the 'interaction' category.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2034,
+      "category": 9,
+      "explanation": "This is a narrative stage direction that describes a sequence of actions and events, fitting the 'narration' category.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2035,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a tune, fitting the 'music' category.",
+      "stgdir": "AIR : Ne v'la-t-i1 pas que j'aime ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2036,
+      "category": 5,
+      "explanation": "This stage direction indicates a character exiting the stage, fitting the 'exit' category.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2037,
+      "category": 8,
+      "explanation": "The stage direction starts with 'AIR' and describes a tune, fitting the 'music' category.",
+      "stgdir": "AIR. Ne m'entendez-vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2038,
+      "category": 12,
+      "explanation": "This stage direction indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Don Lope et \u00e0 Don Felix.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2039,
+      "category": 0,
+      "explanation": "This stage direction describes a general action of characters fleeing, fitting the 'action' category.",
+      "stgdir": "Le reste s'\u00e9tant mis en fuite.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 19863.08240890503,
+  "model": "mistral-large-2407"
+}

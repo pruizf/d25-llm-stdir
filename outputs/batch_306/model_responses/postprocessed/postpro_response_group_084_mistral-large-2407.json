@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 840,
+      "category": 0,
+      "explanation": "Il se jette aux pieds de Sophie. - This indicates a general character action of kneeling.",
+      "stgdir": "Il se jette aux pieds de Sophie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 841,
+      "category": 12,
+      "explanation": "\u00c0 Soliman. - This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Soliman.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 842,
+      "category": 6,
+      "explanation": "Dorante et Ang\u00e9lique se regardent tous deux. - This indicates a non-verbal interaction of looking at each other.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 843,
+      "category": 5,
+      "explanation": "Sophar rentre dans la maison. - This indicates a character exiting the stage.",
+      "stgdir": "Sophar rentre dans la maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 844,
+      "category": 1,
+      "explanation": "On entend un coup de feu. - This indicates a violent action, specifically a gunshot.",
+      "stgdir": "On entend un coup de feu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 845,
+      "category": 0,
+      "explanation": "Elle lit s'\u00e9crie : - This indicates a general character action of reading and exclaiming.",
+      "stgdir": "Elle lit s'\u00e9crie :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 846,
+      "category": 7,
+      "explanation": "Il va le chercher. - This indicates a character movement, specifically going to get something.",
+      "stgdir": "Il va le chercher.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 847,
+      "category": 10,
+      "explanation": "On lui pr\u00e9sente les deux l\u00e9vriers. - This indicates an interaction with an object, specifically presenting two greyhounds.",
+      "stgdir": "On lui pr\u00e9sente les deux l\u00e9vriers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 848,
+      "category": 7,
+      "explanation": "Robespierre s'approche. - This indicates a character movement, specifically approaching.",
+      "stgdir": "Robespierre s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 849,
+      "category": 0,
+      "explanation": "Joseph et Victorine tombent \u00e0 genoux. - This indicates a general character action of kneeling.",
+      "stgdir": "Joseph et Victorine tombent \u00e0 genoux.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 16420.079231262207,
+  "model": "mistral-large-2407"
+}

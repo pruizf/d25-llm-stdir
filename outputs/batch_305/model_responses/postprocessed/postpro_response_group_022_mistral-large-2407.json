@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 220,
+      "category": 2,
+      "explanation": "Elle dit ceci bas. (She says this low.) This indicates an aside, where the character addresses the audience or is alone.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 221,
+      "category": 8,
+      "explanation": "Ensemble (Together.) This suggests a musical direction, indicating that the choir or characters will sing together.",
+      "stgdir": "Ensemble",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 222,
+      "category": 3,
+      "explanation": "Avec \u00e9motion. (With emotion.) This describes the delivery manner, indicating the emotion in the character's voice.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 223,
+      "category": 3,
+      "explanation": "D'un ton s\u00e9v\u00e8re. (In a severe tone.) This describes the delivery manner, indicating the tone of the character's voice.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 224,
+      "category": 3,
+      "explanation": "Plus haut encore. (Even louder.) This describes the delivery manner, indicating the volume of the character's voice.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 225,
+      "category": 3,
+      "explanation": "Il dit en riant les derniers mots. (He says the last words laughing.) This describes the delivery manner, indicating laughter in the character's voice.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 226,
+      "category": 9,
+      "explanation": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira : (The choir will sing: Tulit ergo Dominas hominem. Then, God, extending his hand towards paradise, will say:) This is a long stage direction with narrative quality, intended for readers.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 227,
+      "category": 0,
+      "explanation": "Il fond en larmes. (He bursts into tears.) This is a general character action, indicating an emotional reaction.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 228,
+      "category": 3,
+      "explanation": "La voix reprend. (The voice resumes.) This describes the delivery manner, indicating the continuation of the character's voice.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 229,
+      "category": 3,
+      "explanation": "Il r\u00e9p\u00e8te ces quatre vers. (He repeats these four lines.) This describes the delivery manner, indicating the repetition of the character's lines.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 18286.446571350098,
+  "model": "mistral-large-2407"
+}
