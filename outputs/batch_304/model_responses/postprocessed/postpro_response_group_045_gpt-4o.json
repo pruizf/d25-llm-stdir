@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "450",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where everyone forms a circle around the intendant, indicating a group interaction.",
+      "stgdir": "Ici, tout le monde fait un cercle autour de l'intendant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "451",
+      "category": "12",
+      "explanation": "This directs speech or attention towards Louisette and Jean, indicating the addressees of a speech or a focus.",
+      "stgdir": "\u00c0 Louisette et \u00e0 Jean.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "452",
+      "category": "0",
+      "explanation": "The action of knocking again ('refrappe') is a general character action not falling into specific categories like entrance or exit.",
+      "stgdir": "Il refrappe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "453",
+      "category": "10",
+      "explanation": "The action of tearing ('d\u00e9chire') the Version involves interacting with an object, placing it in the object category.",
+      "stgdir": "Il d\u00e9chire la Version.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "454",
+      "category": "7",
+      "explanation": "The stage direction describes characters moving away, which is related to movement.",
+      "stgdir": "Ils s'\u00e9loignent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "455",
+      "category": "6",
+      "explanation": "The action of showing ('Montrant') Pyrrhus indicates a non-verbal interaction of pointing or presenting to others.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "456",
+      "category": "12",
+      "explanation": "This indicates the direction of speech or attention towards the laboureur, making it a 'toward' action.",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "457",
+      "category": "9",
+      "explanation": "The disappearance of Venus is more narrative in quality as it describes an event or occurrence.",
+      "stgdir": "V\u00e9nus a disparu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "458",
+      "category": "0",
+      "explanation": "The action of finishing a letter ('finit sa lettre') is a general character action that involves writing, fitting the action category.",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "459",
+      "category": "8",
+      "explanation": "The presence of 'AIR' followed by the title 'Mathieu, gr\u00e2ce \u00e0 Dieu' indicates that this direction refers to music.",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8465.18588066101,
+  "model": "gpt-4o"
+}

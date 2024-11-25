@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2740",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Marco.' indicates the addressee of a speech or action, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Marco.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2741",
+      "category": "4",
+      "explanation": "The stage direction '\u00c9lise entre.' describes a character entering the stage, fitting the 'entrance' category.",
+      "stgdir": "\u00c9lise entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2742",
+      "category": "6",
+      "explanation": "The stage direction 'Ils s'embrassent' describes a non-verbal interaction between characters, fitting the 'interaction' category.",
+      "stgdir": "Ils s'embrassent",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2743",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 B\u00eame.' indicates the addressee of a speech or action, which fits the 'toward' category.",
+      "stgdir": "\u00c0 B\u00eame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2744",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Je n'en dirai pas davantage.' indicates a musical element with 'AIR', identifying a tune name and fitting the 'music' category.",
+      "stgdir": "AIR : Je n'en dirai pas davantage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2745",
+      "category": "6",
+      "explanation": "The stage direction 'Regardant Rouqu\u00e9rolle.' describes a character looking at another, which is a non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Regardant Rouqu\u00e9rolle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2746",
+      "category": "9",
+      "explanation": "The stage direction 'Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion.' narrates a sequence of actions and expressions, which gives it a narrative quality, fitting the 'narration' category.",
+      "stgdir": "Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2747",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Tique tique taque lon lan la.' denotes a musical element with 'AIR', identifying it as a tune name, fitting the 'music' category.",
+      "stgdir": "AIR : Tique tique taque lon lan la.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2748",
+      "category": "6",
+      "explanation": "The stage direction 'Pluton et Proserpine ensemble.' indicates multiple characters together without explicit action or dialogue, suggesting non-verbal proximity or presence, fitting the 'interaction' category.",
+      "stgdir": "Pluton et Proserpine ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2749",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Dorante.' indicates the addressee of a speech or action, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Dorante.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 25849.733352661133,
+  "model": "gpt-4o"
+}

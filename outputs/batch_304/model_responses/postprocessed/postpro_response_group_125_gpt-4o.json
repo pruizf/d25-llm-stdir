@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1250",
+      "category": "0",
+      "explanation": "Lucile regarde. - This involves a character performing a general action of looking/watching.",
+      "stgdir": "Lucile regarde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1251",
+      "category": "10",
+      "explanation": "La porte se rouvre. - This describes the interaction with an object, which is the door reopening.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1252",
+      "category": "5",
+      "explanation": "Monsieur de Saint-Franc sort avec le Notaire. - This indicates characters exiting the stage.",
+      "stgdir": "Monsieur de Saint-Franc sort avec le Notaire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1253",
+      "category": "6",
+      "explanation": "Il tient le bras de Beline, croyant tenir celui de la Malade. - This describes a non-verbal interaction by holding an arm.",
+      "stgdir": "Il tient le bras de Beline, croyant tenir celui de la Malade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1254",
+      "category": "7",
+      "explanation": "Il va au fils. - This indicates the character's movement towards someone.",
+      "stgdir": "Il va au fils.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1255",
+      "category": "6",
+      "explanation": "Il veut lui baiser la main. - This is a non-verbal interaction (attempting to kiss someone's hand).",
+      "stgdir": "Il veut lui baiser la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1256",
+      "category": "8",
+      "explanation": "COUPLETS sur l'air : De la b\u00e9quille du p\u00e8re Barnabas. - This refers to music, indicating the name of a tune.",
+      "stgdir": "COUPLETS sur l'air : De la b\u00e9quille du p\u00e8re Barnabas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1257",
+      "category": "0",
+      "explanation": "Il se fouille. - This is a general action of searching oneself.",
+      "stgdir": "Il se fouille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1258",
+      "category": "7",
+      "explanation": "Elle se dirige vers la porte. - This describes character movement toward the door.",
+      "stgdir": "Elle se dirige vers la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1259",
+      "category": "6",
+      "explanation": "Montrant Montval. - This is a non-verbal interaction involving pointing or showing towards Montval.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 12532.081842422485,
+  "model": "gpt-4o"
+}

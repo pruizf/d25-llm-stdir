@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2190",
+      "category": "5",
+      "explanation": "The stage direction indicates that characters are leaving the stage ('sort'), which aligns with the 'exit' category.",
+      "stgdir": "La F\u00e9e sort et les diables aussi.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2191",
+      "category": "7",
+      "explanation": "The description 'Il s'approche lentement' refers to a character moving closer, which fits the 'movement' category.",
+      "stgdir": "Il s'approche lentement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2192",
+      "category": "7",
+      "explanation": "This stage direction describes a character ascending stairs ('monte les degr\u00e9s'), which is a movement action.",
+      "stgdir": "Paolo monte les degr\u00e9s qui conduisent \u00e0 sa chambre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2193",
+      "category": "5",
+      "explanation": "The stage direction uses the word 'sort', indicating a character exits the stage, fitting the 'exit' category.",
+      "stgdir": "Le Comte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2194",
+      "category": "0",
+      "explanation": "The action 'Parcourant la lettre' suggests reading or scanning a letter, which is a general character action.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2195",
+      "category": "5",
+      "explanation": "The phrase 'Elle s'en va' explicitly indicates that a character is leaving the stage, which is classified under 'exit.'",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2196",
+      "category": "4",
+      "explanation": "This indicates an entrance as it states characters are entering the scene ('entrent'), which matches the 'entrance' category.",
+      "stgdir": "Nota. Dans la sc\u00e8ne XIII, les deux Seigneurs qui ont paru dans les premi\u00e8res sc\u00e8nes, entrent avec le Prince de Cond\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2197",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating it refers to music or a tune, fitting the 'music' category.",
+      "stgdir": "AIR : Chansons, Chansons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2198",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Gigolet' suggests the addressee of speech or action, falling under the 'toward' category.",
+      "stgdir": "\u00c0 Gigolet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2199",
+      "category": "6",
+      "explanation": "The stage direction 'Il montre son vit' involves showing, which is a form of non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 17067.60597229004,
+  "model": "gpt-4o"
+}

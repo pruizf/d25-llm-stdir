@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "110",
+      "category": "1",
+      "explanation": "This stage direction describes an aggressive action where characters are giving several blows in rhythm, which indicates violence or aggression.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "111",
+      "category": "8",
+      "explanation": "The word 'Symphonie' indicates a musical aspect, categorizing this as music.",
+      "stgdir": "Symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "112",
+      "category": "8",
+      "explanation": "'Aux Couplets' suggests a musical element, likely a transition to a song or a verse.",
+      "stgdir": "Aux Couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "113",
+      "category": "8",
+      "explanation": "The stage direction starts with 'CHANSON', which means 'song'. It specifies a chant, indicating a musical component.",
+      "stgdir": "CHANSON, sur le chant de \"Las qui h\u00e2tera le temps\".",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "114",
+      "category": "4",
+      "explanation": "The stage direction indicates that a character, Staphyla, re-enters the stage, which qualifies as an entrance.",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "115",
+      "category": "8",
+      "explanation": "The direction starts with 'Air', which refers to a musical tune or song, thus it falls under music.",
+      "stgdir": "Air : Tout roule aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "116",
+      "category": "10",
+      "explanation": "The action described involves interacting with an object, the character's hat.",
+      "stgdir": "Il prend son chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "117",
+      "category": "5",
+      "explanation": "The phrase 'pour sortir' indicates an intention to exit the stage.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "118",
+      "category": "12",
+      "explanation": "The preposition '\u00c0' suggests direction toward someone or something, implying the addressee of speech or action is 'Nour'.",
+      "stgdir": "\u00c0 Nour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "119",
+      "category": "3",
+      "explanation": "Describing Nicaise finishing a song to a peasant character falls under vocal expression, specifically delivery.",
+      "stgdir": "Nicaise finit une chanson \u00e0 une paysanne qui le fuit.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 8780.033349990845,
+  "model": "gpt-4o"
+}

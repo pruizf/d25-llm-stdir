@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "8",
+      "explanation": "The phrase 'AIR : Quand on conspire.' refers to a musical element indicated by 'AIR,' which suggests it is a tune name related to music in the play.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "10",
+      "explanation": "The phrase 'Il arrache du poil.' describes a character interacting with an object, in this case, tearing hair, which fits the object interaction category.",
+      "stgdir": "Il arrache du poil.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "4",
+      "explanation": "The phrase 'Il para\u00eet.' suggests a character appearing on stage, which aligns with the entrance category.",
+      "stgdir": "Il para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "1",
+      "explanation": "The phrase 'Il donne plusieurs coups de b\u00e2ton sur le sac.' implies hitting an object, which is a violent action, fitting the aggression category.",
+      "stgdir": "Il donne plusieurs coups de b\u00e2ton sur le sac.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "6",
+      "explanation": "The phrase 'Montrant son \u00e9charpe.' indicates a non-verbal interaction where the character is showing their scarf, fitting the interaction category.",
+      "stgdir": "Montrant son \u00e9charpe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "9",
+      "explanation": "The description of the portier leaving and returning, along with the bishop murmuring, is a longer stage direction with narrative quality intended for readers, fitting the narration category.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "5",
+      "explanation": "The phrase 'Guillot fait semblant de s'en aller.' indicates a character pretending to exit, which fits the exit category.",
+      "stgdir": "Guillot fait semblant de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Antiochus.' indicates the addressee of a speech, which aligns with the toward category.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 D\u00e9janire' indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "\u00c0 D\u00e9janire",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Verseuil.' indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "\u00c0 Verseuil.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10762.14599609375,
+  "model": "gpt-4o"
+}

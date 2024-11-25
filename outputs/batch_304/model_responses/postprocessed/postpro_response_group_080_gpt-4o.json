@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "800",
+      "category": "12",
+      "explanation": "The stage direction indicates Marthon moving closer to Madame Lisban and Lindor, signifying they are the addressees of a potential subsequent speech or interaction.",
+      "stgdir": "Marthon se rapproche ici de Madame Lisban et de Lindor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": "0",
+      "explanation": "The direction 'Lucile continue de regarder' involves watching, which falls under general character action.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": "11",
+      "explanation": "The direction describes the location of the action being in the salon des prisonniers du Temple, which is a setting description.",
+      "stgdir": "L'action continue dans le salon des prisonniers du Temple.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": "6",
+      "explanation": "The action of handshaking is a non-verbal interaction between characters.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": "9",
+      "explanation": "This is a long stage direction describing a sequence of actions with narrative qualities involving character transformation, costume change, and combat.",
+      "stgdir": "Pasquariel se change en monstre. Arlequin jette son manteau royal, et para\u00eet mont\u00e9 sur un cheval ail\u00e9, combat le monstre, et apr\u00e8s un jeu de culbutes, la sc\u00e8ne finit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": "10",
+      "explanation": "Involves pulling out an object (a key) from the pocket, which is an interaction with an object.",
+      "stgdir": "Tirant une clef de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": "0",
+      "explanation": "The action 'Ils se jettent \u00e0 genoux' involves kneeling, which is a general character action.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": "4",
+      "explanation": "The term 'ENTR\u00c9E' directly refers to an entrance on stage.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' followed by a tune name, indicating music.",
+      "stgdir": "Air : Babet, que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": "8",
+      "explanation": "Similar to the previous, it begins with 'Air' and provides a tune name, which is classified under music.",
+      "stgdir": "Air : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8672.332525253296,
+  "model": "gpt-4o"
+}

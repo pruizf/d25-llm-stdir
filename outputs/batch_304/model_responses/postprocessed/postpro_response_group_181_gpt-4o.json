@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1810",
+      "category": "10",
+      "explanation": "\"Il montre un manuscrit avec modestie.\" involves showing an object (a manuscript), which fits the category of object interaction.",
+      "stgdir": "Il montre un manuscrit avec modestie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1811",
+      "category": "5",
+      "explanation": "\"Colin sort.\" describes the exit of a character, which fits the category of exit.",
+      "stgdir": "Colin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1812",
+      "category": "8",
+      "explanation": "\"Air : Que ne suis-je la foug\u00e8re ?\" refers to a tune or song title, fitting the music category.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1813",
+      "category": "5",
+      "explanation": "\"Licaste sort.\" describes the exit of a character, which corresponds to the exit category.",
+      "stgdir": "Licaste sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1814",
+      "category": "6",
+      "explanation": "\"Ils s'asseyent tous les deux.\" denotes non-verbal interaction between characters\u2014sitting together\u2014which fits the interaction category.",
+      "stgdir": "Ils s'asseyent tous les deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1815",
+      "category": "3",
+      "explanation": "\"Criant au fond.\" refers to a vocal expression (shouting), fitting the delivery category.",
+      "stgdir": "Criant au fond.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1816",
+      "category": "10",
+      "explanation": "\"Il leur baille des fleurets.\" involves handing over an object (foil swords), which fits the object category.",
+      "stgdir": "Il leur baille des fleurets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1817",
+      "category": "0",
+      "explanation": "\"Il se jette \u00e0 ses genoux.\" describes a general action of kneeling, which fits the general action category.",
+      "stgdir": "Il se jette \u00e0 ses genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1818",
+      "category": "7",
+      "explanation": "\"Elle veut s'\u00e9loigner.\" indicates movement (wanting to move away), fitting the movement category.",
+      "stgdir": "Elle veut s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1819",
+      "category": "12",
+      "explanation": "\"Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.\" describes a movement toward another character, fitting the toward category.",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8671.77414894104,
+  "model": "gpt-4o"
+}

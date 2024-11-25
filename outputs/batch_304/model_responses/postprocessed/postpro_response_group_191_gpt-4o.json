@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1910",
+      "category": "12",
+      "explanation": "The phrase 'Au gar\u00e7on' indicates the addressee of a speech or action, which fits the category 'toward' as it specifies whom the character is addressing.",
+      "stgdir": "Au gar\u00e7on.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1911",
+      "category": "5",
+      "explanation": "'Le laquais sort' indicates a character exiting the stage, fitting the 'exit' category.",
+      "stgdir": "Le laquais sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1912",
+      "category": "5",
+      "explanation": "'H\u00e9rode se retire' is a phrase that denotes a character leaving the stage, thus aligning with the 'exit' category.",
+      "stgdir": "H\u00e9rode se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1913",
+      "category": "6",
+      "explanation": "The phrase 'En montrant Moli\u00e8re et les pi\u00e9destaux' involves pointing or showing, which is a form of non-verbal interaction, thus fitting the 'interaction' category.",
+      "stgdir": "En montrant Moli\u00e8re et les pi\u00e9destaux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1914",
+      "category": "8",
+      "explanation": "'Air Not\u00e9, n\u00b01' indicates a musical element, which qualifies it under the 'music' category.",
+      "stgdir": "Air Not\u00e9, n\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1915",
+      "category": "11",
+      "explanation": "This stage direction provides a detailed description of the setting and scene, thus it fits under the 'setting' category.",
+      "stgdir": "D\u00c9CORATION du PREMIER ACTE. Cette grande masse de montagnes et ces rochers \u00e9lev\u00e9s les uns sur les autres qui la composaient, ayant disparu e un moment par un merveilleux artifice, laissent voir en leur place la ville capitale du royaume de C\u00e9ph\u00e9e, ou plut\u00f4t la place publique de cette ville. Les deux c\u00f4t\u00e9s et le fond de th\u00e9\u00e2tre sont des palais magnifiques, tous diff\u00e9rents de structure, mais qui gardent admirablement l'\u00e9galit\u00e9 et les justesses de la perspective. Apr\u00e8s que les dieux ont eu loisir de se satisfaire \u00e0 consid\u00e9rer leur beaut\u00e9, la rein Cassiope para\u00eet comme passant par cette place pour aller au temple : elle est conduite par Pers\u00e9e, encore inconnu, mais qui passe pour un cavalier de grand m\u00e9rite qu'elle entretient des malheurs publics, attendant que le roi la rejoigne pour aller \u00e0 ce temple de compagnie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1916",
+      "category": "10",
+      "explanation": "'Il donne \u00e0 sa femme une poign\u00e9e de main' refers to giving or receiving, an interaction involving an object, even though it's metaphorical, fitting the 'object' category.",
+      "stgdir": "Il donne \u00e0 sa femme une poign\u00e9e de main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1917",
+      "category": "12",
+      "explanation": "'\u00c0 Aricie' designates the addressee, indicating toward whom speech or action is directed, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1918",
+      "category": "12",
+      "explanation": "'Aux sacrificateurs' specifies the addressee of an action or speech, thus fitting the 'toward' category.",
+      "stgdir": "Aux sacrificateurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1919",
+      "category": "7",
+      "explanation": "'Se pla\u00e7ant derri\u00e8re Moli\u00e8re' involves movement or positioning relative to another character, aligning with the 'movement' category.",
+      "stgdir": "Se pla\u00e7ant derri\u00e8re Moli\u00e8re.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 8847.999334335327,
+  "model": "gpt-4o"
+}

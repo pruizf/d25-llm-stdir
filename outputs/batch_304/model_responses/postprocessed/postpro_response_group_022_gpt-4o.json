@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "220",
+      "category": "9",
+      "explanation": "This stage direction is narrative in nature as it describes a sequence of actions and emotions of a character in detail, similar to a narrative description.",
+      "stgdir": "Clairville quitte Rosalie. Il est comme un fou. Il va, il vient, il s'arr\u00eate. Il soupire de douleur, de fureur. Il s'appuie les coudes sur le dos d'un fauteuil, la t\u00eate sur ses mains, et les poings dans les yeux. Le silence dure un moment. Enfin il dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Philotas' indicates the addressee of a speech or action, categorizing it as 'toward'.",
+      "stgdir": "\u00c0 Philotas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "6",
+      "explanation": "This stage direction involves non-verbal interaction, where one character shows another character, indicating an action directed toward an individual.",
+      "stgdir": "Montrant l'ilote, qui salue modestement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "10",
+      "explanation": "The action 'Il d\u00e9couvre son estomac' involves manipulating or displaying one's body, similar to how an object is interacted with.",
+      "stgdir": "Il d\u00e9couvre son estomac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "6",
+      "explanation": "Describes the simultaneous non-verbal interaction of characters (laughter) in response to a situation, indicating interaction.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "225",
+      "category": "10",
+      "explanation": "Involves giving back arms, which is an interaction with an object, thus fitting the category related to objects.",
+      "stgdir": "Il lui rend ses armes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "6",
+      "explanation": "This direction signifies a non-verbal interaction as it involves looking at someone, indicating observation or attention.",
+      "stgdir": "Le regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "10",
+      "explanation": "Involves unveiling or showing a dress adorned with flowers, interacting with an object (costume or dress).",
+      "stgdir": "Le Laquais d\u00e9couvre une robe garnie de fleurs.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "8",
+      "explanation": "This stage direction involves music indication. 'Air' followed by the name 'Menuet de Monsieur Grandval' signifies a musical piece.",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "0",
+      "explanation": "This direction involves an action of 'seeking an idea', which is not specific to any other category, thus classifying it as a general action.",
+      "stgdir": "Cherchant une id\u00e9e.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 11025.346517562866,
+  "model": "gpt-4o"
+}

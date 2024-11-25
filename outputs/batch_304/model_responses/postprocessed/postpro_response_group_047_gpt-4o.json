@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 470,
+      "category": "3",
+      "explanation": "The stage direction 'Elle dit bas' refers to the manner of vocal delivery, indicating that the character speaks softly, which fits the category of delivery.",
+      "stgdir": "Elle dit bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 471,
+      "category": "3",
+      "explanation": "The stage direction 'Il chante avec la guitare' describes the act of singing, which relates to vocal expression and thus fits into the delivery category.",
+      "stgdir": "Il chante avec la guitare.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 472,
+      "category": "12",
+      "explanation": "The stage direction 'Il appelle dans le Corridor' indicates the direction toward which the character is addressing their call, fitting the toward category.",
+      "stgdir": "Il appelle dans le Corridor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 473,
+      "category": "10",
+      "explanation": "This stage direction describes a costume, which is relevant to objects, specifically related to clothing or costumes.",
+      "stgdir": "COSTUME DU HURON. Redingote de couleur claire, tr\u00e8s courte ; pantalon de couleur fonc\u00e9e, \u00e9galement tr\u00e8s court ; gilet ray\u00e9, chemise bleue \u00e0 raies cravate \u00e0 la Colin, bas blancs, souliers \u00e0 cordons, perruque de n\u00e8gre, tr\u00e8s fris\u00e9e, longs pendants d'oreilles en corail.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 474,
+      "category": "1",
+      "explanation": "The stage direction 'Citoyens et Soldats se combattant avec confusion et paraissant s'entretuer' involves characters fighting, which involves aggression.",
+      "stgdir": "Citoyens et Soldats se combattant avec confusion et paraissant s'entretuer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 475,
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 ses \u00e9cuyers' indicates the recipients of an action or speech, fitting the toward category.",
+      "stgdir": "\u00c0 ses \u00e9cuyers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 476,
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Lon la' references a tune name, which is common in music stage directions.",
+      "stgdir": "AIR : Lon la",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 477,
+      "category": "10",
+      "explanation": "The stage direction describes clothing or accessories being detached or dropped, which fits into the category of object.",
+      "stgdir": "En se d\u00e9menant, sa robe, son chapeau et sa perruque tombent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 478,
+      "category": "11",
+      "explanation": "This stage direction describes a setting, specifically a library scene, suitable for the setting category.",
+      "stgdir": "Une biblioth\u00e8que dont tous les rayons sont vides ; au milieu, Sainte-Beuve, et \u00e0 son c\u00f4t\u00e9 un diable, travesti en \u00e9tudiant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 479,
+      "category": "6",
+      "explanation": "The stage direction 'Il aper\u00e7oit Harpagon' involves one character visually interacting with another, fitting the interaction category.",
+      "stgdir": "Il aper\u00e7oit Harpagon.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 18006.20698928833,
+  "model": "gpt-4o"
+}

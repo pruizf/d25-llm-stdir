@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2810",
+      "category": "8",
+      "explanation": "The stage direction mentions violins playing a specific tune, which falls under the 'music' category since it involves the description of a musical element.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2811",
+      "category": "3",
+      "explanation": "The stage direction describes a character crying, which is an expression of emotion and thus fits under the 'delivery' category.",
+      "stgdir": "Il pleure.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2812",
+      "category": "0",
+      "explanation": "The stage direction involves a character painting, which is a general action, aligning it with the 'action' category.",
+      "stgdir": "Il peint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2813",
+      "category": "3",
+      "explanation": "The stage direction contains 'AIR,' indicating a song title sung by a character, which pertains to the 'delivery' category as it involves singing.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2814",
+      "category": "0",
+      "explanation": "The stage direction involves a character eating, a general action that is best classified under the 'action' category.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2815",
+      "category": "6",
+      "explanation": "The stage direction describes a character affectionately shaking hands, which represents non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2816",
+      "category": "10",
+      "explanation": "The stage direction involves a character searching for a bag of gold, focusing on handling an object, which matches the 'object' category.",
+      "stgdir": "Il va chercher le sac d'or.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2817",
+      "category": "2",
+      "explanation": "The stage direction entails a character being alone on stage, implying an aside or solitary continuation, fitting the 'aparte' category.",
+      "stgdir": "Il continue, \u00e9tant seul.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2818",
+      "category": "3",
+      "explanation": "The stage direction includes 'AIR,' indicating a song title sung by a character, which falls under the 'delivery' category as it involves singing.",
+      "stgdir": "AIR. Oui, j'ai tout vu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2819",
+      "category": "6",
+      "explanation": "The stage direction involves a character seeing another's approach, a form of non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 9280.476570129395,
+  "model": "gpt-4o"
+}

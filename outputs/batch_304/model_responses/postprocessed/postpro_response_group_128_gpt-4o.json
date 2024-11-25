@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1280",
+      "category": "10",
+      "explanation": "The stage direction involves valets hanging up dominos (a type of cloak or costume) at the windows, which is an interaction with an object.",
+      "stgdir": "Des valets suspendent des dominos aux crois\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1281",
+      "category": "12",
+      "explanation": "This stage direction specifies the addressee of a speech or action, indicating it is directed towards 'his/her elder', thus categorizing it as 'toward'.",
+      "stgdir": "\u00c0 son a\u00een\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1282",
+      "category": "6",
+      "explanation": "The stage direction describes two characters extending their hands to take money\u2014this involves non-verbal interaction between characters and an object, focusing on the interaction here.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1283",
+      "category": "9",
+      "explanation": "The stage direction is a long narration describing an elaborate burlesque ceremony involving many characters and actions, fitting the criteria for narration.",
+      "stgdir": "C'est une c\u00e9r\u00e9monie burlesque d'un homme qu'on fait m\u00e9decin en r\u00e9cit, chant, et danse. Plusieurs tapissiers viennent pr\u00e9parer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assembl\u00e9e, compos\u00e9e de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir m\u00e9decin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1284",
+      "category": "8",
+      "explanation": "The stage direction mentions 'Air 30: Lanturlu', which indicates a tune name, thus relating to music.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1285",
+      "category": "11",
+      "explanation": "This stage direction provides a description of the set, representing the Palace of Ocean and Thetis, including elements like rivers and streams, fitting the setting category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1286",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of a speech or action, directing it 'to the Younger', thus fitting the 'toward' category.",
+      "stgdir": "Au Cadet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1287",
+      "category": "6",
+      "explanation": "This direction involves a character being shown the table, which is a non-verbal interaction.",
+      "stgdir": "Lui d\u00e9signant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1288",
+      "category": "10",
+      "explanation": "The character presents a small mirror, which involves interaction with an object, categorizing it as object.",
+      "stgdir": "Elle lui pr\u00e9sente un petit miroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1289",
+      "category": "0",
+      "explanation": "The phrase 'Se rattrapant' refers to a general character action of recovering oneself, often after a mistake or slip, fitting the action category.",
+      "stgdir": "Se rattrapant.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 10914.615631103516,
+  "model": "gpt-4o"
+}

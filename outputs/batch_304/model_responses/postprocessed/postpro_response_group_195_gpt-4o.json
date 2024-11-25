@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1950",
+      "category": "8",
+      "explanation": "This stage direction describes music, as indicated by 'La vielle joue tr\u00e8s doucement', which refers to a musical instrument (hurdy-gurdy) playing softly.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1951",
+      "category": "9",
+      "explanation": "This stage direction indicates a sound ('On entend un symphonie'), which fits the narrative quality as it describes the background sound heard, enhancing the scene.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1952",
+      "category": "10",
+      "explanation": "This describes an interaction with an object, specifically 'Il tire son poignard', meaning he draws his dagger.",
+      "stgdir": "Il tire son poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1953",
+      "category": "1",
+      "explanation": "This direction involves violent action ('se battent \u00e0 coups d'\u00e9p\u00e9e'), indicating aggression as it describes a swordfight.",
+      "stgdir": "Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e. Les derniers sont repouss\u00e9s, et abandonnent le champ de bataille.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1954",
+      "category": "0",
+      "explanation": "The stage direction 'Tous se mettent \u00e0 genoux' describes a general character action (kneeling) without indicating an entrance, exit, or specific interaction.",
+      "stgdir": "Tous se mettent \u00e0 genoux, except\u00e9 le Juge et les Soldats.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1955",
+      "category": "4",
+      "explanation": "This indicates an entrance, as 'Lisanor para\u00eet' suggests the character Lisanor appears on stage.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1956",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Ariston' indicates the direction of a speech or action towards the character Ariston, categorizing it as 'toward'.",
+      "stgdir": "\u00c0 Ariston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1957",
+      "category": "11",
+      "explanation": "This describes the stage setting, as 'Le th\u00e9\u00e2tre repr\u00e9sente l'entr\u00e9e de la for\u00eat sacr\u00e9e' provides details about the play's location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'entr\u00e9e de la for\u00eat sacr\u00e9e : on y voit les tombeaux et les statues des Rois de la Colchide.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1958",
+      "category": "9",
+      "explanation": "The stage direction includes narrative qualities ('Apr\u00e8s un silence\u2026 offre ses jours'), describing a sequence of actions and emotions, typical of a narrative style.",
+      "stgdir": "Apr\u00e8s un silence, assez long pour reposer les yeux du spectateur, qui doivent avoir peine \u00e0 suivre les vivacit\u00e9s des mouvements pr\u00e9c\u00e9dents, l'infortun\u00e9 Kerkabon, abattu par le malheur, offre ses jours pour r\u00e9parer sa faute :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1959",
+      "category": "8",
+      "explanation": "The stage direction includes 'Air : Lampons', which names a tune, fitting the category for music.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 14923.356056213379,
+  "model": "gpt-4o"
+}

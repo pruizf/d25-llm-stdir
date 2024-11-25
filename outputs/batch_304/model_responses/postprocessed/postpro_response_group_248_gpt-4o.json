@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2480",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air:' indicating it is the name of a tune or piece of music that is to be played or sung.",
+      "stgdir": "Air: Mon p\u00e8re \u00e9tait pot.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2481",
+      "category": "3",
+      "explanation": "The phrase 'Haut, faisant un effort' describes the delivery of the character, implying they are speaking loudly or making an effort while speaking.",
+      "stgdir": "Haut, faisant un effort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2482",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR.' indicating it is the name of a tune or piece of music that is to be played or sung.",
+      "stgdir": "AIR. J'\u00e9tais perdue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2483",
+      "category": "0",
+      "explanation": "This appears to be a text in all caps, possibly indicating an oath or declaration being delivered, but as it doesn't specify delivery or music, it falls under general action.",
+      "stgdir": "JE JURE QUE DE DOROTH\u00c9E",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2484",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air :' indicating it is the name of a tune or piece of music that is to be played or sung.",
+      "stgdir": "Air : Fidel \u00e9poux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2485",
+      "category": "6",
+      "explanation": "The stage direction 'en la prenant par la main' describes a non-verbal interaction where Ad\u00e9la\u00efde takes someone by the hand.",
+      "stgdir": "Ad\u00e9la\u00efde en la prenant par la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2486",
+      "category": "0",
+      "explanation": "This describes an action of a character noticing or perceiving their son, but does not fit into more specific categories provided.",
+      "stgdir": "Apercevant son fils.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2487",
+      "category": "8",
+      "explanation": "The mention of 'Cinqui\u00e8me couplet' refers to a musical element, likely indicating the fifth verse of a song or musical piece.",
+      "stgdir": "Cinqui\u00e8me couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2488",
+      "category": "10",
+      "explanation": "The phrase 'Billet de Constantine' likely refers to an object, such as a letter or note, hence it is categorized under objects.",
+      "stgdir": "Billet de Constantine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2489",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Th\u00e9r\u00e8se et Laurent' indicates the addressees of the speech, meaning it specifies to whom the following speech or action is directed.",
+      "stgdir": "\u00c0 Th\u00e9r\u00e8se et Laurent.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 21090.574264526367,
+  "model": "gpt-4o"
+}

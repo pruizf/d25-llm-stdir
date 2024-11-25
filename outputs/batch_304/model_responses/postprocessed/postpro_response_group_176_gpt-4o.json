@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1760",
+      "category": "8",
+      "explanation": "The stage direction '\u00c0 l'orchestre : fl\u00fbtes et clarinettes.' describes elements related to music, specifically instruments used, which fits the music category.",
+      "stgdir": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1761",
+      "category": "5",
+      "explanation": "The stage direction 'Elle veut s'enfuir.' describes the action of wanting to leave or flee, fitting the exit category.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1762",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Il n'est point de fleurettes, etc.' is introducing a tune or song, indicated by 'AIR', thus fitting the music category.",
+      "stgdir": "AIR. Il n'est point de fleurettes, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1763",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant Jean.' indicates a non-verbal interaction where a character notices another, fitting the interaction category.",
+      "stgdir": "Apercevant Jean.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1764",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. tourne, tourne, tourne, c'est son paiement.' indicates a musical element, using 'AIR' to denote a tune or song, fitting the music category.",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1765",
+      "category": "9",
+      "explanation": "This stage direction is a long, descriptive passage about characters and setting on stage, indicating an elaborate tableau. This aligns with the narration category due to its narrative quality.",
+      "stgdir": "L'Amour para\u00eet dans sa Gloire, environn\u00e9 de Gr\u00e2ces et de Plaisirs. Les Divinit\u00e9s de la Terre sont assises sur les ailes du Th\u00e9\u00e2tre, encha\u00een\u00e9es de Fleurs ; et les Divinit\u00e9s du Ciel sont au-dessus, assises sur des Nuages. On voit au fond l'Antre de la Jalousie, o\u00f9 elle est encha\u00een\u00e9e avec la Rage et le D\u00e9sespoir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1766",
+      "category": "3",
+      "explanation": "The stage direction 'ORACLE.' likely refers to a vocal delivery or pronouncement, fitting into the delivery category.",
+      "stgdir": "ORACLE.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1767",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Eurycl\u00e8s.' indicates the addressee of a speech, fitting into the toward category.",
+      "stgdir": "\u00c0 Eurycl\u00e8s.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1768",
+      "category": "8",
+      "explanation": "'CLOMIRE, PASTORALE.' is likely indicating a musical piece or style, fitting the music category.",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1769",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 C\u00e9lie, Galimatias.' indicates the addressee of a speech or message, thus fitting into the toward category.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 11103.821754455566,
+  "model": "gpt-4o"
+}

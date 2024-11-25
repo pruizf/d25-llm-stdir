@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2420",
+      "category": "6",
+      "explanation": "The character 'aperc\u00e7oit' (notices) another character, which is a form of non-verbal interaction.",
+      "stgdir": "Il aper\u00e7oit Nicodon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2421",
+      "category": "4",
+      "explanation": "The stage direction indicates the 'ENTR\u00c9E' (entrance) of characters, fitting the entrance category.",
+      "stgdir": "ENTR\u00c9E de deux meuniers et de deux meuni\u00e8res.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2422",
+      "category": "10",
+      "explanation": "The stage direction describes handling a 'bo\u00eete aux bijoux' (jewelry box), which involves object manipulation.",
+      "stgdir": "Ang\u00e9lique, sans lui r\u00e9pondre, tire la bo\u00eete aux bijoux et la lui rend sans le regarder : elle la met dans sa main ; et il s'arr\u00eate comme surpris et sans la lui remettre, apr\u00e8s quoi il sort.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2423",
+      "category": "8",
+      "explanation": "This direction refers to a specific musical number 'AIR 108', indicating it is related to music.",
+      "stgdir": "AIR 108. [ \u00d4 turlutaine ! ]",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2424",
+      "category": "0",
+      "explanation": "The character 'se jette dans un fauteuil' (throws himself into a chair), which is a general action.",
+      "stgdir": "Il se jette dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2425",
+      "category": "5",
+      "explanation": "This direction indicates an 'exit', 'Elle sort' (she exits) with Lucie.",
+      "stgdir": "Elle sort avec Lucie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2426",
+      "category": "6",
+      "explanation": "The character 'montre' (shows) another character, indicating non-verbal interaction.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2427",
+      "category": "8",
+      "explanation": "This direction refers to a musical number 'AIR', which indicates a musical context.",
+      "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2428",
+      "category": "4",
+      "explanation": "This indicates that a character, Val\u00e9rian, 'entre' (enters), which correlates with entrances.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2429",
+      "category": "0",
+      "explanation": "The character 'commence \u00e0 lire' (begins to read) the note, which is a general character action.",
+      "stgdir": "Il commence \u00e0 lire le billet.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8864.531755447388,
+  "model": "gpt-4o"
+}

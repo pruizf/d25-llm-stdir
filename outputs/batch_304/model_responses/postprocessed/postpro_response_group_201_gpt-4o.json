@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2010",
+      "category": "4",
+      "explanation": "The stage direction describes a group, 'le choeur', entering the stage, which fits the definition of the 'entrance' category.",
+      "stgdir": "Le choeur arrive sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2011",
+      "category": "8",
+      "explanation": "The term 'Menuet' refers to a type of music or dance, fitting the 'music' category.",
+      "stgdir": "Menuet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2012",
+      "category": "8",
+      "explanation": "'BALADE' likely references a specific musical piece or movement, fitting the 'music' category.",
+      "stgdir": "BALADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2013",
+      "category": "4",
+      "explanation": "The stage direction indicates a character, Pasquin, appearing or entering the stage, which is an 'entrance'.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2014",
+      "category": "6",
+      "explanation": "'Montrant Claudine' describes a non-verbal interaction involving pointing or showing a character, fitting the 'interaction' category.",
+      "stgdir": "Montrant Claudine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2015",
+      "category": "6",
+      "explanation": "The direction describes a physical interaction, 'Apr\u00e8s l'avoir bais\u00e9e' (after kissing her), fitting the 'interaction' category.",
+      "stgdir": "Apr\u00e8s l'avoir bais\u00e9e.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2016",
+      "category": "8",
+      "explanation": "'Troisi\u00e8me entr\u00e9e de ballet' refers to a musical or dance performance piece, fitting the 'music' category.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2017",
+      "category": "9",
+      "explanation": "The direction involves the sound of knocking, which contributes to the narrative quality, fitting the 'narration' category.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2018",
+      "category": "9",
+      "explanation": "This is a long, detailed description of actions and transformations, fitting the 'narration' category.",
+      "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2019",
+      "category": "10",
+      "explanation": "'Elle ouvre le m\u00e9daillon, et fait voir \u00e0 la Comtesse le portrait de Napol\u00e9on' involves interaction with an object, fitting the 'object' category.",
+      "stgdir": "Elle ouvre le m\u00e9daillon, et fait voir \u00e0 la Comtesse le portrait de Napol\u00e9on.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 7428.93123626709,
+  "model": "gpt-4o"
+}

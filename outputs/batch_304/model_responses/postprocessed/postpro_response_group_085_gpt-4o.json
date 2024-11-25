@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 850,
+      "category": "12",
+      "explanation": "The stage direction 'Au pr\u00e9sident' indicates the addressee of a speech or action, aligning it with the 'toward' category.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 851,
+      "category": "4",
+      "explanation": "The stage direction 'Il arrive' describes the entrance of a character, fitting the 'entrance' category.",
+      "stgdir": "Il arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 852,
+      "category": "6",
+      "explanation": "The stage direction 'Iole s'avance pour rendre hommage \u00e0 D\u00e9janire' describes a non-verbal interaction where homage is paid to another character, fitting the 'interaction' category.",
+      "stgdir": "Iole s'avance pour rendre hommage \u00e0 D\u00e9janire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 853,
+      "category": "7",
+      "explanation": "The stage direction 'L\u00e9on fait un grand mouvement' involves character movement without specifying an exit or entrance, fitting the 'movement' category.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 854,
+      "category": "0",
+      "explanation": "The stage direction 'Elles vont d\u00eener' involves the action of dining, fitting the 'action' category as it's a general character action.",
+      "stgdir": "Elles vont d\u00eener.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 855,
+      "category": "3",
+      "explanation": "The stage direction 'Soupir de satisfaction' involves a vocal expression of emotion, fitting the 'delivery' category.",
+      "stgdir": "Soupir de satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 856,
+      "category": "9",
+      "explanation": "The stage direction is long and narrates a sequence of actions and emotions, fitting the 'narration' category.",
+      "stgdir": "Le jeune Kerkabon, qui vainement a voulu suivre son amie, s\u00e9par\u00e9 d'elle, et pour jamais, s'abandonne au plus affreux d\u00e9sespoir ; il l'appelle en tendant les bras vers le lieu qui la d\u00e9robe \u00e0 ses regards, il l'appelle... et voyant qu'elle me r\u00e9pond pas, il parait vouloir renoncer \u00e0 la vie, il s'\u00e9chappe des bras qui lui sont ouverts, et va tomber sur le banc de gazon, plac\u00e9 \u00e0 gauche du spectateur. Les g\u00e9n\u00e9reux parents s'empressent \u00e0 lui t\u00e9moigner l'int\u00e9r\u00eat le plus tendre !... Celui que l'on doit au malheur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 857,
+      "category": "10",
+      "explanation": "The stage direction 'Elle met la couronne sur sa t\u00eate' involves interaction with an object, fitting the 'object' category.",
+      "stgdir": "Elle met la couronne sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 858,
+      "category": "2",
+      "explanation": "The stage direction 'Elle lui parle bas' suggests that the character is speaking in an aside, fitting the 'aparte' category.",
+      "stgdir": "Elle lui parle bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 859,
+      "category": "5",
+      "explanation": "The stage direction 'Julie regarde le marquis, l\u00e8ve les yeux au ciel, et s'en va' involves a character exiting the stage, fitting the 'exit' category.",
+      "stgdir": "Julie regarde le marquis, l\u00e8ve les yeux au ciel, et s'en va.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 8719.075679779053,
+  "model": "gpt-4o"
+}

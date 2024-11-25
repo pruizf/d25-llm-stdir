@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2560",
+      "category": "3",
+      "explanation": "The stage direction describes the character humming a song, which involves vocal expression, classifying it under delivery.",
+      "stgdir": "Il fredonne l'Amant d'Amanda.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2561",
+      "category": "8",
+      "explanation": "The designation 'Air : n\u00b0 1' signifies a piece of music or melodic tune, which falls under the category of music.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2562",
+      "category": "0",
+      "explanation": "This describes a character knocking on the door outside, which is a general character action, aligning it with the action category.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2563",
+      "category": "1",
+      "explanation": "The stage direction describes the characters restarting a fight more intensely, which involves violence, classifying it as aggression.",
+      "stgdir": "L\u00e0 ils recommencent le combat plus vivement.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2564",
+      "category": "6",
+      "explanation": "Allowing oneself to be kissed is a non-verbal interaction between characters, fitting the interaction category.",
+      "stgdir": "Elle se laisse embrasser.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2565",
+      "category": "7",
+      "explanation": "The action of sitting involves character movement within the stage, fitting in the movement category.",
+      "stgdir": "Camille s'assoit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2566",
+      "category": "8",
+      "explanation": "The term 'CANTATE' refers to a type of musical composition, categorizing it under music.",
+      "stgdir": "CANTATE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2567",
+      "category": "8",
+      "explanation": "The stage direction mentions dancing, interspersed with couplets, indicating a musical sequence, thus fitting the music category.",
+      "stgdir": "On danse, et la danse est coup\u00e9e par ces deux couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2568",
+      "category": "10",
+      "explanation": "This direction involves presenting an object (a p\u00e2t\u00e9) to a character, indicating interaction with an object.",
+      "stgdir": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2569",
+      "category": "12",
+      "explanation": "The stage direction 'Il parle \u00e0 Troile' indicates who the speech is directed toward, thus fitting the toward category.",
+      "stgdir": "Il parle \u00e0 Troile.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15814.498662948608,
+  "model": "gpt-4o"
+}

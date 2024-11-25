@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1270",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 \u00c9narus' indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "\u00c0 \u00c9narus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1271",
+      "category": "1",
+      "explanation": "The stage direction describes an act of aggression or self-harm, as the Prince intends to throw himself on a sword.",
+      "stgdir": "Le Prince veut se jeter sur une \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1272",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Torine' indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Torine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1273",
+      "category": "5",
+      "explanation": "The character exits the scene by moving backward and saluting to the sides, which fits the 'exit' category.",
+      "stgdir": "Il sort a reculons en saluant \u00e0 droite et \u00e0 gauche et dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1274",
+      "category": "11",
+      "explanation": "This stage direction describes the setting, mentioning the decoration and the open door showing the countryside, appropriate for the 'setting' category.",
+      "stgdir": "M\u00eame d\u00e9coration qu'au premier acte ; seulement, la porte du fond est grande ouverte et l'on voit la campagne au printemps.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1275",
+      "category": "12",
+      "explanation": "The stage direction 'Aux l\u00e9vites' indicates the addressee of a speech, which fits the 'toward' category.",
+      "stgdir": "Aux l\u00e9vites.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1276",
+      "category": "0",
+      "explanation": "The stage direction 'LETTRE AU BRAVE Don CARLOS' does not fit any other specific category better than 'action'.",
+      "stgdir": "LETTRE AU BRAVE Don CARLOS.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1277",
+      "category": "6",
+      "explanation": "Colombinette kisses passionately, indicating non-verbal character interaction, which fits the 'interaction' category.",
+      "stgdir": "Colombinette n'ose protester et l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1278",
+      "category": "6",
+      "explanation": "Genevi\u00e8ve responding presumably in kind suggests non-verbal interaction, aligning with the 'interaction' category.",
+      "stgdir": "Genevi\u00e8ve le lui rend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1279",
+      "category": "5",
+      "explanation": "The stage direction 'Les gens sortent' describes characters exiting the scene, making it fall under the 'exit' category.",
+      "stgdir": "Les gens sortent.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 8621.620416641235,
+  "model": "gpt-4o"
+}

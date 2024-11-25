@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "880",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', which indicates the title or description of a musical piece or tune.",
+      "stgdir": "AIR : Mariez, mariez, mariez-moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "881",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', which similarly denotes a musical piece or tune title.",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "882",
+      "category": "5",
+      "explanation": "The stage direction 'Tersky sort' involves a character exiting the stage, indicated by the verb 'sort'.",
+      "stgdir": "Tersky sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "883",
+      "category": "8",
+      "explanation": "The presence of 'Air 162' suggests that this is a reference to a tune or musical piece, identified by its number.",
+      "stgdir": "Air 162 : Lucas se plaint que sa femme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "884",
+      "category": "2",
+      "explanation": "The direction 'Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre' indicates that the character speaks these words as an aside, away from the main stage or the audience.",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "885",
+      "category": "11",
+      "explanation": "This direction describes the setting of the stage, specifically representing a palace.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un palais.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "886",
+      "category": "9",
+      "explanation": "This is a long, narrative-like description detailing a sequence of events and actions, typical of a narration stage direction.",
+      "stgdir": "Il se passe que des branches d\u00e9plac\u00e9es ont fouett\u00e9 le visage de Maurice et qu'un ennemi va s'\u00e9lancer des arbres. Maurice tire son couteau, le brandit, et s'\u00e9crie d'une voix fr\u00e9missante :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "887",
+      "category": "9",
+      "explanation": "The direction provides a detailed narrative describing a scene with fantasy elements, including weather effects and character actions, indicative of narration.",
+      "stgdir": "Dans cette obscurit\u00e9 soudaine, l'Envie sort de son antre qui s'ouvre au milieu du th\u00e9\u00e2tre : elle \u00e9voque le monstrueux Serpent Python, qui para\u00eet dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumi\u00e8re qui \u00e9claire le th\u00e9\u00e2tre : elle appelle les Vents les plus imp\u00e9tueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous apr\u00e8s avoir vol\u00e9 et s'\u00eatre crois\u00e9s dans l'air, viennent se ranger autour d'elle, pour l'aider \u00e0 troubler les beaux jours que le Soleil donne au monde.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "888",
+      "category": "11",
+      "explanation": "This stage direction describes the initial scene setup with specific time and character position, corresponding to setting description.",
+      "stgdir": "Au lever du rideau, Gontran est couch\u00e9 tout habill\u00e9 sur le lit. Dix heures sonnent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "889",
+      "category": "6",
+      "explanation": "The direction 'Tous partent d'un \u00e9clat de rire' shows group interaction through collective laughter, which is a non-verbal interaction.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 17627.86030769348,
+  "model": "gpt-4o"
+}

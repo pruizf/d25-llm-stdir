@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "50",
+      "category": "8",
+      "explanation": "The word 'COUPLET' suggests a musical piece, indicating this is a music-related stage direction.",
+      "stgdir": "PREMIER COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "8",
+      "explanation": "The term 'AIR' followed by a song title indicates a musical piece, fitting the music category.",
+      "stgdir": "AIR : Evohe ! que ces d\u00e9esses...",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "6",
+      "explanation": "The phrase 'Il lui balsa la main' describes a non-verbal interaction (touching), fitting the interaction category.",
+      "stgdir": "Il lui balsa la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Laurent' indicates the addressee of a speech, categorizing it as 'toward'.",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "8",
+      "explanation": "Again, 'Air 107' followed by a song title indicates a musical piece, fitting the music category.",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "6",
+      "explanation": "The phrase 'Montrant Jenneval' involves pointing at someone, which is a form of non-verbal interaction.",
+      "stgdir": "Montrant Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "8",
+      "explanation": "The term 'Air' followed by a song title denotes a musical piece, fitting the music category.",
+      "stgdir": "Air : Dis-moi donc, mon cher Hypolite.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "9",
+      "explanation": "This is a narrative description of actions involving multiple characters and objects, fitting the narration category.",
+      "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "8",
+      "explanation": "The use of 'AIR' accompanied by a description implies a musical context.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "8",
+      "explanation": "This direction describes violins playing, indicating the presence of music, and falls under the music category.",
+      "stgdir": "Les violons jouent un branle pendant que Polydas parle et que les convi\u00e9s dansent.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 11510.284423828125,
+  "model": "gpt-4o"
+}

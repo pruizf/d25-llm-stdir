@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1520",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Le tout par nature.' indicates the name of a tune, classifying it under music.",
+      "stgdir": "Air : Le tout par nature.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1521",
+      "category": "5",
+      "explanation": "The phrase 'Il s'en retourne.' suggests that a character exits the scene, fitting the exit category.",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1522",
+      "category": "10",
+      "explanation": "The verb 'arracher' refers to tearing papers, which involves interaction with objects, thus fitting the object category.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1523",
+      "category": "4",
+      "explanation": "The phrase 'Cl\u00e9andre et Ferrande reviennent.' indicates characters entering the stage, fitting the entrance category.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1524",
+      "category": "0",
+      "explanation": "The stage direction 'PANTOMIME.' indicates a non-verbal performance or action, classified under action.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1525",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. ( Quand je tiens de ce jus d'octobre. )' indicates a tune name related to music.",
+      "stgdir": "AIR. ( Quand je tiens de ce jus d'octobre. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1526",
+      "category": "5",
+      "explanation": "The phrase 'Adrien sort.' suggests a character exiting the scene, fitting the exit category.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1527",
+      "category": "10",
+      "explanation": "The stage direction 'Ouvrant la premi\u00e8re lettre.' indicates handling or interacting with an object, fitting the object category.",
+      "stgdir": "Ouvrant la premi\u00e8re lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1528",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. N'avez-vous pas vu l'horloge.' indicates a tune name, classifying it under music.",
+      "stgdir": "AIR. N'avez-vous pas vu l'horloge.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1529",
+      "category": "6",
+      "explanation": "The phrase 'Montrant Cris\u00e9is.' involves pointing or indicating another character, fitting the interaction category.",
+      "stgdir": "Montrant Cris\u00e9is.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 10782.466888427734,
+  "model": "gpt-4o"
+}

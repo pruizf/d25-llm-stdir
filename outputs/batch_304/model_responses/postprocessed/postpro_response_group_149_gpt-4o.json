@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1490",
+      "category": "6",
+      "explanation": "The stage direction 'Et puis \u00e0 tous.' suggests a non-verbal interaction with a group, likely indicating the character directing their attention or gesture towards everyone present.",
+      "stgdir": "Et puis \u00e0 tous.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1491",
+      "category": "6",
+      "explanation": "The stage direction 'Il montre celle qui est sur le tombeau d'Artamon.' involves pointing or indicating, which fits under non-verbal character interaction.",
+      "stgdir": "Il montre celle qui est sur le tombeau d'Artamon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1492",
+      "category": "10",
+      "explanation": "'Tirant une bo\u00eete \u00e0 mouches.' involves an interaction with an object, specifically pulling out a small box.",
+      "stgdir": "Tirant une bo\u00eete \u00e0 mouches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1493",
+      "category": "8",
+      "explanation": "The presence of 'AIR' followed by 'Jardinier ne vois-tu pas.' indicates the name of a tune or song, categorizing it under music.",
+      "stgdir": "AIR : Jardinier ne vois-tu pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1494",
+      "category": "10",
+      "explanation": "'\u00c9cartant le verre.' involves the manipulation or movement of an object (the glass), fitting the object category.",
+      "stgdir": "\u00c9cartant le verre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1495",
+      "category": "4",
+      "explanation": "The stage direction 'Esther entre, s'appuyant sur \u00c9lise ; quatre Isra\u00e9lites soutiennent sa robe.' specifies an entrance onto the stage, along with details of support.",
+      "stgdir": "Esther entre, s'appuyant sur \u00c9lise ; quatre Isra\u00e9lites soutiennent sa robe.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1496",
+      "category": "9",
+      "explanation": "'On entend le canon au loin.' describes a sound effect (cannon in the distance), fitting the category of narration.",
+      "stgdir": "On entend le canon au loin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1497",
+      "category": "9",
+      "explanation": "'On entend une sourde rumeur \u00e0 la cantonade.' also describes a sound effect, a dull murmur offstage, fitting the narration category.",
+      "stgdir": "On entend une sourde rumeur \u00e0 la cantonade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1498",
+      "category": "5",
+      "explanation": "'Ils rentrent.' indicates characters exiting the stage.",
+      "stgdir": "Ils rentrent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1499",
+      "category": "6",
+      "explanation": "'DAPHNIS ET SYLVANDRE ensemble.' suggests a non-verbal interaction where the characters are joining or acting together.",
+      "stgdir": "DAPHNIS ET SYLVANDRE ensemble.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 14385.965347290039,
+  "model": "gpt-4o"
+}

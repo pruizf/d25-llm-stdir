@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2910",
+      "category": "8",
+      "explanation": "The stage direction indicates a tune name with the wording 'Air I', suggesting it refers to a musical piece, which fits the music category.",
+      "stgdir": "Air I. R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2911",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Alcm\u00e8ne' indicates the addressee of the speech, categorizing it as 'toward'.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2912",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. M. le Pr\u00e9v\u00f4t des Marchands' starts with 'AIR', indicating a tune or musical number, classifying it under music.",
+      "stgdir": "AIR. M. le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2913",
+      "category": "4",
+      "explanation": "The verb 'para\u00eet' refers to an entrance onto the stage, aligning with the category for character entrance.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2914",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant le Marquis' describes a non-verbal interaction of noticing or seeing another character.",
+      "stgdir": "Apercevant le Marquis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2915",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Paturon' designates the addressee of the forthcoming speech, fitting into the 'toward' category.",
+      "stgdir": "\u00c0 Paturon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2916",
+      "category": "0",
+      "explanation": "Although it involves an action 'l\u00e8vera la main et montrera le fruit d\u00e9fendu,' it best fits general character actions as it does not fit other specific categories.",
+      "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2917",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Gercour' indicates the recipient of communication or focus, thus aligning with the 'toward' category.",
+      "stgdir": "\u00c0 Gercour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2918",
+      "category": "3",
+      "explanation": "The direction 'LETTRE DU DUC DE CARDONNE \u00c0 ASTOLFE' suggests a letter delivery, even though it doesn't involve vocal delivery, it relates broadly to providing information or addressing someone, hence best fits 'delivery'.",
+      "stgdir": "LETTRE DU DUC DE CARDONNE \u00c0 ASTOLFE.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2919",
+      "category": "11",
+      "explanation": "The direction 'Au caf\u00e9 de l'Alliance. \u2014 Un coin r\u00e9serv\u00e9.' describes the setting and location on stage, aligning it with the setting category.",
+      "stgdir": "Au caf\u00e9 de l'Alliance. \u2014 Un coin r\u00e9serv\u00e9.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 12065.824270248413,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1410",
+      "category": "4",
+      "explanation": "The stage direction 'Le Duc de Nemours para\u00eet' indicates the entrance of a character, which falls under the 'entrance' category.",
+      "stgdir": "Le Duc de Nemours para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1411",
+      "category": "8",
+      "explanation": "The stage direction 'Air du commencement' refers to music, as it indicates the title or description of a musical piece or tune being played.",
+      "stgdir": "Air du commencement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1412",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Francis et \u00e0 Madeleine' indicates the recipients of an action or speech, thus falling under the 'toward' category.",
+      "stgdir": "\u00c0 Francis et \u00e0 Madeleine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1413",
+      "category": "12",
+      "explanation": "The stage direction 'Il parle \u00e0 ses soldats' specifies whom the character is addressing, classifying it under the 'toward' category.",
+      "stgdir": "Il parle \u00e0 ses soldats.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1414",
+      "category": "10",
+      "explanation": "The stage direction 'Lui montrant une lettre' involves interaction with an object, in this case, showing a letter, thus it falls under the 'object' category.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1415",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. ( Quand Iris prend plaisir \u00e0 boire. )' is a music reference, identifying the tune or song name.",
+      "stgdir": "AIR. ( Quand Iris prend plaisir \u00e0 boire. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1416",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : La plus belle promenade' refers to a musical piece or tune, as indicated by 'AIR,' thus belonging to the 'music' category.",
+      "stgdir": "AIR : La plus belle promenade.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1417",
+      "category": "0",
+      "explanation": "The stage direction 'Il frappe avec sa batte' involves an action, in this case, hitting with a bat, therefore it belongs to the 'action' category.",
+      "stgdir": "Il frappe avec sa batte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1418",
+      "category": "6",
+      "explanation": "The stage direction 'Il tourne les yeux sur Henry' describes a non-verbal interaction with another character, falling under the 'interaction' category.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1419",
+      "category": "8",
+      "explanation": "The stage direction 'AIR 119. Et autre chose itou.' references a musical piece, as identified by 'AIR,' and belongs to the 'music' category.",
+      "stgdir": "AIR 119. Et autre chose itou.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9335.748672485352,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1400",
+      "category": "8",
+      "explanation": "The term 'Quatri\u00e8me Couplet' suggests it is related to music, likely a part of a musical piece being identified.",
+      "stgdir": "Quatri\u00e8me Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1401",
+      "category": "4",
+      "explanation": "The phrase 'Elle entre dans le tombeau' indicates an entrance movement, as the character is entering a specific place.",
+      "stgdir": "Elle entre dans le tombeau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1402",
+      "category": "11",
+      "explanation": "'Elle s'assied \u00e0 gauche de la chemin\u00e9e' involves a character taking a seat, suggesting a setting description or adjustment related to where the action occurs.",
+      "stgdir": "Elle s'assied \u00e0 gauche de la chemin\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1403",
+      "category": "10",
+      "explanation": "The action 'Elle remet la lettre a Julie' is about an exchange of an object, specifically a letter, making it related to the 'object' category.",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1404",
+      "category": "9",
+      "explanation": "'On entend un grand bruit du c\u00f4t\u00e9 de la maison' describes an auditory event, contributing to narrative ambiance rather than a direct character action.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1405",
+      "category": "9",
+      "explanation": "This lengthy description involves script-like dialogue and interaction, giving it a strong narrative quality sharing various actions and dialogue sequences.",
+      "stgdir": "FRONTIN dit \u00e0 son ma\u00eetre qu'il a toutes les peines du monde \u00e0 tirer de l'argent de Monsieur Simon son usurier ordinaire mais qu'\u00e0 la fin il lui a donn\u00e9 deux mille livres, apr\u00e8s avoir rempli son blanc-seing de quatre mille livres. Ce sont deux mille livres qu'il m'en co\u00fbte, r\u00e9pond Adraste mais que ne ferait-on pas pour se tirer d'affaire avec honneur ? Va ajo\u00fbte-t-il \u00e0 Frontin, assemble mes cr\u00e9anciers chez moi : je vais t'y joindre, et les payer.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1406",
+      "category": "6",
+      "explanation": "'Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main' is a non-verbal interaction involving the character showing an object to others.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1407",
+      "category": "7",
+      "explanation": "'Il se place derri\u00e8re le Peintre' involves positioning or movement on the stage, as it describes a character taking position relative to another.",
+      "stgdir": "Il se place derri\u00e8re le Peintre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1408",
+      "category": "5",
+      "explanation": "'Tous sortent, except\u00e9 Chapelle et Lafor\u00eat' describes characters exiting the stage, fitting the exit category.",
+      "stgdir": "Tous sortent, except\u00e9 Chapelle et Lafor\u00eat.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1409",
+      "category": "8",
+      "explanation": "'PETITE REPRISE' is indicative of a musical element or theme being cued in the performance.",
+      "stgdir": "PETITE REPRISE",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9504.189729690552,
+  "model": "gpt-4o"
+}

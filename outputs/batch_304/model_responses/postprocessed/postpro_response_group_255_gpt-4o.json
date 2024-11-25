@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2550",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of a speech or action, specifically towards Sophie.",
+      "stgdir": "\u00c0 Sophie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2551",
+      "category": "1",
+      "explanation": "The action of Don Juan tearing the sword away and breaking it is an aggressive and violent action.",
+      "stgdir": "Don Juan lui arrache l'\u00e9p\u00e9e des mains et la brise.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2552",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of events, including an entrance, a threat, and an action of pushing, which gives it a narrative quality.",
+      "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2553",
+      "category": "6",
+      "explanation": "The action of showing something, in this case a bed, involves a non-verbal interaction.",
+      "stgdir": "Montrant son lit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2554",
+      "category": "6",
+      "explanation": "The act of looking at someone (Gaston) is a non-verbal interaction.",
+      "stgdir": "Regardant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2555",
+      "category": "8",
+      "explanation": "This stage direction refers to a tune name or musical element indicated by the phrase 'Air 26: Talarire.'",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2556",
+      "category": "5",
+      "explanation": "The mention of leaving the table indicates an exit.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2557",
+      "category": "8",
+      "explanation": "The 'III COUPLET' suggests a musical component or a section of a song.",
+      "stgdir": "III COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2558",
+      "category": "12",
+      "explanation": "The stage direction shows the addressee of a speech or action, indicating an address to Barberin.",
+      "stgdir": "\u00c0 Barberin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2559",
+      "category": "12",
+      "explanation": "The stage direction shows the addressee of a speech or action, indicating an address to Spartacus.",
+      "stgdir": "\u00c0 Spartacus.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9244.843482971191,
+  "model": "gpt-4o"
+}

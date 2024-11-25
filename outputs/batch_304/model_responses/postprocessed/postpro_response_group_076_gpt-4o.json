@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "760",
+      "category": "0",
+      "explanation": "The character is performing an action by being in a kneeling position. This aligns with the general category of character action.",
+      "stgdir": "Il est \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "10",
+      "explanation": "The stage direction describes a ghost taking a sword from a character, which involves interaction with an object.",
+      "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "0",
+      "explanation": "The character is performing an action by ringing a bell, which is classified under general character actions.",
+      "stgdir": "Il sonne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "11",
+      "explanation": "The stage direction describes a change in the setting on the stage, which fits under the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "6",
+      "explanation": "This describes a non-verbal interaction where one character disrupts another's coat, which fits under character interaction.",
+      "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "6",
+      "explanation": "This describes a non-verbal interaction between characters where one approaches another and interacts with her carriage, fitting the interaction category.",
+      "stgdir": "G\u00e9ronte s'approcha de la Dame, et lev\u00e9 sa cal\u00e8che.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "0",
+      "explanation": "The character is performing an action by falling at someone's feet, which is classified under general character actions.",
+      "stgdir": "Il tombe \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "5",
+      "explanation": "The character exits the stage quietly, which fits under the exit category.",
+      "stgdir": "Il rentre sur la pointe des pieds.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "0",
+      "explanation": "The character is performing an action by feeling or examining themselves, which matches the general category of character actions.",
+      "stgdir": "Se t\u00e2tant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "12",
+      "explanation": "This indicates the direction of a speech towards a character named Marthon, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Marthon.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9159.718036651611,
+  "model": "gpt-4o"
+}

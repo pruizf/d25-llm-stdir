@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2650",
+      "category": "10",
+      "explanation": "The stage direction involves a character interacting with an object, specifically a mask, which falls under the category of 'object'.",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2651",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where one character looks at another, fitting the 'interaction' category.",
+      "stgdir": "- Il la regarde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2652",
+      "category": "7",
+      "explanation": "The phrase 'Revenant \u00e0 elle' suggests a movement back to a previous state or position, classifying it as 'movement'.",
+      "stgdir": "Revenant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2653",
+      "category": "12",
+      "explanation": "The stage direction indicates the character to whom the action or speech is directed, thus falling under 'toward'.",
+      "stgdir": "\u00c0 Madame Mondor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2654",
+      "category": "3",
+      "explanation": "The direction involves singing which describes the manner of delivery, placing it in the 'delivery' category.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2655",
+      "category": "9",
+      "explanation": "This is a long stage direction with narrative quality, detailing several actions which often classify as 'narration'.",
+      "stgdir": "Qui connait le prix des moments, va fermer la porte avec un doigt de verrous, fait un petit saut de caract\u00e8re ; et sans autre pr\u00e9ambule, dit au Vicomte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2656",
+      "category": "8",
+      "explanation": "The word 'Duo' suggests a musical element, indicating that a song or musical number is involved, classifying it as 'music'.",
+      "stgdir": "Duo.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2657",
+      "category": "10",
+      "explanation": "This stage direction involves handling an object (bottles), making it fall under the 'object' category.",
+      "stgdir": "Il prend une autre bouteille sous la table et met celle qui est vide \u00e0 la place, sans que Boileau s'en aper\u00e7oive.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2658",
+      "category": "12",
+      "explanation": "The direction specifies the addressees, referred to as 'ses gardes', making it a clear example of the 'toward' category.",
+      "stgdir": "\u00c0 ses gardes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2659",
+      "category": "7",
+      "explanation": "The stage direction involves the characters moving away from a given point, placing it in the 'movement' category.",
+      "stgdir": "Narbas et Eurycl\u00e8s s'\u00e9loignent un peu.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 9819.268465042114,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1460",
+      "category": "9",
+      "explanation": "The stage direction 'Sons indistincts' refers to sounds, which provides a narrative element intended for readers or the audience about the scene's atmosphere.",
+      "stgdir": "Sons indistincts.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1461",
+      "category": "12",
+      "explanation": "'\u00c0 Hortensius' indicates the addressee of a speech or action, categorizing it as 'toward'.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1462",
+      "category": "10",
+      "explanation": "This stage direction describes interaction with an object\u2014the presentation of a letter\u2014which is why it fits the 'object' category.",
+      "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1463",
+      "category": "6",
+      "explanation": "'Il le prend par la main' describes non-verbal interaction between characters, categorizing it as 'interaction'.",
+      "stgdir": "Il le prend par la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1464",
+      "category": "5",
+      "explanation": "'Les porteurs se retirent' involves characters exiting the stage, thus belongs to the 'exit' category.",
+      "stgdir": "Les porteurs se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1465",
+      "category": "10",
+      "explanation": "The stage direction 'Bernard prend le portefeuille' involves handling an object, thus categorized under 'object'.",
+      "stgdir": "Bernard prend le portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1466",
+      "category": "5",
+      "explanation": "'Il sort en courant' describes a character exiting the stage, categorized under 'exit'.",
+      "stgdir": "Il sort en courant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1467",
+      "category": "8",
+      "explanation": "'AIR : Des Pendus' indicates a musical element, as it specifies a tune name, fitting the 'music' category.",
+      "stgdir": "AIR : Des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1468",
+      "category": "6",
+      "explanation": "The action 'En embrassant Monsieur Devaux' describes non-verbal interaction, specifically a gesture of affection or greeting, fitting the 'interaction' category.",
+      "stgdir": "En embrassant Monsieur Devaux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1469",
+      "category": "10",
+      "explanation": "'On offre des pr\u00e9sents' involves giving and receiving objects, hence categorizing it under 'object'.",
+      "stgdir": "On offre des pr\u00e9sents.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 8558.152198791504,
+  "model": "gpt-4o"
+}

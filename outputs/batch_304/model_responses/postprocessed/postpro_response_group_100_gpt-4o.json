@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1000",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Idamir' indicates the addressee of a speech or action, classifying it under the 'toward' category.",
+      "stgdir": "\u00c0 Idamir.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1001",
+      "category": "5",
+      "explanation": "The stage direction 'Elle s'en va avec Henriette' describes a character exiting the stage, hence fitting the 'exit' category.",
+      "stgdir": "Elle s'en va avec Henriette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1002",
+      "category": "10",
+      "explanation": "The stage direction 'Il met sa perruque' involves interaction with an object, which is the wig, classifying it under the 'object' category.",
+      "stgdir": "Il met sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1003",
+      "category": "8",
+      "explanation": "The stage direction 'AIR Le bruit des ar~c~' refers to a tune or music, and is classified under the 'music' category.",
+      "stgdir": "AIR Le bruit des ar~c~.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1004",
+      "category": "8",
+      "explanation": "The stage direction 'Troisi\u00e8me couplet' implies a part of a song or music piece, fitting it under the 'music' category.",
+      "stgdir": "Troisi\u00e8me couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1005",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Abramane' indicates the addressee of a speech or action, classifying it under the 'toward' category.",
+      "stgdir": "\u00c0 Abramane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1006",
+      "category": "1",
+      "explanation": "The stage direction 'Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :' involves a violent action ('fait b\u00e2tonner'), which qualifies it under the 'aggression' category.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1007",
+      "category": "8",
+      "explanation": "The stage direction 'Air. Un inconnu pour vos charmes soupire.' refers to a song or music, placing it under the 'music' category.",
+      "stgdir": "Air. Un inconnu pour vos charmes soupire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1008",
+      "category": "10",
+      "explanation": "The stage direction 'Elle ouvre le secr\u00e9taire.' involves interaction with an object, which is the secretary desk, classifying it under the 'object' category.",
+      "stgdir": "Elle ouvre le secr\u00e9taire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1009",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Oh ! Que nenni.' refers to a musical piece or tune, categorizing it under the 'music' category.",
+      "stgdir": "AIR : Oh ! Que nenni.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7999.097585678101,
+  "model": "gpt-4o"
+}

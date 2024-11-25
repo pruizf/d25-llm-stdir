@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "160",
+      "category": "5",
+      "explanation": "The stage direction 'Il sort par la droite. La sc\u00e8ne demeure vide.' indicates that a character exits the stage, fitting the definition of the 'exit' category.",
+      "stgdir": "Il sort par la droite. La sc\u00e8ne demeure vide.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "0",
+      "explanation": "The stage direction 'Bis des deux vers.' suggests a repetition or encore, which is a general action not fitting other specific categories.",
+      "stgdir": "Bis des deux vers.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "7",
+      "explanation": "The stage direction 'Il fait six pas.' describes movement without indicating entrance or exit, aligning it with the 'movement' category.",
+      "stgdir": "Il fait six pas.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "6",
+      "explanation": "The stage direction 'Il l'aide \u00e0 d\u00e9poser le plateau.' involves helping someone, which is a non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Il l'aide \u00e0 d\u00e9poser le plateau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Mademoiselle Beaulieu.' indicates the addressee of an action or speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Mademoiselle Beaulieu.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "0",
+      "explanation": "The stage direction 'Il montre ses yeux poch\u00e9s.' involves showing, an action that doesn't fit other categories, so it falls under 'action.'",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Quand je tiens de ce jus d'Octobre.' mentions a tune name, which fits the 'music' category.",
+      "stgdir": "Air : Quand je tiens de ce jus d'Octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "8",
+      "explanation": "Similar to the previous, 'Air : Moi qui veux m'instruire.' is mentioning a tune name and fits the 'music' category.",
+      "stgdir": "Air : Moi qui veux m'instruire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "0",
+      "explanation": "The stage direction 'Elle regarde les fleurs.' involves looking at something, a general action that doesn't fit the other categories, thus fitting 'action.'",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "8",
+      "explanation": "'AIR : Du Grand Cond\u00e9.' is indicating a specific tune name, making it fall under the 'music' category.",
+      "stgdir": "AIR : Du Grand Cond\u00e9.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10173.757314682007,
+  "model": "gpt-4o"
+}

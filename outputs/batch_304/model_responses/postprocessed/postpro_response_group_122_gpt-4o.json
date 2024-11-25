@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1220",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', indicating it is a tune name or a music description.",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1221",
+      "category": "10",
+      "explanation": "The stage direction involves presenting a letter, which involves interaction with an object.",
+      "stgdir": "En lui pr\u00e9sentant la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1222",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Dorval' indicates the person to whom something is addressed or directed.",
+      "stgdir": "\u00c0 Dorval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1223",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 la Comtesse' indicates the person to whom something is addressed or directed.",
+      "stgdir": "\u00c0 la Comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1224",
+      "category": "9",
+      "explanation": "The stage direction describes a sequence of actions or movements with Joseph going near Nicod\u00e8me, which has a narrative quality.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1225",
+      "category": "5",
+      "explanation": "The stage direction 'Th\u00e9odat se retire' indicates that a character exits the stage.",
+      "stgdir": "Th\u00e9odat se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1226",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating it is a tune name or a music description.",
+      "stgdir": "AIR : La bonne aventure, \u00f4 gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1227",
+      "category": "1",
+      "explanation": "The stage direction 'Ils se jettent tous sur le Pr\u00e9sident' indicates an aggressive action as it describes a violent or forceful interaction.",
+      "stgdir": "Ils se jettent tous sur le Pr\u00e9sident.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1228",
+      "category": "6",
+      "explanation": "The stage direction 'Isolan se tait' indicates a non-verbal interaction through silence.",
+      "stgdir": "Isolan se tait.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1229",
+      "category": "10",
+      "explanation": "The stage direction describes a character handing over and other characters placing laurels and other items on winners, indicating interaction with objects.",
+      "stgdir": "Oriane donne au chef du Parti vaincu une couronne de lauriers et myrte de fleuri ; et les nymphes, des couronnes de laurier aux autres vainqueurs.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 10790.74239730835,
+  "model": "gpt-4o"
+}

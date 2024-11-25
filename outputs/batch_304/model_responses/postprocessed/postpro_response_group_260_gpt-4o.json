@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2600",
+      "category": "6",
+      "explanation": "The character is arranging flowers in her hair while looking into a stream. This implies a non-verbal interaction with the flowers, fitting the interaction category.",
+      "stgdir": "Elle semble se mirer dans un ruisseau en arrangeant les fleurs dans ses cheveux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2601",
+      "category": "6",
+      "explanation": "This stage direction describes the characters approaching Dormel and embracing him, as well as Sophie adjusting a ligature. These non-verbal interactions fit the interaction category.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2602",
+      "category": "0",
+      "explanation": "The character is seeing another character, Maximin. This is a general action of observation and fits the action category.",
+      "stgdir": "Voyant Maximin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2603",
+      "category": "12",
+      "explanation": "The stage direction indicates to whom the next spoken lines are addressed, fitting the toward category.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2604",
+      "category": "3",
+      "explanation": "The direction indicates the manner of delivery, in this case '\u00c0 mi-voix' (in a low voice), fitting the delivery category.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2605",
+      "category": "10",
+      "explanation": "The character takes and reads an item, indicating interaction with an object, thus fitting the object category.",
+      "stgdir": "Il l'\u00f4te et lit :",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2606",
+      "category": "6",
+      "explanation": "The character is showing Florange. This fits the interaction category because it involves non-verbal interaction implying pointing or indicating a person.",
+      "stgdir": "Il montre Florange.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2607",
+      "category": "7",
+      "explanation": "The character is jumping, which is a movement action, fitting the movement category.",
+      "stgdir": "Il saute.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2608",
+      "category": "10",
+      "explanation": "The character is reading a note. This involves interaction with an object, fitting the object category.",
+      "stgdir": "Il lit un des billets que Livie lui a rendus.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2609",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressees of the upcoming speech, which fits the toward category.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9582.98659324646,
+  "model": "gpt-4o"
+}

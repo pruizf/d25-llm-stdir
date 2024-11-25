@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "320",
+      "category": "10",
+      "explanation": "The action of putting something in a pocket involves interacting with an object, therefore it falls under the 'object' category.",
+      "stgdir": "Il le met dans sa poche de c\u00f4t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "0",
+      "explanation": "The replacement of armed slaves with unarmed slaves is a general character action, best fitting the 'action' category.",
+      "stgdir": "Les Esclaves arm\u00e9s sont remplac\u00e9s par les esclaves sans armes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "7",
+      "explanation": "The action of approaching someone involves movement, aligning it with the 'movement' category.",
+      "stgdir": "Il s'approche de son p\u00e8re.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "12",
+      "explanation": "Indicates the direction of speech towards Alvar\u00e8s, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Alvar\u00e8s.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "12",
+      "explanation": "Indicates the direction of speech towards Euph\u00e9mon fils, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "3",
+      "explanation": "Continuing to speak is related to the manner of delivering dialogue, thus fitting the 'delivery' category.",
+      "stgdir": "Il continue \u00e0 parler.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "8",
+      "explanation": "The mention of 'Air Marche Fran\u00e7aise' refers to a musical tune, categorizing it under 'music'.",
+      "stgdir": "Air Marche Fran\u00e7aise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "9",
+      "explanation": "The description includes a sequence of actions and has a narrative quality, fitting the 'narration' category.",
+      "stgdir": "Les Toscans attaquent le pont d\u00e9fendu par le seul Horace, et que la hache des Romains fait bient\u00f4t \u00e9crouler dans le Tibre. Le h\u00e9ros s'y pr\u00e9cipite apr\u00e8s les ennemis , qu'il a luiseul arr\u00eat\u00e9s.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "3",
+      "explanation": "The term 'Solennel' describes the manner or tone of delivery, thus it belongs in the 'delivery' category.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "6",
+      "explanation": "The action of shaking someone's hand stronger is a non-verbal interaction, therefore it belongs to the 'interaction' category.",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 5952.786922454834,
+  "model": "gpt-4o"
+}

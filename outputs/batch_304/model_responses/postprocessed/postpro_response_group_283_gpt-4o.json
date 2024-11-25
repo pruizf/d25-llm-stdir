@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2830",
+      "category": "10",
+      "explanation": "Describes the action of pulling out an object, which falls under interaction with an object.",
+      "stgdir": "Il en tire un \u00e9norme.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2831",
+      "category": "3",
+      "explanation": "Indicates the manner of delivery or expression, referring to the character showing satisfaction.",
+      "stgdir": "Avec satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2832",
+      "category": "6",
+      "explanation": "Involves physical interaction between characters through hand-holding.",
+      "stgdir": "Il prend la main de Colombine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2833",
+      "category": "0",
+      "explanation": "General character action of showing something to someone, in this case, the 'lot'.",
+      "stgdir": "Il lui fait voir le lot.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2834",
+      "category": "11",
+      "explanation": "Describes a part of the setting, which is a feature of the set (soupirail).",
+      "stgdir": "Par le soupirail.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2835",
+      "category": "10",
+      "explanation": "Character interaction with an object, in this case showing a culotte (piece of clothing).",
+      "stgdir": "Il montre une culotte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2836",
+      "category": "12",
+      "explanation": "Indicates the character to whom an action or speech is directed, in this case 'Delval'.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2837",
+      "category": "8",
+      "explanation": "Refers to a tune name used during the play, indicated by the word 'AIR'.",
+      "stgdir": "AIR : Jupin d\u00e8s le matin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2838",
+      "category": "8",
+      "explanation": "Refers to a musical element, a tune indicated by the word 'Air'.",
+      "stgdir": "Air : Ciel ! l'Univers va-t-il donc se dissoudre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2839",
+      "category": "11",
+      "explanation": "Describes the setting of the scene, including the positioning of characters and scenery.",
+      "stgdir": "Le th\u00e9\u00e2tre est une suite de rochers ; on y voit Leucippe retenu, sans que ses liens paraissent. Il est debout, appuy\u00e9, dans l'endroit le plus en vue.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 8410.79068183899,
+  "model": "gpt-4o"
+}

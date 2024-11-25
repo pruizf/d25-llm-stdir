@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "840",
+      "category": "6",
+      "explanation": "The action 'jette aux pieds' (throws himself at the feet) describes a physical non-verbal interaction with another character.",
+      "stgdir": "Il se jette aux pieds de Sophie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "841",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Soliman' indicates the addressee of the speech or action, which fits under the 'toward' category.",
+      "stgdir": "\u00c0 Soliman.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "842",
+      "category": "6",
+      "explanation": "The action 'se regardent' (look at each other) describes a non-verbal interaction between two characters.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "843",
+      "category": "5",
+      "explanation": "The action 'rentre dans la maison' (enters the house) describes an exit from the stage, which fits the 'exit' category as it implies leaving the current scene to move inside.",
+      "stgdir": "Sophar rentre dans la maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "844",
+      "category": "9",
+      "explanation": "The phrase describes an auditory event ('coup de feu' or gunshot), which falls under narration due to its narrative quality.",
+      "stgdir": "On entend un coup de feu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "845",
+      "category": "3",
+      "explanation": "The action 's'\u00e9crie' (exclaims) relates to a vocal expression of emotion, fitting into the 'delivery' category.",
+      "stgdir": "Elle lit s'\u00e9crie :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "846",
+      "category": "10",
+      "explanation": "The action 'va le chercher' (goes to fetch it) involves interacting with an object but without further specificity it qualifies generally under the 'object' category.",
+      "stgdir": "Il va le chercher.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "847",
+      "category": "6",
+      "explanation": "The phrase 'On lui pr\u00e9sente les deux l\u00e9vriers' (The two greyhounds are presented to him) involves a non-verbal interaction involving the presentation of items (in this case, dogs) to a character.",
+      "stgdir": "On lui pr\u00e9sente les deux l\u00e9vriers.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "848",
+      "category": "7",
+      "explanation": "The action 's'approche' (approaches) describes a character movement without indication of entrance or exit.",
+      "stgdir": "Robespierre s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "849",
+      "category": "0",
+      "explanation": "The action 'tombent \u00e0 genoux' (fall to their knees) is considered a general action as it involves a change in posture, fitting the 'action' category.",
+      "stgdir": "Joseph et Victorine tombent \u00e0 genoux.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 11524.88899230957,
+  "model": "gpt-4o"
+}

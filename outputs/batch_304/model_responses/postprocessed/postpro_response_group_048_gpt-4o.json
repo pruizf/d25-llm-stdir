@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "480",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', which indicates it is related to music. Therefore, it falls under the music category.",
+      "stgdir": "Air 84 : De quoi vous plaignez-vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "481",
+      "category": "10",
+      "explanation": "'Donnant une lettre' describes an interaction involving handing over an object (the letter), which fits the object category.",
+      "stgdir": "Donnant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "482",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of interactions involving characters and objects (the diamond and the money). It provides detailed actions and dialogue context, fitting the narration category.",
+      "stgdir": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "483",
+      "category": "3",
+      "explanation": "The phrase 'Une col\u00e8re, en \u00e9clairs, passe dans les yeux de l'\u00e9v\u00eaque' indicates an expression of anger or emotion, which falls under the delivery category.",
+      "stgdir": "Une col\u00e8re, en \u00e9clairs, passe dans les yeux de l'\u00e9v\u00eaque ; mais il se contient jusqu'aux derni\u00e8res paroles de",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "484",
+      "category": "2",
+      "explanation": "'Ariste \u00e0 part' indicates that a character is speaking aside or addressing the audience directly, fitting the aparte category.",
+      "stgdir": "Ariste \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "485",
+      "category": "8",
+      "explanation": "The mention of 'Strophe VII' suggests a reference to music or song structure, aligning with the music category.",
+      "stgdir": "Strophe VII.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "486",
+      "category": "0",
+      "explanation": "'Apr\u00e8s un silence...' indicates a pause or a passive action, which falls under the general action category as none of the other categories specifically fit.",
+      "stgdir": "Apr\u00e8s un silence...",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "487",
+      "category": "6",
+      "explanation": "'Apercevant Mademoiselle Damour' involves noticing or perceiving another character, which is a non-verbal interaction.",
+      "stgdir": "Apercevant Mademoiselle Damour.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "488",
+      "category": "9",
+      "explanation": "This is a long stage direction that describes a complex sequence of movements and interactions, including entrances and exits, which are narratively described.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "489",
+      "category": "11",
+      "explanation": "The description 'Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables' sets up the stage setting or atmosphere, which falls under the setting category.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 12388.928890228271,
+  "model": "gpt-4o"
+}

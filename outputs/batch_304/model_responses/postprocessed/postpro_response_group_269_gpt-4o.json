@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2690",
+      "category": "0",
+      "explanation": "The stage direction describes an action where the character is checking time by watching their watch, which is a general action.",
+      "stgdir": "Regardant sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2691",
+      "category": "11",
+      "explanation": "The stage direction describes a setting, indicating the location as on the bridge of the character's palace.",
+      "stgdir": "Il est sur le pont de son palais.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2692",
+      "category": "8",
+      "explanation": "The stage direction indicates a musical element, specifying the eighth and final verse, which suggests musical context.",
+      "stgdir": "Huiti\u00e8me et dernier Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2693",
+      "category": "10",
+      "explanation": "The stage direction describes an interaction with an object where something is given, fitting the category of handling an object.",
+      "stgdir": "Il la donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2694",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of a character named Ad\u00e8le onto the stage.",
+      "stgdir": "Ad\u00e8le para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2695",
+      "category": "1",
+      "explanation": "The stage direction describes an aggressive action where Don Juan gives a slap, fitting into violent action.",
+      "stgdir": "Don Juan lui donne un soufflet.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2696",
+      "category": "9",
+      "explanation": "The stage direction provides a narrative quality, detailing deliberations and a potential conflict resolving through prudence.",
+      "stgdir": "Les d\u00e9lib\u00e9rations des Princes, qui s'ensuivirent pour ce sujet, furent interrompues par une querelle qui s'allait vivement allumer entre l'oncle paternel de la Reine et Horuestat ; puissant Prince dans le Royaume, sans la prudence de Leque, qui en assoupit les premiers feux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2697",
+      "category": "0",
+      "explanation": "The stage direction describes a general action where a character named Bertram rises or stands up.",
+      "stgdir": "Bertram surgit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2698",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of an action or speech, directing attention to Ant\u00e9nor.",
+      "stgdir": "\u00c0 Ant\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2699",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of an action or speech, directing attention toward the third Lackey.",
+      "stgdir": "Au troisi\u00e8me Laquais.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9520.420789718628,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2640",
+      "category": "6",
+      "explanation": "The stage direction 'Regardant Alfred.' implies that the character is looking at Alfred, which falls under non-verbal character interaction.",
+      "stgdir": "Regardant Alfred.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2641",
+      "category": "4",
+      "explanation": "The stage direction 'Lucidor arrive.' indicates that Lucidor is entering the scene, fitting the entrance category.",
+      "stgdir": "Lucidor arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2642",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Antoinette.' shows that someone is speaking or directing speech towards Antoinette, fitting the toward category.",
+      "stgdir": "\u00c0 Antoinette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2643",
+      "category": "3",
+      "explanation": "The direction 'Il chante en se promenant :' involves the character singing while walking, which relates to the delivery manner of the speech or action.",
+      "stgdir": "Il chante en se promenant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2644",
+      "category": "10",
+      "explanation": "The direction 'Il appuie en lisant.' involves leaning while reading, which is interaction with an object (a book) and thus fits the object category.",
+      "stgdir": "Il appuie en lisant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2645",
+      "category": "8",
+      "explanation": "The stage direction includes 'Air : Mon P\u00e8re, je viens devant vous.' which is a tune name and relates to music, fitting the music category.",
+      "stgdir": "Air : Mon P\u00e8re, je viens devant vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2646",
+      "category": "11",
+      "explanation": "The direction 'Le th\u00e9\u00e2tre repr\u00e9sente la biblioth\u00e8que d'Almaviva.' is a description of the stage setting or play location, fitting the setting category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la biblioth\u00e8que d'Almaviva.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2647",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : On n'entend plus le bruit des armes' is a tune name, indicating a musical element, fitting the music category.",
+      "stgdir": "AIR : On n'entend plus le bruit des armes",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2648",
+      "category": "12",
+      "explanation": "The direction '[\u00c0 Sarcide].' indicates that a speech or action is directed towards Sarcide, fitting the toward category.",
+      "stgdir": "[\u00c0 Sarcide].",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2649",
+      "category": "8",
+      "explanation": "The direction 'AIR. Sans le savoir.' denotes a musical tune name, making it fall under the music category.",
+      "stgdir": "AIR. Sans le savoir.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9535.334825515747,
+  "model": "gpt-4o"
+}

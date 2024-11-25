@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "640",
+      "category": "8",
+      "explanation": "The word 'pr\u00e9lude' indicates a musical activity, hence this stage direction is classified under music.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "9",
+      "explanation": "The stage direction is a reference, likely a biblical one, and provides context or narrative information rather than describing an action or movement on stage.",
+      "stgdir": "(Gen. XXII, 17 et 18).",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "4",
+      "explanation": "The phrase 'Le Comte para\u00eet' signifies an entrance of the character, The Count, onto the stage.",
+      "stgdir": "Le Comte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "6",
+      "explanation": "The phrase 'Tout accourt \u00e0 sa voix' suggests characters moving in response to someone's voice, indicating a form of non-verbal interaction.",
+      "stgdir": "Tout accourt \u00e0 sa voix.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "0",
+      "explanation": "The verb 'se l\u00e8ve' (stands up) describes an action of the character, though it doesn't fit other specific categories better.",
+      "stgdir": "Il se l\u00e8ve de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "3",
+      "explanation": "The phrase '\u00c0 demi-voix' refers to how something is being said, which relates to the manner of delivery.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "7",
+      "explanation": "The direction 'Elles traversent toutes deux' indicates movement, as it describes characters crossing or passing somewhere on stage.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "0",
+      "explanation": "The action 'Elle joint les mains' involves a general character action of joining hands without a specific category fit.",
+      "stgdir": "Elle joint les mains.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "0",
+      "explanation": "The action 'On frappe \u00e0 la porte au fond' involves knocking on a door, an action not fitting other specific categories.",
+      "stgdir": "On frappe \u00e0 la porte au fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "6",
+      "explanation": "The phrase 'Paquette lui serrant la main' describes non-verbal interaction where one character is shaking another's hand.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 10461.572408676147,
+  "model": "gpt-4o"
+}

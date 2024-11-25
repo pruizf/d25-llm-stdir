@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1700",
+      "category": "8",
+      "explanation": "The direction starts with 'Air', indicating it refers to a musical piece, which fits the music category.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1701",
+      "category": "9",
+      "explanation": "The direction describes a character hearing another one, which gives it a narrative quality as it indicates a sound perception.",
+      "stgdir": "Il entend La Marquise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1702",
+      "category": "9",
+      "explanation": "This is a long stage direction with narrative elements describing multiple actions and entries, creating a scene narrative.",
+      "stgdir": "Valentin sort. On voit des hommes qui portent des torches, r\u00f4der \u00e0 travers la for\u00eat. Entrent la baronne et l'abb\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1703",
+      "category": "0",
+      "explanation": "The direction describes a general action of kneeling, which fits the action category as it doesn't specify interaction, movement, or other precise categories.",
+      "stgdir": "Il se met \u00e0 genoux devant elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1704",
+      "category": "10",
+      "explanation": "The action is presenting an object (an \u00e9p\u00e9e), which clearly falls into the object interaction category.",
+      "stgdir": "Il lui pr\u00e9sente son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1705",
+      "category": "12",
+      "explanation": "This indicates who the subsequent speech or action is directed toward, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Aldamon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1706",
+      "category": "8",
+      "explanation": "The direction again starts with 'Air', indicating it is related to music, categorizing it as music.",
+      "stgdir": "Air : Un Pr\u00e9fet beau, bien fait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1707",
+      "category": "7",
+      "explanation": "The action described is 's'arr\u00eatant', which means stopping, indicating a character movement change.",
+      "stgdir": "S'arr\u00eatant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1708",
+      "category": "8",
+      "explanation": "The direction starts with 'AIR', which is consistent with music, indicating a musical piece.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1709",
+      "category": "0",
+      "explanation": "The direction describes the action of drinking, which is a general action fitting the action category.",
+      "stgdir": "Ils boivent tous trois.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 9952.01301574707,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1020",
+      "category": "6",
+      "explanation": "This stage direction involves a character feigning an interaction (mistaken identity), which is a non-verbal character interaction.",
+      "stgdir": "Blondel feint de prendre *B\u00e9atrix pour son petit gar\u00e7on, Antonio l'emm\u00e8ne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1021",
+      "category": "12",
+      "explanation": "This direction specifies the addressee of the upcoming dialogue, indicating toward whom the speech is directed.",
+      "stgdir": "\u00c0 Clim\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1022",
+      "category": "6",
+      "explanation": "Interrogating is a form of interaction between characters, involving communication and engagement.",
+      "stgdir": "Il interroge Zinca.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1023",
+      "category": "11",
+      "explanation": "This describes a change in the stage setting, showing a different location or arrangement on the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre se change et repr\u00e9sente l'appartement d'Isabelle, on y voit un lit tout garni.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1024",
+      "category": "3",
+      "explanation": "Singing involves the manner of voice delivery, which fits under vocal expression or delivery.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1025",
+      "category": "12",
+      "explanation": "Similar to 1021, this direction designates the addressee for the subsequent dialogue or action.",
+      "stgdir": "\u00c0 Cendrillon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1026",
+      "category": "12",
+      "explanation": "This indicates a change in the focus of interaction or dialogue back towards another character.",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1027",
+      "category": "5",
+      "explanation": "It involves characters leaving the stage, which fits into the exiting category.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1028",
+      "category": "7",
+      "explanation": "Rising or standing abruptly indicates a movement of the character on the stage.",
+      "stgdir": "Se dressant brusquement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1029",
+      "category": "8",
+      "explanation": "The direction notes a tune or piece of music, which fits into the music category.",
+      "stgdir": "Air : R\u00e9veillez-vous.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 5494.222164154053,
+  "model": "gpt-4o"
+}

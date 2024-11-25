@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "820",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of actions and interactions involving multiple characters, and culminates in a resolution with a specific effect, fitting the narration category.",
+      "stgdir": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "6",
+      "explanation": "The action 'Regardant les fleurs' indicates looking at something, which is a non-verbal interaction with an object or the environment, fitting the interaction category.",
+      "stgdir": "Regardant les fleurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "10",
+      "explanation": "The action 'Elle le met \u00e0 son corsage' involves manipulating or interacting with an object, fitting the object category.",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "0",
+      "explanation": "The action 'Elle s'asseoit \u00e0 une table' describes a general character action of sitting down, fitting the action category.",
+      "stgdir": "Elle s'asseoit \u00e0 une table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "3",
+      "explanation": "The phrase 'Et comme tout bas' refers to the delivery manner, indicating that something is said quietly or in a low voice.",
+      "stgdir": "Et comme tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "825",
+      "category": "12",
+      "explanation": "The phrase 'Au Domestique' indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "Au Domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "826",
+      "category": "7",
+      "explanation": "The phrase 'Mouvement violent de monsieur Blaisy' indicates a violent movement without specifying any particular aggression, fitting the movement category.",
+      "stgdir": "Mouvement violent de monsieur Blaisy.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "827",
+      "category": "7",
+      "explanation": "The action 'Il s'arrache de leurs bras' describes a movement of breaking away or pulling out, fitting the movement category.",
+      "stgdir": "Il s'arrache de leurs bras.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "828",
+      "category": "5",
+      "explanation": "The action 'Ils sortent avec les valets et les flambeaux' describes characters exiting the stage, fitting the exit category.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "829",
+      "category": "8",
+      "explanation": "The phrase 'Air : Ami, qui l'aurait pu croire' specifies a tune or musical piece, fitting the music category.",
+      "stgdir": "Air : Ami, qui l'aurait pu croire.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8310.771703720093,
+  "model": "gpt-4o"
+}

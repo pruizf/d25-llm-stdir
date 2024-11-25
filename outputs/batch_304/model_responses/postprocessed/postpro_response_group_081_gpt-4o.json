@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "810",
+      "category": "10",
+      "explanation": "The stage direction involves a letter which is an object ('Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte'). It likely refers to handling or referencing an object.",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "811",
+      "category": "6",
+      "explanation": "'Le lui montrant' indicates a non-verbal interaction, where something is shown to another character, thus classifying it as interaction.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "812",
+      "category": "3",
+      "explanation": "'Elle rit' describes the delivery of emotion through laughter, fitting the category of delivery.",
+      "stgdir": "Elle rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "813",
+      "category": "0",
+      "explanation": "'Il lit la lettre de Damis' describes a character reading, which falls under general character action.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "814",
+      "category": "8",
+      "explanation": "Begins with 'Air', indicating it is a music stage direction referring to a tune name.",
+      "stgdir": "Air : Re\u00e7ois dans ton galetas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "815",
+      "category": "5",
+      "explanation": "'Elle part en riant' indicates a character exits the stage, fitting the exit category.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "816",
+      "category": "12",
+      "explanation": "'\u00c0 Illo et \u00e0 Tersky' indicates the addressees of speech or action, thus fitting the toward category.",
+      "stgdir": "\u00c0 Illo et \u00e0 Tersky.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "817",
+      "category": "8",
+      "explanation": "Begins with 'AIR', indicating it is a music stage direction referring to a tune name.",
+      "stgdir": "AIR : L'amiti\u00e9 seule te s\u00e9duit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "818",
+      "category": "6",
+      "explanation": "Involves 'La Haine et l'Envie s'embrassent', indicating a non-verbal interaction between characters.",
+      "stgdir": "La Haine et l'Envie s'embrassent, en rechignant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "819",
+      "category": "10",
+      "explanation": "Involves an object ('un demi Cercle, une canne') and describes actions taken with these objects, fitting the object category.",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 9463.43445777893,
+  "model": "gpt-4o"
+}

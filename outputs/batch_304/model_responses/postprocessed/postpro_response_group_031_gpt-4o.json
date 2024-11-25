@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "310",
+      "category": "3",
+      "explanation": "The stage direction describes a vocal expression of emotion, indicating a moment of shared laughter among characters, thus fitting the delivery category.",
+      "stgdir": "Ils rient tous trois.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "311",
+      "category": "5",
+      "explanation": "The stage direction 'Tous s'en vont' indicates all characters are leaving the stage, matching the exit category.",
+      "stgdir": "Tous s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "312",
+      "category": "12",
+      "explanation": "This direction indicates that speech or attention is directed towards 'Monsieur Argant', fitting the toward category.",
+      "stgdir": "\u00c0 Monsieur Argant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "313",
+      "category": "10",
+      "explanation": "This stage direction describes an interaction with an object (a hat and a paperweight), hence it falls under the object category.",
+      "stgdir": "Il couvre le presse-papier avec le chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "314",
+      "category": "3",
+      "explanation": "The direction 'Il crie' describes a manner of vocal expression which would involve raising one's voice, fitting the delivery category.",
+      "stgdir": "Il crie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "315",
+      "category": "12",
+      "explanation": "This direction shows that speech or attention is directed to the 'prince', thus fitting into the toward category.",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "316",
+      "category": "5",
+      "explanation": "'Le Roi et le Comte sortent' indicates the exit of these characters from the stage, fitting into the exit category.",
+      "stgdir": "Le Roi et le Comte sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "317",
+      "category": "11",
+      "explanation": "This is a detailed description of the stage setting, including elements like a mountain, temple, and view of the sea, making it a stage description.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un petit espace de terre aride et d\u00e9serte ; cet face est borde par des Montagnes d'une hauteur prodigieuse, dont la principale est le Mont \u00c6thna ; on voit a cot\u00e9 un petit Temple consacr\u00e9 \u00e0 Junon ; la mer paro\u00eet dans l'\u00e9loignement.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "318",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', suggesting it is indicating a musical cue or tune name, fitting the music category.",
+      "stgdir": "Air : De la petite Poste.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "319",
+      "category": "5",
+      "explanation": "'Il sort en toussant suivi par de Brie' indicates the main character exits the stage while coughing, followed by another character, making it an exit category.",
+      "stgdir": "Il sort en toussant suivi par de Brie.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 9018.638134002686,
+  "model": "gpt-4o"
+}

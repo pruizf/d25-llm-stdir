@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2700",
+      "category": "6",
+      "explanation": "The stage direction 'Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet' involves disarming someone, which indicates a form of non-verbal interaction.",
+      "stgdir": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2701",
+      "category": "9",
+      "explanation": "The stage direction 'Quatre fois' likely specifies an action or event being repeated multiple times, which fits a narrative quality.",
+      "stgdir": "Quatre fois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2702",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Mercure' indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2703",
+      "category": "8",
+      "explanation": "The stage direction 'Chanson' refers to music as it involves a song being part of the play.",
+      "stgdir": "Chanson",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2704",
+      "category": "1",
+      "explanation": "The stage direction 'Il se tue de ceux coups de poignards' involves a violent action, categorizing it under aggression as it describes a suicide.",
+      "stgdir": "Il se tue de ceux coups de poignards.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2705",
+      "category": "4",
+      "explanation": "The stage direction 'Il va pour entrer chez son Colonel' involves a character about to enter a place, fitting the 'entrance' category.",
+      "stgdir": "Il va pour entrer chez son Colonel.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2706",
+      "category": "3",
+      "explanation": "The stage direction 'En se regardant' refers to the manner of delivery as looking at oneself can imply reflection or emotional expression.",
+      "stgdir": "En se regardant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2707",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant Br\u00e9court' involves pointing or showing, indicating a non-verbal interaction.",
+      "stgdir": "Montrant Br\u00e9court.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2708",
+      "category": "12",
+      "explanation": "The stage direction 'Au gar\u00e7on qui porte le fauteuil' indicates the addressee or direction of an action or speech.",
+      "stgdir": "Au gar\u00e7on qui porte le fauteuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2709",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Clarine' indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Clarine.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9044.799327850342,
+  "model": "gpt-4o"
+}

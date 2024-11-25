@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2030",
+      "category": "0",
+      "explanation": "The stage direction suggests a character action related to listening or hearing.",
+      "stgdir": "Qui a entendu les trois derniers vers de Tib\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2031",
+      "category": "8",
+      "explanation": "The presence of 'AIR' indicates this is a music stage direction, referring to a specific tune or song.",
+      "stgdir": "AIR. Preuve de folie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2032",
+      "category": "9",
+      "explanation": "This stage direction describes a narrative scene involving music from the Argonauts and a visual triumph carrying the Golden Fleece, suitable for narration.",
+      "stgdir": "Chant des Argonautes, entendu dabord dans le lointain de la for\u00eat ; ils s'avancent en triomphe, et portent la Toison d'or.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2033",
+      "category": "6",
+      "explanation": "The direction describes a simultaneous action involving spoken words by multiple characters, indicating interaction.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2034",
+      "category": "11",
+      "explanation": "Involves the stage setting with a visual element of the sky opening and sound (voice) which is part of the setting description.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2035",
+      "category": "8",
+      "explanation": "Contains 'AIR', indicating the name of a song or tune related to music.",
+      "stgdir": "AIR : Ne v'la-t-i1 pas que j'aime ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2036",
+      "category": "5",
+      "explanation": "The phrase 'Elle sort avec Val\u00e8re' indicates a character exit.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2037",
+      "category": "8",
+      "explanation": "Begins with 'AIR', signifying this is a music-related stage direction naming a tune.",
+      "stgdir": "AIR. Ne m'entendez-vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2038",
+      "category": "12",
+      "explanation": "Indicates to whom the speech or action is directed ('\u00e0 Don Lope et \u00e0 Don Felix').",
+      "stgdir": "\u00c0 Don Lope et \u00e0 Don Felix.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2039",
+      "category": "0",
+      "explanation": "Describes general action of a group fleeing, suitable for the action category.",
+      "stgdir": "Le reste s'\u00e9tant mis en fuite.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8621.21319770813,
+  "model": "gpt-4o"
+}

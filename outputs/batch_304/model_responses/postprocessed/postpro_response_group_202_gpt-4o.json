@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2020",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Branle de Metz' indicates music, as it starts with 'Air'.",
+      "stgdir": "Air : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2021",
+      "category": "9",
+      "explanation": "The stage direction 'On entend un certain bruit' is narrative in describing a noise on stage.",
+      "stgdir": "On entend un certain bruit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2022",
+      "category": "3",
+      "explanation": "The stage direction 'D'un air de confiance' describes the delivery or expression of emotion.",
+      "stgdir": "D'un air de confiance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2023",
+      "category": "10",
+      "explanation": "The stage direction 'Elle ouvre la lettre' describes an interaction with an object (opening a letter).",
+      "stgdir": "Elle ouvre la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2024",
+      "category": "5",
+      "explanation": "The stage direction 'Mercure dispara\u00eet' indicates a character's exit from the stage.",
+      "stgdir": "Mercure dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2025",
+      "category": "8",
+      "explanation": "The stage direction 'Air : L'occasion fait le larron' indicates music, as it starts with 'Air'.",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2026",
+      "category": "5",
+      "explanation": "The stage direction 'La t\u00eate de Georges dispara\u00eet' suggests the exit, specifically of part of the character's presence.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2027",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Nous autre bons villageois' indicates music, as it starts with 'AIR'.",
+      "stgdir": "AIR. Nous autre bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2028",
+      "category": "0",
+      "explanation": "The stage direction '\u00c0pr\u00e8s avoir lu' refers to a general action involving reading.",
+      "stgdir": "\u00c0pr\u00e8s avoir lu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2029",
+      "category": "6",
+      "explanation": "The stage direction 'Elle lui tape dans une main' indicates non-verbal interaction between characters.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 8531.365633010864,
+  "model": "gpt-4o"
+}

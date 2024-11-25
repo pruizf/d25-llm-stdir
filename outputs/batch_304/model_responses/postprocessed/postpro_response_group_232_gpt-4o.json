@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2320",
+      "category": "6",
+      "explanation": "This stage direction describes a non-verbal interaction between characters, as it involves a character kissing another on the cheek, which is a physical gesture of affection or interaction.",
+      "stgdir": "Graindor l'embrasse sur une joue.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2321",
+      "category": "9",
+      "explanation": "This stage direction has a narrative quality as it describes a sequence of events involving multiple characters, including a marriage and subsequent actions. It serves to explain a series of plot developments rather than a single immediate stage action.",
+      "stgdir": "L\u00e9andre et Isabelle s'\u00e9pousent, puis se d\u00e9couvrent. Le gouverneur qui reconna\u00eet qu'il a \u00e9t\u00e9 tromp\u00e9, et que c'est sa femme qu'il vient de marier \u00e0 L\u00e9andre, apr\u00e8s les premiers emportements, consent d'en \u00e9pouser une autre, ratifie leur mariage, et ordonne la f\u00eate qui suit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2322",
+      "category": "6",
+      "explanation": "The stage direction describes an interaction where one character is physically touching another by squeezing the tips of the fingers, which is a non-verbal interaction.",
+      "stgdir": "Il lui serre les bouts des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2323",
+      "category": "10",
+      "explanation": "This direction involves a character's interaction with an object (a letter) as she opens it. It describes the action of breaking the seal of the letter, which is an object interaction.",
+      "stgdir": "Elle d\u00e9cachette la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2324",
+      "category": "4",
+      "explanation": "This stage direction indicates a character's entrance onto the stage, as 'entre' suggests the Baronne is entering the scene.",
+      "stgdir": "Entre La Baronne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2325",
+      "category": "3",
+      "explanation": "This stage direction describes an emotional delivery as the character is 'fondant en sanglots', meaning 'bursting into tears', which indicates an expression of emotion.",
+      "stgdir": "Fondant en sanglots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2326",
+      "category": "11",
+      "explanation": "This direction describes the stage setting, specifying that the theater represents the vestibule of the seraglio. It is about the visual depiction or location on stage.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le vestibule du s\u00e9rail.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2327",
+      "category": "10",
+      "explanation": "This stage direction describes the action of giving an object (an open package), which falls under object interaction.",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2328",
+      "category": "11",
+      "explanation": "Again, this direction is about staging, indicating that the theater represents Hilaire's house. It provides information about the play's setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la maison d'Hilaire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2329",
+      "category": "11",
+      "explanation": "This direction describes the stage setting, indicating that the theater represents a place for Medea's evocations. It deals with the description of the stage environment.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu destin\u00e9 aux \u00e9vocations de M\u00e9d\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 9822.587251663208,
+  "model": "gpt-4o"
+}

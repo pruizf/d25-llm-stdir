@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1340",
+      "category": "11",
+      "explanation": "This stage direction provides information about the setting and movement of characters on the stage, mentioning their positions and actions.",
+      "stgdir": "Cl\u00e9onte et Croquet restent dans une all\u00e9e du Th\u00e9\u00e2tre et Albert met Isabelle dehors, et enferme Clarice.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1341",
+      "category": "12",
+      "explanation": "The use of 'Aux mages' indicates a direction towards whom the action or dialogue is addressed, likely pointing out an interaction or speech direction.",
+      "stgdir": "Aux mages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1342",
+      "category": "2",
+      "explanation": "This direction describes a character performing an action privately or to himself, which fits the category of an 'aparte'.",
+      "stgdir": "Il se retire promptement, sort son mouchoir, et y confie l'esp\u00e9rance de la branche ain\u00e9e des comtes de Catso di Coulo.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1343",
+      "category": "5",
+      "explanation": "The stage direction 'Beno\u00eet sort' indicates that a character is exiting the stage.",
+      "stgdir": "Beno\u00eet sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1344",
+      "category": "0",
+      "explanation": "This is a general action, suggesting that the character continues an action previously initiated.",
+      "stgdir": "Elle continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1345",
+      "category": "6",
+      "explanation": "This is an interaction as it involves a character showing or indicating a particular object to another or the audience, using non-verbal communication.",
+      "stgdir": "En montrant le sac.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1346",
+      "category": "5",
+      "explanation": "The phrase 'Armide s'en va' signals that the character Armide exits the scene.",
+      "stgdir": "Armide s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1347",
+      "category": "7",
+      "explanation": "Describes character movement within the stage, specifically the action of colliding or bumping.",
+      "stgdir": "Elle se heurte encore.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1348",
+      "category": "10",
+      "explanation": "Involves an interaction with an object, in this case, the character touching their pocket.",
+      "stgdir": "Touchant son gousset.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1349",
+      "category": "11",
+      "explanation": "Provides a description of the stage setting, specifically indicating that the stage represents a public place.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une place publique.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 10486.707210540771,
+  "model": "gpt-4o"
+}

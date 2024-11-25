@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "730",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant la livr\u00e9e de Tronquoy.' describes an action involving perceiving or noticing something (the attire of Tronquoy), which is a form of non-verbal interaction.",
+      "stgdir": "Apercevant la livr\u00e9e de Tronquoy.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "731",
+      "category": "7",
+      "explanation": "This stage direction involves a character making several rounds in a room, which is an example of character movement.",
+      "stgdir": "Il fait plusieurs tours de chambre d'un air d\u00e9soeuvr\u00e9, puis il revient \u00e0 fa place.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "732",
+      "category": "11",
+      "explanation": "This stage direction describes the setting, indicating that the scene represents a vestibule ending with a garden.",
+      "stgdir": "La Sc\u00e8ne repr\u00e9sente un Vestibule, termin\u00e9 par un Jardin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "733",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air nouveau,' indicating a musical element or tune name, which fits under the music category.",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "734",
+      "category": "8",
+      "explanation": "Similar to the previous one, this stage direction starts with 'Air,' referencing a musical piece by Monsieur Doche.",
+      "stgdir": "Air : De Monsieur Doche.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "735",
+      "category": "10",
+      "explanation": "The stage direction 'Il donne les quatre rouleaux \u00e0 Milescas.' involves giving an object (the four rolls) to someone, which is an interaction with an object.",
+      "stgdir": "Il donne les quatre rouleaux \u00e0 Milescas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "736",
+      "category": "3",
+      "explanation": "This direction highlights the manner of delivery, emphasizing certain words, which fits under the category of delivery.",
+      "stgdir": "En pesant beaucoup sur ces derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "737",
+      "category": "2",
+      "explanation": "The phrase '\u00c0 part, apr\u00e8s avoir lu.' suggests an aside, as it involves a character acting alone or addressing the audience after reading something.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "738",
+      "category": "4",
+      "explanation": "The word 'ENTR\u00c9E' clearly indicates an entrance, specifically of various people interested in novelty.",
+      "stgdir": "ENTR\u00c9E de toutes sortes de personnes amoureuse de la nouveaut\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "739",
+      "category": "8",
+      "explanation": "Like earlier entries starting with 'AIR,' this stage direction refers to a musical piece, categorizing it under music.",
+      "stgdir": "AIR. Le bonheur de ma vie.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9007.037162780762,
+  "model": "gpt-4o"
+}

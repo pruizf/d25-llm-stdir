@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "230",
+      "category": "12",
+      "explanation": "The stage direction 'Au marquis' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "8",
+      "explanation": "The stage direction specifies an AIR (musical tune), which is related to music, fitting the 'music' category.",
+      "stgdir": "AIR du vaudeville de l'Avare.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "Starts with 'AIR' indicating it is the name of a tune, thus related to music, fitting the 'music' category.",
+      "stgdir": "AIR : J'en jurerais presque sur sa laideur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "3",
+      "explanation": "The term 'Fredonnant' refers to the delivery of lines with a particular vocal expression, fitting the 'delivery' category.",
+      "stgdir": "Fredonnant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "9",
+      "explanation": "This stage direction has a narrative quality describing an agreement between characters, fitting the 'narration' category.",
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "9",
+      "explanation": "This lengthy stage direction narrates a sequence of events, making it fit the 'narration' category.",
+      "stgdir": "Tout \u00e9tant dispos\u00e9, et le cur\u00e9 \u00e9tant arriv\u00e9 dans une cal\u00e8che a six chevaux qu'on avait envoy\u00e9e au devant de lui, il fut conduit \u00e0 son tr\u00f4ne. D\u00e8s qu'il fut assis, l'orateur lui pronon\u00e7a \u00e0 genoux une harangue dans le style de l'acad\u00e9mie, pleine de louanges, d'antith\u00e8ses, et de mots nouveaux. Le cur\u00e9 re\u00e7ut tous ces \u00e9loges avec l'air d'un homme qui sait bien qu'il en m\u00e9rite encore davantage ; car tout le monde n'est pas de l'humeur de notre reine***, qui hait les louanges autant qu'elle les m\u00e9rite. Apr\u00e8s la harangue, on ex\u00e9cuta le concert dont on vous envoie les paroles ; les choeurs all\u00e8rent \u00e0 merveille, et la c\u00e9r\u00e9monie finit par une grande pi\u00e8ce de vers poupeux, \u00e0 laquelle ni les assistants, ni le cur\u00e9, ni l'auteur, n'entendirent rien. Il faudrait avoir \u00e9t\u00e9 t\u00e9moin de cette f\u00eate pour en bien sentir l'agr\u00e9ment : les projets et les pr\u00e9paratifs de ces divertissements sont toujours agr\u00e9ables, l'ex\u00e9cution rarement bonne, et le r\u00e9cit souvent ennuyeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "8",
+      "explanation": "Describes the recommencement of a symphony, which is related to music, fitting the 'music' category.",
+      "stgdir": "La symphonie vive recommence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "6",
+      "explanation": "The '\u00c9change des cartes' involves non-verbal interaction between characters, fitting the 'interaction' category.",
+      "stgdir": "\u00c9change des cartes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "6",
+      "explanation": "Describes interaction with people helping to walk, which is non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "10",
+      "explanation": "Involves presenting letters and handling objects for a toilette, fitting the 'object' category.",
+      "stgdir": "Girolamo lui pr\u00e9sente plusieurs lettres puis va et vient dans l'appartement en pr\u00e9parant ce qu'il faut pour la toilette de son ma\u00eetre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 9205.163717269897,
+  "model": "gpt-4o"
+}

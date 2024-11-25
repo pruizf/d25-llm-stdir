@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2510",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of the speech or action, which is towards Val\u00e8re and Sophie, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Val\u00e8re et \u00e0 Sophie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2511",
+      "category": "10",
+      "explanation": "The action described involves an interaction with an object, specifically covering a log with a hat, which falls under the 'object' category.",
+      "stgdir": "Il couvre la b\u00fbche avec le chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2512",
+      "category": "11",
+      "explanation": "This direction describes a change in the stage setting, indicating the representation of a specific location, fitting the 'setting' category.",
+      "stgdir": "Tout dispara\u00eet. Le Th\u00e9\u00e2tre change. Il repr\u00e9sente l'int\u00e9rieur redoutable du ch\u00e2teau-fort des rois de la Bactriane",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2513",
+      "category": "10",
+      "explanation": "The action involves taking a manuscript, which is an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Elle prend le manuscrit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2514",
+      "category": "10",
+      "explanation": "This involves covering oneself, likely with clothing or an accessory, which is an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il se couvre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2515",
+      "category": "10",
+      "explanation": "The action is closing a window, which involves interacting with an object, fitting the 'object' category.",
+      "stgdir": "Elle ferme la fen\u00eatre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2516",
+      "category": "9",
+      "explanation": "This direction involves a pause in speech or action, described in a narrative manner, fitting the 'narration' category.",
+      "stgdir": "La Fontaine se tait un moment.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2517",
+      "category": "10",
+      "explanation": "The action of putting on shoes involves interacting with an object, fitting the 'object' category.",
+      "stgdir": "Il se chausse.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2518",
+      "category": "8",
+      "explanation": "The direction starts with 'AIR,' indicating a music piece or tune from 'Z\u00e9mire et Azor,' fitting the 'music' category.",
+      "stgdir": "AIR : De Z\u00e9mire et Azor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2519",
+      "category": "0",
+      "explanation": "The action of sitting in a chair is a general character action, fitting the 'action' category.",
+      "stgdir": "Il s'assied dans un fauteuil.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 8392.568111419678,
+  "model": "gpt-4o"
+}

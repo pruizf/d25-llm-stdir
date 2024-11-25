@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2470",
+      "category": "0",
+      "explanation": "The stage direction 'Ils boivent de nouveau' describes the action of drinking, which fits under the general action category.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2471",
+      "category": "6",
+      "explanation": "The stage direction 'En se retournant, elle aper\u00e7oit Don Juan sur le seuil de la porte' involves a non-verbal interaction as one character sees another character.",
+      "stgdir": "En se retournant, elle aper\u00e7oit Don Juan sur le seuil de la porte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2472",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant Nadine' involves a non-verbal interaction where one character is pointing to or showing another character.",
+      "stgdir": "Montrant Nadine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2473",
+      "category": "5",
+      "explanation": "The stage direction 'Il veut partir' implies an intention to exit the stage, fitting the 'exit' category.",
+      "stgdir": "Il veut partir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2474",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Vaudeville de l'Isle des femmes' refers to the name of a tune, falling under the music category.",
+      "stgdir": "AIR : Vaudeville de l'Isle des femmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2475",
+      "category": "4",
+      "explanation": "The stage direction 'La bonne fait entrer deux jeunes gens' describes characters entering the stage; hence, it belongs to the entrance category.",
+      "stgdir": "La bonne fait entrer deux jeunes gens.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2476",
+      "category": "10",
+      "explanation": "The stage direction 'Il pr\u00e9sente une cha\u00eene au roi' describes a character giving an object (a chain) to another character, fitting the object interaction category.",
+      "stgdir": "Il pr\u00e9sente une cha\u00eene au roi.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2477",
+      "category": "1",
+      "explanation": "The stage direction 'Les Dragons russes font une charge et d\u00e9livrent le Czar' suggests a violent or aggressive action, categorizing it under aggression.",
+      "stgdir": "Les Dragons russes font une charge et d\u00e9livrent le Czar.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2478",
+      "category": "9",
+      "explanation": "The stage direction provides a narrative explanation about a scene, highlighting actions and emotions without performing them, fitting under the narration category.",
+      "stgdir": "En cet endroit Clitandre doit \u00e0 Cidalise les plus tendres remerciements, et les lui fait. Comme on ne peut supposer qu'il y ait parmi nos lecteurs quelqu'un qui ne se soit, ou n'ait \u00e9t\u00e9 dans le cas d'en faire, ou d'en recevoir, ou de dire et d'entendre ces choses flatteuses et passionn\u00e9es que sugg\u00e8re l'amour reconnaissant, ou que dicte quelquefois la n\u00e9cessit\u00e9 d'\u00eatre poli, l'on supprimera ce que les deux amants se disent ici, et l'on ose croire que le lecteur a d'autant moins \u00e0 s'en plaindre, que l'on ne le prive que de quelques propos interrompus, qu'il aura plus de plaisir \u00e0 composer lui-m\u00eame d'apr\u00e8s ses sentiments qu'il n'en trouverait \u00e0 les lire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2479",
+      "category": "9",
+      "explanation": "The stage direction narrates the scene involving characters entertaining others with dances and songs, fitting the narration category.",
+      "stgdir": "Le fr\u00e8re du Malade imaginaire lui am\u00e8ne, pour le divertir, plusieurs \u00c9gyptiens et \u00c9gyptiennes, v\u00eatus en Mores, qui font des danses entrem\u00eal\u00e9es de chansons.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 21120.160579681396,
+  "model": "gpt-4o"
+}

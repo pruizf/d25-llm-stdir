@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2530",
+      "category": "5",
+      "explanation": "The stage direction 'Il va pour sortir' indicates that a character is about to exit, which matches category 5: exit.",
+      "stgdir": "Il va pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2531",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 L\u00e9ontine' specifies the addressee of a speech or action, which matches category 12: toward.",
+      "stgdir": "\u00c0 L\u00e9ontine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2532",
+      "category": "8",
+      "explanation": "The stage direction 'Air : J'ai fait souvent r\u00e9sonner ma Musette' refers to a tune name, which matches category 8: music.",
+      "stgdir": "Air : J'ai fait souvent r\u00e9sonner ma Musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2533",
+      "category": "7",
+      "explanation": "The stage direction 'Il remonte un peu' describes character movement on stage, which fits category 7: movement.",
+      "stgdir": "Il remonte un peu.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2534",
+      "category": "11",
+      "explanation": "The stage direction 'Un jardin' provides a setting description, which matches category 11: setting.",
+      "stgdir": "Un jardin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2535",
+      "category": "12",
+      "explanation": "The stage direction 'Au caporal' indicates the addressee of a speech, which matches category 12: toward.",
+      "stgdir": "Au caporal.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2536",
+      "category": "10",
+      "explanation": "The stage direction 'Il s'aper\u00e7oit qu'il a d\u00e9chir\u00e9 ses billets' involves an interaction with an object (tearing tickets), matching category 10: object.",
+      "stgdir": "Il s'aper\u00e7oit qu' il a d\u00e9chir\u00e9 ses billets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2537",
+      "category": "0",
+      "explanation": "The stage direction 'Cherchant' involves a general character action (searching), which fits category 0: action.",
+      "stgdir": "Cherchant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2538",
+      "category": "7",
+      "explanation": "The stage direction describes the direction characters are moving on stage, which matches category 7: movement.",
+      "stgdir": "Sortant du pavillon de gauche, et se dirigeant vers la droite, tandis que Court\u00e8s va du c\u00f4te contraire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2539",
+      "category": "11",
+      "explanation": "The stage direction '\u00c0 la cour ; un jardin' describes the setting, which fits category 11: setting.",
+      "stgdir": "\u00c0 la cour ; un jardin.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 10074.169874191284,
+  "model": "gpt-4o"
+}

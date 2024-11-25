@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2520",
+      "category": 12,
+      "explanation": "The stage direction 'S'adressant \u00e0 la reine' specifies the addressee of a speech, thus fitting the 'toward' category.",
+      "stgdir": "S'adressant \u00e0 la reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2521",
+      "category": 4,
+      "explanation": "The stage direction describes characters completing an action and then coming to the front of the stage, indicating an entrance to a new area, thus fitting the 'entrance' category.",
+      "stgdir": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2522",
+      "category": 10,
+      "explanation": "This stage direction involves handling pieces of an object (an \u00e9crin), fitting the 'object' category.",
+      "stgdir": "Il prend l'une apr\u00e8s l'autre toutes les pi\u00e8ces de l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2523",
+      "category": 11,
+      "explanation": "This is a detailed description of the stage setting, specifying the decoration and environment, fitting the 'setting' category.",
+      "stgdir": "D\u00c9CORATION DU IVe ACTE. >Cet Acte qui se passe dans le lieu le plus d\u00e9sert du Palais de Circ\u00e9, n'a point d'autre d\u00e9coration que de grands Arbres touffus, qui forment un bois dont l'\u00e9paisseur semble \u00eatre imp\u00e9n\u00e9trable \u00e0 la clart\u00e9 du Soleil.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2524",
+      "category": 9,
+      "explanation": "This direction, noting 'QUARTO et ULTIMO', seems to indicate a narrative structural note or section end, fitting the 'narration' category.",
+      "stgdir": "QUARTO et ULTIMO.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2525",
+      "category": 0,
+      "explanation": "The direction indicates a character sitting on a specific canap\u00e9 (sofa), which qualifies as a general 'action'.",
+      "stgdir": "S'asseyant sur le canap\u00e9 n\u00b0 1.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2526",
+      "category": 10,
+      "explanation": "The action of 'elle ferme le guichet' involves interaction with an object, the 'guichet', fitting the 'object' category.",
+      "stgdir": "Elle ferme le guichet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2527",
+      "category": 8,
+      "explanation": "The stage direction 'Air : J'\u00e9tois, j'\u00e9tois malade d'amour' is naming a tune; it fits the 'music' category.",
+      "stgdir": "Air : J'\u00e9tois, j'\u00e9tois malade d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2528",
+      "category": 8,
+      "explanation": "Similar to 2527, 'AUTRE AIR' indicates another musical piece or tune, fitting the 'music' category.",
+      "stgdir": "AUTRE AIR.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2529",
+      "category": 3,
+      "explanation": "The direction 'Haut, s'excusant' refers to the delivery manner of speech, indicating a loud and apologetic voice, thus fitting the 'delivery' category.",
+      "stgdir": "Haut, s'excusant.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 20671.675443649292,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,19 @@
+              precision    recall  f1-score   support
+
+      action      0.774     0.331     0.464       486
+  aggression      0.771     0.720     0.745        75
+      aparte      0.609     1.000     0.757        14
+    delivery      0.795     0.582     0.672       213
+    entrance      0.667     0.750     0.706       128
+        exit      0.837     0.785     0.810       242
+ interaction      0.246     0.784     0.375       102
+    movement      0.493     0.580     0.533       119
+       music      0.963     0.868     0.913       577
+   narration      0.502     0.858     0.634       120
+      object      0.625     0.856     0.722       208
+     setting      0.839     0.795     0.816       190
+      toward      0.961     0.942     0.952       449
+
+    accuracy                          0.733      2923
+   macro avg      0.699     0.758     0.700      2923
+weighted avg      0.794     0.733     0.739      2923

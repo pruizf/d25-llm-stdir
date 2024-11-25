@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1900",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating a tune name, which is classified under music.",
+      "stgdir": "AIR. Quel plaisir va nous unir.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1901",
+      "category": "8",
+      "explanation": "This stage direction starts with 'AIR', signifying a music notation or tune name.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1902",
+      "category": "8",
+      "explanation": "The presence of 'Air' shows it's related to music, categorizing it as a tune name.",
+      "stgdir": "Air : Des Proverbes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1903",
+      "category": "7",
+      "explanation": "The phrase 'fait un pas' involves character movement, indicating a step being taken.",
+      "stgdir": "Azor fait un pas.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1904",
+      "category": "6",
+      "explanation": "This describes a non-verbal interaction with Rosalie, as one character supports another's fall.",
+      "stgdir": "Elle s'affaisse dans les bras de Rosalie et glisse peu \u00e0 peu jusqu'\u00e0 terre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1905",
+      "category": "10",
+      "explanation": "The term 'Pr\u00e9sentant' implies an interaction involving handing over or showing an object.",
+      "stgdir": "Pr\u00e9sentant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1906",
+      "category": "5",
+      "explanation": "The phrase 'Ils sortent tous' depicts characters exiting the stage, fitting into the exit category.",
+      "stgdir": "Ils sortent tous, except\u00e9 H\u00e9mon et Antigone.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1907",
+      "category": "6",
+      "explanation": "This describes a character visually interacting with an object, 'la figure de la madone.'",
+      "stgdir": "Regardant la figure de la madone.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1908",
+      "category": "9",
+      "explanation": "The phrase 'Le bruit redouble' refers to a sound effect or event, indicating narration.",
+      "stgdir": "Le bruit redouble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1909",
+      "category": "8",
+      "explanation": "Like the others, 'Air' denotes a musical tune, categorizing this direction under music.",
+      "stgdir": "Air : Des Fraises.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6622.533321380615,
+  "model": "gpt-4o"
+}

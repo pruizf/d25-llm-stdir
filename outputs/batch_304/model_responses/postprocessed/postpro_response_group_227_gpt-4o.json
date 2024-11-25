@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2270",
+      "category": "10",
+      "explanation": "The stage direction 'Il remet une lettre \u00e0 Ar\u00e9taphile.' involves giving an object (a letter) to another character, which falls under the object category.",
+      "stgdir": "Il remet une lettre \u00e0 Ar\u00e9taphile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2271",
+      "category": "6",
+      "explanation": "The stage direction 'Les yeux du mort ayant rencontr\u00e9 ceux de l'avocat G\u00e9n\u00e9ral, s'immobilisent.' describes a non-verbal interaction, where eye contact leads to a reaction, thus classifying it as interaction.",
+      "stgdir": "Les yeux du mort ayant rencontr\u00e9 ceux de l'avocat G\u00e9n\u00e9ral, s'immobilisent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2272",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Darie.' indicates that the following dialogue or action is directed toward Darie, making it part of the toward category.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2273",
+      "category": "12",
+      "explanation": "Similar to direction 2272, '\u00c0 l'Eth\u00e9r\u00e9e.' indicates that forthcoming action or speech is directed toward l'Eth\u00e9r\u00e9e, placing it in the toward category.",
+      "stgdir": "\u00c0 l'Eth\u00e9r\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2274",
+      "category": "5",
+      "explanation": "The direction 'Sort la bonne.' indicates an exit, as it involves leaving the stage, thereby fitting the exit category.",
+      "stgdir": "Sort la bonne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2275",
+      "category": "8",
+      "explanation": "The direction 'AIR : Dans ma cabane obscure.' indicates a musical piece or tune title, fitting it into the music category.",
+      "stgdir": "AIR : Dans ma cabane obscure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2276",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Sganarelle' suggests the action or dialogue is directed towards Sganarelle, so it belongs to the toward category.",
+      "stgdir": "\u00c0 Sganarelle",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2277",
+      "category": "10",
+      "explanation": "The stage direction 'Nota. Pendant ce monologue, la toilette va toujours.' involves the ongoing action of dressing or grooming, which involves interacting with objects (costumes/dress), thus fitting in the object category.",
+      "stgdir": "Nota. Pendant ce monologue, la toilette va toujours.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2278",
+      "category": "6",
+      "explanation": "The direction 'D\u00e9signant du pied une dalle.' describes a non-verbal interaction, pointing to something with a foot, fitting it into the interaction category.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2279",
+      "category": "2",
+      "explanation": "The direction 'Puis, \u00e9tant seul.' indicates that a character is alone, suggesting an aside or a special moment of reflection, classifying it as aparte.",
+      "stgdir": "Puis, \u00e9tant seul.",
+      "categFull": "aparte"
+    }
+  ],
+  "response_time": 9332.478761672974,
+  "model": "gpt-4o"
+}

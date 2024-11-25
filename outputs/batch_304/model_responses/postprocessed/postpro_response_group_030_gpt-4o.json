@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": "3",
+      "explanation": "The stage direction 'D'une voix cass\u00e9e' refers to the delivery manner of speech, indicating how the voice should sound (e.g., broken or emotionally affected).",
+      "stgdir": "D'une voix cass\u00e9e.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": "6",
+      "explanation": "The stage direction 'Il embrasse Fleur-de-Sauge' describes a non-verbal interaction between characters, specifically an act of embracing.",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Nous n'avons qu'un temps \u00e0 vivre' begins with 'Air', indicating that it refers to a tune or music, classifying it under music.",
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": "9",
+      "explanation": "This stage direction is a narrative description, indicating the position and appearance of characters, which is characteristic of narration.",
+      "stgdir": "Th\u00e9r\u00e8se et Manette sont \u00e0 c\u00f4t\u00e9 l'une de l'autre, Elles travaillent ensemble \u00e0 garnir une robe. Th\u00e9r\u00e8se est habill\u00e9e tr\u00e8s simplement, coiff\u00e9e en grand bonnet, et para\u00eet triste et r\u00eaveuse.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Salome' indicates the addressee of a speech or gesture, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Salome.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": "10",
+      "explanation": "The stage direction 'Il tire son \u00e9p\u00e9e' involves interacting with an object (a sword), fitting into the 'object' category.",
+      "stgdir": "Il tire son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": "12",
+      "explanation": "The stage direction 'Au bourreau' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "Au bourreau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": "5",
+      "explanation": "The stage direction 'Idas sort' indicates a character exiting the stage, fitting in the 'exit' category.",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": "4",
+      "explanation": "The stage direction 'Hyp\u00e9rie para\u00eet' denotes a character's entrance, fitting into the 'entrance' category.",
+      "stgdir": "Hyp\u00e9rie para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Double-Sens' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Double-Sens.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 20674.13330078125,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1560",
+      "category": "10",
+      "explanation": "This stage direction involves characters removing props, which indicates interaction with objects.",
+      "stgdir": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1561",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Drouillac' indicates that some action or speech is directed toward Drouillac.",
+      "stgdir": "\u00c0 Drouillac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1562",
+      "category": "6",
+      "explanation": "The phrase 'Apercevant Ang\u00e9lique' shows a character noticing another character, which is a non-verbal interaction.",
+      "stgdir": "Apercevant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1563",
+      "category": "0",
+      "explanation": "The action of looking around indicates a general character action as they search, which fits the 'action' category.",
+      "stgdir": "Ayant l'air de chercher autour d'elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1564",
+      "category": "12",
+      "explanation": "The stage direction 'Et \u00e0 Hortensius' indicates that attention or actions are directed toward Hortensius.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1565",
+      "category": "0",
+      "explanation": "The phrase 'On les apaise \u00e0 grand peine' involves calming people down, which is a general action.",
+      "stgdir": "On les apaise \u00e0 grand peine.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1566",
+      "category": "5",
+      "explanation": "The stage direction 'Duparc sort' indicates a character exiting the stage.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1567",
+      "category": "6",
+      "explanation": "The phrase 'Il embrasse Nicette et Mimi' describes a non-verbal interaction of embracing between characters.",
+      "stgdir": "Il embrasse Nicette et Mimi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1568",
+      "category": "7",
+      "explanation": "The action 'Il remonte la sc\u00e8ne' involves moving upstage, indicating character movement without exiting.",
+      "stgdir": "Il remonte la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1569",
+      "category": "7",
+      "explanation": "The direction 'Il s'approche' involves moving closer, which is classified as character movement.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 9588.83810043335,
+  "model": "gpt-4o"
+}

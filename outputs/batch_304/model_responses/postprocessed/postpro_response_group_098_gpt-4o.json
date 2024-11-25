@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "980",
+      "category": "10",
+      "explanation": "The stage direction 'Durval la lui donne' implies giving an object, which fits into the 'object' category.",
+      "stgdir": "Durval la lui donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "981",
+      "category": "4",
+      "explanation": "The stage direction 'Il entre dans sa maison' describes a character entering a location, fitting the 'entrance' category.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "982",
+      "category": "10",
+      "explanation": "The stage direction 'Elle tire un poignard' describes handling an object (a dagger), which falls under the 'object' category.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "983",
+      "category": "1",
+      "explanation": "The stage direction 'Frappant la Chicanne' indicates an act of aggression, fitting the 'aggression' category.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "984",
+      "category": "6",
+      "explanation": "The stage direction 'Il d\u00e9signe le roi des Ondines' involves non-verbal character interaction, fitting the 'interaction' category.",
+      "stgdir": "Il d\u00e9signe le roi des Ondines.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "985",
+      "category": "5",
+      "explanation": "The stage direction 'Jacinte sort' describes a character exiting, fitting the 'exit' category.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "986",
+      "category": "11",
+      "explanation": "The stage direction 'D\u00c9CORATION de L'ACTE SECOND...' provides a detailed description of the stage setting, fitting the 'setting' category.",
+      "stgdir": "D\u00c9CORATION de L'ACTE SECOND. Dans le lointain, deux montagnes, l'une chauve, l'autre d'une belle verdure, et laissant \u00e9chapper une source du sommet. Entre elles, le fleuve Ohio tombe avec bruit d'une cascade effrayante. Un pont de lianes \u00e9lastiques, joint au-dessus les deux montagnes. Au pied de l'Ohio, quelques pirogues : ce fleuve couvre la plaine et borde le fonds du Th\u00e9\u00e2tre, qui est en gazon. \u00c0 la droite du fleuve, a mi-coteau, une cabane appuy\u00e9e contre un rocher qui pose sur une pointe \u00e0 terre ; sa partie sup\u00e9rieure \u00e9vas\u00e9e, sert de cuvette \u00e0 un ruisseau qui se pr\u00e9cipite dans l'Ohio. Pr\u00e8s de l'avant-sc\u00e8ne, une statue du Mars des Am\u00e9ricains, d'Areski sur un pi\u00e9destal orn\u00e9 de pelleteries. \u00c0 la gauche plus recul\u00e9, le tombeau d'Artamon en gazon et orn\u00e9 de fleurs ; le troph\u00e9e de ses armes sur le dessus ; et au c\u00f4t\u00e9, une large pierre grav\u00e9e d'hi\u00e9roglyphes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "987",
+      "category": "4",
+      "explanation": "The stage direction 'Ils entrent tous les deux' describes characters entering, fitting the 'entrance' category.",
+      "stgdir": "Ils entrent tous les deux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "988",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 sa suite' suggests an action directed towards someone or something, corresponding to the 'toward' category.",
+      "stgdir": "\u00c0 sa suite.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "989",
+      "category": "7",
+      "explanation": "The stage direction 'Il va pour s'en aller' indicates character movement, although not a full exit, fitting the 'movement' category.",
+      "stgdir": "Il va pour s'en aller.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 13693.205118179321,
+  "model": "gpt-4o"
+}

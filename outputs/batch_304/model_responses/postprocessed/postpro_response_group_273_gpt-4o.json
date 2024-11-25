@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2730",
+      "category": "5",
+      "explanation": "The stage direction 'Phoenix sort.' indicates an exit of a character from the stage. The verb 'sort' corresponds to the exit category.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2731",
+      "category": "0",
+      "explanation": "The stage direction 'Scarron continue d'\u00e9crire.' describes a character continuing an action (writing) which falls under the general action category.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2732",
+      "category": "12",
+      "explanation": "'\u00c0 Arsace.' indicates the addressee of an action or speech, which corresponds to the category 'toward'.",
+      "stgdir": "\u00c0 Arsace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2733",
+      "category": "9",
+      "explanation": "The stage direction describes a change in the environment ('Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise') which fits the narration category, as it pertains to weather elements and has a narrative quality.",
+      "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2734",
+      "category": "4",
+      "explanation": "'Edgard entre.' indicates an entrance onto the stage, which is classified under the entrance category.",
+      "stgdir": "Edgard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2735",
+      "category": "0",
+      "explanation": "'Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.' describes a general action of a character sitting, which falls under the action category.",
+      "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2736",
+      "category": "12",
+      "explanation": "'\u00c0 Arons.' indicates the addressee of an action or speech, corresponding to the toward category.",
+      "stgdir": "\u00c0 Arons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2737",
+      "category": "3",
+      "explanation": "'Tous reprennent le rondeau.' involves characters resuming singing or vocalizing, which corresponds to the delivery category as it relates to vocal activity.",
+      "stgdir": "Tous reprennent le rondeau.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2738",
+      "category": "8",
+      "explanation": "'Air 18 : Branle de Metz.' falls under the music category as it refers to a musical piece being played.",
+      "stgdir": "Air 18 : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2739",
+      "category": "8",
+      "explanation": "'AIR : Du pas redoubl\u00e9 de l'Infanterie.' indicates a musical piece or tune name, which categorizes it under music.",
+      "stgdir": "AIR : Du pas redoubl\u00e9 de l'Infanterie.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10976.226091384888,
+  "model": "gpt-4o"
+}

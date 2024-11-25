@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "770",
+      "category": "7",
+      "explanation": "The stage direction 'Hortense les suit.' (Hortense follows them) indicates character movement, as it describes Hortense following other characters.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "5",
+      "explanation": "The stage direction 'Il part avec Silvia.' (He leaves with Silvia) indicates character exit, as it describes the characters departing from the stage.",
+      "stgdir": "Il part avec Silvia.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Je ne verrai plus ce que j'aime.' starts with the word 'Air,' indicating it is related to music, specifically the name of a tune.",
+      "stgdir": "Air : Je ne verrai plus ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "773",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Madame Patin.' indicates the addressee of a speech or action, showing direction towards Madame Patin.",
+      "stgdir": "\u00c0 Madame Patin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "774",
+      "category": "4",
+      "explanation": "The stage direction 'Tartuffe entre chez Thalie.' (Tartuffe enters to Thalie) describes a character entrance onto the stage.",
+      "stgdir": "Tartuffe entre chez Thalie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "775",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Quel plaisir de voir Claudine !' starts with the word 'AIR,' indicating it is related to music, specifically the name of a tune.",
+      "stgdir": "AIR : Quel plaisir de voir Claudine !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "776",
+      "category": "11",
+      "explanation": "The stage direction provides a detailed description of the current scene setup and setting, mentioning a table, plans, books, papers, and a public celebration.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "777",
+      "category": "12",
+      "explanation": "The stage direction 'Allant \u00e0 Marie.' indicates the addressee or direction of movement towards Marie, suggesting focus on the destination or addressee.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "778",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Arlequin.' indicates the addressee of a speech or an action, showing direction towards Arlequin.",
+      "stgdir": "\u00c0 Arlequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "779",
+      "category": "0",
+      "explanation": "The stage direction 'Ayant l'air de chercher.' (Looking as if searching) describes a general character action, which doesn\u2019t fit specifically into other categories like movement or interaction.",
+      "stgdir": "Ayant l'air de chercher.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 107762.13312149048,
+  "model": "gpt-4o"
+}

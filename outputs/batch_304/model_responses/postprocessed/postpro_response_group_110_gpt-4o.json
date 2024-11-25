@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1100",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Hiaskar' indicates the addressee of a speech or action, specifying a direction toward the character Hiaskar.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1101",
+      "category": "5",
+      "explanation": "The stage direction 'Monsieur Mathieu, Benjamine et Damis sortent' describes characters exiting the stage. The use of 'sortent' indicates an exit.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1102",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Trasibule' indicates the addressee of a speech or action, specifying a direction toward the character Trasibule.",
+      "stgdir": "\u00c0 Trasibule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1103",
+      "category": "5",
+      "explanation": "The phrase 'qui s'en va' indicates an exit, as it describes X\u00e9nocl\u00e8s leaving the stage.",
+      "stgdir": "Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1104",
+      "category": "11",
+      "explanation": "This stage direction provides a description of the physical setting, detailing the layout and key features of the stage.",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1105",
+      "category": "10",
+      "explanation": "The action 'Hortensius tire un livre' describes a character interacting with an object, specifically taking or pulling out a book.",
+      "stgdir": "Hortensius tire un livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1106",
+      "category": "10",
+      "explanation": "The action 'Il tire un \u00e9crin de sa poche' involves retrieving or handling an object, qualifying as an interaction with an object.",
+      "stgdir": "Il tire un \u00e9crin de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1107",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Monsieur Dabelle' suggests the addressee of speech or action, indicating direction toward Monsieur Dabelle.",
+      "stgdir": "\u00c0 Monsieur Dabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1108",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui met une bourse dans la main' describes giving an object (a purse) to another character, which falls under object interaction.",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1109",
+      "category": "3",
+      "explanation": "The direction 'Et donnant les Lettres' describes the act of handing over letters, which impacts the delivery or interaction with the object in the scene.",
+      "stgdir": "Et donnant les Lettres.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 24391.07060432434,
+  "model": "gpt-4o"
+}

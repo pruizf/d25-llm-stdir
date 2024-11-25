@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1130",
+      "category": "9",
+      "explanation": "The stage direction refers to a sound, an 'effroyable clameur' (terrifying clamor), which is a part of the narrative or auditory setting for the scene.",
+      "stgdir": "Une effroyable clameur se fait entendre au dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1131",
+      "category": "5",
+      "explanation": "The direction 'Laurence sort' indicates that the character Laurence exits the stage.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1132",
+      "category": "10",
+      "explanation": "The direction 'Elle prend le gobelet' involves interaction with an object, which is taking the 'gobelet' (cup).",
+      "stgdir": "Elle prend le gobelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1133",
+      "category": "11",
+      "explanation": "This is a detailed stage description, specifying the setting of the scene (a patio, the time of night, particular architectural elements).",
+      "stgdir": "Un patio du palais de Silva. \u00c0 gauche, les grands murs du palais, avec une fen\u00eatre \u00e0 balcon. Au-dessous de la fen\u00eatre, une petite porte. \u00c0 droite et au fond, des maisons et des rues. - Il est nuit. - On voit briller \u00e7\u00e0 et l\u00e0, aux fa\u00e7ades des \u00e9difices, quelques fen\u00eatres encore \u00e9clair\u00e9es.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1134",
+      "category": "5",
+      "explanation": "The direction 'Hersile se retire' indicates that the character Hersile exits the stage.",
+      "stgdir": "Hersile se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1135",
+      "category": "9",
+      "explanation": "The stage direction 'Personne ne bouge' narrates the lack of action or movement by anyone on stage, contributing to the scene's atmosphere.",
+      "stgdir": "Personne ne bouge.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1136",
+      "category": "12",
+      "explanation": "'\u00c0 Mowbrai' indicates the addressee of a speech or action, identifying who on stage is being addressed.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1137",
+      "category": "8",
+      "explanation": "This stage direction refers to a musical performance, specifically 'Les Symphonistes jouent une Ritournelle,' indicating the playing of a short, recurring musical theme.",
+      "stgdir": "Les Symphonistes jouent une Ritournelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1138",
+      "category": "11",
+      "explanation": "This stage direction describes the setting, representing 'une \u00c9tude de Procureur' with specific details about the objects present.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1139",
+      "category": "11",
+      "explanation": "This stage direction describes the physical setting, representing 'le camp de Washington' with elements like 'la tente de ce g\u00e9n\u00e9ral'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le camp de Washington, on voit la tente de ce g\u00e9n\u00e9ral.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 15562.648057937622,
+  "model": "gpt-4o"
+}

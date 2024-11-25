@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "570",
+      "category": "0",
+      "explanation": "The phrase 'Le Chevalier tombe \u00e0 genoux' describes a general action of a character (falling to their knees), which fits into the general action category.",
+      "stgdir": "Le Chevalier tombe \u00e0 genoux;",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "571",
+      "category": "8",
+      "explanation": "The phrase 'AIR : R\u00e9veillez-vous belle endormie' begins with 'AIR,' indicating a musical tune name, which fits into the music category.",
+      "stgdir": "AIR : R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "572",
+      "category": "8",
+      "explanation": "The phrase 'AIR 105 : La bonne aventure, \u00f4 gai' starts with 'AIR' followed by a tune name, indicating a music category.",
+      "stgdir": "AIR 105 : La bonne aventure, \u00f4 gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "573",
+      "category": "6",
+      "explanation": "The phrase 'Regardant la table servie' involves a character looking at or observing something, which is a non-verbal interaction with the environment or object.",
+      "stgdir": "Regardant la table servie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "574",
+      "category": "4",
+      "explanation": "The phrase 'Saint-Alban parait' indicates a character's appearance on stage, which fits the entrance category.",
+      "stgdir": "Saint-Alban parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "575",
+      "category": "4",
+      "explanation": "The phrase 'Entre Henri Bassou' indicates that a character (Henri Bassou) is entering the stage, fitting the entrance category.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "576",
+      "category": "10",
+      "explanation": "The phrase 'Il le d\u00e9chire' suggests an interaction with an object (tearing something), fitting the object category.",
+      "stgdir": "Il le d\u00e9chire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "577",
+      "category": "10",
+      "explanation": "The phrase 'Lettre de MASSINISSE \u00e0 SOPHONISBE' indicates an object (a letter) which is associated with characters, fitting the object category.",
+      "stgdir": "Lettre de MASSINISSE \u00e0 SOPHONISBE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "578",
+      "category": "6",
+      "explanation": "The phrase 'Se jetant aux pieds d'In\u00e8s' describes an interaction with another character (throwing oneself at someone's feet), fitting the interaction category.",
+      "stgdir": "Se jetant aux pieds d'In\u00e8s.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "579",
+      "category": "6",
+      "explanation": "The phrase 'Se posant devant Julie' describes positioning oneself in front of someone, which is a form of non-verbal interaction, fitting the interaction category.",
+      "stgdir": "Se posant devant Julie.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 8040.740013122559,
+  "model": "gpt-4o"
+}

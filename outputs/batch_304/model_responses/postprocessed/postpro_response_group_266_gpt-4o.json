@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2660",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the play, indicating that the scene takes place in an elegant salon.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2661",
+      "category": "5",
+      "explanation": "The stage direction indicates an exit, as a character is described as leaving by the right side ('Sortie par la droite').",
+      "stgdir": "Sortie par la droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2662",
+      "category": "8",
+      "explanation": "The stage direction refers to music, as indicated by the keyword 'AIR', specifying a tune or song related to the character's neighbor.",
+      "stgdir": "AIR. \u00c0 sa voisine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2663",
+      "category": "8",
+      "explanation": "This stage direction involves music, described as a 'ritournelle' or musical refrain intended for the effect of 'fr\u00e9missement des flots' (rippling of the waves).",
+      "stgdir": "Ritournelle pour le fr\u00e9missement des flots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2664",
+      "category": "10",
+      "explanation": "The stage direction describes an object, specifically a letter that is supposed to be from M\u00e9lite to Philandre.",
+      "stgdir": "LETTRE SUPPOS\u00c9E DE M\u00c9LITE \u00c0 PHILANDRE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2665",
+      "category": "0",
+      "explanation": "The verb 'Il go\u00fbte' relates to eating or tasting, which pertains to character action that doesn't involve exit, entrance, or other specified categories.",
+      "stgdir": "Il go\u00fbte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2666",
+      "category": "5",
+      "explanation": "The phrase 'Il se retire' indicates an exit, as a character withdraws or leaves the scene.",
+      "stgdir": "Il se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2667",
+      "category": "12",
+      "explanation": "The stage direction uses 'Au Chevalier', indicating the addressee of a speech or interaction is towards the Chevalier.",
+      "stgdir": "Au Chevalier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2668",
+      "category": "12",
+      "explanation": "Similar to the previous one, '\u00c0 Don Fernand' specifies that the speech or attention is directed toward Don Fernand.",
+      "stgdir": "\u00c0 Don Fernand.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2669",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Oronte' indicates that the speech or focus is directed toward Oronte.",
+      "stgdir": "\u00c0 Oronte.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8938.595056533813,
+  "model": "gpt-4o"
+}

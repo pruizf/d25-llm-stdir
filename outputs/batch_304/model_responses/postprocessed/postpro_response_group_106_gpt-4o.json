@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1060",
+      "category": "9",
+      "explanation": "The stage direction describes a noise ('un bruit de musettes'), which makes it part of narration.",
+      "stgdir": "On entend un bruit de musettes et Roland continue.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1061",
+      "category": "6",
+      "explanation": "The direction 'Il montre le portrait' involves non-verbal character interaction by showing the portrait, implying interaction with any viewers or characters present.",
+      "stgdir": "Il montre le portrait.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1062",
+      "category": "5",
+      "explanation": "The phrase 'Ormin s'en va' indicates a character exit.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1063",
+      "category": "11",
+      "explanation": "This appears to be a description of a setting ('LE FLEUVE ET SA SOURCE'), referring to a river and its source.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1064",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 un valet' indicates the addressee of a speech or action is a valet.",
+      "stgdir": "\u00c0 un valet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1065",
+      "category": "5",
+      "explanation": "The phrase 'Ils s'enfuient hors du Palais' indicates characters are exiting the palace.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1066",
+      "category": "5",
+      "explanation": "The phrase 'Il sortesasuite' suggests exiting by a character.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1067",
+      "category": "8",
+      "explanation": "The label 'V COUPLET' suggests a part of a musical or lyrical performance, relating it to music.",
+      "stgdir": "V COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1068",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Va-t'en voir s'ils viennent' is a music description indicating the tune name.",
+      "stgdir": "AIR : Va-t'en voir s'ils viennent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1069",
+      "category": "6",
+      "explanation": "The direction 'Elle lui fait faire le tour du th\u00e9\u00e2tre' involves guiding or causing another character to move, signifying non-verbal interaction.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 9048.810005187988,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2170",
+      "category": "8",
+      "explanation": "The direction 'CHANSON DE M. Sall\u00e9 et Ponteuil' indicates a song or music piece, fitting the 'music' category.",
+      "stgdir": "CHANSON DE M. Sall\u00e9 et Ponteuil.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2171",
+      "category": "11",
+      "explanation": "The direction 'La sc\u00e8ne para\u00eet une cour de prison' describes the setting, indicating that the stage looks like a prison courtyard.",
+      "stgdir": "La sc\u00e8ne para\u00eet une cour de prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2172",
+      "category": "5",
+      "explanation": "The direction 'Il sort de sa tente' describes an exit, as someone is leaving their tent.",
+      "stgdir": "Il sort de sa tente.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2173",
+      "category": "5",
+      "explanation": "The direction 'Don Alfonce s'en va' indicates that Don Alfonce exits the scene.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2174",
+      "category": "5",
+      "explanation": "The direction 'Damon sort' denotes an exit, as Damon is leaving the stage.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2175",
+      "category": "12",
+      "explanation": "The direction '\u00c0 La Fleur' suggests speech or action directed toward La Fleur, fitting the 'toward' category.",
+      "stgdir": "\u00c0 La Fleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2176",
+      "category": "8",
+      "explanation": "The direction 'AIR : sur Radegonde' refers to a melody or tune called 'Radegonde', placing it in the 'music' category.",
+      "stgdir": "AIR : sur Radegonde",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2177",
+      "category": "8",
+      "explanation": "The direction 'AIR. \u00c7a n'vous va brin, etc.' indicates a tune or song being referenced, fitting the 'music' category.",
+      "stgdir": "AIR. \u00c7a n'vous va brin, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2178",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Liou-Li' implies addressing Liou-Li, indicating the 'toward' category.",
+      "stgdir": "\u00c0 Liou-Li.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2179",
+      "category": "5",
+      "explanation": "The direction 'Il sort par le fond du th\u00e9\u00e2tre' describes an exit through the back of the theater.",
+      "stgdir": "Il sort par le fond du th\u00e9\u00e2tre.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 14722.26595878601,
+  "model": "gpt-4o"
+}

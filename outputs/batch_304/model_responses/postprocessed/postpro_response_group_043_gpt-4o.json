@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "430",
+      "category": "11",
+      "explanation": "The stage direction 'dans le bois' describes a location where the action is set, classifying it as 'setting'.",
+      "stgdir": "dans le bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', indicating music, and the phrase 'Quand on tient de ce jus d'octobre' is likely the name of the tune.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "6",
+      "explanation": "The stage direction 'Il l'examine des pieds \u00e0 la t\u00eate' describes a non-verbal interaction where a character is observing another character closely.",
+      "stgdir": "Il l'examine des pieds \u00e0 la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', indicating music, and 'Alarmez vous' is likely the name of the tune.",
+      "stgdir": "Air : Alarmez vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "10",
+      "explanation": "The action 'il arrange des fruits et des fleurs dans un panier' involves arranging objects, classifying it as related to 'object'.",
+      "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "7",
+      "explanation": "The stage direction 'Orph\u00e9e passe sans regarder Eurydice' involves movement as it describes Orpheus moving past without interaction.",
+      "stgdir": "Orph\u00e9e passe sans regarder Eurydice.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "9",
+      "explanation": "This stage direction provides a narrative description of the character Hircan's actions, resembling a narrative detail rather than a brief instruction.",
+      "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "The stage direction specifies 'AIR : De la marche du Malade imaginaire', indicating it is a music-related direction with the tune specified.",
+      "stgdir": "AIR : De la marche du Malade imaginaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "6",
+      "explanation": "The action 'Lui baisant la bouche' involves a non-verbal interaction between characters, thus categorized as interaction.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "7",
+      "explanation": "The direction 'Il se l\u00e8ve, ainsi que Maurice' describes the characters getting up, which is a type of movement.",
+      "stgdir": "Il se l\u00e8ve, ainsi que Maurice.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 7221.449851989746,
+  "model": "gpt-4o"
+}

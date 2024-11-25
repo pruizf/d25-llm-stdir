@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1290",
+      "category": "0",
+      "explanation": "The stage direction refers to a character action - 'Apr\u00e8s avoir bu' translates to 'After having drunk', which relates to a general action of drinking.",
+      "stgdir": "Apr\u00e8s avoir bu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1291",
+      "category": "4",
+      "explanation": "This stage direction indicates an entrance, as 'Ils entrent en sc\u00e8ne' translates to 'They enter the stage'.",
+      "stgdir": "Ils entrent en sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1292",
+      "category": "12",
+      "explanation": "'\u00c0 M\u00e9gabise' indicates the addressee of a speech or action, meaning 'To M\u00e9gabise'.",
+      "stgdir": "\u00c0 M\u00e9gabise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1293",
+      "category": "7",
+      "explanation": "'Elle l\u00e8ve la t\u00eate' or 'She lifts her head' describes a movement, not related to exit or entrance.",
+      "stgdir": "Elle l\u00e8ve la t\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1294",
+      "category": "9",
+      "explanation": "This is a long, narrative stage direction that describes the setting and context of the prologue, implying a description of a scene or situation.",
+      "stgdir": "D\u00c9CORATION DU PROLOGUE. L'heureux mariage de Sa Majest\u00e9, et la paix qu'il lui a pu donner \u00e0 ses peuples, ayant \u00e9t\u00e9 les motifs de la r\u00e9jouissance publique pour laquelle cette trag\u00e9die a \u00e9t\u00e9 pr\u00e9par\u00e9e, non seulement il \u00e9tait juste qu'ils servissent de sujet au prologue qui la pr\u00e9c\u00e8de, mais il \u00e9tait m\u00eame absolument impossible d'en choisir une plus illustre mati\u00e8re. L'ouverture du th\u00e9\u00e2tre fait voir un pays ruin\u00e9 par les guerres, et termin\u00e9 dans son enfoncement par une ville qui n'en est pas mieux trait\u00e9e, ce qui marque le pitoyable \u00e9tat ou la France \u00e9tait r\u00e9duite avant cette faveur du ciel, qu'elle a si longtemps souhait\u00e9e, et dont la bont\u00e9 de son g\u00e9n\u00e9reux monarque la fait jouir \u00e0 pr\u00e9sent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1295",
+      "category": "10",
+      "explanation": "This stage direction involves handling an object, as 'Elle lui donne un billet' means 'She gives him a note', indicating an interaction with an object.",
+      "stgdir": "Elle lui donne un billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1296",
+      "category": "12",
+      "explanation": "'\u00c0 LISANDRE' specifies the addressee of the speech or action, meaning 'To LISANDRE'.",
+      "stgdir": "\u00c0 LISANDRE.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1297",
+      "category": "10",
+      "explanation": "'Il lui pose sa cha\u00eene sur le cou' translates to 'He places his chain on her neck', indicating an interaction with an object.",
+      "stgdir": "Il lui pose sa cha\u00eene sur le cou.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1298",
+      "category": "8",
+      "explanation": "This mentions 'Air 5 : Quand le p\u00e9ril est agr\u00e9able', which is the name of a tune, indicating a music-related direction.",
+      "stgdir": "Air 5 : Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1299",
+      "category": "9",
+      "explanation": "'On entend une symphonie qui \u00e9clate' describes a symphony being heard, which fits in the descriptive and narrative nature of stage directions.",
+      "stgdir": "on entand une symphonie qui \u00e9clate",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 12753.367185592651,
+  "model": "gpt-4o"
+}

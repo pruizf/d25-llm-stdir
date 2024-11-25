@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "130",
+      "category": "10",
+      "explanation": "The stage direction 'Ouvrant une autre lettre' involves interacting with an object (a letter) by opening it, which fits the 'object' category.",
+      "stgdir": "Ouvrant une autre lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "131",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the play, specifying that the theater represents the Salle de L'Op\u00e9ra Comique, which fits the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la Salle de L'Op\u00e9ra Comique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "132",
+      "category": "5",
+      "explanation": "The stage direction describes characters leaving the stage, which fits the 'exit' category as it states they 'sortent tous, \u00e0 l'exception de'.",
+      "stgdir": "Ils sortent tous, \u00e0 l'exception de Monsieur L\u00e9ger et de Madame Lanoue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "133",
+      "category": "10",
+      "explanation": "The stage direction 'Il porte la fiole \u00e0 sa bouche' involves interacting with an object (a vial), which fits the 'object' category.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "134",
+      "category": "6",
+      "explanation": "The stage direction 'Elle \u00f4te sa main' involves an interaction, likely implying removing her hand from someone or something, fitting the 'interaction' category.",
+      "stgdir": "Elle \u00f4te sa main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "135",
+      "category": "10",
+      "explanation": "The stage direction 'Il referme l'oeil\u2014de\u2014boeuf' describes interacting with an object by closing it, fitting the 'object' category.",
+      "stgdir": "Il referme l'oeil\u2014de\u2014boeuf.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "136",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Licandre et \u00e0 \u00caliante' indicates the addressees of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Licandre et \u00e0 \u00caliante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "137",
+      "category": "4",
+      "explanation": "The direction 'Il rentre' suggests a character entering the stage, fitting the 'entrance' category; the rest describes characters' positions or movements.",
+      "stgdir": "Il rentre. Le marchand se m\u00eale aux curieux. - Passe un bourgeois avec sa femme.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "138",
+      "category": "5",
+      "explanation": "The stage direction 'Le mauvais Ange dispara\u00eet' implies that the character exits the stage, fitting the 'exit' category.",
+      "stgdir": "Le mauvais Ange dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "139",
+      "category": "3",
+      "explanation": "The phrase 'Avec humeur' relates to the manner or emotional delivery of speech or action, indicating the mood is involved, fitting the 'delivery' category.",
+      "stgdir": "Avec humeur.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 10121.612310409546,
+  "model": "gpt-4o"
+}

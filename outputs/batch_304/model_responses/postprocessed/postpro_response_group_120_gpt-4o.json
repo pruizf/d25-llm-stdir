@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1200",
+      "category": "11",
+      "explanation": "The stage direction describes the setting, specifying details about a room and necessary objects like a bed and secretary, as well as other elements like a weapon rack and an acoustic tube.",
+      "stgdir": "La plus belle chambre du repaire des brigands klephtes. - Luxe \u00e0 volont\u00e9. Accessoires indispensables : un lit et un secr\u00e9taire quelconques. Une panoplie et quelques si\u00e9ges. - Au mur pend un tube acoustique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1201",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR 12', indicating a music-related instruction. This specifies the name of a tune or musical piece.",
+      "stgdir": "AIR 12 : Amis, sans regretter Paris.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1202",
+      "category": "7",
+      "explanation": "The phrase 's'approche sournoisement' describes a character's movement towards the bed, fitting the category of movement.",
+      "stgdir": "Il s'approche sournoisement du lit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1203",
+      "category": "6",
+      "explanation": "The action 'Apercevant l'appartement' implies looking at or noticing the apartment, which is a non-verbal interaction with the setting.",
+      "stgdir": "Apercevant l'appartement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1204",
+      "category": "0",
+      "explanation": "The action 'Il s'assied sur le canap\u00e9' involves sitting down, which falls under general character action.",
+      "stgdir": "Il s'assied sur le canap\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1205",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Pyrrha' indicates that the following speech or action is directed towards Pyrrha, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Pyrrha.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1206",
+      "category": "6",
+      "explanation": "The action 'Il se baise aux genoux de Miltiade' involves a non-verbal interaction as the character places himself at the knees of Miltiade.",
+      "stgdir": "Il se baise aux genoux de Miltiade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1207",
+      "category": "10",
+      "explanation": "The single word 'LETTRE' indicates that the content or presence of a letter is relevant, suggesting an object-related direction.",
+      "stgdir": "LETTRE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1208",
+      "category": "6",
+      "explanation": "The direction 'Lucile regarde toujours' describes a continuous watching action, indicating a non-verbal interaction between Lucile and the scene.",
+      "stgdir": "Lucile regarde toujours.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1209",
+      "category": "10",
+      "explanation": "The action 'Reprenant son sabre' involves handling or manipulating an object, specifically a saber.",
+      "stgdir": "Reprenant son sabre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 16529.552459716797,
+  "model": "gpt-4o"
+}

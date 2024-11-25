@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "70",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Lulli n'est plus \u00e0 l'Op\u00e9ra.' starts with 'AIR', which indicates a music piece or tune name, therefore it is classified under the music category.",
+      "stgdir": "AIR. Lulli n'est plus \u00e0 l'Op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Monsieur le Bailli.' indicates the addressee of a speech or action, fitting the category for direction toward a character.",
+      "stgdir": "\u00c0 Monsieur le Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "7",
+      "explanation": "The stage direction 'La suite de Bacchus danse.' involves character movement (dancing), so it fits the movement category.",
+      "stgdir": "La suite de Bacchus danse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 F\u00e9licio.' specifies the addressee, indicating who is being spoken or gestured to, categorizing it as toward.",
+      "stgdir": "\u00c0 F\u00e9licio.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "6",
+      "explanation": "The stage direction 'Elle regarde du c\u00f4t\u00e9 de la porte.' describes a non-verbal interaction or action related to looking, thus fits the interaction category.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "75",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Ton, humeur est Catherine.' suggests the beginning of a music piece because it starts with 'AIR', indicating a tune.",
+      "stgdir": "AIR : Ton, humeur est Catherine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "76",
+      "category": "12",
+      "explanation": "The stage direction 'Au mendiant.' indicates to whom the action or speech is directed, implying it fits the toward category.",
+      "stgdir": "Au mendiant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "77",
+      "category": "7",
+      "explanation": "The stage direction 'Il quitte le balcon.' involves character movement away from a place but not a complete exit from the stage, fitting the movement category.",
+      "stgdir": "Il quitte le balcon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "78",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Benvoglio.' specifies the addressee of a speech or gesture, categorizing it under toward.",
+      "stgdir": "\u00c0 Benvoglio.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "79",
+      "category": "5",
+      "explanation": "The stage direction 'Elle sort suivie des guerriers et des femmes sauvages.' involves the character exiting the stage, suitable for the exit category.",
+      "stgdir": "Elle sort suivie des guerriers et des femmes sauvages.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 12764.946699142456,
+  "model": "gpt-4o"
+}

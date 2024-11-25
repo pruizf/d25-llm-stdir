@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "270",
+      "category": "10",
+      "explanation": "This stage direction involves interaction with an object, specifically putting on a muff.",
+      "stgdir": "Il lui met son manchon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": "11",
+      "explanation": "This stage direction describes the setting, detailing the layout of a hair salon and objects within it.",
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": "2",
+      "explanation": "The character is speaking to themselves, which qualifies as an aside.",
+      "stgdir": "Se parlant \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": "3",
+      "explanation": "The action of laughing loudly is associated with vocal expression and emotion.",
+      "stgdir": "Arlequin rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech directed towards Arcas.",
+      "stgdir": "\u00c0 Arcas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating it is a music cue or tune name.",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech directed towards R\u00e9gina.",
+      "stgdir": "\u00c0 R\u00e9gina.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": "11",
+      "explanation": "This stage direction specifies the location, being 'Chez la marquise Cibo.'",
+      "stgdir": "Chez la marquise Cibo.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR', indicating it is a music cue or tune name.",
+      "stgdir": "AIR. Ah ! le charmant Berger que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": "1",
+      "explanation": "The action of giving blows and putting to flight involves aggression and violence.",
+      "stgdir": "Ils donnent des coups de b\u00e2ton \u00e0 la Crainte et la mettent en fuite.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 13741.441488265991,
+  "model": "gpt-4o"
+}

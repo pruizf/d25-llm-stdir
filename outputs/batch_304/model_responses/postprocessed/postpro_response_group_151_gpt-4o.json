@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1510",
+      "category": "6",
+      "explanation": "The phrase 'En apercevant le Comte' indicates a non-verbal interaction since it involves noticing or looking at the Comte.",
+      "stgdir": "En apercevant le Comte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1511",
+      "category": "7",
+      "explanation": "The phrase 'Polidor doit avoir suivi Tirsis' describes movement, as it involves one character following another.",
+      "stgdir": "Polidor doit avoir suivi Tirsis.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1512",
+      "category": "10",
+      "explanation": "The phrase 'Elle porte la bague \u00e0 ses l\u00e8vres' indicates interaction with an object, as it involves an action related to a ring (bague).",
+      "stgdir": "Elle porte la bague \u00e0 ses l\u00e8vres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1513",
+      "category": "8",
+      "explanation": "The phrase 'AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands' is a classic indicator of music, as it specifies the name of a tune, following the word 'AIR'.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1514",
+      "category": "9",
+      "explanation": "The phrase 'Cris au-dehors :' suggests narration, as it describes a non-specific sound event happening outside the visible scene.",
+      "stgdir": "Cris au-dehors :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1515",
+      "category": "5",
+      "explanation": "The phrase 'B\u00e9atrix se retire' suggests an exit, as it involves a character withdrawing or leaving the scene.",
+      "stgdir": "B\u00e9atrix se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1516",
+      "category": "7",
+      "explanation": "The phrase 'Elle se l\u00e8ve, et parcourt la chambre de long en large' involves movement, as it describes a character walking across the room.",
+      "stgdir": "Elle se l\u00e8ve, et parcourt la chambre de long en large.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1517",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 la Reine' indicates the intended addressee of a speech, specifying directionality toward the Queen.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1518",
+      "category": "6",
+      "explanation": "The phrase 'Montrant Milady' indicates non-verbal interaction by pointing or showing, as it involves an action directed at a character.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1519",
+      "category": "12",
+      "explanation": "Like '\u00c0 la Reine,' '\u00c0 Zaide' designates the addressee of a speech, indicating the direction of the interaction toward Zaide.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10585.227012634277,
+  "model": "gpt-4o"
+}

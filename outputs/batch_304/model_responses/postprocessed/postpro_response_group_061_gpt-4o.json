@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "610",
+      "category": "0",
+      "explanation": "The action of opening a door is a general character action without specific interaction, aggression, or exit/entrance, fitting the general action category.",
+      "stgdir": "Il va ouvrir la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "611",
+      "category": "4",
+      "explanation": "The stage direction describes the appearance of three characters, indicating an entrance onto the stage.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "612",
+      "category": "4",
+      "explanation": "This direction involves a character entering the stage, hence it falls under the entrance category.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "613",
+      "category": "9",
+      "explanation": "The direction describes an event ('interm\u00e8de'), likely involving multiple actions and scenery, thus fitting the narration category.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "614",
+      "category": "1",
+      "explanation": "The verb 'bat' (to beat) indicates a violent action, classifying this under aggression.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "615",
+      "category": "4",
+      "explanation": "The direction involves characters entering the stage together, thus it fits the entrance category.",
+      "stgdir": "Il entre avec l'orf\u00e8vre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "616",
+      "category": "10",
+      "explanation": "This direction involves interaction with an object (picking up a cap), making it an object-related action.",
+      "stgdir": "Elle ramasse le bonnet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "617",
+      "category": "8",
+      "explanation": "The use of 'Air' suggests a musical piece or segment is introduced, thus it qualifies under the music category.",
+      "stgdir": "Air : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "618",
+      "category": "9",
+      "explanation": "Describing a group of sailors descending from a ship suggests a longer, narrative quality, fitting the narration category.",
+      "stgdir": "Une troupe de Matelots descendent d'un vaisseau \u00e9chou\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "619",
+      "category": "12",
+      "explanation": "This direction indicates the character who is being addressed, falling under the 'toward' category.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8683.114051818848,
+  "model": "gpt-4o"
+}

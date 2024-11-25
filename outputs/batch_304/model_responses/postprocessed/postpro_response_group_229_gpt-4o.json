@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2290",
+      "category": "9",
+      "explanation": "This stage direction describes a distant sound ('On bat la marche dans l'\u00e9loignement'), which fits the category of narration because it refers to an environmental sound that is part of the story's ambiance.",
+      "stgdir": "On bat la marche dans l'\u00e9loignement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2291",
+      "category": "10",
+      "explanation": "This stage direction ('LETTRE D'AXALA A DORANTE') refers to a letter, which is an object, fitting the object category.",
+      "stgdir": "LETTRE D'AXALA A DORANTE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2292",
+      "category": "6",
+      "explanation": "The direction ('Elle montre le banc de pierre') indicates a non-verbal interaction as one character is showing something to another.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2293",
+      "category": "6",
+      "explanation": "Similarly, 'En montrant M\u00e9lise' also indicates a non-verbal interaction through the act of pointing or presenting a character to another.",
+      "stgdir": "En montrant M\u00e9lise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2294",
+      "category": "8",
+      "explanation": "This line ('AIR : J'aime bien mieux, etc.') denotes the name of a tune or song, which fits the music category.",
+      "stgdir": "AIR : J'aime bien mieux, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2295",
+      "category": "12",
+      "explanation": "This direction ('\u00c0 Marcia') indicates the person to whom actions or words are directed, fitting the toward category.",
+      "stgdir": "\u00c0 Marcia.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2296",
+      "category": "8",
+      "explanation": "The term 'ARIETTE l\u00e9g\u00e8re' refers to a musical piece, categorizing it under music.",
+      "stgdir": "ARIETTE l\u00e9g\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2297",
+      "category": "5",
+      "explanation": "The direction ('Elle se retire') indicates that a character is leaving the stage, which fits the exit category.",
+      "stgdir": "Elle se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2298",
+      "category": "4",
+      "explanation": "This direction ('Elles entrent par le fond') shows that characters are entering the stage, fitting the entrance category.",
+      "stgdir": "Elles entrent par le fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2299",
+      "category": "4",
+      "explanation": "Describes a character entering from the opposite side and provides a description of appearance, fitting the entrance category primarily due to the entrance action.",
+      "stgdir": "Elle entre par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 est sortie Julie. Elle est coiff\u00e9e en cheveux avec des rubans et porte une toilette \u00e9l\u00e9gante.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 11668.700695037842,
+  "model": "gpt-4o"
+}

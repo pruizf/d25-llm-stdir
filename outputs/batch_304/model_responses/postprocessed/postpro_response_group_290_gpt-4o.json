@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2900",
+      "category": "1",
+      "explanation": "The act of plunging a knife into the body is a violent action, indicating aggression.",
+      "stgdir": "Elle lui plonge le coutelas dans le corps, et para\u00eet vouloir le s\u00e9parer en deux comme pour le d\u00e9vorer\u00a0; les soldats attir\u00e9s de nouveau par la faim, reviennent, et l'un d'eux, en se reculant d'horreur, dit \u00e0 l'arri\u00e8re-sc\u00e8ne :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2901",
+      "category": "8",
+      "explanation": "The stage direction specifies a tune by name, indicated by 'Air', and falls under music.",
+      "stgdir": "Air : La Carmagnole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2902",
+      "category": "8",
+      "explanation": "Similarly, it specifies a musical piece by name, thus related to the category of music.",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2903",
+      "category": "4",
+      "explanation": "This indicates the entrance of a character named L\u00e9andre into a designated area, aligning with the entrance category.",
+      "stgdir": "L\u00e9andre rentre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2904",
+      "category": "8",
+      "explanation": "The use of 'Air' followed by the name of a tune identifies it as a music stage direction.",
+      "stgdir": "Air : Si Dorilas contre les femmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2905",
+      "category": "12",
+      "explanation": "The stage direction indicates to whom an action or speech is directed, labeled towards the Marquise.",
+      "stgdir": "\u00c0 la Marquise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2906",
+      "category": "12",
+      "explanation": "Similarly, indicates the addressee of an action or speech, directed towards the comtesse.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2907",
+      "category": "8",
+      "explanation": "Begins with 'Air' indicating the name of the tune, thus related to music.",
+      "stgdir": "Air : Le premier du mois de Janvier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2908",
+      "category": "6",
+      "explanation": "The action of pointing or indicating \u00c9velina suggests non-verbal interaction, falling under the interaction category.",
+      "stgdir": "Montrant \u00c9velina.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2909",
+      "category": "7",
+      "explanation": "The action of getting up from the table represents movement on stage.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 8422.507047653198,
+  "model": "gpt-4o"
+}

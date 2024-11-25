@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "200",
+      "category": "5",
+      "explanation": "The stage direction describes characters (Almaviva and L\u00e9on) taking someone under their arms and exiting. The exit is indicated by the phrase 'ils sortent tous,' which corresponds to category 5 (exit).",
+      "stgdir": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "8",
+      "explanation": "This stage direction starts with 'Air,' which indicates a musical tune or piece. The mention of 'Air : De la b\u00e9quille' suggests it's a music stage direction without specifying that a character sings. Category 8 (music) is the best fit.",
+      "stgdir": "Air : De la b\u00e9quille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "1",
+      "explanation": "The stage direction mentions \u201cil la choque un peu,\u201d which involves an act that can be considered an aggression or offensive physical contact, aligning with category 1 (aggression).",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "6",
+      "explanation": "This stage direction involves a form of interaction described by 'ils la quittent,' which implies ending a non-verbal interaction or presence. However, without additional context, this indicates an interaction conclusion, best fitting category 6 (interaction).",
+      "stgdir": "Ils la quittent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "3",
+      "explanation": "The direction specifies an actress singing a piece of her choice. As it involves the manner of vocal expression (singing), it falls under category 3 (delivery).",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "9",
+      "explanation": "This is a long narrative stage direction describing events and actions taken by characters, similar to a narration. It aligns with category 9 (narration) due to its detailed and sequential storytelling nature.",
+      "stgdir": "Apr\u00e8s que Neptune eut \u00e9t\u00e9 remerci\u00e9 par le sieur de Poutrincourt de ses offres au bieN de la France, les sauvages le furent semblablement de leur bonne volont\u00e9 et d\u00e9votion, et incit\u00e9s de venir au Fort-Royal prendre du caracona. \u00c0 l'instant la troupe de Neptune chante en musique \u00e0 quatre parties ce qui s'enfuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "6",
+      "explanation": "The stage direction 'montrant Cic\u00e9ron' involves non-verbal interaction through pointing or showing, best fitting category 6 (interaction).",
+      "stgdir": "Montrant Cic\u00e9ron.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "5",
+      "explanation": "The stage direction says 'Les chasseurs se retirent,' which refers to characters exiting the stage, aligning with category 5 (exit).",
+      "stgdir": "Les chasseurs se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "1",
+      "explanation": "The phrase 'lui pousse deux ou trois bottes' suggests a form of combat or aggressive interaction typical of fencing or fighting stages, which fits category 1 (aggression).",
+      "stgdir": "Le ma\u00eetre d'armes, lui pousse deux ou trois bottes, en lui disant : \"En garde.\"",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "6",
+      "explanation": "This direction illustrates multiple instances of non-verbal character interaction, '\u00e9tend sa main, et le prend par le collet' and 'Ang\u00e9lique rencontre la main de Dorante, qu'elle prend,' fitting category 6 (interaction).",
+      "stgdir": "Ici Lisette en approchant de l'Olive qu'elle ne voit point, \u00e9tend sa main, et le prend par le collet, et dans le m\u00eame temps Ang\u00e9lique rencontre la main de Dorante, qu'elle prend.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 10733.752012252808,
+  "model": "gpt-4o"
+}

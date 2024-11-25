@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 0,
+      "category": 5,
+      "explanation": "The stage direction 'L'avocat sort.' indicates a character exiting the stage, aligning with the exit category.",
+      "stgdir": "L'avocat sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1,
+      "category": 9,
+      "explanation": "This direction describes a detailed sequence and set of actions (a magical ceremony involving magicians, demons, and witches). It has a narrative quality and is intended for readers, fitting the narration category.",
+      "stgdir": "C'est dans cette sc\u00e8ne que les lutins d\u00e9guis\u00e9s font une c\u00e9r\u00e9monie magique pour feindre d'embellir Forestan, et pour se moquer de lui. Deux magiciens paraissent chacun une baguette \u00e0 la main, ils frappent, la Terre en dansant, et font sortir six d\u00e9mons qui se joignent avec eux. Trois sorci\u00e8res sortent aussi de dessous terre, et faisant asseoir Forestan au milieu d'elles, m\u00ealent leur chants aux danses des Magiciens et des D\u00e9mons, pour former une mani\u00e8re d'enchantement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2,
+      "category": 8,
+      "explanation": "'Sixi\u00e8me Couplet' likely refers to a musical piece or tune, placing it in the music category.",
+      "stgdir": "Sixi\u00e8me Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 3,
+      "category": 4,
+      "explanation": "'N\u00e9rine para\u00eet.' indicates a character's entrance onto the stage, relevant to the entrance category.",
+      "stgdir": "N\u00e9rine para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 4,
+      "category": 7,
+      "explanation": "The stage direction 'Il passe devant \u00c9velina.' involves passing in front of another character, indicating movement.",
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 5,
+      "category": 3,
+      "explanation": "'LE CHOEUR r\u00e9p\u00e8te.' suggests repetition by a choir, indicating delivery manner related to music or vocal expression, thus fitting the delivery category.",
+      "stgdir": "LE CHOEUR r\u00e9p\u00e8te.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 6,
+      "category": 12,
+      "explanation": "'\u00c0 Dariolette.' indicates the addressee of speech, fitting the toward category.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 7,
+      "category": 5,
+      "explanation": "'Ceux \u00e0 qui elle parle se retirent.' describes characters exiting the scene, matching the exit category.",
+      "stgdir": "Ceux \u00e0 qui elle parle se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 8,
+      "category": 8,
+      "explanation": "'DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.' likely relates to a performance involving music or a musical interlude, fitting the music category.",
+      "stgdir": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 9,
+      "category": 9,
+      "explanation": "'On entend quelqu'un qui vient.' is noting a sound indicating someone coming but is descriptive, fitting the narration category.",
+      "stgdir": "On entend quelqu'un qui vient.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 11155.720233917236,
+  "model": "gpt-4o"
+}

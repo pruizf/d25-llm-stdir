@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "510",
+      "category": "3",
+      "explanation": "The stage direction 'En pleurant.' describes the emotional manner of delivery, indicating that the character is crying, which falls under the delivery of emotion.",
+      "stgdir": "En pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "511",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Voil\u00e0 la ressemblance.' is preceded by the word 'AIR', indicating that it refers to the name of a musical tune or accompaniment, thus classified as music.",
+      "stgdir": "AIR. Voil\u00e0 la ressemblance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "512",
+      "category": "10",
+      "explanation": "'Il lui baille une lettre.' translates to 'He gives him/her a letter.', which involves handling or manipulating an object, thus falling under the object category.",
+      "stgdir": "Il lui baille une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "513",
+      "category": "3",
+      "explanation": "The term 'SENTENCE.' likely refers to the manner in which something is said or delivered, thus it is categorized under delivery.",
+      "stgdir": "SENTENCE.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "514",
+      "category": "8",
+      "explanation": "Similar to direction 511, 'AIR. Monsieur le Pr\u00e9v\u00f4t des marchands.' starts with 'AIR', indicating it is a tune name or musical piece, therefore it is classified under music.",
+      "stgdir": "AIR. Monsieur le Pr\u00e9v\u00f4t des marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "515",
+      "category": "3",
+      "explanation": "The stage direction 'S'\u00e9chauffant.' describes an emotional state of excitement or anger, thus it fits in the delivery category related to vocal or emotional expression.",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "516",
+      "category": "3",
+      "explanation": "'Criant tr\u00e8s fort.' describes the vocal expression of emotion, specifically loud crying or shouting, categorizing it under delivery.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "517",
+      "category": "12",
+      "explanation": "\u00c0 Carion indicates to whom the speech or action is addressed, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Carion.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "518",
+      "category": "5",
+      "explanation": "'Monsieur Dumont sort.' indicates the character exits the stage, which directly falls under the exit category.",
+      "stgdir": "Monsieur Dumont sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "519",
+      "category": "8",
+      "explanation": "The presence of 'AIR. Des pendus.' implies a musical reference or a tune's name, placing it in the music category.",
+      "stgdir": "AIR. Des pendus.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 11012.105464935303,
+  "model": "gpt-4o"
+}

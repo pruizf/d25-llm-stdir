@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1540",
+      "category": "11",
+      "explanation": "This stage direction describes the setting of the play, indicated by 'Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant dans une maison de campagne.' which is a description of the stage environment.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant dans une maison de campagne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1541",
+      "category": "5",
+      "explanation": "The use of the term 'Il s'\u00e9chappe.' suggests an exit, as it refers to a character leaving or escaping from the scene.",
+      "stgdir": "Il s'\u00e9chappe.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1542",
+      "category": "8",
+      "explanation": "With 'Air :' followed by a tune name, this stage direction indicates a music cue, which falls under the music category.",
+      "stgdir": "Air : Quand la berg\u00e8re vient des champs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1543",
+      "category": "4",
+      "explanation": "The term 'Entr\u00e9e', meaning entrance, indicates characters or elements are coming onto the stage.",
+      "stgdir": "Entr\u00e9e des forgerons.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1544",
+      "category": "7",
+      "explanation": "The phrase 'Il s'approche d'un tombeau.' describes a character's movement towards something (a tomb), which falls under the movement category.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1545",
+      "category": "10",
+      "explanation": "This direction involves giving an object ('une \u00e9p\u00e9e') to another character, which fits the object category.",
+      "stgdir": "Il donne une \u00e9p\u00e9e \u00e0 Francis et l'autre \u00e0 Alfred.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1546",
+      "category": "12",
+      "explanation": "'\u00c0 L\u00e9onidas.' indicates the target of a character\u2019s speech or action, therefore it belongs in the 'toward' category.",
+      "stgdir": "\u00c0 L\u00e9onidas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1547",
+      "category": "6",
+      "explanation": "'Apercevant Dormene.' involves non-verbal interaction as the character notices another, which fits under interaction.",
+      "stgdir": "Apercevant Dormene.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1548",
+      "category": "9",
+      "explanation": "This direction describes a visual or narrative detail ('On voit para\u00eetre le Marquis dans le miroir.') intended for the reader or viewer, categorized as narration.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1549",
+      "category": "12",
+      "explanation": "'\u00c0 son fils' indicates the recipient of an action or speech, thus it belongs in the 'toward' category.",
+      "stgdir": "\u00c0 son fils",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 11445.675373077393,
+  "model": "gpt-4o"
+}

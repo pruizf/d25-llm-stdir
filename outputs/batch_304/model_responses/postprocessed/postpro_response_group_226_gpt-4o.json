@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2260",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating that it refers to music or a song name.",
+      "stgdir": "Air. H\u00e9las, ce fut sa faute.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2261",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of actions and describes how the characters are entering the scene. It has a narrative quality and is intended for readers.",
+      "stgdir": "Ils arrivent tous quatre, don Carlos en t\u00eate. Ils sont envelopp\u00e9s de longs manteaux dont leurs \u00e9p\u00e9es soul\u00e8vent le bord inf\u00e9rieur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2262",
+      "category": "5",
+      "explanation": "The phrase 's'en va' indicates an exit from the stage.",
+      "stgdir": "Thibaut s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2263",
+      "category": "1",
+      "explanation": "The action of 'avalant le poison' (swallowing poison) is related to aggression as it involves an act of self-harm.",
+      "stgdir": "Elle avale le poison.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2264",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating it refers to a piece of music or song.",
+      "stgdir": "AIR : Ne m'entendez vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2265",
+      "category": "10",
+      "explanation": "The phrase 'on le lui pr\u00e9sente' implies that an object is being given or shown to someone.",
+      "stgdir": "On le lui pr\u00e9sente.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2266",
+      "category": "9",
+      "explanation": "This long direction has a narrative quality, describing a sequence of interactions and speech without specifying direct actions.",
+      "stgdir": "Voyant qu'elles s'expliquaient \u00e0 moi sans aucun scrupule, je leur dis qu'encore qu'elles m'eussent command\u00e9 de les \u00e9couter sans interrompre leurs discours, que je ne pouvais m'emp\u00eacher de leur confesser qu'elles avaient assez bien d\u00e9fendu leur opinion, touchant l'amour qu'elles pouvaient avoir pour un seul objet ; mais qu'il fallait traiter de cet amour qu'on feint d'avoir pour plusieurs, toutefois en ressentir que pour soi-m\u00eame.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2267",
+      "category": "7",
+      "explanation": "The phrase 'Avan\u00e7ant en sc\u00e8ne' indicates movement, specifically moving forward on stage.",
+      "stgdir": "Avan\u00e7ant en sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2268",
+      "category": "0",
+      "explanation": "The action of reading ('lit') falls under general character actions.",
+      "stgdir": "Don Cosme lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2269",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', indicating it refers to music or a song name.",
+      "stgdir": "Air 85 : Y-avance, y-avance.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 12166.520118713379,
+  "model": "gpt-4o"
+}

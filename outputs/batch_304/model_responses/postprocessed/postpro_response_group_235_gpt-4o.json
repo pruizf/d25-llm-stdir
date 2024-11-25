@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2350",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air' and specifies a tune name, which categorizes it under music.",
+      "stgdir": "Air 176 : De La Renaissance de la Foire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2351",
+      "category": "1",
+      "explanation": "The stage direction involves hitting a door and indicates a potentially aggressive or violent action.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2352",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR' indicating a musical piece or tune to be played.",
+      "stgdir": "AIR. Qu'on me bl\u00e2me tant que l'on voudra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2353",
+      "category": "5",
+      "explanation": "The verb 'sort' indicates an exit, fitting the category for character exits.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2354",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating it refers to music or a tune.",
+      "stgdir": "AIR. Ah ! Robin, tais-toi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2355",
+      "category": "1",
+      "explanation": "The action of 'se pr\u00e9cipite dans la mer' is a potentially self-destructive or violent action, which often relates to aggression.",
+      "stgdir": "Elle se pr\u00e9cipite dans la mer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2356",
+      "category": "3",
+      "explanation": "The phrase 'Elle para\u00eet s\u00e9rieuse' describes the delivery manner of the character, indicating a serious expression or demeanor.",
+      "stgdir": "Elle para\u00eet s\u00e9rieuse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2357",
+      "category": "8",
+      "explanation": "The stage direction refers to an 'Air', indicating it is related to music.",
+      "stgdir": "Air : Courons de la blonde \u00e0 la brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2358",
+      "category": "0",
+      "explanation": "The action of 's'asseyant sur une chaise' fits the general action category related to sitting.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2359",
+      "category": "11",
+      "explanation": "This describes the stage setting, providing details about the location and visual elements of the scene, which fits the setting category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le bord de la mer. On voit de c\u00f4t\u00e9 et d'autres diff\u00e9rentes ouvertures entre des rochers ; mais la grotte de Philoct\u00e8te est suppos\u00e9e ne pouvoir \u00eatre vue que dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 7551.623344421387,
+  "model": "gpt-4o"
+}

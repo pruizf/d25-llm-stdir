@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1750",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Les Proverbes' indicates a musical piece, which fits the category for music because it refers to a tune name typically used for plays with songs.",
+      "stgdir": "Air : Les Proverbes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1751",
+      "category": "6",
+      "explanation": "The stage direction 'Il la caresse' describes non-verbal character interaction, specifically caressing another character, which fits the interaction category.",
+      "stgdir": "Il la caresse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1752",
+      "category": "7",
+      "explanation": "The stage direction 'Il va pour \u00e9couter \u00e0 la porte' involves a character moving towards a door, fitting the movement category as it involves moving closer.",
+      "stgdir": "Il va pour \u00e9couter \u00e0 la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1753",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Baliveau, voyant son profond \u00e9tonnement' indicates that the observation or the action is directed towards Baliveau, fitting the toward category.",
+      "stgdir": "\u00c0 Baliveau, voyant son profond \u00e9tonnement.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1754",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Ces Filles sont si sottes' refers to a musical piece or tune name, fitting the category for music as it indicates an AIR in the play.",
+      "stgdir": "Air : Ces Filles sont si sottes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1755",
+      "category": "0",
+      "explanation": "The stage direction 'Apr\u00e8s qu'elle a lu' involves reading, which is a general character action. It fits the action category because it specifies what the character is doing (reading).",
+      "stgdir": "Apr\u00e8s qu'elle a lu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1756",
+      "category": "0",
+      "explanation": "The stage direction 'Ils s'asseyent \u00e0 la table' describes the characters sitting at a table, which is a general action. It fits the action category because it involves the act of sitting.",
+      "stgdir": "Ils s'asseyent \u00e0 la table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1757",
+      "category": "8",
+      "explanation": "The stage direction 'AIR 49 : Jardinier, ne vois-tu, pas ?' refers to a musical piece or tune name, fitting the music category as it clearly indicates a musical air.",
+      "stgdir": "AIR 49 : Jardinier, ne vois-tu, pas ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1758",
+      "category": "6",
+      "explanation": "The stage direction 'Embrassant son p\u00e8re' describes a non-verbal interaction, specifically embracing, which fits the interaction category.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1759",
+      "category": "4",
+      "explanation": "The stage direction 'Madame de l'Architrave accompagn\u00e9e de plusieurs ma\u00e7ons avec leurs outils, salue Arlequin' describes a character entering accompanied by others, indicating the entrance of characters onto the stage.",
+      "stgdir": "Madame de l'Architrave accompagn\u00e9e de plusieurs ma\u00e7ons avec leurs outils, salue Arlequin.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 23967.856884002686,
+  "model": "gpt-4o"
+}

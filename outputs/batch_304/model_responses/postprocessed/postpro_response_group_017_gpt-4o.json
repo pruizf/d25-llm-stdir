@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "170",
+      "category": "5",
+      "explanation": "The direction 'Ils sortent de la caverne' describes characters exiting a location, which fits the 'exit' category.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "8",
+      "explanation": "The direction 'AIR : Les filles de Nanterre' indicates a music piece performed or played, as it begins with 'AIR,' making it fit the 'music' category.",
+      "stgdir": "AIR : Les filles de Nanterre,",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "0",
+      "explanation": "The direction 'Ils \u00e9coutent' involves characters listening, which is a general action and fits the 'action' category.",
+      "stgdir": "Ils \u00e9coutent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Guillaume' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "9",
+      "explanation": "The direction 'SONNET' could imply a recitation or narrative element integral to the storyline, fitting the 'narration' category.",
+      "stgdir": "SONNET.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "4",
+      "explanation": "The direction 'Timag\u00e8ne rentre sur le th\u00e9\u00e2tre' describes a character entering the stage, fitting the 'entrance' category.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "10",
+      "explanation": "The direction 'Don C\u00e9sar re\u00e7oit la main d'Isabelle' involves a character receiving an object (metaphorically, Isabelle's hand in marriage), which fits the 'object' category.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "0",
+      "explanation": "The direction 'Ils s'attablent' describes characters sitting down at the table, which is a general character action, fitting the 'action' category.",
+      "stgdir": "Ils s'attablent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "8",
+      "explanation": "The direction 'AIR. Non, je ne serai pas.' indicates a music piece performed or played, as it begins with 'AIR,' making it fit the 'music' category.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "The direction 'Air : La b\u00e9quille du P\u00e8re Barnaba' specifies a tune or song to be performed, identified by the word 'Air,' fitting the 'music' category.",
+      "stgdir": "Air : La b\u00e9quille du P\u00e8re Barnaba.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 12743.139028549194,
+  "model": "gpt-4o"
+}

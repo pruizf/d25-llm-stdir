@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "280",
+      "category": "3",
+      "explanation": "The stage direction 'Tout ce reste est chant\u00e9.' indicates that the remainder is sung, relating to vocal delivery and expression, fitting the 'delivery' category.",
+      "stgdir": "Tout ce reste est chant\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant son front.' involves a non-verbal interaction as a character is showing a part of their body, thus fitting the 'interaction' category.",
+      "stgdir": "Montrant son front.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "4",
+      "explanation": "The stage direction 'Auguste rentre avec un plateau.' describes a character entering the stage with an object, fitting the 'entrance' category as it emphasizes the action of entering.",
+      "stgdir": "Auguste rentre avec un plateau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Non, toujours dire non.' is introducing a named tune, indicated by the use of 'AIR', fitting the 'music' category.",
+      "stgdir": "AIR. Non, toujours dire non.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "3",
+      "explanation": "The stage direction 'Il continue toujours \u00e0 parler.' relates to the manner of vocal delivery, as it describes the action of speaking continuously, fitting the 'delivery' category.",
+      "stgdir": "Il continue toujours \u00e0 parler.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "4",
+      "explanation": "The stage direction 'On entre.' refers to the action of entering the stage, which fits the 'entrance' category.",
+      "stgdir": "On entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "7",
+      "explanation": "The stage direction 'Th\u00e9r\u00e8se et Madame Raquin se l\u00e8vent.' involves characters standing up, which describes a movement not related to exiting or entering, fitting the 'movement' category.",
+      "stgdir": "Th\u00e9r\u00e8se et Madame Raquin se l\u00e8vent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "8",
+      "explanation": "The stage direction 'TROISI\u00c8ME COUPLET.' likely refers to a part of a song or music piece, fitting the 'music' category.",
+      "stgdir": "TROISI\u00c8ME COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "8",
+      "explanation": "The stage direction 'ODE \u00c9PITHALAMIQUE.' refers to a specific type of ceremonial song or music piece, fitting the 'music' category.",
+      "stgdir": "ODE \u00c9PITHALAMIQUE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "11",
+      "explanation": "The stage direction 'Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.' provides a description of the stage setting, fitting the 'setting' category.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 9860.912322998047,
+  "model": "gpt-4o"
+}

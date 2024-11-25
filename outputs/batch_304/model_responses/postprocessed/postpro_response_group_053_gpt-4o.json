@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "530",
+      "category": "9",
+      "explanation": "This stage direction provides a detailed description of actions and context, resembling a narrative meant for the reader. It describes the arrival of characters and their interaction, fitting the 'narration' category.",
+      "stgdir": "Cinthio et Colombine arrivent ensemble \u00e0 l'h\u00f4tellerie d'Arlequin. Colombine fait part \u00e0 Cinthio de l'infid\u00e9lit\u00e9 d'Octave, et de l'embarras o\u00f9 elle se trouve en voyageant seule. Cinthio t\u00e2che de la rassurer, offre de l'accompagner, et lui persuade de se faire passer pour sa soeur. Il frappe \u00e0 la porte d'Arlequin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "531",
+      "category": "10",
+      "explanation": "This direction describes a character removing a hat and shawl, which involves interactions with objects, fitting the 'object' category.",
+      "stgdir": "Elle quitte son chapeau et son ch\u00e2le.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "532",
+      "category": "8",
+      "explanation": "The direction starts with 'AIR', indicating a musical element or tune, fitting the 'music' category.",
+      "stgdir": "AIR. Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "533",
+      "category": "5",
+      "explanation": "This direction involves a character leaving ('s'en va'), fitting the 'exit' category.",
+      "stgdir": "La Fleur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "534",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or actions directed toward specific characters, fitting the 'toward' category.",
+      "stgdir": "Au commandeur et au comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "535",
+      "category": "6",
+      "explanation": "This direction describes a character placing their hand on their heart, an interaction involving gesture, fitting the 'interaction' category.",
+      "stgdir": "Portant le main \u00e0 son coeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "536",
+      "category": "3",
+      "explanation": "Describes how something is delivered ('Sur le m\u00eame ton'), fitting the 'delivery' category as it relates to vocal or emotional expression.",
+      "stgdir": "Sur le m\u00eame ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "537",
+      "category": "3",
+      "explanation": "The direction involves singing in a group ('En chorus'), which falls under vocal expression, fitting the 'delivery' category.",
+      "stgdir": "En chorus.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "538",
+      "category": "10",
+      "explanation": "Involves the action of opening a drawer, an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "539",
+      "category": "4",
+      "explanation": "This direction describes a character entering, fitting the 'entrance' category.",
+      "stgdir": "Sabine entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 14974.488496780396,
+  "model": "gpt-4o"
+}

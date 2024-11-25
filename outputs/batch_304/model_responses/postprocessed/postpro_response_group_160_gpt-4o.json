@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1600",
+      "category": "3",
+      "explanation": "The stage direction 'Il dit ces vers tout bas' indicates the manner in which the character delivers their lines, specifically low or quiet speech, which falls under the category of delivery.",
+      "stgdir": "Il dit ces vers tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1601",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant le Lord Houzey et le Marquis' involves a character visually perceiving or noticing other characters. This constitutes a non-verbal interaction.",
+      "stgdir": "Apercevant le Lord Houzey et le Marquis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1602",
+      "category": "3",
+      "explanation": "The stage direction 'Il r\u00e9it\u00e8re souvent' suggests the character frequently repeats lines or expressions, which relates to the manner of delivery.",
+      "stgdir": "Il r\u00e9it\u00e8re souvent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1603",
+      "category": "8",
+      "explanation": "The stage direction 'Air : J'aime une jeune Brunette' refers to a specific musical tune to be played, which fits under the music category.",
+      "stgdir": "Air : J'aime une jeune Brunette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1604",
+      "category": "0",
+      "explanation": "The stage direction 'Louis se l\u00e8ve' describes a general action of standing up, which fits into the action category as it does not specifically fit other defined actions like movement or entrance.",
+      "stgdir": "Louis se l\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1605",
+      "category": "4",
+      "explanation": "The stage direction 'Lavinie rentre et Albine continue' indicates Lavinie's entrance onto the stage, which classifies under entrance.",
+      "stgdir": "Lavinie rentre et Albine continue.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1606",
+      "category": "10",
+      "explanation": "The stage direction 'Elle se met en devoir d'\u00f4ter celui qui est sur sa t\u00eate' involves a character interacting with an object, specifically removing something from their head, which fits the object category.",
+      "stgdir": "Elle se met en devoir d'\u00f4ter celui qui est sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1607",
+      "category": "6",
+      "explanation": "The stage direction 'Il appuie ses deux mains sur sa poitrine' involves a non-verbal interaction where the character interacts with themselves by placing hands on their chest, indicative of interaction.",
+      "stgdir": "Il appuie ses deux mains sur sa poitrine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1608",
+      "category": "4",
+      "explanation": "The stage direction 'Il entre dans la maison' indicates a character entering a space, which fits under entrance.",
+      "stgdir": "Il entre dans la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1609",
+      "category": "8",
+      "explanation": "The stage direction 'On reprend le rondeau en choeur' refers to the musical reprise of a rondeau being sung in chorus, consistent with the music category.",
+      "stgdir": "On reprend le rondeau en choeur.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 12429.307222366333,
+  "model": "gpt-4o"
+}

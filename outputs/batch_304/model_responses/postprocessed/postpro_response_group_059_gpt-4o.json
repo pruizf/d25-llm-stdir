@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "590",
+      "category": "6",
+      "explanation": "The stage direction 'Ils s'asseyent tous deux' involves a non-verbal interaction as it indicates a mutual action of sitting down together, thus classified as interaction.",
+      "stgdir": "Ils s'asseyent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "591",
+      "category": "12",
+      "explanation": "'\u00c0 Tartuffe' indicates the addressee of a speech, thus it fits the 'toward' category.",
+      "stgdir": "\u00c0 Tartuffe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "592",
+      "category": "5",
+      "explanation": "The stage direction 'Ils sortent avec la M\u00e8re Ubu' indicates characters exiting the stage, thus classified under 'exit'.",
+      "stgdir": "Ils sortent avec la M\u00e8re Ubu.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "593",
+      "category": "8",
+      "explanation": "The presence of the word 'AIR' followed by a tune name suggests a musical element, thus this fits under the 'music' category.",
+      "stgdir": "AIR. Oh ! Ricandaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "594",
+      "category": "6",
+      "explanation": "'En apercevant Eve' indicates a non-verbal interaction involving noticing or seeing a character (Eve), thereby fitting the 'interaction' category.",
+      "stgdir": "En apercevant Eve.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "595",
+      "category": "6",
+      "explanation": "'Regardant sa main vide' suggests a non-verbal interaction involving looking at one's empty hand, thus categorized as interaction.",
+      "stgdir": "Regardant sa main vide.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "596",
+      "category": "6",
+      "explanation": "'Elle reprend le bras de Phanor' indicates a non-verbal action involving physical contact, thus it qualifies as interaction.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "597",
+      "category": "10",
+      "explanation": "'Elle lui rend la bague' specifies an interaction involving an object (a ring), thus placed under the 'object' category.",
+      "stgdir": "Elle lui rend la bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "598",
+      "category": "7",
+      "explanation": "'Se remettant' indicates a movement or a recovery action, thus categorized as movement.",
+      "stgdir": "Se remettant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "599",
+      "category": "9",
+      "explanation": "This lengthy stage direction provides narrative detail about the scene, elaborating on character actions and social commentary, thus fitting the 'narration' category.",
+      "stgdir": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 17079.137086868286,
+  "model": "gpt-4o"
+}

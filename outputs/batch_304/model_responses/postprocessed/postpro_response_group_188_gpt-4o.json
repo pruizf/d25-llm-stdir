@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1880",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating it is the name of a tune or piece of music that is to be played or sung.",
+      "stgdir": "Air : Lise demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1881",
+      "category": "5",
+      "explanation": "The verb 'sort' indicates that Harald is exiting the stage.",
+      "stgdir": "Harald sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1882",
+      "category": "7",
+      "explanation": "The phrase 'Se soulevant un peu' suggests a character changing their position, which involves movement.",
+      "stgdir": "Se soulevant un peu.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1883",
+      "category": "6",
+      "explanation": "The direction describes an action where someone points (indique) at something, which is a non-verbal interaction.",
+      "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1884",
+      "category": "8",
+      "explanation": "Similar to 1880, 'AIR' indicates a tune or musical piece, so this direction relates to music.",
+      "stgdir": "AIR : Marchande de mar\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1885",
+      "category": "3",
+      "explanation": "The action 'chant' (sings) involves vocal expression which falls under delivery.",
+      "stgdir": "Il chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1886",
+      "category": "8",
+      "explanation": "Like previous entries that start with 'AIR', this is a music stage direction indicating the name of a tune.",
+      "stgdir": "AIR : J'aime Henriette (d'une Heure de Folie.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1887",
+      "category": "3",
+      "explanation": "The action 'rit' (laughs) is a form of vocal expression and falls under delivery.",
+      "stgdir": "Marton rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1888",
+      "category": "5",
+      "explanation": "The phrase 'se retire' suggests that M\u00e9lisse is exiting the stage.",
+      "stgdir": "M\u00e9lisse se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1889",
+      "category": "3",
+      "explanation": "The direction involves 'La voix reprend', with 'voix' indicating vocal expression, falling under the delivery category.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 8131.1705112457275,
+  "model": "gpt-4o"
+}

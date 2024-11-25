@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1470",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Mme Vigneron.' indicates the addressee of a character's speech, which fits category 12 (toward).",
+      "stgdir": "\u00c0 Mme Vigneron.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1471",
+      "category": "5",
+      "explanation": "The stage direction 'Le Facteur s'en va.' indicates that the character exits, fitting category 5 (exit).",
+      "stgdir": "Le Facteur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1472",
+      "category": "9",
+      "explanation": "This stage direction describes a movement and interaction sequence where one character supports another as they are about to leave, which is narrative in quality, fitting category 9 (narration).",
+      "stgdir": "Madeleine, qui est rest\u00e9e la derni\u00e8re avec Pierrette, chancelle au moment de sortir ; Pierrette la retient dans ses bras.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1473",
+      "category": "0",
+      "explanation": "The stage direction 'Il lit les requ\u00eates.' describes a character action of reading, fitting category 0 (action).",
+      "stgdir": "Il lit les requ\u00eates.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1474",
+      "category": "12",
+      "explanation": "The stage direction 'Il parle au Chevalier.' specifies toward whom the character is speaking, fitting category 12 (toward).",
+      "stgdir": "Il parle au Chevalier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1475",
+      "category": "8",
+      "explanation": "The stage direction 'Air 178 : Ah ! Quel plaisir lorsqu'apr\u00e8s mille alarmes.' is a music-related indication providing the name of a tune, thus fitting category 8 (music).",
+      "stgdir": "Air 178 : Ah ! Quel plaisir lorsqu'apr\u00e8s mille alarmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1476",
+      "category": "9",
+      "explanation": "This direction describes a sequence involving a musical dialogue and a chorus, which is narrative in nature, fitting category 9 (narration).",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1477",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant sa femme.' describes a non-verbal interaction where a character notices another, fitting category 6 (interaction).",
+      "stgdir": "Apercevant sa femme.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1478",
+      "category": "10",
+      "explanation": "The stage direction 'Tirant un portefeuille de sa poche.' describes an interaction with an object (a wallet), fitting category 10 (object).",
+      "stgdir": "Tirant un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1479",
+      "category": "8",
+      "explanation": "The stage direction 'LE MOINEAU EN CAGE.' likely refers to the title of a musical piece or tune, fitting category 8 (music).",
+      "stgdir": "LE MOINEAU EN CAGE.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7965.077877044678,
+  "model": "gpt-4o"
+}

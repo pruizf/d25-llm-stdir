@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2450",
+      "category": "3",
+      "explanation": "The stage direction 'Triomphalement' indicates the manner in which an action or speech is delivered, specifically in a triumphant manner, which is related to vocal expression of emotion.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2451",
+      "category": "10",
+      "explanation": "The stage direction 'Elle re\u00e7oit son billet' describes a character receiving an object, in this case, a ticket, which falls under interaction with an object.",
+      "stgdir": "Elle re\u00e7oit son billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2452",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Antenor' indicates the addressee of a speech, specifying that something is directed towards Antenor.",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2453",
+      "category": "9",
+      "explanation": "The stage direction describes a sequence of actions, where D'Orfeuil is initially stunned from his fall and then gets up, which is narrative in nature.",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2454",
+      "category": "7",
+      "explanation": "The stage direction 'Il va se mettre entre Damis et Marthon' describes the movement of a character positioning himself between two others.",
+      "stgdir": "Il va se mettre entre Damis et Marthon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2455",
+      "category": "6",
+      "explanation": "The stage direction 'Avisant l'Infant' indicates a non-verbal interaction where a character notices or sees another character.",
+      "stgdir": "Avisant l'Infant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2456",
+      "category": "8",
+      "explanation": "The stage direction indicates the resumption of a symphony, which involves music, and a character (Joad) beginning to speak immediately after.",
+      "stgdir": "Ici recommence la symphonie, et Joad aussit\u00f4t reprend la parole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2457",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui remet Sophie entre les bras' involves handling or giving an object/person, as a character places Sophie into someone else's arms.",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2458",
+      "category": "12",
+      "explanation": "The stage direction 'Parlant \u00e0 Ninon' indicates the specific person to whom the speech is directed, which falls under the 'toward' category.",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2459",
+      "category": "8",
+      "explanation": "The stage direction 'Air de PLANTADE' involves a piece of music, suggesting a specific tune or musical arrangement.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9044.854164123535,
+  "model": "gpt-4o"
+}

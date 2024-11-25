@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "680",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of a speech or action, '\u00c0 Mirval' suggests directing something towards the character Mirval.",
+      "stgdir": "\u00c0 Mirval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "681",
+      "category": "7",
+      "explanation": "The stage direction 'Elle va au lit de la petite Dusault' describes a character moving towards the bed, which involves character movement.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "682",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Toujours seule, disait Nina' starts with 'Air,' indicating it refers to music, specifically the name of a tune.",
+      "stgdir": "Air : Toujours seule, disait Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "683",
+      "category": "6",
+      "explanation": "The stage direction 'Le reconduisant' suggests a non-verbal interaction, as it implies escorting or leading someone, though it doesn't specify speech.",
+      "stgdir": "Le reconduisant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "684",
+      "category": "6",
+      "explanation": "The stage direction 'Elle s'approche du fauteuil de gauche et elle indique celui de droite' describes non-verbal interaction involving approach and pointing.",
+      "stgdir": "Elle s'approche du fauteuil de gauche et elle indique celui de droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "685",
+      "category": "1",
+      "explanation": "The stage direction 'Br\u00e9court l\u00e8ve son b\u00e2ton, que le cavalier pare avec un pistolet qu'il a tir\u00e9 rapidement de sa ceinture' involves potential violence or threat, indicating an aggressive action.",
+      "stgdir": "Br\u00e9court l\u00e8ve son b\u00e2ton, que le cavalier pare avec un pistolet qu'il a tir\u00e9 rapidement de sa ceinture.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "686",
+      "category": "4",
+      "explanation": "The stage direction 'Chompr\u00e9 para\u00eet' describes the appearance of a character on stage, indicating an entrance.",
+      "stgdir": "Chompr\u00e9 para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "687",
+      "category": "12",
+      "explanation": "'\u00c0 Arsame' specifies the addressee of an action or speech, indicating direction towards a specific character.",
+      "stgdir": "\u00c0 Arsame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "688",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Du Vaudeville de Figaro' starts with 'AIR,' signifying it concerns music, specifically the title of a tune or song.",
+      "stgdir": "AIR : Du Vaudeville de Figaro.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "689",
+      "category": "11",
+      "explanation": "The stage direction 'La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige' provides a description of the play's setting, indicating location and scenery.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 7451.5180587768555,
+  "model": "gpt-4o"
+}

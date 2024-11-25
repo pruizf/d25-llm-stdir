@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1940",
+      "category": "11",
+      "explanation": "The stage direction 'Le bord de l'Arno.' describes the location of the scene, which falls under the setting category.",
+      "stgdir": "Le bord de l'Arno.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1941",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 \u00c9dmond.' indicates the addressee of a speech or action, which matches the toward category.",
+      "stgdir": "\u00c0 \u00c9dmond.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1942",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Sa ne vous va brin.' refers to a piece of music, as indicated by the word 'Air', which fits the music category.",
+      "stgdir": "Air : Sa ne vous va brin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1943",
+      "category": "0",
+      "explanation": "The stage direction 'Autre plus \u00e9norme encore.' lacks sufficient context but appears to describe a general action or observation, fitting the action category.",
+      "stgdir": "Autre plus \u00e9norme encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1944",
+      "category": "0",
+      "explanation": "The stage direction 'Il se met \u00e0 genoux devant Monsieur Oronte.' describes a character kneeling, which is a general character action and fits the action category.",
+      "stgdir": "Il se met \u00e0 genoux devant Monsieur Oronte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1945",
+      "category": "5",
+      "explanation": "The stage direction 'Alcandre sort.' describes a character exiting, which matches the exit category.",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1946",
+      "category": "5",
+      "explanation": "The stage direction 'Ang\u00e9lique s'en va.' indicates that a character is leaving the scene, fitting the exit category.",
+      "stgdir": "Ang\u00e9lique s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1947",
+      "category": "10",
+      "explanation": "The stage direction 'Il met une Manche pour l'autre.' suggests a character interacting with a piece of clothing, which fits the object category.",
+      "stgdir": "Il met une Manche pour l'autre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1948",
+      "category": "0",
+      "explanation": "The stage direction 'Lisant :' describes the act of reading, which falls under general character actions and fits the action category.",
+      "stgdir": "Lisant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1949",
+      "category": "4",
+      "explanation": "The stage direction 'Entr\u00e9e de Madame Robin et d\u2019un Officier.' describes characters entering the stage, which matches the entrance category.",
+      "stgdir": "Entr\u00e9e de Madame Robin et d\u2019un Officier.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 15056.3325881958,
+  "model": "gpt-4o"
+}

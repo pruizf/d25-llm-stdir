@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2760",
+      "category": "10",
+      "explanation": "Describes the character interacting with an object (the doll), including embracing it and putting it in a basket.",
+      "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2761",
+      "category": "0",
+      "explanation": "General character action. The character wants to read, which is an action typically involving looking at written material.",
+      "stgdir": "Il veut lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2762",
+      "category": "6",
+      "explanation": "The verb 'regardant' (looking) describes a non-verbal interaction, where the character is likely looking at something or someone.",
+      "stgdir": "Regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2763",
+      "category": "3",
+      "explanation": "The character performs a vocal action by singing, which falls under delivery.",
+      "stgdir": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0:",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2764",
+      "category": "12",
+      "explanation": "Indicates the addressee of an action or speech, in this case '\u00c0 N\u00e9optol\u00e9mus.'",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2765",
+      "category": "11",
+      "explanation": "Describes the setting of the scene, noting the location in 'Au palais du roi' with details about the stage setup.",
+      "stgdir": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2766",
+      "category": "8",
+      "explanation": "Indicates a musical element, starting with 'AIR,' followed by the name 'de la Somnambule.'",
+      "stgdir": "AIR de la Somnambule.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2767",
+      "category": "7",
+      "explanation": "Describes a movement action of getting closer, as indicated by 'Se rapprochant.'",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2768",
+      "category": "8",
+      "explanation": "Begins with 'AIR' and lists a tune name, 'Sans dessus dessous,' indicating that music is involved.",
+      "stgdir": "AIR : Sans dessus desssous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2769",
+      "category": "8",
+      "explanation": "Starts with 'Air' and continues with a tune name, 'Un certain je-ne-sais-quoi,' signifying a music direction.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8942.416429519653,
+  "model": "gpt-4o"
+}

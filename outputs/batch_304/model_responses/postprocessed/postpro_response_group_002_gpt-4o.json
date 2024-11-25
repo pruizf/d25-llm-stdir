@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "20",
+      "category": "6",
+      "explanation": "The stage direction 'Elle appelle Lubin' describes non-verbal character interaction, since calling someone involves an interaction between characters.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "0",
+      "explanation": "The stage direction 'Lisant' is a general character action, as it involves reading.",
+      "stgdir": "Lisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "5",
+      "explanation": "The stage direction 'Elle sort suivie de son page et de la Comtesse' describes a character exiting the stage.",
+      "stgdir": "Elle sort suivie de son page et de la Comtesse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "8",
+      "explanation": "The stage direction 'AIR NOUVEAU : Musique d'Auguste BLANGY' refers to music as it starts with 'AIR' and provides the name of a tune or musical piece.",
+      "stgdir": "AIR NOUVEAU : Musique d'Augusrte BLANGY.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "The stage direction 'Il la frappe' describes an act of aggression\u2014hitting someone is a violent action.",
+      "stgdir": "Il la frappe",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui donne le rouleau' describes an interaction with an object, which involves giving something.",
+      "stgdir": "Il lui donne le rouleau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "10",
+      "explanation": "The stage direction 'Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier' involves interaction with objects by throwing something.",
+      "stgdir": "Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "5",
+      "explanation": "The stage direction 'Adonias sort' specifies a character leaving the stage.",
+      "stgdir": "Adonias sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "5",
+      "explanation": "The stage direction 'La Montagne s'en va' indicates a character exiting the stage.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "10",
+      "explanation": "The stage direction 'Il l'\u00f4te \u00e0 Liliane' involves an object, as it describes removing something from someone.",
+      "stgdir": "Il l'\u00f4te \u00e0 Liliane.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 9507.354497909546,
+  "model": "gpt-4o"
+}

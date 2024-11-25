@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "580",
+      "category": "8",
+      "explanation": "This stage direction refers to a musical element, specifically a RONDEAU, which is a type of musical piece. This fits the 'music' category.",
+      "stgdir": "RONDEAU du Prisonnier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "581",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Florine' indicates that something is directed towards Florine, likely an address or action, hence it fits the 'toward' category.",
+      "stgdir": "\u00c0 Florine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "582",
+      "category": "12",
+      "explanation": "Similarly to the previous stage direction, 'S'adressant \u00e0 L\u00e9andre' indicates that the character is addressing L\u00e9andre, fitting the 'toward' category.",
+      "stgdir": "S'adressant \u00e0 L\u00e9andre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "583",
+      "category": "5",
+      "explanation": "The phrase 'Il feint de s'en aller' translates to 'He pretends to leave,' which relates to an exit, placing it in the 'exit' category.",
+      "stgdir": "Il feint de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "584",
+      "category": "8",
+      "explanation": "This stage direction mentions 'Air : des Fraises,' referring to a musical tune, placing it in the 'music' category.",
+      "stgdir": "Air : des Fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "585",
+      "category": "12",
+      "explanation": "'\u00c0 Ardenie' indicates direction towards Ardenie, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "586",
+      "category": "10",
+      "explanation": "The mention of 'LETTRE SUPPOS\u00c9E' indicates the handling of an object, specifically a letter, fitting it in the 'object' category.",
+      "stgdir": "LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "587",
+      "category": "4",
+      "explanation": "'Fenise rentre' indicates an entrance, with 'rentre' meaning 'enters again,' placing it in the 'entrance' category.",
+      "stgdir": "Fenise rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "588",
+      "category": "9",
+      "explanation": "This stage direction is long and narrative, describing actions and reactions of characters, fitting the 'narration' category.",
+      "stgdir": "Tandis que cette premi\u00e8re statue par ses attitudes et ses pas, marque sa surprise et son admiration, Prom\u00e9th\u00e9e par ses gestes marque combien il est satisfait de son ouvrage, et t\u00e2che de faire entrer Mercure dans sa joie. II anime une seconde Statue qui est encore celle d'un homme, et qui exprime \u00e0 la vue du Ciel et de la Terre les m\u00eames mouvements de surprise que la premi\u00e8re ; ensuite ils s'aper\u00e7oivent, courent l'un \u00e0 l'autre, s'embrassent et se donnent tous les t\u00e9moignages de l'amiti\u00e9 la plus vive.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "589",
+      "category": "12",
+      "explanation": "'\u00c0 Philom\u00e8le' suggests an action or speech directed towards Philom\u00e8le, placing it in the 'toward' category.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10602.200984954834,
+  "model": "gpt-4o"
+}

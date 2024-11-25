@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "920",
+      "category": "4",
+      "explanation": "The stage direction 'Flore et Blanche rentrent.' indicates the entrance of characters, which fits the entrance category.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "921",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Ibrahim.' specifies the addressee of a speech or action, fitting the category 'toward'.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "922",
+      "category": "11",
+      "explanation": "The stage direction 'Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos.' describes the setting of the play, fitting the setting category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "923",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Votre beaut\u00e9 soumet tout l'univers.' starts with 'AIR', indicating a musical element, fitting the music category.",
+      "stgdir": "AIR. Votre beaut\u00e9 soumet tout l'univers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "924",
+      "category": "12",
+      "explanation": "The stage direction 'Aux deux Com\u00e9dies.' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "Aux deux Com\u00e9dies.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "925",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Constantin.' specifies the addressee of a speech or action, fitting the category 'toward'.",
+      "stgdir": "\u00c0 Constantin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "926",
+      "category": "5",
+      "explanation": "The stage direction 'Elle sort par la porte de la chambre nuptiale.' involves a character exiting, fitting the exit category.",
+      "stgdir": "Elle sort par la porte de la chambre nuptiale.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "927",
+      "category": "12",
+      "explanation": "The stage direction 'Aux Muses.' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "Aux Muses.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "928",
+      "category": "12",
+      "explanation": "The stage direction 'Aux Gens du Bailli.' specifies the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "Aux Gens du Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "929",
+      "category": "4",
+      "explanation": "The stage direction 'Dorante entre.' indicates the entrance of a character, fitting the entrance category.",
+      "stgdir": "Dorante entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 8355.96776008606,
+  "model": "gpt-4o"
+}

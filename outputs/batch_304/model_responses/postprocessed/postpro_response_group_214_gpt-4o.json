@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2140",
+      "category": "0",
+      "explanation": "The direction '\u00c0 la Dupuis' indicates a general action or direction without a specific category. It seems to refer to a style or manner similar to a character or reference 'Dupuis', fitting under general action.",
+      "stgdir": "\u00c0 la Dupuis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2141",
+      "category": "10",
+      "explanation": "'Il tire le cordon de la sonnette' describes an interaction with an object, specifically the action of pulling a bell cord.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2142",
+      "category": "9",
+      "explanation": "This stage direction includes elements of weather and supernatural phenomena, describing thunder, fiery rain, earthquakes, and shades emerging from tombs, fitting the narrative quality of narration.",
+      "stgdir": "Tonnerre, pluie de feu, tremblement de terre, des ombres sortent des tombeaux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2143",
+      "category": "0",
+      "explanation": "The action 'Il tombe \u00e0 leurs genoux' fits under general action as it describes the character falling to kneels, which doesn't clearly fit other specific categories.",
+      "stgdir": "Il tombe \u00e0 leurs genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2144",
+      "category": "9",
+      "explanation": "This direction describes bystanders hearing the last words, suggesting a narrative quality about action and reaction, fitting the narration category.",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2145",
+      "category": "12",
+      "explanation": "'\u00c0 Tomi' indicates the addressee of an action or speech, specifying that it is directed toward 'Tomi'.",
+      "stgdir": "\u00c0 Tomi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2146",
+      "category": "5",
+      "explanation": "'Pysandre sort' indicates an exit as the verb 'sort' in French means 'to go out'.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2147",
+      "category": "7",
+      "explanation": "'S'\u00e9lan\u00e7ant pour la suivre' describes movement, specifically a character launching or rushing forward to follow another.",
+      "stgdir": "S'\u00e9lan\u00e7ant pour la suivre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2148",
+      "category": "6",
+      "explanation": "The action 'Montrant Antigone' describes a non-verbal interaction, specifically pointing out or showing Antigone.",
+      "stgdir": "Montrant Antigone.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2149",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR,' indicating it refers to a musical aspect, with 'Oh reguingu\u00e9' likely being the tune name.",
+      "stgdir": "AIR. Oh reguingu\u00e9.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10169.536590576172,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2160",
+      "category": "5",
+      "explanation": "The stage direction 'Les Com\u00e9diens sortent.' indicates that the actors exit the stage. It is directly aligned with the 'exit' category which involves the act of leaving.",
+      "stgdir": "Les Com\u00e9diens sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2161",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Monsieur Jourdain.' specifies to whom a following speech or action is directed, which corresponds with the 'toward' category.",
+      "stgdir": "\u00c0 Monsieur Jourdain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2162",
+      "category": "12",
+      "explanation": "Similarly, 'Aux Esclaves.' indicates the addressees of an action or speech, fitting into the 'toward' category.",
+      "stgdir": "Aux Esclaves.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2163",
+      "category": "6",
+      "explanation": "The action 'Regardant le tableau.' describes a character looking at a painting, which involves non-verbal interaction with an object, fitting the 'interaction' category.",
+      "stgdir": "Regardant le tableau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2164",
+      "category": "3",
+      "explanation": "The stage direction 'Apr\u00e8s un silence.' pertains to the delivery or pacing of dialogue, categorizing it under 'delivery'.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2165",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant la malade.' involves a character noticing another character, which is a non-verbal interaction.",
+      "stgdir": "Apercevant la malade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2166",
+      "category": "11",
+      "explanation": "This stage direction is a detailed description of the setting ('La sc\u00e8ne repr\u00e9sente un salon...'), which fits the 'setting' category as it describes the environment and context of the scene.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un salon assez luxueusement meubl\u00e9. Aux murs, des tableaux de grande valeur. Une bonne ach\u00e8ve d'\u00e9pousseter les meubles. Entre Madame Racosse, un peu m\u00fbre, un peu grosse, v\u00eatue d'une robe trop paillet\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2167",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Clodomire.' indicates the addressee of speech or action, fitting into the 'toward' category.",
+      "stgdir": "\u00c0 Clodomire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2168",
+      "category": "10",
+      "explanation": "The action 'Tirant une lettre de sa poche.' involves handling an object, making it fall under the 'object' category.",
+      "stgdir": "Tirant une lettre de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2169",
+      "category": "0",
+      "explanation": "The action 'Il ouvre la deuxi\u00e8me lettre.' involves the general action of opening, which fits the 'action' category as it does not neatly fit specifically into other categories.",
+      "stgdir": "Il ouvre la deuxi\u00e8me lettre.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 17846.185445785522,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1110",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where one character attempts to take another character's hand.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1111",
+      "category": "0",
+      "explanation": "The stage direction involves the character engraving verses, which is a general action not covered by other specific categories.",
+      "stgdir": "Il grave quatre vers sur son tombeau qui seront lus par Amarille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1112",
+      "category": "0",
+      "explanation": "The direction involves characters sitting, which is a movement related to general action, aligning with rest or sitting.",
+      "stgdir": "Ils s'asseyent tous.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1113",
+      "category": "7",
+      "explanation": "The stage direction describes the character standing up, which involves movement.",
+      "stgdir": "Se levant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1114",
+      "category": "4",
+      "explanation": "This direction mentions characters arriving, indicative of an entrance onto the stage.",
+      "stgdir": "Pierre et Philippe arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1115",
+      "category": "8",
+      "explanation": "The direction starts with 'Air', suggesting it refers to a musical piece which would be played or referenced.",
+      "stgdir": "Air : Dans ma cabane obscure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1116",
+      "category": "10",
+      "explanation": "The character taking a letter from their pocket involves interaction with an object.",
+      "stgdir": "Il tire une lettre de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1117",
+      "category": "6",
+      "explanation": "The stage direction describes an interaction involving removing a dagger and a reaction of letting go and moving back.",
+      "stgdir": "Elle lui arrache le poignard de sa ceinture. Il la l\u00e2che et recule.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1118",
+      "category": "12",
+      "explanation": "The direction indicates the addressee of speech or action ('\u00c0 Pharasmane'), which aligns with the 'toward' category.",
+      "stgdir": "\u00c0 Pharasmane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1119",
+      "category": "8",
+      "explanation": "Beginning with 'Air', this direction likely refers to a musical tune or theme.",
+      "stgdir": "Air: Cet arbre apport\u00e9 de Provence.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10836.982727050781,
+  "model": "gpt-4o"
+}

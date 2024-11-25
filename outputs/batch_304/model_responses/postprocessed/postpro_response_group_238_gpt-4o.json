@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2380",
+      "category": "4",
+      "explanation": "The direction 'Thersandre para\u00eet' indicates the entrance of a character onto the stage.",
+      "stgdir": "Thersandre para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2381",
+      "category": "5",
+      "explanation": "The direction 'Dorante s'en va' denotes the exit of a character from the stage.",
+      "stgdir": "Dorante s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2382",
+      "category": "5",
+      "explanation": "The direction 'Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux' describes characters exiting the stage, even though they are armed.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2383",
+      "category": "11",
+      "explanation": "The direction 'Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour' describes the setting of the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2384",
+      "category": "12",
+      "explanation": "The direction 'Aux femmes' indicates whom the subsequent speech or action is directed toward.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2385",
+      "category": "6",
+      "explanation": "The direction 'Il se fait un grand mouvement parmi les g\u00e9n\u00e9raux, pendant que Wallstein parle. Ils regardent G\u00e9raldin d'un air mena\u00e7ant' describes non-verbal interaction, specifically how the generals look at G\u00e9raldin.",
+      "stgdir": "Il se fait un grand mouvement parmi les g\u00e9n\u00e9raux, pendant que Wallstein parle. Ils regardent G\u00e9raldin d'un air mena\u00e7ant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2386",
+      "category": "10",
+      "explanation": "The direction 'Il prend le livre' describes a character's interaction with an object, specifically picking up a book.",
+      "stgdir": "Il prend le livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2387",
+      "category": "3",
+      "explanation": "The direction 'Baissant sa voix' describes the manner of voice delivery for a character's speech or thought.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2388",
+      "category": "9",
+      "explanation": "The direction 'Ad\u00e9la\u00efde reste absorb\u00e9e : Madame Wanderk pr\u00eate \u00e0 rentrer, jette un coup d'oeil, et \u00e0 toutes les peines du monde \u00e0 s'emp\u00eacher de rire' narrates a sequence of actions and emotional states, fitting a narrative description.",
+      "stgdir": "Ad\u00e9la\u00efde reste absorb\u00e9e : Madame Wanderk pr\u00eate \u00e0 rentrer, jette un coup d'oeil, et \u00e0 toutes les peines du monde \u00e0 s'emp\u00eacher de rire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2389",
+      "category": "0",
+      "explanation": "The direction 'Il \u00e9treint sa poitrine d'une main fi\u00e9vreuse' describes a general character action not fitting specifically into other categories.",
+      "stgdir": "Il \u00e9treint sa poitrine d'une main fi\u00e9vreuse.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 10640.902042388916,
+  "model": "gpt-4o"
+}

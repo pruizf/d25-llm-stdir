@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1870",
+      "category": "0",
+      "explanation": "The action described is general, 'Regardant \u00e0 sa montre' translates to 'Looking at his watch', which falls under general character actions.",
+      "stgdir": "Regardant \u00e0 sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1871",
+      "category": "0",
+      "explanation": "This stage direction 'Il entend de Porcie' ('He hears from Porcie') falls under general character action of listening.",
+      "stgdir": "Il entend de Porcie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1872",
+      "category": "4",
+      "explanation": "'Domitian entre' translates to 'Domitian enters', which describes a character entering the stage.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1873",
+      "category": "8",
+      "explanation": "This direction begins with 'Air', indicating it's a music stage direction, naming a tune: 'Vivre sans amour'.",
+      "stgdir": "Air : Vivre sans amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1874",
+      "category": "11",
+      "explanation": "The stage direction describes a change in stage setting to represent the Champs \u00c9lys\u00e9es, fitting the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre change, et repr\u00e9sente les Champs \u00c9lys\u00e9es.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1875",
+      "category": "8",
+      "explanation": "This describes a ballet entrance of three pantomimes, which can be categorized under 'music', relating to performance.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1876",
+      "category": "12",
+      "explanation": "'\u00c0 La Baronne' translates to 'To the Baroness', indicating whom the subsequent speech is addressed to.",
+      "stgdir": "\u00c0 La Baronne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1877",
+      "category": "4",
+      "explanation": "'ENTR\u00c9E' simply designates an entrance, a character or characters entering the stage.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1878",
+      "category": "3",
+      "explanation": "'Avec col\u00e8re' means 'With anger', which refers to the delivery manner of an expression of emotion.",
+      "stgdir": "Avec col\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1879",
+      "category": "7",
+      "explanation": "'Il revient encore' translates to 'He comes back again', which denotes movement on stage without specifying entrance or exit.",
+      "stgdir": "Il revient encore.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 11170.958042144775,
+  "model": "gpt-4o"
+}

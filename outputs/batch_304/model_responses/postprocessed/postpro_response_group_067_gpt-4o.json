@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "670",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant Tancr\u00e8de' involves pointing or indicating towards a character named Tancr\u00e8de, which is a non-verbal interaction.",
+      "stgdir": "Montrant Tancr\u00e8de.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "12",
+      "explanation": "The direction '\u00c0 ses fils' indicates that the subsequent speech or action is directed towards the character's sons.",
+      "stgdir": "\u00c0 ses fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "8",
+      "explanation": "The direction 'AIR 97. (J'ai bien la plus sobre femme)' specifies a musical piece or song, indicated by the word 'AIR'.",
+      "stgdir": "AIR 97. (J'ai bien la plus sobre femme.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "9",
+      "explanation": "This is a long stage direction describing a series of actions involving characters finishing wine and moving to see a cabinet, integrating several character movements and interactions, fitting the narrative quality.",
+      "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "8",
+      "explanation": "The direction 'Air : \u00c0 la fa\u00e7on de Barbari' is related to music, indicated by the word 'Air' and specifying a tune name.",
+      "stgdir": "Air : \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "675",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Isabelle' indicates that the action or dialogue is directed towards Isabelle.",
+      "stgdir": "\u00c0 Isabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "676",
+      "category": "5",
+      "explanation": "The direction 'Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort' concludes with Loretta leaving the stage, fitting the exit category.",
+      "stgdir": "Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "677",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Doligni' indicates that the forthcoming speech or action is directed towards Doligni.",
+      "stgdir": "\u00c0 Doligni.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "678",
+      "category": "12",
+      "explanation": "The direction '\u00c0 celui qui porte l'urne' indicates that the action or dialogue is directed towards the person carrying the urn.",
+      "stgdir": "\u00c0 celui qui porte l'urne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "679",
+      "category": "11",
+      "explanation": "This describes the setting of the scene, indicating the arrangement of the stage with specific details like 'l'appartement de Rosine' and a 'jalousie grill\u00e9e.'",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 13380.173683166504,
+  "model": "gpt-4o"
+}

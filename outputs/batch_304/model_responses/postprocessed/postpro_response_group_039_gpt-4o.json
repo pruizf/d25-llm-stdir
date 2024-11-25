@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "390",
+      "category": "0",
+      "explanation": "The stage direction 'Il a l'air d'\u00e9couter' describes a general character action of listening, which fits the 'action' category.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "391",
+      "category": "8",
+      "explanation": "The stage direction 'Air : La Boulang\u00e8re a des \u00e9cus' specifies a tune or musical piece, identified by the term 'Air,' thus fitting the 'music' category.",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "392",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant Flamand' suggests a non-verbal character interaction, as it describes noticing or seeing another character, fitting the 'interaction' category.",
+      "stgdir": "Apercevant Flamand.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "393",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Quand la mer rouge apparut' indicates another musical piece, marked by 'Air,' which fits the 'music' category.",
+      "stgdir": "Air : Quand la mer rouge apparut.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "394",
+      "category": "5",
+      "explanation": "The stage direction 'Marthe sort' indicates a character's exit from the stage, fitting the 'exit' category.",
+      "stgdir": "Marthe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "395",
+      "category": "3",
+      "explanation": "The stage direction 'On entend Sosie qui chante' refers to a character singing, which involves vocal delivery, fitting the 'delivery' category.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "396",
+      "category": "9",
+      "explanation": "The stage direction 'Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e' describes a noise or sound effect, giving it a narrative quality, thus fitting the 'narration' category.",
+      "stgdir": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "397",
+      "category": "10",
+      "explanation": "The stage direction 'Il prend une couronne dans le panier d'Antoine' involves the handling of an object (a crown), which fits the 'object' category.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "398",
+      "category": "7",
+      "explanation": "The stage direction 'Allant \u00e0 elle' describes a character movement, as it involves going towards someone, fitting the 'movement' category.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "399",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 l'Inspecteur des B\u00e2timents' indicates the intended recipient of an action or speech, thus fitting the 'toward' category.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10326.703786849976,
+  "model": "gpt-4o"
+}

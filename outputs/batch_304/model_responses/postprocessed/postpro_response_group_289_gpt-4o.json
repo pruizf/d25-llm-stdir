@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2890",
+      "category": "0",
+      "explanation": "The action 'Il se jette aux genoux de L\u00e9onore' indicates a character kneeling or throwing themselves at another's knees, which is a general character action.",
+      "stgdir": "Il se jette aux genoux de L\u00e9onore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2891",
+      "category": "2",
+      "explanation": "The direction '[\u00c0 part. Il ne parle point de Calatabellotte.]' specifies an aside, where the character speaks to themselves or the audience, not to other characters.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2892",
+      "category": "8",
+      "explanation": "The direction 'AIR : Folies d'Espagne' refers to a musical piece or tune, fitting the music category.",
+      "stgdir": "AIR : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2893",
+      "category": "0",
+      "explanation": "The action 'Il lit l'affiche' describes a character reading a poster, which fits under general character actions.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2894",
+      "category": "5",
+      "explanation": "The direction 'Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre' indicates characters exiting the stage, fitting the exit category.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2895",
+      "category": "6",
+      "explanation": "The action 'En regardant les cartes' describes a character looking at cards, which involves an interaction with an object.",
+      "stgdir": "En regardant les cartes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2896",
+      "category": "8",
+      "explanation": "The direction 'Air : Comme un Coucou' specifies a musical piece or tune to be played, fitting the music category.",
+      "stgdir": "Air : Comme un Coucou.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2897",
+      "category": "6",
+      "explanation": "The action 'Il appelle l'Apothicaire et lui parle' involves a character interacting with another by calling and speaking to them, fitting the interaction category.",
+      "stgdir": "Il appelle l'Apothicaire et lui parle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2898",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Clidamis' indicates the addressee of a speech, fitting the toward category.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2899",
+      "category": "8",
+      "explanation": "The direction 'AIR 32 : Du haut en bas. (Rondeau)' specifies a musical piece or tune, fitting the music category.",
+      "stgdir": "AIR 32 : Du haut en bas. (Rondeau)",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 17105.48686981201,
+  "model": "gpt-4o"
+}

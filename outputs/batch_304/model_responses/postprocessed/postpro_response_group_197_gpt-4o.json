@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1970",
+      "category": "11",
+      "explanation": "This stage direction indicates the setting of the play, specifying that the scene takes place in the palace of the king.",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1971",
+      "category": "10",
+      "explanation": "This stage direction involves interaction with an object, as it describes someone taking flowers from a drawer.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1972",
+      "category": "6",
+      "explanation": "This describes a non-verbal interaction where one character sees another who has entered and is standing still next to them.",
+      "stgdir": "Il l\u00e8ve les yeux et voit Mouravieff qui est entr\u00e9 sans qu'il l'ait entendu, et qui est debout immobile aupr\u00e8s de lui.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1973",
+      "category": "0",
+      "explanation": "Kneeling is a general character action and does not fit other specific categories, so it is classified as action.",
+      "stgdir": "Il se jette \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1974",
+      "category": "10",
+      "explanation": "This involves an object interaction as it describes presenting a piece to Varade.",
+      "stgdir": "Pr\u00e9sentant un morceau \u00e0 Varade.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1975",
+      "category": "10",
+      "explanation": "Handing over a quill is an interaction with an object, thus classified under object.",
+      "stgdir": "En lui pr\u00e9sentant la plume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1976",
+      "category": "9",
+      "explanation": "It involves the narration of a sound event, as a noise of weapons is heard.",
+      "stgdir": "L'on entend un bruit d'armes.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1977",
+      "category": "12",
+      "explanation": "This indicates the recipient of speech, therefore it falls under the 'toward' category.",
+      "stgdir": "Elle parle \u00e0 Sicandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1978",
+      "category": "6",
+      "explanation": "This describes a non-verbal interaction where a character takes the hands of others while addressing someone else.",
+      "stgdir": "Elle prend les mains de Clarice et du Chevalier, en disant \u00e0 la Dame :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1979",
+      "category": "10",
+      "explanation": "Giving a promise is considered an interaction involving an object, even though it's metaphorical.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 10274.919509887695,
+  "model": "gpt-4o"
+}

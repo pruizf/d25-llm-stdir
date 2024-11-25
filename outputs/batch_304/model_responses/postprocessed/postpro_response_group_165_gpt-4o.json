@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1650",
+      "category": "6",
+      "explanation": "The stage direction 'Il lui parle \u00e0 l'oreille' involves a non-verbal interaction, as the character speaks softly or whispers into another character's ear, indicating a level of intimacy or secrecy in the interaction.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1651",
+      "category": "0",
+      "explanation": "The stage direction 'Apercevant d'Herbain' describes an action of noticing or perceiving someone, which is a general action related to observing.",
+      "stgdir": "Apercevant d'Herbain.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1652",
+      "category": "6",
+      "explanation": "The stage direction 'Il lui baise les mains' describes the act of kissing someone's hands, which is a form of non-verbal character interaction.",
+      "stgdir": "Il lui baise les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1653",
+      "category": "5",
+      "explanation": "The stage direction 'Germon sort' indicates the character Germon exiting the stage, fitting the exit category.",
+      "stgdir": "Germon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1654",
+      "category": "10",
+      "explanation": "The stage direction 'Elle lui montre un coeur de diamant' involves the interaction with an object, in this case, showing a diamond heart.",
+      "stgdir": "Elle lui montre un coeur de diamant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1655",
+      "category": "11",
+      "explanation": "The stage direction 'La chambre de C\u00e9sar s'ouvre' describes a change in the setting, specifically indicating an entrance or opening within the stage.",
+      "stgdir": "La chambre de C\u00e9sar s'ouvre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1656",
+      "category": "9",
+      "explanation": "The stage direction 'C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers' suggests a narrative description involving the ceremonies observed, which is more intended for readers' understanding of the scene's context.",
+      "stgdir": "C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1657",
+      "category": "7",
+      "explanation": "The stage direction 'Allant se mettre entre L\u00e9lie et sa ma\u00eetresse' describes a movement where a character positions themselves between two others, indicating a form of physical movement.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1658",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. S\u00fbre de ta foi' identifies a musical piece or tune within the play, evident from the use of 'AIR,' indicating that it relates to music.",
+      "stgdir": "AIR. S\u00fbre de ta foi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1659",
+      "category": "8",
+      "explanation": "Similarly, 'Air 75 : Un petit moment plus tard' also indicates a musical tune or number, as suggested by 'Air,' fitting into the music category.",
+      "stgdir": "Air 75 : Un petit moment plus tard.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 11954.056024551392,
+  "model": "gpt-4o"
+}

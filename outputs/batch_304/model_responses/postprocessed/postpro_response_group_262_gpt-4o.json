@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2620",
+      "category": "3",
+      "explanation": "HARANGUE DE MASSINISSE implies Massinisse is delivering a speech or addressing others, which involves vocal expression and thus falls under the delivery category.",
+      "stgdir": "HARANGUE DE MASSINISSE",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2621",
+      "category": "1",
+      "explanation": "On forme un combat \u00e0 la mani\u00e8re des anciens suggests organizing a combat, which is a violent action, classifying it as aggression.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2622",
+      "category": "6",
+      "explanation": "Apercevant leurs \u00e9p\u00e9es nues involves perceiving or seeing unsheathed swords, indicating a non-verbal character interaction with a focus on observation.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2623",
+      "category": "9",
+      "explanation": "La pendule sonne six heures narratively describes a clock striking six, which is a part of the scene setting and provides a narrative element to the stage.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2624",
+      "category": "3",
+      "explanation": "Avec ravissement indicates an expression of delight or rapture, which is indicative of vocal or emotional expression, fitting the delivery category.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2625",
+      "category": "3",
+      "explanation": "Pr\u00e8s de pleurer describes a condition or feeling, namely being close to tears, related to the expression of emotion.",
+      "stgdir": "Pr\u00e8s de pleurer.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2626",
+      "category": "8",
+      "explanation": "On entend un hautbois indicates hearing an oboe, which is related to the presence of music in the scene.",
+      "stgdir": "On entend un hautbois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2627",
+      "category": "8",
+      "explanation": "Air : \u00c0 l'ombre de ce vert bocage is explicitly marked as a musical tune, which falls under the music category.",
+      "stgdir": "Air : \u00c0 l'ombre de ce vert bocage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2628",
+      "category": "4",
+      "explanation": "Cordiani para\u00eet describes the appearance or entrance of Cordiani onto the stage, fitting the entrance category.",
+      "stgdir": "Cordiani para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2629",
+      "category": "12",
+      "explanation": "\u00c0 la Vidame indicates the direction or the addressee of a speech or action, which fits the toward category.",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 11549.431562423706,
+  "model": "gpt-4o"
+}

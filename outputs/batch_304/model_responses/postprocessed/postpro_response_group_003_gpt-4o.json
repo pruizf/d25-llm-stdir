@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "30",
+      "category": "11",
+      "explanation": "This stage direction involves the raising of the curtain, which pertains to the setting or stage environment.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "9",
+      "explanation": "This is a descriptive sequence of actions involving characters interacting and moving, which gives it a more narrative quality.",
+      "stgdir": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "5",
+      "explanation": "The stage direction 's'en va' indicates the character exits the stage.",
+      "stgdir": "Actor s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "10",
+      "explanation": "The action of tearing the letter involves manipulation of an object, classifying it as an object interaction.",
+      "stgdir": "Elle d\u00e9chire la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "8",
+      "explanation": "'Air nouveau de Couder' indicates a musical element, specifically a tune or song name.",
+      "stgdir": "Air nouveau de Couder.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Poquelin' designates the addressee, indicating who is being addressed.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "8",
+      "explanation": "'Air : Je veux t'\u00eatre un Chien, etc.' indicates a musical element, most likely the name of the tune.",
+      "stgdir": "Air : Je veux t'\u00eatre un Chien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "6",
+      "explanation": "The character sees Dorval, which indicates an interaction through observation, followed by a change in tone.",
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "12",
+      "explanation": "'\u00c0 Lucinde' indicates the addressee of speech, designating who is being spoken to.",
+      "stgdir": "\u00c0 Lucinde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "10",
+      "explanation": "Adjusting her appearance in front of a mirror involves interaction with an object (the mirror), classifying it under object interaction.",
+      "stgdir": "Elle s'arrange la figure devant la glace.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 9367.464542388916,
+  "model": "gpt-4o"
+}

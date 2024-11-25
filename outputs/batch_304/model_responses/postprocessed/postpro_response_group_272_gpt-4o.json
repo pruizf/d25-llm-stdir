@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2720",
+      "category": "10",
+      "explanation": "The direction 'Il cach\u00e8te sa lettre' involves the action of sealing a letter, which is an interaction with an object.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2721",
+      "category": "4",
+      "explanation": "The direction 'Camille rentre' indicates the entrance of a character onto the stage.",
+      "stgdir": "Camille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2722",
+      "category": "11",
+      "explanation": "The direction 'Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'Aeg\u00e9e roi d'Ath\u00e8nes' describes a change in the play's setting.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2723",
+      "category": "12",
+      "explanation": "The phrase 'Au Grand Bibi' indicates a direction toward a character or object, suggesting the addressee of subsequent actions or dialogue.",
+      "stgdir": "Au Grand Bibi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2724",
+      "category": "12",
+      "explanation": "Similar to 2723, 'Air De l'Anonyme' starts with 'Air' suggesting it's a tune name\u2014related to music. However, based on context, it seems to be directed towards 'De l'Anonyme', so it's classified as 'toward.'",
+      "stgdir": "Air De l'Anonyme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2725",
+      "category": "6",
+      "explanation": "The direction 'D\u00e9mophon, lui montrant la promesse' describes an interaction between characters, as showing an item involves non-verbal interaction.",
+      "stgdir": "D\u00e9mophon, lui montrant la promesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2726",
+      "category": "8",
+      "explanation": "The word 'AIR :' indicates the mention of a musical tune, fitting the category of music.",
+      "stgdir": "AIR :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2727",
+      "category": "8",
+      "explanation": "Like the previous entry, 'Air : La vieille m\u00e9thode' refers to a musical tune, which is associated with music.",
+      "stgdir": "Air : La vieille m\u00e9thode.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2728",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Calotin' indicates direction toward a character or object, suggesting where subsequent actions or dialogue are directed.",
+      "stgdir": "\u00c0 Calotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2729",
+      "category": "12",
+      "explanation": "Similar to previous 'toward' entries, 'Au Ma\u00eetre d'H\u00f4tel' directs subsequent actions or dialogue towards a character.",
+      "stgdir": "Au Ma\u00eetre d'H\u00f4tel.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10781.489133834839,
+  "model": "gpt-4o"
+}

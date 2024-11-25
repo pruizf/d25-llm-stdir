@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1430",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, 'fait le signe de la Croix' (makes the sign of the Cross), which fits into the action category.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1431",
+      "category": "11",
+      "explanation": "The stage direction describes the physical setting of the scene, specifying the room furnishings and items on a desk.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre simplement meubl\u00e9e. Sur un des c\u00f4t\u00e9s de la sc\u00e8ne est un grand bureau de travail, couvert de cartes, de livres, de globes et d'instruments de math\u00e9matiques.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1432",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR,' indicating a musical direction, which fits into the music category.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1433",
+      "category": "9",
+      "explanation": "This stage direction provides a narrative description of the setting and time ('sur le navire nomm\u00e9 Le Saint-Jean de la Rochelle, au petit matin...'), making it fit into the narration category.",
+      "stgdir": "Sur le navire nomm\u00e9 Le Saint-Jean de la Rochelle, au petit matin, avec du brouillard. Il fait frais, le 14 juillet 1650. Le Saint-Jean repartira le 23 ao\u00fbt.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1434",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant Ad\u00e9la\u00efde' describes a non-verbal interaction, as someone perceives or notices Ad\u00e9la\u00efde.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1435",
+      "category": "0",
+      "explanation": "The action 'Elle se jette aux pieds de Saint-Albin' (She throws herself at Saint-Albin's feet) is a general character action and fits the action category.",
+      "stgdir": "Elle se jette aux pieds de Saint-Albin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1436",
+      "category": "5",
+      "explanation": "The stage direction indicates that the character exits with another, 'Elle sort avec sa soeur,' which fits into the exit category.",
+      "stgdir": "Elle sort avec sa soeur, en \u00e9clatant de rire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1437",
+      "category": "8",
+      "explanation": "The stage direction is introduced by 'AIR,' indicating it refers to a musical piece or song, which fits into the music category.",
+      "stgdir": "AIR. Marguerite, ma Mie, olire, olire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1438",
+      "category": "7",
+      "explanation": "The stage direction 'S'approchant de Mariette' describes a character's movement toward someone, which fits the movement category.",
+      "stgdir": "S'approchant de Mariette.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1439",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 la statue de Pomp\u00e9e' indicates the addressee or the direction of attention or speech, corresponding to the toward category.",
+      "stgdir": "\u00c0 la statue de Pomp\u00e9e.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9140.490531921387,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2050",
+      "category": "10",
+      "explanation": "The stage direction 'Il le met sur sa t\u00eate' involves interaction with an object, likely a hat or some other object placed on the head.",
+      "stgdir": "Il le met sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2051",
+      "category": "11",
+      "explanation": "This stage direction describes a change in the stage setting where a trellis is opened and reveals another scene, which fits the category of setting.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2052",
+      "category": "10",
+      "explanation": "The term 'Il d\u00e9croche' implies handling or removing an object, fitting the category of object interaction.",
+      "stgdir": "Il d\u00e9croche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2053",
+      "category": "11",
+      "explanation": "This stage direction sets the scene by explaining the proximity of Ulysse and the Greeks to Polix\u00e8ne, which relates to the setting.",
+      "stgdir": "Ulysse et les Grecs sont pr\u00e8s d'emmener Polix\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2054",
+      "category": "1",
+      "explanation": "The action described, 'Elle lui frappe le coeur', suggests aggression or violent action, which aligns with the aggression category.",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2055",
+      "category": "8",
+      "explanation": "The presence of 'AIR' signifies a musical stage direction, with 'C'est ce qui nous enrhume' being the name of the tune.",
+      "stgdir": "AIR. C'est ce qui nous enrhume.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2056",
+      "category": "0",
+      "explanation": "The action 'Il y cherche' involves a character searching, a general action without specific category alignment, placing it in the action category.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2057",
+      "category": "3",
+      "explanation": "This direction refers to the delivery of a character's lines, where 'les sanglots de Sophie...couper la voix' implies an emotional vocal expression.",
+      "stgdir": "Ici les sanglots de Sophie lui doivent couper la voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2058",
+      "category": "12",
+      "explanation": "This direction indicates the intended addressees, 'Aux soldats des troupes de ligne', of some subsequent speech or action.",
+      "stgdir": "Aux soldats des troupes de ligne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2059",
+      "category": "10",
+      "explanation": "The action 'Il d\u00e9ploie sa boutique' involves handling or setting up objects related to a shop, classifying it under object interaction.",
+      "stgdir": "Il d\u00e9ploie sa boutique.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 9780.388832092285,
+  "model": "gpt-4o"
+}

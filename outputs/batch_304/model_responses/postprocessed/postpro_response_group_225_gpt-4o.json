@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2250",
+      "category": "9",
+      "explanation": "This stage direction describes a sequence of events involving winds and a serpent, suggesting environmental or atmospheric narration rather than specific character action or interaction.",
+      "stgdir": "Ces vents forment de nouveaux tourbillons, tandis que le serpent Python l'\u00e9l\u00e8ve en l'air, par un rond qu'il fait en volant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2251",
+      "category": "9",
+      "explanation": "This direction explains the emotional state and decision of a character (the Duc Dessau), indicating narrative exposition rather than a specific action or interaction.",
+      "stgdir": "Mais le Duc Dessau impatient de la perte de son Fr\u00e8re, se r\u00e9sout de s'opposer \u00e0 ses desseins.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2252",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech, specifying that a character's dialogue is directed towards Thibaut.",
+      "stgdir": "\u00c0 Thibaut.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2253",
+      "category": "3",
+      "explanation": "This describes how a character speaks (elevating their voice), aligning with the category of delivery or vocal expression.",
+      "stgdir": "\u00c9levant aussi sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2254",
+      "category": "3",
+      "explanation": "This direction describes a change in the character's manner of speaking, relating to their delivery in a familiar and indifferent tone.",
+      "stgdir": "Reprenant son ton de voix familier et indiff\u00e9rent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2255",
+      "category": "8",
+      "explanation": "It starts with 'AIR', indicating the name of a musical tune or song within the play.",
+      "stgdir": "AIR. Chantez mon Petit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2256",
+      "category": "12",
+      "explanation": "This stage direction specifies that a character's dialogue or action is directed towards Francis, indicating the recipient of an action or message.",
+      "stgdir": "\u00c0 Francis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2257",
+      "category": "12",
+      "explanation": "This direction indicates that the character speaks or acts towards Amor, specifying the addressee.",
+      "stgdir": "\u00c0 l'Amour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2258",
+      "category": "12",
+      "explanation": "This indicates that the character addresses or is directed towards Clairville, identifying the recipient of speech.",
+      "stgdir": "\u00c0 Clairville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2259",
+      "category": "12",
+      "explanation": "This stage direction shows that the character is speaking or doing something towards C\u00e9lie, which is an indication of the addressee.",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14962.573051452637,
+  "model": "gpt-4o"
+}

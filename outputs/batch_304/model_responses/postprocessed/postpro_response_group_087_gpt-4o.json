@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "870",
+      "category": "1",
+      "explanation": "The stage direction 'Il fait un massacre de Polonais' describes a violent and aggressive action, hence it fits the 'aggression' category.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "871",
+      "category": "4",
+      "explanation": "The stage direction 'Elle entre sur la sc\u00e8ne' indicates a character entering the stage, which aligns with the 'entrance' category.",
+      "stgdir": "Elle entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "872",
+      "category": "8",
+      "explanation": "The stage direction 'Air : C'est \u00e0 mon ma\u00eetre en l'art de plaire' begins with 'Air', indicating a musical element, fitting the 'music' category.",
+      "stgdir": "Air : C'est \u00e0 mon ma\u00eetre en l'art de plaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "873",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Candide' indicates the addressee of an action or speech, which is categorized under 'toward'.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "874",
+      "category": "3",
+      "explanation": "The stage direction 'Il parle tout bas' describes the manner of delivery, specifically speaking in a low voice, fitting the 'delivery' category.",
+      "stgdir": "Il parle tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "875",
+      "category": "10",
+      "explanation": "The stage direction 'Alain prend le cigare' involves interaction with an object (the cigar), which is classified under 'object'.",
+      "stgdir": "Alain prend le cigare.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "876",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Toujours va qui danse' starts with 'AIR', indicating a musical reference, hence it fits the 'music' category.",
+      "stgdir": "AIR. Toujours va qui danse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "877",
+      "category": "5",
+      "explanation": "The stage direction 'Il sort en chantant' describes a character exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "878",
+      "category": "5",
+      "explanation": "The stage direction 'Dame Pluche sort' notes a character leaving the stage, aligning with the 'exit' category.",
+      "stgdir": "Dame Pluche sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "879",
+      "category": "0",
+      "explanation": "The stage direction 'Pluton se l\u00e8ve de son tribunal' describes a character action not fitting other specific categories, categorized under 'action'.",
+      "stgdir": "Pluton se l\u00e8ve de son tribunal.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 12328.229188919067,
+  "model": "gpt-4o"
+}

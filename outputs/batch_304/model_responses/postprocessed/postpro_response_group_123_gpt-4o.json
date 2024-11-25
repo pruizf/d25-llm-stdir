@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1230",
+      "category": "12",
+      "explanation": "The stage direction indicates the character (Tygrane) addressing another character (Eurim\u00e9don), which falls under the category 'toward' as it specifies the addressee.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1231",
+      "category": "4",
+      "explanation": "The stage direction describes the Chevalier entering, which corresponds to the 'entrance' category as it denotes a character coming onto the stage.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1232",
+      "category": "1",
+      "explanation": "The action of drawing a sword suggests aggression or potential threat, which aligns with the 'aggression' category.",
+      "stgdir": "Il tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1233",
+      "category": "12",
+      "explanation": "This stage direction shows an address to the two marquises, Platon and Gilissa, which fits into the 'toward' category as it denotes the recipients of communication.",
+      "stgdir": "Aux deux marquis Platon et Gilissa.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1234",
+      "category": "9",
+      "explanation": "The description provides a narrative account of multiple actions happening sequentially or simultaneously, offering a detailed view usually meant for readers rather than performance cues; hence, it fits 'narration'.",
+      "stgdir": "Le Docteur lit la lettre, apprend que le fils de Colin est malade ; et qu'il ne peut se mette sit\u00f4t en chemin ; il jette en m\u00eame tempos les yeux sur Arlequin qui lui soutient effront\u00e9ment qu'il est le fils du Fermier de Domfront, et qu'il se porte bien. Le Docteur demande au Paysan s'il le conna\u00eet ; le Paysan r\u00e9pond que non, et que ce n'est pas l\u00e0 le Fils de son Ma\u00eetre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1235",
+      "category": "10",
+      "explanation": "The stage direction involves the act of paying and receiving money, indicating manipulation of an object (money), which matches the 'object' category.",
+      "stgdir": "Il les paye, et chacun, en recevant l'argent, fait un geste diff\u00e9rent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1236",
+      "category": "7",
+      "explanation": "The character approaches the table and goes through the book without sitting, which describes movement around the stage; thus, it falls under 'movement'.",
+      "stgdir": "Il s'approche de la table et parcourt le livre sans s'asseoir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1237",
+      "category": "9",
+      "explanation": "Describing a 'grand silence' sets a mood or atmosphere, providing a narrative-like direction regarding the sound environment, which fits 'narration'.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1238",
+      "category": "11",
+      "explanation": "This stage direction describes the scenery or setting, which is a descriptive cue about how the stage should appear, making it part of the 'setting' category.",
+      "stgdir": "La d\u00e9coration repr\u00e9sente un lieu champ\u00eatre fort agr\u00e9able.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1239",
+      "category": "9",
+      "explanation": "The mention of hearing noise indicates an auditory scene description, akin to narrating an external occurrence, thereby aligning with the 'narration' category.",
+      "stgdir": "On entend du bruit dans la maison.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 15995.123624801636,
+  "model": "gpt-4o"
+}

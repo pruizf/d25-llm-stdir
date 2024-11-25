@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2090",
+      "category": "9",
+      "explanation": "The stage direction describes a sound (roulement de tambours) which adds to the narrative ambiance, fitting the narrative category.",
+      "stgdir": "Roulement de tambours qui battent aux champs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2091",
+      "category": "8",
+      "explanation": "This is clearly related to music, as it specifies an air (Air 204), which is a musical piece.",
+      "stgdir": "Air 204. L'Amour veut devenir vainqueur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2092",
+      "category": "7",
+      "explanation": "This describes a movement, as the character is moving to the clavecin and back.",
+      "stgdir": "Elle va \u00e0 son clavecin, et revient aussit\u00f4t.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2093",
+      "category": "11",
+      "explanation": "The stage direction represents a detailed description of the stage setting, with decorations and positioning of portraits, fitting the setting category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon d'\u00e9t\u00e9 des plus riches. Trois portes-fen\u00eatres au fond, ouvertes sur des jardins orn\u00e9s de statues. Deux portraits en pied de l'empereur et de l'Imp\u00e9ratrice sont plac\u00e9s entre les fen\u00eatres, vis-\u00e0-vis les spectateurs.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2094",
+      "category": "10",
+      "explanation": "It involves the interaction with an object, specifically rendering a bottle empty, fitting the object category.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2095",
+      "category": "11",
+      "explanation": "Describes the setting of the play location, indicating it represents Monsieur Oronte's Apartment.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2096",
+      "category": "9",
+      "explanation": "This describes a narrative element, a vendor outside shouting about the lottery, contributing to the narrative ambiance.",
+      "stgdir": "On entend un colporteur qui crie en dehors : \u00ab C'est aujourd'hui la Loterie Nationale de France ; qu'est-ce qui veut le gros lot ? 955 francs pour 24 sols.\u00bb",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2097",
+      "category": "7",
+      "explanation": "This stage direction indicates movement, as the character approaches the door.",
+      "stgdir": "Il s'approche de la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2098",
+      "category": "6",
+      "explanation": "This involves interaction between characters, as one character pushes another.",
+      "stgdir": "Il le pousse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2099",
+      "category": "9",
+      "explanation": "This involves a narrative sequence describing a bed of grass rising at the right time and characters exiting (se retirent), but primarily serves to narrate the fall and unconscious state of the Pasteur.",
+      "stgdir": "Un lit de gazon s'\u00e9l\u00e8ve fort \u00e0 propos propos. Le Pasteur tombe dessus sans connaissance, les Aguilons, les Cyclopes et les Sulamandres se retiremt.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 9019.273519515991,
+  "model": "gpt-4o"
+}

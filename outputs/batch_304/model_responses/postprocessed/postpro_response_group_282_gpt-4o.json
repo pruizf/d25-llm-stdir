@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2820",
+      "category": "6",
+      "explanation": "The action of 'tending the hand' indicates a non-verbal interaction towards another character.",
+      "stgdir": "Lui tendant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2821",
+      "category": "4",
+      "explanation": "The phrase 'Il entre' describes a character entering the stage.",
+      "stgdir": "Il entre avec humeur, dans son cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2822",
+      "category": "8",
+      "explanation": "The term 'Air' indicates this is a music stage direction, specifying a tune name.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2823",
+      "category": "9",
+      "explanation": "This is a detailed, narrative stage direction describing the scene and the actions within it.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2824",
+      "category": "8",
+      "explanation": "The term 'AIR' indicates a music stage direction, providing the name of a tune.",
+      "stgdir": "AIR : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2825",
+      "category": "8",
+      "explanation": "The parenthesis with 'AIR' indicates a music stage direction, referring to the name of a tune.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2826",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Mademoiselle Moli\u00e8re' indicates the direction of speech or action towards a specific person.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2827",
+      "category": "8",
+      "explanation": "'Air : des Pendus' is a music-related direction, indicating the tune name.",
+      "stgdir": "Air : des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2828",
+      "category": "1",
+      "explanation": "The action of making a head fly off suggests an aggressive, violent action.",
+      "stgdir": "Le Sagamo reste immobile Arlequin lui fait voler la t\u00eate de son propre sabre qu'il lui a \u00f4t\u00e9, mais tout \u00e0 coup il rena\u00eet une autre t\u00eate au Sagamo qui rit au nez d'Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2829",
+      "category": "11",
+      "explanation": "This direction refers to a visual or artistic feature ('dans le tableau'), which is related to the setting or a scenic element.",
+      "stgdir": "Cassandre dans le tableau.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 11575.571298599243,
+  "model": "gpt-4o"
+}

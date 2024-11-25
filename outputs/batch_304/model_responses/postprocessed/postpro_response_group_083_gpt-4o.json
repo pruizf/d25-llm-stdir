@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "830",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating it refers to music, specifically a tune name.",
+      "stgdir": "AIR : Quand tu chantes, berc\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "831",
+      "category": "3",
+      "explanation": "The use of the term 'reprenant son exorde' suggests a style of speech or delivery, likely referring to a vocal expression or manner.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "832",
+      "category": "5",
+      "explanation": "The stage direction describes characters entering different locations, indicating that it fits the 'exit' category as they exit the current scene.",
+      "stgdir": "Il rentre dans l'auberge, et Marianne dans sa maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "833",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating a reference to music, specifically a tune name.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "834",
+      "category": "12",
+      "explanation": "The character is speaking towards another character, which fits the 'toward' category as it indicates the addressee of speech.",
+      "stgdir": "Il parle \u00e0 son \u00e9cuyer.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "835",
+      "category": "6",
+      "explanation": "The description of giving hands is a non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Monsieur Orgon donne la main \u00e0 Madame Oronte, et Val\u00e8re \u00e0 Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "836",
+      "category": "0",
+      "explanation": "The action of hitting or knocking fits the 'action' category as it doesn't fall into more specific categories.",
+      "stgdir": "Le Financier frappe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "837",
+      "category": "11",
+      "explanation": "Describes the setting of the stage, specifically the interior of a palace with specific objects, fitting the 'setting' category.",
+      "stgdir": "Int\u00e9rieur du Palais ; un tr\u00f4ne au milieu et la Toison d'or suspendue au-dessus du tr\u00f4ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "838",
+      "category": "3",
+      "explanation": "Describes the emotional state of the Prince with terms 'triste' and 'en col\u00e8re', indicating a delivery of emotion.",
+      "stgdir": "Le Prince arrive tout triste et tout en col\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "839",
+      "category": "8",
+      "explanation": "The stage direction includes 'Air', indicating a musical component, suggesting it refers to music or a tune name.",
+      "stgdir": "Air Tique, tique, toque , et lonlanla.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 14431.888580322266,
+  "model": "gpt-4o"
+}

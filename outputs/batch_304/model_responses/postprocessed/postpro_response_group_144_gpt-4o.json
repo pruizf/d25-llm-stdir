@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1440",
+      "category": "8",
+      "explanation": "The stage direction contains 'Air', which indicates it is related to music, specifically a tune name.",
+      "stgdir": "Air : Ah ! que la paresseuse Automne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1441",
+      "category": "5",
+      "explanation": "The phrase 'Sortant par la porte \u00e0 droite' implies an exit action, as 'sortant' refers to the act of leaving.",
+      "stgdir": "Sortant par la porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1442",
+      "category": "6",
+      "explanation": "The phrase 'Voyant Monsieur Raimond' describes a non-verbal interaction by seeing or acknowledging Monsieur Raimond.",
+      "stgdir": "Voyant Monsieur Raimond.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1443",
+      "category": "6",
+      "explanation": "The stage direction 'Elle l'appelle' indicates an interaction, as the character is calling someone.",
+      "stgdir": "Elle l'appelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1444",
+      "category": "6",
+      "explanation": "The phrase 'En apercevant sa soeur' suggests an interaction, as the character is noticing or seeing their sister.",
+      "stgdir": "En apercevant sa soeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1445",
+      "category": "8",
+      "explanation": "The stage direction contains 'AIR', which suggests it refers to a music tune or song name.",
+      "stgdir": "AIR : Ton humeur indiff\u00e9rente.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1446",
+      "category": "12",
+      "explanation": "The direction '\u00c0 \u00c9n\u00e9e' indicates the addressee of speech or action, often pointing where the character's dialogue is directed.",
+      "stgdir": "\u00c0 \u00c9n\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1447",
+      "category": "12",
+      "explanation": "The phrase 'Parlant \u00e0 Nars\u00e9e' identifies the addressee of the speech or interaction, marking the target character.",
+      "stgdir": "Parlant \u00e0 Nars\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1448",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', indicating it is related to music, specifically a tune name.",
+      "stgdir": "Air : Ah! voila comme l'homme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1449",
+      "category": "12",
+      "explanation": "'\u00c0 Fabrice' denotes toward whom the character is directing their speech or action.",
+      "stgdir": "\u00c0 Fabrice",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 11060.34803390503,
+  "model": "gpt-4o"
+}

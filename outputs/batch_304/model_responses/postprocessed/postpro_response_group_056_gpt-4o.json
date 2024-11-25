@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "560",
+      "category": "11",
+      "explanation": "This stage direction describes the setting, indicating that the theater is in disorder when the curtain rises.",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "561",
+      "category": "9",
+      "explanation": "This is a narrative stage direction describing a sequence of actions and interactions between characters, including an escape and return to the stage.",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "562",
+      "category": "12",
+      "explanation": "Indicates the addressee of speech or action, in this case toward 'Trasimon'.",
+      "stgdir": "\u00c0 Trasimon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "563",
+      "category": "0",
+      "explanation": "The direction describes the action of the doctor rising, which is a general character action.",
+      "stgdir": "Le docteur se l\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "564",
+      "category": "1",
+      "explanation": "The action of shooting ('Il tire') is considered an act of aggression or violence.",
+      "stgdir": "Il tire.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "565",
+      "category": "3",
+      "explanation": "The 'Serment de l'Ordre de Chevalerie' refers to a delivery manner, implying a formal and vocal expression of taking an oath.",
+      "stgdir": "Serment de l'Ordre de Chevalerie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "566",
+      "category": "12",
+      "explanation": "Indicates the addressee of speech or action, this time toward 'Sozame'.",
+      "stgdir": "\u00c0 Sozame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "567",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction where a character is embracing Madame Milville.",
+      "stgdir": "Embrassant Madame Milville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "568",
+      "category": "6",
+      "explanation": "The direction involves examining a painting, which is a form of non-verbal interaction with an object.",
+      "stgdir": "Examinant le tableau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "569",
+      "category": "8",
+      "explanation": "Refers to a specific piece of music, 'Air de la SIR\u00c8NE, d'Auber', indicating it is a music stage direction.",
+      "stgdir": "Air de la SIR\u00c8NE, d'Auber.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6459.3939781188965,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1180",
+      "category": "4",
+      "explanation": "The stage direction describes characters entering the stage from different directions, which fits the entrance category.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1181",
+      "category": "10",
+      "explanation": "The action of brushing fingers across an inkwell involves an interaction with an object.",
+      "stgdir": "Il effleure l'encrier de ses doigts.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1182",
+      "category": "3",
+      "explanation": "This appears to be a title or introduction of a challenge or message, fitting with the notion of delivery as it might suggest the manner or intent behind it.",
+      "stgdir": "CARTEL DU CAPITAN TAILLEBRAS A BEAUROCHER.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1183",
+      "category": "5",
+      "explanation": "The stage direction describes a character exiting the stage with another character.",
+      "stgdir": "Elle sort avec \u00c9raste.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1184",
+      "category": "3",
+      "explanation": "The action is related to the emotional delivery or reaction upon seeing someone ready to get angry, fitting in delivery.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1185",
+      "category": "1",
+      "explanation": "Raising a dagger is associated with an aggressive or threatening action, fitting aggression.",
+      "stgdir": "Il hausse le poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1186",
+      "category": "10",
+      "explanation": "Removing armor and helmet involves interacting with objects, thus fits the object category.",
+      "stgdir": "Oronte met bas son \u00e9cu et son casque, pour dormir au pied d'un arbre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1187",
+      "category": "12",
+      "explanation": "This indicates the addressee of an action ('to Laure'), fitting the toward category.",
+      "stgdir": "\u00c0 Laure, en lui baisant les doigts.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1188",
+      "category": "0",
+      "explanation": "The action of 'elle p\u00e2me' might relate to a character fainting or swooning, fitting the general action category.",
+      "stgdir": "Elle p\u00e2me.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1189",
+      "category": "8",
+      "explanation": "Antistrophe IX likely refers to a musical or poetic element, fitting the music category.",
+      "stgdir": "Antistrophe IX.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7669.302940368652,
+  "model": "gpt-4o"
+}

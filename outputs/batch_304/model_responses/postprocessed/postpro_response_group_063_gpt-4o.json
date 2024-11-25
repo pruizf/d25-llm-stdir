@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "630",
+      "category": "10",
+      "explanation": "The stage direction 'Lui donnant le bracelet' describes an interaction with an object, specifically giving a bracelet to someone. This fits the 'object' category.",
+      "stgdir": "Lui donnant le bracelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Pauvre Jacques' indicates the name of a tune or music piece performed. This fits the 'music' category as it specifies a song title.",
+      "stgdir": "Air : Pauvre Jacques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "12",
+      "explanation": "The stage direction 'Au duc d'Alcala' indicates the addressee of a speech or action. This fits the 'toward' category, as it shows who is being addressed.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !' specifies the name of a tune, indicating music is to be played or sung. This fits the 'music' category.",
+      "stgdir": "Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "1",
+      "explanation": "The stage direction 'On lui corne aux oreilles avec une trompe de postillon' describes a potentially aggressive action where someone is being honked at very close to the ears. This fits the 'aggression' category.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "8",
+      "explanation": "The stage direction 'Antistrophe II' indicates a structured part of a lyrical piece, often used in music or choral contexts. This fits the 'music' category.",
+      "stgdir": "Antistrophe II.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "8",
+      "explanation": "The stage direction 'Strophe X' also indicates a part of a song or musical piece. This fits the 'music' category as it describes a section of a song.",
+      "stgdir": "Strophe X.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant Job' describes an interaction where a character sees or notices another character named Job. This fits the 'interaction' category.",
+      "stgdir": "Apercevant Job.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Mon joli petit Corbillon' specifies a song to be played or sung. This falls under the 'music' category as it's a musical cue.",
+      "stgdir": "Air : Mon joli petit Corbillon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Le petit mot, etc.' indicates a music piece to be performed. This fits the 'music' category as it specifies a tune.",
+      "stgdir": "Air : Le petit mot, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 29010.184049606323,
+  "model": "gpt-4o"
+}

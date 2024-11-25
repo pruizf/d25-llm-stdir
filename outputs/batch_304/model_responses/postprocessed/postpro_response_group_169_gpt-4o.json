@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1690",
+      "category": "11",
+      "explanation": "AU PARTERRE indicates a specific location on the stage, related to the setting.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1691",
+      "category": "6",
+      "explanation": "Se jetant aux pieds de Wild suggests a non-verbal interaction between characters, where a character is throwing themselves at someone\u2019s feet.",
+      "stgdir": "Se jetant aux pieds de Wild.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1692",
+      "category": "3",
+      "explanation": "Stances refer to poetic verses likely intended for recitation, suggesting manner of vocal delivery.",
+      "stgdir": "Stances.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1693",
+      "category": "10",
+      "explanation": "Il regarde l'heure \u00e0 sa montre describes an interaction with an object (a watch).",
+      "stgdir": "Il regarde l'heure \u00e0 sa montre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1694",
+      "category": "12",
+      "explanation": "Aux princes indicates the addressee or audience for a speech or action, signifying direction toward someone.",
+      "stgdir": "Aux princes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1695",
+      "category": "3",
+      "explanation": "VERS implies recitation or reading of poetic verses, relating to delivery of lines.",
+      "stgdir": "VERS.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1696",
+      "category": "8",
+      "explanation": "AIR 6. ( Vous avez bien de la bont\u00e9. ) indicates the title of a tune, related to music.",
+      "stgdir": "AIR 6. ( Vous avez bien de la bont\u00e9. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1697",
+      "category": "8",
+      "explanation": "Air : Nous autres bons villageois introduces the title of another tune, fitting the music category.",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1698",
+      "category": "12",
+      "explanation": "\u00c0 Do\u00f1a Sol suggests the speech or action is directed toward a specific character.",
+      "stgdir": "\u00c0 Do\u00f1a Sol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1699",
+      "category": "8",
+      "explanation": "Air : Entre l'amour et la raison introduces a tune name, related to music.",
+      "stgdir": "Air : Entre l'amour et la raison.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9214.746475219727,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2060",
+      "category": "9",
+      "explanation": "This stage direction is a long narrative describing interactions and feelings, fitting the 'narration' category due to its narrative quality and length.",
+      "stgdir": "Je les interrompis, bien que j'eusse un extr\u00eame plaisir d'apprendre par leurs bouches tous les d\u00e9tours dont elles se servent, en leur disant que la nuit s'approchait, et qu'il fallait me retirer. Elles me demand\u00e8rent mon sentiment touchant leurs diff\u00e9rentes humeurs : je voulus m'en excuser par l'heure qui semblait ne me pas donner le temps de m'expliquer ; mais elles me contraignirent d'en dire quelque chose. Je leur dis que je trouvais autant de satisfaction dans l'une que dans l'autre. Elles me r\u00e9pondirent, que ce n'\u00e9tait pas mon sentiment, et que je voulais par ce jugement ne d\u00e9sobliger personne ; mais que je pouvais en d\u00e9cider, sans appr\u00e9hender de f\u00e2cher aucune des deux. Je leur dis encore la m\u00eame chose ; et pour leur prouver que c'\u00e9tait ma pens\u00e9e, je dis que quand j'aimais une prude, que je crois que la coquette \u00e9tait fort condamnable ; que depuis j'avais trouv\u00e9 qu'elle avait ses agr\u00e9ments comme une autre, mais que v\u00e9ritablement il fallait faire un \u00e9trange saut. Iris r\u00e9pondit, qu'elle avait ou\u00ef dire \u00e0 plusieurs ce que je disais, mais que je ne devais pas regarder l'effet que ces humeurs produisaient dans l'esprit des hommes, mais seulement le plaisir que les femmes en pouvaient receuoir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2061",
+      "category": "7",
+      "explanation": "This stage direction involves a character (Agla\u00e9) moving forward, indicating character movement.",
+      "stgdir": "Agla\u00e9 s'avance.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2062",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech ('\u00c0 H\u00e9cube'), which fits the 'toward' category.",
+      "stgdir": "\u00c0 H\u00e9cube.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2063",
+      "category": "6",
+      "explanation": "The stage direction describes a character's intention to embrace another character, which is a form of non-verbal interaction.",
+      "stgdir": "Il veut embrasser Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2064",
+      "category": "8",
+      "explanation": "The presence of 'Air' followed by a title ('De la Ceinture') suggests this is a music-related stage direction, indicating a tune or song name.",
+      "stgdir": "Air De la Ceinture.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2065",
+      "category": "3",
+      "explanation": "The stage direction 'Reprenant son air gai' describes the manner of delivery or expression, indicating a change in mood to a cheerful demeanor.",
+      "stgdir": "Reprenant son air gai.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2066",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee ('\u00c0 Chiffonne'), fitting the 'toward' category.",
+      "stgdir": "\u00c0 Chiffonne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2067",
+      "category": "6",
+      "explanation": "The stage direction describes an action where the domestics rush, indicating a form of group movement. However, since it's in response to an event, it implies interaction.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2068",
+      "category": "6",
+      "explanation": "This stage direction involves a character indicating or pointing at the Chief of the Fugitives and the Prelate, making it a type of non-verbal interaction.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2069",
+      "category": "0",
+      "explanation": "The stage direction 'Elle se jette \u00e0 ses genoux' describes a character action where the character kneels, fitting the general action category.",
+      "stgdir": "Elle se jette \u00e0 ses genoux.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 16958.420276641846,
+  "model": "gpt-4o"
+}

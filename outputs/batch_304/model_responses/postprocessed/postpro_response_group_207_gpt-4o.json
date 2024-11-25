@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2070",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 ses pages' indicates the addressee of a speech or a directive given to pages, which aligns with the 'toward' category.",
+      "stgdir": "\u00c0 ses pages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2071",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR,' indicating it refers to music, matching the 'music' category.",
+      "stgdir": "AIR. Un mouvement de curiosit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2072",
+      "category": "10",
+      "explanation": "The direction 'Il rend la lettre \u00e0 C\u00e9line' involves giving a letter to C\u00e9line, which involves handling/manipulating an object, thus fitting the 'object' category.",
+      "stgdir": "Il rend la lettre \u00e0 C\u00e9line.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2073",
+      "category": "8",
+      "explanation": "As with direction 2071, this begins with 'AIR,' signaling a musical element, hence it is classified under the 'music' category.",
+      "stgdir": "AIR. Di que st'alma, il fior tormento, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2074",
+      "category": "6",
+      "explanation": "The stage direction 'Lui montrant le caf\u00e9 de l'Alliance' involves pointing or showing something to someone, which is an interaction without words, thus fitting the 'interaction' category.",
+      "stgdir": "Lui montrant le caf\u00e9 de l'Alliance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2075",
+      "category": "7",
+      "explanation": "The direction 'Il s'approche d'une autre Statue' indicates movement of the character toward the statue, fitting the 'movement' category.",
+      "stgdir": "Il s'approche d'une autre Statue.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2076",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Omphale' indicates the script or speech is directed toward Omphale, corresponding to the 'toward' category.",
+      "stgdir": "\u00c0 Omphale.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2077",
+      "category": "9",
+      "explanation": "This long direction narrates a sequence of events involving sounds and character appearances in a detailed manner, fitting the 'narration' category.",
+      "stgdir": "Les cris redoublent en dehors, les tambours battent, une foule de g\u00e9n\u00e9raux et d'officiers d'\u00e9tat major paraissent au fond et se placent vis-\u00e0-vis les portes vitr\u00e9es.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2078",
+      "category": "12",
+      "explanation": "Similar to direction 2076, '\u00c0 Don Alvar' indicates the speech is directed toward Don Alvar, making it belong to the 'toward' category.",
+      "stgdir": "\u00c0 Don Alvar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2079",
+      "category": "11",
+      "explanation": "'Le th\u00e9\u00e2tre change' is a description related to alteration in the setting of the stage, fitting the 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre change.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 11302.11067199707,
+  "model": "gpt-4o"
+}

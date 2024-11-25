@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1070",
+      "category": "0",
+      "explanation": "The direction 'm\u00eame jeu que plus haut' indicates a repeated action, which is a general action instruction for the characters.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1071",
+      "category": "4",
+      "explanation": "The direction 'Entre Enguerrand Durand' indicates that the character Enguerrand Durand is entering the stage.",
+      "stgdir": "Entre Enguerrand Durand.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1072",
+      "category": "6",
+      "explanation": "'Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras' describes a non-verbal interaction between characters.",
+      "stgdir": "Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1073",
+      "category": "6",
+      "explanation": "The direction 'Il choque avec elle' is a non-verbal interaction, likely indicating a clashing or bumping into one another.",
+      "stgdir": "Il choque avec elle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1074",
+      "category": "9",
+      "explanation": "The term 'Antistrophe X' suggests a narrative description, possibly indicating a part of a chorus or a sequence of events.",
+      "stgdir": "Antistrophe X.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1075",
+      "category": "0",
+      "explanation": "'Flore continue' indicates that a character (Flore) continues an action or speech, representing a general action.",
+      "stgdir": "Flore continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1076",
+      "category": "8",
+      "explanation": "'M\u00eame air' refers to a continuation of the same music, classifying it as a music-related stage direction.",
+      "stgdir": "M\u00eame air",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1077",
+      "category": "8",
+      "explanation": "'Air : Femmes, voulez-vous \u00e9prouver ?' refers to a specific music tune or song, making it a music category.",
+      "stgdir": "Air : Femmes, voulez-vous \u00e9prouver ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1078",
+      "category": "9",
+      "explanation": "The stage direction describes a sequence involving multiple character actions and interactions in a narrative style, suitable for the narration category.",
+      "stgdir": "Prom\u00e9th\u00e9e anime ces trois statues ; l'homme de Cour danse d'un air fastueux, et l'\u00e9l\u00e8ve de Th\u00e9mis, en minaudant. Au son de l'or que le favori de Plutus qui s'est anim\u00e9 lentement, remue dans son chapeau, l'un et l'autre viennent le flatter et le caresser avec bassesse ; Il se d\u00e9barrasse d'eux d'un air brusque ; ils le suivent, et tous les trois sortent de dessus la sc\u00e8ne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1079",
+      "category": "4",
+      "explanation": "'\u00c0 son appel, Blanche, Am\u00e9lie et Jeanne entrent' indicates the entrance of characters Blanche, Am\u00e9lie, and Jeanne onto the stage.",
+      "stgdir": "\u00c0 son appel, Blanche, Am\u00e9lie et Jeanne entrent.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 8890.00940322876,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2360",
+      "category": "4",
+      "explanation": "The stage direction 'L'esclave para\u00eet' indicates the entrance of the character, as 'para\u00eet' suggests that the character is appearing or coming on stage.",
+      "stgdir": "L'esclave para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2361",
+      "category": "8",
+      "explanation": "The stage direction involves the chorus singing and refers to a musical part, indicated by 'chantera.' It refers to a specific piece of text ('Tulit ergo Dominas hominem') that will be sung, aligning with the music category.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2362",
+      "category": "12",
+      "explanation": "This stage direction, '\u00c0 Deschamps,' most likely indicates whom the following dialogue or action is directed towards, aligning it with the 'toward' category.",
+      "stgdir": "\u00c0 Deschamps.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2363",
+      "category": "3",
+      "explanation": "The stage direction 'Il rit de toute sa force' pertains to the character's expression through vocal or emotional delivery\u2014specifically laughter, linking it to the delivery category which includes expressions of emotion.",
+      "stgdir": "Il rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2364",
+      "category": "12",
+      "explanation": "Similar to '\u00c0 Deschamps,' 'Au marquis' is likely specifying the addressee for dialogue or focus, placing it in the 'toward' category.",
+      "stgdir": "Au marquis",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2365",
+      "category": "5",
+      "explanation": "The stage direction 'Il part' indicates a character's exit from the stage, placing it squarely in the 'exit' category.",
+      "stgdir": "Il part.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2366",
+      "category": "8",
+      "explanation": "This stage direction begins with 'Air' and specifies a musical piece ('Le moyen de faire autrement') to be played, which corresponds to the 'music' category.",
+      "stgdir": "Air: Le moyen de faire autrement. Du Peintre amoureux, N\u00b0 3.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2367",
+      "category": "6",
+      "explanation": "Here, 'L\u00e9onore lui propose une longue entrevue avec Julie' suggests an interaction, as L\u00e9onore engages with another character by proposing a meeting, which falls under non-verbal interaction.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2368",
+      "category": "11",
+      "explanation": "The stage direction 'LES SIRENES' might describe a part of the setting linked with the storyline\u2014potentially characters like sirens, indicating their presence or emergence on stage, thus linked to the setting.",
+      "stgdir": "LES SIRENES.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2369",
+      "category": "8",
+      "explanation": "This refers to 'Autres Couplets sur l'air: Comp\u00e8re Gervais', indicating specific music or song pieces, categorizing it within the music domain.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10825.411796569824,
+  "model": "gpt-4o"
+}

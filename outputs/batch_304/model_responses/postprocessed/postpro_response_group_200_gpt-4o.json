@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2000",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Joconde' indicates the name of a tune, classifying it under music.",
+      "stgdir": "Air : Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2001",
+      "category": "0",
+      "explanation": "The stage direction 'Ils se mettent \u00e0 table' describes a general character action of sitting down to eat or engage in a meal, fitting the action category.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2002",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant son amant' involves non-verbal character interaction by pointing out another character, classified as interaction.",
+      "stgdir": "Montrant son amant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2003",
+      "category": "1",
+      "explanation": "The stage direction 'Il met la main \u00e0 l'\u00e9p\u00e9e' suggests a potentially aggressive action, as it involves preparing to use a weapon, fitting the aggression category.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2004",
+      "category": "9",
+      "explanation": "The stage direction 'On entend les cris du Peuple dans le fond' describes background noise of people shouting, which fits the narration category due to its descriptive nature.",
+      "stgdir": "On entend les cris du Peuple dans le fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2005",
+      "category": "6",
+      "explanation": "The stage direction 'Elles ne se regardent plus' involves the non-verbal interaction of stopping to look at each other, classified as interaction.",
+      "stgdir": "Elles ne se regardent plus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2006",
+      "category": "6",
+      "explanation": "The stage direction 'L'abordant' describes the act of approaching or addressing a character without verbal interaction, categorized as interaction.",
+      "stgdir": "L'abordant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2007",
+      "category": "6",
+      "explanation": "The stage direction 'Regardant le chanson' involves a character looking at something (likely a song list or lyrics), classified as interaction.",
+      "stgdir": "Regardant le chanson.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2008",
+      "category": "7",
+      "explanation": "The stage direction 'Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne' involves moving a character to another location on stage, fitting the movement category.",
+      "stgdir": "Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2009",
+      "category": "8",
+      "explanation": "The stage direction 'Air : P\u00e8re je me confesse' indicates the name of a tune, placing it under music.",
+      "stgdir": "Air : P\u00e8re je me confesse.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10545.076131820679,
+  "model": "gpt-4o"
+}

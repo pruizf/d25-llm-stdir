@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1590",
+      "category": "11",
+      "explanation": "This stage direction describes the setting, specifying the location of the scene as the palace of A\u00ebt\u00e8s.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'A\u00ebt\u00e8s.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1591",
+      "category": "10",
+      "explanation": "The action of throwing a ring to the ground involves interaction with an object.",
+      "stgdir": "Il jette sa bague \u00e0 terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1592",
+      "category": "1",
+      "explanation": "The act of striking someone is a violent action, thus categorizing it as aggression.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1593",
+      "category": "11",
+      "explanation": "This direction provides information about the position of characters on stage, indicating the setting.",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1594",
+      "category": "12",
+      "explanation": "The direction indicates to whom the action or dialogue is addressed, classifying it as toward.",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1595",
+      "category": "11",
+      "explanation": "The phrase 'Sc\u00e8nes italiennes' likely refers to segments that depict or are inspired by Italian scenes, contributing to the setting of the play.",
+      "stgdir": "Sc\u00e8nes italiennes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1596",
+      "category": "1",
+      "explanation": "The act of fighting is classified as aggression, even if one party is only parrying blows.",
+      "stgdir": "Ils se battent, et Roger ne fait que parer les coups.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1597",
+      "category": "3",
+      "explanation": "Singing is a vocal expression, therefore this stage direction falls under the delivery category.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1598",
+      "category": "6",
+      "explanation": "The action of two characters looking at each other with glasses is a form of non-verbal interaction.",
+      "stgdir": "Ils se regardent tous deux avec leurs lunettes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1599",
+      "category": "6",
+      "explanation": "The intention to take someone's hand is a form of non-verbal interaction between characters.",
+      "stgdir": "Voulant lui prendre la main.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 9093.761444091797,
+  "model": "gpt-4o"
+}

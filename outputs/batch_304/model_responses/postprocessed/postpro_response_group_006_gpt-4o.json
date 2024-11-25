@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "60",
+      "category": "1",
+      "explanation": "Don Carlos drawing his sword suggests a preparation for a violent action, which fits the aggression category.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "0",
+      "explanation": "Sitting in a chair is a general character action and falls under the action category.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "3",
+      "explanation": "The character Val\u00e9rian singing is related to vocal expression and thus fits the delivery category.",
+      "stgdir": "Val\u00e9rian chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "7",
+      "explanation": "Making a movement to stand is movement related, and it fits the movement category as it indicates a character's change of position.",
+      "stgdir": "Il fait un mouvement pour se lever.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "11",
+      "explanation": "The description of a setting with a grove, trees, and cabins defines the play's location, fitting the setting category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un bocage dont les arbres sont couverts de frimas et de gla\u00e7ons. On voit dans le lointain plusieurs cabanes de Sauvages dont les toits sont couverts de neige. Parmi ces cabanes, on en remarque une plus spacieuse et moins \u00e9loign\u00e9e que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "10",
+      "explanation": "Throwing a rose on the ground involves handling an object, so it fits the object category.",
+      "stgdir": "Elle jette la rose par terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "10",
+      "explanation": "Placing tablets on a bench is an interaction with an object, placing it in the object category.",
+      "stgdir": "Il met les tablettes sur le banc.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "3",
+      "explanation": "Clarimand reading out loud relates to the manner of delivery, so it belongs to the delivery category.",
+      "stgdir": "Que Clarimand lit haut.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "10",
+      "explanation": "Making a purse jingle might indicate an interaction with an object, in this case, the purse; thus, it fits the object category.",
+      "stgdir": "Faisant sonner la bourse.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Casimir' indicates to whom something is addressed, fitting the toward category.",
+      "stgdir": "\u00c0 Casimir.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9870.16749382019,
+  "model": "gpt-4o"
+}

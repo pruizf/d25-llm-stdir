@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2210",
+      "category": "6",
+      "explanation": "This stage direction involves taking Silvia's hand, which is a non-verbal interaction.",
+      "stgdir": "Prenant la main de Silvia.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2211",
+      "category": "4",
+      "explanation": "The stage direction describes the appearance of two divinities, indicating an entrance.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2212",
+      "category": "12",
+      "explanation": "This direction indicates whom the action or speech is directed towards, here addressing Omar.",
+      "stgdir": "\u00c0 Omar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2213",
+      "category": "3",
+      "explanation": "Laughing involves vocal expression and emotion, fitting the delivery category.",
+      "stgdir": "Violette et Arlequin rient, et les ris d'Arlequin augmentent \u00e0 mesure qu'il se voit rire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2214",
+      "category": "7",
+      "explanation": "The direction describes going towards a door, which is an action of movement.",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2215",
+      "category": "11",
+      "explanation": "This describes the setting, indicating that the entire court is in mourning.",
+      "stgdir": "Toute la cour est en deuil.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2216",
+      "category": "8",
+      "explanation": "This refers to the end of a tune named 'Revenant de Lorette,' thus related to music.",
+      "stgdir": "Fin de l'air : Revenant de Lorette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2217",
+      "category": "8",
+      "explanation": "Indicates that a cheerful tune is heard, which is related to music.",
+      "stgdir": "On entend un air gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2218",
+      "category": "12",
+      "explanation": "Indicates the addressee of the action or speech, in this case, the officer.",
+      "stgdir": "\u00c0 l'Officier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2219",
+      "category": "12",
+      "explanation": "Indicates the addressee, in this case, the woman.",
+      "stgdir": "\u00c0 la femme.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 7138.8840675354,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "10",
+      "category": "5",
+      "explanation": "The stage direction 'Le valet, de de chambre sort.' indicates the character is exiting, which fits the 'exit' category.",
+      "stgdir": "Le valet, de de chambre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "4",
+      "explanation": "The stage direction 'Bricard entre.' indicates a character entrance, which fits the 'entrance' category.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "7",
+      "explanation": "The stage direction 'Il va \u00e0 elle.' describes movement towards someone, which fits the 'movement' category.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "8",
+      "explanation": "The stage direction 'Air de la Crois\u00e9e.' references music, as it refers to a tune name, fitting the 'music' category.",
+      "stgdir": "Air de la Crois\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "2",
+      "explanation": "The stage direction 'Apart\u00e9.' indicates an aside, which fits the 'aparte' category.",
+      "stgdir": "Apart\u00e9.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "10",
+      "explanation": "The stage direction 'Jetant les cartes.' involves the action of throwing cards, which is an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Jetant les cartes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "12",
+      "explanation": "The stage direction 'Aux Gardes.' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "Aux Gardes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Christierne.' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Christierne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "5",
+      "explanation": "The stage direction 'Zerbine sort.' indicates the character is exiting, which fits the 'exit' category.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 L\u00e9andre' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 L\u00e9andre",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9231.850862503052,
+  "model": "gpt-4o"
+}

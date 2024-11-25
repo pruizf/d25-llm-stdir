@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1820",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 C\u00e9lidan.' indicates that the speech or action is directed towards C\u00e9lidan.",
+      "stgdir": "\u00c0 C\u00e9lidan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1821",
+      "category": "11",
+      "explanation": "The phrase 'Le Th\u00e9\u00e2tre repr\u00e9sente une Solitude.' describes the stage setting or location, indicating a scene of solitude is depicted.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une Solitude.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1822",
+      "category": "9",
+      "explanation": "While the phrase 'L'ABEILLE ET L'ARAIGN\u00c9E.' could imply a title or topic, it also suggests a narrative quality, possibly introducing a scene or segment.",
+      "stgdir": "L'ABEILLE ET L'ARAIGN\u00c9E.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1823",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 la m\u00e8re.' indicates that the speech or action is directed towards the character referred to as 'la m\u00e8re'.",
+      "stgdir": "\u00c0 la m\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1824",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Genseric.' directs the attention or speech towards Genseric.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1825",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR' followed by a title 'Jusque dans la moindre chose.', indicating it refers to a music or tune name.",
+      "stgdir": "AIR : Jusque dans la moindre chose. .",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1826",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Mademoiselle B\u00e9jart et \u00e0 B\u00e9jart.' directs the speech or action towards Mademoiselle B\u00e9jart and B\u00e9jart.",
+      "stgdir": "\u00c0 Mademoiselle B\u00e9jart et \u00e0 B\u00e9jart.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1827",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 S\u00e9sostris.' indicates the direction of speech or action towards the character S\u00e9sostris.",
+      "stgdir": "\u00c0 S\u00e9sostris.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1828",
+      "category": "6",
+      "explanation": "The phrase 'Et Roger aussi.' is likely a continuation of interaction or addressing someone, suggesting Roger is included in a previous action or address.",
+      "stgdir": "Et Roger aussi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1829",
+      "category": "11",
+      "explanation": "The phrase 'La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.' indicates a change in setting, noting that the scene now represents the garden of the Fairy.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 18020.814418792725,
+  "model": "gpt-4o"
+}

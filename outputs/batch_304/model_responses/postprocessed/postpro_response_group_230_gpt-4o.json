@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2300",
+      "category": "0",
+      "explanation": "The stage direction 'Le Temple s'ouvre' implies an action related to the opening of the Temple, which fits the general action category as it involves an environmental change typically a character action like opening.",
+      "stgdir": "Le Temple s'ouvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2301",
+      "category": "4",
+      "explanation": "The stage direction 'Ils paraissent tous les deux' indicates an entrance, as 'paraissent' suggests the characters are appearing on stage.",
+      "stgdir": "Ils paraissent tous les deux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2302",
+      "category": "11",
+      "explanation": "The stage direction 'Le th\u00e9\u00e2tre repr\u00e9sente un lieu champ\u00eatre' describes the setting, detailing the scene's location as a country place.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu champ\u00eatre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2303",
+      "category": "11",
+      "explanation": "The stage direction '\u00c0 Tronquoy' specifies the play's setting, identifying the location within the scene.",
+      "stgdir": "\u00c0 Tronquoy.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2304",
+      "category": "6",
+      "explanation": "The stage direction 'Tous les deux prennent place devant la table' indicates interaction, as both characters take seats in front of the table, which involves coordinated action.",
+      "stgdir": "Tous les deux prennent place devant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2305",
+      "category": "5",
+      "explanation": "The stage direction 'Il sort par la petite porte \u00e0 droite' indicates an exit since it specifies a character leaving through a door on the right.",
+      "stgdir": "Il sort par la petite porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2306",
+      "category": "5",
+      "explanation": "The stage direction describes everyone else exiting, leaving Agla\u00e9 behind but starting to leave thereafter; thus, it is primarily an exit direction.",
+      "stgdir": "Tout le monde sort. Agla\u00e9 reste un peu derri\u00e8re avec le Chevalier. Elle lui dit :",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2307",
+      "category": "1",
+      "explanation": "The stage direction 'Il les met en termes de combattre' involves aggression, as it suggests setting terms for fighting.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2308",
+      "category": "8",
+      "explanation": "The stage direction 'Air. Dans le fond d'une \u00e9curie' identifies a musical element, specifying the name of a tune or song.",
+      "stgdir": "Air. Dans le fond d'une \u00e9curie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2309",
+      "category": "7",
+      "explanation": "The stage direction 'Il s'approche de C\u00e9cile' describes a character moving towards another, which is a movement direction.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 9777.574300765991,
+  "model": "gpt-4o"
+}

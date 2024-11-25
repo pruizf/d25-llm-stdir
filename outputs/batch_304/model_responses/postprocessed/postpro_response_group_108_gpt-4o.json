@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1080",
+      "category": "8",
+      "explanation": "The term 'Strophe IX' refers to a specific section or verse of a song or musical piece, indicating the musical nature of this direction.",
+      "stgdir": "Strophe IX.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1081",
+      "category": "0",
+      "explanation": "The direction 'Ils s'asseyent' refers to characters sitting down, which is a general action.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1082",
+      "category": "5",
+      "explanation": "The phrase 'Il sort par la porte de gauche' indicates a character exiting the stage, which fits the exit category.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1083",
+      "category": "6",
+      "explanation": "The action 'Il regarde dans l'antichambre' involves a character looking somewhere, which is a form of non-verbal interaction with the environment.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1084",
+      "category": "11",
+      "explanation": "This long description provides details about the stage setting, including furniture and decorations, constituting a stage description.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une salle de caf\u00e9. Au milieu est un po\u00eale \u00e9conomique surmont\u00e9 d'un Mont-Parnasse, compos\u00e9 selon le syst\u00e8me des Litt\u00e9rateurs modernes, et cons\u00e9quemment tout l'oppos\u00e9 de celui que M. Titon du Tillet a \u00e9lev\u00e9 \u00e0 la gloire du si\u00e8cle de Louis XIV. Chaque table est garnie d'encre, de papier et d'une inscription relative aux feuilles et aux brochures qui leur est propre. On aper\u00e7oit, dans le fond, une biblioth\u00e8que fort en d\u00e9sordre. Parnassot et deux gar\u00e7ons arrangent la salle. Parnassot est coiff\u00e9 d'un p\u00e9tasse ou bonnet de Mercure, les gar\u00e7ons en ont un \u00e0-peu-pr\u00e9s semblable, except\u00e9 que les ailes rabattues forment des oreilles de Midas.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1085",
+      "category": "0",
+      "explanation": "The action 'Tapant du pied' is a specific character action of tapping the foot, which doesn't fit specialized categories, thus a general action.",
+      "stgdir": "Tapant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1086",
+      "category": "8",
+      "explanation": "The direction starts with 'Air: Madame en v\u00e9rit\u00e9,' indicating a musical piece or song, placing it under the music category.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1087",
+      "category": "0",
+      "explanation": "The verb 'd\u00e9bouche' suggests a character emerging or appearing, an action not fitting other categories, making it a general action.",
+      "stgdir": "[Il] d\u00e9bouche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1088",
+      "category": "12",
+      "explanation": "The phrase 'En regardant Terville' indicates the target or addressee of an action or speech, classifying it as toward.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1089",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Songez \u00e0 vous d\u00e9fendre' indicates the title or theme of a musical piece, corresponding to the music category.",
+      "stgdir": "AIR. Songez \u00e0 vous d\u00e9fendre.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9582.555294036865,
+  "model": "gpt-4o"
+}

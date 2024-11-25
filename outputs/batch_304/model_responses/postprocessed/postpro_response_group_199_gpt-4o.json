@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1990",
+      "category": "12",
+      "explanation": "The phrase 'Aux soldats' indicates a direction or speech toward the soldiers, fitting the 'toward' category.",
+      "stgdir": "Aux soldats.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1991",
+      "category": "7",
+      "explanation": "The action 'Regardant du cot\u00e9 oppos\u00e9' describes a character's movement in terms of a change in gaze direction, which aligns with the 'movement' category.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1992",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Charlot' suggests direction of speech or action toward a character, which fits with the 'toward' category.",
+      "stgdir": "\u00c0 Charlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1993",
+      "category": "10",
+      "explanation": "The action 'Il \u00f4te son costume de vieillard' describes the character interacting with a costume, thus fitting the 'object' category.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1994",
+      "category": "6",
+      "explanation": "The phrase 'Octave lui donnant la main' indicates a non-verbal interaction, fitting the 'interaction' category.",
+      "stgdir": "Octave lui donnant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1995",
+      "category": "10",
+      "explanation": "The action 'Il lui donne un manche d'\u00e9clanche' describes giving an object, which is typical of the 'object' category.",
+      "stgdir": "Il lui donne un manche d'\u00e9clanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1996",
+      "category": "7",
+      "explanation": "The phrase 'En s'\u00e9loignant' denotes movement away or distancing, which falls under the 'movement' category.",
+      "stgdir": "En s'\u00e9loignant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1997",
+      "category": "2",
+      "explanation": "The term 'PRIMO' suggests an aside or note to the audience rather than within character interaction, aligning with the 'aparte' category.",
+      "stgdir": "PRIMO.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1998",
+      "category": "9",
+      "explanation": "The phrase 'Fin de la lettre' narrates or informs about the conclusion of a letter, giving it a narrative quality suitable for the 'narration' category.",
+      "stgdir": "Fin de la lettre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1999",
+      "category": "0",
+      "explanation": "The phrase 'Il frappe toujours' describes a continued action of knocking; knocking fits under general actions covered by the 'action' category.",
+      "stgdir": "Il frappe toujours.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 9840.595722198486,
+  "model": "gpt-4o"
+}

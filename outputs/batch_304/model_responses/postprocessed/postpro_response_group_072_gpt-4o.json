@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "720",
+      "category": "11",
+      "explanation": "Describes the position of characters (Melpom\u00e8ne and Thalie) in relation to parts of the stage (aile droite, aile gauche), which is a setting-related direction.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "721",
+      "category": "0",
+      "explanation": "Describes an action where the character is throwing themselves onto an armchair, which fits a general character action.",
+      "stgdir": "Se jetant sur un fautenil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "722",
+      "category": "8",
+      "explanation": "Begins with 'AIR', indicating it refers to a musical piece or song to be played.",
+      "stgdir": "AIR. Que de Gentillesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "723",
+      "category": "10",
+      "explanation": "Refers to closing the secret of a jewel box, which involves interaction with an object.",
+      "stgdir": "Il referme vite le secret de l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "724",
+      "category": "8",
+      "explanation": "'Air : Quel amour fut aussi tendre !' refers to a musical piece or song to be played, indicated by 'Air'.",
+      "stgdir": "Air : Quel amour fut aussi tendre ! De Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "725",
+      "category": "8",
+      "explanation": "Refers to a 'S\u00c9R\u00c9NADE,' indicating a musical performance.",
+      "stgdir": "S\u00c9R\u00c9NADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "726",
+      "category": "12",
+      "explanation": "Indicates the addressees (insulaires de l'un et de l'autre sexes), fitting the category 'toward'.",
+      "stgdir": "Aux insulaires de l'un et de l'autre sexes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "727",
+      "category": "3",
+      "explanation": "Indicates how the words should be delivered, specifically mentioning laughter.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "728",
+      "category": "4",
+      "explanation": "The word 'Entrant' indicates a character's entrance onto the stage.",
+      "stgdir": "Entrant.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "729",
+      "category": "5",
+      "explanation": "Indicates the character Tirsis is exiting or withdrawing, as 'se retire' suggests an exit.",
+      "stgdir": "Tirsis se retire.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 16606.32276535034,
+  "model": "gpt-4o"
+}

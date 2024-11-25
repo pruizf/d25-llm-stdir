@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1840",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Adrienne.' indicates the addressee of a speech or action, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Adrienne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1841",
+      "category": "5",
+      "explanation": "The stage direction 'Il se sauve.' suggests the character is exiting the stage, which fits the 'exit' category.",
+      "stgdir": "Il se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1842",
+      "category": "5",
+      "explanation": "The stage direction 'Cassiope sort.' indicates that Cassiope exits the stage, fitting the 'exit' category.",
+      "stgdir": "Cassiope sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1843",
+      "category": "12",
+      "explanation": "The stage direction 'Vers Ang\u00e9lique.' indicates a direction toward a character, fitting the 'toward' category.",
+      "stgdir": "Vers Ang\u00e9lique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1844",
+      "category": "4",
+      "explanation": "The stage direction 'Mariette parait.' suggests that Mariette enters the stage, fitting the 'entrance' category.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1845",
+      "category": "0",
+      "explanation": "The stage direction 'Ayant lu.' refers to the action of having read something, fitting the 'action' category as it indicates a completed action.",
+      "stgdir": "Ayant lu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1846",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Margot.' indicates the addressee of a speech or action, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1847",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Fr\u00e9missin.' indicates the addressee of a speech or action, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1848",
+      "category": "2",
+      "explanation": "The stage direction describes a character speaking aside, not to be heard by others ('\u00e0 part... assez bas pour qu'il ne puisse \u00eatre entendu'), fitting the 'aparte' category.",
+      "stgdir": "\u00c0 part de l'autre c\u00f4t\u00e9 de l'endroit d'o\u00f9 on l'\u00e9coutait, mais, assez bas pour qu'il ne puisse \u00eatre entendu des berg\u00e8res.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1849",
+      "category": "10",
+      "explanation": "The stage direction involves giving an object ('son portrait enrichi de diamants'), which is an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Elle lui donne son portrait enrichi de diamants.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 21394.076108932495,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "190",
+      "category": "11",
+      "explanation": "The direction describes a change of setting, indicating the new location for the scene, which is the Palace of Pluto.",
+      "stgdir": "Le Th\u00e9\u00e2tre change, et repr\u00e9sente le Palais de PLUTON.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "3",
+      "explanation": "The direction specifies the manner of speech, 'D'un ton d\u00e9cid\u00e9' (in a decided tone), which relates to vocal expression.",
+      "stgdir": "D'un ton d\u00e9cid\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "6",
+      "explanation": "This direction involves a non-verbal interaction as it specifies physically giving the right hand to someone.",
+      "stgdir": "En lui donnant la main droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "4",
+      "explanation": "Indicates that a character, Judith, enters the stage.",
+      "stgdir": "Judith entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "12",
+      "explanation": "The direction 'Au Moineau\u2019 indicates whom the following dialogue or action is directed towards.",
+      "stgdir": "Au Moineau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "0",
+      "explanation": "The direction describes a general action that the characters perform, which is standing up from the table.",
+      "stgdir": "Tous se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "6",
+      "explanation": "This direction involves a non-verbal interaction, showing his hand to another character.",
+      "stgdir": "Il lui montrera alors sa main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "10",
+      "explanation": "Involves the giving of an object, specifically a novel, which fits the category of object interaction.",
+      "stgdir": "Il lui remet en main son roman.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "5",
+      "explanation": "Indicates that a character, Valentin, exits the stage.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "3",
+      "explanation": "Describes the demeanor or expression of a character, 'Avec un air grave' (with a serious air), relevant to delivery.",
+      "stgdir": "Avec un air grave",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 9253.646612167358,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2430",
+      "category": "9",
+      "explanation": "This direction describes a sequence of actions and intentions revealed by the Queen in front of her assembled Princes, which gives it a narrative quality, intended for readers.",
+      "stgdir": "La Reine ayant accept\u00e9 son d\u00e9fi, d\u00e9couvre ses intentions \u00e0 tous ses Princes assembl\u00e9s, qui t\u00e2chent de la divertir du dessein qu'elle \u00e0 con\u00e7u de le combattre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2431",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of the speech or action (in this case, 'Enfants'), thus fitting into the 'toward' category.",
+      "stgdir": "Il s'adresse aux Enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2432",
+      "category": "6",
+      "explanation": "This involves physical interaction where a character kisses the hand of the Prince, a non-verbal interaction action.",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2433",
+      "category": "12",
+      "explanation": "The direction specifies the characters that the action or dialogue is addressed to: Marat, Robespierre, and Manuel, categorizing it as 'toward.'",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2434",
+      "category": "8",
+      "explanation": "The stage direction is labeled 'Air : Not\u00e9 n\u00b01,' which is a reference to a music tune, fitting the 'music' category.",
+      "stgdir": "Air : Not\u00e9 n\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2435",
+      "category": "5",
+      "explanation": "This direction indicates that the characters Mademoiselle Clairet, Madame Papillon, and her shop daughter exit the scene, implying an exit.",
+      "stgdir": "Mademoiselle Clairet, Madame Papillon et sa fille de boutique sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2436",
+      "category": "9",
+      "explanation": "Although it mentions a letter, the entry 'LETTRE D'HELENE A PHALANTE' suggests a narrative element, potentially introducing a sequence of events or context via the letter's content.",
+      "stgdir": "LETTRE D'HELENE A PHALANTE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2437",
+      "category": "8",
+      "explanation": "This stage direction is labeled as 'Air : Cet arbre apport\u00e9 de Provence,' which refers to a musical piece, thus fitting into the 'music' category.",
+      "stgdir": "Air : Cet arbre apport\u00e9 de Provence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2438",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action, in this case, the character's wife.",
+      "stgdir": "Il parle \u00e0 sa femme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2439",
+      "category": "12",
+      "explanation": "It shows that the action or speech is directed towards Clytemnestre, categorizing it as 'toward.'",
+      "stgdir": "\u00c0 Clytemnestre.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 7960.972309112549,
+  "model": "gpt-4o"
+}

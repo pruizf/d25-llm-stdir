@@ -95,8 +95,10 @@ Note that, in all batches from 005 onwards, all prompts in English mention expli
 
 We also tested prompts where, instead of asking to classify a single stage direction, the model is asked to classify a list of stage directions. The table below summarizes such results.
 
-| id  | prompt language | stdir per prompt |         example use         |     data split     |       model        | macro F1 | weighted F1 | acc  |
-|-----|:----------------:|:---------------:|:-------:|:---------------------------:|:------------------:|:--------:|:-----------:|:----:|
-|303|en|10|zero-shot|1|gpt-4o-mini|   0.60   |    0.66     | 0.64 |
-
+| id  | prompt language | stdir per prompt |         example use         |     data split     |        model        | macro F1 | weighted F1 |   acc    |
+|-----|:----------------:|:---------------:|:-------:|:---------------------------:|:-------------------:|:--------:|:-----------:|:--------:|
+| 303 |en|10|zero-shot|1|     gpt-4o-mini     |   0.60   |    0.66     |   0.64   |
+| 304 |en|10|zero-shot|1|       gpt-4o        |   0.70   |    0.739    |  0.733   |
+| 305 |en|10|zero-shot|1| mistral-large | xxx |  xxx   | xxx |
+|
 

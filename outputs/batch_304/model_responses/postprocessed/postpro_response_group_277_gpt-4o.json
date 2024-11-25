@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2770",
+      "category": "7",
+      "explanation": "The direction 'Il fait un mouvement pour aller au Chevalier' describes a movement without specifying entrance or exit, fitting the 'movement' category.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2771",
+      "category": "5",
+      "explanation": "'Le chevalier Uladislas sort de l'h\u00f4tellerie' indicates the character is leaving a location, fitting the 'exit' category.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2772",
+      "category": "6",
+      "explanation": "'Observant Terville' indicates non-verbal interaction (looking at someone), fitting the 'interaction' category.",
+      "stgdir": "Observant Terville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2773",
+      "category": "0",
+      "explanation": "'Elle repeint' describes the character performing an action, best fitting the 'action' category as it involves painting.",
+      "stgdir": "Elle repeint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2774",
+      "category": "6",
+      "explanation": "'Elle le regarde toujours' describes non-verbal observation or interaction with another character, fitting the 'interaction' category.",
+      "stgdir": "Elle le regarde toujours.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2775",
+      "category": "12",
+      "explanation": "'\u00c0 Luville' indicates the addressee of a speech action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Luville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2776",
+      "category": "5",
+      "explanation": "'Le cousin et la cousine sortent' indicates characters are leaving, fitting the 'exit' category.",
+      "stgdir": "Le cousin et la cousine sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2777",
+      "category": "0",
+      "explanation": "'Regardent sa montre' describes the character engaging in an action (checking the time), best fitting the 'action' category.",
+      "stgdir": "Regardent sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2778",
+      "category": "0",
+      "explanation": "'Elle cherche encore' describes the character performing a search action, best fitting the 'action' category.",
+      "stgdir": "Elle cherche encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2779",
+      "category": "12",
+      "explanation": "'\u00c0 Colette' indicates the addressee of a speech action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10314.430475234985,
+  "model": "gpt-4o"
+}

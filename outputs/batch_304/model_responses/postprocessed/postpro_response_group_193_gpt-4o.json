@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1930",
+      "category": "10",
+      "explanation": "The stage direction describes an object (a grand mirror) being brought onto the stage and an interaction of a character with this object (Ang\u00e9lique seeing herself).",
+      "stgdir": "On apporte un grand Miroir, Ang\u00e9lique s'y voit fort laide, et s'en va toute f\u00e2ch\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1931",
+      "category": "5",
+      "explanation": "The stage direction 'Elle sort avec Lisette' indicates a character exiting the stage.",
+      "stgdir": "Elle sort avec Lisette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1932",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Antoine, qui veut parler' indicates toward whom the action of speaking is directed.",
+      "stgdir": "\u00c0 Antoine, qui veut parler.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1933",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Monsieur de Chambre' indicates toward whom the action is directed.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1934",
+      "category": "4",
+      "explanation": "The stage direction 'Elle entre \u00e0 gauche' indicates a character entering the stage.",
+      "stgdir": "Elle entre \u00e0 gauche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1935",
+      "category": "8",
+      "explanation": "The term 'Sonnet' suggests a musical or poetic element, aligning with the music category as it may refer to a song or lyrical performance.",
+      "stgdir": "Sonnet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1936",
+      "category": "0",
+      "explanation": "The stage direction 'Il mange goul\u00fbment' indicates a character action (eating) that does not fit into the more specific categories.",
+      "stgdir": "Il mange goul\u00fbment.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1937",
+      "category": "0",
+      "explanation": "The stage direction 'Justine se d\u00e9fend' involves a defensive action, which qualifies as a general character action when other aggressive or violent qualifying verbs aren't present.",
+      "stgdir": "Justine se d\u00e9fend.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1938",
+      "category": "3",
+      "explanation": "The stage direction 'Il r\u00e9p\u00e8te encore ces quatre derniers vers' indicates a manner of delivery, focusing on repetition for emphasis.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1939",
+      "category": "1",
+      "explanation": "The stage direction 'On \u00e9gorge les Victimes' involves a violent action consistent with aggression.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 11042.450666427612,
+  "model": "gpt-4o"
+}

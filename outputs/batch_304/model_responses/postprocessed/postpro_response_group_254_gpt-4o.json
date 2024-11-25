@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2540",
+      "category": "12",
+      "explanation": "This stage direction indicates a verbal interaction where one character is speaking to another character (\u00e0 l'oreille), highlighting the direction or recipient of the speech.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2541",
+      "category": "9",
+      "explanation": "The stage direction 'II' seems to indicate a section or act number in the script, which is a part of the narrative structure of the play, though might be an ambiguous reference.",
+      "stgdir": "II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2542",
+      "category": "4",
+      "explanation": "The stage direction describes multiple characters entering the stage, which fits the entrance category as it involves characters coming onto the stage.",
+      "stgdir": "Entrent le gardien Beno\u00eet, Moral\u00e8s, le Juge d'instruction, le Directeur de la prison, et les autres personnes (ad libitum) qui l\u00e9galement doivent assister \u00e0 une ex\u00e9cution capitale : Docteur, commissaire de police, greffier, etc.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2543",
+      "category": "9",
+      "explanation": "This involves a sound ('bruit de pas') which relates to the narrative elements of the play, possibly setting a scene or indicating an approaching event.",
+      "stgdir": "Nouveaux conjur\u00e9s. Bruit de pas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2544",
+      "category": "9",
+      "explanation": "This is a long, narrative stage direction describing a sequence of actions and events involving multiple characters, fitting into the narration category.",
+      "stgdir": "Neptune ayant achev\u00e9, une trompette commence \u00e0 \u00e9clater hautement et encourager les tritons \u00e0 faire de m\u00eame. Cependant le sieur de Poutrincourt tenait son \u00e9p\u00e9e en main, laquelle il ne remit point au fourreau jusques \u00e0 ce que les tritons eurent prononc\u00e9 comme s'ensuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2545",
+      "category": "8",
+      "explanation": "The script indicates a musical component ('1er Couplet'), which falls under the music category as it refers to a specific section of a song or musical number.",
+      "stgdir": "1er Couplet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2546",
+      "category": "8",
+      "explanation": "This stage direction refers to the 'Reprise de Choeur,' which relates to music or a musical performance, specifically indicating a repeat chorus.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2547",
+      "category": "4",
+      "explanation": "A character enters the stage, which corresponds to the entrance category.",
+      "stgdir": "La fille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2548",
+      "category": "6",
+      "explanation": "This describes non-verbal interaction, where a character is searching with their hand for another character, suggesting physical interaction without verbal elements.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2549",
+      "category": "6",
+      "explanation": "The action of one character pointing at another character is a form of non-verbal interaction, fitting into the interaction category.",
+      "stgdir": "Elle le montre du doigt.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 12291.898965835571,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1260",
+      "category": "6",
+      "explanation": "The stage direction 'Poussant rudement Val\u00e8re' describes a non-verbal interaction where a character is pushing Val\u00e8re, categorizing it as interaction.",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1261",
+      "category": "9",
+      "explanation": "This stage direction describes a scene in a narrative form, detailing emotions and potential actions, fitting the narration category.",
+      "stgdir": "Cette sc\u00e8ne est le contraire de la pr\u00e9c\u00e9dente. Madame_Charpentier se d\u00e9sole avec sa fille ; elle montre ses inqui\u00e9tudes, les dangers que court son fils, bien qu'il soit un honn\u00eate homme. Elle redoute la col\u00e8re et un refus de son mari.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1262",
+      "category": "9",
+      "explanation": "The direction describes a scene where an angel appears, narrating a specific event or sequence, thus it falls under narration.",
+      "stgdir": "Alors viendra un ange, tout de blanc habill\u00e9, une \u00e9p\u00e9e flamboyante \u00e0 la main, que Dieu placera \u00e0 la porte du paradis, en lui disant :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1263",
+      "category": "10",
+      "explanation": "The stage direction 'Prenant son \u00e9p\u00e9e' involves interaction with an object (the sword), so it fits the object category.",
+      "stgdir": "Prenant son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1264",
+      "category": "8",
+      "explanation": "This is a music stage direction that involves a recitative, which falls under the music category.",
+      "stgdir": "R\u00e9citatif De M. de la Ruette. N\u00b02",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1265",
+      "category": "10",
+      "explanation": "The stage direction 'Il est d\u00e9guis\u00e9' involves a costume, which is an object-related action, categorizing it as object.",
+      "stgdir": "Il est d\u00e9guis\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1266",
+      "category": "10",
+      "explanation": "Giving an object, 'le re\u00e7u de Rosalie,' fits into the object category as it involves handling an item.",
+      "stgdir": "Il donne \u00e0 son ma\u00eetre le re\u00e7u de Rosalie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1267",
+      "category": "11",
+      "explanation": "This stage direction describes the setting of the scene, specifying a place, hence it falls under setting.",
+      "stgdir": "Une salle d'auberge.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1268",
+      "category": "10",
+      "explanation": "The action 'En prenant le chapeau' involves interacting with an object, the hat, placing it in the object category.",
+      "stgdir": "En prenant le chapeau qu'Olympe avait laiss\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1269",
+      "category": "6",
+      "explanation": "The stage direction 'Apercevant Amphitryon' involves noticing or seeing another character, which is a non-verbal interaction.",
+      "stgdir": "Apercevant Amphitryon.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 16093.679189682007,
+  "model": "gpt-4o"
+}

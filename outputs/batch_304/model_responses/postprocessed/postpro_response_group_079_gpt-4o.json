@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "790",
+      "category": "11",
+      "explanation": "This stage direction vividly describes the setting of the scene, detailing the elaborate and opulent palace where the Sun appears. It focuses on the environment and not actions or characters.",
+      "stgdir": "Le Soleil parait dans son palais. Ce palais est d'or, compos\u00e9 avec des colonnes torses d'or poli, qui sont rev\u00eatues de branches de Laurier qui les environnent, de couleur naturelle. Les chapiteaux sont d'or fin cisel\u00e9, et les bases des colonnes de m\u00eame mati\u00e8re, aussi bien que la frise et la corniche. Le corps du massif de ce palais est de pierres pr\u00e9cieuses, et tous les pi\u00e9destaux de marbre blanc, au milieu desquels on voit de gros Rubis. Les panneaux sont enrichis de veines d'or sur un fond de lapis. Au-dessus de la Corniche on voit, dans une esp\u00e8ce de petite Attique d'o\u00f9 naissent les cintres, des lires d'or, avec plusieurs ornements\u00a0; et dans le milieu des vo\u00fbtes sont peints de grands Soleils d'or poli, avec quantit\u00e9s d'autres ornements. L'Optique de ce palais est toute transparente, et jette un \u00e9clat qui \u00e9blouit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction where one character embraces Romeo. This is a physical interaction between characters.",
+      "stgdir": "Il embrasse Rom\u00e9o.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "12",
+      "explanation": "The stage direction uses '\u00c0 Illo' to indicate that the following speech or action is directed toward Illo. It specifies the addressee of speech or action.",
+      "stgdir": "\u00c0 Illo.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "6",
+      "explanation": "This stage direction describes a non-verbal interaction where one character embraces Lisidan, representing physical interaction between characters.",
+      "stgdir": "Il embrasse Lisidan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "2",
+      "explanation": "The phrase '\u00c9tant seule' suggests that the character is alone and possibly addressing the audience or expressing inner thoughts, which is characteristic of an aside.",
+      "stgdir": "\u00c9tant seule.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "6",
+      "explanation": "The stage direction 'Retenant Hernani' describes a non-verbal physical interaction, suggesting one character is physically holding or restraining Hernani.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "8",
+      "explanation": "Beginning with 'Air,' this stage direction introduces a musical element, specifying the title or tune of an aria or song, fitting the music category.",
+      "stgdir": "Air d'Arlequin afficheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "5",
+      "explanation": "The phrase 'La toile se baisse' suggests that the curtain is descending, typically marking the end of a scene or act, indicating an exit in the context of the set or stage.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air:,' indicating the name of a musical tune ('Aim\u00e9 de la belle Ninon'), thus falling under the music category.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "6",
+      "explanation": "This stage direction describes a physical action ('se jette aux genoux de la Marquise') where a character kneels in front of the Marquise, indicating a deliberate physical interaction.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 9283.475399017334,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2680",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Zirph\u00e9e.' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Zirph\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2681",
+      "category": "10",
+      "explanation": "The stage direction 'Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.' involves interaction with an object ('\u00e9p\u00e9e' or sword), thus fitting the 'object' category.",
+      "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2682",
+      "category": "3",
+      "explanation": "The direction 'Avec beaucoup d'ironie.' describes the manner of delivery, thus fitting the 'delivery' category.",
+      "stgdir": "Avec beaucoup d'ironie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2683",
+      "category": "11",
+      "explanation": "'\u00c0 Venise.' describes the setting, indicating a location, hence it fits the 'setting' category.",
+      "stgdir": "\u00c0 Venise.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2684",
+      "category": "9",
+      "explanation": "This is a long descriptive stage direction that narrates the appearance and accoutrements of the Osages, fitting the 'narration' category.",
+      "stgdir": "Les Osages portent d'\u00e9normes casse-t\u00eates ; leurs cheveux peints en rouge sont entrelac\u00e9s de plumes jaunes et noires. Des serpents et des peaux de tigres leurs servent de ceintures-carquois, d'\u00e9corce d'arbre, arcs et boucliers, avec la figure Dareski.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2685",
+      "category": "0",
+      "explanation": "'On frappe de nouveau.' involves the action of knocking, which falls under 'action'.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2686",
+      "category": "6",
+      "explanation": "'Il le baise encore.' is a non-verbal interaction indicative of 'interaction' as it involves kissing.",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2687",
+      "category": "8",
+      "explanation": "'AIR: Les Trembleurs.' indicates a musical component with the tune name, fitting the 'music' category.",
+      "stgdir": "AIR: Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2688",
+      "category": "6",
+      "explanation": "'L'examinant encore.' indicates a non-verbal interaction through the act of examining, fitting the 'interaction' category.",
+      "stgdir": "L'examinant encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2689",
+      "category": "10",
+      "explanation": "'Il lui \u00f4te ses fers.' involves an interaction with an object (removing chains), fitting the 'object' category.",
+      "stgdir": "Il lui \u00f4te ses fers.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 8816.461324691772,
+  "model": "gpt-4o"
+}

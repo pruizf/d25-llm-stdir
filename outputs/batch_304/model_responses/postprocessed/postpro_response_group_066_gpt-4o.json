@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "660",
+      "category": "11",
+      "explanation": "The description of an ottomane in the room and the actions of characters (sitting, lying down) relates to the arrangement and setup of the stage, fitting into the setting category.",
+      "stgdir": "Il y a une ottomane qui r\u00e8gne le long de la salle, le Chinois et la Chinoise s'y accroupissent. Un Tartare et une Tartare paraissent sans saluer personne ; ils ont un arc en main et un carquois sur l'\u00e9paule ; ils se couchent aupr\u00e8s des Chinois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "11",
+      "explanation": "This describes the location or setting of the stage being a peasant house near Warsaw.",
+      "stgdir": "Une maison de paysans dans les environs de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "7",
+      "explanation": "The action of Montano approaching is a movement-related stage direction.",
+      "stgdir": "Montano s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "11",
+      "explanation": "This is a detailed description of the set including salon, doors, window, and table, indicating the stage setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un petit salon. Porte au fond. Porte lat\u00e9rale \u00e0 droite. - Une fen\u00eatre \u00e0 gauche. - \u00c0 droite, une table.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "12",
+      "explanation": "The mention of speaking to Anth\u00e9nor indicates the addressee or direction of speech, fitting the 'toward' category.",
+      "stgdir": "Elle parle \u00e0 Anth\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "10",
+      "explanation": "The action of wetting papers in water shows interaction with an object.",
+      "stgdir": "Elle d\u00e9trempe les papiers dans l'eau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "6",
+      "explanation": "Looking at the portrait involves an interaction, in this case non-verbal and focused on the portrait.",
+      "stgdir": "Regardant le portrait de L\u00e9lie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "0",
+      "explanation": "The term 'ENSEMBLE' is often used in general contexts, likely indicating a group action or singing without further context, fitting as a general action.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "11",
+      "explanation": "Describes the setting of the stage as being the Countess's boudoir and the initial stage position of the character.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente le boudoir de la Comtesse. \u00c0 gauche, un petit paravent. Au lever du rideau, la Comtesse de La Roche-Gaston est seule en sc\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "8",
+      "explanation": "The stage direction is noting a tune, as indicated by 'Air', fitting the category of music.",
+      "stgdir": "Air : Oh, oh, oh, ah, ah, ah !",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8725.749254226685,
+  "model": "gpt-4o"
+}

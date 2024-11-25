@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2340",
+      "category": "12",
+      "explanation": "\"Aux autres conseillers\" indicates whom the character is addressing, which fits the category 'toward'.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2341",
+      "category": "3",
+      "explanation": "\"L\u00e9lio rit\" describes the manner of delivery in terms of vocal expression (laughter), aligning it with the 'delivery' category.",
+      "stgdir": "L\u00e9lio rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2342",
+      "category": "9",
+      "explanation": "This stage direction is lengthy and descriptive, narrating a sequence of actions and a shocking visual, characteristic of 'narration'.",
+      "stgdir": "Il \u00e9tend les bras. Tout le monde s'\u00e9carte et la t\u00eate de Moral\u00e8s, envelopp\u00e9e d'un voile noir, pos\u00e9e sur la table. Fargus enl\u00e8ve brusquement le voile. Tous reculent en poussant un cri d'horreur. La t\u00eate humaine, les yeux ferm\u00e9s, la face souill\u00e9e de sang, est l\u00e0, en pleine lumi\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2343",
+      "category": "6",
+      "explanation": "The action 'Apercevant Barberin' involves non-verbal character interaction, fitting the 'interaction' category.",
+      "stgdir": "Apercevant Barberin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2344",
+      "category": "6",
+      "explanation": "Similar to 2343, 'Rappelant Bourdon' suggests a non-verbal interaction with a character, suitable for 'interaction'.",
+      "stgdir": "Rappelant Bourdon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2345",
+      "category": "11",
+      "explanation": "Describes the stage setting, detailing the 'D\u00e9coration du th\u00e9\u00e2tre', fitting the 'setting' category.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2346",
+      "category": "9",
+      "explanation": "Narrative description of the Druide conducting a ceremony aligns with 'narration'.",
+      "stgdir": "Un druide conduisant la c\u00e9r\u00e9monie de la f\u00eate du gui de l'an neuf, \u00e0 la place d'Adamas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2347",
+      "category": "4",
+      "explanation": "The phrase 'Plutus para\u00eet' suggests the entrance or appearance on stage, fitting the 'entrance' category.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2348",
+      "category": "6",
+      "explanation": "This direction involves looking and admiring, actions that indicate non-verbal interaction, categorizing it under 'interaction'.",
+      "stgdir": "Regardant la statue aux pieds de laquelle B\u00e9carre est rest\u00e9, et l'admirant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2349",
+      "category": "8",
+      "explanation": "Starts with 'Air', indicating a music or tune reference, aligning with the 'music' category.",
+      "stgdir": "Air 14 : Voulez-vous savoir qui de deux.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 7960.701942443848,
+  "model": "gpt-4o"
+}

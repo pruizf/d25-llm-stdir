@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1630",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 la petite Befor.' indicates to whom an action is directed, which fits the 'toward' category.",
+      "stgdir": "\u00c0 la petite Befor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1631",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Denys.' is specifying the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Denys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1632",
+      "category": "12",
+      "explanation": "The stage direction '[\u00c0 tous.]' specifies that the action or speech is directed to everyone, which is classified under 'toward'.",
+      "stgdir": "[\u00c0 tous.]",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1633",
+      "category": "3",
+      "explanation": "The direction 'Plus haut encore.' suggests how something should be delivered, likely referring to speaking or singing louder, fitting under 'delivery'.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1634",
+      "category": "9",
+      "explanation": "This is a detailed description of actions and emotional context featuring multiple characters, fitting the 'narration' category due to its narrative quality.",
+      "stgdir": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1635",
+      "category": "8",
+      "explanation": "The direction 'Air : Ne m'entendez-vous pas' indicates that music is involved, denoting a specific musical piece, thus it belongs in the 'music' category.",
+      "stgdir": "Air : Ne m'entendez-vous pas",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1636",
+      "category": "0",
+      "explanation": "The action of making a bell ring fits under the general 'action' category as it involves performing an action (ringing a bell).",
+      "stgdir": "D'une voix il fait marcher la sonnerie. Carillon chez le ministre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1637",
+      "category": "9",
+      "explanation": "This is a long narrative-like description involving a sequence of actions, including an animal's behavior, fitting the 'narration' category.",
+      "stgdir": "Le paysan veut \u00e0 son tour prendre Ninette ; mais l'\u00e2ne, qui s'impatiente, commence \u00e0 sauter et lancer des ruades \u00e0 droite et \u00e0 gauche. Le paysan, pour en \u00e9viter une dans le ventre, se retourne et la re\u00e7oit dans le derri\u00e8re. Ninette, qui, pendant ce d\u00e9bat, n'a cess\u00e9 de crier Maman ! pique son \u00e2ne et se sauve en disant :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1638",
+      "category": "3",
+      "explanation": "The direction 'En s'effor\u00e7ant de para\u00eetre encore plus calme' relates to how a character should express or convey emotion, fitting the 'delivery' category.",
+      "stgdir": "En s'effor\u00e7ant de para\u00eetre encore plus calme",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1639",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Raton.' indicates to whom the speech or action is directed, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Raton.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 12909.891128540039,
+  "model": "gpt-4o"
+}

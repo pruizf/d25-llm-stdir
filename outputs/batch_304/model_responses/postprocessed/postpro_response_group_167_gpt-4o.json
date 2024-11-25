@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1670",
+      "category": "3",
+      "explanation": "The stage direction describes a vocal expression of emotion (a 'grand cri'), which relates to the delivery manner of a character.",
+      "stgdir": "Elle fait un grand cri.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1671",
+      "category": "8",
+      "explanation": "The stage direction begins with 'AIR,' indicating a piece of music or a tune name. This is related to music within the performance.",
+      "stgdir": "AIR. \u00c0 quoi s'occupe Magdelon ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1672",
+      "category": "8",
+      "explanation": "Similar to 1671, it starts with 'AIR,' suggesting that it refers to music or a tune.",
+      "stgdir": "AIR. Rions, chantons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1673",
+      "category": "9",
+      "explanation": "The stage direction refers to a sound heard offstage, which is generally a narrative element describing the environment or atmosphere.",
+      "stgdir": "On entend dans la coulisse le refrain suivant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1674",
+      "category": "12",
+      "explanation": "The direction 'Aux Licteurs' indicates the addressee of an action or speech which would be directed toward certain characters.",
+      "stgdir": "Aux Licteurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1675",
+      "category": "6",
+      "explanation": "The direction describes Isabelle touching her forehead, which indicates non-verbal character interaction.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1676",
+      "category": "11",
+      "explanation": "This direction describes a setting, indicating 'Un repas champ\u00eatre,' which is a pastoral or outdoor meal setting.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1677",
+      "category": "11",
+      "explanation": "The direction provides a description of the stage setting, mentioning that the stage represents 'the palace of Hercules at Trachine.'",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'Hercule \u00e0 Trachine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1678",
+      "category": "5",
+      "explanation": "The direction 'Carille sort' indicates the character exits the stage, fitting the exit category.",
+      "stgdir": "Carille sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1679",
+      "category": "5",
+      "explanation": "Similar to 1678, 'C\u00e9liante sort' indicates a character's exit from the stage.",
+      "stgdir": "C\u00e9liante sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 10993.590354919434,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1850,
+      "category": 12,
+      "explanation": "The stage direction '\u00c0 Madame de Maintenon.' indicates whom a character is addressing.",
+      "stgdir": "\u00c0 Madame de Maintenon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1851,
+      "category": 10,
+      "explanation": "The stage direction 'Elle donne la pi\u00e8ce \u00e0 Raoul.' involves giving an object (the piece) to a character, which classifies it as an interaction with an object.",
+      "stgdir": "Elle donne la pi\u00e8ce \u00e0 Raoul.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1852,
+      "category": 11,
+      "explanation": "The stage direction describes the setting, mentioning features of the room like 'Un salon', 'Porte', 'Portes lat\u00e9rales', 'Une chemin\u00e9e', and 'Un placard.'",
+      "stgdir": "Un salon. - Porte au fond. - Portes lat\u00e9rales. - Une chemin\u00e9e. Un placard.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1853,
+      "category": 10,
+      "explanation": "The direction 'Elle a son costume.' relates to a costume, categorizing it as an interaction with an object, specifically clothing.",
+      "stgdir": "Elle a son costume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1854,
+      "category": 3,
+      "explanation": "The actions 'Relevant la t\u00eate, et faisant semblant de s'essuyer les yeux.' indicate a delivery manner associated with expressing emotion, possibly deception or sadness.",
+      "stgdir": "Relevant la t\u00eate, et faisant semblant de s'essuyer les yeux.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1855,
+      "category": 6,
+      "explanation": "The direction 'Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.' involves non-verbal character interaction - a gesture of submission toward another character.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1856,
+      "category": 12,
+      "explanation": "The direction '\u00c0 Dorval d'un air na\u00eff.' indicates the addressee, Dorval, marking the intended recipient of a na\u00efve expression or action.",
+      "stgdir": "\u00c0 Dorval d'un air na\u00eff.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1857,
+      "category": 12,
+      "explanation": "Similar to 1856, '\u00c0 Bertrand.' indicates the direction of speech or action toward Bertrand.",
+      "stgdir": "\u00c0 Bertrand.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1858,
+      "category": 9,
+      "explanation": "The term 'bis' usually refers to a repetition or continuation, suggesting a minor but indicative narrative continuation.",
+      "stgdir": "bis",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1859,
+      "category": 9,
+      "explanation": "This is a long narrative description including character actions and interactions, detailing a scene involving several characters and their actions in a descriptive manner.",
+      "stgdir": "Octave envoie Mezzetin et Pasquariel sous ce d\u00e9guisement, pour achever de d\u00e9go\u00fbter Colombine du bailli. Le laquais qui tient la queue de la Marquise, la tient fich\u00e9e dans sa culotte, et de ses deux mains casse des noix. Colombine, Mezzetin et Pasquariel parlent tous trois ensemble.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 14376.522541046143,
+  "model": "gpt-4o"
+}

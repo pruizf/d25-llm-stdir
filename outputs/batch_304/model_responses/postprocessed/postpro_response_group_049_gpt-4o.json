@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "490",
+      "category": "10",
+      "explanation": "Describes a character pulling out a handkerchief, which is an interaction with an object.",
+      "stgdir": "Subtil tire un mouchoir blanc de sa poche, et est pr\u00eat de se moucher.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "491",
+      "category": "8",
+      "explanation": "Begins with 'AIR', indicating a music-related stage direction; the title of a tune follows.",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "492",
+      "category": "3",
+      "explanation": "Describes vocal expression with 'cri \u00e9touff\u00e9' (muffled cry), relating to delivery.",
+      "stgdir": "Avec un cri \u00e9touff\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "493",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action, directing towards 'le p\u00e8re de famille.'",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "494",
+      "category": "11",
+      "explanation": "References a location on the stage, the balustrade, which is part of the setting.",
+      "stgdir": "\u00c0 la balustrade.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "495",
+      "category": "7",
+      "explanation": "Describes a character's movement away from something; involves moving or distancing.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "496",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, multiple characters speaking together, indicating social interaction.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "497",
+      "category": "4",
+      "explanation": "Indicates a character's entrance onto the stage, as the character 'rentre' (re-enters).",
+      "stgdir": "Le chevalier rentre, ruisselant.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "498",
+      "category": "3",
+      "explanation": "Describes the vocal tone or manner of speech, 'd'un ton bas et rampant,' which refers to delivery.",
+      "stgdir": "Haut, d'un ton bas et rampant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "499",
+      "category": "9",
+      "explanation": "Offers a detailed narrative description of various characters' actions, presenting a sequence of events.",
+      "stgdir": "Les Ogres se prosternent devant Arlequin. Ensuite ils se rangent en deux files, accroupis, ayant les coudes sur les genoux, et les deux poings sous le menton. Un vieillard s'avance et pr\u00e9sente \u00e0 genoux une couronne \u00e0 Arlequin, qui fait ses lazzis.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 10209.41686630249,
+  "model": "gpt-4o"
+}

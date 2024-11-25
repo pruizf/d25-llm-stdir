@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "80",
+      "category": "1",
+      "explanation": "The stage direction 'Il se donne un coup' describes a violent action that indicates aggression, since 'coup' typically refers to a hit or blow.",
+      "stgdir": "Il se donne un coup.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "81",
+      "category": "8",
+      "explanation": "The stage direction 'DU COQ A L'ASNE' seems like a title of a tune or music piece, similar to a song name.",
+      "stgdir": "DU COQ A L'ASNE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "82",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui pr\u00e9sente une fressure de veau pendue au bout d'un b\u00e2ton' involves an object being presented, categorizing it under object as it involves handling an object.",
+      "stgdir": "Il lui pr\u00e9sente une fressure de veau pendue au bout d'un b\u00e2ton.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "83",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : tout comme il vous plaira' is labeled with 'AIR', indicating it is referring to music, likely a musical number or song.",
+      "stgdir": "AIR : tout comme il vous plaira",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "84",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Sans cesse \u00e0 la Ville, \u00e0 ta Cour.' starts with 'AIR', which indicates it is relevant to music, possibly a song or tune.",
+      "stgdir": "AIR : Sans cesse \u00e0 la Ville, \u00e0 ta Cour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "85",
+      "category": "5",
+      "explanation": "The stage direction 'Il rentre dans le palais' describes a movement that indicates exiting a scene or space, as 'rentre' implies leaving to another area.",
+      "stgdir": "Il rentre dans le palais.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "86",
+      "category": "9",
+      "explanation": "The stage direction 'Silence d'un instant' has a narrative quality as it describes a pause or brief moment of silence that affects the atmosphere of the scene.",
+      "stgdir": "Silence d'un instant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "87",
+      "category": "0",
+      "explanation": "The stage direction 'Il est rest\u00e9 assis sur le remblai' describes a character performing a general action, sitting, which is not hitting, entering, or exiting.",
+      "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "88",
+      "category": "5",
+      "explanation": "The stage direction 'Il s'en va' directly translates to 'he goes away', indicating an exit from the stage.",
+      "stgdir": "Il s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "89",
+      "category": "6",
+      "explanation": "The stage direction 'Il les regarde toujours' involves non-verbal interaction through observing others, thus categorizing it as interaction.",
+      "stgdir": "Il les regarde toujours.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 12912.888526916504,
+  "model": "gpt-4o"
+}

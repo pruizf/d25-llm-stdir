@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1450",
+      "category": "10",
+      "explanation": "The stage direction refers to a letter, which is an object. This involves a character's interaction with an object, fitting the 'object' category.",
+      "stgdir": "Lettre de Florinde \u00e0 Filemon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1451",
+      "category": "7",
+      "explanation": "The stage direction mentions a 'Marche', which indicates movement. This fits the 'movement' category as it involves characters moving in a coordinated manner.",
+      "stgdir": "Marche des P\u00e2tres et des Sylvains.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1452",
+      "category": "8",
+      "explanation": "This stage direction begins with 'AIR', which signifies that it is referring to music. This fits the 'music' category as it denotes a tune name.",
+      "stgdir": "AIR : Faut attendre avec patience",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1453",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 la Nuit' suggests direction toward a character or entity and is indicative of addressing or directing attention, fitting the 'toward' category.",
+      "stgdir": "\u00c0 la Nuit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1454",
+      "category": "7",
+      "explanation": "The stage direction 'S'approchant d'Alcindor' describes a character moving toward another character, fitting the 'movement' category which involves changes in position.",
+      "stgdir": "S'approchant d'Alcindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1455",
+      "category": "8",
+      "explanation": "This direction starts with 'Air' and continues with a description of a tune, categorizing it under 'music' which often starts with the word 'Air'.",
+      "stgdir": "Air 196 Combattants de Cadmus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1456",
+      "category": "5",
+      "explanation": "The direction 'Agathe sort' indicates a character exiting, fitting the 'exit' category.",
+      "stgdir": "Agathe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1457",
+      "category": "6",
+      "explanation": "The action of placing a crown on someone's head is an interaction with another character, placing it in the 'interaction' category.",
+      "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1458",
+      "category": "0",
+      "explanation": "The action 'Il se rassoit' involves sitting, which is a general character action, fitting the 'action' category as it doesn't involve interaction or other specific actions.",
+      "stgdir": "Il se rassoit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1459",
+      "category": "8",
+      "explanation": "The mention of 'Air de Marianne' indicates music, categorizing it under 'music' as it refers to a specific tune or song.",
+      "stgdir": "Air de Marianne.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8673.698425292969,
+  "model": "gpt-4o"
+}

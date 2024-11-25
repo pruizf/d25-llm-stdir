@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2440",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Allons donc, jouez violons.' indicates music. It starts with 'AIR', which suggests this is the title or directive for a musical piece.",
+      "stgdir": "AIR. Allons donc, jouez violons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2441",
+      "category": "0",
+      "explanation": "The stage direction 'Monsieur Carondas, fouillant dans la poche de Val\u00e8re.' describes a character action, specifically searching or rummaging in someone's pocket, which fits under general character action.",
+      "stgdir": "Monsieur Carondas, fouillant dans la poche de Val\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2442",
+      "category": "8",
+      "explanation": "The stage direction 'On entend une symphonie douce.' involves the description of a musical element, making it part of the music category.",
+      "stgdir": "On entend une symphonie douce.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2443",
+      "category": "8",
+      "explanation": "The stage direction 'Air : On dit par tout le monde.' is linked to music since it starts with 'Air', indicating a musical piece or tune name.",
+      "stgdir": "Air : On dit par tout le monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2444",
+      "category": "5",
+      "explanation": "The stage direction 'Ils sortent l'un et l'autre.' indicates that the characters are exiting the stage, fitting the exit category.",
+      "stgdir": "Ils sortent l'un et l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2445",
+      "category": "11",
+      "explanation": "The stage direction 'APOTH\u00c9OSE. - RIDEAU' is related to the setting, likely indicating the conclusion or final scene of the performance, with the falling of the curtain.",
+      "stgdir": "APOTH\u00c9OSE. - RIDEAU",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2446",
+      "category": "4",
+      "explanation": "The stage direction 'Blaise et G\u00e9rault entrent.' indicates entry onto the stage by the characters, which belongs to the entrance category.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2447",
+      "category": "5",
+      "explanation": "The stage direction 'Elle se pr\u00e9pare \u00e0 sortir.' shows that the character is preparing to exit, fitting in the exit category.",
+      "stgdir": "Elle se pr\u00e9pare \u00e0 sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2448",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Dans la jeune saison.' pertains to music as it begins with 'AIR', suggesting it's a musical directive or the name of a piece.",
+      "stgdir": "AIR. Dans la jeune saison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2449",
+      "category": "6",
+      "explanation": "The stage direction 'Elle veut lui mettre le bonnet.' involves a non-verbal interaction between characters, as one character is trying to place a hat on another, categorizing it as interaction.",
+      "stgdir": "Elle veut lui mettre le bonnet.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 9870.26309967041,
+  "model": "gpt-4o"
+}

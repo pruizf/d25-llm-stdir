@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "260",
+      "category": "6",
+      "explanation": "The stage direction describes the Comtesse standing up and then the Count stopping her, indicating non-verbal character interaction.",
+      "stgdir": "La comtesse se l\u00e8ve et va pour rentrer chez elle, le Comte l'arr\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "261",
+      "category": "8",
+      "explanation": "This is a music stage direction indicating the name of a tune. It starts with 'Air', which signals it's music-related.",
+      "stgdir": "Air : La bonne aventure, \u00f4 gai ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "262",
+      "category": "12",
+      "explanation": "This stage direction indicates that the following speech or action is directed towards Albert, categorizing it as 'toward'.",
+      "stgdir": "\u00c0 Albert.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "263",
+      "category": "5",
+      "explanation": "This direction states that the character exits with Guerland, which classifies it as an 'exit'.",
+      "stgdir": "Elle sort avec Guerland par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "264",
+      "category": "6",
+      "explanation": "The stage direction describes a character leaning against the altar, which is an example of non-verbal interaction with the object.",
+      "stgdir": "Elle s'appuie contre l'autel.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "265",
+      "category": "3",
+      "explanation": "The term 'Gaiment' describes the manner in which a character speaks or behaves, categorizing it under 'delivery'.",
+      "stgdir": "Gaiment.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "266",
+      "category": "8",
+      "explanation": "This is another music stage direction indicating the name of a tune, signified by the word 'Air'.",
+      "stgdir": "Air : Sauter donc, mon coeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "267",
+      "category": "11",
+      "explanation": "This stage direction describes the setting change to the temple of Isis, categorizing it under 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le temple d'Isis avec la statue de cette d\u00e9esse. Apr\u00e8s la danse, Dana\u00fcs, Hypermnestre, Lync\u00e9e, arrivent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "268",
+      "category": "3",
+      "explanation": "The phrase 'Changeant de ton' refers to the delivery of speech with a change in tone, thus categorizing it under 'delivery'.",
+      "stgdir": "Changeant de ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "269",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee, Michaud, for a speech or action, placing it in the 'toward' category.",
+      "stgdir": "\u00c0 Michaud.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 6915.106534957886,
+  "model": "gpt-4o"
+}

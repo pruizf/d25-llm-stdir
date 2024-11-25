@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2780",
+      "category": "5",
+      "explanation": "The phrase 'Crispe se retire' indicates that a character is exiting the stage. 'Se retirer' is a keyword associated with the exit category.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2781",
+      "category": "6",
+      "explanation": "The stage direction describes non-verbal interaction by showing a gesture that encourages a fight between animals, which fits the interaction category.",
+      "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2782",
+      "category": "4",
+      "explanation": "The word 'para\u00eet' suggests that Dorame is entering the stage, fitting the entrance category.",
+      "stgdir": "Dorame para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2783",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 un de ses suivants' indicates the addressee of an upcoming speech or action, which fits the toward category.",
+      "stgdir": "\u00c0 un de ses suivants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2784",
+      "category": "12",
+      "explanation": "The phrase 'Au Comte' indicates the addressee of an upcoming speech or action, which fits the toward category.",
+      "stgdir": "Au Comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2785",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Th\u00e9odose' indicates the addressee of an upcoming speech or action, which fits the toward category.",
+      "stgdir": "\u00c0 Th\u00e9odose.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2786",
+      "category": "12",
+      "explanation": "The phrase 'Aux chefs de l'arm\u00e9e' indicates the addressee of an upcoming speech or action, which fits the toward category.",
+      "stgdir": "Aux chefs de l'arm\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2787",
+      "category": "8",
+      "explanation": "The mention of 'Air Belle Brune, belle Brune' signifies a musical element, which fits the music category.",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2788",
+      "category": "8",
+      "explanation": "The mention of 'AIR : C'est ce qui vous enrhume' signifies a musical element, which fits the music category.",
+      "stgdir": "AIR : C'est ce qui vous enrhume.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2789",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Blaise et \u00e0 sa femme' indicates the addressees of an upcoming speech or action, which fits the toward category.",
+      "stgdir": "\u00c0 Blaise et \u00e0 sa femme.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15153.713464736938,
+  "model": "gpt-4o"
+}

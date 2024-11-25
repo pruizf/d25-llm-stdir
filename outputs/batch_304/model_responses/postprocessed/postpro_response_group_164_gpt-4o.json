@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1640",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Mignonnet' indicates that some action or speech is directed toward Mignonnet.",
+      "stgdir": "\u00c0 Mignonnet",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1641",
+      "category": "7",
+      "explanation": "The phrase 'Les deux femmes remontent' describes movement as the women move upwards or back on stage.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1642",
+      "category": "0",
+      "explanation": "The action of knocking on a door is a general action not specifically covered by the other categories, so it fits the 'action' category.",
+      "stgdir": "Il frappe \u00e0 une autre porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1643",
+      "category": "12",
+      "explanation": "The direction '\u00c0 \u00c9douard' indicates the addressee of an action or speech, fitting the 'toward' category.",
+      "stgdir": "\u00c0 \u00c9douard.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1644",
+      "category": "9",
+      "explanation": "This stage direction has a narrative quality, describing a sequence of actions involving the ambassadors and includes a result of their secretive action.",
+      "stgdir": "Au m\u00eame temps les Ambassadeurs de Ritiger redoublent leur demande, mais non pas avec un meilleur succ\u00e8s que la premi\u00e8re fois ; sinon que par une adresse secr\u00e8te ils laissent leur bague dans le Palais de cette Reine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1645",
+      "category": "10",
+      "explanation": "The action where Ubalde presents a shield involves interaction with an object, which is the shield, fitting the 'object' category.",
+      "stgdir": "Ubalde pr\u00e9sente le bouclier de diamant aux yeux de Renaud.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1646",
+      "category": "11",
+      "explanation": "This direction describes the setting, as it talks about how the stage represents a salon that is very decorated.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon tr\u00e8s orn\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1647",
+      "category": "0",
+      "explanation": "The description 'Un moment sans rien dire' represents an action or lack of action that is a general instruction with no specific category match, fitting under 'action'.",
+      "stgdir": "Un moment sans rien dire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1648",
+      "category": "8",
+      "explanation": "The presence of 'AIR' followed by a description indicates a piece of music or tune, which fits into the 'music' category.",
+      "stgdir": "AIR. Perrette \u00e9tant dessus l'herbette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1649",
+      "category": "10",
+      "explanation": "The action of plunging a finger into an inkwell involves direct interaction with an object, fitting the 'object' category.",
+      "stgdir": "Il plonge son doigt dans l'encrier.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 12125.88381767273,
+  "model": "gpt-4o"
+}

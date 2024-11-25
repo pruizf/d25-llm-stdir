@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1730",
+      "category": "6",
+      "explanation": "The stage direction describes the character crying and looking at the valet de pique, which indicates non-verbal interaction.",
+      "stgdir": "Il pleure et regardant le valet de pique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1731",
+      "category": "12",
+      "explanation": "The stage direction indicates who is being seen by the character, which falls under the category of 'toward', specifying the addressee or target of an action or look.",
+      "stgdir": "Apercevant Monsieur Jourdain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1732",
+      "category": "3",
+      "explanation": "The word 'Enchant\u00e9' suggests expression related to delivery, possibly indicating a character's vocal expression or emotional state (e.g., showing enchantment or pleasure).",
+      "stgdir": "Enchant\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1733",
+      "category": "8",
+      "explanation": "The phrase 'TRIO DE RAOUL DE CR\u00c9QUI' indicates a musical piece or section, falling under the music category.",
+      "stgdir": "TRIO DE RAOUL DE CR\u00c9QUI",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1734",
+      "category": "12",
+      "explanation": "This stage direction indicates directionality in conversation or attention, meaning '\u00c0 lui' specifies to whom or toward whom something is directed.",
+      "stgdir": "\u00c0 lui.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1735",
+      "category": "12",
+      "explanation": "The phrase 'Aux chefs' suggests toward whom an action or attention is directed, fitting the 'toward' category.",
+      "stgdir": "Aux chefs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1736",
+      "category": "12",
+      "explanation": "Similar to the previous, 'Il dit \u00e0 un des Arabes' specifies the addressee of speech or action, which fits into the 'toward' category.",
+      "stgdir": "Il dit \u00e0 un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1737",
+      "category": "12",
+      "explanation": "The stage direction 'Au Sommeil' suggests a reference or an action directed toward 'Sommeil', making it fit the 'toward' category.",
+      "stgdir": "Au Sommeil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1738",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', indicating the name of a tune or a musical piece, classifying it under music.",
+      "stgdir": "Air : Vraiment oui, c'est demain.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1739",
+      "category": "8",
+      "explanation": "Similarly, this begins with 'AIR', which again identifies a musical piece, placing it in the music category.",
+      "stgdir": "AIR. le bonheur de ma vie n'a dur\u00e9 qu'un moment.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8681.948184967041,
+  "model": "gpt-4o"
+}

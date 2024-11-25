@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "420",
+      "category": "9",
+      "explanation": "This stage direction describes a narrative event where a prelude announcing the arrival of Appollon is heard. It provides information to the audience about what is happening beyond visible actions, hence fits the narration category.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "4",
+      "explanation": "The word 'para\u00eet' indicates that Antoinette is appearing on stage, which means this is an entrance.",
+      "stgdir": "Antoinette para\u00eet au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', indicating it is referring to music or a tune name.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "5",
+      "explanation": "The phrase 'Ils sortent en causant\u2019 indicates that the characters are exiting the stage, which fits the exit category.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "8",
+      "explanation": "'Air' again suggests it is related to music, specifically a musical piece or tune name.",
+      "stgdir": "Air : Un jour que j'avais mal dans\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "9",
+      "explanation": "Describing the event of a character hearing another (his mistress) fits the narrative quality typical of narration category.",
+      "stgdir": "Il entend sa ma\u00eetresse.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "4",
+      "explanation": "The word 'revient' suggests that Lucile is re-entering or appearing again, which is an entrance.",
+      "stgdir": "Lucile revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "7",
+      "explanation": "Describes physical movement ('sautille') of a character ('sous ces fen\u00eatres'). It's about character moving within the stage space.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "6",
+      "explanation": "The phrase 'Lui montrant le billet' indicates a non-verbal interaction where a ticket or note is shown to someone.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "12",
+      "explanation": "The direction indicates the addressee of a speech or action ('\u00c0 Eum\u00e9e'), fitting the toward category.",
+      "stgdir": "\u00c0 Eum\u00e9e.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 14244.170188903809,
+  "model": "gpt-4o"
+}

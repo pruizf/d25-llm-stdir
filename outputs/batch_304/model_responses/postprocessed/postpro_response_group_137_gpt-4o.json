@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1370",
+      "category": "7",
+      "explanation": "The action of following indicated by 'Il le suit' involves character movement without exiting or entering the stage.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1371",
+      "category": "12",
+      "explanation": "The phrase 'Il parle \u00e0 Haly' specifies the addressee of the speech, fitting the 'toward' category.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1372",
+      "category": "8",
+      "explanation": "The presence of 'AIR' indicates that this is a musical stage direction referring to a specific tune name.",
+      "stgdir": "AIR. Ah ! que je me lasse d'\u00eatre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1373",
+      "category": "7",
+      "explanation": "The action 'Fr\u00e9d\u00e9ric emm\u00e8ne Ferdinand' suggests movement, as it involves guiding or taking someone somewhere without specifying an exit or entrance.",
+      "stgdir": "Fr\u00e9d\u00e9ric emm\u00e8ne Ferdinand.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1374",
+      "category": "8",
+      "explanation": "The presence of 'Air' denotes a tune name or musical piece, classifying it as a music-related stage direction.",
+      "stgdir": "Air. \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1375",
+      "category": "8",
+      "explanation": "Similarly, 'Air : La danse n'eslpas Ce que j'aime' indicates a music-related stage direction due to 'Air'.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1376",
+      "category": "5",
+      "explanation": "The phrase 'Lucile et Damis sortent' involves characters leaving the stage, classifying it as an exit.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1377",
+      "category": "5",
+      "explanation": "The phrase 'Il s'en va et il emporte le couplet' indicates the character exits the stage, thus fitting the 'exit' category.",
+      "stgdir": "Il s'en va et il emporte le couplet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1378",
+      "category": "6",
+      "explanation": "The action 'Il lui montre le portrait d'\u00c9lise qu'il a au bras' is a non-verbal interaction involving showing an object to someone.",
+      "stgdir": "Il lui montre le portrait d'\u00c9lise qu'il a au bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1379",
+      "category": "0",
+      "explanation": "The action 'Apercevant Cl\u00e9on' involves noticing or perceiving something or someone, which generally fits best under general character action.",
+      "stgdir": "Apercevant Cl\u00e9on.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 9450.388431549072,
+  "model": "gpt-4o"
+}

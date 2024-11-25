@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "330",
+      "category": "11",
+      "explanation": "This stage direction provides a description of the location where the scene is set, which is typical for a 'setting' category.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'\u00cele de Tenede, o\u00f9 Achille s'est retir\u00e9 aupr\u00e8s de ses vaisseaux, depuis sa querelle avec Agamemnon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "331",
+      "category": "2",
+      "explanation": "The phrase '[\u00c0 part]' indicates that a character speaks aside or to themselves, which characterizes the 'aparte' category.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "332",
+      "category": "10",
+      "explanation": "The action of unwrapping or unfolding paper describes an interaction with an object, fitting the 'object' category.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "333",
+      "category": "12",
+      "explanation": "The direction '\u00c0 G\u00e9ronte' indicates whom the subsequent speech or action is directed towards, fitting the 'toward' category.",
+      "stgdir": "\u00c0 G\u00e9ronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "334",
+      "category": "11",
+      "explanation": "This direction describes the stage setting as a room connecting to gardens, categorizing it as a 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une salle du Palais des Capellets, qui communique d'un c\u00f4t\u00e9 aux Jardins.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "335",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Crassus' specifies the addressee of a speech, placing it in the 'toward' category.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "336",
+      "category": "5",
+      "explanation": "The direction 'Le Garde sort' indicates an exit from the stage, fitting the 'exit' category.",
+      "stgdir": "Le Garde sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "337",
+      "category": "6",
+      "explanation": "The action 'Elle touche Picus' is a non-verbal character interaction, which is typical for the 'interaction' category.",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "338",
+      "category": "1",
+      "explanation": "The character makes threatening gestures, which falls under the 'aggression' category due to its violent or threatening nature.",
+      "stgdir": "Il prend la b\u00fbche et fait dans l'air des gestes mena\u00e7ants, il pose au milieu de la table.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "339",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Alain' indicates the target or recipient of a speech or action, categorized as 'toward'.",
+      "stgdir": "\u00c0 Alain.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10726.004123687744,
+  "model": "gpt-4o"
+}

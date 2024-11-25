@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1350",
+      "category": "3",
+      "explanation": "The phrase 'Avec r\u00e9solution' indicates a manner of delivery, referring to how a character speaks or acts with determination.",
+      "stgdir": "Avec r\u00e9solution.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1351",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', which suggests it is a tune or song title, making it related to music.",
+      "stgdir": "Air : De la baronne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1352",
+      "category": "10",
+      "explanation": "Ajuster son col indicates an interaction with an object, in this case, adjusting a collar.",
+      "stgdir": "Il ajuste son col.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1353",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating that it refers to a tune or song, relating to music.",
+      "stgdir": "AIR. Allons gai, toujours gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1354",
+      "category": "8",
+      "explanation": "Again, it begins with 'Air', suggesting it describes a piece of music or tune.",
+      "stgdir": "Air : Comment faire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1355",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Phlipotte' indicates to whom the action or speech is directed.",
+      "stgdir": "\u00c0 Phlipotte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1356",
+      "category": "12",
+      "explanation": "Similarly, 'Au laquais' specifies the target or recipient of an action or dialogue.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1357",
+      "category": "6",
+      "explanation": "En montrant ses jambes describes a non-verbal interaction that involves showing or pointing, which fits interaction.",
+      "stgdir": "En montrant ses jambes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1358",
+      "category": "8",
+      "explanation": "Starts with 'AIR', indicating it is related to music, specifically a tune or song.",
+      "stgdir": "AIR : le joli jeu d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1359",
+      "category": "0",
+      "explanation": "The phrase 'Il reste en contemplation' describes a general character action of remaining in contemplation, fitting the action category.",
+      "stgdir": "Il reste en contemplation.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 10436.512231826782,
+  "model": "gpt-4o"
+}

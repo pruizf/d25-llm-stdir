@@ -1,0 +1,27 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2920",
+      "category": "8",
+      "explanation": "This stage direction starts with 'Air', which indicates that it is related to music. The phrase following 'Air' is likely the name of the tune or song, fitting the 'music' category.",
+      "stgdir": "Air : Quand on a prononc\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2921",
+      "category": "1",
+      "explanation": "The action of 'Ils haussent leurs b\u00e2tons' (They raise their sticks) can be perceived as aggressive or preparatory for aggression, suggesting an implied threat or preparation to confront. It fits the 'aggression' category.",
+      "stgdir": "Ils haussent leurs b\u00e2tons.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2922",
+      "category": "4",
+      "explanation": "The stage direction 'Salom\u00e9 entre' indicates an entrance, as it is stating that a character enters the stage. This clearly matches the 'entrance' category.",
+      "stgdir": "Salom\u00e9 entre.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 4198.276996612549,
+  "model": "gpt-4o"
+}

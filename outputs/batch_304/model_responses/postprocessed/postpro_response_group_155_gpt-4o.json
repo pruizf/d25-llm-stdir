@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1550",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant Martin' indicates a non-verbal interaction, specifically pointing or showing Martin to others.",
+      "stgdir": "Montrant Martin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1551",
+      "category": "6",
+      "explanation": "The stage direction 'Regardant sa fille' indicates a non-verbal interaction, which involves the character looking at his or her daughter.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1552",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Lanturlu' specifies the name of a tune or song, fitting the music category.",
+      "stgdir": "Air : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1553",
+      "category": "7",
+      "explanation": "The stage direction 'Elle passe \u00e0 gauche' describes physical movement on stage, in this case, moving to the left.",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1554",
+      "category": "10",
+      "explanation": "The action of 'Madame Raquin remet la lampe sur la table' involves interaction with an object, specifically placing a lamp on a table.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1555",
+      "category": "5",
+      "explanation": "The stage direction 'Sainte C\u00e9cile sort' indicates a character exiting the stage.",
+      "stgdir": "Sainte C\u00e9cile sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1556",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Voulez-vous savoir qui des deux' indicates it is related to a piece of music, likely the name of a tune.",
+      "stgdir": "Air : Voulez-vous savoir qui des deux",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1557",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Valentin' indicates the addressee of a speech, specifying to whom the dialogue is directed.",
+      "stgdir": "\u00c0 Valentin",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1558",
+      "category": "6",
+      "explanation": "The stage direction 'Parlant \u00e0 son cheval' involves interaction, indicating the character is non-verbally interacting with their horse.",
+      "stgdir": "Parlant \u00e0 son cheval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1559",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Tout roule aujourd'hui dans le monde' is related to a musical piece or tune; it starts with 'AIR' indicating music.",
+      "stgdir": "AIR. Tout roule aujourd'hui dans le monde.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 16334.073305130005,
+  "model": "gpt-4o"
+}

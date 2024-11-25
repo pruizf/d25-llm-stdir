@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2590",
+      "category": "10",
+      "explanation": "This direction involves giving an object ('le papier') to someone, which involves character interaction with an object.",
+      "stgdir": "Il donne \u00e0 la suivante le papier sur lequel il a \u00e9crit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2591",
+      "category": "4",
+      "explanation": "This direction describes the entrance of characters ('Entr\u00e9e de suivants'), indicating they are entering the stage.",
+      "stgdir": "Entr\u00e9e de suivants de la Fortune.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2592",
+      "category": "3",
+      "explanation": "The direction involves a character ('Cr\u00e9sus') calling out, which relates to vocal expression.",
+      "stgdir": "Cr\u00e9sus, appelant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2593",
+      "category": "12",
+      "explanation": "The direction specifies the addressee of a speech or action ('\u00c0 Rhadamisthe').",
+      "stgdir": "\u00c0 Rhadamisthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2594",
+      "category": "6",
+      "explanation": "The action of embracing ('Il embrasse Argie') is a non-verbal interaction between characters.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2595",
+      "category": "9",
+      "explanation": "This direction is a long narrative describing a sequence of actions by several characters, including noises and interactions.",
+      "stgdir": "Tandis que Moli\u00e8re reste pensif, Dassoucy, Pierrotin et le Docteur sortent bruyamment du ch\u00e2teau ; Pierrotin porte un flacon et un gobelet, boit \u00e0 petits coups, fait claquer sa langue et se caresse l'estomac avec b\u00e9atitude.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2596",
+      "category": "8",
+      "explanation": "This direction starts with 'Air', indicating it refers to music or a tune name.",
+      "stgdir": "Air : De tous les Capucins du monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2597",
+      "category": "9",
+      "explanation": "This describes a scene involving multiple groups of characters engaged in activities, having a narrative quality.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2598",
+      "category": "10",
+      "explanation": "This describes a character's interaction with an object ('les panneaux sup\u00e9rieurs du buffet'), which is physical contact with an object.",
+      "stgdir": "Ses doigts, qui errent \u00e0 l'aventure, rencontrent les panneaux sup\u00e9rieurs du buffet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2599",
+      "category": "8",
+      "explanation": "This direction starts with 'Air', indicating it refers to music or a tune name.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9182.111978530884,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2750",
+      "category": "5",
+      "explanation": "The stage direction 'Gallas sort.' indicates that a character named Gallas is exiting, which fits the definition of an exit.",
+      "stgdir": "Gallas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2751",
+      "category": "10",
+      "explanation": "This stage direction describes an interaction with objects (an \u00e9chelle d'espalier and a flute), as it involves taking, placing against, closing, and running with objects.",
+      "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2752",
+      "category": "12",
+      "explanation": "This indicates the addressee of the speech or action (\u00c0 La Brie), fitting the 'toward' category.",
+      "stgdir": "\u00c0 La Brie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2753",
+      "category": "6",
+      "explanation": "The phrase 'Voyant Gaston' suggests a non-verbal interaction, as it describes the action of seeing someone.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2754",
+      "category": "1",
+      "explanation": "The stage direction 'Il frappe Arlequin' involves a violent action (hitting) which fits the aggression category.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2755",
+      "category": "7",
+      "explanation": "The stage direction 'Le garde s'\u00e9loigne un moment.' suggests movement, as it describes the guard moving away.",
+      "stgdir": "Le garde s'\u00e9loigne un moment.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2756",
+      "category": "4",
+      "explanation": "The phrase 'Salviati entre dans le palais.' indicates that a character named Salviati enters the stage, fitting the entrance category.",
+      "stgdir": "Salviati entre dans le palais.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2757",
+      "category": "8",
+      "explanation": "The direction begins with 'Air: Eh! zon, zon, zon.', which is indicative of a music piece or tune being referred to, placing it in the music category.",
+      "stgdir": "Air : Eh! zon, zon, zon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2758",
+      "category": "9",
+      "explanation": "The repetition of knocking described in 'On frappe de nouveau' has a narrative quality and refers to a sequence of sounds.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2759",
+      "category": "4",
+      "explanation": "The phrase 'Premi\u00e8re entr\u00e9e.' suggests the first entrance of a character or characters onto the stage, fitting the entrance category.",
+      "stgdir": "Premi\u00e8re entr\u00e9e.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 18645.0834274292,
+  "model": "gpt-4o"
+}

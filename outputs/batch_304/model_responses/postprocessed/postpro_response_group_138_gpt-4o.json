@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1380",
+      "category": "12",
+      "explanation": "\"\u00c0 Hernani\" indicates that the action or words are directed toward the character Hernani.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1381",
+      "category": "12",
+      "explanation": "\"VERS AU ROI\" specifies that an action or dialogue is directed toward the king.",
+      "stgdir": "VERS AU ROI.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1382",
+      "category": "6",
+      "explanation": "\"Puis regardant Dorinde\" suggests a character is looking at Dorinde, indicating non-verbal interaction.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1383",
+      "category": "8",
+      "explanation": "\"Air. Du Cap de Bonne-Esp\u00e8rance\" describes a musical piece, as it begins with \"Air\" and names a tune.",
+      "stgdir": "Air. Du Cap de Bonne-Esp\u00e8rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1384",
+      "category": "5",
+      "explanation": "\"En se sauvant\" implies that a character is exiting in haste or escaping.",
+      "stgdir": "En se sauvant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1385",
+      "category": "10",
+      "explanation": "\"Apercevant le bouquet oubli\u00e9 sur le divan\" describes a character noticing an object, in this case, a forgotten bouquet.",
+      "stgdir": "Apercevant le bouquet oubli\u00e9 sur le divan.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1386",
+      "category": "11",
+      "explanation": "\"Le th\u00e9\u00e2tre repr\u00e9sente le Palais d'Oromas\u00e8s, Roi des G\u00e9nies\" describes the setting of the play.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais d'Oromas\u00e8s, Roi des G\u00e9nies.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1387",
+      "category": "7",
+      "explanation": "\"Elle retourne sur le rocher\" indicates character movement as she returns to the rock.",
+      "stgdir": "Elle retourne sur le rocher.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1388",
+      "category": "10",
+      "explanation": "\"Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre\" denotes the presence and positioning of an object, the portrait.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1389",
+      "category": "8",
+      "explanation": "\"Air : Vaudeville des deux Veuves\" describes a musical element, indicating a song or tune.",
+      "stgdir": "Air : Vaudeville des deux Veuves.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9637.869358062744,
+  "model": "gpt-4o"
+}

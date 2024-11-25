@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "120",
+      "category": "12",
+      "explanation": "The stage direction 'Au jeune Arz\u00e9mon' indicates the addressee of a speech or action, classifying it under 'toward'.",
+      "stgdir": "Au jeune Arz\u00e9mon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "121",
+      "category": "5",
+      "explanation": "'Jos\u00e9phine et Marthe sortent' describes characters exiting, fitting under the 'exit' category.",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "122",
+      "category": "5",
+      "explanation": "'Frontin s'en va' indicates a character exiting, which falls under the 'exit' category.",
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "123",
+      "category": "6",
+      "explanation": "'En montrant la ville' describes an interaction with the environment or other characters by pointing out or illustrating, thus fitting 'interaction'.",
+      "stgdir": "En montrant la ville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "124",
+      "category": "1",
+      "explanation": "'Alfonce et Marc Antoine les frappent chacun le sien' is an example of violent action or aggression, categorizing it under 'aggression'.",
+      "stgdir": "Alfonce et Marc Antoine les frappent chacun le sien.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "125",
+      "category": "0",
+      "explanation": "'Il frappe trois fois' describes a general action, specifically knocking or striking, which fits the 'action' category.",
+      "stgdir": "Il frappe trois fois.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "126",
+      "category": "4",
+      "explanation": "'Tersky para\u00eet avec Isolan, Buttler et d'autres officiers' is an entrance of multiple characters, thus fitting the 'entrance' category.",
+      "stgdir": "Tersky para\u00eet avec Isolan, Buttler et d'autres officiers.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "127",
+      "category": "6",
+      "explanation": "'Apercevant Octave' involves perceiving or interacting through sight, making it an 'interaction' category case.",
+      "stgdir": "Apercevant Octave.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "128",
+      "category": "3",
+      "explanation": "'S'exaltant' refers to an emotional expression or delivery of character, placing it in the 'delivery' category.",
+      "stgdir": "S'exaltant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "129",
+      "category": "10",
+      "explanation": "'Il lui donne le billet de Julie' involves giving an object (a ticket) to someone, so it fits in the 'object' category.",
+      "stgdir": "Il lui donne le billet de Julie.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 10262.784957885742,
+  "model": "gpt-4o"
+}

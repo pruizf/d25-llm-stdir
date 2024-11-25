@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2400",
+      "category": "0",
+      "explanation": "The stage direction describes a character's action of watching with despair, a general action that fits the category for general character actions.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2401",
+      "category": "6",
+      "explanation": "This involves characters seeing each other non-verbally from distances, which constitutes a form of non-verbal interaction.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2402",
+      "category": "4",
+      "explanation": "This stage direction describes Patrocle entering the stage, fitting the entrance category.",
+      "stgdir": "Patrocle entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2403",
+      "category": "5",
+      "explanation": "The stage direction indicates a character wanting to leave, signifying an exit from the stage.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2404",
+      "category": "3",
+      "explanation": "The action of singing is related to vocal expression, which falls under the delivery category.",
+      "stgdir": "Arlequin chante :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2405",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech or action, matching the toward category.",
+      "stgdir": "\u00c0 Monsieur Mananville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2406",
+      "category": "4",
+      "explanation": "Ariston appearing suggests that this is an entrance onto the stage.",
+      "stgdir": "Ariston para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2407",
+      "category": "7",
+      "explanation": "Carlos moving hurriedly towards someone is a description of character movement.",
+      "stgdir": "Carlos rabat son chapeau sur son visage, et s'avance pr\u00e9cipitamment vers elle. Do\u00f1a Sol, laissant tomber sa lampe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2408",
+      "category": "12",
+      "explanation": "This is a directive toward \u00c9rix\u00e8ne, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2409",
+      "category": "10",
+      "explanation": "The stage direction involves a character interacting with an object, covering herself with a handkerchief, fitting the object category.",
+      "stgdir": "Elle reprend le mouchoir et se couvre le sein.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 6651.895999908447,
+  "model": "gpt-4o"
+}

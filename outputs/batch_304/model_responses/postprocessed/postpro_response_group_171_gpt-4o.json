@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1710",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Tetasse' indicates the addressee of a speech or action, specifying a direction toward the character Tetasse.",
+      "stgdir": "\u00c0 Tetasse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1711",
+      "category": "4",
+      "explanation": "The stage direction 'Voyant para\u00eetre Jacques Rosbif' involves the entrance of the character Jacques Rosbif, as he appears on stage.",
+      "stgdir": "Voyant para\u00eetre Jacques Rosbif.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1712",
+      "category": "8",
+      "explanation": "The direction 'Air : Chantez, dansez' refers to the title of a musical tune or song used in the play, indicated by the word 'Air'.",
+      "stgdir": "Air : Chantez, dansez.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1713",
+      "category": "8",
+      "explanation": "The direction 'AIR : Monsieur le Pr\u00e9vot des Marchands' is a reference to a specific musical tune or song used in the play, indicated by the word 'AIR'.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9vot des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1714",
+      "category": "0",
+      "explanation": "The stage direction 'Il lit en parcourant' describes a general action of the character reading while glancing or skimming through.",
+      "stgdir": "Il lit en parcourant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1715",
+      "category": "8",
+      "explanation": "The direction 'Air du Pi\u00e8ge' refers to a musical tune or song within the play, as indicated by the word 'Air'.",
+      "stgdir": "Air du Pi\u00e8ge",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1716",
+      "category": "8",
+      "explanation": "The direction 'AIR : Les filles sont si sottes' signifies a musical tune or song mentioned in the play, denoted by 'AIR'.",
+      "stgdir": "AIR : Les filles sont si sottes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1717",
+      "category": "0",
+      "explanation": "The direction 'Il se laisse choir sur la borne' describes a general action, specifically the character allowing himself to fall or sit heavily on the kerb.",
+      "stgdir": "Il se laisse choir sur la borne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1718",
+      "category": "12",
+      "explanation": "The stage direction 'dit-il \u00e0 Pierrot;' indicates the addressee of a speech, with the character addressing Pierrot.",
+      "stgdir": "dit-il \u00e0 Pierrot;",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1719",
+      "category": "9",
+      "explanation": "This stage direction is lengthy and descriptive, detailing the simultaneous actions of multiple characters, akin to a narrative description within the play.",
+      "stgdir": "Madame Dumond et le prieur sortent. H\u00e9l\u00e8ne va leur ouvrir la porte, et leur fait plusieurs r\u00e9v\u00e9rences, que Madame Dumond lui rend apr\u00e8s l'avoir embrass\u00e9e. Pendant ce temps Monique reste seule sur le devant du th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 8839.372873306274,
+  "model": "gpt-4o"
+}

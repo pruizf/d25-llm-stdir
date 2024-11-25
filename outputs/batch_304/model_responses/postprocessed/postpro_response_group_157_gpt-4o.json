@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1570",
+      "category": "4",
+      "explanation": "The stage direction 'Aux guerriers' suggests an entrance, likely of warriors, indicating the arrival of characters on stage.",
+      "stgdir": "Aux guerriers.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1571",
+      "category": "5",
+      "explanation": "'Villiers dispara\u00eet' indicates that a character named Villiers exits the stage, aligning with the exit category.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1572",
+      "category": "8",
+      "explanation": "The stage direction contains 'AIR.' followed by a song title, indicating it is related to music.",
+      "stgdir": "AIR. ( L'autre nuit j'aper\u00e7us en songe. }",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1573",
+      "category": "7",
+      "explanation": "The description 'Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main' refers to movement, as it describes characters advancing.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1574",
+      "category": "6",
+      "explanation": "The action 'Il lui porte de m\u00eame son bras sous le nez' describes an interaction between characters involving non-verbal interaction.",
+      "stgdir": "Il lui porte de m\u00eame son bras sous le nez.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1575",
+      "category": "9",
+      "explanation": "The mention of 'On entend des clameurs en dehors' describes a noise, fitting with the narration category that includes sound effects.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1576",
+      "category": "10",
+      "explanation": "The action 'Elle a assembl\u00e9 dans le petit sac tous les bijoux' involves manipulating objects (jewels), aligning with the object category.",
+      "stgdir": "Elle a assembl\u00e9 dans le petit sac tous les bijoux.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1577",
+      "category": "6",
+      "explanation": "The action 'Il leur montre un mur qu'on tourne sur un pivot de fer' indicates a non-verbal interaction where a character is showing something to others.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1578",
+      "category": "8",
+      "explanation": "Like 1572, 'Air : A travers ce flacon brillant' refers to music, indicated by the word 'Air' followed by a song title.",
+      "stgdir": "Air : A travers ce flacon brillant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1579",
+      "category": "0",
+      "explanation": "'Continuant \u00e0 lire' falls under the general action category, as it describes the act of reading.",
+      "stgdir": "Continuant \u00e0 lire.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 11549.794435501099,
+  "model": "gpt-4o"
+}

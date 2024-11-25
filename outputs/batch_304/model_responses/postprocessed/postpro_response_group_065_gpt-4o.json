@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "650",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating a musical piece or song title. This categorizes it as music.",
+      "stgdir": "AIR : Plaisirs si purs que je regrette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Hauteroche.' indicates direction toward a character or entity named Hauteroche, suggesting that speech or attention is directed to them.",
+      "stgdir": "\u00c0 Hauteroche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "8",
+      "explanation": "The stage direction begins with 'Air', which typically introduces a piece of music or song title, hence categorized as music.",
+      "stgdir": "Air 15 : Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "0",
+      "explanation": "The direction 'Le Roi dort.' describes the action of sleeping, which falls under the general character action category.",
+      "stgdir": "Le Roi dort.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of actions involving multiple characters and music, giving it a narrative quality suitable for this category.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "The stage direction 'Au peuple.' indicates that something is directed toward the people, categorizing it as toward.",
+      "stgdir": "Au peuple.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "12",
+      "explanation": "The direction 'En montrant N\u00e9restan.' suggests a gesture or action is directed towards or indicating the character N\u00e9restan, which fits the toward category.",
+      "stgdir": "En montrant N\u00e9restan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "9",
+      "explanation": "This is a detailed narrative direction describing choreographed movement and actions involving multiple characters, fitting the narration category.",
+      "stgdir": "Des soldats de la suite du Major entourent Roquillard, en lui pr\u00e9sentant de tous c\u00f4t\u00e9s la pointe de la hallebarde\u00a0; et pendant ce temps Arlequin emm\u00e8ne Isabelle. Les soldats et Roquillard forment une danse, qui sert de divertissement pour le troisi\u00e8me acte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "0",
+      "explanation": "The action 'On sonne une seconde fois.' (One rings a second time) describes an action, in this case, ringing, fitting general character action.",
+      "stgdir": "On sonne une seconde fois.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 la Servante.' suggests the characters are speaking or directing something towards 'the maid,' which fits the toward category.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 9656.526327133179,
+  "model": "gpt-4o"
+}

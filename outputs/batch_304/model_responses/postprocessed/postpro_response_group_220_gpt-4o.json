@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2200",
+      "category": "6",
+      "explanation": "The stage direction 'Regardant Ang\u00e9lique' involves a non-verbal character interaction where a character looks at Ang\u00e9lique.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2201",
+      "category": "8",
+      "explanation": "'Marche des Acteurs du Divertissement' suggests a musical piece, likely accompanying a scene, thus classifying it as music.",
+      "stgdir": "Marche des Acteurs du Divertissement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2202",
+      "category": "8",
+      "explanation": "The stage direction 'AIR de COUPERIN. Soeur Monique' indicates a musical piece by Couperin named 'Soeur Monique'.",
+      "stgdir": "AIR de COUPERIN. Soeur Monique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2203",
+      "category": "4",
+      "explanation": "The verb 'entrent' means to enter, hence it qualifies as an entrance.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2204",
+      "category": "5",
+      "explanation": "'sortent' indicates the action of characters exiting the stage.",
+      "stgdir": "Pimandre et \u00c9raste sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2205",
+      "category": "7",
+      "explanation": "The stage direction '\u00c9lyse y va' suggests movement, specifically moving or going to a location.",
+      "stgdir": "\u00c9lyse y va.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2206",
+      "category": "3",
+      "explanation": "'Ronchaud prend un air s\u00e9v\u00e8re' describes the delivery manner of Ronchaud, indicating he adopts a severe expression.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2207",
+      "category": "11",
+      "explanation": "This describes the stage setting, featuring a part of the gardens and a canal.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une partie des Jardins du S\u00e9rail termin\u00e9e par un canal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2208",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction where Damis offers his hand, which she accepts, while Dorante does the same.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2209",
+      "category": "5",
+      "explanation": "'Il va pour s'en aller' suggests the character is about to exit the scene.",
+      "stgdir": "Il va pour s'en aller.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 17686.532020568848,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1610",
+      "category": "8",
+      "explanation": "The stage direction starts with 'Air', indicating the name of a tune, and therefore falls under the music category.",
+      "stgdir": "Air : On dit que je suis sans malice.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1611",
+      "category": "8",
+      "explanation": "The term 'Pr\u00e9lude' refers to a musical introduction, fitting it into the music category.",
+      "stgdir": "Pr\u00e9lude.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1612",
+      "category": "10",
+      "explanation": "The stage direction 'Il tire sa lettre' involves interaction with an object, specifically handling or manipulating a letter.",
+      "stgdir": "Il tire sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1613",
+      "category": "4",
+      "explanation": "The term 'Moli\u00e8re rentre' indicates the entrance of the character Moli\u00e8re on stage.",
+      "stgdir": "Moli\u00e8re rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1614",
+      "category": "4",
+      "explanation": "The term 'Auguste entre' indicates the entrance of the character Auguste on stage.",
+      "stgdir": "Auguste entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1615",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Madame Dangeville' indicates the addressee of a speech or action.",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1616",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Atr\u00e9e' indicates the addressee of a speech or action.",
+      "stgdir": "\u00c0 Atr\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1617",
+      "category": "6",
+      "explanation": "The action 'Il rebaise son sein' describes non-verbal character interaction, specifically touching.",
+      "stgdir": "Il rebaise son sein.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1618",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Arzame et au jeune Arz\u00e9mon' indicates the addressees of a speech or action.",
+      "stgdir": "\u00c0 Arzame et au jeune Arz\u00e9mon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1619",
+      "category": "9",
+      "explanation": "The term 'Rire g\u00e9n\u00e9ral' describes a collective action with narrative quality, giving the reader insight into the atmosphere on stage.",
+      "stgdir": "Rire g\u00e9n\u00e9ral.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 10913.222312927246,
+  "model": "gpt-4o"
+}

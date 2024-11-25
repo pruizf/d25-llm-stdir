@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "380",
+      "category": "6",
+      "explanation": "The stage direction involves showing or pointing to the huissier, which indicates a non-verbal character interaction.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "10",
+      "explanation": "The stage direction involves the character pulling out a portefeuille, which is an interaction with an object.",
+      "stgdir": "Il tire son portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "8",
+      "explanation": "This refers to a vow or declaration, likely set to music or song, which fits the music category.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of the speech, '\u00c0 son \u00e9poux,' which fits the 'toward' category.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "7",
+      "explanation": "Describes a sequence where the second person arrives first, indicating character movement.",
+      "stgdir": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "9",
+      "explanation": "This involves an audible cue which describes sound ('sifflet du tube acoustique'), fitting the narration category.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "6",
+      "explanation": "The character observing the theater without looking at the actors indicates a non-verbal interaction where the character interacts with the setting.",
+      "stgdir": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "10",
+      "explanation": "The Queen taking the packet involves a direct interaction with an object.",
+      "stgdir": "La Reine prenant le paquet de la suivante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "11",
+      "explanation": "Describes the location of characters within the theater, fitting the setting category.",
+      "stgdir": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "6",
+      "explanation": "Pointing to the 'Marchande de Chansons' involves a non-verbal interaction.",
+      "stgdir": "Montrant la Marchande de Chansons.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 7695.168256759644,
+  "model": "gpt-4o"
+}

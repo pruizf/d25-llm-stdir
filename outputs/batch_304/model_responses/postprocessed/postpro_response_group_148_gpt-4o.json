@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1480",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of characters Dangeville and Lolotte onto the stage.",
+      "stgdir": "Entr\u00e9e de Dangeville et de Lolotte.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1481",
+      "category": "8",
+      "explanation": "The stage direction involves a concert of music created by angels, indicating a musical element.",
+      "stgdir": "I. Genevi\u00e8ve ayant pass\u00e9 doucement la nuit dans sa Grotte, est f\u00e9licit\u00e9e \u00e0 son r\u00e9veil d'un concert de Musique que lui font les Anges qui la servent dans une profonde extase.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1482",
+      "category": "3",
+      "explanation": "The stage direction describes the delivery manner, highlighting that someone is shouting through the door.",
+      "stgdir": "Criant au travers de la porte.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1483",
+      "category": "12",
+      "explanation": "The stage direction indicates that the following action or dialogue is directed toward Dufour.",
+      "stgdir": "\u00c0 Dufour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1484",
+      "category": "12",
+      "explanation": "The stage direction indicates that the following action or dialogue is directed toward the deputy.",
+      "stgdir": "Au d\u00e9put\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1485",
+      "category": "7",
+      "explanation": "The stage direction describes character movement as they pass in front of other characters and move to the middle.",
+      "stgdir": "L'un passe par devant Lucinde, et l'autre par devant G\u00e9ronte, et prennent tous deux le milieu, ils se trouvent l'un pr\u00e8s de l'autre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1486",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR' followed by 'Oh! oh! ah, ah,' indicating it is related to music.",
+      "stgdir": "AIR. Oh ! oh ! ah, ah.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1487",
+      "category": "10",
+      "explanation": "Madame Leblanc shows her embroideries, indicating interaction with an object.",
+      "stgdir": "Madame Leblanc montre successivement ses broderies.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1488",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the play, including a Cabinet de verdure and a Ch\u00e2teau, providing details about the location.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un Cabinet de verdure, o\u00f9 aboutissent plusieurs all\u00e9es de charmille ; sur le devant est un banc de gazon. Au fond, dans l'\u00e9loignement, on aper\u00e7oit le Ch\u00e2teau du Marquis.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1489",
+      "category": "0",
+      "explanation": "The stage direction describes a general action of leaning against a tree, fitting under the general action category.",
+      "stgdir": "Il s'appuie contre un arbre.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 9616.384029388428,
+  "model": "gpt-4o"
+}

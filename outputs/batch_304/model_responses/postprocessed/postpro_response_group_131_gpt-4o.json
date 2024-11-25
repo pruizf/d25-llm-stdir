@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1310",
+      "category": "5",
+      "explanation": "The stage direction 'Le Baron sort.' indicates that the character, the Baron, is exiting the stage. The verb 'sort' aligns with the exit category.",
+      "stgdir": "Le Baron sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1311",
+      "category": "4",
+      "explanation": "The stage direction 'Elle rentre dans le ch\u00e2teau.' describes a character entering a location, specifically re-entering a castle. The verb 'rentre' aligns with the entrance category.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1312",
+      "category": "7",
+      "explanation": "The stage direction 'Voyant approcher Gustave.' involves movement without involving entrance or exit. The verb 'approcher' suggests movement toward someone, fitting the movement category.",
+      "stgdir": "Voyant approcher Gustave.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1313",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. De la Royale, etc.' starts with 'AIR,' indicating a reference to music or a tune name, aligning with the music category.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1314",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Babet que t'es gentille !' starts with 'Air,' which relates to music, signifying a tune or song reference, typical of the music category.",
+      "stgdir": "Air : Babet que t'es gentille !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1315",
+      "category": "0",
+      "explanation": "The stage direction 'Montval, lit.' indicates an action of reading. Since reading is a general character action that doesn't fit more specific categories, it belongs to the action category.",
+      "stgdir": "Montval, lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1316",
+      "category": "5",
+      "explanation": "The stage direction 'Elle sort avec Octave.' indicates that a character exits the stage with another character, Octave. The verb 'sort' aligns with the exit category.",
+      "stgdir": "Elle sort avec Octave.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1317",
+      "category": "6",
+      "explanation": "The stage direction 'Il lui serre le bout des doigts.' describes a non-verbal interaction, specifically squeezing someone's fingertips, fitting the interaction category.",
+      "stgdir": "Il lui serre le bout des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1318",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant sa bague.' involves showing, which is a non-verbal interaction typically directed toward another character or audience, suitable for the interaction category.",
+      "stgdir": "Montrant sa bague.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1319",
+      "category": "7",
+      "explanation": "The stage direction 'Il fait un pas pour s'en aller et revient toujours.' describes movement as the character takes a step to leave and then returns, which reflects movement without a clear exit or entrance, fitting the movement category.",
+      "stgdir": "Il fait un pas pour s'en aller et revient toujours.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 10811.633348464966,
+  "model": "gpt-4o"
+}

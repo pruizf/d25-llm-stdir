@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "500",
+      "category": "3",
+      "explanation": "The direction indicates a repetition of verses by the choir, which relates to vocal expression and performance.",
+      "stgdir": "Le choeur r\u00e9p\u00e8te ces derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "501",
+      "category": "5",
+      "explanation": "This direction describes a character, 'Elle', exiting to go to her apartments.",
+      "stgdir": "Elle rentre dans ses appartements.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "502",
+      "category": "0",
+      "explanation": "This refers to a general action of seals being placed, which doesn't fit better in other categories.",
+      "stgdir": "Pendant ce temps l'on pose les scell\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "503",
+      "category": "5",
+      "explanation": "The stage direction indicates that 'Mademoiselle Damour' exits the scene.",
+      "stgdir": "Mademoiselle Damour sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "504",
+      "category": "9",
+      "explanation": "The stage direction describes the sound of a drum being heard, which adds a narrative or atmospheric element.",
+      "stgdir": "On entend le tambour.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "505",
+      "category": "6",
+      "explanation": "This describes an interaction where two characters sing together, emphasizing non-verbal interaction.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "506",
+      "category": "5",
+      "explanation": "The direction indicates that 'Elle' exits or moves away into the night.",
+      "stgdir": "Elle dispara\u00eet dans la nuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "507",
+      "category": "3",
+      "explanation": "The stage direction refers to a character hesitating, an expression of delivery or emotional state.",
+      "stgdir": "Il h\u00e9site.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "508",
+      "category": "12",
+      "explanation": "This indicates that the speech or action is directed '\u00c0 un garde', suggesting the target of communication.",
+      "stgdir": "\u00c0 un garde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "509",
+      "category": "8",
+      "explanation": "The mention of 'AIR' and the song title refers to a musical element or tune being introduced.",
+      "stgdir": "AIR : C'est la fille \u00e0 Simonette.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10861.005067825317,
+  "model": "gpt-4o"
+}

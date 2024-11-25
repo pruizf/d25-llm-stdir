@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1780",
+      "category": "7",
+      "explanation": "The stage direction 'Vivement et allant \u00e0 lui' implies character movement towards another character, fitting the 'movement' category.",
+      "stgdir": "Vivement et allant \u00e0 lui.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1781",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of actions involving multiple characters in a detailed manner, typical of a 'narration' category.",
+      "stgdir": "Ils se retirent chacun de leur c\u00f4t\u00e9. Les filous reviennent, se f\u00e9licitent de leur fourberie et se proposent de partager la bourse. Divertissant dit qu'il en veut les deux tiers ; Sans-Quartier pr\u00e9tend en avoir la moiti\u00e9. Ils se battent, le Ma\u00eetre et Gilles se jettent sur eux, appellent les voisins \u00e0 leur secours. Ils s'emparent de la bourse et battent les filous qui se sauvent, poursuivis par les voisins. Gilles, anim\u00e9 de col\u00e8re, ne s'en aper\u00e7oit pas, il se jette sur son ma\u00eetre qui tient la bourse, la lui veut arracher ; l'assomme de coups. Le Ma\u00eetre crie au secours, les voisins l'arrachent des mains de Gilles qui rosse et son ma\u00eetre et tous les voisins. Apr\u00e8s s'\u00eatre bien battus, ils se reconnaissent, s'embrassent et finissent ainsi la parade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1782",
+      "category": "4",
+      "explanation": "The phrase 'arrive Monsieur de Courcelles' indicates an entrance, fitting the 'entrance' category.",
+      "stgdir": "Au moment o\u00f9 l'on voit qu'elle va dire : J'irai, arrive Monsieur de Courcelles.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1783",
+      "category": "4",
+      "explanation": "Similar to 1782, 'L'Exempt et ses Gardes arrivent' suggests an entrance, hence categorized as 'entrance'.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1784",
+      "category": "11",
+      "explanation": "The phrase 'Le camp sous Varsovie' describes a setting or location, fitting the 'setting' category.",
+      "stgdir": "Le camp sous Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1785",
+      "category": "12",
+      "explanation": "'\u00c0 Alcipe' indicates a speech direction with a specific addressee, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Alcipe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1786",
+      "category": "5",
+      "explanation": "'Ils sortent de la maison d'Atalante' clearly describes characters exiting, hence 'exit' category.",
+      "stgdir": "Ils sortent de la maison d'Atalante.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1787",
+      "category": "12",
+      "explanation": "'\u00c0 Monr\u00e9al fils' specifies the addressee of a speech, so it fits the 'toward' category.",
+      "stgdir": "\u00c0 Monr\u00e9al fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1788",
+      "category": "6",
+      "explanation": "'Il veut prendre Javotte' suggests an attempt at physical interaction, thus fitting the 'interaction' category.",
+      "stgdir": "Il veut prendre Javotte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1789",
+      "category": "3",
+      "explanation": "The stage direction 'Tout le monde garde le silence' indicates a manner of vocal expression or lack thereof, hence fitting the 'delivery' category.",
+      "stgdir": "Tout le monde garde le silence.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 7878.470659255981,
+  "model": "gpt-4o"
+}

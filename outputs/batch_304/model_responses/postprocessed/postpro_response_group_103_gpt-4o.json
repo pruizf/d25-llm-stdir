@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1030",
+      "category": "1",
+      "explanation": "The stage direction 'Il veut faire un pas. Do\u00f1a Sol l\u00e8ve le poignard.' involves a threat, which qualifies it as aggression.",
+      "stgdir": "Il veut faire un pas. Do\u00f1a Sol l\u00e8ve le poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1031",
+      "category": "4",
+      "explanation": "This stage direction indicates the entrance of characters, marked by the word 'entrent.'",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1032",
+      "category": "12",
+      "explanation": "This stage direction '\u00c0 Champagne' indicates towards whom the preceding or following dialogue is addressed.",
+      "stgdir": "\u00c0 Champagne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1033",
+      "category": "8",
+      "explanation": "The stage direction 'AIR Patapan' refers to music as it names a tune, which corresponds to the music category.",
+      "stgdir": "AIR Patapan.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1034",
+      "category": "6",
+      "explanation": "This stage direction describes an interaction where Dorante kisses the hand of the Comtesse, which is a non-verbal character interaction.",
+      "stgdir": "Dorante baise la main de la Comtesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1035",
+      "category": "12",
+      "explanation": "This stage direction '\u00c0 Henri' indicates towards whom the preceding or following dialogue is addressed.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1036",
+      "category": "10",
+      "explanation": "The stage direction describes an interaction with an object, specifically retrieving a box of matchsticks from a pocket.",
+      "stgdir": "Il prend dans le gousset de son gilet une boite d'allumettes bougies.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1037",
+      "category": "3",
+      "explanation": "This stage direction 'Changeant de ton et suppliant' refers to a manner of vocal expression or delivery, changing tone and pleading.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1038",
+      "category": "4",
+      "explanation": "The stage direction 'Gr\u00e9goire para\u00eet' indicates the entrance of the character Gr\u00e9goire.",
+      "stgdir": "Gr\u00e9goire para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1039",
+      "category": "1",
+      "explanation": "This stage direction involves aggression, as a character attempts to physically intervene in a fight between a brother and sister.",
+      "stgdir": "Comme il les voit se battre, tout bless\u00e9 il se jette entre le fr\u00e8re et la soeur pour les s\u00e9parer.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 9739.521026611328,
+  "model": "gpt-4o"
+}

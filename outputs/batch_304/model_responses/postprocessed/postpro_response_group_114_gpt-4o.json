@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1140",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Acante' indicates that something is directed toward Acante, which is typically used to indicate the addressee of a speech or action.",
+      "stgdir": "\u00c0 Acante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1141",
+      "category": "5",
+      "explanation": "The stage direction 'Tous sortent, except\u00e9 Baron' describes an exit from the stage, with the verb 'sortent' indicating that a group of characters is leaving the stage.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1142",
+      "category": "9",
+      "explanation": "The direction 'On entend frapper et la porte. - Se levant.' suggests a narrative context by involving a sound ('frapper') that is heard and movement ('Se levant'), both contributing to a scene development.",
+      "stgdir": "On entend frapper et la porte. - Se levant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1143",
+      "category": "6",
+      "explanation": "The stage direction 'D\u00e9lie lui jette un regard passionn\u00e9' describes a non-verbal interaction where D\u00e9lie gives someone a passionate look.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1144",
+      "category": "9",
+      "explanation": "The phrase 'Arrive l'instant d\u00e9finitif' has a narrative quality, suggesting a significant moment is occurring, and it can be seen as narrating the progression of the scene.",
+      "stgdir": "Arrive l'instant d\u00e9finitif.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1145",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Darius' indicates that something is directed toward Darius, such as a speech or action, fitting the category 'toward.'",
+      "stgdir": "\u00c0 Darius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1146",
+      "category": "6",
+      "explanation": "The direction 'Ensemble' implies interaction where characters are together or moving together, suggesting simultaneous action or presence.",
+      "stgdir": "Ensemble",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1147",
+      "category": "6",
+      "explanation": "The direction 'Elle montre Racine' involves a non-verbal interaction where 'showing' is directed towards Racine, indicating interaction.",
+      "stgdir": "Elle montre Racine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1148",
+      "category": "12",
+      "explanation": "The direction 'Au souffleur' suggests that something is directed or addressed to the prompter, indicating the addressee.",
+      "stgdir": "Au souffleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1149",
+      "category": "9",
+      "explanation": "The stage direction 'On entend une cloche derri\u00e8re le th\u00e9\u00e2tre' describes a sound that provides narrative context or atmosphere, fitting the 'narration' category.",
+      "stgdir": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 13719.253301620483,
+  "model": "gpt-4o"
+}

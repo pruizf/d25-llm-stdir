@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2800",
+      "category": "3",
+      "explanation": "The term 'R\u00e9p\u00e9tant' indicates the manner of delivery, suggesting that something is being repeated, which falls under vocal expression.",
+      "stgdir": "R\u00e9p\u00e9tant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2801",
+      "category": "11",
+      "explanation": "'Le champ des revues' refers to a setting, describing a specific location or part of the stage.",
+      "stgdir": "Le champ des revues.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2802",
+      "category": "0",
+      "explanation": "'Il appelle \u00e0 la petite porte de gauche' describes an action of calling or knocking, which fits as a general character action.",
+      "stgdir": "Il appelle \u00e0 la petite porte de gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2803",
+      "category": "4",
+      "explanation": "'Blanche para\u00eet' indicates an entrance, as a character, Blanche, appears on stage.",
+      "stgdir": "Blanche para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2804",
+      "category": "8",
+      "explanation": "The phrase 'Air : Dans ma chaumi\u00e8re, ou Bouton de rose' specifies a tune or piece of music, which falls under the music category.",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2805",
+      "category": "10",
+      "explanation": "'Il lui met le manteau royal' involves interaction with an object, specifically putting on a royal coat.",
+      "stgdir": "Il lui met le manteau royal.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2806",
+      "category": "6",
+      "explanation": "'Montrant L\u00e9pine' indicates non-verbal interaction by pointing or showing someone.",
+      "stgdir": "Montrant L\u00e9pine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2807",
+      "category": "3",
+      "explanation": "'\u00c9clatant de rire, apr\u00e8s avoir fix\u00e9 quelques secondes ces amants heureux, sinon honteux, au moins embarrass\u00e9s de leur bonheur' describes a manner of delivery through laughter and expression of emotion.",
+      "stgdir": "\u00c9clatant de rire, apr\u00e8s avoir fix\u00e9 quelques secondes ces amants heureux, sinon honteux, au moins embarrass\u00e9s de leur bonheur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2808",
+      "category": "8",
+      "explanation": "'Air 184 : Je me plaignais d'une inhumains' identifies a tune or music piece, indicated by the word 'Air'.",
+      "stgdir": "Air 184 : Je me plaignais d'une inhumains.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2809",
+      "category": "7",
+      "explanation": "'Il cherche \u00e0 l'entra\u00eener' suggests movement, as it implies trying to lead or pull someone in a particular direction.",
+      "stgdir": "Il cherche \u00e0 l'entra\u00eener.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 9077.368974685669,
+  "model": "gpt-4o"
+}

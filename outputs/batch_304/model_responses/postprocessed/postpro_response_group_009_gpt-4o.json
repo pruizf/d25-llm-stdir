@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "90",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui pr\u00e9sente un bouquet.' describes a character giving or showing a bouquet, which is an interaction with an object.",
+      "stgdir": "Il lui pr\u00e9sente un bouquet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "91",
+      "category": "5",
+      "explanation": "'Scanderberg sort.' indicates the character is leaving the stage, which corresponds to an exit.",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "92",
+      "category": "10",
+      "explanation": "'Il l\u00e8ve sa canne.' involves manipulation of an object, specifically lifting a cane.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "93",
+      "category": "5",
+      "explanation": "'Elle veut sortir.' indicates an intention to leave, thus related to the category of exit.",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "94",
+      "category": "12",
+      "explanation": "'Au sultan.' indicates the addressee of a future action or dialogue, aligning with the 'toward' category.",
+      "stgdir": "Au sultan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "95",
+      "category": "7",
+      "explanation": "'Elle fait quelques pas pour sortir.' describes the character's movement without confirming an exit yet, so it fits the movement category.",
+      "stgdir": "Elle fait quelques pas pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "96",
+      "category": "9",
+      "explanation": "'On entend crier de loin Ruflaut et Jeannot.' describes an auditory event which serves as narrative content.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "97",
+      "category": "1",
+      "explanation": "'Il tire un pistolet qui rate.' depicts a violent action featuring a firearm, fitting aggression.",
+      "stgdir": "Il tire un pistolet qui rate.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "98",
+      "category": "5",
+      "explanation": "'La Plume sort ; Madame Savon, et Th\u00e9riaque entrent dans l'autre chambre.' mentions a character exiting the stage.",
+      "stgdir": "La Plume sort ; Madame Savon, et Th\u00e9riaque entrent dans l'autre chambre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "99",
+      "category": "8",
+      "explanation": "'Air 211 : De Monsieur Gillier.' starts with 'Air,' suggesting a music-related stage direction, indicating a song or tune.",
+      "stgdir": "Air 211 : De Monsieur Gillier.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 11303.03168296814,
+  "model": "gpt-4o"
+}

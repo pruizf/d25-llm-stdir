@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2880,
+      "category": 6,
+      "explanation": "The direction involves pointing out or showing the tragic actors and actresses, indicating non-verbal character interaction.",
+      "stgdir": "En montrant les acteurs et actrices tragiques.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2881,
+      "category": 11,
+      "explanation": "This direction provides a detailed description of the stage setting, describing a salon and its features.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2882,
+      "category": 6,
+      "explanation": "Dorval turns towards Andr\u00e9 and pays attention to him, indicating non-verbal interaction.",
+      "stgdir": "Ici Dorval se retourne du c\u00f4t\u00e9 d'Andr\u00e9, et lui donne attention.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2883,
+      "category": 5,
+      "explanation": "The word 'sort' indicates that a character is leaving the stage, which classifies as an exit.",
+      "stgdir": "Elle sort avec Toinette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2884,
+      "category": 10,
+      "explanation": "The action of taking off and putting on gloves involves manipulation of an object.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2885,
+      "category": 12,
+      "explanation": "The direction indicates the addressee of a speech, using 'Au Courtisan' to designate the target.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2886,
+      "category": 11,
+      "explanation": "This direction describes the stage setting, specifically Mount Aetna and its surroundings.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Mont Aetna environn\u00e9 d'\u00e9paisses for\u00eats.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2887,
+      "category": 6,
+      "explanation": "Ch\u00e9rubin and Fanchette look at each other, indicating non-verbal interaction while forming a mute scene.",
+      "stgdir": "Ch\u00e9rubin et Fanchette se regardent pendant le dialogue suivant, et forment une sc\u00e8ne muette et int\u00e9ressante.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2888,
+      "category": 0,
+      "explanation": "The action of knocking at the door is a general character action, as it does not fit more specific categories.",
+      "stgdir": "On frappe \u00e0 la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2889,
+      "category": 10,
+      "explanation": "The action of gesticulating and mixing up the skein involves interacting with an object, namely the skein.",
+      "stgdir": "En gesticulant il brouille tout l'\u00e9cheveau.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 8022.347211837769,
+  "model": "gpt-4o"
+}

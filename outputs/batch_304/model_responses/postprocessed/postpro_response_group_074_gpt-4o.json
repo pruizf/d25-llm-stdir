@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "740",
+      "category": "10",
+      "explanation": "The action described is the character tuning a guitar, which involves interaction with an object, hence classified under the 'object' category.",
+      "stgdir": "Il accorde sa guitare.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "741",
+      "category": "7",
+      "explanation": "The action of moving towards the small door is a movement on stage but does not involve exiting, so it is classified under the 'movement' category.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "742",
+      "category": "11",
+      "explanation": "This stage direction describes the physical arrangement and setting of the scene, including furniture, and is therefore classified under the 'setting' category.",
+      "stgdir": "Un salon chez Chameroy, ameublement sans \u00e9l\u00e9gance. Un bureau \u00e0 gauche, \u00e0 droite un canap\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "743",
+      "category": "3",
+      "explanation": "The presence of 'AIR' indicates a song being sung, which falls under the delivery manner of performance, requiring classification under 'delivery'.",
+      "stgdir": "AIR. Paris est au Roi, mon coeur est \u00e0 moi.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "744",
+      "category": "11",
+      "explanation": "The phrase describes the theatrical representation of a city hall's vestibule\u2014information which describes the physical and contextual setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "745",
+      "category": "1",
+      "explanation": "The action of 'Elle se tue' depicts a violent action related to suicide, classified under 'aggression'.",
+      "stgdir": "Elle se tue.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "746",
+      "category": "3",
+      "explanation": "The reference to 'Air' indicates a song or musical component related to the emotion or style of delivery, so it's classified under 'delivery'.",
+      "stgdir": "Air : Le coeur de mon Annette.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "747",
+      "category": "8",
+      "explanation": "The script indicates 'AIR' with a specific name following it, marking a musical piece, hence falls under the 'music' category.",
+      "stgdir": "AIR d'Yelva.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "748",
+      "category": "11",
+      "explanation": "Refers to the setting by mentioning 'same decor as the first act' and the time of day, providing contextual location information.",
+      "stgdir": "M\u00eame d\u00e9cor qu'au premier acte. Huit heures du soir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "749",
+      "category": "8",
+      "explanation": "'Air 172' suggests a specific musical piece or tune number in the script, thus it's categorized under 'music'.",
+      "stgdir": "Air 172 : Je suis Madelon Friquet.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 6932.716608047485,
+  "model": "gpt-4o"
+}

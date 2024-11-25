@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1960",
+      "category": "5",
+      "explanation": "The phrase 'La quittant' indicates that a character is leaving or exiting a scene, fitting the 'exit' category.",
+      "stgdir": "La quittant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1961",
+      "category": "8",
+      "explanation": "The phrase starts with 'AIR,' followed by the music title 'C'est Suson la camarde,' indicating a musical element or tune name is involved, fitting the 'music' category.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1962",
+      "category": "8",
+      "explanation": "The phrase starts with 'AIR,' followed by the music title 'La mort de mon cher p\u00e8re,' signifying that it refers to a tune or musical element, fitting the 'music' category.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1963",
+      "category": "10",
+      "explanation": "The action 'Il ramasse tous ses papiers' involves handling objects, specifically papers, fitting the 'object' category.",
+      "stgdir": "Il ramasse tous ses papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1964",
+      "category": "8",
+      "explanation": "The phrase starts with 'Air,' followed by the music title 'Vous avez raison, la Plante,' indicating that it is related to music or a tune, thus fitting the 'music' category.",
+      "stgdir": "Air : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1965",
+      "category": "5",
+      "explanation": "The phrase 'Elle sort avec Monsieur S\u00e9vin' indicates that a character is exiting or leaving with Mr. S\u00e9vin, fitting the 'exit' category.",
+      "stgdir": "Elle sort avec Monsieur S\u00e9vin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1966",
+      "category": "8",
+      "explanation": "The phrase 'Air 78: Or \u00e9coutez, Petits et Grands' refers to a specific musical tune number and title, fitting the 'music' category.",
+      "stgdir": "Air 78 : Or \u00e9coutez, Petits et Grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1967",
+      "category": "3",
+      "explanation": "The phrase '\u00c0 Lourdis en riant' suggests a character speaks with a certain delivery manner, specifically laughing while addressing Lourdis, fitting the 'delivery' category.",
+      "stgdir": "\u00c0 Lourdis en riant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1968",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Edouard' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Edouard.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1969",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 la Fleur' indicates the addressee of a speech or action, fitting the 'toward' category.",
+      "stgdir": "\u00c0 la Fleur.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 12783.11538696289,
+  "model": "gpt-4o"
+}

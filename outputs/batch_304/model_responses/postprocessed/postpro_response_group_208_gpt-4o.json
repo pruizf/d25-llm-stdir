@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2080",
+      "category": "6",
+      "explanation": "The stage direction 'Il lui met la main dans la poche' involves a non-verbal interaction where one character places their hand into another's pocket.",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2081",
+      "category": "7",
+      "explanation": "The stage direction 'Elle descend.' describes a character's movement, indicating a change in height or position on stage, such as coming down stairs.",
+      "stgdir": "Elle descend.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2082",
+      "category": "6",
+      "explanation": "The stage direction 'En d\u00e9signant celle de droite.' involves non-verbal interaction, specifically pointing or indicating an item or direction.",
+      "stgdir": "En d\u00e9signant celle de droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2083",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Mme Lourdis.' indicates the addressee of a speech or action, directing attention or speech toward Mme Lourdis.",
+      "stgdir": "\u00c0 Mme Lourdis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2084",
+      "category": "10",
+      "explanation": "The stage direction 'Elle s'assoit et attache le gland qui manquait.' involves interaction with an object as the character attaches a missing tassel.",
+      "stgdir": "Elle s'assoit et attache le gland qui manquait.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2085",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Un ancien proverbe nous dit.' starts with 'Air,' indicating it is related to music, specifically the name of a tune.",
+      "stgdir": "Air : Un ancien proverbe nous dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2086",
+      "category": "1",
+      "explanation": "The stage direction 'L\u00e0, Ma\u00eetre Godard le menace, encor, du geste, et Champagne poursuit, apr\u00e8s.' involves aggression as it describes a threatening gesture.",
+      "stgdir": "L\u00e0, Ma\u00eetre Godard le menace, encor, du geste, et Champagne poursuit, apr\u00e8s.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2087",
+      "category": "0",
+      "explanation": "The stage direction 'Elle se jette l'\u00e9p\u00e9e \u00e0 la main entre Aristandre et le Peuple.' involves a general action where a character interposes herself with a sword.",
+      "stgdir": "Elle se jette l'\u00e9p\u00e9e \u00e0 la main entre Aristandre et le Peuple.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2088",
+      "category": "9",
+      "explanation": "The stage direction 'Revenant promptement \u00e0 elle.' has a narrative quality, describing a swift return to her senses or composure.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2089",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 une des dames.' indicates the addressee of a speech or action, directing attention or speech toward one of the ladies.",
+      "stgdir": "\u00c0 une des dames.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 10184.63683128357,
+  "model": "gpt-4o"
+}

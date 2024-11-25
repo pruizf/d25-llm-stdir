@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2110",
+      "category": "10",
+      "explanation": "The stage direction describes the costumes of the pretenders, which falls under the 'object' category as it involves a character's interaction with an object, in this case, their clothing.",
+      "stgdir": "Les trois pr\u00e9tendantes doivent \u00eatre v\u00eatues de blanc",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2111",
+      "category": "9",
+      "explanation": "The stage direction provides a narrative description of a scene involving a genius descending from the sky on a luminous chariot, which indicates a long, narrative quality describing visual elements of the play.",
+      "stgdir": "En m\u00eame temps, on voit descendre des nues un char lumineux sous lequel para\u00eet le g\u00e9nie Beninguet, tout brillant de pierreries.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2112",
+      "category": "0",
+      "explanation": "This describes the soldiers standing up and speaking, which is a general character action not fitting other specific categories, thus it falls under the 'action' category.",
+      "stgdir": "- Trois des autres soldats se lev\u00e8rent, et parl\u00e8rent ainsi au premier :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2113",
+      "category": "12",
+      "explanation": "The stage direction indicates a character speaking towards or addressing another character named \u00c9rise, which is categorized as 'toward'.",
+      "stgdir": "\u00c0 \u00c9rise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2114",
+      "category": "10",
+      "explanation": "The stage direction mentions a character picking up and reading a letter, which involves handling an object, thus categorizing it under 'object'.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2115",
+      "category": "10",
+      "explanation": "This stage direction refers to the character interacting with an object, specifically turning the pages of a book, falling under the 'object' category.",
+      "stgdir": "Feuilletant un volume de ses oeuvres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2116",
+      "category": "10",
+      "explanation": "The stage direction describes a character taking out a wallet from their pocket, which involves manipulation of an object, thus fitting in the 'object' category.",
+      "stgdir": "Il tire un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2117",
+      "category": "6",
+      "explanation": "This stage direction involves a character physically interacting with another by pushing them, which is non-verbal interaction, therefore categorized as 'interaction'.",
+      "stgdir": "Le poussant par les \u00e9paules.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2118",
+      "category": "5",
+      "explanation": "The stage direction indicates that Jean Poquelin exits the cabinet, fitting the 'exit' category as it involves a character leaving the stage.",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2119",
+      "category": "12",
+      "explanation": "The stage direction indicates addressing a character named Diane, falling into the 'toward' category as it specifies the addressee of a speech.",
+      "stgdir": "\u00c0 Diane.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 8488.417863845825,
+  "model": "gpt-4o"
+}

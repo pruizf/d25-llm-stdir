@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2630",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Vasta.' indicates the addressee of a speech, categorizing it under 'toward'.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2631",
+      "category": "8",
+      "explanation": "The direction involves singing, which falls under the category of 'music'.",
+      "stgdir": "On commence \u00e0 chanter des couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2632",
+      "category": "8",
+      "explanation": "The phrase 'Air : Il faut aimer, c'est la loi de Cyth\u00e8re.' indicates a tune name, classifying it as 'music'.",
+      "stgdir": "Air : Il faut aimer, c'est la loi de Cyth\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2633",
+      "category": "10",
+      "explanation": "The direction 'Il se met l'habit.' involves dressing, which is an interaction with an object (clothing), thus categorizing it under 'object'.",
+      "stgdir": "Il se met l'habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2634",
+      "category": "10",
+      "explanation": "The action 'Il lit la lettre bas.' involves interacting with an object (reading a letter), so it falls under 'object'.",
+      "stgdir": "Il lit la lettre bas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2635",
+      "category": "1",
+      "explanation": "The phrase 'Il fait le moulinet avec son \u00e9p\u00e9e et en fait un massacre.' involves violent action, categorizing it as 'aggression'.",
+      "stgdir": "Il fait le moulinet avec son \u00e9p\u00e9e et en fait un massacre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2636",
+      "category": "9",
+      "explanation": "The direction involves sound ('des cris et une marche militaire'), which has a narrative quality, categorizing it as 'narration'.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2637",
+      "category": "9",
+      "explanation": "The direction 'Il demeure quelque temps sans parler.' suggests a passive narrative moment, categorizing it as 'narration'.",
+      "stgdir": "Il demeure quelque temps sans parler.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2638",
+      "category": "7",
+      "explanation": "The phrase 'Il fait un pas pour sortir.' indicates a movement, categorizing it under 'movement'.",
+      "stgdir": "Il fait un pas pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2639",
+      "category": "4",
+      "explanation": "The list of characters implies their entrance onto the stage, thus categorizing it as 'entrance'.",
+      "stgdir": "* Deux dames, Mademoiselle Kerkabon, Dum\u00e9nil, Mademoisolle Saint-Yves, le Huron, Kerkabon, Madame Plougoulin, Mademoiselle des Gu\u00e9rets, deux dames.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 10278.810262680054,
+  "model": "gpt-4o"
+}

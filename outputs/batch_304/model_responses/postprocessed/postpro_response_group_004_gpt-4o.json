@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "40",
+      "category": "0",
+      "explanation": "The phrase 'Il tend l'oreille anxieusement' describes a general character action of listening or paying attention, which falls under the action category.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "10",
+      "explanation": "The action of giving letters, as indicated by 'Il lui donne deux lettres...', involves handling objects, fitting the object category.",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 un tribun' indicates an addressee for speech, which corresponds to the toward category.",
+      "stgdir": "\u00c0 un tribun.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "3",
+      "explanation": "Laughing is an expression of emotion, hence 'Il rit beaucoup' fits into the delivery category.",
+      "stgdir": "Il rit beaucoup.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "10",
+      "explanation": "This action involves taking a letter (an object) and placing it, so it fits the object category.",
+      "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR' indicating a music tune name, thus falling under the music category.",
+      "stgdir": "AIR : Y a coups de pieds, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "8",
+      "explanation": "Similar to the previous item, 'AIR' indicates reference to a music tune, falling under the music category.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Ariarathe' indicates the recipient of an action or message, fitting the toward category.",
+      "stgdir": "\u00c0 Ariarathe",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "12",
+      "explanation": "The direction 'Il s'adresse \u00e0 Ragotin' shows the addressee of a speech or action, correlating with the toward category.",
+      "stgdir": "Il s'adresse \u00e0 Ragotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "11",
+      "explanation": "The phrase 'Il est en prison' provides a context of setting, indicating the location of the character.",
+      "stgdir": "Il est en prison.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 17663.333415985107,
+  "model": "gpt-4o"
+}

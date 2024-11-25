@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "240",
+      "category": "5",
+      "explanation": "The phrase 'Il sort avec Dorante' indicates that a character is exiting the stage with another character, which corresponds to the 'exit' category.",
+      "stgdir": "Il sort avec Dorante.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Adario' suggests that a character is addressing or moving toward someone named Adario, which fits the 'toward' category.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Crispin' indicates the addressee of the speech or action, categorizing it as 'toward.'",
+      "stgdir": "\u00c0 Crispin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": "10",
+      "explanation": "The phrase 'Montrant la lettre' involves an interaction with an object (the letter), thus fitting the 'object' category.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": "6",
+      "explanation": "The action 'Il se retourne vers son fils et lui dit' involves turning towards someone for interaction without specifying verbal or non-verbal, which is closest to 'interaction.'",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": "10",
+      "explanation": "The action 'Arnolphe \u00f4te le chapeau de dessus la t\u00eate d'Alain' is an interaction with an object, specifically handling or manipulating it, fitting the 'object' category.",
+      "stgdir": "Arnolphe \u00f4te le chapeau de dessus la t\u00eate d'Alain.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": "5",
+      "explanation": "The phrase 'Odmar sort' indicates a character's exit from the stage, which fits the 'exit' category.",
+      "stgdir": "Odmar sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": "8",
+      "explanation": "The phrase 'Air Not\u00e9, N\u00b01' refers to a musical element, often indicating the name of a tune, classifying it as 'music.'",
+      "stgdir": "Air Not\u00e9, N\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": "8",
+      "explanation": "The phrase 'Air : Non je ne ferai pas, etc.' denotes a musical tune, signifying it as 'music.'",
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Germeuil' implies a direction or address toward someone named Germeuil, categorizing it as 'toward.'",
+      "stgdir": "\u00c0 Germeuil.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 15854.832410812378,
+  "model": "gpt-4o"
+}

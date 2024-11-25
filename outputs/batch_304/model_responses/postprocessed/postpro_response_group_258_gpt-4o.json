@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2580",
+      "category": "5",
+      "explanation": "The stage direction 'Paquita sort.' indicates a character (Paquita) leaving the stage, which fits the category for exit.",
+      "stgdir": "Paquita sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2581",
+      "category": "8",
+      "explanation": "The stage direction 'AIR: Philis demande son portrait.' references a named tune or a musical piece, as indicated by the word 'AIR'.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2582",
+      "category": "0",
+      "explanation": "The stage direction 'Guillot s'ass\u00eced.' describes a general action where the character Guillot is sitting down. This fits the category for action.",
+      "stgdir": "Guillot s'ass\u00eced.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2583",
+      "category": "0",
+      "explanation": "The stage direction 'Apr\u00e8s avoir encore bu, il dit :' includes drinking, which is an action, fitting the action category.",
+      "stgdir": "Apr\u00e8s avoir encore bu, il dit :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2584",
+      "category": "8",
+      "explanation": "Similar to 2581, 'AIR. Ah ! le bel oiseau maman.' is a reference to a musical piece which is typical for the music category.",
+      "stgdir": "AIR. Ah ! le bel oiseau maman.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2585",
+      "category": "9",
+      "explanation": "The stage direction 'On entend sonner minuit \u00e0 l'horloge de l'h\u00f4tel de ville.' describes a narrative element of hearing a clock strike midnight, fitting the narration category.",
+      "stgdir": "On entend sonner minuit \u00e0 l'horloge de l'h\u00f4tel de ville.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2586",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Cet Oracle est plus fur, etc.' is a reference to a musical piece, denoted by 'Air', fitting the music category.",
+      "stgdir": "Air : Cet Oracle est plus fur, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2587",
+      "category": "8",
+      "explanation": "'L'ouverture continue.' refers to the continuation of a musical piece (the overture), fitting the music category.",
+      "stgdir": "L'ouverture continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2588",
+      "category": "6",
+      "explanation": "The stage direction 'Il prend Hector \u00e0 la cravate.' involves taking hold of Hector by the tie, which is a non-verbal interaction, fitting the interaction category.",
+      "stgdir": "Il prend Hector \u00e0 la cravate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2589",
+      "category": "8",
+      "explanation": "'Air : Honor\u00e9 du brillant poste.' mentions Air, indicating a musical reference, fitting the music category.",
+      "stgdir": "Air : Honor\u00e9 du brillant poste.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 9218.67561340332,
+  "model": "gpt-4o"
+}

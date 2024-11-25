@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2870",
+      "category": "12",
+      "explanation": "The phrase 'Au petit Befor' indicates the addressee of a speech or action.",
+      "stgdir": "Au petit Befor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2871",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating it is a music-related direction with 'R\u00e9veillez-vous belle endormie' being the tune name.",
+      "stgdir": "AIR. R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2872",
+      "category": "10",
+      "explanation": "This direction involves giving a paper (object) to another character.",
+      "stgdir": "Il donne le papier d'\u00e9critures du petit Dupr\u00e9 \u00e0 Madame Befor, quelle garde.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2873",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Marthe' indicates the addressee of a speech or action.",
+      "stgdir": "\u00c0 Marthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2874",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Colin' indicates the addressee of a speech or action.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2875",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 G\u00e9ronte de sa voix ordinaire' indicates the addressee of a speech, with a possible hint toward how it is delivered.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2876",
+      "category": "6",
+      "explanation": "The character perceives or sees the toilette of their m\u00e8re, which is a non-verbal interaction with an object.",
+      "stgdir": "Apercevant la toilette de sa m\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2877",
+      "category": "5",
+      "explanation": "The phrase 'Il se retire avec Clotilde' indicates the character exits the stage.",
+      "stgdir": "Il se retire avec Clotilde.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2878",
+      "category": "8",
+      "explanation": "The stage direction starts with 'AIR', indicating it is a music-related direction with 'de Joconde' being the tune name.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2879",
+      "category": "3",
+      "explanation": "The single word 'Haut' most likely describes the manner of delivery of speech or sound, indicating it is loud.",
+      "stgdir": "Haut",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 14595.430135726929,
+  "model": "gpt-4o"
+}

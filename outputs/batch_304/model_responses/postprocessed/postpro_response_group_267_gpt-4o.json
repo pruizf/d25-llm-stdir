@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2670",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant Crispin.' indicates a non-verbal character interaction, specifically pointing at or directing attention towards Crispin.",
+      "stgdir": "Montrant Crispin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2671",
+      "category": "8",
+      "explanation": "The stage direction references a specific tune or piece of music, as indicated by the term 'Air'.",
+      "stgdir": "Air : Du vaudeville de Madame Scarron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2672",
+      "category": "6",
+      "explanation": "Similar to 2670, 'Montrant Trissotin.' involves a non-verbal interaction by directing attention to Trissotin.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2673",
+      "category": "3",
+      "explanation": "The direction 'Ils rient.' describes the manner of delivery, indicating laughter as a vocal expression of emotion.",
+      "stgdir": "Ils rient.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2674",
+      "category": "12",
+      "explanation": "This stage direction indicates who is being addressed or towards whom an action is directed, hence categorized as 'toward'.",
+      "stgdir": "Au Crocheteur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2675",
+      "category": "10",
+      "explanation": "The direction involves a character interacting with an object, specifically 'mettant la main sur son \u00e9p\u00e9e', which involves handling an object (the sword).",
+      "stgdir": "Alexandre mettant la main sur son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2676",
+      "category": "8",
+      "explanation": "This refers to another tune, as indicated by 'Air 91', thus falling under the music category.",
+      "stgdir": "Air 91 : \u00d4 gu\u00e9, lon-la, lan-laire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2677",
+      "category": "1",
+      "explanation": "The stage direction describes a violent action, specifically killing Caesar, which classifies it as aggression.",
+      "stgdir": "Ils sortent tous avec le poignard sanglant \u00e0 la main apr\u00e8s avoir tu\u00e9 C\u00e9sar.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2678",
+      "category": "4",
+      "explanation": "The direction 'Entr\u00e9e d'un Gille.' indicates a character entering the stage.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2679",
+      "category": "8",
+      "explanation": "The presence of 'AIR' suggests this direction is describing a piece of music or tune.",
+      "stgdir": "AIR. Au bout du monde, etc.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 8079.9455642700195,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2240",
+      "category": "7",
+      "explanation": "The stage direction 'Il se dirige vers le secr\u00e9taire.' indicates movement towards an object or location, which fits the 'movement' category.",
+      "stgdir": "Il se dirige vers le secr\u00e9taire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2241",
+      "category": "9",
+      "explanation": "The stage direction 'Apr\u00e8s un instant de silence.' provides a narrative quality describing a pause, suitable for the 'narration' category.",
+      "stgdir": "Apr\u00e8s un instant de silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2242",
+      "category": "12",
+      "explanation": "The stage direction 'A Armande.' indicates the addressee of a speech, fitting the 'toward' category.",
+      "stgdir": "A Armande.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2243",
+      "category": "8",
+      "explanation": "The stage direction 'Le chant est interrompu.' refers to the interruption of a song, relating it to 'music.'",
+      "stgdir": "Le chant est interrompu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2244",
+      "category": "10",
+      "explanation": "The stage direction 'Il \u00f4te la perruque.' describes interaction with an object (removing a wig), fitting the 'object' category.",
+      "stgdir": "Il \u00f4te la perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2245",
+      "category": "7",
+      "explanation": "The stage direction 'Puis s'avan\u00e7ant \u00e0 G\u00e9landre.' describes movement towards someone, fitting the 'movement' category.",
+      "stgdir": "Puis s'avan\u00e7ant \u00e0 G\u00e9landre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2246",
+      "category": "8",
+      "explanation": "The stage direction 'On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments.' describes music or sounds, suitable for the 'music' category.",
+      "stgdir": "On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2247",
+      "category": "9",
+      "explanation": "The stage direction 'Dorval continuant toujours de se taire, Constance ajoute :' provides a narrative quality about character actions and interactions, fitting the 'narration' category.",
+      "stgdir": "Dorval continuant toujours de se taire, Constance ajoute :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2248",
+      "category": "10",
+      "explanation": "The stage direction 'Il s'appuie sur le gu\u00e9ridon.' involves interaction with an object (leaning on a table), fitting the 'object' category.",
+      "stgdir": "Il s'appuie sur le gu\u00e9ridon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2249",
+      "category": "4",
+      "explanation": "The stage direction 'Elle entre dans son cabinet.' describes a character entering, fitting the 'entrance' category.",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 9921.002864837646,
+  "model": "gpt-4o"
+}

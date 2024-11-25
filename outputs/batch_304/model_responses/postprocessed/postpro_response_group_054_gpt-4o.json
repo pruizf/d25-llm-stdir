@@ -1,0 +1,76 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "540",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 ses Chasseurs' indicates the addressee of a speech or directive, which matches the 'toward' category.",
+      "stgdir": "\u00c0 ses Chasseurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "541",
+      "category": "0",
+      "explanation": "The term 'BRANLE' suggests a type of dance or movement, which does not clearly fall into any other category, thus classifying it as a general action.",
+      "stgdir": "BRANLE, etc.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "542",
+      "category": "8",
+      "explanation": "The direction 'Air : D'un Z\u00e9phir mutin' specifies a tune or musical piece, fitting the 'music' category.",
+      "stgdir": "Air : D'un Z\u00e9phir mutin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "543",
+      "category": "12",
+      "explanation": "The phrase '\u00c0 Monsieur Delamarre' indicates direction or speech toward a character, aligning with the 'toward' category.",
+      "stgdir": "\u00c0 Monsieur Delamarre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "544",
+      "category": "0",
+      "explanation": "The action 'Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour' involves opening and reading, which is classified as a general action.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "545",
+      "category": "10",
+      "explanation": "The direction 'Changeant de perruque' involves handling an object, which fits the object category.",
+      "stgdir": "Changeant de perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "546",
+      "category": "8",
+      "explanation": "The phrase 'Air : du Ballet des Pierrots' indicates a musical piece, fitting the 'music' category.",
+      "stgdir": "Air : du Ballet des Pierrots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "547",
+      "category": "1",
+      "explanation": "The action 'Il jette Chasteaufort \u00e0 terre d'un coup de pied' is a violent hitting action, which fits in the 'aggression' category.",
+      "stgdir": "Il jette Chasteaufort \u00e0 terre d'un coup de pied.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "548",
+      "category": "3",
+      "explanation": "The phrase 'Elle regarde Marton d'un air courrouc\u00e9' involves an expression of emotion or delivery manner, fitting the 'delivery' category.",
+      "stgdir": "Elle regarde Marton d'un air courrouc\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "549",
+      "category": "8",
+      "explanation": "'Air : Oui mon cher Favart, \u00e0 tes yeux' describes a musical piece, placing it in the 'music' category.",
+      "stgdir": "Air : Oui mon cher Favart, \u00e0 tes yeux.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 10429.841756820679,
+  "model": "gpt-4o"
+}
