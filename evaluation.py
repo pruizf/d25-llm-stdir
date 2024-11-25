@@ -3,6 +3,7 @@
 import argparse
 from importlib import reload
 import os
+import random
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -66,17 +67,25 @@ def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
                   group_size, data_size, batch_sfx=None):
   assert color_mode in clrmap_dict
   sys_jmt = ut.extract_category_from_model_output_safe(res_dir, group_size, data_size, mode=prompt_type)
-  #gold_df = pd.read_csv(golden_fn, sep=cf.sep_test)
   # also do dictionary here for ref_jmt, based on index as key, categNbr as labels
-  #ref_jmt = golden_df['categNbr'].tolist()
   ref_jmt = golden_df['categNbr'].to_dict()
   # now that both ref and sys results are indexed by stgdir number, compare
-  # and fill missing numbers with the majority category
+  # and fill missing numbers with a random category
+  # missing stgdir numbers
+  ref_stgdir_nbrs = set(ref_jmt.keys())
+  sys_stgdir_nbrs = set(sys_jmt.keys())
+  missing_stgdir_nbrs = ref_stgdir_nbrs - sys_stgdir_nbrs
+  for ms in missing_stgdir_nbrs:
+    rand_choice = random.choice(cf.categs_as13)
+    sys_jmt[ms] = cf.categs_as13.index(rand_choice)
+  ref_jmt_as_list = [ref_jmt[stgdir] for stgdir in sorted(ref_jmt.keys())]
+  sys_jmt_as_list = [sys_jmt[stgdir] for stgdir in sorted(sys_jmt.keys())]
+  # actual evaluation
   labels = cf.categs_as13
-  classif_report = classification_report(ref_jmt, sys_jmt, target_names=labels, digits=3)
-  plot_confusion_matrix(sys_jmt, ref_jmt, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
-  plain_cm = confusion_matrix(ref_jmt, sys_jmt, normalize="true")
-  return {"sys_res": sys_jmt, "ref_res": ref_jmt, "cm": plain_cm, "cr": classif_report}
+  classif_report = classification_report(ref_jmt_as_list, sys_jmt_as_list, target_names=labels, digits=3)
+  plot_confusion_matrix(sys_jmt_as_list, ref_jmt_as_list, labels, color_mode, batch_sfx=batch_sfx, normalize="true")
+  plain_cm = confusion_matrix(ref_jmt_as_list, sys_jmt_as_list, normalize="true")
+  return {"sys_res": sys_jmt_as_list, "ref_res": ref_jmt_as_list, "cm": plain_cm, "cr": classif_report}
 
 
 if __name__ == "__main__":
@@ -86,9 +95,9 @@ if __name__ == "__main__":
   parser.add_argument("model", help="Model used for generating the response")
   parser.add_argument("run_mode", choices=["individual", "grouped"],
                       help="Whether prompt contained a single stage direction or several")
-  parser.add_argument("--safe_eval", "-s",
+  parser.add_argument("--safe_eval", "-s", action="store_true",
                       help="Compares stage direction number in reference and results, "
-                           "to account for cases where model skips some stage directions", type=int)
+                           "to account for cases where model skips some stage directions")
   args = parser.parse_args()
   assert args.model in cf.llm_list, f"Model {args.model} not in {cf.llm_list}"
   assert args.batch_name in os.listdir(cf.response_base_dir), f"Results for batch {args.batch_name} not available"
@@ -108,7 +117,9 @@ if __name__ == "__main__":
   golden = ut.get_and_format_data(args.corpus, corpus_sep)
 
   if args.safe_eval:
-    eval_data = eval_res_safe(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
+    eval_data = eval_res_safe(results_dir, golden, args.model, args.run_mode,
+                              10, 2923,
+                              batch_sfx=args.batch_name.replace("batch_", ""))
   else:
     eval_data = eval_res(results_dir, golden, args.model, args.run_mode, batch_sfx=args.batch_name.replace("batch_", ""))
   print(eval_data["cr"])

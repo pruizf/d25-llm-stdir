@@ -101,7 +101,7 @@ We also tested prompts where, instead of asking to classify a single stage direc
 | 304 |en|        10        |zero-shot|       1        |       gpt-4o        |   0.70   |    0.739    | 0.733 |         |
 | 304 |en|        10        |zero-shot|       1        |       gpt-4o        |   0.70   |    0.739    | 0.733 |         |
 | 305 |en|        10        |zero-shot| 0.3 stratified | mistral-large |   xxx    |     xxx     |  xxx  |         |
-| 306 |en|        10        |zero-shot|       1        | mistral-large |   xxx    |     xxx     |  xxx  | 5812.24 |
+| 306 |en|        10        |zero-shot|       1        | mistral-large |   0.69   |    0.726    | 0.726 | 5812.24 |
 | 307 |en|        75        |zero-shot|       1        | mistral-large |  0.696   |    0.745    | 0.735 | 2510.22 |
 
 

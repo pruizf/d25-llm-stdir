@@ -162,7 +162,7 @@ def extract_category_from_model_output_safe(resdir: str, grsize: int, dtsize: in
     group_res = safe_extract(jo["result_list"], grsize, dtsize)
     for ke in group_res.keys():
       assert ke not in all_res, f"Stage direction {ke} already in the results"
-      all_res.update(group_res)
+    all_res.update(group_res)
     #for result in jo["result_list"]:
     #  all_res.append(int(result["category"]))
   return all_res
