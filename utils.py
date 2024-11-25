@@ -148,7 +148,8 @@ def extract_category_from_model_output_safe(resdir: str, grsize: int, dtsize: in
   Get OpenAI (or Mistral) classification results into a list. Assumes that the response files
   contain a JSON field "category" with the category number.
   """
-  #TODO make the individual mode "safe" too
+  #TODO make the individual mode "safe" too (but so far only grouped
+  # results needed the "safe" extraction)
   assert mode == "grouped"
   all_res = {}
   for fn in sorted(os.listdir(resdir)):
@@ -156,15 +157,10 @@ def extract_category_from_model_output_safe(resdir: str, grsize: int, dtsize: in
       continue
     with open(os.path.join(resdir, fn), "r") as f:
       jo = json.load(f)
-      #if mode == "individual":
-        # all_res.append(int(jo["category"]))
-      # else:
     group_res = safe_extract(jo["result_list"], grsize, dtsize)
     for ke in group_res.keys():
       assert ke not in all_res, f"Stage direction {ke} already in the results"
     all_res.update(group_res)
-    #for result in jo["result_list"]:
-    #  all_res.append(int(result["category"]))
   return all_res
 
 

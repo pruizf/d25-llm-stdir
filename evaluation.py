@@ -117,6 +117,8 @@ if __name__ == "__main__":
   golden = ut.get_and_format_data(args.corpus, corpus_sep)
 
   if args.safe_eval:
+    #TODO these arguments should be dynamic
+    # read group size from results and data size from golden
     eval_data = eval_res_safe(results_dir, golden, args.model, args.run_mode,
                               10, 2923,
                               batch_sfx=args.batch_name.replace("batch_", ""))
