@@ -65,12 +65,13 @@ def eval_res(res_dir, golden_df, color_mode, prompt_type, batch_sfx=None):
 
 def eval_res_safe(res_dir, golden_df, color_mode, prompt_type,
                   group_size, data_size, batch_sfx=None, previous_categs=None):
+  #TODO remove group_size and data_size as they are unused
   assert color_mode in clrmap_dict
   sys_jmt = ut.extract_category_from_model_output_safe(res_dir, group_size, data_size, mode=prompt_type)
   # also do dictionary here for ref_jmt, based on index as key, categNbr as labels
   ref_jmt = golden_df['categNbr'].to_dict()
   # now that both ref and sys results are indexed by stgdir number, compare to
-  # figure out missing numbers. Fill inmissing numbers with a random category
+  # figure out missing numbers. Fill in missing numbers with a random category
   ref_stgdir_nbrs = set(ref_jmt.keys())
   sys_stgdir_nbrs = set(sys_jmt.keys())
   missing_stgdir_nbrs = ref_stgdir_nbrs - sys_stgdir_nbrs
@@ -129,7 +130,7 @@ if __name__ == "__main__":
       with open(os.path.join("logs", f"added_categs_{args.batch_name}.txt"), "r") as in_ac:
         added_categs = in_ac.readlines()
         added_categs = {int(l.split("\t")[0].strip()): int(l.split("\t")[1].strip()) for l in added_categs}
-    #TODO these arguments should be dynamic
+    #TODO these arguments should be dynamic (actually, they are unused and should be removed)
     # read group size from results and data size from golden
     eval_data = eval_res_safe(results_dir, golden, args.model, args.run_mode,
                               10, 2923,
