@@ -100,13 +100,14 @@ We also tested prompts where, instead of asking to classify a single stage direc
 | 303 |       en        |        10        |zero-shot|       1        |  gpt-4o-mini  |   0.60   |    0.66     | 0.64  |            |
 | 304 |       en        |        10        |zero-shot|       1        |    gpt-4o     |   0.70   |    0.739    | 0.733 |            |
 | 304 |       en        |        10        |zero-shot|       1        |    gpt-4o     |   0.70   |    0.739    | 0.733 |            |
-| 305 |       en        |        10        |zero-shot| 0.3 stratified | mistral-large |   xxx    |     xxx     |  xxx  |            |
+| 305 |       en        |        10        |zero-shot| 0.3 stratified | mistral-large |  0.648   |    0.703    | 0.706 |            |
 | 306 |       en        |        10        |zero-shot|       1        | mistral-large |   0.69   |    0.726    | 0.726 |  5812.24   |
 | 307 |       en        |        75        |zero-shot|       1        |    gpt-4o     |  0.696   |    0.745    | 0.735 |  2510.22   |
 | 308 |       fr        |        75        |zero-shot|       1        | mistral-large |  0.708   |    0.74     | 0.736 | 5244.82 |
 
-305 bad batch (res does not match ref)
-306 once so, but now fixed
+305 once bad batch (res does not match ref), but fixed
+
+306 same, now fixed
 
 Note that Mistral client sleeps for one second after each call.
 
