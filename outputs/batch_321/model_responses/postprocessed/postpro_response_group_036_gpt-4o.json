@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2700",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale o\u00f9 le personnage d\u00e9sarme quelqu'un et reconna\u00eet cette personne, il s'agit donc d'une interaction.",
+      "stgdir": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2701",
+      "category": "8",
+      "explanation": "Il est probable que ceci r\u00e9f\u00e8re \u00e0 un couplet ou un refrain r\u00e9p\u00e9t\u00e9 dans la partition musicale.",
+      "stgdir": "Quatre fois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2702",
+      "category": "12",
+      "explanation": "La didascalie indique que l'action ou la phrase est dirig\u00e9e vers 'Mercure'.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2703",
+      "category": "8",
+      "explanation": "La didascalie indique qu'il s'agit d'une chanson, qui fait partie de la musique de la sc\u00e8ne.",
+      "stgdir": "Chanson",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2704",
+      "category": "1",
+      "explanation": "La didascalie d\u00e9crit une action violente o\u00f9 un personnage se tue avec des coups de poignards, ce qui la classe comme una aggression.",
+      "stgdir": "Il se tue de ceux coups de poignards.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2705",
+      "category": "7",
+      "explanation": "La didascalie d\u00e9crit un mouvement du personnage alors qu'il va pour entrer quelque part.",
+      "stgdir": "Il va pour entrer chez son Colonel.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2706",
+      "category": "2",
+      "explanation": "Des personnages qui se regardent souvent est interpr\u00e9t\u00e9 comme un apart\u00e9.",
+      "stgdir": "En se regardant.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2707",
+      "category": "6",
+      "explanation": "Le personnage montre Br\u00e9court, ce qui est une forme d'interaction non verbale.",
+      "stgdir": "Montrant Br\u00e9court.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2708",
+      "category": "12",
+      "explanation": "Cette didascalie semble indiquer que l'action est adress\u00e9e vers le 'gar\u00e7on qui porte le fauteuil'.",
+      "stgdir": "Au gar\u00e7on qui porte le fauteuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2709",
+      "category": "12",
+      "explanation": "La didascalie indique une direction vers 'Clarine'.",
+      "stgdir": "\u00c0 Clarine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2710",
+      "category": "12",
+      "explanation": "La didascalie indique que quelque chose est dirig\u00e9 vers 'la Folie'.",
+      "stgdir": "\u00c0 la Folie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2711",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant qu'il s'agit d'une r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "AIR. Not\u00e9 N\u00b04.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2712",
+      "category": "10",
+      "explanation": "La didascalie d\u00e9crit une interaction avec des objets, en retirant et en remontant la lettre.",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2713",
+      "category": "4",
+      "explanation": "Julie entre en sc\u00e8ne, ce qui est clairement une entr\u00e9e.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2714",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', faisant r\u00e9f\u00e9rence \u00e0 la musique avec le titre 'Une jeune Pucelle, etc.'.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2715",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale alors que le personnage regarde autour de lui et voit du sang.",
+      "stgdir": "Il regarde autour de lui, et vois du sang.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2716",
+      "category": "9",
+      "explanation": "La didascalie est longue et d\u00e9crit le d\u00e9cor de la sc\u00e8ne, ce qui en fait une narration.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un salon, plusieurs tableaux sont suspendus \u00e7\u00e0 et l\u00e0. Un portrait de femme, plac\u00e9 sur un chevalet, est plus en vue que les autres. Th\u00e9odore est assis devant une table, sur laquelle il y a du papier, une \u00e9critoire, de la musique, etc. Dubois arrange l'appartement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2717",
+      "category": "7",
+      "explanation": "La didascalie d\u00e9crit un mouvement o\u00f9 \u00c9tienne recule et se sauve.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2718",
+      "category": "8",
+      "explanation": "Ceci inclut 'Refrain de l'AIR', indiquant une r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Refrain de l'AIR 72 : Morguienne de vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2719",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', ce qui indique qu'elle fait r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Air : Souvenez-vous en.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2720",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet, une lettre, en la cachetant.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2721",
+      "category": "4",
+      "explanation": "Camille rentre, c'est donc une entr\u00e9e.",
+      "stgdir": "Camille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2722",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le changement de d\u00e9cor en indiquant pr\u00e9cis\u00e9ment le nouvel espace sc\u00e9nique.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2723",
+      "category": "12",
+      "explanation": "La didascalie indique que l'action est dirig\u00e9e vers 'le Grand Bibi'.",
+      "stgdir": "Au Grand Bibi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2724",
+      "category": "8",
+      "explanation": "La didascalie mentionne 'Air', indiquant une r\u00e9f\u00e9rence \u00e0 la musique intitul\u00e9e 'De l'Anonyme'.",
+      "stgdir": "Air De l'Anonyme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2725",
+      "category": "6",
+      "explanation": "D\u00e9mophon montre la promesse, ce qui est une interaction non verbale.",
+      "stgdir": "D\u00e9mophon, lui montrant la promesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2726",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', ce qui indique une section musicale.",
+      "stgdir": "AIR :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2727",
+      "category": "8",
+      "explanation": "Cette didascalie commence par 'Air', donc elle se r\u00e9f\u00e8re \u00e0 la musique.",
+      "stgdir": "Air : La vieille m\u00e9thode.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2728",
+      "category": "12",
+      "explanation": "La didascalie indique que quelque chose est dirig\u00e9 vers 'Calotin'.",
+      "stgdir": "\u00c0 Calotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2729",
+      "category": "12",
+      "explanation": "Indication de direction vers 'le Ma\u00eetre d'H\u00f4tel'.",
+      "stgdir": "Au Ma\u00eetre d'H\u00f4tel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2730",
+      "category": "5",
+      "explanation": "Phoenix sort de sc\u00e8ne, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2731",
+      "category": "0",
+      "explanation": "Scarron continue \u00e0 \u00e9crire, action neutre qui s'aligne avec la cat\u00e9gorie d'action g\u00e9n\u00e9rale.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2732",
+      "category": "12",
+      "explanation": "Cette didascalie montre que quelque chose est adress\u00e9 \u00e0 'Arsace'.",
+      "stgdir": "\u00c0 Arsace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2733",
+      "category": "9",
+      "explanation": "La didascalie d\u00e9crit un ph\u00e9nom\u00e8ne naturel et son impact sur la sc\u00e8ne.",
+      "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2734",
+      "category": "4",
+      "explanation": "Edgard entre, ce qui indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Edgard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2735",
+      "category": "0",
+      "explanation": "Le personnage s'assied, ce qui est une action.",
+      "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2736",
+      "category": "12",
+      "explanation": "Indication que des paroles ou actions sont dirig\u00e9es vers 'Arons'.",
+      "stgdir": "\u00c0 Arons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2737",
+      "category": "3",
+      "explanation": "Indication que tous reprennent un refrain, ce qui fait appel \u00e0 la notion de livraison musicale.",
+      "stgdir": "Tous reprennent le rondeau.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2738",
+      "category": "8",
+      "explanation": "Commence par 'Air', indiquant une r\u00e9f\u00e9rence musicale nomm\u00e9e 'Branle de Metz'.",
+      "stgdir": "Air 18 : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2739",
+      "category": "8",
+      "explanation": "Indication claire avec 'AIR' suivant le titre de la musique, 'Du pas redoubl\u00e9 de l'Infanterie'.",
+      "stgdir": "AIR : Du pas redoubl\u00e9 de l'Infanterie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2740",
+      "category": "12",
+      "explanation": "Vers 'Marco', indiquant la destination d'une action ou parole.",
+      "stgdir": "\u00c0 Marco.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2741",
+      "category": "4",
+      "explanation": "\u00c9lise entre, constituant une entr\u00e9e.",
+      "stgdir": "\u00c9lise entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2742",
+      "category": "6",
+      "explanation": "Les personnages s'embrassent, ce qui est une interaction physique.",
+      "stgdir": "Ils s'embrassent",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2743",
+      "category": "12",
+      "explanation": "Destination d'une action ou parole vers 'B\u00eame'.",
+      "stgdir": "\u00c0 B\u00eame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2744",
+      "category": "8",
+      "explanation": "Commence par 'AIR', indiquant une r\u00e9f\u00e9rence musicale compl\u00e8te.",
+      "stgdir": "AIR : Je n'en dirai pas davantage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2745",
+      "category": "6",
+      "explanation": "Regard vers Rouqu\u00e9rolle, constituant une interaction non verbale.",
+      "stgdir": "Regardant Rouqu\u00e9rolle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2746",
+      "category": "3",
+      "explanation": "Le personnage se montre penaud, une \u00e9motion d\u00e9crite dans la livraison.",
+      "stgdir": "Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2747",
+      "category": "8",
+      "explanation": "Le titre commence par 'AIR', une r\u00e9f\u00e9rence explicite \u00e0 la musique.",
+      "stgdir": "AIR : Tique tique taque lon lan la.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2748",
+      "category": "6",
+      "explanation": "Indique une action collective ou conjointe par Pluton et Proserpine ensemble.",
+      "stgdir": "Pluton et Proserpine ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2749",
+      "category": "12",
+      "explanation": "Indication de parole ou action dirig\u00e9e vers 'Dorante'.",
+      "stgdir": "\u00c0 Dorante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2750",
+      "category": "5",
+      "explanation": "Gallas sort, correspondant \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Gallas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2751",
+      "category": "10",
+      "explanation": "D\u00e9crit une s\u00e9rie d'actions avec des objets comme une \u00e9chelle et une fl\u00fbte.",
+      "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2752",
+      "category": "12",
+      "explanation": "Action ou r\u00e9plique dirig\u00e9e vers 'La Brie'.",
+      "stgdir": "\u00c0 La Brie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2753",
+      "category": "2",
+      "explanation": "Regarde 'Gaston', ce qui pourrait \u00eatre vu comme un apart\u00e9.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2754",
+      "category": "1",
+      "explanation": "Arlequin est frapp\u00e9, ce qui est une repr\u00e9sentation de la violence.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2755",
+      "category": "7",
+      "explanation": "Indication d'un mouvement du personnage, le garde s'\u00e9loigne.",
+      "stgdir": "Le garde s'\u00e9loigne un moment.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2756",
+      "category": "4",
+      "explanation": "Salviati entre dans le palais, ce qui est une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Salviati entre dans le palais.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2757",
+      "category": "8",
+      "explanation": "Commence par 'Air', indiquant une r\u00e9f\u00e9rence musicale claire.",
+      "stgdir": "Air : Eh! zon, zon, zon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2758",
+      "category": "9",
+      "explanation": "Un coup est frapp\u00e9, utile pour la narration afin de lier un bruit avec l'action.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2759",
+      "category": "4",
+      "explanation": "Le terme 'Premi\u00e8re entr\u00e9e' indique la premi\u00e8re entr\u00e9e de tous les personnages ou objets not\u00e9s.",
+      "stgdir": "Premi\u00e8re entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2760",
+      "category": "0",
+      "explanation": "La didascalie d\u00e9crit une s\u00e9rie d'actions impliquant une poup\u00e9e, ce qui n'entre pas dans d'autres cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2761",
+      "category": "0",
+      "explanation": "Le personnage veut lire, ce qui est une action.",
+      "stgdir": "Il veut lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2762",
+      "category": "2",
+      "explanation": "Le personnage est en train de regarder, action souvent li\u00e9e \u00e0 des apart\u00e9s.",
+      "stgdir": "Regardant.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2763",
+      "category": "3",
+      "explanation": "Le personnage fait un pr\u00e9lude et chante, alors qu'il interpr\u00e8te la musique, ce qui est un aspect d'une livraison artistique.",
+      "stgdir": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0:",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2764",
+      "category": "12",
+      "explanation": "R\u00e9f\u00e9rence de direction vers 'N\u00e9optol\u00e9mus'.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2765",
+      "category": "11",
+      "explanation": "Description de l'espace sc\u00e9nique explicit\u00e9e par 'Au palais du roi'.",
+      "stgdir": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2766",
+      "category": "8",
+      "explanation": "Nommer 'AIR de la Somnambule', c'est une r\u00e9f\u00e9rence musicale explicite.",
+      "stgdir": "AIR de la Somnambule.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2767",
+      "category": "7",
+      "explanation": "Indication de mouvement relatif alors que quelqu'un se rapproche.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2768",
+      "category": "8",
+      "explanation": "Commence par 'AIR', indiquant une indication musicale.",
+      "stgdir": "AIR : Sans dessus desssous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2769",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence musicale indiqu\u00e9e par 'Air 69'.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2770",
+      "category": "7",
+      "explanation": "Indication de mouvement vers le Chevalier.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2771",
+      "category": "5",
+      "explanation": "Le chevalier sort d'un lieu, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2772",
+      "category": "6",
+      "explanation": "Le personnage observe Terville, ce qui est une interaction non verbale.",
+      "stgdir": "Observant Terville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2773",
+      "category": "0",
+      "explanation": "Le personnage repeint, fonction se liant \u00e0 l'action.",
+      "stgdir": "Elle repeint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2774",
+      "category": "6",
+      "explanation": "Elle continue de regarder, c'est une interaction non verbale.",
+      "stgdir": "Elle le regarde toujours.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 32838.34910392761,
+  "model": "gpt-4o"
+}

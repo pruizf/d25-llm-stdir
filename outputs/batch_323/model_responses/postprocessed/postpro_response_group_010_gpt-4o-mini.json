@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "750",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Henri).",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "751",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Antenor).",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "752",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the Queen).",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "753",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Colin).",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "754",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the two courtiers).",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "755",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the Courtier).",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "756",
+      "category": "0",
+      "explanation": "Refers to a character performing an action (resuming his exordium).",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "757",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Clidamis).",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "758",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Alain).",
+      "stgdir": "\u00c0 Alain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "759",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Madame Dangeville).",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "760",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction (L\u00e9onore offers an interview to Julie).",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the father of the family).",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Philom\u00e8le).",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Adario).",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Crassus).",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to \u00c9liante and Philinte).",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Placide).",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Tatonet).",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the Vidame).",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "11",
+      "explanation": "Describes a setting (in the parterre).",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "770",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Delval).",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Aricie).",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Euph\u00e9mon fils).",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "773",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Ardenie).",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "774",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Pierrot).",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "775",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to one of the Arabs).",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "776",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Lycandre).",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "777",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to M\u00e9rione).",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "778",
+      "category": "0",
+      "explanation": "Refers to the action of turning towards his son and speaking (he turns towards his son and says).",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "779",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Ibrahim).",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "780",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the Shepherds).",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "781",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Philox\u00e8ne).",
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "782",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Vasta).",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "783",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Estelle).",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "784",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Candide).",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "785",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Darie).",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "786",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Ninias).",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "787",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction (Isabelle touching her forehead with her hand).",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "788",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Genseric).",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "789",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the duke of Alcala).",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "790",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the laborer).",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Mowbrai).",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the Inspector of Buildings).",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "2",
+      "explanation": "Character addresses the audience (turning towards the Spectators).",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Lisimon).",
+      "stgdir": "\u00c0 Lisimon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to C\u00e9lie, Galimatias).",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Tib\u00e8re).",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Hernani).",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the lackey).",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Dariolette).",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "800",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Marlot).",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Colette).",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": "3",
+      "explanation": "Describes the delivery manner (to G\u00e9ronte, in his ordinary voice).",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the women).",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Monsieur de Chambre).",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to her husband).",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Hortensius).",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Guillaume).",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to female slaves of his sex).",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Margot).",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "810",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Fr\u00e9missin).",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "811",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the Savage).",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "812",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (speaking to the prince).",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "813",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to C\u00e9lie).",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "814",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (he speaks to Dionys).",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "815",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Poquelin).",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "816",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Marat, Robespierre, Manuel).",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "817",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Gaston).",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "818",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the marquis).",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "819",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the other advisers).",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "820",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Hortensius also).",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the Countess).",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Mercury).",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to the King, showing Thamar).",
+      "stgdir": "Au Roi, en lui montrant Thamar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech (to Coucy).",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 32528.63574028015,
+  "model": "gpt-4o-mini"
+}

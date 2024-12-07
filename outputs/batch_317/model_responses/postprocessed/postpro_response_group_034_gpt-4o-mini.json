@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2550",
+      "category": "12",
+      "explanation": "Il s'agit d'une adresse \u00e0 Sophie, indiquant \u00e0 qui le personnage parle.",
+      "stgdir": "\u00c0 Sophie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2551",
+      "category": "1",
+      "explanation": "Cette direction d\u00e9crit un acte de violence o\u00f9 Don Juan arrache l'\u00e9p\u00e9e et la brise.",
+      "stgdir": "Don Juan lui arrache l'\u00e9p\u00e9e des mains et la brise.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2552",
+      "category": "4",
+      "explanation": "Charpentier entre, ce qui indique l'arriv\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2553",
+      "category": "6",
+      "explanation": "Montrer son lit implique une interaction non verbale en d\u00e9signant un objet.",
+      "stgdir": "Montrant son lit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2554",
+      "category": "6",
+      "explanation": "Regarder Gaston est une interaction non verbale entre personnages.",
+      "stgdir": "Regardant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2555",
+      "category": "8",
+      "explanation": "Il s'agit d'une mention musicale, signalant un air ou une m\u00e9lodie dans la pi\u00e8ce.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2556",
+      "category": "10",
+      "explanation": "On sort de table et on l'emporte concerne la manipulation d'un objet (table).",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2557",
+      "category": "8",
+      "explanation": "C'est une mention musicale, faisant r\u00e9f\u00e9rence \u00e0 un couplet dans une performance.",
+      "stgdir": "III COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2558",
+      "category": "12",
+      "explanation": "C'est une adresse \u00e0 Barberin, indiquant \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Barberin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2559",
+      "category": "12",
+      "explanation": "C'est une adresse \u00e0 Spartacus, montrant \u00e0 qui le personnage parle.",
+      "stgdir": "\u00c0 Spartacus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2560",
+      "category": "8",
+      "explanation": "Il fredonne une m\u00e9lodie, ce qui est consid\u00e9r\u00e9 comme une expression musicale.",
+      "stgdir": "Il fredonne l'Amant d'Amanda.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2561",
+      "category": "8",
+      "explanation": "C'est une mention musicale, signalant un air ou une m\u00e9lodie.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2562",
+      "category": "6",
+      "explanation": "Elle frappe \u00e0 la porte qui indique une interaction mais non verbale.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2563",
+      "category": "0",
+      "explanation": "Il recommencent le combat, ce qui est une action g\u00e9n\u00e9rale sans violence sp\u00e9cifique.",
+      "stgdir": "L\u00e0 ils recommencent le combat plus vivement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2564",
+      "category": "6",
+      "explanation": "Elle se laisse embrasser est une interaction non verbale entre personnages.",
+      "stgdir": "Elle se laisse embrasser.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2565",
+      "category": "7",
+      "explanation": "Camille s'assoit indique un mouvement du personnage.",
+      "stgdir": "Camille s'assoit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2566",
+      "category": "8",
+      "explanation": "CANTATE indique une performance musicale ou un chant.",
+      "stgdir": "CANTATE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2567",
+      "category": "8",
+      "explanation": "Indique \u00e9galement une performance musicale en danser et chantant.",
+      "stgdir": "On danse, et la danse est coup\u00e9e par ces deux couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2568",
+      "category": "10",
+      "explanation": "On lui pr\u00e9sente un p\u00e2t\u00e9, d\u00e9crivant une interaction avec un objet.",
+      "stgdir": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2569",
+      "category": "12",
+      "explanation": "Il parle \u00e0 Troile indique une adresse \u00e0 un autre personnage.",
+      "stgdir": "Il parle \u00e0 Troile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2570",
+      "category": "6",
+      "explanation": "Montrer les Muses est une interaction visuelle d\u00e9signant une entit\u00e9.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2571",
+      "category": "2",
+      "explanation": "Il se parle \u00e0 lui-m\u00eame, indiquant une r\u00e9flexion int\u00e9rieure, un apart\u00e9.",
+      "stgdir": "Il se parle \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2572",
+      "category": "12",
+      "explanation": "Il s'adresse aux filles et aux gar\u00e7ons, indiquant une adresse \u00e0 plusieurs personnages.",
+      "stgdir": "Aux filles et aux gar\u00e7ons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2573",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre change pour montrer un nouveau d\u00e9cor, un palais.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le palais du grand sacrificateur de Cyb\u00e8le.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2574",
+      "category": "2",
+      "explanation": "[Th\u00e9s\u00e9e fait un apart\u00e9 en pensant \u00e0 \u00c9g\u00e9e] indique une r\u00e9flexion personnelle.",
+      "stgdir": "[Th\u00e9s\u00e9e fait un apart\u00e9 en pensant \u00e0 \u00c9g\u00e9e].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2575",
+      "category": "12",
+      "explanation": "Adresse \u00e0 Madame de Lucenay, pr\u00e9cisant \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Madame de Lucenay.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2576",
+      "category": "7",
+      "explanation": "Eug\u00e9nie fait un mouvement indique un changement de position.",
+      "stgdir": "Eug\u00e9nie fait un mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2577",
+      "category": "7",
+      "explanation": "Elle l\u00e8ve sa coiffe indique \u00e9galement un mouvement.",
+      "stgdir": "Elle l\u00e8ve sa coiffe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2578",
+      "category": "12",
+      "explanation": "Adresse \u00e0 Albin montre \u00e0 qui le personnage parle.",
+      "stgdir": "\u00c0 Albin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2579",
+      "category": "8",
+      "explanation": "Mention musicale avec un titre d'air.",
+      "stgdir": "AIR : D'une main je tiens mon pot.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2580",
+      "category": "5",
+      "explanation": "Paquita sort est une indication d'exit d'un personnage.",
+      "stgdir": "Paquita sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2581",
+      "category": "8",
+      "explanation": "Mention d'un air, qui indique un extrait musical.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2582",
+      "category": "7",
+      "explanation": "Guillot s'assied indique un mouvement vers un nouveau lieu.",
+      "stgdir": "Guillot s'ass\u00eced.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2583",
+      "category": "0",
+      "explanation": "Ce qui implique une action de boire.",
+      "stgdir": "Apr\u00e8s avoir encore bu, il dit :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2584",
+      "category": "8",
+      "explanation": "Air mentionnant une chanson, signalant un moment musical.",
+      "stgdir": "AIR. Ah ! le bel oiseau maman.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2585",
+      "category": "9",
+      "explanation": "La mention du temps indique une narration sp\u00e9cifique.",
+      "stgdir": "On entend sonner minuit \u00e0 l'horloge de l'h\u00f4tel de ville.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2586",
+      "category": "8",
+      "explanation": "Mention musicale, se r\u00e9f\u00e8re \u00e0 un air sp\u00e9cifique.",
+      "stgdir": "Air : Cet Oracle est plus fur, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2587",
+      "category": "8",
+      "explanation": "Se r\u00e9f\u00e8re \u00e0 une musique qui continue, augmentant la dynamique musicale.",
+      "stgdir": "L'ouverture continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2588",
+      "category": "10",
+      "explanation": "L'action de prendre Hector \u00e0 la cravate implique une interaction physique avec un objet.",
+      "stgdir": "Il prend Hector \u00e0 la cravate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2589",
+      "category": "8",
+      "explanation": "Une r\u00e9f\u00e9rence directe \u00e0 un air, illustrant la musique.",
+      "stgdir": "Air : Honor\u00e9 du brillant poste.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2590",
+      "category": "10",
+      "explanation": "Il donne \u00e0 la suivante un papier, ce qui d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il donne \u00e0 la suivante le papier sur lequel il a \u00e9crit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2591",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e de nouveaux personnages, soit une arriv\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e de suivants de la Fortune.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2592",
+      "category": "12",
+      "explanation": "C'est un appel vers Cr\u00e9sus, indiquant une adresse \u00e0 un personnage.",
+      "stgdir": "Cr\u00e9sus, appelant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2593",
+      "category": "12",
+      "explanation": "Adresse \u00e0 Rhadamisthe, montrant qui est le destinataire de l'action.",
+      "stgdir": "\u00c0 Rhadamisthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2594",
+      "category": "6",
+      "explanation": "Il embrasse Argie est une interaction non verbale entre les personnages.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2595",
+      "category": "9",
+      "explanation": "Ce long stage direction a un aspect narratif d\u00e9crivant une sc\u00e8ne.",
+      "stgdir": "Tandis que Moli\u00e8re reste pensif, Dassoucy, Pierrotin et le Docteur sortent bruyamment du ch\u00e2teau ; Pierrotin porte un flacon et un gobelet, boit \u00e0 petits coups, fait claquer sa langue et se caresse l'estomac avec b\u00e9atitude.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2596",
+      "category": "8",
+      "explanation": "Mention musicale, indiquant un air sp\u00e9cifique.",
+      "stgdir": "Air : De tous les Capucins du monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2597",
+      "category": "0",
+      "explanation": "D\u00e9crit l'action de plusieurs groupes jouant \u00e0 divers jeux, une action collective.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2598",
+      "category": "10",
+      "explanation": "Interaction avec un objet, les doigts rencontrent les panneaux.",
+      "stgdir": "Ses doigts, qui errent \u00e0 l'aventure, rencontrent les panneaux sup\u00e9rieurs du buffet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2599",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 une m\u00e9lodie, souligne la musicalit\u00e9 dans la pi\u00e8ce.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2600",
+      "category": "6",
+      "explanation": "Elle arrange les fleurs et semble se mirer, ce qui implique une interaction visuelle.",
+      "stgdir": "Elle semble se mirer dans un ruisseau en arrangeant les fleurs dans ses cheveux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2601",
+      "category": "6",
+      "explanation": "S'approcher et embrasser, d\u00e9crit une interaction proche entre personnages.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2602",
+      "category": "12",
+      "explanation": "Il regarde Maximin, qui pr\u00e9cise l'adresse ou l'interaction visuelle.",
+      "stgdir": "Voyant Maximin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2603",
+      "category": "12",
+      "explanation": "Indique une adresse ou une action dirig\u00e9e vers Au Sauvage.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2604",
+      "category": "0",
+      "explanation": "\u00c0 mi-voix implique une mani\u00e8re de parler, mais pas une action sp\u00e9cifique.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2605",
+      "category": "0",
+      "explanation": "L'\u00f4te et lit d\u00e9montre une action, mais n'entre pas dans d'autres cat\u00e9gories.",
+      "stgdir": "Il l'\u00f4te et lit :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2606",
+      "category": "6",
+      "explanation": "Il montre Florange, une information par le biais d'une interaction non verbale.",
+      "stgdir": "Il montre Florange.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2607",
+      "category": "7",
+      "explanation": "Il saute indique un mouvement \u00e9nergique du personnage.",
+      "stgdir": "Il saute.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2608",
+      "category": "3",
+      "explanation": "Il lit un billet, ce qui inclut une forme de livraison d'information.",
+      "stgdir": "Il lit un des billets que Livie lui a rendus.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2609",
+      "category": "12",
+      "explanation": "Adresse aux Esprits, montrant une direction verbale.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2610",
+      "category": "5",
+      "explanation": "Indique la sortie d'un personnage, Flore sort.",
+      "stgdir": "Flore sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2611",
+      "category": "12",
+      "explanation": "Adresse \u00e0 Bel-Air, ce qui d\u00e9signe une communication avec un personnage.",
+      "stgdir": "\u00c0 Bel-Air.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2612",
+      "category": "11",
+      "explanation": "Description d'un cadre, repr\u00e9sentant une chambre \u00e0 coucher avec alc\u00f4ve.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2613",
+      "category": "12",
+      "explanation": "Adresse \u00e0 Monsieur le Duc de la Fenillade, sp\u00e9cifiant avec qui on parle.",
+      "stgdir": "\u00c0 Monsieur_le_Duc de la Fenillade.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2614",
+      "category": "11",
+      "explanation": "Description de l'environnement de la salle du Conseil, \u00e9tablissant le d\u00e9cor.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2615",
+      "category": "12",
+      "explanation": "Adresse aux autres personnages, indiquant vers qui l'attention est dirig\u00e9e.",
+      "stgdir": "Aux autres personnages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2616",
+      "category": "7",
+      "explanation": "Elle s'\u00e9tend dans un fauteuil indique un mouvement vers une position de repos.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2617",
+      "category": "7",
+      "explanation": "Se rapprocher d'Adrienne, montre un mouvement physique vers un autre personnage.",
+      "stgdir": "Il se rapproche d'Adrienne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2618",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e d'un seigneur de la cour, marquant l'arriv\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Entre un seigneur de la cour.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2619",
+      "category": "6",
+      "explanation": "Orante et N\u00e9rine rencontrent les seigneurs, il s'agit d'une interaction.",
+      "stgdir": "Orante et N\u00e9rine en habit d'hommes les rencontr\u00e8rent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2620",
+      "category": "0",
+      "explanation": "HARANGUE DE MASSINISSE est une action de parler ou d'exposer.",
+      "stgdir": "HARANGUE DE MASSINISSE",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2621",
+      "category": "0",
+      "explanation": "Former un combat \u00e0 la mani\u00e8re des anciens d\u00e9crit une action g\u00e9n\u00e9rale.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2622",
+      "category": "1",
+      "explanation": "Apercevant leurs \u00e9p\u00e9es nues implique une activit\u00e9 d'agression.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2623",
+      "category": "9",
+      "explanation": "Indique une mention temporelle, ajoutant une narration \u00e0 l'\u00e9v\u00e9nement.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2624",
+      "category": "0",
+      "explanation": "Avec ravissement n'est pas une action sp\u00e9cifique mais une r\u00e9action.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 33891.486167907715,
+  "model": "gpt-4o-mini"
+}

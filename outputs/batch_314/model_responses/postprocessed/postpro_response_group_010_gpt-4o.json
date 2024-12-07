@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "750",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire '\u00c0 Henri', ce qui est typique pour la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "751",
+      "category": "12",
+      "explanation": "La didascalie est dirig\u00e9e '\u00c0 Antenor', indiquant une r\u00e9plique adress\u00e9e, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "752",
+      "category": "12",
+      "explanation": "La didascalie pr\u00e9cise '\u00c0 la Reine', ce qui indique qu'une r\u00e9plique est dirig\u00e9e vers un personnage particulier, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "753",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Colin' indique que la r\u00e9plique est adress\u00e9e \u00e0 un personnage nomm\u00e9, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "754",
+      "category": "12",
+      "explanation": "Le terme 'Aux deux courtisans' oriente la r\u00e9plique vers des personnages sp\u00e9cifiques, donc c'est de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "755",
+      "category": "12",
+      "explanation": "La didascalie 'Au Courtisan' signifie que la r\u00e9plique est adress\u00e9e \u00e0 un personnage particulier, ce qui rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "756",
+      "category": "0",
+      "explanation": "Le terme 'Reprenant son exorde' d\u00e9crit une action plut\u00f4t que d'indiquer un destinataire, donc il rel\u00e8ve de la cat\u00e9gorie 'action'.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "757",
+      "category": "12",
+      "explanation": "La didascalie '\u00c0 Clidamis' indique le destinataire d'une r\u00e9plique, donc elle rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "758",
+      "category": "12",
+      "explanation": "Comme la r\u00e9plique est adress\u00e9e '\u00c0 Alain', cela rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Alain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "759",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Madame Dangeville' indique que la r\u00e9plique est dirig\u00e9e vers un personnage, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "760",
+      "category": "6",
+      "explanation": "La didascalie mentionne une proposition pour une entrevue, ce qui implique une interaction plut\u00f4t que seulement une direction de r\u00e9plique.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "12",
+      "explanation": "'Au p\u00e8re de famille' sp\u00e9cifie le destinataire de la r\u00e9plique, ce qui la place dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "12",
+      "explanation": "La didascalie indique '\u00c0 Philom\u00e8le', pr\u00e9cisant le destinataire de la r\u00e9plique, ce qui rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "12",
+      "explanation": "'\u00c0 Adario' indique le personnage \u00e0 qui la r\u00e9plique est adress\u00e9e, donc elle est class\u00e9e dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "12",
+      "explanation": "La didascalie mentionne '\u00c0 Crassus', sugg\u00e9rant que la r\u00e9plique est dirig\u00e9e vers un personnage sp\u00e9cifique, ce qui rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "12",
+      "explanation": "'\u00c0 \u00c9liante et Philinte' d\u00e9signe les destinataires de la r\u00e9plique, classant ainsi cette didascalie dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Placide' indique une r\u00e9plique dirig\u00e9e vers ce personnage, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "12",
+      "explanation": "'\u00c0 Tatonet' dirige la r\u00e9plique vers un personnage sp\u00e9cifique, ce qui est typique de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "12",
+      "explanation": "'\u00c0 la Vidame' sp\u00e9cifie le destinataire de la r\u00e9plique, ce qui est class\u00e9 dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "12",
+      "explanation": "'AU PARTERRE' indique que la r\u00e9plique est dirig\u00e9e vers un groupe ou une partie du public, ce qui rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "770",
+      "category": "12",
+      "explanation": "'\u00c0 Delval' montre que la r\u00e9plique est adress\u00e9e \u00e0 ce personnage, class\u00e9 dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "12",
+      "explanation": "La didascalie '\u00c0 Aricie' indique que la r\u00e9plique est dirig\u00e9e vers un personnage nomm\u00e9, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Euph\u00e9mon fils' d\u00e9signe le destinataire de la r\u00e9plique, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "773",
+      "category": "12",
+      "explanation": "'\u00c0 Ardenie' d\u00e9signe le destinataire de la r\u00e9plique, donc elle rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "774",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Pierrot' dirige la r\u00e9plique vers un personnage sp\u00e9cifique, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "775",
+      "category": "12",
+      "explanation": "'\u00c0 l'un des Arabes' indique que la r\u00e9plique est dirig\u00e9e vers un personnage en particulier, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "776",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Lycandre' d\u00e9signe le destinataire sp\u00e9cifique de la r\u00e9plique, ce qui rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "777",
+      "category": "12",
+      "explanation": "La mention '\u00c0 M\u00e9rione' indique le destinataire de la r\u00e9plique, cela rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "778",
+      "category": "0",
+      "explanation": "'Il se retourne vers son fils et lui dit.' d\u00e9crit une action de se retourner avant de parler.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "779",
+      "category": "12",
+      "explanation": "'\u00c0 Ibrahim' d\u00e9signe le personnage vers qui la r\u00e9plique est adress\u00e9e, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "780",
+      "category": "12",
+      "explanation": "'Aux Bergers' indique que la r\u00e9plique est dirig\u00e9e vers plusieurs personnages, class\u00e9 dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "781",
+      "category": "12",
+      "explanation": "'\u00c0 Philox\u00e8ne' montre que la r\u00e9plique est dirig\u00e9e vers ce personnage, donc elle rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "782",
+      "category": "12",
+      "explanation": "'\u00c0 Vasta' indique le destinataire de la r\u00e9plique, class\u00e9 dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "783",
+      "category": "12",
+      "explanation": "'\u00c0 Estelle' indique que la r\u00e9plique est adress\u00e9e \u00e0 un personnage sp\u00e9cifique, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "784",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Candide' d\u00e9signe le destinataire de la r\u00e9plique, class\u00e9 dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "785",
+      "category": "12",
+      "explanation": "'\u00c0 Darie' montre que la r\u00e9plique est adress\u00e9e \u00e0 ce personnage, donc elle rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "786",
+      "category": "12",
+      "explanation": "La mention '\u00c0 Ninias' indique que la r\u00e9plique est dirig\u00e9e vers ce personnage, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "787",
+      "category": "0",
+      "explanation": "'\u00c0 Isabelle se touchant le front avec la main.' indique une action physique combin\u00e9e avec une direction de r\u00e9plique, centr\u00e9e sur l'action, donc cat\u00e9gorie 'action'.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "788",
+      "category": "12",
+      "explanation": "'\u00c0 Genseric' montre que le destinataire de la r\u00e9plique est sp\u00e9cifi\u00e9, donc elle entre dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "789",
+      "category": "12",
+      "explanation": "'Au duc d'Alcala' indique que la r\u00e9plique est adress\u00e9e \u00e0 un personnage particulier, cela se classe sous 'toward'.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "790",
+      "category": "12",
+      "explanation": "'Au laboureur' d\u00e9signe le destinataire de la r\u00e9plique, ce qui est typique de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "12",
+      "explanation": "'\u00c0 Mowbrai' indique que la r\u00e9plique est dirig\u00e9e vers Mowbrai, donc cela se classe dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "12",
+      "explanation": "'\u00c0 l'Inspecteur des B\u00e2timents' indique une r\u00e9plique adress\u00e9e \u00e0 un personnage, donc cette didascalie rel\u00e8ve de 'toward'.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "2",
+      "explanation": "'Se retournant vers les Spectateurs.' indique un apart\u00e9 ou une interaction directe avec le public, donc elle rel\u00e8ve de 'aparte'.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "12",
+      "explanation": "'\u00c0 Lisimon' indique que la r\u00e9plique est dirig\u00e9e vers un personnage particulier, donc elle se classe dans 'toward'.",
+      "stgdir": "\u00c0 Lisimon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "12",
+      "explanation": "'\u00c0 C\u00e9lie, Galimatias' d\u00e9signe le destinataire de la r\u00e9plique, donc elle rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "12",
+      "explanation": "'\u00c0 Tib\u00e8re' indique que la r\u00e9plique est adress\u00e9e \u00e0 Tib\u00e8re, cela rel\u00e8ve donc de 'toward'.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "12",
+      "explanation": "'\u00c0 Hernani' montre que la r\u00e9plique est dirig\u00e9e vers ce personnage, donc elle se classe dans 'toward'.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "12",
+      "explanation": "'Au laquais' d\u00e9signe le destinataire de la r\u00e9plique, ce qui est typique de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "12",
+      "explanation": "'\u00c0 Dariolette' sp\u00e9cifie que la r\u00e9plique est adress\u00e9e \u00e0 ce personnage, donc elle se classe dans 'toward'.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "800",
+      "category": "12",
+      "explanation": "'\u00c0 Marlot' indique que la r\u00e9plique est dirig\u00e9e vers ce personnage, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": "12",
+      "explanation": "'\u00c0 Colette' d\u00e9signe le personnage qui re\u00e7oit la r\u00e9plique, class\u00e9 dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": "3",
+      "explanation": "'\u00c0 G\u00e9ronte de sa voix ordinaire.' d\u00e9crit comment la r\u00e9plique est donn\u00e9e, relevant de la cat\u00e9gorie 'delivery'.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": "12",
+      "explanation": "'Aux femmes' montre que la r\u00e9plique est dirig\u00e9e vers plusieurs personnages, cela rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": "12",
+      "explanation": "'\u00c0 Monsieur de Chambre' sp\u00e9cifie le destinataire de la r\u00e9plique, cela rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": "12",
+      "explanation": "'\u00c0 son \u00e9poux' d\u00e9signe que la r\u00e9plique est dirig\u00e9e vers un personnage sp\u00e9cifique, relevant de 'toward'.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": "12",
+      "explanation": "'\u00c0 Hortensius' indique le personnage qui re\u00e7oit la r\u00e9plique, donc elle rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": "12",
+      "explanation": "'\u00c0 Guillaume' pr\u00e9cise que la r\u00e9plique est adress\u00e9e \u00e0 Guillaume, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": "12",
+      "explanation": "'Aux Esclaves de son sexe' montre que la r\u00e9plique est dirig\u00e9e vers ces personnages, donc elle se classe dans 'toward'.",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": "12",
+      "explanation": "'\u00c0 Margot' indique le destinataire de la r\u00e9plique, appartenant \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "810",
+      "category": "12",
+      "explanation": "'\u00c0 Fr\u00e9missin' montre que la r\u00e9plique est adress\u00e9e \u00e0 ce personnage, donc elle est class\u00e9e dans 'toward'.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "811",
+      "category": "12",
+      "explanation": "'Au Sauvage' indique que la r\u00e9plique est dirig\u00e9e vers ce personnage, appartenant \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "812",
+      "category": "12",
+      "explanation": "'Parlant au prince' indique une interaction verbale dirig\u00e9e vers un personnage sp\u00e9cifique, donc cat\u00e9gorie 'toward'.",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "813",
+      "category": "12",
+      "explanation": "'\u00c0 C\u00e9lie' implique que la r\u00e9plique est adress\u00e9e \u00e0 C\u00e9lie, relevant de 'toward'.",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "814",
+      "category": "12",
+      "explanation": "Bien que la didascalie indique une action de parler, elle mentionne pr\u00e9cis\u00e9ment 'Il parle \u00e0 Dionys', ce qui est dirig\u00e9 vers un personnage sp\u00e9cifique, class\u00e9 dans 'toward'.",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "815",
+      "category": "12",
+      "explanation": "'\u00c0 Poquelin' pr\u00e9cise que la r\u00e9plique est dirig\u00e9e vers Poquelin, donc elle rel\u00e8ve de 'toward'.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "816",
+      "category": "12",
+      "explanation": "'\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel' indique que la r\u00e9plique est dirig\u00e9e vers ces personnages, donc elle appartient \u00e0 'toward'.",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "817",
+      "category": "12",
+      "explanation": "'\u00c0 Gaston' montre que la r\u00e9plique est adress\u00e9e \u00e0 ce personnage, cela rel\u00e8ve de 'toward'.",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "818",
+      "category": "12",
+      "explanation": "'Au marquis' d\u00e9signe le destinataire de la r\u00e9plique, ce qui est typique de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "819",
+      "category": "12",
+      "explanation": "'Aux autres conseillers' montre que la r\u00e9plique est dirig\u00e9e vers ces personnages, relevant de 'toward'.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "820",
+      "category": "12",
+      "explanation": "La mention 'Et \u00e0 Hortensius' d\u00e9signe un destinataire de la r\u00e9plique, class\u00e9 dans 'toward'.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "12",
+      "explanation": "'\u00c0 la comtesse' signifie que la r\u00e9plique est adress\u00e9e \u00e0 la comtesse, donc elle rel\u00e8ve de 'toward'.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "12",
+      "explanation": "'\u00c0 Mercure' indique que la r\u00e9plique est dirig\u00e9e vers Mercure, relatif \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "0",
+      "explanation": "M\u00eame si la phrase mentionne 'Au Roi', il y a une action descriptive en montrant Thamar, qui le place sous 'action'.",
+      "stgdir": "Au Roi, en lui montrant Thamar.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "12",
+      "explanation": "'\u00c0 Coucy' montre que la r\u00e9plique est dirig\u00e9e vers ce personnage, donc elle rel\u00e8ve de 'toward'.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 76718.09077262878,
+  "model": "gpt-4o"
+}

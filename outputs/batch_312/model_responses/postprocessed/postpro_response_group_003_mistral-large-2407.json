@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 225,
+      "category": 3,
+      "explanation": "Il dit en riant les derniers mots. This is a delivery stage direction, describing the manner in which the character speaks.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 226,
+      "category": 8,
+      "explanation": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira : This is a music stage direction, indicating a piece of music or singing.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 227,
+      "category": 3,
+      "explanation": "Il fond en larmes. This is a delivery stage direction, describing the emotional state of the character while speaking.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 228,
+      "category": 3,
+      "explanation": "La voix reprend. This is a delivery stage direction, indicating the continuation of a vocal expression.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 229,
+      "category": 3,
+      "explanation": "Il r\u00e9p\u00e8te ces quatre vers. This is a delivery stage direction, indicating the repetition of a spoken or sung segment.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 230,
+      "category": 3,
+      "explanation": "Il r\u00e9p\u00e8te encore ces quatre derniers vers. This is a delivery stage direction, indicating the repetition of a spoken or sung segment.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 231,
+      "category": 6,
+      "explanation": "Appelant un domestique. This is an interaction stage direction, indicating the character is interacting with another character non-verbally.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 232,
+      "category": 8,
+      "explanation": "Duo. This is a music stage direction, indicating a musical performance.",
+      "stgdir": "Duo.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 233,
+      "category": 3,
+      "explanation": "Solennel. This is a delivery stage direction, indicating the manner or tone of the delivery.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 234,
+      "category": 3,
+      "explanation": "Il chante l'air en entier. This is a delivery stage direction, indicating the character is singing.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 235,
+      "category": 6,
+      "explanation": "Elle appelle Lubin. This is an interaction stage direction, indicating the character is addressing or calling another character.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 236,
+      "category": 4,
+      "explanation": "Mariette parait. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 237,
+      "category": 4,
+      "explanation": "Entre Madame Dergos. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 238,
+      "category": 4,
+      "explanation": "Le chevalier Uladislas sort de l'h\u00f4tellerie. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 239,
+      "category": 4,
+      "explanation": "Il paraissent tous trois. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 240,
+      "category": 4,
+      "explanation": "Plutus para\u00eet \u00e0 la place du sac. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 241,
+      "category": 4,
+      "explanation": "Domitian entre. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 242,
+      "category": 4,
+      "explanation": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 243,
+      "category": 4,
+      "explanation": "Entre le Cardinal. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 244,
+      "category": 4,
+      "explanation": "Entrent Madeleine Ozeray et Raymone. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 245,
+      "category": 4,
+      "explanation": "Troisi\u00e8me entr\u00e9e de ballet. This is an entrance stage direction, indicating a group of characters entering the stage for a ballet.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 246,
+      "category": 4,
+      "explanation": "Elle arrive. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 247,
+      "category": 4,
+      "explanation": "Pasquin para\u00eet. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 248,
+      "category": 4,
+      "explanation": "Val\u00e9rian entre. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 249,
+      "category": 4,
+      "explanation": "Entre Henri Bassou. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 250,
+      "category": 4,
+      "explanation": "L'Oranger et l'Aub\u00e9pine paraissent au fond. This is an entrance stage direction, indicating characters or objects appearing on stage.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 251,
+      "category": 4,
+      "explanation": "Ils sortent de la caverne. This is an entrance stage direction, indicating characters entering the stage from a specific location.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 252,
+      "category": 4,
+      "explanation": "Ces deux divinit\u00e9s paraissent. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 253,
+      "category": 4,
+      "explanation": "Entre Dergos. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 254,
+      "category": 4,
+      "explanation": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 255,
+      "category": 4,
+      "explanation": "Elles entrent. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 256,
+      "category": 4,
+      "explanation": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 257,
+      "category": 4,
+      "explanation": "Les domestiques accourent. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 258,
+      "category": 4,
+      "explanation": "L'Exempt et ses Gardes arrivent. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 259,
+      "category": 4,
+      "explanation": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite. This is an entrance stage direction, indicating characters entering the stage from different sides.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 260,
+      "category": 4,
+      "explanation": "Ici Phalante para\u00eet. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 261,
+      "category": 4,
+      "explanation": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 262,
+      "category": 4,
+      "explanation": "Lisanor para\u00eet. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 263,
+      "category": 4,
+      "explanation": "Entr\u00e9e d'un Gille. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 264,
+      "category": 4,
+      "explanation": "On voit para\u00eetre le Marquis dans le miroir. This is an entrance stage direction, indicating a character appearing on stage.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 265,
+      "category": 4,
+      "explanation": "Flore et Blanche rentrent. This is an entrance stage direction, indicating characters entering the stage.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 266,
+      "category": 4,
+      "explanation": "Oronte para\u00eet. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 267,
+      "category": 8,
+      "explanation": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens. This is a music stage direction, indicating a musical interlude.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 268,
+      "category": 8,
+      "explanation": "Entr\u00e9e de ballet de trois Pantomimes. This is a music stage direction, indicating a dance performance.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 269,
+      "category": 4,
+      "explanation": "ENTR\u00c9E. This is an entrance stage direction, indicating a character or group entering the stage.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 270,
+      "category": 4,
+      "explanation": "Moli\u00e8re rentre. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Moli\u00e8re rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 271,
+      "category": 4,
+      "explanation": "Bricard entre. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 272,
+      "category": 4,
+      "explanation": "Pendant ce monologue, Verseuil entre sur la sc\u00e8ne. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Pendant ce monologue, Verseuil entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 273,
+      "category": 4,
+      "explanation": "Un Messager entre. This is an entrance stage direction, indicating a character entering the stage.",
+      "stgdir": "Un Messager entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 274,
+      "category": 4,
+      "explanation": "Jean Poquelin sort du cabinet. This is an entrance stage direction, indicating a character entering the stage from a specific location.",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 275,
+      "category": 5,
+      "explanation": "Monsieur Mathieu sort, sans \u00e9couter Benjamine. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 276,
+      "category": 5,
+      "explanation": "Phoedime sort. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Phoedime sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 277,
+      "category": 5,
+      "explanation": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous. This is an exit stage direction, indicating characters leaving the stage.",
+      "stgdir": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 278,
+      "category": 5,
+      "explanation": "On sort de table, et on l'emporte. This is an exit stage direction, indicating characters leaving the stage.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 279,
+      "category": 5,
+      "explanation": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent. This is an exit stage direction, indicating characters leaving the stage.",
+      "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 280,
+      "category": 5,
+      "explanation": "Adrien sort. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 281,
+      "category": 5,
+      "explanation": "Oloodeme et Eristene se retirent. This is an exit stage direction, indicating characters leaving the stage.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 282,
+      "category": 5,
+      "explanation": "Crispe se retire et l'on continue. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 283,
+      "category": 5,
+      "explanation": "Pysandre sort. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 284,
+      "category": 7,
+      "explanation": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate. This is a movement stage direction, indicating a character moving across the stage.",
+      "stgdir": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 285,
+      "category": 5,
+      "explanation": "Ils s'enfuient hors du Palais, et le Roi continue. This is an exit stage direction, indicating characters leaving the stage.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 286,
+      "category": 6,
+      "explanation": "Il prend Albert. This is an interaction stage direction, indicating a character interacting with another character non-verbally.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 287,
+      "category": 5,
+      "explanation": "Valentin sort. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 288,
+      "category": 5,
+      "explanation": "Baptiste se sauve. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 289,
+      "category": 5,
+      "explanation": "Elle rentre dans le ch\u00e2teau. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 290,
+      "category": 5,
+      "explanation": "Ils sortent tous, except\u00e9 Babet. This is an exit stage direction, indicating characters leaving the stage.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 291,
+      "category": 5,
+      "explanation": "Moli\u00e8re sort. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 292,
+      "category": 5,
+      "explanation": "Elle sort en col\u00e8re. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 293,
+      "category": 5,
+      "explanation": "Monsieur Mathieu, Benjamine et Damis sortent. This is an exit stage direction, indicating characters leaving the stage.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 294,
+      "category": 7,
+      "explanation": "Merlin s'enfuit. This is a movement stage direction, indicating a character moving across the stage.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 295,
+      "category": 5,
+      "explanation": "M\u00e9gatise sort. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 296,
+      "category": 5,
+      "explanation": "Il sortesasuite. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 297,
+      "category": 5,
+      "explanation": "Il sort par la porte de gauche. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 298,
+      "category": 5,
+      "explanation": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure : This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 299,
+      "category": 5,
+      "explanation": "Duparc sort. This is an exit stage direction, indicating a character leaving the stage.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 144489.28904533386,
+  "model": "mistral-large-2407"
+}

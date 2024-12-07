@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "375",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale entre deux personnages lors d'un acte d'affection.",
+      "stgdir": "Il la baise avec peine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "376",
+      "category": "6",
+      "explanation": "C'est une interaction non verbale o\u00f9 un personnage embrasse la bouche d'un autre.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "377",
+      "category": "7",
+      "explanation": "Le personnage retient un autre personnage, ce qui implique un mouvement pour le faire.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "378",
+      "category": "7",
+      "explanation": "Le personnage revient vers Oronte, signifiant un mouvement de retour.",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "379",
+      "category": "7",
+      "explanation": "Il va vers elle, ce qui d\u00e9crit un mouvement vers un autre personnage.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "380",
+      "category": "6",
+      "explanation": "La remise de la lampe sur la table est une interaction non verbale d'un personnage avec un objet.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "7",
+      "explanation": "Les deux femmes remontent, impliquant un mouvement vers le haut.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place vers Marie, indiquant un mouvement.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "6",
+      "explanation": "Il s'approche d'elle et lui pr\u00e9sente la main, ce qui est une interaction non verbale.",
+      "stgdir": "Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "7",
+      "explanation": "Cl\u00e9andre et Ferrande reviennent, ce qui d\u00e9crit un mouvement de retour.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "6",
+      "explanation": "Le geste de parler \u00e0 l'oreille d'un autre personnage est une interaction non verbale.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "7",
+      "explanation": "C'est une description d'un personnage qui se rapproche de quelqu'un.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "5",
+      "explanation": "Elle fait quelques pas pour sortir, ce qui d\u00e9crit une sortie de la sc\u00e8ne.",
+      "stgdir": "Elle fait quelques pas pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "7",
+      "explanation": "Elle va vers le po\u00e8te, un d\u00e9placement vers un autre personnage.",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "7",
+      "explanation": "C'est un retour pr\u00e8s du bureau, impliquant un mouvement vers l'endroit.",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "390",
+      "category": "5",
+      "explanation": "Tous s'en vont, ce qui d\u00e9crit une sortie collective de la sc\u00e8ne.",
+      "stgdir": "Tous s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "391",
+      "category": "6",
+      "explanation": "S'approcher et embrasser quelqu'un est une interaction non verbale.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "392",
+      "category": "7",
+      "explanation": "Elle lui fait faire le tour, impliquant un mouvement suivant.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "393",
+      "category": "5",
+      "explanation": "Elle se retire, ce qui indique une sortie de la sc\u00e8ne.",
+      "stgdir": "Elle se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "394",
+      "category": "0",
+      "explanation": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus, ce qui est une action sans interaction sp\u00e9cifique.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "395",
+      "category": "0",
+      "explanation": "Une d\u00e9claration sur les intentions du personnage, donc class\u00e9e comme action g\u00e9n\u00e9rale.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "396",
+      "category": "7",
+      "explanation": "Se rapprochant implique un mouvement vers un autre personnage.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "397",
+      "category": "7",
+      "explanation": "Hortense suit, indiquant un mouvement.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "398",
+      "category": "0",
+      "explanation": "Cela indique un jeu qui est d\u00e9j\u00e0 connu, donc une action g\u00e9n\u00e9rale.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "399",
+      "category": "6",
+      "explanation": "Elle \u00f4te sa main, ce qui est une interaction non verbale.",
+      "stgdir": "Elle \u00f4te sa main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "400",
+      "category": "5",
+      "explanation": "Elle s'en va, ce qui est un exit.",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "401",
+      "category": "7",
+      "explanation": "Il le suit implique un mouvement.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "402",
+      "category": "5",
+      "explanation": "Le petit Befor se retire de la danse, indiquant une sortie.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "403",
+      "category": "1",
+      "explanation": "Sa volont\u00e9 de s'enfuir peut \u00eatre interpr\u00e9t\u00e9e comme une forme d'agression ou de peur, ce qui la rend anxieuse.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "404",
+      "category": "7",
+      "explanation": "Il fait un mouvement pour aller vers le Chevalier implique un mouvement.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "405",
+      "category": "6",
+      "explanation": "Revenant promptement \u00e0 elle indique que le personnage interagit avec une autre personne.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "406",
+      "category": "7",
+      "explanation": "Faire un mouvement pour s'\u00e9loigner d\u00e9crit un mouvement.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "407",
+      "category": "7",
+      "explanation": "Joseph se rend pr\u00e8s de Nicod\u00e8me, indiquant un mouvement.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "408",
+      "category": "5",
+      "explanation": "Hortense s'en va indique un exit.",
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "409",
+      "category": "7",
+      "explanation": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse signale un mouvement.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "410",
+      "category": "7",
+      "explanation": "Il s'approche d'un tombeau signifie un mouvement.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "411",
+      "category": "7",
+      "explanation": "Il s'avance vers la petite porte, impliquant un mouvement.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "412",
+      "category": "7",
+      "explanation": "Se rapprochant de Rosalie indique un mouvement vers un autre personnage.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "413",
+      "category": "7",
+      "explanation": "Il s'approche de C\u00e9cile montre un mouvement.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "414",
+      "category": "8",
+      "explanation": "C'est une r\u00e9f\u00e9rence \u00e0 un air musical, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "415",
+      "category": "8",
+      "explanation": "C'est une chanson, donc class\u00e9e comme musique.",
+      "stgdir": "CHANSON des Basques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "416",
+      "category": "8",
+      "explanation": "C'est un air musical, class\u00e9 comme musique.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "417",
+      "category": "8",
+      "explanation": "C'est un air musical, donc non chant\u00e9 mais r\u00e9f\u00e9renc\u00e9.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "418",
+      "category": "8",
+      "explanation": "Il s'agit d'un couplet, donc du domaine de la musique.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "419",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc r\u00e9f\u00e9renc\u00e9 comme musique.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "420",
+      "category": "8",
+      "explanation": "C'est une mention d'un air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air 179 : La faridondaine, gu\u00e9 !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Colin un jour trouva Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "8",
+      "explanation": "C'est une mention d'une pastorale, donc class\u00e9 comme musique.",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "8",
+      "explanation": "C'est mention d'une antistrophe, donc class\u00e9 comme musique.",
+      "stgdir": "Antistrophe IX.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "8",
+      "explanation": "C'est une mention d'air, int\u00e9grant musique.",
+      "stgdir": "Air : De Monsieur Doche.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "8",
+      "explanation": "Repr\u00e9sente un air musical, class\u00e9 comme musique.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "8",
+      "explanation": "C'est une mention d'un cartel, donc de la musique.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "430",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "AIR : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "8",
+      "explanation": "D\u00e9crit un dialogue musical, class\u00e9 dans la musique.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Sa ne vous va brin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Pour qu'sa pr\u00e9tention soit bannie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Va, va, Fanchon, J'irai en salle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "440",
+      "category": "8",
+      "explanation": "C'est la mention d'une pantomime qui se rattache \u00e0 la musique.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "441",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 comme musique.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "442",
+      "category": "0",
+      "explanation": "La lettre est une action mais sans indication sp\u00e9cifique autrement.",
+      "stgdir": "LETTRE",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "443",
+      "category": "8",
+      "explanation": "C'est une mention d'un air musical.",
+      "stgdir": "AIR. Mon Papa toute la nuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "444",
+      "category": "8",
+      "explanation": "C'est une mention d'une strophe, donc class\u00e9 dans la musique.",
+      "stgdir": "Strophe X.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "445",
+      "category": "9",
+      "explanation": "Une symphonie douce est d\u00e9crite, ce qui constitue une narration.",
+      "stgdir": "On entend une symphonie douce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "446",
+      "category": "8",
+      "explanation": "Il s'agit d'une mention d'air, donc class\u00e9 dans la musique.",
+      "stgdir": "Air : \u00c0 l'ombre de ce vert bocage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "447",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 dans la musique.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "448",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 dans la musique.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "449",
+      "category": "8",
+      "explanation": "C'est une mention d'air, donc class\u00e9 dans la musique.",
+      "stgdir": "AIR : Ne m'entendez-vous pas.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 31891.849517822266,
+  "model": "gpt-4o-mini"
+}

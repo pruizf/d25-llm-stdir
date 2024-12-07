@@ -1,0 +1,524 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 2775,
+      "category": 11,
+      "explanation": "Indicates the location of the scene.",
+      "stgdir": "\u00c0 Luville.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2776,
+      "category": 5,
+      "explanation": "Characters exit the stage.",
+      "stgdir": "Le cousin et la cousine sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2777,
+      "category": 0,
+      "explanation": "General action of checking the time.",
+      "stgdir": "Regardent sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2778,
+      "category": 0,
+      "explanation": "General action of searching.",
+      "stgdir": "Elle cherche encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2779,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2780,
+      "category": 5,
+      "explanation": "Character exits the stage.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2781,
+      "category": 6,
+      "explanation": "Non-verbal interaction by showing a gesture.",
+      "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2782,
+      "category": 4,
+      "explanation": "Character enters the stage.",
+      "stgdir": "Dorame para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2783,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 un de ses suivants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2784,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au Comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2785,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Th\u00e9odose.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2786,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Aux chefs de l'arm\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2787,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2788,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR : C'est ce qui vous enrhume.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2789,
+      "category": 12,
+      "explanation": "Indicates the addressees of a speech.",
+      "stgdir": "\u00c0 Blaise et \u00e0 sa femme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2790,
+      "category": 9,
+      "explanation": "Describes a noise or sound effect.",
+      "stgdir": "On entend frapper \u00e0 la porte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2791,
+      "category": 5,
+      "explanation": "Characters exit the stage.",
+      "stgdir": "L'Abb\u00e9 et le petit Minot sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 2792,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Don Sanche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2793,
+      "category": 10,
+      "explanation": "Character interacts with an object (tablets).",
+      "stgdir": "Il prend ses tablettes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2794,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air 176 : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2795,
+      "category": 3,
+      "explanation": "Delivery manner, character sings.",
+      "stgdir": "CHANSON DE Monsieur Sall\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2796,
+      "category": 6,
+      "explanation": "Non-verbal interaction by showing or pointing.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2797,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR : La jeune Isabelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2798,
+      "category": 6,
+      "explanation": "Non-verbal interaction by interrupting or chasing.",
+      "stgdir": "Des petits frondeurs les viennent interrompre qui sont chass\u00e9s en suite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2799,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR : Jean de Vert.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2800,
+      "category": 3,
+      "explanation": "Delivery manner, character repeats a line.",
+      "stgdir": "R\u00e9p\u00e9tant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2801,
+      "category": 11,
+      "explanation": "Describes the setting or play location.",
+      "stgdir": "Le champ des revues.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2802,
+      "category": 6,
+      "explanation": "Non-verbal interaction by calling or addressing.",
+      "stgdir": "Il appelle \u00e0 la petite porte de gauche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2803,
+      "category": 4,
+      "explanation": "Character enters the stage.",
+      "stgdir": "Blanche para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 2804,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2805,
+      "category": 10,
+      "explanation": "Character interacts with an object (manteau royal).",
+      "stgdir": "Il lui met le manteau royal.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2806,
+      "category": 6,
+      "explanation": "Non-verbal interaction by showing or pointing.",
+      "stgdir": "Montrant L\u00e9pine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2807,
+      "category": 3,
+      "explanation": "Delivery manner, character laughs.",
+      "stgdir": "\u00c9clatant de rire, apr\u00e8s avoir fix\u00e9 quelques secondes ces amants heureux, sinon honteux, au moins embarrass\u00e9s de leur bonheur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2808,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air 184 : Je me plaignais d'une inhumains.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2809,
+      "category": 6,
+      "explanation": "Non-verbal interaction by trying to lead or entice.",
+      "stgdir": "Il cherche \u00e0 l'entra\u00eener.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2810,
+      "category": 8,
+      "explanation": "Describes music being played.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2811,
+      "category": 3,
+      "explanation": "Delivery manner, character cries.",
+      "stgdir": "Il pleure.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2812,
+      "category": 0,
+      "explanation": "General action of painting.",
+      "stgdir": "Il peint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2813,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2814,
+      "category": 0,
+      "explanation": "General action of eating.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2815,
+      "category": 6,
+      "explanation": "Non-verbal interaction by holding hands.",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2816,
+      "category": 0,
+      "explanation": "General action of fetching an object.",
+      "stgdir": "Il va chercher le sac d'or.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2817,
+      "category": 3,
+      "explanation": "Delivery manner, character continues alone.",
+      "stgdir": "Il continue, \u00e9tant seul.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2818,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR. Oui, j'ai tout vu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2819,
+      "category": 6,
+      "explanation": "Non-verbal interaction by seeing or noticing.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2820,
+      "category": 6,
+      "explanation": "Non-verbal interaction by extending a hand.",
+      "stgdir": "Lui tendant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2821,
+      "category": 7,
+      "explanation": "Character moves within the stage.",
+      "stgdir": "Il entre avec humeur, dans son cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2822,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2823,
+      "category": 9,
+      "explanation": "Describes a scene or setting in detail.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 2824,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2825,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2826,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2827,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air : des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2828,
+      "category": 1,
+      "explanation": "Violent action involving a weapon.",
+      "stgdir": "Le Sagamo reste immobile Arlequin lui fait voler la t\u00eate de son propre sabre qu'il lui a \u00f4t\u00e9, mais tout \u00e0 coup il rena\u00eet une autre t\u00eate au Sagamo qui rit au nez d'Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 2829,
+      "category": 6,
+      "explanation": "Non-verbal interaction by showing or pointing.",
+      "stgdir": "Cassandre dans le tableau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2830,
+      "category": 10,
+      "explanation": "Character interacts with an object (taking out).",
+      "stgdir": "Il en tire un \u00e9norme.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2831,
+      "category": 3,
+      "explanation": "Delivery manner, character shows satisfaction.",
+      "stgdir": "Avec satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 2832,
+      "category": 6,
+      "explanation": "Non-verbal interaction by taking a hand.",
+      "stgdir": "Il prend la main de Colombine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2833,
+      "category": 6,
+      "explanation": "Non-verbal interaction by showing an object.",
+      "stgdir": "Il lui fait voir le lot.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2834,
+      "category": 6,
+      "explanation": "Non-verbal interaction by looking through an opening.",
+      "stgdir": "Par le soupirail.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2835,
+      "category": 6,
+      "explanation": "Non-verbal interaction by showing an object (culotte).",
+      "stgdir": "Il montre une culotte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2836,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2837,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR : Jupin d\u00e8s le matin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2838,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "Air : Ciel ! l'Univers va-t-il donc se dissoudre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2839,
+      "category": 11,
+      "explanation": "Describes the setting or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre est une suite de rochers ; on y voit Leucippe retenu, sans que ses liens paraissent. Il est debout, appuy\u00e9, dans l'endroit le plus en vue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 2840,
+      "category": 6,
+      "explanation": "Non-verbal interaction by calling or addressing.",
+      "stgdir": "Il appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 2841,
+      "category": 7,
+      "explanation": "Characters move within the stage.",
+      "stgdir": "Ils se retirent en un coin du Th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 2842,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monsieur Pot-De-Vin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2843,
+      "category": 0,
+      "explanation": "General action of kneeling.",
+      "stgdir": "\u00c0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2844,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au Huron.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2845,
+      "category": 8,
+      "explanation": "Describes a tune name.",
+      "stgdir": "AIR. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 2846,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mouravieff.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 2847,
+      "category": 0,
+      "explanation": "General action of pushing an object.",
+      "stgdir": "Le petit laquais pousse le si\u00e8ge rudement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 2848,
+      "category": 6,
+      "explanation": "Non-verbal interaction by showing or pointing.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 40544.909715652466,
+  "model": "mistral-small-latest"
+}

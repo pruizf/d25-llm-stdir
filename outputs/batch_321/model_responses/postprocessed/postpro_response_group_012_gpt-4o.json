@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "900",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit un d\u00e9cor, en particulier une route et un ch\u00e2teau gothique, ce qui correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "901",
+      "category": "0",
+      "explanation": "Le verbe 'ob\u00e9ir' est une action g\u00e9n\u00e9rale sans sp\u00e9cificit\u00e9 d'interaction ou de mouvement particulier, relevant donc de la cat\u00e9gorie 'action'.",
+      "stgdir": "Il ob\u00e9it.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "902",
+      "category": "3",
+      "explanation": "Les mots 'en sanglotant, et en pleurant' d\u00e9crivent une expression \u00e9motionnelle lors d'une r\u00e9plique, correspondant \u00e0 la cat\u00e9gorie 'delivery'.",
+      "stgdir": "En sanglotant, et en pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "903",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant qu'il s'agit du titre d'un air musical, correspondant \u00e0 la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR. Nous sommes Pr\u00e9cepteurs d'Amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "904",
+      "category": "0",
+      "explanation": "Aller chercher quelque chose est une action g\u00e9n\u00e9rale, il n'y a pas d'interaction ou de mouvement sp\u00e9cifique d\u00e9crit ici, donc c'est une 'action'.",
+      "stgdir": "Il va les chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "905",
+      "category": "11",
+      "explanation": "Cette didascalie contient une description du th\u00e9\u00e2tre et des personnages, tels que leur habillement, ce qui correspond \u00e0 un 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "906",
+      "category": "8",
+      "explanation": "Mention de 'Air op\u00e9ra' indique qu'il s'agit de la cat\u00e9gorie 'music'.",
+      "stgdir": "Air op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "907",
+      "category": "3",
+      "explanation": "La mention de 'chante' indique que le personnage chante, relevant de la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Monsieur Jourdain chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "908",
+      "category": "12",
+      "explanation": "La didascalie '\u00c0 Menos' indique le destinataire d'une action ou d'une parole, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Menos.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "909",
+      "category": "0",
+      "explanation": "L'ouverture du portefeuille et l'examen de son contenu sont des actions g\u00e9n\u00e9rales, et non une interaction pr\u00e9cise ou une manipulation sp\u00e9cifique d'objet, malgr\u00e9 la mention d'un objet, donc 'action'.",
+      "stgdir": "Il ouvre le portefeuille, il examine ce qu'il contient, et dit :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "910",
+      "category": "12",
+      "explanation": "Ici, 'Au turc et au Mogol' d\u00e9signe \u00e0 qui s'adressent des paroles ou actions, correspondant \u00e0 'toward'.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "911",
+      "category": "3",
+      "explanation": "Le terme 'h\u00e9sitant' d\u00e9crit une mani\u00e8re de d\u00e9livrer une ligne ou une action, cela correspond \u00e0 'delivery'.",
+      "stgdir": "H\u00e9sitant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "912",
+      "category": "12",
+      "explanation": "'Aux peintres qui sont rest\u00e9s et qui l'attendent' d\u00e9signe le destinataire potentiel d'une interaction, relevant de 'toward'.",
+      "stgdir": "Aux peintres qui sont rest\u00e9s et qui l'attendent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "913",
+      "category": "1",
+      "explanation": "L'action des lutins 'se jettent sur Arlequin' et le 'bernent' est une action violente, correspondant \u00e0 'aggression'.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "914",
+      "category": "11",
+      "explanation": "La description du d\u00e9cor, de la sc\u00e8ne en tant que caf\u00e9 et chambres, correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un caf\u00e9 et des chambres sur les ailes, de fa\u00e7on qu'un peut entrer de plain-pied des appartements dans le caf\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "915",
+      "category": "10",
+      "explanation": "Mettre une perruque implique une interaction avec un objet, ce qui rel\u00e8ve de la cat\u00e9gorie 'object'.",
+      "stgdir": "Il met la perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "916",
+      "category": "12",
+      "explanation": "'\u00c0 Drusus' indique le destinataire d'une action ou d'une parole, relevant de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Drusus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "917",
+      "category": "11",
+      "explanation": "La description d'une sc\u00e8ne de bal avec une compagnie et des violons constitue un 'setting'.",
+      "stgdir": "Cette sc\u00e8ne est dans une salle pr\u00e9par\u00e9e pour un bal, o\u00f9 il y a compagnie, et des violons.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "918",
+      "category": "12",
+      "explanation": "'\u00c0 Lafrappe' d\u00e9signe un destinataire potentiel, ce qui rel\u00e8ve de 'toward'.",
+      "stgdir": "\u00c0 Lafrappe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "919",
+      "category": "8",
+      "explanation": "Commence par 'Air', indiquant un air musical, correspondant \u00e0 'music'.",
+      "stgdir": "Air : Si le Roi m'avait donn\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "920",
+      "category": "4",
+      "explanation": "Quand 'Flore et Blanche rentrent', cela d\u00e9signe une entr\u00e9e en sc\u00e8ne, d'o\u00f9 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "921",
+      "category": "12",
+      "explanation": "'\u00c0 Ibrahim' signifie le destinataire d'une r\u00e9plique ou d'une action, correspondant \u00e0 'toward'.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "922",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne, le Palais des Rois d'Argos, ce qui est un 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "923",
+      "category": "8",
+      "explanation": "La mention 'AIR' suivie de paroles indique un air musical, relevant de la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR. Votre beaut\u00e9 soumet tout l'univers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "924",
+      "category": "12",
+      "explanation": "Le terme 'Aux deux Com\u00e9dies' d\u00e9signe des destinataires, relevant de 'toward'.",
+      "stgdir": "Aux deux Com\u00e9dies.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "925",
+      "category": "12",
+      "explanation": "'\u00c0 Constantin' indique un destinataire, ce qui rel\u00e8ve de 'toward'.",
+      "stgdir": "\u00c0 Constantin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "926",
+      "category": "5",
+      "explanation": "Elle sort par une porte, ce qui indique une sortie de sc\u00e8ne, relevant de 'exit'.",
+      "stgdir": "Elle sort par la porte de la chambre nuptiale.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "927",
+      "category": "12",
+      "explanation": "'Aux Muses' indique un destinataire, donc cela rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Aux Muses.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "928",
+      "category": "12",
+      "explanation": "'Aux Gens du Bailli' d\u00e9signe des destinataires, ce qui est de la cat\u00e9gorie 'toward'.",
+      "stgdir": "Aux Gens du Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "929",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de 'Dorante entre' indique son arriv\u00e9e en sc\u00e8ne, relevant de 'entrance'.",
+      "stgdir": "Dorante entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "930",
+      "category": "12",
+      "explanation": "'\u00c0 Plisth\u00e8ne' d\u00e9signe un destinataire d'une r\u00e9plique ou action, relevant de 'toward'.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "931",
+      "category": "7",
+      "explanation": "Il passe, ce qui est une forme de mouvement sur sc\u00e8ne, donc 'movement'.",
+      "stgdir": "Il passe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "932",
+      "category": "5",
+      "explanation": "Brigitte sort donc cela indique qu'elle quitte la sc\u00e8ne, correspondant \u00e0 'exit'.",
+      "stgdir": "Brigitte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "933",
+      "category": "4",
+      "explanation": "Le mot 'Entr\u00e9e' d\u00e9signe l'entr\u00e9e en sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "934",
+      "category": "1",
+      "explanation": "L'action de frapper avec une pique est violente, ce qui rel\u00e8ve de la cat\u00e9gorie 'aggression'.",
+      "stgdir": "Le soldat le frappe de sa pique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "935",
+      "category": "11",
+      "explanation": "La description des jardins du Palais d'Hercule constitue un 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente les jardins du Palais d'Hercule sur le bord de la mer.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "936",
+      "category": "10",
+      "explanation": "Retirer un volume de son habit implique l'usage d'un objet, relevant de la cat\u00e9gorie 'object'.",
+      "stgdir": "Il tire un petit volume de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "937",
+      "category": "9",
+      "explanation": "Le chiffre 'IV.' est probablement une r\u00e9f\u00e9rence \u00e0 un acte ou une sc\u00e8ne sp\u00e9cifique, ce qui est narratif, donc 'narration'.",
+      "stgdir": "IV.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "938",
+      "category": "11",
+      "explanation": "La mention de 'La sc\u00e8ne est chez l'Abb\u00e9' d\u00e9crit le d\u00e9cor ou l'emplacement de la sc\u00e8ne, relevant de 'setting'.",
+      "stgdir": "La sc\u00e8ne est chez l'Abb\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "939",
+      "category": "0",
+      "explanation": "L'action de ne pas se mettre \u00e0 genoux est relativement g\u00e9n\u00e9rale et n'entre pas clairement dans une autre cat\u00e9gorie.",
+      "stgdir": "Sans se mettre \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "940",
+      "category": "12",
+      "explanation": "'\u00c0 Medwin' indique le destinataire d'une parole ou action, correspondant \u00e0 'toward'.",
+      "stgdir": "\u00c0 Medwin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "941",
+      "category": "12",
+      "explanation": "'\u00c0 son cheval' d\u00e9signe le destinataire d'une parole ou action, relevant de 'toward'.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "942",
+      "category": "11",
+      "explanation": "La description d\u00e9taill\u00e9e du cabinet de G\u00e9ralde constitue un 'setting'.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente Le cabinet de G\u00e9ralde ; sur La gauche est une table, couverte de papiers en d\u00e9sordre ; sur sa droite, un clavecin ; une biblioth\u00e8que, dans Le fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "943",
+      "category": "12",
+      "explanation": "'\u00c0 Dangeste' indique le destinataire d'une action ou parole, relevant de 'toward'.",
+      "stgdir": "\u00c0 Dangeste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "944",
+      "category": "3",
+      "explanation": "'\u00c0 voix haute' d\u00e9crit la mani\u00e8re dont une r\u00e9plique est d\u00e9livr\u00e9e, ce qui rel\u00e8ve de 'delivery'.",
+      "stgdir": "\u00c0 voix haute.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "945",
+      "category": "9",
+      "explanation": "Le chant du coucou est une description sonore, et non l'action directe d'un personnage, relevant de 'narration'.",
+      "stgdir": "Le coucou chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "946",
+      "category": "0",
+      "explanation": "Sans indication sp\u00e9cifique de ce que fait Arlequin avec l'allumette, cela demeure une 'action'.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "947",
+      "category": "12",
+      "explanation": "'\u00c0 Delphine' indique le destinataire d'une parole ou interaction, relevant de 'toward'.",
+      "stgdir": "\u00c0 Delphine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "948",
+      "category": "0",
+      "explanation": "Prendre quelqu'un est une action g\u00e9n\u00e9rale sans sp\u00e9cificit\u00e9 d'interaction non verbale, correspondant \u00e0 'action'.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "949",
+      "category": "0",
+      "explanation": "Chercher \u00e0 renouer le fil bris\u00e9 de son discours est une action introspective, correspondant \u00e0 'action'.",
+      "stgdir": "Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "950",
+      "category": "4",
+      "explanation": "L'entr\u00e9e d'Orphise et Lise est une 'entrance'.",
+      "stgdir": "Orphise et Lise entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "951",
+      "category": "3",
+      "explanation": "'Haut \u00e0 Fanchette' indique une mani\u00e8re d'exprimer une phrase, relevant de 'delivery'.",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "952",
+      "category": "8",
+      "explanation": "La mention de 'Couplet du P\u00e9dant' et 'air' indique qu'il s'agit d'une 'music'.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "953",
+      "category": "0",
+      "explanation": "Enlever quelqu'un est une action mais pas n\u00e9cessairement agressive ou une interaction plus que \u00e7a, d'o\u00f9 'action'.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "954",
+      "category": "8",
+      "explanation": "La mention explicite 'AIR' suivie d'un titre indique une didascalie de musique.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "955",
+      "category": "1",
+      "explanation": "Frapper sur les oreilles de l'\u00e2ne est une action violente, correspondant \u00e0 'aggression'.",
+      "stgdir": "Elle frappe sur les oreilles de l'\u00e2ne qui rue.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "956",
+      "category": "12",
+      "explanation": "'\u00c0 l'intendant' d\u00e9signe le destinataire d'une action/ r\u00e9plique, relevant de 'toward'.",
+      "stgdir": "\u00c0 l'intendant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "957",
+      "category": "0",
+      "explanation": "Regarder les enfants est une action g\u00e9n\u00e9rale, puisqu'elle n'est pas sp\u00e9cifiquement une interaction.",
+      "stgdir": "En regardant les enfants.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "958",
+      "category": "10",
+      "explanation": "Ouvrir un tiroir implique une interaction avec un objet, correspondant \u00e0 'object'.",
+      "stgdir": "Elle ouvre un tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "959",
+      "category": "8",
+      "explanation": "La mention explicite 'AIR' suivie d'un titre indique une didascalie de musique.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "960",
+      "category": "11",
+      "explanation": "La description des 'rivages du Tibre' constitue un 'setting'.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "961",
+      "category": "9",
+      "explanation": "Entendre tousser est un bruit de fond qui rel\u00e8ve de la narration/sc\u00e9nographie.",
+      "stgdir": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "962",
+      "category": "11",
+      "explanation": "Changement de d\u00e9cor en 'd\u00e9sert et une grotte' constitue un 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "963",
+      "category": "5",
+      "explanation": "Se retirer indique que Don Quichotte quitte la sc\u00e8ne, cat\u00e9gorie 'exit'.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "964",
+      "category": "6",
+      "explanation": "L'action d'embrasser implique une interaction non verbale, relevant de 'interaction'.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "965",
+      "category": "9",
+      "explanation": "Mention de 'SC\u00c8NES FRAN\u00c7AISES' est plut\u00f4t narrative, sans action/personnage explicitement associ\u00e9s.",
+      "stgdir": "SC\u00c8NES FRAN\u00c7AISES.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "966",
+      "category": "7",
+      "explanation": "S'\u00e9loigner est un mouvement sur sc\u00e8ne ne constituant pas une sortie.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "967",
+      "category": "7",
+      "explanation": "Le d\u00e9fil\u00e9 et retrait de la troupe impliquent du mouvement collectif, mais pas strictement une 'exit'.",
+      "stgdir": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "968",
+      "category": "5",
+      "explanation": "Ils s'en vont d\u00e9signe une sortie de sc\u00e8ne, d'o\u00f9 la cat\u00e9gorie 'exit'.",
+      "stgdir": "Ils s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "969",
+      "category": "0",
+      "explanation": "Se relever est une action physique g\u00e9n\u00e9rale, relevant de 'action'.",
+      "stgdir": "Se relevant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "970",
+      "category": "12",
+      "explanation": "'\u00c0 Ergazile' indique \u00e0 qui l'action ou paroles sont dirig\u00e9es, correspondant \u00e0 'toward'.",
+      "stgdir": "\u00c0 Ergazile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "971",
+      "category": "0",
+      "explanation": "'Prenant le pli' implique une action, relevant de la cat\u00e9gorie 'action'.",
+      "stgdir": "Prenant le pli.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "972",
+      "category": "8",
+      "explanation": "Mention de 'Air' suivi d'un titre sugg\u00e8re une musique sp\u00e9cifique, correspondant \u00e0 'music'.",
+      "stgdir": "Air : Des Pierrots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "973",
+      "category": "8",
+      "explanation": "Le terme 'Air : Not\u00e9 \u00e0 la fin' d\u00e9signe un air musical, relevant de 'music'.",
+      "stgdir": "Air : Not\u00e9 \u00e0 la fin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "974",
+      "category": "7",
+      "explanation": "Se tirer \u00e0 l'\u00e9cart est un mouvement de personnage, ne constituant pas une interaction ni entr\u00e9e/sortie directe.",
+      "stgdir": "Il se tire \u00e0 l'\u00e9cart.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 41416.02349281311,
+  "model": "gpt-4o"
+}

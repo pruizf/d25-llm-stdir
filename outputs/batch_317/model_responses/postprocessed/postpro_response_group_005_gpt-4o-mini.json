@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "375",
+      "category": "4",
+      "explanation": "Entre Dergos indicates that a character is entering the stage.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "376",
+      "category": "12",
+      "explanation": "\u00c0 l'artisan suggests that the character is addressing or directing their speech towards the artisan.",
+      "stgdir": "\u00c0 l'artisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "377",
+      "category": "3",
+      "explanation": "Air: Je ne veux point troubler votre ignorance is a musical delivery indicating vocal expression.",
+      "stgdir": "Air : Je ne veux point troubler votre ignorance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "378",
+      "category": "1",
+      "explanation": "Il le frappe ou croit le frapper depicts a violent action, thus fitting into the aggression category.",
+      "stgdir": "Il le frappe ou croit le frapper, et attrape le mur, qui lui fait tomber son b\u00e2ton de la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "379",
+      "category": "4",
+      "explanation": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io signals a character interaction on stage, typically involving entrance.",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "380",
+      "category": "6",
+      "explanation": "Montrant l'huissier indicates a character is non-verbally interacting and pointing to the huissier.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "10",
+      "explanation": "Il tire son portefeuille describes a character interacting with an object, specifically retrieving a wallet.",
+      "stgdir": "Il tire son portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "3",
+      "explanation": "VOEU DE SOPHONISBE \u00c0 L'AMOUR indicates a vocal expression related to a vow, fitting under delivery.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "12",
+      "explanation": "\u00c0 son \u00e9poux indicates that a character is addressing their spouse.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "4",
+      "explanation": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier suggests character movement and implies an entrance.",
+      "stgdir": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "8",
+      "explanation": "On entend le sifflet du tube acoustique indicates a musical sound that fits within the music category.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "0",
+      "explanation": "Elle a l'air d'observer le Th\u00e9\u00e2tre describes a general action of observing, fitting the action category.",
+      "stgdir": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "10",
+      "explanation": "La Reine prenant le paquet de la suivante describes an interaction with an object, specifically taking a package.",
+      "stgdir": "La Reine prenant le paquet de la suivante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "11",
+      "explanation": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre provides a setting description of where the characters are located.",
+      "stgdir": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "6",
+      "explanation": "Montrant la Marchande de Chansons implies non-verbal interaction by pointing towards the Marchande de Chansons.",
+      "stgdir": "Montrant la Marchande de Chansons.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "390",
+      "category": "0",
+      "explanation": "Il a l'air d'\u00e9couter describes a character action of listening, suitable for the action category.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "391",
+      "category": "8",
+      "explanation": "Air: La Boulang\u00e8re a des \u00e9cus is a musical expression, fitting within the music category.",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "392",
+      "category": "4",
+      "explanation": "Apercevant Flamand suggests a character entering or coming into view.",
+      "stgdir": "Apercevant Flamand.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "393",
+      "category": "8",
+      "explanation": "Air: Quand la mer rouge apparut references a musical piece, falling under the music category.",
+      "stgdir": "Air : Quand la mer rouge apparut.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "394",
+      "category": "5",
+      "explanation": "Marthe sort indicates that a character is exiting the stage.",
+      "stgdir": "Marthe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "395",
+      "category": "3",
+      "explanation": "On entend Sosie qui chante describes a character singing, fitting under delivery.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "396",
+      "category": "9",
+      "explanation": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e narrates a sound effect, suitable for narration.",
+      "stgdir": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "397",
+      "category": "10",
+      "explanation": "Il prend une couronne dans le panier d'Antoine involves interaction with an object, making it fit the object category.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "398",
+      "category": "7",
+      "explanation": "Allant \u00e0 elle indicates movement towards another character.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "399",
+      "category": "12",
+      "explanation": "\u00c0 l'Inspecteur des B\u00e2timents suggests the character is addressing the inspector.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "400",
+      "category": "12",
+      "explanation": "\u00c0 Perdiccas indicates that the character is speaking to Perdiccas.",
+      "stgdir": "\u00c0 Perdiccas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "401",
+      "category": "6",
+      "explanation": "Il voit Sophie indicates non-verbal interaction as he sees her.",
+      "stgdir": "Il voit Sophie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "402",
+      "category": "3",
+      "explanation": "R\u00e9pondant suggests a delivery of spoken response, fitting the delivery category.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "403",
+      "category": "3",
+      "explanation": "Sur l'Air: Quand on a bu, la t\u00eate tourne indicates core vocal expression tied to a musical piece.",
+      "stgdir": "Sur l'Air : Quand on a bu, la t\u00eate tourne.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "404",
+      "category": "10",
+      "explanation": "Elle pr\u00e9sente le peignoir au feu describes interaction with an object, specifically presenting a robe to the fire.",
+      "stgdir": "Elle pr\u00e9sente le peignoir au feu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "405",
+      "category": "4",
+      "explanation": "Il entre aussi chez Hipolite implies the character is entering another location.",
+      "stgdir": "Il entre aussi chez Hipolite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "406",
+      "category": "11",
+      "explanation": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal describes the setting of the scene.",
+      "stgdir": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "407",
+      "category": "8",
+      "explanation": "Air: Sur le Pont d'Avignon is a musical piece mentioned, fitting in the music category.",
+      "stgdir": "Air : Sur le Pont d'Avignon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "408",
+      "category": "6",
+      "explanation": "Elle l'embrasse encore indicates physical interaction between characters.",
+      "stgdir": "Elle l'embrasse encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "409",
+      "category": "12",
+      "explanation": "\u00c0 Achior means the character is addressing Achior.",
+      "stgdir": "\u00c0 Achior.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "410",
+      "category": "0",
+      "explanation": "Elle le fait comme elle de dis describes a general action of mimicking or doing similar actions.",
+      "stgdir": "Elle le fait comme elle de dis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "411",
+      "category": "5",
+      "explanation": "Laurent et Grivet sortent par la porte du fond indicates characters are exiting.",
+      "stgdir": "Laurent et Grivet sortent par la porte du fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "412",
+      "category": "8",
+      "explanation": "Air: Voulez-vous savoir l'histoire, etc., describes a tune, making it suitable for the music category.",
+      "stgdir": "Air : Voulez-vous savoir l'histoire, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "413",
+      "category": "8",
+      "explanation": "On entend un bruit de hautbois indicates a musical sound being produced.",
+      "stgdir": "On entend un bruit de hautbois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "414",
+      "category": "8",
+      "explanation": "Air nouveau du C. DELAPORTE indicates a new piece of music mentioned.",
+      "stgdir": "Air nouveau du C. DELAPORTE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "415",
+      "category": "12",
+      "explanation": "\u00c0 Finot suggests directing speech towards Finot.",
+      "stgdir": "\u00c0 Finot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "416",
+      "category": "8",
+      "explanation": "Air 171. Menuet des F\u00eates Grecques et Rom references a piece of music.",
+      "stgdir": "Air 171. Menuet des F\u00eates Grecques et Rom.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "417",
+      "category": "4",
+      "explanation": "Apercevant Cassandre suggests noticing or seeing Cassandre, indicating a character entering the scene.",
+      "stgdir": "Apercevant Cassandre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "418",
+      "category": "12",
+      "explanation": "\u00c0 Placide means the character is speaking towards Placide.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "419",
+      "category": "3",
+      "explanation": "Il sonne du cor indicates a character is using an instrument, which includes vocal delivery.",
+      "stgdir": "Il sonne du cor.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "420",
+      "category": "9",
+      "explanation": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon describes a sound effect that serves to narrate.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "4",
+      "explanation": "Antoinette para\u00eet au fond indicates she is making an entrance.",
+      "stgdir": "Antoinette para\u00eet au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "8",
+      "explanation": "Air: Tes beaux jeux, ma Nicole describes a musical piece.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "5",
+      "explanation": "Ils sortent en causant indicates characters exiting while talking.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "3",
+      "explanation": "Air: Un jour que j'avais mal dans\u00e9 indicates a musical delivery.",
+      "stgdir": "Air : Un jour que j'avais mal dans\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "0",
+      "explanation": "Il entend sa ma\u00eetresse indicates general action regarding hearing someone.",
+      "stgdir": "Il entend sa ma\u00eetresse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "4",
+      "explanation": "Lucile revient suggests that she is making an entrance back on stage.",
+      "stgdir": "Lucile revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "7",
+      "explanation": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main] indicates a form of character movement.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "6",
+      "explanation": "Lui montrant le billet indicates non-verbal interaction through showing the ticket.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "12",
+      "explanation": "\u00c0 Eum\u00e9e indicates that the character is addressing Eum\u00e9e.",
+      "stgdir": "\u00c0 Eum\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "430",
+      "category": "11",
+      "explanation": "dans le bois describes a setting or location.",
+      "stgdir": "dans le bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "3",
+      "explanation": "Air: Quand on tient de ce jus d'octobre indicates vocal delivery linked to music.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "0",
+      "explanation": "Il l'examine des pieds \u00e0 la t\u00eate shows an action of examination, suitable under general action.",
+      "stgdir": "Il l'examine des pieds \u00e0 la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "3",
+      "explanation": "Air: Alarmez vous implies delivery of a warning through a song.",
+      "stgdir": "Air : Alarmez vous.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "0",
+      "explanation": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier describes action unrelated to the other specific categories, thus placing it under action.",
+      "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "0",
+      "explanation": "Orph\u00e9e passe sans regarder Eurydice indicates movement and passing without interaction.",
+      "stgdir": "Orph\u00e9e passe sans regarder Eurydice.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "0",
+      "explanation": "Il aper\u00e7oit Hircan describes a character observing, which fits within the action category.",
+      "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "AIR: De la marche du Malade imaginaire suggests it is a musical piece.",
+      "stgdir": "AIR : De la marche du Malade imaginaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "6",
+      "explanation": "Lui baisant la bouche indicates a non-verbal act of kissing, showing interaction.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "0",
+      "explanation": "Il se l\u00e8ve, ainsi que Maurice describes a general action of standing up.",
+      "stgdir": "Il se l\u00e8ve, ainsi que Maurice.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "440",
+      "category": "3",
+      "explanation": "Air: Du partage de la richesse indicates musical delivery.",
+      "stgdir": "Air : Du partage de la richesse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "441",
+      "category": "6",
+      "explanation": "Il la retient encore par le bras, et, perdant tout respect indicates non-verbal interaction.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "442",
+      "category": "10",
+      "explanation": "Il tire du papier mou de son pot involves interaction with an object.",
+      "stgdir": "Il tire du papier mou de son pot.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "443",
+      "category": "12",
+      "explanation": "\u00c0 Madame Grognac implies that the character is directing their speech to Madame Grognac.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "444",
+      "category": "8",
+      "explanation": "Air: Menuet d'Exaudet is a reference to a piece of music.",
+      "stgdir": "Air : Menuet d'Exaudet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "445",
+      "category": "5",
+      "explanation": "C\u00e9sario sort indicates that a character is exiting the stage.",
+      "stgdir": "C\u00e9sario sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "446",
+      "category": "11",
+      "explanation": "Une fontaine dans un bois details a specific setting.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "447",
+      "category": "10",
+      "explanation": "Elle soul\u00e8ve l'autre vase et prend le billet describes interaction with objects.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "448",
+      "category": "5",
+      "explanation": "N\u00e9restan sort indicates a character exiting.",
+      "stgdir": "N\u00e9restan sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "449",
+      "category": "8",
+      "explanation": "AIR ( Le Cabaret est mon r\u00e9duit. ) is referencing a musical piece.",
+      "stgdir": "AIR ( Le Cabaret est mon r\u00e9duit. )",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 31879.934310913086,
+  "model": "gpt-4o-mini"
+}

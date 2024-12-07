@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 0,
+      "category": 0,
+      "explanation": "La porte se rouvre.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 1,
+      "category": 10,
+      "explanation": "Il tire un Papier.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 2,
+      "category": 11,
+      "explanation": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 3,
+      "category": 0,
+      "explanation": "En voyant la porte ferm\u00e9e.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 4,
+      "category": 0,
+      "explanation": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 5,
+      "category": 0,
+      "explanation": "Regard \u00e0 la montre.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 6,
+      "category": 2,
+      "explanation": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 7,
+      "category": 0,
+      "explanation": "Il s'assied dans le fauteuil.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 8,
+      "category": 0,
+      "explanation": "Elle se met \u00e0 ses pieds.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 9,
+      "category": 11,
+      "explanation": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 10,
+      "category": 0,
+      "explanation": "D\u00e9signant du pied une dalle.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 11,
+      "category": 0,
+      "explanation": "Ils se jettent \u00e0 genoux.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 12,
+      "category": 4,
+      "explanation": "Elle frappe \u00e0 la porte en dehors.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 13,
+      "category": 10,
+      "explanation": "Ils mangent tous deux.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 14,
+      "category": 7,
+      "explanation": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 15,
+      "category": 5,
+      "explanation": "Elle se l\u00e8ve pour sortir.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 16,
+      "category": 10,
+      "explanation": "Il tire le cordon de la sonnette.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 17,
+      "category": 1,
+      "explanation": "Don Carlos tire son \u00e9p\u00e9e.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 18,
+      "category": 0,
+      "explanation": "Montrant l'huissier.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 19,
+      "category": 3,
+      "explanation": "Changeant de ton et suppliant.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 20,
+      "category": 0,
+      "explanation": "Il y cherche.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 21,
+      "category": 0,
+      "explanation": "Le lui montrant.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 22,
+      "category": 3,
+      "explanation": "Il s'assied, et il \u00e9crit en chantant.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 23,
+      "category": 10,
+      "explanation": "Rendant le flacon vide.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 24,
+      "category": 10,
+      "explanation": "Il porte la fiole \u00e0 sa bouche.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 25,
+      "category": 0,
+      "explanation": "Il ouvre le tiroir.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 26,
+      "category": 0,
+      "explanation": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 27,
+      "category": 3,
+      "explanation": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 28,
+      "category": 0,
+      "explanation": "Elle regarde les fleurs.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 29,
+      "category": 0,
+      "explanation": "Il lit l'affiche.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 30,
+      "category": 10,
+      "explanation": "En regardant le diamant.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 31,
+      "category": 11,
+      "explanation": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 32,
+      "category": 7,
+      "explanation": "Regardant du cot\u00e9 oppos\u00e9.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 33,
+      "category": 10,
+      "explanation": "Ils boivent de nouveau.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 34,
+      "category": 10,
+      "explanation": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 35,
+      "category": 0,
+      "explanation": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 36,
+      "category": 10,
+      "explanation": "Lui montrant une lettre.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 37,
+      "category": 10,
+      "explanation": "Ils se mettent \u00e0 table.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 38,
+      "category": 6,
+      "explanation": "Lucile continue de regarder.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 39,
+      "category": 9,
+      "explanation": "La pendule sonne six heures.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 40,
+      "category": 0,
+      "explanation": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 41,
+      "category": 6,
+      "explanation": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 42,
+      "category": 0,
+      "explanation": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 43,
+      "category": 3,
+      "explanation": "Lisant :",
+      "stgdir": "Lisant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 44,
+      "category": 0,
+      "explanation": "Elle ouvre l'armoire.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 45,
+      "category": 0,
+      "explanation": "Elle s'\u00e9tend dans un fauteuil.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 46,
+      "category": 5,
+      "explanation": "Ils se l\u00e8vent de table.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 47,
+      "category": 6,
+      "explanation": "Il voit venir la Princesse.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 48,
+      "category": 4,
+      "explanation": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 49,
+      "category": 3,
+      "explanation": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du th\u00e9\u00e2tre.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 50,
+      "category": 0,
+      "explanation": "Il se jette aux genoux de la Marquise.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 51,
+      "category": 6,
+      "explanation": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 52,
+      "category": 5,
+      "explanation": "Il l\u00e8ve les Gardes de la Chambre.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 53,
+      "category": 6,
+      "explanation": "En regardant Terville.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 54,
+      "category": 3,
+      "explanation": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 55,
+      "category": 3,
+      "explanation": "Scarron continue d'\u00e9crire.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 56,
+      "category": 0,
+      "explanation": "Elle d\u00e9fait le papier.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 57,
+      "category": 1,
+      "explanation": "Il montre son vit.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 58,
+      "category": 0,
+      "explanation": "Ils s'assoient.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 59,
+      "category": 6,
+      "explanation": "Il tourne les yeux sur Henry.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 60,
+      "category": 6,
+      "explanation": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 61,
+      "category": 6,
+      "explanation": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 62,
+      "category": 0,
+      "explanation": "Il montre le mari de la Vieille.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 63,
+      "category": 10,
+      "explanation": "On se met \u00e0 table.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 64,
+      "category": 6,
+      "explanation": "Il a l'air d'\u00e9couter.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 65,
+      "category": 10,
+      "explanation": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 66,
+      "category": 0,
+      "explanation": "Corbineli fait le signe de la Croix.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 67,
+      "category": 6,
+      "explanation": "Apercevant Ad\u00e9la\u00efde.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 68,
+      "category": 6,
+      "explanation": "Il tend l'oreille anxieusement.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 69,
+      "category": 0,
+      "explanation": "Il va aux fontaines et boit.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 70,
+      "category": 0,
+      "explanation": "Montrant Trissotin.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 71,
+      "category": 0,
+      "explanation": "Parcourant la lettre.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 72,
+      "category": 10,
+      "explanation": "Montrant ses yeux poch\u00e9s.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 73,
+      "category": 6,
+      "explanation": "Regardant.",
+      "stgdir": "Regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 74,
+      "category": 10,
+      "explanation": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 54960.54530143738,
+  "model": "mistral-small-latest"
+}

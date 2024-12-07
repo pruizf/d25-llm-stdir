@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "225",
+      "category": "0",
+      "explanation": "L'action de rendre ses armes est une action g\u00e9n\u00e9rale qui ne rentre pas dans les autres cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Il lui rend ses armes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "12",
+      "explanation": "Le regardant indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Le regardant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "0",
+      "explanation": "D\u00e9couvrir une robe est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Le Laquais d\u00e9couvre une robe garnie de fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "0",
+      "explanation": "Chercher une id\u00e9e est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Cherchant une id\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "230",
+      "category": "12",
+      "explanation": "\u00c0 marquis indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR du vaudeville de l'Avare.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR : J'en jurerais presque sur sa laideur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "3",
+      "explanation": "Fredonnant d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Fredonnant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "10",
+      "explanation": "Montrant la lettre implique une interaction avec un objet.",
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "9",
+      "explanation": "La didascalie est longue et narrative, d\u00e9crivant une s\u00e9quence d'actions.",
+      "stgdir": "Tout \u00e9tant dispos\u00e9, et le cur\u00e9 \u00e9tant arriv\u00e9 dans une cal\u00e8che a six chevaux qu'on avait envoy\u00e9e au devant de lui, il fut conduit \u00e0 son tr\u00f4ne. D\u00e8s qu'il fut assis, l'orateur lui pronon\u00e7a \u00e0 genoux une harangue dans le style de l'acad\u00e9mie, pleine de louanges, d'antith\u00e8ses, et de mots nouveaux. Le cur\u00e9 re\u00e7ut tous ces \u00e9loges avec l'air d'un homme qui sait bien qu'il en m\u00e9rite encore davantage ; car tout le monde n'est pas de l'humeur de notre reine***, qui hait les louanges autant qu'elle les m\u00e9rite. Apr\u00e8s la harangue, on ex\u00e9cuta le concert dont on vous envoie les paroles ; les choeurs all\u00e8rent \u00e0 merveille, et la c\u00e9r\u00e9monie finit par une grande pi\u00e8ce de vers poupeux, \u00e0 laquelle ni les assistants, ni le cur\u00e9, ni l'auteur, n'entendirent rien. Il faudrait avoir \u00e9t\u00e9 t\u00e9moin de cette f\u00eate pour en bien sentir l'agr\u00e9ment : les projets et les pr\u00e9paratifs de ces divertissements sont toujours agr\u00e9ables, l'ex\u00e9cution rarement bonne, et le r\u00e9cit souvent ennuyeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "8",
+      "explanation": "La mention d'une symphonie indique une didascalie de musique.",
+      "stgdir": "La symphonie vive recommence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "7",
+      "explanation": "L'\u00e9change de cartes implique un mouvement.",
+      "stgdir": "\u00c9change des cartes.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "12",
+      "explanation": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "0",
+      "explanation": "Pr\u00e9senter des lettres et pr\u00e9parer la toilette sont des actions g\u00e9n\u00e9rales.",
+      "stgdir": "Girolamo lui pr\u00e9sente plusieurs lettres puis va et vient dans l'appartement en pr\u00e9parant ce qu'il faut pour la toilette de son ma\u00eetre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "240",
+      "category": "5",
+      "explanation": "Il sort avec Dorante indique une sortie de sc\u00e8ne.",
+      "stgdir": "Il sort avec Dorante.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": "12",
+      "explanation": "\u00c0 Adario indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": "12",
+      "explanation": "\u00c0 Crispin indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Crispin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": "10",
+      "explanation": "Montrant la lettre implique une interaction avec un objet.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": "12",
+      "explanation": "Il se retourne vers son fils et lui dit indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": "10",
+      "explanation": "\u00d4ter le chapeau implique une interaction avec un objet.",
+      "stgdir": "Arnolphe \u00f4te le chapeau de dessus la t\u00eate d'Alain.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": "5",
+      "explanation": "Odmar sort indique une sortie de sc\u00e8ne.",
+      "stgdir": "Odmar sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Air Not\u00e9, N\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": "12",
+      "explanation": "\u00c0 Germeuil indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Germeuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "250",
+      "category": "5",
+      "explanation": "Le petit Befor se retire de la danse indique une sortie de sc\u00e8ne.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "251",
+      "category": "4",
+      "explanation": "Val\u00e8re frappe \u00e0 la porte du logis de Clim\u00e8ne indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Val\u00e8re frappe \u00e0 la porte du logis de Clim\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "252",
+      "category": "0",
+      "explanation": "Remplir et refermer le sac est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Serre-fort remplit et referme le sac.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "253",
+      "category": "5",
+      "explanation": "Lincoln et sa troupe sortent indique une sortie de sc\u00e8ne.",
+      "stgdir": "Lincoln et sa troupe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "254",
+      "category": "0",
+      "explanation": "On se met \u00e0 table est une action g\u00e9n\u00e9rale.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "255",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "256",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Air : Vaudeville de Jean Monnet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "257",
+      "category": "12",
+      "explanation": "\u00c0 Marlot indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "258",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "259",
+      "category": "12",
+      "explanation": "\u00c0 Marforio indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Marforio.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "260",
+      "category": "0",
+      "explanation": "Elle sort avec Guerland indique une sortie de sc\u00e8ne.",
+      "stgdir": "La comtesse se l\u00e8ve et va pour rentrer chez elle, le Comte l'arr\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "261",
+      "category": "12",
+      "explanation": "\u00c0 Albert indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Air : La bonne aventure, \u00f4 gai ?",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "262",
+      "category": "5",
+      "explanation": "Elle sort avec Guerland par le fond indique une sortie de sc\u00e8ne.",
+      "stgdir": "\u00c0 Albert.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "263",
+      "category": "0",
+      "explanation": "Elle s'appuie contre l'autel est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle sort avec Guerland par le fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "264",
+      "category": "3",
+      "explanation": "Gaiment d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Elle s'appuie contre l'autel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "265",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Gaiment.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "266",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente le temple d'Isis avec la statue de cette d\u00e9esse d\u00e9crit une description de la sc\u00e8ne.",
+      "stgdir": "Air : Sauter donc, mon coeur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "267",
+      "category": "3",
+      "explanation": "Changeant de ton d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le temple d'Isis avec la statue de cette d\u00e9esse. Apr\u00e8s la danse, Dana\u00fcs, Hypermnestre, Lync\u00e9e, arrivent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "268",
+      "category": "12",
+      "explanation": "\u00c0 Michaud indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Changeant de ton.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "269",
+      "category": "0",
+      "explanation": "Il lui met son manchon est une action g\u00e9n\u00e9rale.",
+      "stgdir": "\u00c0 Michaud.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "270",
+      "category": "0",
+      "explanation": "Lui prenant son habit est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il lui met son manchon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": "11",
+      "explanation": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil, etc. d\u00e9crit une description de la sc\u00e8ne.",
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": "2",
+      "explanation": "Se parlant \u00e0 lui-m\u00eame indique un apart\u00e9.",
+      "stgdir": "Se parlant \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": "3",
+      "explanation": "Arlequin rit de toute sa force d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Arlequin rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": "12",
+      "explanation": "\u00c0 Arcas indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Arcas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": "12",
+      "explanation": "\u00c0 R\u00e9gina indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 R\u00e9gina.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": "11",
+      "explanation": "Chez la marquise Cibo d\u00e9crit une description de la sc\u00e8ne.",
+      "stgdir": "Chez la marquise Cibo.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR. Ah ! le charmant Berger que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": "1",
+      "explanation": "Donner des coups de b\u00e2ton et mettre en fuite implique une action violente.",
+      "stgdir": "Ils donnent des coups de b\u00e2ton \u00e0 la Crainte et la mettent en fuite.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "280",
+      "category": "8",
+      "explanation": "Tout ce reste est chant\u00e9 indique une didascalie de musique.",
+      "stgdir": "Tout ce reste est chant\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "10",
+      "explanation": "Montrant son front implique une interaction avec un objet.",
+      "stgdir": "Montrant son front.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "0",
+      "explanation": "Auguste rentre avec un plateau est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Auguste rentre avec un plateau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR. Non, toujours dire non.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "0",
+      "explanation": "Il continue toujours \u00e0 parler est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il continue toujours \u00e0 parler.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "4",
+      "explanation": "On entre indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "On entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "0",
+      "explanation": "Th\u00e9r\u00e8se et Madame Raquin se l\u00e8vent est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Th\u00e9r\u00e8se et Madame Raquin se l\u00e8vent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "0",
+      "explanation": "TROISI\u00c8ME COUPLET est une action g\u00e9n\u00e9rale.",
+      "stgdir": "TROISI\u00c8ME COUPLET.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "9",
+      "explanation": "ODE \u00c9PITHALAMIQUE est une longue didascalie narrative.",
+      "stgdir": "ODE \u00c9PITHALAMIQUE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre d\u00e9crit une description de la sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "290",
+      "category": "10",
+      "explanation": "Lui prenant son habit implique une interaction avec un objet.",
+      "stgdir": "Lui prenant son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "291",
+      "category": "0",
+      "explanation": "Ils sont tous assis, except\u00e9 Lisette est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Ils sont tous assis, except\u00e9 Lisette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "292",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR. Ainsi qu'une Hirondelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "293",
+      "category": "10",
+      "explanation": "Il montre la fiole de Cl\u00e9arque et celle de Climante implique une interaction avec un objet.",
+      "stgdir": "Il montre la fiole de Cl\u00e9arque et celle de Climante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "294",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Air : De la Meuni\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "295",
+      "category": "0",
+      "explanation": "Il fait semblant de dormir est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il fait semblant de dormir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "296",
+      "category": "0",
+      "explanation": "L'Abb\u00e9 am\u00e8ne plusieurs domestiques qui s'empressent est une action g\u00e9n\u00e9rale.",
+      "stgdir": "L'Abb\u00e9 am\u00e8ne plusieurs domestiques qui s'empressent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "297",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "AIR : Non, je ne ferai pas ce qu'on veut que je fasse",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "298",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Air : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "299",
+      "category": "8",
+      "explanation": "La mention d'un air sp\u00e9cifique indique une didascalie de musique.",
+      "stgdir": "Air : Du Vaudeville des deux Veuves.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 64843.09411048889,
+  "model": "mistral-small-latest"
+}

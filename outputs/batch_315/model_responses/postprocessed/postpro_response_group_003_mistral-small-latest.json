@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 225,
+      "category": 3,
+      "explanation": "La mention 'Il dit en riant les derniers mots' indique une mani\u00e8re de prononcer les paroles avec une certaine \u00e9motion (rire).",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 226,
+      "category": 4,
+      "explanation": "L'entr\u00e9e du ch\u0153ur est indiqu\u00e9e par 'Le choeur chantera : Tulit ergo Dominas hominem'.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 227,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale du personnage qui fond en larmes.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 228,
+      "category": 3,
+      "explanation": "La reprise de la voix est une mani\u00e8re de parler, donc elle rentre dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 229,
+      "category": 3,
+      "explanation": "R\u00e9p\u00e9ter des vers est une action vocale, donc elle rentre dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 230,
+      "category": 3,
+      "explanation": "R\u00e9p\u00e9ter encore des vers est aussi une action vocale, donc elle rentre dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 231,
+      "category": 1,
+      "explanation": "Appeler un domestique peut impliquer une certaine agressivit\u00e9 ou urgence, donc elle rentre dans la cat\u00e9gorie 'aggression'.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 232,
+      "category": 3,
+      "explanation": "Un duo implique une performance vocale, donc elle rentre dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Duo.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 233,
+      "category": 3,
+      "explanation": "Parler solennellement implique une mani\u00e8re sp\u00e9cifique de parler, donc elle rentre dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 234,
+      "category": 3,
+      "explanation": "Chanter un air entier est une action vocale, donc elle rentre dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 235,
+      "category": 1,
+      "explanation": "Appeler quelqu'un peut impliquer une certaine urgence ou agressivit\u00e9, donc elle rentre dans la cat\u00e9gorie 'aggression'.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 236,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Mariette est indiqu\u00e9e par 'Mariette para\u00eet'.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 237,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Madame Dergos est indiqu\u00e9e par 'Entre Madame Dergos'.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 238,
+      "category": 4,
+      "explanation": "L'entr\u00e9e du chevalier Uladislas est indiqu\u00e9e par 'Le chevalier Uladislas sort de l'h\u00f4tellerie'.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 239,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de trois personnes est indiqu\u00e9e par 'Ils paraissent tous trois'.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 240,
+      "category": 10,
+      "explanation": "L'apparition de Plutus \u00e0 la place du sac implique une interaction avec un objet, donc elle rentre dans la cat\u00e9gorie 'object'.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 241,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Domitian est indiqu\u00e9e par 'Domitian entre'.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 242,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de troupes de magiciens et de d\u00e9mons est indiqu\u00e9e par 'Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables'.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 243,
+      "category": 4,
+      "explanation": "L'entr\u00e9e du Cardinal est indiqu\u00e9e par 'Entre le Cardinal'.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 244,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Madeleine Ozeray et Raymone est indiqu\u00e9e par 'Entrent Madeleine Ozeray et Raymone'.",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 245,
+      "category": 11,
+      "explanation": "La troisi\u00e8me entr\u00e9e de ballet indique une sc\u00e8ne, donc elle rentre dans la cat\u00e9gorie 'setting'.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 246,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de quelqu'un est indiqu\u00e9e par 'Elle arrive'.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 247,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Pasquin est indiqu\u00e9e par 'Pasquin para\u00eet'.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 248,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Val\u00e9rian est indiqu\u00e9e par 'Val\u00e9rian entre'.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 249,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Henri Bassou est indiqu\u00e9e par 'Entre Henri Bassou'.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 250,
+      "category": 11,
+      "explanation": "L'apparition de l'Oranger et de l'Aub\u00e9pine indique un changement de d\u00e9cor, donc elle rentre dans la cat\u00e9gorie 'setting'.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 251,
+      "category": 4,
+      "explanation": "Ils sortent de la caverne indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 252,
+      "category": 4,
+      "explanation": "L'apparition de deux divinit\u00e9s indique une entr\u00e9e, donc elle rentre dans la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 253,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Dergos est indiqu\u00e9e par 'Entre Dergos'.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 254,
+      "category": 4,
+      "explanation": "Les entr\u00e9es de Mithridate, Hypsicrat\u00e9e, Mitridatie, Nise et B\u00e9r\u00e9nice sont indiqu\u00e9es par 'Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux'.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 255,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de plusieurs personnes est indiqu\u00e9e par 'Elles entrent'.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 256,
+      "category": 4,
+      "explanation": "Le retour de Timag\u00e8ne sur la sc\u00e8ne est indiqu\u00e9 par 'Timag\u00e8ne rentre sur le th\u00e9\u00e2tre'.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 257,
+      "category": 6,
+      "explanation": "Les domestiques accourent indique une interaction non-verbale, donc elle rentre dans la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 258,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de l'Exempt et de ses Gardes est indiqu\u00e9e par 'L'Exempt et ses Gardes arrivent'.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 259,
+      "category": 7,
+      "explanation": "Les mouvements sp\u00e9cifiques des personnages sont indiqu\u00e9s par 'ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite'.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 260,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Phalante est indiqu\u00e9e par 'ici Phalante para\u00eet'.",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 261,
+      "category": 7,
+      "explanation": "Les mouvements sp\u00e9cifiques de Fritelin et de son ma\u00eetre sont indiqu\u00e9s par 'Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle'.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 262,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Lisanor est indiqu\u00e9e par 'Lisanor para\u00eet'.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 263,
+      "category": 4,
+      "explanation": "L'entr\u00e9e d'un Gille est indiqu\u00e9e par 'Entr\u00e9e d'un Gille'.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 264,
+      "category": 11,
+      "explanation": "L'apparition du Marquis dans le miroir indique un changement de d\u00e9cor, donc elle rentre dans la cat\u00e9gorie 'setting'.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 265,
+      "category": 4,
+      "explanation": "Le retour de Flore et Blanche est indiqu\u00e9 par 'Flore et Blanche rentrent'.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 266,
+      "category": 4,
+      "explanation": "L'entr\u00e9e d'Oronte est indiqu\u00e9e par 'Oronte para\u00eet'.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 267,
+      "category": 11,
+      "explanation": "La sixi\u00e8me interm\u00e8de indique une sc\u00e8ne, donc elle rentre dans la cat\u00e9gorie 'setting'.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 268,
+      "category": 8,
+      "explanation": "L'entr\u00e9e de ballet de trois Pantomimes est suivie par 'AIR : La rose et le bouton', donc elle rentre dans la cat\u00e9gorie 'music'.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 269,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Moli\u00e8re est indiqu\u00e9e par 'ENTR\u00c9E'.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 270,
+      "category": 4,
+      "explanation": "L'entr\u00e9e de Bricard est indiqu\u00e9e par 'Bricard entre'.",
+      "stgdir": "Moli\u00e8re rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 271,
+      "category": 12,
+      "explanation": "Pendant ce monologue, l'entr\u00e9e de Verseuil est indiqu\u00e9e par 'Pendant ce monologue, Verseuil entre sur la sc\u00e8ne'.",
+      "stgdir": "Bricard entre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 272,
+      "category": 4,
+      "explanation": "L'entr\u00e9e d'un Messager est indiqu\u00e9e par 'Un Messager entre'.",
+      "stgdir": "Pendant ce monologue, Verseuil entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 273,
+      "category": 4,
+      "explanation": "La sortie de Jean Poquelin est indiqu\u00e9e par 'Jean Poquelin sort du cabinet'.",
+      "stgdir": "Un Messager entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 274,
+      "category": 4,
+      "explanation": "La sortie de Monsieur Mathieu est indiqu\u00e9e par 'Monsieur Mathieu sort, sans \u00e9couter Benjamine'.",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 275,
+      "category": 4,
+      "explanation": "La sortie de Phoedime est indiqu\u00e9e par 'Phoedime sort'.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 276,
+      "category": 7,
+      "explanation": "Almaviva et L\u00e9on prennent Phoedime sous les bras et sortent, ce qui indique un mouvement sp\u00e9cifique, donc elle rentre dans la cat\u00e9gorie 'movement'.",
+      "stgdir": "Phoedime sort.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 277,
+      "category": 5,
+      "explanation": "Ils sortent tous, except\u00e9 Babet, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 278,
+      "category": 5,
+      "explanation": "Elle sort avec vivacit\u00e9, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 279,
+      "category": 5,
+      "explanation": "Elle sort avec les Paysans et les Paysannes la suivent, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 280,
+      "category": 5,
+      "explanation": "Adrien sort, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 281,
+      "category": 5,
+      "explanation": "Oloodeme et Eristene se retirent, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 282,
+      "category": 5,
+      "explanation": "Crispe se retire et l'on continue, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 283,
+      "category": 5,
+      "explanation": "Pysandre sort, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 284,
+      "category": 12,
+      "explanation": "Ils s'enfuient hors du Palais, et le Roi continue, indique l'addressee de la parole du roi, donc elle rentre dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 285,
+      "category": 6,
+      "explanation": "Il prend Albert, indique une interaction non-verbale, donc elle rentre dans la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 286,
+      "category": 7,
+      "explanation": "Ils s'enfuient hors du Palais, indique un mouvement sp\u00e9cifique, donc elle rentre dans la cat\u00e9gorie 'movement'.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 287,
+      "category": 6,
+      "explanation": "Valentin sort, indique une interaction non-verbale, donc elle rentre dans la cat\u00e9gorie 'interaction'.",
+      "stgdir": "Valentin sort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 288,
+      "category": 7,
+      "explanation": "Baptiste se sauve, indique un mouvement sp\u00e9cifique, donc elle rentre dans la cat\u00e9gorie 'movement'.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 289,
+      "category": 4,
+      "explanation": "Elle rentre dans le ch\u00e2teau, indique une entr\u00e9e, donc elle rentre dans la cat\u00e9gorie 'entrance'.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 290,
+      "category": 5,
+      "explanation": "Ils sortent tous, except\u00e9 Babet, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 291,
+      "category": 5,
+      "explanation": "Moli\u00e8re sort, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 292,
+      "category": 5,
+      "explanation": "Elle sort en col\u00e8re, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 293,
+      "category": 5,
+      "explanation": "Monsieur Mathieu, Benjamine et Damis sortent, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 294,
+      "category": 7,
+      "explanation": "Merlin s'enfuit, indique un mouvement sp\u00e9cifique, donc elle rentre dans la cat\u00e9gorie 'movement'.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 295,
+      "category": 5,
+      "explanation": "M\u00e9gatise sort, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 296,
+      "category": 7,
+      "explanation": "Il sortesasuite, indique un mouvement sp\u00e9cifique, donc elle rentre dans la cat\u00e9gorie 'movement'.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 297,
+      "category": 5,
+      "explanation": "Il sort par la porte de gauche, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 298,
+      "category": 9,
+      "explanation": "Cette direction d\u00e9crit une longue s\u00e9quence d'actions, donc elle rentre dans la cat\u00e9gorie 'narration'.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 299,
+      "category": 5,
+      "explanation": "Duparc sort, indique une sortie, donc elle rentre dans la cat\u00e9gorie 'exit'.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 74014.04237747192,
+  "model": "mistral-small-latest"
+}

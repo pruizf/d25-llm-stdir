@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2775",
+      "category": "11",
+      "explanation": "Indicates the location '\u00c0 Luville', which is a stage description.",
+      "stgdir": "\u00c0 Luville.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2776",
+      "category": "5",
+      "explanation": "The phrase 'Le cousin et la cousine sortent' indicates the exit of characters.",
+      "stgdir": "Le cousin et la cousine sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2777",
+      "category": "0",
+      "explanation": "The action 'Regardent sa montre' describes a character action without implying exit or interaction.",
+      "stgdir": "Regardent sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2778",
+      "category": "0",
+      "explanation": "The phrase 'Elle cherche encore' indicates a general action of searching.",
+      "stgdir": "Elle cherche encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2779",
+      "category": "11",
+      "explanation": "Indicates the location '\u00c0 Colette', which is a stage description.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2780",
+      "category": "5",
+      "explanation": "The phrase 'Crispe se retire et l'on continue' indicates a character's exit.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2781",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction with the gesture of showing fingers.",
+      "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2782",
+      "category": "4",
+      "explanation": "The phrase 'Dorame para\u00eet' indicates a character's entrance.",
+      "stgdir": "Dorame para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2783",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 un de ses suivants'.",
+      "stgdir": "\u00c0 un de ses suivants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2784",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, 'Au Comte'.",
+      "stgdir": "Au Comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2785",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 Th\u00e9odose'.",
+      "stgdir": "\u00c0 Th\u00e9odose.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2786",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, 'Aux chefs de l'arm\u00e9e'.",
+      "stgdir": "Aux chefs de l'arm\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2787",
+      "category": "8",
+      "explanation": "The term 'Air Belle Brune, belle Brune' refers to a musical piece.",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2788",
+      "category": "8",
+      "explanation": "The phrase 'AIR : C'est ce qui vous enrhume' refers to a musical piece.",
+      "stgdir": "AIR : C'est ce qui vous enrhume.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2789",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 Blaise et \u00e0 sa femme'.",
+      "stgdir": "\u00c0 Blaise et \u00e0 sa femme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2790",
+      "category": "0",
+      "explanation": "The action of 'On entend frapper \u00e0 la porte' describes a sound heard in the play.",
+      "stgdir": "On entend frapper \u00e0 la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2791",
+      "category": "5",
+      "explanation": "The phrase 'L'Abb\u00e9 et le petit Minot sortent' indicates the exit of characters.",
+      "stgdir": "L'Abb\u00e9 et le petit Minot sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2792",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 Don Sanche'.",
+      "stgdir": "\u00c0 Don Sanche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2793",
+      "category": "10",
+      "explanation": "The action 'Il prend ses tablettes' involves interaction with an object.",
+      "stgdir": "Il prend ses tablettes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2794",
+      "category": "8",
+      "explanation": "The phrase 'Air 176 : Vous avez raison, la Plante' refers to a musical piece.",
+      "stgdir": "Air 176 : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2795",
+      "category": "8",
+      "explanation": "The phrase 'CHANSON DE Monsieur Sall\u00e9' refers to a musical piece.",
+      "stgdir": "CHANSON DE Monsieur Sall\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2796",
+      "category": "6",
+      "explanation": "Describes a gesture showing someone, 'En montrant Scanderberg'.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2797",
+      "category": "8",
+      "explanation": "The phrase 'AIR : La jeune Isabelle' refers to a musical piece.",
+      "stgdir": "AIR : La jeune Isabelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2798",
+      "category": "0",
+      "explanation": "Describes an action where children interrupt the conversation.",
+      "stgdir": "Des petits frondeurs les viennent interrompre qui sont chass\u00e9s en suite.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2799",
+      "category": "8",
+      "explanation": "The phrase 'AIR : Jean de Vert' refers to a musical piece.",
+      "stgdir": "AIR : Jean de Vert.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2800",
+      "category": "3",
+      "explanation": "The term 'R\u00e9p\u00e9tant' could pertain to delivery of a line or expression.",
+      "stgdir": "R\u00e9p\u00e9tant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2801",
+      "category": "11",
+      "explanation": "The phrase 'Le champ des revues' describes a setting or location.",
+      "stgdir": "Le champ des revues.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2802",
+      "category": "0",
+      "explanation": "The action of 'Il appelle \u00e0 la petite porte de gauche' describes calling.",
+      "stgdir": "Il appelle \u00e0 la petite porte de gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2803",
+      "category": "4",
+      "explanation": "The phrase 'Blanche para\u00eet' indicates a character's entrance.",
+      "stgdir": "Blanche para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2804",
+      "category": "8",
+      "explanation": "The phrase 'Air : Dans ma chaumi\u00e8re, ou Bouton de rose' refers to a musical piece.",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2805",
+      "category": "10",
+      "explanation": "The action 'Il lui met le manteau royal' involves interaction with an object.",
+      "stgdir": "Il lui met le manteau royal.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2806",
+      "category": "6",
+      "explanation": "The action 'Montrant L\u00e9pine' denotes a gesture of showing.",
+      "stgdir": "Montrant L\u00e9pine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2807",
+      "category": "3",
+      "explanation": "The phrase describes emotional expression ('\u00c9clatant de rire') combined with observation.",
+      "stgdir": "\u00c9clatant de rire, apr\u00e8s avoir fix\u00e9 quelques secondes ces amants heureux, sinon honteux, au moins embarrass\u00e9s de leur bonheur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2808",
+      "category": "8",
+      "explanation": "The phrase 'Air 184 : Je me plaignais d'une inhumains' refers to a musical piece.",
+      "stgdir": "Air 184 : Je me plaignais d'une inhumains.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2809",
+      "category": "0",
+      "explanation": "The action 'Il cherche \u00e0 l'entra\u00eener' describes a character action.",
+      "stgdir": "Il cherche \u00e0 l'entra\u00eener.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2810",
+      "category": "8",
+      "explanation": "The phrase 'Les violons jouent la marches des Bostangis' refers to music being played.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2811",
+      "category": "0",
+      "explanation": "The action of 'Il pleure' describes a general character action.",
+      "stgdir": "Il pleure.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2812",
+      "category": "0",
+      "explanation": "The action of 'Il peint' describes a general character action.",
+      "stgdir": "Il peint.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2813",
+      "category": "8",
+      "explanation": "The phrase 'AIR. Je suis un bon soldat ti ta ta' refers to a musical piece.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2814",
+      "category": "0",
+      "explanation": "The phrase 'Elle mange avidement' describes a general character action.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2815",
+      "category": "6",
+      "explanation": "Describes a physical interaction by 'En lui serrant affectueusement la main'.",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2816",
+      "category": "0",
+      "explanation": "The action 'Il va chercher le sac d'or' describes a general character action.",
+      "stgdir": "Il va chercher le sac d'or.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2817",
+      "category": "0",
+      "explanation": "The phrase 'Il continue, \u00e9tant seul' describes a character action.",
+      "stgdir": "Il continue, \u00e9tant seul.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2818",
+      "category": "3",
+      "explanation": "The action 'AIR. Oui, j'ai tout vu' could pertain to delivery of a line or expression.",
+      "stgdir": "AIR. Oui, j'ai tout vu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2819",
+      "category": "12",
+      "explanation": "Indicates the character is observing someone, 'Il voit venir la Princesse'.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2820",
+      "category": "6",
+      "explanation": "Describes an interaction as he is 'Lui tendant la main'.",
+      "stgdir": "Lui tendant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2821",
+      "category": "4",
+      "explanation": "The phrase 'Il entre avec humeur, dans son cabinet' indicates a character's entrance.",
+      "stgdir": "Il entre avec humeur, dans son cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2822",
+      "category": "8",
+      "explanation": "The phrase 'Air : Nos plaisirs seront peu durables' refers to a musical piece.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2823",
+      "category": "9",
+      "explanation": "This long stage direction describes a detailed scene, which qualifies it as narration.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2824",
+      "category": "8",
+      "explanation": "The phrase 'AIR : Or \u00e9coutez petits et grands' refers to a musical piece.",
+      "stgdir": "AIR : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2825",
+      "category": "8",
+      "explanation": "The phrase 'AIR. ( Ma raison s'en va beau train. )' refers to a musical piece.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2826",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 Mademoiselle Moli\u00e8re'.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2827",
+      "category": "8",
+      "explanation": "The phrase 'Air : des Pendus' refers to a musical piece.",
+      "stgdir": "Air : des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2828",
+      "category": "0",
+      "explanation": "Describes an action with interaction between characters and humorous elements.",
+      "stgdir": "Le Sagamo reste immobile Arlequin lui fait voler la t\u00eate de son propre sabre qu'il lui a \u00f4t\u00e9, mais tout \u00e0 coup il rena\u00eet une autre t\u00eate au Sagamo qui rit au nez d'Arlequin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2829",
+      "category": "11",
+      "explanation": "Describes a character positioned within a scene, 'Cassandre dans le tableau'.",
+      "stgdir": "Cassandre dans le tableau.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2830",
+      "category": "10",
+      "explanation": "The action 'Il en tire un \u00e9norme' involves interaction with an object.",
+      "stgdir": "Il en tire un \u00e9norme.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2831",
+      "category": "3",
+      "explanation": "The action 'Avec satisfaction' could pertain to delivery of an emotional state.",
+      "stgdir": "Avec satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2832",
+      "category": "6",
+      "explanation": "Describes character interaction by 'Il prend la main de Colombine'.",
+      "stgdir": "Il prend la main de Colombine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2833",
+      "category": "10",
+      "explanation": "The action 'Il lui fait voir le lot' involves interaction with an object.",
+      "stgdir": "Il lui fait voir le lot.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2834",
+      "category": "4",
+      "explanation": "The phrase 'Par le soupirail' indicates an entrance or exit through a specific location.",
+      "stgdir": "Par le soupirail.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2835",
+      "category": "10",
+      "explanation": "The action 'Il montre une culotte' involves interaction with an object.",
+      "stgdir": "Il montre une culotte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2836",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 Delval'.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2837",
+      "category": "8",
+      "explanation": "The phrase 'AIR : Jupin d\u00e8s le matin' refers to a musical piece.",
+      "stgdir": "AIR : Jupin d\u00e8s le matin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2838",
+      "category": "8",
+      "explanation": "The phrase 'Air : Ciel ! l'Univers va-t-il donc se dissoudre' refers to a musical piece.",
+      "stgdir": "Air : Ciel ! l'Univers va-t-il donc se dissoudre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2839",
+      "category": "11",
+      "explanation": "Describes the stage setting, 'Le th\u00e9\u00e2tre est une suite de rochers'.",
+      "stgdir": "Le th\u00e9\u00e2tre est une suite de rochers ; on y voit Leucippe retenu, sans que ses liens paraissent. Il est debout, appuy\u00e9, dans l'endroit le plus en vue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2840",
+      "category": "0",
+      "explanation": "The action 'Il appelle Lubin' describes a character action.",
+      "stgdir": "Il appelle Lubin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2841",
+      "category": "5",
+      "explanation": "The phrase 'Ils se retirent en un coin du Th\u00e9\u00e2tre' indicates the exit of characters.",
+      "stgdir": "Ils se retirent en un coin du Th\u00e9\u00e2tre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2842",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 Monsieur Pot-De-Vin'.",
+      "stgdir": "\u00c0 Monsieur Pot-De-Vin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2843",
+      "category": "0",
+      "explanation": "The action '\u00c0 genoux' describes a general character action.",
+      "stgdir": "\u00c0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2844",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, 'Au Huron'.",
+      "stgdir": "Au Huron.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2845",
+      "category": "8",
+      "explanation": "The phrase 'AIR. Quand le p\u00e9ril est agr\u00e9able' refers to a musical piece.",
+      "stgdir": "AIR. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2846",
+      "category": "12",
+      "explanation": "Indicates who the character is addressing, '\u00c0 Mouravieff'.",
+      "stgdir": "\u00c0 Mouravieff.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2847",
+      "category": "0",
+      "explanation": "The action 'Le petit laquais pousse le si\u00e8ge rudement' describes a character action.",
+      "stgdir": "Le petit laquais pousse le si\u00e8ge rudement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2848",
+      "category": "6",
+      "explanation": "The action 'Montrant les anciens S\u00e9nateurs' involves a gesture showing.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2849",
+      "category": "10",
+      "explanation": "The action 'Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire' involves interaction with an object.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 30069.681406021118,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "375",
+      "category": "4",
+      "explanation": "Entre Dergos. - Character enters stage.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "376",
+      "category": "12",
+      "explanation": "\u00c0 l'artisan. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'artisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "377",
+      "category": "8",
+      "explanation": "Air : Je ne veux point troubler votre ignorance. - Music description.",
+      "stgdir": "Air : Je ne veux point troubler votre ignorance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "378",
+      "category": "1",
+      "explanation": "Il le frappe ou croit le frapper, et attrape le mur, qui lui fait tomber son b\u00e2ton de la main. - Violent action.",
+      "stgdir": "Il le frappe ou croit le frapper, et attrape le mur, qui lui fait tomber son b\u00e2ton de la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "379",
+      "category": "6",
+      "explanation": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io. - Non-verbal character interaction.",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "379",
+      "category": "12",
+      "explanation": "Montrant l'huissier. - Indicates the addressee of a speech.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "10",
+      "explanation": "Il tire son portefeuille. - Character's interaction with an object.",
+      "stgdir": "Il tire son portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "8",
+      "explanation": "VOEU DE SOPHONISBE \u00c0 L'AMOUR - Music description.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "12",
+      "explanation": "\u00c0 son \u00e9poux. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "7",
+      "explanation": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier. - Character movement.",
+      "stgdir": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "9",
+      "explanation": "On entend le sifflet du tube acoustique. - Narrative quality describing a noise.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "0",
+      "explanation": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs. - General character action.",
+      "stgdir": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "10",
+      "explanation": "La Reine prenant le paquet de la suivante. - Character's interaction with an object.",
+      "stgdir": "La Reine prenant le paquet de la suivante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "11",
+      "explanation": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre. - Stage description or play location.",
+      "stgdir": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "12",
+      "explanation": "Montrant la Marchande de Chansons. - Indicates the addressee of a speech.",
+      "stgdir": "Montrant la Marchande de Chansons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "390",
+      "category": "0",
+      "explanation": "Il a l'air d'\u00e9couter. - General character action.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "391",
+      "category": "8",
+      "explanation": "Air : La Boulang\u00e8re a des \u00e9cus. - Music description.",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "392",
+      "category": "12",
+      "explanation": "Apercevant Flamand. - Indicates the addressee of a speech.",
+      "stgdir": "Apercevant Flamand.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "393",
+      "category": "8",
+      "explanation": "Air : Quand la mer rouge apparut. - Music description.",
+      "stgdir": "Air : Quand la mer rouge apparut.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "394",
+      "category": "5",
+      "explanation": "Marthe sort. - Character exits.",
+      "stgdir": "Marthe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "395",
+      "category": "9",
+      "explanation": "On entend Sosie qui chante. - Narrative quality describing a noise.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "396",
+      "category": "9",
+      "explanation": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e. - Narrative quality describing a noise.",
+      "stgdir": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "397",
+      "category": "10",
+      "explanation": "Il prend une couronne dans le panier d'Antoine. - Character's interaction with an object.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "398",
+      "category": "7",
+      "explanation": "Allant \u00e0 elle. - Character movement.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "399",
+      "category": "12",
+      "explanation": "\u00c0 l'Inspecteur des B\u00e2timents. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "400",
+      "category": "12",
+      "explanation": "\u00c0 Perdiccas. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Perdiccas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "401",
+      "category": "0",
+      "explanation": "Il voit Sophie. - General character action.",
+      "stgdir": "Il voit Sophie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "402",
+      "category": "3",
+      "explanation": "R\u00e9pondant. - Delivery manner.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "403",
+      "category": "8",
+      "explanation": "Sur l'Air : Quand on a bu, la t\u00eate tourne. - Music description.",
+      "stgdir": "Sur l'Air : Quand on a bu, la t\u00eate tourne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "404",
+      "category": "10",
+      "explanation": "Elle pr\u00e9sente le peignoir au feu. - Character's interaction with an object.",
+      "stgdir": "Elle pr\u00e9sente le peignoir au feu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "405",
+      "category": "4",
+      "explanation": "Il entre aussi chez Hipolite. - Character enters stage.",
+      "stgdir": "Il entre aussi chez Hipolite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "406",
+      "category": "11",
+      "explanation": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal. - Stage description or play location.",
+      "stgdir": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "407",
+      "category": "8",
+      "explanation": "Air : Sur le Pont d'Avignon. - Music description.",
+      "stgdir": "Air : Sur le Pont d'Avignon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "408",
+      "category": "6",
+      "explanation": "Elle l'embrasse encore. - Non-verbal character interaction.",
+      "stgdir": "Elle l'embrasse encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "409",
+      "category": "12",
+      "explanation": "\u00c0 Achior. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Achior.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "410",
+      "category": "0",
+      "explanation": "Elle le fait comme elle de dis. - General character action.",
+      "stgdir": "Elle le fait comme elle de dis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "411",
+      "category": "5",
+      "explanation": "Laurent et Grivet sortent par la porte du fond. - Character exits.",
+      "stgdir": "Laurent et Grivet sortent par la porte du fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "412",
+      "category": "8",
+      "explanation": "Air : Voulez-vous savoir l'histoire, etc. - Music description.",
+      "stgdir": "Air : Voulez-vous savoir l'histoire, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "413",
+      "category": "9",
+      "explanation": "On entend un bruit de hautbois. - Narrative quality describing a noise.",
+      "stgdir": "On entend un bruit de hautbois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "414",
+      "category": "8",
+      "explanation": "Air nouveau du C. DELAPORTE. - Music description.",
+      "stgdir": "Air nouveau du C. DELAPORTE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "415",
+      "category": "12",
+      "explanation": "\u00c0 Finot. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Finot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "416",
+      "category": "8",
+      "explanation": "Air 171. Menuet des F\u00eates Grecques et Rom. - Music description.",
+      "stgdir": "Air 171. Menuet des F\u00eates Grecques et Rom.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "417",
+      "category": "12",
+      "explanation": "Apercevant Cassandre. - Indicates the addressee of a speech.",
+      "stgdir": "Apercevant Cassandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "418",
+      "category": "12",
+      "explanation": "\u00c0 Placide. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "419",
+      "category": "0",
+      "explanation": "Il sonne du cor. - General character action.",
+      "stgdir": "Il sonne du cor.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "420",
+      "category": "9",
+      "explanation": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon. - Narrative quality describing a noise.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "4",
+      "explanation": "Antoinette para\u00eet au fond. - Character enters stage.",
+      "stgdir": "Antoinette para\u00eet au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "8",
+      "explanation": "Air : Tes beaux jeux, ma Nicole. - Music description.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "5",
+      "explanation": "Ils sortent en causant. - Character exits.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "8",
+      "explanation": "Air : Un jour que j'avais mal dans\u00e9. - Music description.",
+      "stgdir": "Air : Un jour que j'avais mal dans\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "0",
+      "explanation": "Il entend sa ma\u00eetresse. - General character action.",
+      "stgdir": "Il entend sa ma\u00eetresse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "4",
+      "explanation": "Lucile revient. - Character enters stage.",
+      "stgdir": "Lucile revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "7",
+      "explanation": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.] - Character movement.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "12",
+      "explanation": "Lui montrant le billet. - Indicates the addressee of a speech.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "12",
+      "explanation": "\u00c0 Eum\u00e9e. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Eum\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "430",
+      "category": "11",
+      "explanation": "dans le bois. - Stage description or play location.",
+      "stgdir": "dans le bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "8",
+      "explanation": "Air : Quand on tient de ce jus d'octobre. - Music description.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "0",
+      "explanation": "Il l'examine des pieds \u00e0 la t\u00eate. - General character action.",
+      "stgdir": "Il l'examine des pieds \u00e0 la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "8",
+      "explanation": "Air : Alarmez vous. - Music description.",
+      "stgdir": "Air : Alarmez vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "0",
+      "explanation": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier. - General character action.",
+      "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "7",
+      "explanation": "Orph\u00e9e passe sans regarder Eurydice. - Character movement.",
+      "stgdir": "Orph\u00e9e passe sans regarder Eurydice.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "9",
+      "explanation": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant. - Narrative quality describing a sequence of character actions.",
+      "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "AIR : De la marche du Malade imaginaire. - Music description.",
+      "stgdir": "AIR : De la marche du Malade imaginaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "6",
+      "explanation": "Lui baisant la bouche. - Non-verbal character interaction.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "0",
+      "explanation": "Il se l\u00e8ve, ainsi que Maurice. - General character action.",
+      "stgdir": "Il se l\u00e8ve, ainsi que Maurice.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "440",
+      "category": "8",
+      "explanation": "Air : Du partage de la richesse. - Music description.",
+      "stgdir": "Air : Du partage de la richesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "441",
+      "category": "0",
+      "explanation": "Il la retient encore par le bras, et, perdant tout respect. - General character action.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "442",
+      "category": "10",
+      "explanation": "Il tire du papier mou de son pot. - Character's interaction with an object.",
+      "stgdir": "Il tire du papier mou de son pot.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "443",
+      "category": "12",
+      "explanation": "\u00c0 Madame Grognac. - Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "444",
+      "category": "8",
+      "explanation": "Air : Menuet d'Exaudet. - Music description.",
+      "stgdir": "Air : Menuet d'Exaudet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "445",
+      "category": "5",
+      "explanation": "C\u00e9sario sort. - Character exits.",
+      "stgdir": "C\u00e9sario sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "446",
+      "category": "11",
+      "explanation": "Une fontaine dans un bois. - Stage description or play location.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "447",
+      "category": "10",
+      "explanation": "Elle soul\u00e8ve l'autre vase et prend le billet. - Character's interaction with an object.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "448",
+      "category": "5",
+      "explanation": "N\u00e9restan sort. - Character exits.",
+      "stgdir": "N\u00e9restan sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "449",
+      "category": "8",
+      "explanation": "AIR ( Le Cabaret est mon r\u00e9duit. ) - Music description.",
+      "stgdir": "AIR ( Le Cabaret est mon r\u00e9duit. )",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 111523.70953559875,
+  "model": "mistral-large-2407"
+}

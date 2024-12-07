@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1800",
+      "category": "8",
+      "explanation": "Cette didascalie commence par 'AIR' et indique un air musical.",
+      "stgdir": "AIR : Changement pique l'app\u00e9tit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1801",
+      "category": "9",
+      "explanation": "Il s'agit d'une didascalie narrative qui introduit une action sans dialogue.",
+      "stgdir": "Elle fuit les \u00c9gyptiens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1802",
+      "category": "7",
+      "explanation": "Action de frapper du pied, repr\u00e9sentant un mouvement individuel.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1803",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale entre deux personnages.",
+      "stgdir": "Le poussant du coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1804",
+      "category": "10",
+      "explanation": "Cette didascalie d\u00e9crit une action impliquant un objet (la lettre).",
+      "stgdir": "Elle lui donne la lettre, il lit tout bas \u00e0 part.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1805",
+      "category": "6",
+      "explanation": "Apercevoir un personnage constitue une interaction non verbale.",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1806",
+      "category": "4",
+      "explanation": "C'est l'entr\u00e9e de nouveaux personnages sur sc\u00e8ne.",
+      "stgdir": "Dorame et Oronte viennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1807",
+      "category": "9",
+      "explanation": "Didascalie de narration, d\u00e9crivant une action sur sc\u00e8ne.",
+      "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1808",
+      "category": "1",
+      "explanation": "C'est une action violente, repr\u00e9sentant une agression.",
+      "stgdir": "Il frappe Scaramouche de toute sa force.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1809",
+      "category": "3",
+      "explanation": "Il s'agit d'une action li\u00e9e \u00e0 la lecture, o\u00f9 un personnage exprime un sentiment en lisant.",
+      "stgdir": "Lisant son m\u00e9moire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1810",
+      "category": "10",
+      "explanation": "Il montre un manuscrit, qui est un objet.",
+      "stgdir": "Il montre un manuscrit avec modestie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1811",
+      "category": "5",
+      "explanation": "C'est une sortie d'un personnage de sc\u00e8ne.",
+      "stgdir": "Colin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1812",
+      "category": "8",
+      "explanation": "Cette didascalie est un air musical.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1813",
+      "category": "5",
+      "explanation": "Il s'agit de la sortie d'un personnage de sc\u00e8ne.",
+      "stgdir": "Licaste sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1814",
+      "category": "6",
+      "explanation": "C'est une interaction non verbale entre deux personnages.",
+      "stgdir": "Ils s'asseyent tous les deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1815",
+      "category": "9",
+      "explanation": "C'est une action qui indique un cri, souvent utilis\u00e9 dans des contextes de narrations.",
+      "stgdir": "Criant au fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1816",
+      "category": "10",
+      "explanation": "Il baille des fleurets, une action impliquant un objet.",
+      "stgdir": "Il leur baille des fleurets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1817",
+      "category": "7",
+      "explanation": "Se jeter \u00e0 genoux repr\u00e9sente un mouvement en direction d'un autre personnage.",
+      "stgdir": "Il se jette \u00e0 ses genoux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1818",
+      "category": "7",
+      "explanation": "L'action d'\u00e9loigner le personnage indique un mouvement.",
+      "stgdir": "Elle veut s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1819",
+      "category": "7",
+      "explanation": "Elle se dirige vers le po\u00e8te, ce qui est un mouvement vers un autre personnage.",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1820",
+      "category": "12",
+      "explanation": "Cette didascalie indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 C\u00e9lidan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1821",
+      "category": "11",
+      "explanation": "Description du cadre de la sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une Solitude.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1822",
+      "category": "11",
+      "explanation": "Indique le titre d'une pi\u00e8ce ou d'une sc\u00e8ne, constituant un cadre pour l'action.",
+      "stgdir": "L'ABEILLE ET L'ARAIGN\u00c9E.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1823",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse le personnage.",
+      "stgdir": "\u00c0 la m\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1824",
+      "category": "12",
+      "explanation": "Destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1825",
+      "category": "8",
+      "explanation": "Didascalie d'air musical.",
+      "stgdir": "AIR : Jusque dans la moindre chose. .",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1826",
+      "category": "12",
+      "explanation": "Indique le destinataire.",
+      "stgdir": "\u00c0 Mademoiselle B\u00e9jart et \u00e0 B\u00e9jart.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1827",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 S\u00e9sostris.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1828",
+      "category": "12",
+      "explanation": "Indique le destinataire, une forme d'adresse.",
+      "stgdir": "Et Roger aussi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1829",
+      "category": "11",
+      "explanation": "Indique le cadre ou le changement de d\u00e9cor.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1830",
+      "category": "5",
+      "explanation": "Cela d\u00e9crit la sortie d'un personnage.",
+      "stgdir": "La Ram\u00e9e s'enfuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1831",
+      "category": "8",
+      "explanation": "Une autre didascalie qui pr\u00e9sente un air musical.",
+      "stgdir": "AIR. (Je ne suis n\u00e9 ni Roi ni Prince.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1832",
+      "category": "12",
+      "explanation": "Cela d\u00e9signe une adresse ou un destinataire.",
+      "stgdir": "\u00c0 Ag\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1833",
+      "category": "6",
+      "explanation": "Interaction entre Figaro et Bartholo.",
+      "stgdir": "Figaro passe le linge au cou de Bartholo.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1834",
+      "category": "5",
+      "explanation": "C'est un mouvement de sortie de sc\u00e8ne.",
+      "stgdir": "S'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1835",
+      "category": "5",
+      "explanation": "Description de la position dans laquelle se trouve le personnage.",
+      "stgdir": "Le Comte sied dans un fauteuil.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1836",
+      "category": "7",
+      "explanation": "Elle se rel\u00e8ve, ce qui indique un mouvement.",
+      "stgdir": "Rosa se rel\u00e8ve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1837",
+      "category": "10",
+      "explanation": "Oter des bottes et mettre des pantoufles d\u00e9crit l'interaction d'un personnage avec des objets (v\u00eatements).",
+      "stgdir": "\u00d4tant ses bottes et mettant des pantoufles.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1838",
+      "category": "11",
+      "explanation": "Description de l'environnement dans lequel l'action se d\u00e9roule.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon. Une porte au milieu et d'autres sur les c\u00f4t\u00e9s. L'action se passe le matin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1839",
+      "category": "3",
+      "explanation": "Il s'agit d'une action qui inclut un chant, donc se rapporte \u00e0 la livraison musicale.",
+      "stgdir": "Il chante avec l'\u00e9colier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1840",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse le personnage.",
+      "stgdir": "\u00c0 Adrienne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1841",
+      "category": "5",
+      "explanation": "Description de la sortie d'un personnage.",
+      "stgdir": "Il se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1842",
+      "category": "5",
+      "explanation": "Description de la sortie du personnage.",
+      "stgdir": "Cassiope sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1843",
+      "category": "7",
+      "explanation": "Mouvement du personnage vers Ang\u00e9lique.",
+      "stgdir": "Vers Ang\u00e9lique.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1844",
+      "category": "4",
+      "explanation": "C'est l'entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1845",
+      "category": "10",
+      "explanation": "Indique l'action de lire, se rapportant \u00e0 l'interaction d'un personnage avec un objet.",
+      "stgdir": "Ayant lu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1846",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui se destine une r\u00e9plique.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1847",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une parole.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1848",
+      "category": "3",
+      "explanation": "C'est un apart\u00e9, car le personnage parle relativement bas.",
+      "stgdir": "\u00c0 part de l'autre c\u00f4t\u00e9 de l'endroit d'o\u00f9 on l'\u00e9coutait, mais, assez bas pour qu'il ne puisse \u00eatre entendu des berg\u00e8res.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1849",
+      "category": "10",
+      "explanation": "Donner un portrait indique une interaction avec un objet.",
+      "stgdir": "Elle lui donne son portrait enrichi de diamants.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1850",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui se destine une action ou r\u00e9plique.",
+      "stgdir": "\u00c0 Madame de Maintenon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1851",
+      "category": "10",
+      "explanation": "Action de donner une pi\u00e8ce, impliquant un objet.",
+      "stgdir": "Elle donne la pi\u00e8ce \u00e0 Raoul.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1852",
+      "category": "11",
+      "explanation": "Description des d\u00e9tails du d\u00e9cor.",
+      "stgdir": "Un salon. - Porte au fond. - Portes lat\u00e9rales. - Une chemin\u00e9e. Un placard.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1853",
+      "category": "10",
+      "explanation": "Cela d\u00e9crit un costume, donc une interaction avec un objet.",
+      "stgdir": "Elle a son costume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1854",
+      "category": "3",
+      "explanation": "Cette didascalie implique une expression d'\u00e9motion.",
+      "stgdir": "Relevant la t\u00eate, et faisant semblant de s'essuyer les yeux.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1855",
+      "category": "7",
+      "explanation": "Cela montre le mouvement du personnage en action de se jeter aux pieds du roi.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1856",
+      "category": "3",
+      "explanation": "Il s'agit de la mani\u00e8re dont un personnage s'adresse \u00e0 un autre.",
+      "stgdir": "\u00c0 Dorval d'un air na\u00eff.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1857",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique ou d'une action.",
+      "stgdir": "\u00c0 Bertrand.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1858",
+      "category": "9",
+      "explanation": "Didascalie de narration, mais sans contenu sp\u00e9cifique.",
+      "stgdir": "bis",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1859",
+      "category": "9",
+      "explanation": "C'est une narration d\u00e9crivant une action complexe d'interaction entre plusieurs personnages.",
+      "stgdir": "Octave envoie Mezzetin et Pasquariel sous ce d\u00e9guisement, pour achever de d\u00e9go\u00fbter Colombine du bailli. Le laquais qui tient la queue de la Marquise, la tient fich\u00e9e dans sa culotte, et de ses deux mains casse des noix. Colombine, Mezzetin et Pasquariel parlent tous trois ensemble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1860",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la r\u00e9plique.",
+      "stgdir": "\u00c0 Thar\u00e8s.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1861",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une action ou d'une parole.",
+      "stgdir": "\u00c0 l'oreille de Dandinville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1862",
+      "category": "12",
+      "explanation": "Indique une adresse ou un destinataire.",
+      "stgdir": "\u00c0 La Ram\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1863",
+      "category": "8",
+      "explanation": "C'est encore une didascalie d'air musical.",
+      "stgdir": "Air. Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1864",
+      "category": "11",
+      "explanation": "Cela semble \u00eatre le titre d'une sc\u00e8ne ou d'une cat\u00e9gorie dans le cadre de la pi\u00e8ce.",
+      "stgdir": "LION OURS TIGRE ET PANTHERE",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1865",
+      "category": "10",
+      "explanation": "Action de prendre et manipuler un objet, une tablette ici.",
+      "stgdir": "Elle reprend les tablettes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1866",
+      "category": "8",
+      "explanation": "C'est un air musical.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1867",
+      "category": "8",
+      "explanation": "Encore un air musical.",
+      "stgdir": "Air 154 : Est-ce que \u00e7a se demande ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1868",
+      "category": "5",
+      "explanation": "C'est la sortie d'un personnage.",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1869",
+      "category": "8",
+      "explanation": "Une didascalie qui indique un air musical.",
+      "stgdir": "AIR. Le vieux Docteur Blaise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1870",
+      "category": "9",
+      "explanation": "Cela indique une action qui d\u00e9crit un bruit ou une interaction non verbale.",
+      "stgdir": "Regardant \u00e0 sa montre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1871",
+      "category": "12",
+      "explanation": "Pr\u00e9cise \u00e0 qui s'adresse une r\u00e9plique.",
+      "stgdir": "Il entend de Porcie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1872",
+      "category": "4",
+      "explanation": "C'est une entr\u00e9e de personnage sur sc\u00e8ne.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1873",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical.",
+      "stgdir": "Air : Vivre sans amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1874",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit un changement de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre change, et repr\u00e9sente les Champs \u00c9lys\u00e9es.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 30249.801635742188,
+  "model": "gpt-4o-mini"
+}

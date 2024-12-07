@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "0",
+      "explanation": "L'action de lever une canne est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "1",
+      "explanation": "L'action de frapper quelqu'un est une forme d'agression.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "0",
+      "explanation": "L'action de mettre quelqu'un en termes de combattre est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "10",
+      "explanation": "L'action de mettre la main \u00e0 un poignard est une interaction avec un objet.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "1",
+      "explanation": "L'action d'\u00e9gorgement est une forme d'agression.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "9",
+      "explanation": "L'action d'entendre un bruit de guerre est une narration de ph\u00e9nom\u00e8ne sonore.",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "1",
+      "explanation": "L'action de faire un massacre est une forme d'agression.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "0",
+      "explanation": "L'action de vouloir tirer son \u00e9p\u00e9e est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "10",
+      "explanation": "L'action de tirer un poignard est une interaction avec un objet.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "0",
+      "explanation": "L'action de frapper la Chicanne est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "160",
+      "category": "1",
+      "explanation": "L'action de frapper Arlequin est une forme d'agression.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "0",
+      "explanation": "L'action de combattre contre Arcala\u00fcs est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "1",
+      "explanation": "L'action de frapper Scaramouche de toute sa force est une forme d'agression.",
+      "stgdir": "Il frappe Scaramouche de toute sa force.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "1",
+      "explanation": "L'action de r\u00e9p\u00e9ter les m\u00eames vers et de donner des coups de b\u00e2ton est une forme d'agression.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "6",
+      "explanation": "L'action de battre Jannot est une interaction non verbale entre les personnages.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "6",
+      "explanation": "L'action de jeter des lutins sur Arlequin et de le berner est une interaction non verbale entre les personnages.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "0",
+      "explanation": "L'action de former un combat \u00e0 la mani\u00e8re des anciens est une action g\u00e9n\u00e9rale.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "0",
+      "explanation": "L'action de donner un coup dans la porte est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "2",
+      "explanation": "L'action d'apart\u00e9 est un apart\u00e9.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "2",
+      "explanation": "L'action d'apart\u00e9 avec ironie est un apart\u00e9.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "170",
+      "category": "2",
+      "explanation": "L'action d'apart\u00e9 avec ironie est un apart\u00e9.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "2",
+      "explanation": "L'action d'apart\u00e9 apr\u00e8s avoir lu est un apart\u00e9.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "3",
+      "explanation": "L'action de dire ces quatre vers bas est une d\u00e9livrance vocale.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "3",
+      "explanation": "L'action de chanter avec ironie est une d\u00e9livrance vocale.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "3",
+      "explanation": "L'action de chanter avec Galaor est une d\u00e9livrance vocale.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "9",
+      "explanation": "L'action d'entendre crier de loin est une narration sonore.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "9",
+      "explanation": "L'action apr\u00e8s un silence est une narration.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "3",
+      "explanation": "L'action d'un air d'importance est une d\u00e9livrance vocale.",
+      "stgdir": "D'un air d'importance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "9",
+      "explanation": "L'action d'entendre Sosie qui chante est une narration sonore.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "3",
+      "explanation": "L'action du Choeur des Bergers r\u00e9p\u00e8te ces deux derniers vers est une d\u00e9livrance vocale.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "180",
+      "category": "12",
+      "explanation": "L'action d'appeler ses valets est vers un destinataire.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "3",
+      "explanation": "L'action ENSEMBLE est une d\u00e9livrance vocale.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "12",
+      "explanation": "L'action de rappeler Monsieur Oronte est vers un destinataire.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "3",
+      "explanation": "L'action de parler ensemble est une d\u00e9livrance vocale.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "3",
+      "explanation": "L'action de crier tr\u00e8s fort est une d\u00e9livrance vocale.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "5",
+      "explanation": "L'action de rire est une sortie de sc\u00e8ne.",
+      "stgdir": "Ils rient.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "3",
+      "explanation": "L'action de chanter un morceau \u00e0 son choix est une d\u00e9livrance vocale.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "3",
+      "explanation": "L'action de chanter triomphalement est une d\u00e9livrance vocale.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "3",
+      "explanation": "L'action de chanter avec ravissement est une d\u00e9livrance vocale.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "3",
+      "explanation": "L'action de reprise de Choeur est une d\u00e9livrance vocale.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "190",
+      "category": "3",
+      "explanation": "L'action de pleurer am\u00e8rement est une d\u00e9livrance vocale.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "2",
+      "explanation": "L'action d'apart\u00e9 apr\u00e8s avoir interrompu la lecture est un apart\u00e9.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "3",
+      "explanation": "L'action \u00e0 mi-voix est une d\u00e9livrance vocale.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "7",
+      "explanation": "L'action de s'\u00e9chauffant est un mouvement.",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "3",
+      "explanation": "L'action avec humeur est une d\u00e9livrance vocale.",
+      "stgdir": "Avec humeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "3",
+      "explanation": "L'action d'un air s\u00e9v\u00e8re est une d\u00e9livrance vocale.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "7",
+      "explanation": "L'action de se remettre est un mouvement.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "3",
+      "explanation": "L'action \u00e0 demi-voix est une d\u00e9livrance vocale.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "9",
+      "explanation": "L'action d'entendre des clameurs en dehors est une narration sonore.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "3",
+      "explanation": "L'action de crier au travers de la porte est une d\u00e9livrance vocale.",
+      "stgdir": "Criant au travers de la porte.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "200",
+      "category": "9",
+      "explanation": "L'action d'un grand silence est une narration.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "6",
+      "explanation": "L'action de rire et de rentrer vivement est une interaction non verbale.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "7",
+      "explanation": "L'action de pr\u00e9luder encore est un mouvement.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "9",
+      "explanation": "L'action aux cris que pousse Th\u00e9cla est une narration sonore.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "9",
+      "explanation": "L'action d'entendre dans le lointain des cris et une marche militaire est une narration sonore.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "3",
+      "explanation": "L'action de reprenant son ton de voix familier est une d\u00e9livrance vocale.",
+      "stgdir": "Reprenant son ton de voix familier et indiff\u00e9rent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "3",
+      "explanation": "L'action de parler est une d\u00e9livrance vocale.",
+      "stgdir": "Parlant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "3",
+      "explanation": "L'action avec feu est une d\u00e9livrance vocale.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "7",
+      "explanation": "L'action de frappant du pied est un mouvement.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "5",
+      "explanation": "L'action de rire est une sortie de sc\u00e8ne.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "210",
+      "category": "3",
+      "explanation": "L'action de parler tous quatre en m\u00eame temps est une d\u00e9livrance vocale.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "3",
+      "explanation": "L'action de chanter est une d\u00e9livrance vocale.",
+      "stgdir": "Il chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "3",
+      "explanation": "L'action de baissant sa voix est une d\u00e9livrance vocale.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "9",
+      "explanation": "L'action de ne pas entendre le reste est une narration.",
+      "stgdir": "On n'entend pas le reste.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "5",
+      "explanation": "L'action de partir d'un \u00e9clat de rire est une sortie de sc\u00e8ne.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "5",
+      "explanation": "L'action de sortir en chantant est une sortie de sc\u00e8ne.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "3",
+      "explanation": "L'action de chanter un petit motet est une d\u00e9livrance vocale.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "3",
+      "explanation": "L'action de r\u00e9pondant est une d\u00e9livrance vocale.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "9",
+      "explanation": "L'action d'entendre la voix de J\u00e9r\u00f4me est une narration sonore.",
+      "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "7",
+      "explanation": "L'action de se remettre est un mouvement.",
+      "stgdir": "Se remettant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "220",
+      "category": "2",
+      "explanation": "L'action de dire ceci bas est un apart\u00e9.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "3",
+      "explanation": "L'action ENSEMBLE est une d\u00e9livrance vocale.",
+      "stgdir": "Ensemble",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "3",
+      "explanation": "L'action avec \u00e9motion est une d\u00e9livrance vocale.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "3",
+      "explanation": "L'action d'un ton s\u00e9v\u00e8re est une d\u00e9livrance vocale.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "3",
+      "explanation": "L'action plus haut encore est une d\u00e9livrance vocale.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 63019.15407180786,
+  "model": "mistral-small-latest"
+}

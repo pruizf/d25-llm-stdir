@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "10",
+      "explanation": "Il l\u00e8ve sa canne. (He raises his cane.) This is an interaction with an object.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "1",
+      "explanation": "Ils le frappent. (They hit him.) This is a violent action.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "1",
+      "explanation": "Il les met en termes de combattre. (He puts them in terms of combat.) This suggests a violent action.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "1",
+      "explanation": "Il met la main \u00e0 un poignard. (He puts his hand on a dagger.) This suggests a violent action.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "1",
+      "explanation": "On \u00e9gorge les Victimes. (They slaughter the Victims.) This is a violent action.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "3",
+      "explanation": "On entend un bruit de guerre. (One hears the sound of war.) This is a description of a sound.",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "1",
+      "explanation": "Il fait un massacre de Polonais. (He makes a massacre of Poles.) This is a violent action.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "1",
+      "explanation": "Dorante veut tirer son \u00e9p\u00e9e. (Dorante wants to draw his sword.) This suggests a violent action.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "1",
+      "explanation": "Elle tire un poignard. (She draws a dagger.) This suggests a violent action.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "1",
+      "explanation": "Frappant la Chicanne. (Hitting the Chicanne.) This is a violent action.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "160",
+      "category": "1",
+      "explanation": "Il frappe Arlequin. (He hits Arlequin.) This is a violent action.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "1",
+      "explanation": "Amadis combat contre Arcala\u00fcs. (Amadis fights against Arcala\u00fcs.) This is a violent action.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "1",
+      "explanation": "Il frappe Scaramouche de toute sa force. (He hits Scaramouche with all his strength.) This is a violent action.",
+      "stgdir": "Il frappe Scaramouche de toute sa force.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "1",
+      "explanation": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence. (The Turks repeat the same lines, and give him several blows with a stick in rhythm.) This is a violent action.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "1",
+      "explanation": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre. (The little Blandineau and his sister beat Jannot, who lets himself be beaten.) This is a violent action.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "1",
+      "explanation": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent. (Four goblins throw themselves on Arlequin and having put him in a blanket they rock him.) This is a violent action.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "1",
+      "explanation": "On forme un combat \u00e0 la mani\u00e8re des anciens. (A combat is formed in the manner of the ancients.) This suggests a violent action.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "1",
+      "explanation": "Il en donne dans la porte qu'il met par terre. (He gives it to the door which he puts on the ground.) This suggests a violent action.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "2",
+      "explanation": "[\u00c0 part]. (Aside.) This is an aside.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "2",
+      "explanation": "[\u00c0 part. Il ne parle point de Calatabellotte.] (Aside. He does not speak of Calatabellotte.) This is an aside.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "170",
+      "category": "2",
+      "explanation": "\u00c0 part, avec ironie. (Aside, with irony.) This is an aside.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "2",
+      "explanation": "\u00c0 part, apr\u00e8s avoir lu. (Aside, after reading.) This is an aside.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "3",
+      "explanation": "Il dit ces quatre vers bas. (He says these four lines softly.) This describes the manner of delivery.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "1",
+      "explanation": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant : (The Mufti, after having him beaten, says to him singing:) This suggests a violent action.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "8",
+      "explanation": "Il chante avec Galaor. (He sings with Galaor.) This is a music description.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "3",
+      "explanation": "On entend crier de loin Ruflaut et Jeannot. (One hears Ruflaut and Jeannot screaming from afar.) This describes a sound.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "3",
+      "explanation": "Apr\u00e8s un silence. (After a silence.) This describes the manner of delivery.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "3",
+      "explanation": "D'un air d'importance. (With an air of importance.) This describes the manner of delivery.",
+      "stgdir": "D'un air d'importance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "3",
+      "explanation": "On entend Sosie qui chante. (One hears Sosie singing.) This describes a sound.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers. (The Choir of Shepherds repeats these last two lines.) This is a music description.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "180",
+      "category": "0",
+      "explanation": "Il appelle ses valets. (He calls his servants.) This is a general character action.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "8",
+      "explanation": "ENSEMBLE (Together.) This is a music description.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "0",
+      "explanation": "Il rappelle Monsieur Oronte. (He calls back Monsieur Oronte.) This is a general character action.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "6",
+      "explanation": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble. (Leandre, M\u00e9lite, Doris, C\u00e9phise and Ism\u00e8ne speak together.) This is a non-verbal interaction.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "3",
+      "explanation": "Criant tr\u00e8s fort. (Screaming very loudly.) This describes the manner of delivery.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "0",
+      "explanation": "Ils rient. (They laugh.) This is a general character action.",
+      "stgdir": "Ils rient.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "8",
+      "explanation": "Ici l'actrice chante un morceau \u00e0 son choix. (Here the actress sings a piece of her choice.) This is a music description.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "3",
+      "explanation": "Triomphalement. (Triumphantly.) This describes the manner of delivery.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "3",
+      "explanation": "Avec ravissement. (With rapture.) This describes the manner of delivery.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "8",
+      "explanation": "Reprise de Choeur. (Choir reprise.) This is a music description.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "190",
+      "category": "3",
+      "explanation": "Elle pleure am\u00e8rement. (She cries bitterly.) This describes the manner of delivery.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "2",
+      "explanation": "[Il interrompt la lecture. ] (He interrupts the reading.) This is an aside.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "3",
+      "explanation": "\u00c0 mi-voix. (Half-voice.) This describes the manner of delivery.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "3",
+      "explanation": "S'\u00e9chauffant. (Getting heated.) This describes the manner of delivery.",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "3",
+      "explanation": "Avec humeur. (With ill-humor.) This describes the manner of delivery.",
+      "stgdir": "Avec humeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "0",
+      "explanation": "Ronchaud prend un air s\u00e9v\u00e8re. (Ronchaud takes a severe air.) This is a general character action.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "8",
+      "explanation": "Il chante sur un air ridicule qu'il improvise. (He sings on a ridiculous tune that he improvises.) This is a music description.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "3",
+      "explanation": "\u00c0 demi-voix. (Half-voice.) This describes the manner of delivery.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "3",
+      "explanation": "On entend des clameurs en dehors. (One hears clamors from outside.) This describes a sound.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "3",
+      "explanation": "Criant au travers de la porte. (Screaming through the door.) This describes the manner of delivery.",
+      "stgdir": "Criant au travers de la porte.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "200",
+      "category": "3",
+      "explanation": "Ici un grand silence. (Here a great silence.) This describes the manner of delivery.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "0",
+      "explanation": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire. (He laughs. Laurent enters quickly, with a haggard eye, as if he were being pursued; he leans for a moment against the cupboard.) This is a general character action.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "8",
+      "explanation": "Il pr\u00e9lude encore. (He preludes again.) This is a music description.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "3",
+      "explanation": "Aux cris que pousse Th\u00e9cla. (At the cries that Th\u00e9cla utters.) This describes a sound.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "3",
+      "explanation": "On entend dans le lointain des cris et une marche militaire. (One hears cries and a military march in the distance.) This describes a sound.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "3",
+      "explanation": "Reprenant son ton de voix familier et indiff\u00e9rent. (Resuming his familiar and indifferent tone of voice.) This describes the manner of delivery.",
+      "stgdir": "Reprenant son ton de voix familier et indiff\u00e9rent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "3",
+      "explanation": "Parlant. (Speaking.) This describes the manner of delivery.",
+      "stgdir": "Parlant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "3",
+      "explanation": "Avec feu. (With passion.) This describes the manner of delivery.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "0",
+      "explanation": "Frappant du pied. (Stamping his foot.) This is a general character action.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "0",
+      "explanation": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine. (All the young girls laugh, except Justine.) This is a general character action.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "210",
+      "category": "6",
+      "explanation": "Ils parlent tous quatre en m\u00eame temps. (They all four speak at the same time.) This is a non-verbal interaction.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "8",
+      "explanation": "Il chante. (He sings.) This is a music description.",
+      "stgdir": "Il chante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "3",
+      "explanation": "Baissant sa voix. (Lowering his voice.) This describes the manner of delivery.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "3",
+      "explanation": "On n'entend pas le reste. (One does not hear the rest.) This describes a sound.",
+      "stgdir": "On n'entend pas le reste.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "0",
+      "explanation": "Tous partent d'un \u00e9clat de rire. (Everyone bursts into laughter.) This is a general character action.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "5",
+      "explanation": "Il sort en chantant. (He exits singing.) This is a character exit.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "8",
+      "explanation": "Il chante un petit motet. (He sings a small motet.) This is a music description.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "6",
+      "explanation": "R\u00e9pondant. (Answering.) This is a non-verbal interaction.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "3",
+      "explanation": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet. (One hears the voice of J\u00e9r\u00f4me calling Babet.) This describes a sound.",
+      "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "0",
+      "explanation": "Se remettant. (Recovering.) This is a general character action.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "220",
+      "category": "2",
+      "explanation": "Elle dit ceci bas. (She says this softly.) This is an aside.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "6",
+      "explanation": "Ensemble (Together.) This is a non-verbal interaction.",
+      "stgdir": "Ensemble",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "3",
+      "explanation": "Avec \u00e9motion. (With emotion.) This describes the manner of delivery.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "3",
+      "explanation": "D'un ton s\u00e9v\u00e8re. (In a severe tone.) This describes the manner of delivery.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "3",
+      "explanation": "Plus haut encore. (Even louder.) This describes the manner of delivery.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 157988.24048042297,
+  "model": "mistral-large-2407"
+}

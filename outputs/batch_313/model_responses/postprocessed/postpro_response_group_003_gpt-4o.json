@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "225",
+      "category": "3",
+      "explanation": "Stage direction describes the character's manner of speaking (in laughter), related to emotion and vocal expression.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "8",
+      "explanation": "Stage direction includes a song indicated by the word 'chantera', suggesting a musical element.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "3",
+      "explanation": "Stage direction reflects an emotional expression (crying), which classifies it under the delivery category.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "3",
+      "explanation": "Stage direction relates to the continuation of vocal delivery (rebirth of voice), aligned with how things are said.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "3",
+      "explanation": "Stage direction involves repetition of words, which pertains to delivery or emphasis in speech.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "230",
+      "category": "3",
+      "explanation": "Again involves repetition of verses, tied closely to delivery and emphasis.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "3",
+      "explanation": "Calling a servant is part of vocal expression, thus it fits the delivery category.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "A duo generally refers to a musical or vocal performance by two people, indicating music.",
+      "stgdir": "Duo.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "3",
+      "explanation": "Solennel (solemn) relates to the tone or manner of speaking, falling under delivery.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "3",
+      "explanation": "Stage direction describes a character singing an entire verse which is part of vocal delivery.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "3",
+      "explanation": "The action of calling falls under delivery as it involves vocal expression.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "4",
+      "explanation": "The stage direction indicates the entrance of Mariette, which fits the entrance category.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of Madame Dergos, which fits in the entrance category.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "5",
+      "explanation": "The stage direction indicates the exit of Uladislas from the inn, appropriate for the exit category.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "4",
+      "explanation": "The phrase 'Ils paraissent' indicates an entrance onto the scene, hence it fits the entrance category.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "240",
+      "category": "4",
+      "explanation": "Appearance of Plutus fits the entrance category as it signals coming onto the stage.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": "4",
+      "explanation": "The stage direction denotes the entrance of Domitian, appropriate for the entrance category.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": "11",
+      "explanation": "The presence of groups of magicians and demons relates to setting or scene description.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": "4",
+      "explanation": "Indicates the entrance of the Cardinal onto the stage, fitting the entrance category.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": "4",
+      "explanation": "The entrance of Madeleine Ozeray and Raymone is clearly stated, categorized as entrance.",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": "8",
+      "explanation": "References a ballet piece, which is related to music or dance component.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": "4",
+      "explanation": "Arrival of the character onto the scene indicates entrance.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": "4",
+      "explanation": "The appearance of Pasquin signals an entrance onto the stage, thus categorized as entrance.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": "4",
+      "explanation": "Val\u00e9rian is entering, which directly relates to entrance.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": "4",
+      "explanation": "Indicates the entrance of Henri Bassou, fitting the entrance category.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "250",
+      "category": "4",
+      "explanation": "Appearance of the Orange Tree and the Hawthorn at the back, indicating an entrance onto the scene.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "251",
+      "category": "5",
+      "explanation": "Exiting the cave is related to exiting the stage, making this an exit stage direction.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "252",
+      "category": "4",
+      "explanation": "The phrase 'ces deux divinit\u00e9s paraissent' indicates an entrance onto the scene.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "253",
+      "category": "4",
+      "explanation": "The entrance of Dergos is explicitly stated, making it appropriate for the entrance category.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "254",
+      "category": "5",
+      "explanation": "This direction involves characters leaving, which falls under the category of exit.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "255",
+      "category": "4",
+      "explanation": "Elles entrent indicates the entrance of characters, falling under the entrance category.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "256",
+      "category": "4",
+      "explanation": "Timag\u00e8ne re-entering the stage is an entrance, fitting the entrance category.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "257",
+      "category": "6",
+      "explanation": "The movement of domestics rushing implies interaction among characters.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "258",
+      "category": "4",
+      "explanation": "The arrival of the Exempt and his guards indicates entry onto the scene.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "259",
+      "category": "4",
+      "explanation": "The character's entrance from two different sides of the theater is clearly an 'entrance'.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "260",
+      "category": "4",
+      "explanation": "Phalante appearing on stage is an entrance, aligning with category 4.",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "261",
+      "category": "4",
+      "explanation": "The appearance of characters on the small stage and action following it indicates an entrance.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "262",
+      "category": "4",
+      "explanation": "Lisanor's appearance fits under the entrance category.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "263",
+      "category": "4",
+      "explanation": "Gille entering is categorized under entrance.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "264",
+      "category": "4",
+      "explanation": "The marquis appearing in the mirror is an entrance, aligning with category 4.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "265",
+      "category": "4",
+      "explanation": "Flore and Blanche re-enter, which is an entrance stage direction.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "266",
+      "category": "4",
+      "explanation": "The appearance of Oronte is an entrance, falling under category 4.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "267",
+      "category": "8",
+      "explanation": "The sixth intermezzo, related to musical or dance content, fits music.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "268",
+      "category": "8",
+      "explanation": "A ballet entry suggests musical and dance elements, relating it to category music.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "269",
+      "category": "4",
+      "explanation": "The generic label 'ENTR\u00c9E' indicates character entry onto the stage.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "270",
+      "category": "4",
+      "explanation": "Moli\u00e8re entering fits the entrance category.",
+      "stgdir": "Moli\u00e8re rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": "4",
+      "explanation": "Bricard entering is classified as entrance.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": "4",
+      "explanation": "Indicates an entrance by Verseuil.",
+      "stgdir": "Pendant ce monologue, Verseuil entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": "4",
+      "explanation": "A messenger entering is classified as entrance.",
+      "stgdir": "Un Messager entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": "5",
+      "explanation": "Jean Poquelin exits from a room, linked to the exit category.",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": "5",
+      "explanation": "Monsieur Mathieu exiting without listening to Benjamine fits exit.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": "5",
+      "explanation": "Phoedime exits, related to the exit category.",
+      "stgdir": "Phoedime sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": "5",
+      "explanation": "Almaviva and L\u00e9on with a character leaving, indicates an exit.",
+      "stgdir": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": "5",
+      "explanation": "Exiting the table and carrying it off is linked with exit.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": "5",
+      "explanation": "The character and others 'sort' (leave), which fits the category of exit.",
+      "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "280",
+      "category": "5",
+      "explanation": "Adrien exiting is related to leaving the stage.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "5",
+      "explanation": "Oloodeme and Eristene withdrawing implies exit.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "5",
+      "explanation": "Crispe retiring signals an exit.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "5",
+      "explanation": "Pysandre leaving relates it to the exit category.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "4",
+      "explanation": "Blanche stopping due to the entrance of another character connects to entrance.",
+      "stgdir": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "5",
+      "explanation": "Characters fleeing is characterized as an exit from the scene.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "0",
+      "explanation": "General action of taking Albert, hence classified as action.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "5",
+      "explanation": "Valentin exiting is associated with leaving the stage.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "5",
+      "explanation": "Baptiste escaping suggests an exit from the scene, fitting exit.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "5",
+      "explanation": "Character re-entering the chateau indicates a return, but more as an exit from the current scene.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "290",
+      "category": "5",
+      "explanation": "Everyone leaving except Babet indicates an exit.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "291",
+      "category": "5",
+      "explanation": "Moli\u00e8re exiting aligns with the exit category.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "292",
+      "category": "5",
+      "explanation": "The character leaving in anger indicates an exit.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "293",
+      "category": "5",
+      "explanation": "Characters leaving together, placed under the exit category.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "294",
+      "category": "7",
+      "explanation": "Merlin takes flight, which indicates quick movement resembling exit rather than a planned or staged exit.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "295",
+      "category": "5",
+      "explanation": "M\u00e9gatise leaving aligns with exit category.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "296",
+      "category": "5",
+      "explanation": "A character leaving the stage is explicitly indicated by 'il sort', suggesting exit.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "297",
+      "category": "5",
+      "explanation": "'Il sort par la porte de gauche' clearly defines an exit of the character.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "298",
+      "category": "5",
+      "explanation": "The porter exiting to quickly return with another character suggests initial leave from the stage.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "299",
+      "category": "5",
+      "explanation": "Duparc's exit from the stage aligns with exit.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 45105.23295402527,
+  "model": "gpt-4o"
+}

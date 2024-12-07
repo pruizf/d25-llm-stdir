@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2700",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place pour d\u00e9sarmer l'autre, puis regarde.",
+      "stgdir": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2701",
+      "category": "1",
+      "explanation": "Action r\u00e9p\u00e9titive et violente.",
+      "stgdir": "Quatre fois.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2702",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2703",
+      "category": "8",
+      "explanation": "Indique qu'une chanson va \u00eatre chant\u00e9e.",
+      "stgdir": "Chanson",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2704",
+      "category": "1",
+      "explanation": "Action violente conduisant \u00e0 la mort.",
+      "stgdir": "Il se tue de ceux coups de poignards.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2705",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place pour entrer quelque part.",
+      "stgdir": "Il va pour entrer chez son Colonel.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2706",
+      "category": "6",
+      "explanation": "Le personnage se regarde, ce qui est une interaction non-verbale.",
+      "stgdir": "En se regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2707",
+      "category": "6",
+      "explanation": "Le personnage montre quelqu'un, ce qui est une interaction non-verbale.",
+      "stgdir": "Montrant Br\u00e9court.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2708",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "Au gar\u00e7on qui porte le fauteuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2709",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 Clarine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2710",
+      "category": "4",
+      "explanation": "Le personnage entre dans un lieu.",
+      "stgdir": "\u00c0 la Folie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2711",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "AIR. Not\u00e9 N\u00b04.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2712",
+      "category": "10",
+      "explanation": "Action avec un objet (lettre).",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2713",
+      "category": "4",
+      "explanation": "Deux personnages entrent/sortent.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2714",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2715",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place pour chercher.",
+      "stgdir": "Il regarde autour de lui, et vois du sang.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2716",
+      "category": "11",
+      "explanation": "Description de la sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un salon, plusieurs tableaux sont suspendus \u00e7\u00e0 et l\u00e0. Un portrait de femme, plac\u00e9 sur un chevalet, est plus en vue que les autres. Th\u00e9odore est assis devant une table, sur laquelle il y a du papier, une \u00e9critoire, de la musique, etc. Dubois arrange l'appartement.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2717",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place pour rejoindre quelqu'un.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2718",
+      "category": "8",
+      "explanation": "Indique une partie d'une chanson.",
+      "stgdir": "Refrain de l'AIR 72 : Morguienne de vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2719",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "Air : Souvenez-vous en.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2720",
+      "category": "10",
+      "explanation": "Action avec un objet (lettre).",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2721",
+      "category": "4",
+      "explanation": "Le personnage entre.",
+      "stgdir": "Camille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2722",
+      "category": "11",
+      "explanation": "Description de la nouvelle sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2723",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "Au Grand Bibi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2724",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "Air De l'Anonyme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2725",
+      "category": "6",
+      "explanation": "Le personnage montre quelque chose, ce qui est une interaction non-verbale.",
+      "stgdir": "D\u00e9mophon, lui montrant la promesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2726",
+      "category": "8",
+      "explanation": "Indique qu'une chanson va \u00eatre chant\u00e9e.",
+      "stgdir": "AIR :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2727",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "Air : La vieille m\u00e9thode.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2728",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 Calotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2729",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "Au Ma\u00eetre d'H\u00f4tel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2730",
+      "category": "5",
+      "explanation": "Le personnage sort de sc\u00e8ne.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2731",
+      "category": "0",
+      "explanation": "Le personnage continue une action (\u00e9crire).",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2732",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 Arsace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2733",
+      "category": "9",
+      "explanation": "Description d'un changement de conditions m\u00e9t\u00e9orologiques.",
+      "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2734",
+      "category": "4",
+      "explanation": "Le personnage entre.",
+      "stgdir": "Edgard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2735",
+      "category": "0",
+      "explanation": "Le personnage s'assoit, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2736",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 Arons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2737",
+      "category": "6",
+      "explanation": "Le groupe reprend une chanson, ce qui est une interaction non-verbale.",
+      "stgdir": "Tous reprennent le rondeau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2738",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "Air 18 : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2739",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "AIR : Du pas redoubl\u00e9 de l'Infanterie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2740",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 Marco.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2741",
+      "category": "4",
+      "explanation": "Le personnage entre.",
+      "stgdir": "\u00c9lise entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2742",
+      "category": "6",
+      "explanation": "Le personnage embrasse quelqu'un, ce qui est une interaction non-verbale.",
+      "stgdir": "Ils s'embrassent",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2743",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 B\u00eame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2744",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "AIR : Je n'en dirai pas davantage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2745",
+      "category": "6",
+      "explanation": "Le personnage regarde quelqu'un, ce qui est une interaction non-verbale.",
+      "stgdir": "Regardant Rouqu\u00e9rolle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2746",
+      "category": "0",
+      "explanation": "Le personnage tombe et fait des gestes, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2747",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "AIR : Tique tique taque lon lan la.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2748",
+      "category": "6",
+      "explanation": "Les personnages sont ensemble, ce qui est une interaction non-verbale.",
+      "stgdir": "Pluton et Proserpine ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2749",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 Dorante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2750",
+      "category": "5",
+      "explanation": "Le personnage sort de sc\u00e8ne.",
+      "stgdir": "Gallas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2751",
+      "category": "10",
+      "explanation": "Le personnage prend un objet (\u00e9chelle) et le pose.",
+      "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2752",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 La Brie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2753",
+      "category": "6",
+      "explanation": "Le personnage regarde quelqu'un, ce qui est une interaction non-verbale.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2754",
+      "category": "6",
+      "explanation": "Le personnage frappe quelqu'un, ce qui est une interaction non-verbale.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2755",
+      "category": "7",
+      "explanation": "Le personnage s'\u00e9loigne momentan\u00e9ment.",
+      "stgdir": "Le garde s'\u00e9loigne un moment.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2756",
+      "category": "4",
+      "explanation": "Le personnage entre.",
+      "stgdir": "Salviati entre dans le palais.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2757",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "Air : Eh! zon, zon, zon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2758",
+      "category": "4",
+      "explanation": "On frappe \u00e0 la porte, ce qui est une entr\u00e9e.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2759",
+      "category": "4",
+      "explanation": "Indique la premi\u00e8re entr\u00e9e.",
+      "stgdir": "Premi\u00e8re entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2760",
+      "category": "10",
+      "explanation": "Action avec un objet (poup\u00e9e).",
+      "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2761",
+      "category": "0",
+      "explanation": "Le personnage veut lire, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il veut lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2762",
+      "category": "6",
+      "explanation": "Le personnage regarde, ce qui est une interaction non-verbale.",
+      "stgdir": "Regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2763",
+      "category": "3",
+      "explanation": "Le personnage chante une chanson.",
+      "stgdir": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0:",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2764",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la prochaine parole.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2765",
+      "category": "11",
+      "explanation": "Description de la nouvelle sc\u00e8ne.",
+      "stgdir": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2766",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "AIR de la Somnambule.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2767",
+      "category": "7",
+      "explanation": "Le personnage se rapproche de quelqu'un.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2768",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "AIR : Sans dessus desssous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2769",
+      "category": "8",
+      "explanation": "Indique le nom d'une chanson.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2770",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place pour aller vers quelqu'un.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2771",
+      "category": "4",
+      "explanation": "Le personnage sort de l'h\u00f4tellerie.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2772",
+      "category": "6",
+      "explanation": "Le personnage regarde quelqu'un, ce qui est une interaction non-verbale.",
+      "stgdir": "Observant Terville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2773",
+      "category": "10",
+      "explanation": "Le personnage r\u00e9p\u00e8te quelque chose, ce qui implique une action avec un objet.",
+      "stgdir": "Elle repeint.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2774",
+      "category": "6",
+      "explanation": "Le personnage regarde quelqu'un, ce qui est une interaction non-verbale.",
+      "stgdir": "Elle le regarde toujours.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 54319.04625892639,
+  "model": "mistral-small-latest"
+}

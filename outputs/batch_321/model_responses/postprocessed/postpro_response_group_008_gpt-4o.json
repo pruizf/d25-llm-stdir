@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', ce qui indique le titre d'une musique ou d'un air jou\u00e9 dans la pi\u00e8ce.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "10",
+      "explanation": "Il s'agit de l'interaction du personnage avec un objet, probablement en arrachant un poil.",
+      "stgdir": "Il arrache du poil.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "0",
+      "explanation": "C'est une action g\u00e9n\u00e9rale indiquant qu'il semble appara\u00eetre, ce qui ne peut \u00eatre class\u00e9 dans aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Il para\u00eet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "1",
+      "explanation": "Donner des coups de b\u00e2ton sur un sac est une action agressive.",
+      "stgdir": "Il donne plusieurs coups de b\u00e2ton sur le sac.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "6",
+      "explanation": "Montrer son \u00e9charpe implique une interaction visuelle ou gestuelle avec un autre personnage.",
+      "stgdir": "Montrant son \u00e9charpe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "9",
+      "explanation": "Une didascalie narrative qui d\u00e9crit l'action pendant que le portier sort et revient avec la vieille p\u00e9cheresse, et l'\u00e9v\u00eaque murmure \u00e0 mi-voix.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "7",
+      "explanation": "Il s'agit d'un mouvement, car Guillot fait semblant de s'en aller, impliquant un d\u00e9placement.",
+      "stgdir": "Guillot fait semblant de s'en aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "Cela indique que la r\u00e9plique ou l'action est dirig\u00e9e vers Antiochus.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "12",
+      "explanation": "Cette didascalie indique que l'action ou la r\u00e9plique est adress\u00e9e \u00e0 D\u00e9janire.",
+      "stgdir": "\u00c0 D\u00e9janire",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "12",
+      "explanation": "Cela indique que la r\u00e9plique ou l'action est dirig\u00e9e vers Verseuil.",
+      "stgdir": "\u00c0 Verseuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "610",
+      "category": "0",
+      "explanation": "Va ouvrir la porte est une action, mais elle ne rentre pas parfaitement dans les autres cat\u00e9gories.",
+      "stgdir": "Il va ouvrir la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "611",
+      "category": "0",
+      "explanation": "Il s'agit d'une action g\u00e9n\u00e9rale de pr\u00e9sence ou apparence sur sc\u00e8ne, ne correspondant \u00e0 aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "612",
+      "category": "4",
+      "explanation": "Le cardinal entre en sc\u00e8ne.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "613",
+      "category": "9",
+      "explanation": "Cela d\u00e9crit une mise en sc\u00e8ne narrative, probablement une interruption musicale ou th\u00e9\u00e2trale de la pi\u00e8ce.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "614",
+      "category": "1",
+      "explanation": "Il le bat, ce qui est une action agressive.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "615",
+      "category": "4",
+      "explanation": "L'entr\u00e9e d'un personnage accompagn\u00e9 de l'orf\u00e8vre.",
+      "stgdir": "Il entre avec l'orf\u00e8vre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "616",
+      "category": "10",
+      "explanation": "Elle ramasse un objet, en l'occurrence un bonnet, ce qui est une interaction avec un objet.",
+      "stgdir": "Elle ramasse le bonnet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "617",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un extrait musical ou un air dans la pi\u00e8ce.",
+      "stgdir": "Air : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "618",
+      "category": "9",
+      "explanation": "Une troupe de matelots descend d'un vaisseau \u00e9chou\u00e9, ce qui fournit une description narrative de la sc\u00e8ne.",
+      "stgdir": "Une troupe de Matelots descendent d'un vaisseau \u00e9chou\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "619",
+      "category": "12",
+      "explanation": "Cela indique que la r\u00e9plique ou l'action est dirig\u00e9e vers Antonin.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "620",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', ce qui indique une r\u00e9f\u00e9rence \u00e0 un morceau musical ou un air chant\u00e9.",
+      "stgdir": "AIR : Voulez-vous savoir qui des deux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "621",
+      "category": "12",
+      "explanation": "Cette didascalie indique que l'action ou la r\u00e9plique est adress\u00e9e \u00e0 Henry.",
+      "stgdir": "\u00c0 Henry.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "622",
+      "category": "3",
+      "explanation": "Le Choeur des Bergers chante les deux derniers vers, ce qui rel\u00e8ve de l'interpr\u00e9tation musicale d'une r\u00e9plique.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "623",
+      "category": "3",
+      "explanation": "Le Mufti chantant ces paroles en est une description de la mani\u00e8re dont il prononce une r\u00e9plique.",
+      "stgdir": "Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahom\u00e9tane, et leur chante ces paroles :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "624",
+      "category": "8",
+      "explanation": "Commence par 'AIR', il s'agit du titre d'une musique ou d'un air interpr\u00e9t\u00e9 dans la pi\u00e8ce.",
+      "stgdir": "AIR : Eh zon, zon, zon, Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "625",
+      "category": "6",
+      "explanation": "Elle met la main sur le bras de Th\u00e9odat, une interaction physique ou gestuelle sans parole.",
+      "stgdir": "Elle met timidement, mais avec r\u00e9solution, sur le bras de Th\u00e9odat, sa main qui se crispe \u00e0 la chair sentie sous les \u00e9toffes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "626",
+      "category": "4",
+      "explanation": "Madame Dergos entre en sc\u00e8ne.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "627",
+      "category": "3",
+      "explanation": "Avec feu, indique l'intonation ou l'expression avec laquelle une r\u00e9plique pourrait \u00eatre dite.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "628",
+      "category": "6",
+      "explanation": "Il regarde le portrait, une interaction visuelle.",
+      "stgdir": "Il regarde le portrait.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "629",
+      "category": "9",
+      "explanation": "Indique une nouvelle sc\u00e8ne, ce qui est quasi-narratif et plus organisationnel.",
+      "stgdir": "SC\u00c8NE II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "630",
+      "category": "10",
+      "explanation": "Il donne un bracelet, une interaction avec un objet.",
+      "stgdir": "Lui donnant le bracelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', donc elle indique le titre ou la pr\u00e9sence d'un morceau musical.",
+      "stgdir": "Air : Pauvre Jacques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "12",
+      "explanation": "Indique que la r\u00e9plique ou l'action est dirig\u00e9e vers le duc d'Alcala.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "Commence par 'Air', indiquant le titre ou la pr\u00e9sence d'une musique dans la pi\u00e8ce.",
+      "stgdir": "Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "10",
+      "explanation": "On lui corne aux oreilles avec la trompe, donc impliquant une interaction avec un objet.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "9",
+      "explanation": "Antistrophe II est tr\u00e8s probablement une partie d'un chant ou po\u00e8me.",
+      "stgdir": "Antistrophe II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "9",
+      "explanation": "Strophe X indique une partie d'un chant ou po\u00e8me.",
+      "stgdir": "Strophe X.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "6",
+      "explanation": "Apercevant Job, cela sugg\u00e8re une interaction visuelle, m\u00eame si elle est indirecte.",
+      "stgdir": "Apercevant Job.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', ce qui indique un morceau musical.",
+      "stgdir": "Air : Mon joli petit Corbillon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "8",
+      "explanation": "Commence par 'Air', indiquant un morceau musical.",
+      "stgdir": "Air : Le petit mot, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "640",
+      "category": "0",
+      "explanation": "Pr\u00e9luder sugg\u00e8re un pr\u00e9lude \u00e0 jouer d'un instrument, une action, mais non sp\u00e9cifique \u00e0 une autre cat\u00e9gorie.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "9",
+      "explanation": "R\u00e9f\u00e9rence biblique, ce qui peut assez souvent \u00eatre narratif.",
+      "stgdir": "(Gen. XXII, 17 et 18).",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "0",
+      "explanation": "Appara\u00eetre est une action g\u00e9n\u00e9rale sur sc\u00e8ne.",
+      "stgdir": "Le Comte para\u00eet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "0",
+      "explanation": "D\u00e9crire une action collective de r\u00e9agir \u00e0 une voix. Cela peut \u00eatre consid\u00e9r\u00e9 comme une action g\u00e9n\u00e9rale.",
+      "stgdir": "Tout accourt \u00e0 sa voix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "7",
+      "explanation": "Se lever de table est un mouvement organis\u00e9 et commun o\u00f9 la notion de d\u00e9placement est impliqu\u00e9e.",
+      "stgdir": "Il se l\u00e8ve de table.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "3",
+      "explanation": "\u00c0 demi-voix d\u00e9crit la mani\u00e8re dont une r\u00e9plique ou parole est dite.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "7",
+      "explanation": "Impliquant un d\u00e9placement lorsque les deux personnages traversent l'espace sc\u00e9nique.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "6",
+      "explanation": "Joindre les mains peut \u00eatre une action interactionnelle g\u00e9n\u00e9ralement symbolique ou expressive vis-\u00e0-vis d'une autre personne.",
+      "stgdir": "Elle joint les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "0",
+      "explanation": "La description 'On frappe \u00e0 la porte au fond' est une action qui ne tombe pas facilement sous d'autres descriptions sp\u00e9cifiques.",
+      "stgdir": "On frappe \u00e0 la porte au fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "6",
+      "explanation": "Paquette serrant la main implique un contact physique ou une interaction non verbale.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "650",
+      "category": "8",
+      "explanation": "Commence par 'AIR', ce qui indique une chanson ou un morceau musical.",
+      "stgdir": "AIR : Plaisirs si purs que je regrette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "12",
+      "explanation": "Indique que la r\u00e9plique ou l'action est dirig\u00e9e vers Hauteroche.",
+      "stgdir": "\u00c0 Hauteroche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "8",
+      "explanation": "L'usage du mot 'Air' sugg\u00e8re qu'il s'agit du titre d'une chanson ou d'un air.",
+      "stgdir": "Air 15 : Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "0",
+      "explanation": "Le fait que le roi dorme est une description d'\u00e9tat mais reste une action sc\u00e9nique.",
+      "stgdir": "Le Roi dort.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "9",
+      "explanation": "Elle d\u00e9crit une sc\u00e8ne \u00e9labor\u00e9e avec plusieurs actions complexes, typique d'une narration sc\u00e8ne.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "Indique que la r\u00e9plique ou l'action est dirig\u00e9e vers le peuple.",
+      "stgdir": "Au peuple.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "6",
+      "explanation": "Indique une interaction en pointant ou en dirigeant \u00e0 N\u00e9restan.",
+      "stgdir": "En montrant N\u00e9restan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "9",
+      "explanation": "Les actions multiples indiquent une narration ou une s\u00e9quence de divers \u00e9v\u00e9nements sc\u00e9niques.",
+      "stgdir": "Des soldats de la suite du Major entourent Roquillard, en lui pr\u00e9sentant de tous c\u00f4t\u00e9s la pointe de la hallebarde\u00a0; et pendant ce temps Arlequin emm\u00e8ne Isabelle. Les soldats et Roquillard forment une danse, qui sert de divertissement pour le troisi\u00e8me acte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "9",
+      "explanation": "Sonner une seconde fois est comme une partie d'une action en s\u00e9quence.",
+      "stgdir": "On sonne une seconde fois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "12",
+      "explanation": "Indique que la r\u00e9plique ou l'action est dirig\u00e9e vers la Servante.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "660",
+      "category": "9",
+      "explanation": "La description d'une sc\u00e8ne compl\u00e8te avec des personnages et leurs placements \u00e9voque une didascalie narrative au lieu d'une simple action.",
+      "stgdir": "Il y a une ottomane qui r\u00e8gne le long de la salle, le Chinois et la Chinoise s'y accroupissent. Un Tartare et une Tartare paraissent sans saluer personne ; ils ont un arc en main et un carquois sur l'\u00e9paule ; ils se couchent aupr\u00e8s des Chinois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "11",
+      "explanation": "Description du lieu indiquant une maison de paysans, donc cat\u00e9gorie setting.",
+      "stgdir": "Une maison de paysans dans les environs de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "7",
+      "explanation": "Montano s'approche, ce qui est un mouvement.",
+      "stgdir": "Montano s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "11",
+      "explanation": "La description du lieu sc\u00e9nique correspond \u00e0 la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un petit salon. Porte au fond. Porte lat\u00e9rale \u00e0 droite. - Une fen\u00eatre \u00e0 gauche. - \u00c0 droite, une table.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "12",
+      "explanation": "Indique que la r\u00e9plique ou l'action est adress\u00e9e \u00e0 Anth\u00e9nor.",
+      "stgdir": "Elle parle \u00e0 Anth\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "10",
+      "explanation": "L'action o\u00f9 elle d\u00e9trempe les papiers est une interaction avec un objet.",
+      "stgdir": "Elle d\u00e9trempe les papiers dans l'eau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "6",
+      "explanation": "Regarder le portrait implique une interaction visuelle.",
+      "stgdir": "Regardant le portrait de L\u00e9lie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "9",
+      "explanation": "ENSEMBLE sugg\u00e8re un groupe faisant quelque chose synchronis\u00e9, souvent partie d'une direction sc\u00e9nique.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "11",
+      "explanation": "D\u00e9crit une sc\u00e8ne sp\u00e9cifique et son arrangement, donc setting.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente le boudoir de la Comtesse. \u00c0 gauche, un petit paravent. Au lever du rideau, la Comtesse de La Roche-Gaston est seule en sc\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "8",
+      "explanation": "Commence par 'Air', il s'agit d'un morceau musical ou chant\u00e9.",
+      "stgdir": "Air : Oh, oh, oh, ah, ah, ah !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "670",
+      "category": "6",
+      "explanation": "Montrer Tancr\u00e8de est une action d'interaction gestuelle.",
+      "stgdir": "Montrant Tancr\u00e8de.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "12",
+      "explanation": "Indique que la r\u00e9plique ou l'action se dirige vers ses fils.",
+      "stgdir": "\u00c0 ses fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "8",
+      "explanation": "'AIR 97' indique un morceau musical ou une chanson dans la pi\u00e8ce.",
+      "stgdir": "AIR 97. (J'ai bien la plus sobre femme.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "9",
+      "explanation": "La didascalie est narrative, d\u00e9crivant une s\u00e9quence d'action apr\u00e8s avoir achev\u00e9 la bouteille d'A\u00ef.",
+      "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "8",
+      "explanation": "Le titre de l'air montr\u00e9 avec 'Air' indique de la musique, typiquement utilis\u00e9 dans les pi\u00e8ces de th\u00e9\u00e2tre.",
+      "stgdir": "Air : \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 37857.81455039978,
+  "model": "gpt-4o"
+}

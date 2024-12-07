@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "5",
+      "explanation": "La didascalie indique que l'avocat sort, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "L'avocat sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "9",
+      "explanation": "Il s'agit d'une didascalie narrative longue d\u00e9crivant une sc\u00e8ne compl\u00e8te avec des actions et \u00e9v\u00e9nements.",
+      "stgdir": "C'est dans cette sc\u00e8ne que les lutins d\u00e9guis\u00e9s font une c\u00e9r\u00e9monie magique pour feindre d'embellir Forestan, et pour se moquer de lui. Deux magiciens paraissent chacun une baguette \u00e0 la main, ils frappent, la Terre en dansant, et font sortir six d\u00e9mons qui se joignent avec eux. Trois sorci\u00e8res sortent aussi de dessous terre, et faisant asseoir Forestan au milieu d'elles, m\u00ealent leur chants aux danses des Magiciens et des D\u00e9mons, pour former une mani\u00e8re d'enchantement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "8",
+      "explanation": "La didascalie mentionne 'Sixi\u00e8me Couplet', indiquant probablement une partie musicale ou un air.",
+      "stgdir": "Sixi\u00e8me Couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "4",
+      "explanation": "N\u00e9rine paraissant sugg\u00e8re son entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "N\u00e9rine para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "7",
+      "explanation": "La didascalie d\u00e9crit un mouvement du personnage passant devant un autre.",
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "3",
+      "explanation": "Le choeur r\u00e9p\u00e8te, ce qui concerne la mani\u00e8re d'interpr\u00e9ter des r\u00e9pliques par un groupe.",
+      "stgdir": "LE CHOEUR r\u00e9p\u00e8te.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "12",
+      "explanation": "Didascalie indiquant le destinataire d'une r\u00e9plique ou action, en l'occurrence, Dariolette.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "5",
+      "explanation": "Indique que les personnes \u00e0 qui elle parle se retirent, ce qui est une sortie.",
+      "stgdir": "Ceux \u00e0 qui elle parle se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "9",
+      "explanation": "Un divertissement suppose la description d'une s\u00e9quence o\u00f9 groupe d'artificiers et artifici\u00e8res sont en sc\u00e8ne, probablement une narration.",
+      "stgdir": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "9",
+      "explanation": "La didascalie indique qu'on entend quelqu'un qui vient, ce qui est une description narrative.",
+      "stgdir": "On entend quelqu'un qui vient.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "5",
+      "explanation": "La sortie du valet de chambre est une sortie de sc\u00e8ne.",
+      "stgdir": "Le valet, de de chambre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "4",
+      "explanation": "Bricard entre, ce qui indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "6",
+      "explanation": "Il va vers elle, d\u00e9crivant une interaction non verbale.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "8",
+      "explanation": "'Air de la Crois\u00e9e' sugg\u00e8re probablement un morceau musical.",
+      "stgdir": "Air de la Crois\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "2",
+      "explanation": "Mentionne l\u2019apart\u00e9, qui est g\u00e9n\u00e9ralement une indication de dialogue adress\u00e9 directement au public ou chuchot\u00e9.",
+      "stgdir": "Apart\u00e9.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "10",
+      "explanation": "Jetant les cartes concerne l'interaction avec un objet sp\u00e9cifique, ici les cartes.",
+      "stgdir": "Jetant les cartes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "12",
+      "explanation": "Indique que quelque chose ou une r\u00e9plique est dirig\u00e9e vers les Gardes.",
+      "stgdir": "Aux Gardes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "12",
+      "explanation": "Didascalie indiquant une direction vers Christierne.",
+      "stgdir": "\u00c0 Christierne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "5",
+      "explanation": "Zerbine sort, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "12",
+      "explanation": "Indique une direction vers L\u00e9andre.",
+      "stgdir": "\u00c0 L\u00e9andre",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "6",
+      "explanation": "Elle appelle Lubin, qui est une interaction non verbale.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "10",
+      "explanation": "Lisant indique qu'un personnage interagit avec un texte ou livre, soit un objet.",
+      "stgdir": "Lisant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "5",
+      "explanation": "Elle sort suivie de son page et de la Comtesse, une description de sortie de sc\u00e8ne.",
+      "stgdir": "Elle sort suivie de son page et de la Comtesse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "8",
+      "explanation": "La mention 'AIR NOUVEAU : Musique d'Auguste BLANGY' classe cette indication en tant que musique.",
+      "stgdir": "AIR NOUVEAU : Musique d'Augusrte BLANGY.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "Il la frappe est une action violente et est class\u00e9e sous aggression.",
+      "stgdir": "Il la frappe",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "10",
+      "explanation": "Il lui donne le rouleau, r\u00e9f\u00e9rence \u00e0 la manipulation d'un objet.",
+      "stgdir": "Il lui donne le rouleau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "10",
+      "explanation": "D\u00e9crit l'action d'interagir avec un objet, ici un vase et une chose dans un tablier.",
+      "stgdir": "Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "5",
+      "explanation": "Adonias sort, d\u00e9crivant une sortie de sc\u00e8ne.",
+      "stgdir": "Adonias sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "5",
+      "explanation": "La Montagne s'en va, indiquant une sortie.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "10",
+      "explanation": "D\u00e9crit une action impliquant un objet, ici le fait d'\u00f4ter \u00e0 Liliane.",
+      "stgdir": "Il l'\u00f4te \u00e0 Liliane.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "10",
+      "explanation": "Il fait lever la toile, encore une interaction avec un objet.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "6",
+      "explanation": "Didascalie d\u00e9crivant plusieurs interactions non verbales entre le Docteur et Arlequin.",
+      "stgdir": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "5",
+      "explanation": "Actor s'en va, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Actor s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "10",
+      "explanation": "Elle d\u00e9chire la lettre, une interaction avec un objet.",
+      "stgdir": "Elle d\u00e9chire la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "8",
+      "explanation": "Air nouveau de Couder sugg\u00e8re un air ou une composition musicale.",
+      "stgdir": "Air nouveau de Couder.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "12",
+      "explanation": "Indique que quelque chose est dirig\u00e9 vers Poquelin.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "8",
+      "explanation": "Nom d'un air, comme indiqu\u00e9 par l'intitul\u00e9 'Air :'.",
+      "stgdir": "Air : Je veux t'\u00eatre un Chien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "3",
+      "explanation": "Change de ton indique un mode d'expression ou de livraison de r\u00e9plique.",
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "12",
+      "explanation": "Indique que quelque chose est dirig\u00e9 vers Lucinde.",
+      "stgdir": "\u00c0 Lucinde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "0",
+      "explanation": "Elle s'arrange la figure d\u00e9crit une action sans autre cat\u00e9gorie plus pr\u00e9cise.",
+      "stgdir": "Elle s'arrange la figure devant la glace.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "0",
+      "explanation": "Il tend l'oreille est une action d'\u00e9coute intense.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "10",
+      "explanation": "Lit l'inscription indique une interaction avec l'objet, ici deux lettres.",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "12",
+      "explanation": "Indique une adresse vers un tribun.",
+      "stgdir": "\u00c0 un tribun.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "0",
+      "explanation": "Rire est une action qui n'est pas sp\u00e9cifiquement couverte par une autre cat\u00e9gorie.",
+      "stgdir": "Il rit beaucoup.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "10",
+      "explanation": "Prendre une lettre et la poser quelque part sont des interactions avec un objet.",
+      "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "8",
+      "explanation": "Indique un air par l'intitul\u00e9 'AIR :'.",
+      "stgdir": "AIR : Y a coups de pieds, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "8",
+      "explanation": "Un autre 'AIR :' suivi d'un titre pr\u00e9cise que c'est un morceau musical.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "12",
+      "explanation": "Indique une direction vers Ariarathe.",
+      "stgdir": "\u00c0 Ariarathe",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "12",
+      "explanation": "Indique que quelque chose est adress\u00e9 \u00e0 Ragotin.",
+      "stgdir": "Il s'adresse \u00e0 Ragotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "11",
+      "explanation": "Indique un contexte ou une mise en sc\u00e8ne sp\u00e9cifique, ici que quelqu'un est en prison.",
+      "stgdir": "Il est en prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "8",
+      "explanation": "Utilisation de \u2018PREMIER COUPLET\u2019 indique probablement une partie d'un air ou d'une chanson.",
+      "stgdir": "PREMIER COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "8",
+      "explanation": "Nom d'un air ou une composition musicale, comme indiqu\u00e9 par 'AIR :'.",
+      "stgdir": "AIR : Evohe ! que ces d\u00e9esses...",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "6",
+      "explanation": "Balsant la main est une interaction physique non verbale.",
+      "stgdir": "Il lui balsa la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "12",
+      "explanation": "Indique que quelque chose est dirig\u00e9 vers Laurent.",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "8",
+      "explanation": "Nomm\u00e9 \u2018Air\u2019 indique l'inclusion d'un air musical.",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "0",
+      "explanation": "Montrant Jenneval est une action qui ne se range pas sous d'autres cat\u00e9gories.",
+      "stgdir": "Montrant Jenneval.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "8",
+      "explanation": "Musique identificable par 'Air :'.",
+      "stgdir": "Air : Dis-moi donc, mon cher Hypolite.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "0",
+      "explanation": "D\u00e9crire comment l'on montre ou manipule un objet (chapeau) reste une action plus large.",
+      "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "8",
+      "explanation": "Mentionne 'AIR', qui indique un morceau musical.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "8",
+      "explanation": "Les violons jouent un branle, identifie l'inclusion musicale dans la sc\u00e8ne.",
+      "stgdir": "Les violons jouent un branle pendant que Polydas parle et que les convi\u00e9s dansent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "1",
+      "explanation": "Tirer une \u00e9p\u00e9e implique une action agressive potentielle.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "0",
+      "explanation": "S'asseoir dans un fauteuil est une action plus g\u00e9n\u00e9rale.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "3",
+      "explanation": "Val\u00e9rian chante, impliquant une forme de livraison.",
+      "stgdir": "Val\u00e9rian chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "7",
+      "explanation": "Fait un mouvement pour se lever d\u00e9crit un d\u00e9placement.",
+      "stgdir": "Il fait un mouvement pour se lever.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "11",
+      "explanation": "D\u00e9crit le cadre et le d\u00e9cor de la sc\u00e8ne, avec des \u00e9l\u00e9ments visuels pr\u00e9cis.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un bocage dont les arbres sont couverts de frimas et de gla\u00e7ons. On voit dans le lointain plusieurs cabanes de Sauvages dont les toits sont couverts de neige. Parmi ces cabanes, on en remarque une plus spacieuse et moins \u00e9loign\u00e9e que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "10",
+      "explanation": "Jeter la rose par terre est une interaction avec un objet.",
+      "stgdir": "Elle jette la rose par terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "10",
+      "explanation": "Mettre des tablettes sur un banc est une action envers un objet.",
+      "stgdir": "Il met les tablettes sur le banc.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "10",
+      "explanation": "Lisant haut est une interaction vocale mais en service d'un objet, ici un texte.",
+      "stgdir": "Que Clarimand lit haut.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "10",
+      "explanation": "Faisant sonner la bourse est une manipulation avec un objet.",
+      "stgdir": "Faisant sonner la bourse.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "12",
+      "explanation": "Indique une direction vers Casimir.",
+      "stgdir": "\u00c0 Casimir.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "8",
+      "explanation": "Une autre mention 'AIR' d\u00e9finissant un morceau musical.",
+      "stgdir": "AIR. Lulli n'est plus \u00e0 l'Op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "12",
+      "explanation": "Indique quelque chose dirig\u00e9 vers Monsieur le Bailli.",
+      "stgdir": "\u00c0 Monsieur le Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "8",
+      "explanation": "Mentionne une danse, ce qui rel\u00e8ve du divertissement musical.",
+      "stgdir": "La suite de Bacchus danse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "12",
+      "explanation": "Indique quelque chose dirig\u00e9 vers F\u00e9licio.",
+      "stgdir": "\u00c0 F\u00e9licio.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "0",
+      "explanation": "Regarder vers une porte est une action qui n'est couverte par aucune cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 38253.066062927246,
+  "model": "gpt-4o"
+}

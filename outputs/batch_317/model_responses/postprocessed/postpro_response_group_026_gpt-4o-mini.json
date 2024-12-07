@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1950",
+      "category": "8",
+      "explanation": "La vielle joue tr\u00e8s doucement fait r\u00e9f\u00e9rence \u00e0 de la musique, donc elle entre dans la cat\u00e9gorie de la musique.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1951",
+      "category": "8",
+      "explanation": "On entend un symphonie fait \u00e9galement r\u00e9f\u00e9rence \u00e0 de la musique.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1952",
+      "category": "1",
+      "explanation": "Il tire son poignard indique une action violente, class\u00e9e comme agression.",
+      "stgdir": "Il tire son poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1953",
+      "category": "1",
+      "explanation": "Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e marque une action de combat, correspondant \u00e0 l'agression.",
+      "stgdir": "Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e. Les derniers sont repouss\u00e9s, et abandonnent le champ de bataille.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1954",
+      "category": "0",
+      "explanation": "Tous se mettent \u00e0 genoux repr\u00e9sente une action g\u00e9n\u00e9rale de se mettre \u00e0 genoux, sans violence.",
+      "stgdir": "Tous se mettent \u00e0 genoux, except\u00e9 le Juge et les Soldats.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1955",
+      "category": "4",
+      "explanation": "Lisanor para\u00eet signifie une entr\u00e9e de personnage sur sc\u00e8ne.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1956",
+      "category": "12",
+      "explanation": "\u00c0 Ariston indique la direction de l'action vers un personnage ou un lieu.",
+      "stgdir": "\u00c0 Ariston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1957",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'entr\u00e9e de la for\u00eat sacr\u00e9e d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, donc rel\u00e8ve de la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'entr\u00e9e de la for\u00eat sacr\u00e9e : on y voit les tombeaux et les statues des Rois de la Colchide.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1958",
+      "category": "9",
+      "explanation": "Apr\u00e8s un silence... l'infortun\u00e9 Kerkabon... offre ses jours pour r\u00e9parer sa faute est un long passage narratif, d\u00e9crivant les sentiments et les actions.",
+      "stgdir": "Apr\u00e8s un silence, assez long pour reposer les yeux du spectateur, qui doivent avoir peine \u00e0 suivre les vivacit\u00e9s des mouvements pr\u00e9c\u00e9dents, l'infortun\u00e9 Kerkabon, abattu par le malheur, offre ses jours pour r\u00e9parer sa faute :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1959",
+      "category": "8",
+      "explanation": "Air : Lampons fait r\u00e9f\u00e9rence \u00e0 de la musique.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1960",
+      "category": "5",
+      "explanation": "La quittant implique un d\u00e9part, d'o\u00f9 se classe comme une sortie.",
+      "stgdir": "La quittant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1961",
+      "category": "8",
+      "explanation": "AIR : C'est Suson la camarde d\u00e9signe une musique.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1962",
+      "category": "8",
+      "explanation": "AIR. La mort de mon cher p\u00e8re se r\u00e9f\u00e8re \u00e0 une musique.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1963",
+      "category": "10",
+      "explanation": "Il ramasse tous ses papiers implique une manipulation d'objets.",
+      "stgdir": "Il ramasse tous ses papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1964",
+      "category": "8",
+      "explanation": "Air : Vous avez raison, la Plante fait r\u00e9f\u00e9rence \u00e0 une musique.",
+      "stgdir": "Air : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1965",
+      "category": "5",
+      "explanation": "Elle sort avec Monsieur S\u00e9vin \u00e9labore une sortie de sc\u00e8ne.",
+      "stgdir": "Elle sort avec Monsieur S\u00e9vin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1966",
+      "category": "8",
+      "explanation": "Air 78 : Or \u00e9coutez, Petits et Grands d\u00e9signe de la musique.",
+      "stgdir": "Air 78 : Or \u00e9coutez, Petits et Grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1967",
+      "category": "12",
+      "explanation": "\u00c0 Lourdis en riant indique la direction de l'action.",
+      "stgdir": "\u00c0 Lourdis en riant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1968",
+      "category": "12",
+      "explanation": "\u00c0 Edouard indique \u00e9galement la direction vers un personnage.",
+      "stgdir": "\u00c0 Edouard.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1969",
+      "category": "12",
+      "explanation": "\u00c0 la Fleur indique la direction de l'action vers un objet.",
+      "stgdir": "\u00c0 la Fleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1970",
+      "category": "11",
+      "explanation": "Le palais du roi est une description du cadre.",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1971",
+      "category": "10",
+      "explanation": "Prenant des fleurs dans le tiroir indique l'interaction avec un objet.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1972",
+      "category": "0",
+      "explanation": "Il l\u00e8ve les yeux et voit Mouravieff exprime une action de lever les yeux.",
+      "stgdir": "Il l\u00e8ve les yeux et voit Mouravieff qui est entr\u00e9 sans qu'il l'ait entendu, et qui est debout immobile aupr\u00e8s de lui.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1973",
+      "category": "0",
+      "explanation": "Il se jette \u00e0 genoux est une action de se mettre \u00e0 genoux.",
+      "stgdir": "Il se jette \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1974",
+      "category": "10",
+      "explanation": "Pr\u00e9sentant un morceau \u00e0 Varade mentionne l'interaction avec un objet.",
+      "stgdir": "Pr\u00e9sentant un morceau \u00e0 Varade.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1975",
+      "category": "10",
+      "explanation": "En lui pr\u00e9sentant la plume implique une interaction avec un objet.",
+      "stgdir": "En lui pr\u00e9sentant la plume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1976",
+      "category": "1",
+      "explanation": "L'on entend un bruit d'armes indique une violence imminente, donc une cat\u00e9gorie d'agression.",
+      "stgdir": "L'on entend un bruit d'armes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1977",
+      "category": "6",
+      "explanation": "Elle parle \u00e0 Sicandre constitue une interaction entre deux personnages.",
+      "stgdir": "Elle parle \u00e0 Sicandre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1978",
+      "category": "6",
+      "explanation": "Elle prend les mains de Clarice et du Chevalier d\u00e9crit une interaction non verbale.",
+      "stgdir": "Elle prend les mains de Clarice et du Chevalier, en disant \u00e0 la Dame :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1979",
+      "category": "10",
+      "explanation": "Il lui donne la promesse de Cl\u00e9andre implique la remise d'un objet.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1980",
+      "category": "8",
+      "explanation": "Air : Tout est dit d\u00e9signe une musique.",
+      "stgdir": "Air : Tout est dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1981",
+      "category": "12",
+      "explanation": "\u00c0 Suzon indique une direction vers un personnage.",
+      "stgdir": "\u00c0 Suzon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1982",
+      "category": "8",
+      "explanation": "DUO du silvain fait r\u00e9f\u00e9rence \u00e0 une musique.",
+      "stgdir": "DUO du silvain.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1983",
+      "category": "9",
+      "explanation": "On entend un bruit souterrain fait r\u00e9f\u00e9rence \u00e0 un bruit, disposant d'une qualit\u00e9 narrative.",
+      "stgdir": "On entend un bruit souterrain.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1984",
+      "category": "10",
+      "explanation": "Il donne le papier \u00e0 Ragueneau indique une interaction entre deux personnages et un objet.",
+      "stgdir": "Il donne le papier \u00e0 Ragueneau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1985",
+      "category": "4",
+      "explanation": "Un deuxi\u00e8me valet entre signifie l'entr\u00e9e d'un personnage.",
+      "stgdir": "Un deuxi\u00e8me valet entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1986",
+      "category": "8",
+      "explanation": "AIR. La Gentille d\u00e9signe une musique.",
+      "stgdir": "AIR. La Gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1987",
+      "category": "12",
+      "explanation": "\u00c0 Thaler indique une direction vers un personnage.",
+      "stgdir": "\u00c0 Thaler.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1988",
+      "category": "6",
+      "explanation": "Ils se tiennent les mains un instant d\u00e9crit une interaction non verbale.",
+      "stgdir": "Ils se tiennent les mains un instant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1989",
+      "category": "12",
+      "explanation": "\u00c0 Paul Ferrier indique une direction vers un personnage.",
+      "stgdir": "\u00c0 Paul Ferrier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1990",
+      "category": "12",
+      "explanation": "Aux soldats indique une direction vers un groupe.",
+      "stgdir": "Aux soldats.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1991",
+      "category": "0",
+      "explanation": "Regardant du cot\u00e9 oppos\u00e9 d\u00e9crit une action de regarder.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1992",
+      "category": "12",
+      "explanation": "\u00c0 Charlot indique une direction vers un personnage.",
+      "stgdir": "\u00c0 Charlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1993",
+      "category": "0",
+      "explanation": "Il \u00f4te son costume de vieillard est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1994",
+      "category": "6",
+      "explanation": "Octave lui donnant la main montre une interaction non verbale entre deux personnages.",
+      "stgdir": "Octave lui donnant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1995",
+      "category": "10",
+      "explanation": "Il lui donne un manche d'\u00e9clanche implique une interaction avec un objet.",
+      "stgdir": "Il lui donne un manche d'\u00e9clanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1996",
+      "category": "5",
+      "explanation": "En s'\u00e9loignant indique une sortie.",
+      "stgdir": "En s'\u00e9loignant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1997",
+      "category": "0",
+      "explanation": "PRIMO est une mention sans action sp\u00e9cifique li\u00e9e.",
+      "stgdir": "PRIMO.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1998",
+      "category": "10",
+      "explanation": "Fin de la lettre indique l'interaction avec un objet (une lettre).",
+      "stgdir": "Fin de la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1999",
+      "category": "0",
+      "explanation": "Il frappe toujours est une action.",
+      "stgdir": "Il frappe toujours.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2000",
+      "category": "8",
+      "explanation": "Air : Joconde fait r\u00e9f\u00e9rence \u00e0 de la musique.",
+      "stgdir": "Air : Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2001",
+      "category": "0",
+      "explanation": "Ils se mettent \u00e0 table est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2002",
+      "category": "6",
+      "explanation": "Montrant son amant d\u00e9crit une interaction non verbale.",
+      "stgdir": "Montrant son amant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2003",
+      "category": "0",
+      "explanation": "Il met la main \u00e0 l'\u00e9p\u00e9e est une action de pr\u00e9paration potentielle.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2004",
+      "category": "9",
+      "explanation": "On entend les cris du Peuple dans le fond annonce un bruit qui a une qualit\u00e9 narrative.",
+      "stgdir": "On entend les cris du Peuple dans le fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2005",
+      "category": "6",
+      "explanation": "Elles ne se regardent plus d\u00e9crit une interaction non verbale.",
+      "stgdir": "Elles ne se regardent plus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2006",
+      "category": "6",
+      "explanation": "L'abordant d\u00e9crit une interaction non verbale entre personnages.",
+      "stgdir": "L'abordant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2007",
+      "category": "0",
+      "explanation": "Regardant le chanson signifie une action de regarder.",
+      "stgdir": "Regardant le chanson.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2008",
+      "category": "4",
+      "explanation": "Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne implique un mouvement ou une sortie.",
+      "stgdir": "Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2009",
+      "category": "8",
+      "explanation": "Air : P\u00e8re je me confesse d\u00e9signe une musique.",
+      "stgdir": "Air : P\u00e8re je me confesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2010",
+      "category": "4",
+      "explanation": "Le choeur arrive sur la sc\u00e8ne signifie l'entr\u00e9e d'un groupe.",
+      "stgdir": "Le choeur arrive sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2011",
+      "category": "8",
+      "explanation": "Menuet d\u00e9signe une musique.",
+      "stgdir": "Menuet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2012",
+      "category": "8",
+      "explanation": "BALADE d\u00e9signe un type de musique.",
+      "stgdir": "BALADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2013",
+      "category": "4",
+      "explanation": "Pasquin para\u00eet indique une entr\u00e9e de personnage.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2014",
+      "category": "6",
+      "explanation": "Montrant Claudine d\u00e9crit une interaction non verbale.",
+      "stgdir": "Montrant Claudine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2015",
+      "category": "0",
+      "explanation": "Apr\u00e8s l'avoir bais\u00e9e indique une action d'interaction.",
+      "stgdir": "Apr\u00e8s l'avoir bais\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2016",
+      "category": "8",
+      "explanation": "Troisi\u00e8me entr\u00e9e de ballet fait r\u00e9f\u00e9rence \u00e0 de la musique ou une performance.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2017",
+      "category": "0",
+      "explanation": "On entend de nouveau frapper \u00e0 la porte du fond implique une action d'\u00e9coute.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2018",
+      "category": "9",
+      "explanation": "Il va pour cueillir le lis extasi\u00e9... devient une narration d'\u00e9v\u00e9nements qui se produisent.",
+      "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2019",
+      "category": "10",
+      "explanation": "Elle ouvre le m\u00e9daillon, et fait voir \u00e0 la Comtesse le portrait de Napol\u00e9on implique une interaction avec un objet.",
+      "stgdir": "Elle ouvre le m\u00e9daillon, et fait voir \u00e0 la Comtesse le portrait de Napol\u00e9on.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2020",
+      "category": "8",
+      "explanation": "Air : Branle de Metz indique une musique.",
+      "stgdir": "Air : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2021",
+      "category": "9",
+      "explanation": "On entend un certain bruit fait r\u00e9f\u00e9rence \u00e0 un bruit, avec une qualit\u00e9 narrative.",
+      "stgdir": "On entend un certain bruit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2022",
+      "category": "3",
+      "explanation": "D'un air de confiance parle de la mani\u00e8re de livrer l'\u00e9motion.",
+      "stgdir": "D'un air de confiance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2023",
+      "category": "10",
+      "explanation": "Elle ouvre la lettre implique une interaction avec un objet.",
+      "stgdir": "Elle ouvre la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2024",
+      "category": "5",
+      "explanation": "Mercure dispara\u00eet d\u00e9finit une sortie d'un personnage.",
+      "stgdir": "Mercure dispara\u00eet.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 45303.481578826904,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "0",
+      "explanation": "Il s'agit d'une action g\u00e9n\u00e9rale de lever la canne, qui ne correspond ni \u00e0 un mouvement d'entr\u00e9e ou de sortie, ni \u00e0 une interaction ou une aggression.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "1",
+      "explanation": "La direction indique un acte de frapper, ce qui correspond \u00e0 une action violente et agressive.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "1",
+      "explanation": "Mettre quelqu'un en termes de combattre implique une incitation \u00e0 une posture agressive, ce qui rentre dans la cat\u00e9gorie de l'agression.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "1",
+      "explanation": "Mettre la main \u00e0 un poignard est un acte qui indique une intention agressive ou mena\u00e7ante.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "1",
+      "explanation": "Cette action implique l'\u00e9gorgement de victimes, ce qui est une action clairement violente et agressive.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "9",
+      "explanation": "Une indication sonore comme un bruit de guerre est narrative et d\u00e9crit l'environnement de l'action.",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "1",
+      "explanation": "La mention de faire un massacre est une forme d'agression extr\u00eame.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "1",
+      "explanation": "Le fait qu'il veuille tirer son \u00e9p\u00e9e indique une intention agressive.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "1",
+      "explanation": "Tirer un poignard est une action violente, typiquement associ\u00e9e \u00e0 une menace.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "1",
+      "explanation": "Frappant une personne indique une forme d'agression physique.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "160",
+      "category": "1",
+      "explanation": "Frapper Arlequin est une action agressive envers un autre personnage.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "1",
+      "explanation": "Engager un combat est une forme d'agression intentionnelle.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "1",
+      "explanation": "Frapper Scaramouche de toute sa force est une action agressive clairement d\u00e9finie.",
+      "stgdir": "Il frappe Scaramouche de toute sa force.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "1",
+      "explanation": "Donner plusieurs coups de b\u00e2ton en cadence implique une violence r\u00e9p\u00e9t\u00e9e.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "1",
+      "explanation": "Battre Jannot indique clairement une agression physique.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "1",
+      "explanation": "S'attaquer \u00e0 Arlequin et le bernent implique une intention malveillante, m\u00eame si cela peut \u00eatre per\u00e7u comme une moquerie.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "1",
+      "explanation": "Former un combat \u00e0 la mani\u00e8re des anciens indique une action violente l\u00e9g\u00e8rement stylis\u00e9e.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "0",
+      "explanation": "Donner un coup dans la porte est une action mais ne correspond pas \u00e0 une interaction agressive directe avec une personne.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "2",
+      "explanation": "[\u00c0 part] indique que le personnage parle seul ou fait une r\u00e9flexion \u00e0 l'intention du public.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "2",
+      "explanation": "Cette direction indique un apart\u00e9 o\u00f9 un personnage ne parle pas de quelque chose, ce qui entre dans la cat\u00e9gorie des apartes.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "170",
+      "category": "2",
+      "explanation": "Parler \u00e0 part avec ironie signifie qu'une r\u00e9flexion est faite en dehors du dialogue principal.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "2",
+      "explanation": "\u00c0 part apr\u00e8s avoir lu indique une r\u00e9flexion personnelle du personnage, hors de l'interaction principale.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "3",
+      "explanation": "Dire ces vers bas repr\u00e9sente une mani\u00e8re de livrer une phrase de fa\u00e7on douce ou discr\u00e8te.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "3",
+      "explanation": "S'exprimer apr\u00e8s avoir \u00e9t\u00e9 b\u00e2tonn\u00e9 avec une chanson indique une forme de livraison qui implique une \u00e9motion.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "8",
+      "explanation": "Chanter avec Galaor indique une performance musicale, ce qui correspond \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "9",
+      "explanation": "Entendre des cris de loin \u00e9voque l'atmosph\u00e8re et le contexte, ce qui est narratif.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "9",
+      "explanation": "Un silence est une indication de l'\u00e9tat de l'environnement et du suspense, ce qui est narratif.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "3",
+      "explanation": "Parler d'un air d'importance indique une mani\u00e8re sp\u00e9cifique de livrer une ligne, transmettant une \u00e9motion ou une attitude.",
+      "stgdir": "D'un air d'importance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "8",
+      "explanation": "Sosie qui chante indique une performance musicale.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "Le Choeur des Bergers r\u00e9p\u00e9tant des vers indique une action musicale.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "180",
+      "category": "3",
+      "explanation": "Appeler ses valets est une forme d'action verbale, indiquant une commande ou une demande.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "6",
+      "explanation": "ENSEMBLE implique une action collective o\u00f9 les personnages interagissent non verbalement en \u00e9tant ensemble.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "3",
+      "explanation": "Rappeler Monsieur Oronte est une action verbale et indique une offre ou une demande.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "6",
+      "explanation": "Les personnages parlent ensemble, ce qui cr\u00e9e une interaction entre eux.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "1",
+      "explanation": "Crier tr\u00e8s fort peut \u00eatre per\u00e7u comme une forme d'agression et d'affirmation intense.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "6",
+      "explanation": "Rire implique une interaction sociale positive et est souvent r\u00e9alis\u00e9 en r\u00e9ponse \u00e0 d'autres personnages.",
+      "stgdir": "Ils rient.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "8",
+      "explanation": "La r\u00e9f\u00e9rence \u00e0 une actrice chantant un morceau indique une performance musicale.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "3",
+      "explanation": "Triomphalement indique la mani\u00e8re de d\u00e9livrer des paroles, montrant une forte \u00e9motion.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "3",
+      "explanation": "Avec ravissement d\u00e9crit la mani\u00e8re d'exprimer des \u00e9motions, en l'occurrence, de mani\u00e8re joyeuse.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "8",
+      "explanation": "Reprise de Choeur indique une action musicale o\u00f9 le ch\u0153ur reprend une chanson ou un air.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "190",
+      "category": "3",
+      "explanation": "Pleurer am\u00e8rement \u00e9voque une expression \u00e9motionnelle intense.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "2",
+      "explanation": "Interrompre une lecture est une action qui sugg\u00e8re un apart\u00e9 ou une interruption dans le r\u00e9cit.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "3",
+      "explanation": "\u00c0 mi-voix implique une mani\u00e8re douce ou discr\u00e8te de parler.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "3",
+      "explanation": "S'\u00e9chauffer peut se r\u00e9f\u00e9rer \u00e0 une mont\u00e9e d'\u00e9motion ou de passion dans la mani\u00e8re de s'exprimer.",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "3",
+      "explanation": "Avec humeur indique une mani\u00e8re empreinte de col\u00e8re ou de frustration dans la livraison du dialogue.",
+      "stgdir": "Avec humeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "0",
+      "explanation": "Prendre un air s\u00e9v\u00e8re est une description d'une attitude mais n'est pas une action sp\u00e9cifique.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "3",
+      "explanation": "Chanter sur un air ridicule montre une mani\u00e8re d'interpr\u00e9ter qui est humoristique.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "3",
+      "explanation": "\u00c0 demi-voix indique une mani\u00e8re de livraison plus intime ou discr\u00e8te.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "9",
+      "explanation": "Entendre des clameurs en dehors indique une ambience externe du r\u00e9cit, utile pour l'immersion.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "9",
+      "explanation": "Crier au travers de la porte ajoute \u00e0 l'ambiance et implique des interactions hors sc\u00e8ne.",
+      "stgdir": "Criant au travers de la porte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "200",
+      "category": "9",
+      "explanation": "Un grand silence peut \u00eatre frappant dans le r\u00e9cit, marquant une pause dans l'action.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "3",
+      "explanation": "Rire dans ce contexte indique une mani\u00e8re de livraison joyeuse ou enthousiaste.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "3",
+      "explanation": "Pr\u00e9luder encore indique une action musicale dans le contexte de la livraison.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "9",
+      "explanation": "Les cris que pousse Th\u00e9cla ajoutent au contexte et au r\u00e9cit.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "9",
+      "explanation": "Entendre des cris et une marche militaire indique un bruit ambiant, renfor\u00e7ant le narratif.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "3",
+      "explanation": "Reprendre un ton de voix familier d\u00e9crit une mani\u00e8re mutationnelle dans la livraison.",
+      "stgdir": "Reprenant son ton de voix familier et indiff\u00e9rent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "3",
+      "explanation": "Parlant indique une action verbale qui implique une communication.",
+      "stgdir": "Parlant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "3",
+      "explanation": "Avec feu indique une mani\u00e8re de parler avec passion ou intensit\u00e9.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "0",
+      "explanation": "Frappant du pied est un geste qui montre g\u00e9n\u00e9ralement agitation mais est une action simple.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "6",
+      "explanation": "Les jeunes filles rient ensemble, montrant une interaction sociale entre plusieurs personnages.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "210",
+      "category": "6",
+      "explanation": "Ils parlent tous quatre en m\u00eame temps indique une interaction collective.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "3",
+      "explanation": "Chanter est un acte de livraison musicale.",
+      "stgdir": "Il chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "3",
+      "explanation": "Baisser sa voix est une mani\u00e8re de modifier la livraison pour plus d'intimit\u00e9.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "9",
+      "explanation": "Ne pas entendre le reste ajoute \u00e0 la narration en sugg\u00e9rant un manque d'information.",
+      "stgdir": "On n'entend pas le reste.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "6",
+      "explanation": "Partir d'un \u00e9clat de rire indique une interaction sociale forte.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "5",
+      "explanation": "Sortir en chantant indique une sortie de sc\u00e8ne tout en maintenant l'\u00e9l\u00e9ment musical.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "8",
+      "explanation": "Chanter un petit motet est une performance musicale sp\u00e9cifique.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "3",
+      "explanation": "R\u00e9pondre indique une forme verbale de communication.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "3",
+      "explanation": "Entendre J\u00e9r\u00f4me appeler Babet est une action verbale qui indique une communication.",
+      "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "0",
+      "explanation": "Se remettre est une action simple mais n\u2019indique pas un type sp\u00e9cifique de mouvement.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "220",
+      "category": "3",
+      "explanation": "Dire ceci bas repr\u00e9sente une mani\u00e8re douce de livrer un dialogue.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "6",
+      "explanation": "ENSEMBLE implique que plusieurs personnages interagissent ensemble.",
+      "stgdir": "Ensemble",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "3",
+      "explanation": "Avec \u00e9motion indique une mani\u00e8re passionn\u00e9e de livrer un dialogue.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "3",
+      "explanation": "D'un ton s\u00e9v\u00e8re d\u00e9crit une mani\u00e8re sp\u00e9cifique d'exprimer une \u00e9motion forte.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "3",
+      "explanation": "Plus haut encore indique une acc\u00e9l\u00e9ration de la mani\u00e8re de d\u00e9livrer, montrant une intensit\u00e9.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 32043.043851852417,
+  "model": "gpt-4o-mini"
+}

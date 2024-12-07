@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "825",
+      "category": "12",
+      "explanation": "Indicates to whom the following speech is addressed.",
+      "stgdir": "Au Domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "826",
+      "category": "7",
+      "explanation": "Describes a violent movement of Monsieur Blaisy.",
+      "stgdir": "Mouvement violent de monsieur Blaisy.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "827",
+      "category": "1",
+      "explanation": "Describes a violent action of breaking free from someone's hold.",
+      "stgdir": "Il s'arrache de leurs bras.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "828",
+      "category": "4",
+      "explanation": "Describes characters exiting the stage.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "829",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Ami, qui l'aurait pu croire').",
+      "stgdir": "Air : Ami, qui l'aurait pu croire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "830",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Quand tu chantes, berc\u00e9e').",
+      "stgdir": "AIR : Quand tu chantes, berc\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "831",
+      "category": "3",
+      "explanation": "Describes the manner of speech, resuming an earlier speech.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "832",
+      "category": "5",
+      "explanation": "Describes characters exiting or entering different locations.",
+      "stgdir": "Il rentre dans l'auberge, et Marianne dans sa maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "833",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Je crois Lison').",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "834",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Il parle \u00e0 son \u00e9cuyer.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "835",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, giving hands.",
+      "stgdir": "Monsieur Orgon donne la main \u00e0 Madame Oronte, et Val\u00e8re \u00e0 Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "836",
+      "category": "10",
+      "explanation": "Describes an action related to an object (knocking).",
+      "stgdir": "Le Financier frappe.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "837",
+      "category": "11",
+      "explanation": "Describes the setting of the play.",
+      "stgdir": "Int\u00e9rieur du Palais ; un tr\u00f4ne au milieu et la Toison d'or suspendue au-dessus du tr\u00f4ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "838",
+      "category": "3",
+      "explanation": "Describes the emotional state of the character.",
+      "stgdir": "Le Prince arrive tout triste et tout en col\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "839",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Tique, tique, toque, et lonlanla').",
+      "stgdir": "Air Tique, tique, toque , et lonlanla.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "840",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, falling to someone's feet.",
+      "stgdir": "Il se jette aux pieds de Sophie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "841",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Soliman.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "842",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, looking at each other.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "843",
+      "category": "5",
+      "explanation": "Describes a character entering or re-entering a location.",
+      "stgdir": "Sophar rentre dans la maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "844",
+      "category": "9",
+      "explanation": "Describes a noise event.",
+      "stgdir": "On entend un coup de feu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "845",
+      "category": "3",
+      "explanation": "Describes a vocal expression of emotion.",
+      "stgdir": "Elle lit s'\u00e9crie :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "846",
+      "category": "7",
+      "explanation": "Describes a character's movement to retrieve an object.",
+      "stgdir": "Il va le chercher.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "847",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action.",
+      "stgdir": "On lui pr\u00e9sente les deux l\u00e9vriers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "848",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, approaching someone.",
+      "stgdir": "Robespierre s'approche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "849",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, kneeling down.",
+      "stgdir": "Joseph et Victorine tombent \u00e0 genoux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "850",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "851",
+      "category": "4",
+      "explanation": "Describes a character entering the stage.",
+      "stgdir": "Il arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "852",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, rendering homage.",
+      "stgdir": "Iole s'avance pour rendre hommage \u00e0 D\u00e9janire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "853",
+      "category": "7",
+      "explanation": "Describes a character making a significant movement.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "854",
+      "category": "0",
+      "explanation": "Describes a general character action.",
+      "stgdir": "Elles vont d\u00eener.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "855",
+      "category": "3",
+      "explanation": "Describes a vocal expression of emotion.",
+      "stgdir": "Soupir de satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "856",
+      "category": "9",
+      "explanation": "Describes a narrative sequence of character actions.",
+      "stgdir": "Le jeune Kerkabon, qui vainement a voulu suivre son amie, s\u00e9par\u00e9 d'elle, et pour jamais, s'abandonne au plus affreux d\u00e9sespoir ; il l'appelle en tendant les bras vers le lieu qui la d\u00e9robe \u00e0 ses regards, il l'appelle... et voyant qu'elle me r\u00e9pond pas, il parait vouloir renoncer \u00e0 la vie, il s'\u00e9chappe des bras qui lui sont ouverts, et va tomber sur le banc de gazon, plac\u00e9 \u00e0 gauche du spectateur. Les g\u00e9n\u00e9reux parents s'empressent \u00e0 lui t\u00e9moigner l'int\u00e9r\u00eat le plus tendre !... Celui que l'on doit au malheur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "857",
+      "category": "10",
+      "explanation": "Describes a character's interaction with an object (putting on a crown).",
+      "stgdir": "Elle met la couronne sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "858",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Elle lui parle bas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "859",
+      "category": "5",
+      "explanation": "Describes a character exiting the stage.",
+      "stgdir": "Julie regarde le marquis, l\u00e8ve les yeux au ciel, et s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "860",
+      "category": "10",
+      "explanation": "Describes a character interacting with an object (pulling out a paper).",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "861",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Non, je n'aimerai jamais que vous').",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "862",
+      "category": "11",
+      "explanation": "Describes the setting of the play.",
+      "stgdir": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "863",
+      "category": "7",
+      "explanation": "Describes a character moving away from a seat.",
+      "stgdir": "Il sort de son si\u00e8ge.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "864",
+      "category": "11",
+      "explanation": "Describes a change in the stage setting.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "865",
+      "category": "9",
+      "explanation": "Describes a noise event.",
+      "stgdir": "On entend la voiture de Doduvert qui s'en va.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "866",
+      "category": "3",
+      "explanation": "Describes the manner of speech, continuing to sing.",
+      "stgdir": "Il continue \u00e0 chanter.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "867",
+      "category": "5",
+      "explanation": "Describes a character entering a location.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "868",
+      "category": "12",
+      "explanation": "Indicates a soft speech.",
+      "stgdir": "Tout bas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "869",
+      "category": "5",
+      "explanation": "Describes a character exiting the stage.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "870",
+      "category": "1",
+      "explanation": "Describes a violent action.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "871",
+      "category": "4",
+      "explanation": "Describes a character entering the stage.",
+      "stgdir": "Elle entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "872",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('C'est \u00e0 mon ma\u00eetre en l'art de plaire').",
+      "stgdir": "Air : C'est \u00e0 mon ma\u00eetre en l'art de plaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "873",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "874",
+      "category": "12",
+      "explanation": "Indicates the manner of speech, whispering.",
+      "stgdir": "Il parle tout bas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "875",
+      "category": "10",
+      "explanation": "Describes a character interacting with an object (taking a cigar).",
+      "stgdir": "Alain prend le cigare.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "876",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Toujours va qui danse').",
+      "stgdir": "AIR. Toujours va qui danse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "877",
+      "category": "5",
+      "explanation": "Describes a character exiting the stage while singing.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "878",
+      "category": "5",
+      "explanation": "Describes a character exiting the stage.",
+      "stgdir": "Dame Pluche sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "879",
+      "category": "11",
+      "explanation": "Describes a change in the stage setting.",
+      "stgdir": "Pluton se l\u00e8ve de son tribunal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "880",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Mariez, mariez, mariez-moi').",
+      "stgdir": "AIR : Mariez, mariez, mariez-moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "881",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Non, je ne ferai pas').",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "882",
+      "category": "5",
+      "explanation": "Describes a character exiting the stage.",
+      "stgdir": "Tersky sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "883",
+      "category": "8",
+      "explanation": "Mentions a specific tune name (Lucas se plaint que sa femme).",
+      "stgdir": "Air 162 : Lucas se plaint que sa femme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "884",
+      "category": "9",
+      "explanation": "Describes a narrative sequence of character actions or events.",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "885",
+      "category": "11",
+      "explanation": "Describes the setting of the play.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un palais.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "886",
+      "category": "9",
+      "explanation": "Describes a narrative sequence of character actions or events.",
+      "stgdir": "Il se passe que des branches d\u00e9plac\u00e9es ont fouett\u00e9 le visage de Maurice et qu'un ennemi va s'\u00e9lancer des arbres. Maurice tire son couteau, le brandit, et s'\u00e9crie d'une voix fr\u00e9missante :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "887",
+      "category": "9",
+      "explanation": "Describes a narrative sequence of character actions or events.",
+      "stgdir": "Dans cette obscurit\u00e9 soudaine, l'Envie sort de son antre qui s'ouvre au milieu du th\u00e9\u00e2tre : elle \u00e9voque le monstrueux Serpent Python, qui para\u00eet dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumi\u00e8re qui \u00e9claire le th\u00e9\u00e2tre : elle appelle les Vents les plus imp\u00e9tueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous apr\u00e8s avoir vol\u00e9 et s'\u00eatre crois\u00e9s dans l'air, viennent se ranger autour d'elle, pour l'aider \u00e0 troubler les beaux jours que le Soleil donne au monde.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "888",
+      "category": "11",
+      "explanation": "Describes the setting of the play.",
+      "stgdir": "Au lever du rideau, Gontran est couch\u00e9 tout habill\u00e9 sur le lit. Dix heures sonnent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "889",
+      "category": "3",
+      "explanation": "Describes a vocal expression of emotion (laughter).",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "890",
+      "category": "11",
+      "explanation": "Describes the setting of the play.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais d'Omphale.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "891",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Puis s'adressant \u00e0 Oronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "892",
+      "category": "8",
+      "explanation": "Mentions a specific tune name ('Que je vous aime !').",
+      "stgdir": "Air : D'\u00c9gl\u00e9. Que je vous aime !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "893",
+      "category": "3",
+      "explanation": "Describes a vocal expression of emotion (listening to a song).",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "894",
+      "category": "4",
+      "explanation": "Describes characters entering the stage.",
+      "stgdir": "Amintus para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "895",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction, removing flowers from a bouquet.",
+      "stgdir": "Lui effeuillant son bouquet de roses sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "896",
+      "category": "10",
+      "explanation": "Describes a character interacting with an object (opening a letter).",
+      "stgdir": "Julie ouvre la lettre. Son p\u00e8re et Moli\u00e8re l'observent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "897",
+      "category": "3",
+      "explanation": "Describes a vocal expression of emotion (repeating verses).",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "898",
+      "category": "4",
+      "explanation": "Describes characters entering the stage.",
+      "stgdir": "Entr\u00e9e de deux petits paysans et d'une petite paysanne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "899",
+      "category": "5",
+      "explanation": "Describes a character exiting the stage.",
+      "stgdir": "Il s'en va avec les demi-Dieux.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 53171.66829109192,
+  "model": "mistral-small-latest"
+}

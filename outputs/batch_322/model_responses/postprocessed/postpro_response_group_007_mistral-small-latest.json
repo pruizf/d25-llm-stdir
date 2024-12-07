@@ -1,0 +1,524 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "525",
+      "category": "0",
+      "explanation": "RITIGER anime ses capitaines, leur donne des ordres, puis les cong\u00e9die, ce sont des actions g\u00e9n\u00e9rales.",
+      "stgdir": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s,",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "526",
+      "category": "12",
+      "explanation": "Il envoie des baisers, ce qui indique le destinataire d'une action.",
+      "stgdir": "Il lui envoie des baisers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "527",
+      "category": "5",
+      "explanation": "Edwige sort, ce qui signifie qu'elle quitte la sc\u00e8ne.",
+      "stgdir": "Edwige sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "528",
+      "category": "12",
+      "explanation": "\u00c0 Asser et \u00c0 Nanine indiquent les destinataires des r\u00e9pliques.",
+      "stgdir": "\u00c0 Asser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "530",
+      "category": "9",
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions entre Cinthio, Colombine et Arlequin.",
+      "stgdir": "\u00c0 Nanine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "531",
+      "category": "10",
+      "explanation": "Elle quitte son chapeau et son ch\u00e2le, ce qui implique la manipulation d'objets.",
+      "stgdir": "Cinthio et Colombine arrivent ensemble \u00e0 l'h\u00f4tellerie d'Arlequin. Colombine fait part \u00e0 Cinthio de l'infid\u00e9lit\u00e9 d'Octave, et de l'embarras o\u00f9 elle se trouve en voyageant seule. Cinthio t\u00e2che de la rassurer, offre de l'accompagner, et lui persuade de se faire passer pour sa soeur. Il frappe \u00e0 la porte d'Arlequin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "532",
+      "category": "8",
+      "explanation": "AIR. Non, je ne ferai pas. indique le nom d'un air.",
+      "stgdir": "Elle quitte son chapeau et son ch\u00e2le.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "533",
+      "category": "5",
+      "explanation": "La Fleur s'en va, ce qui signifie qu'elle quitte la sc\u00e8ne.",
+      "stgdir": "AIR. Non, je ne ferai pas.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "534",
+      "category": "12",
+      "explanation": "\u00c0 le commandeur et au comte indique les destinataires des r\u00e9pliques.",
+      "stgdir": "La Fleur s'en va.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "535",
+      "category": "0",
+      "explanation": "Portant la main \u00e0 son coeur est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Au commandeur et au comte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "536",
+      "category": "3",
+      "explanation": "Sur le m\u00eame ton d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Portant le main \u00e0 son coeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "537",
+      "category": "3",
+      "explanation": "En chorus d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Sur le m\u00eame ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "538",
+      "category": "10",
+      "explanation": "Elle ouvre un autre tiroir, ce qui implique la manipulation d'un objet.",
+      "stgdir": "En chorus.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "539",
+      "category": "4",
+      "explanation": "Sabine entre en sc\u00e8ne.",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "540",
+      "category": "12",
+      "explanation": "\u00c0 ses Chasseurs indique les destinataires des r\u00e9pliques.",
+      "stgdir": "Sabine entre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "541",
+      "category": "8",
+      "explanation": "BRANLE, etc. indique le nom d'un air.",
+      "stgdir": "\u00c0 ses Chasseurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "542",
+      "category": "8",
+      "explanation": "Air : D'un Z\u00e9phir mutin. indique le nom d'un air.",
+      "stgdir": "BRANLE, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "543",
+      "category": "12",
+      "explanation": "\u00c0 Monsieur Delamarre indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Air : D'un Z\u00e9phir mutin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "544",
+      "category": "10",
+      "explanation": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour, ce qui implique la manipulation d'un objet.",
+      "stgdir": "\u00c0 Monsieur Delamarre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "545",
+      "category": "10",
+      "explanation": "Changeant de perruque implique la manipulation d'un objet.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "546",
+      "category": "8",
+      "explanation": "Air : du Ballet des Pierrots. indique le nom d'un air.",
+      "stgdir": "Changeant de perruque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "547",
+      "category": "1",
+      "explanation": "Il jette Chasteaufort \u00e0 terre d'un coup de pied, ce qui est une action violente.",
+      "stgdir": "Air : du Ballet des Pierrots.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "548",
+      "category": "0",
+      "explanation": "Elle regarde Marton d'un air courrouc\u00e9 est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il jette Chasteaufort \u00e0 terre d'un coup de pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "549",
+      "category": "8",
+      "explanation": "Air : Oui mon cher Favart, \u00e0 tes yeux. indique le nom d'un air.",
+      "stgdir": "Elle regarde Marton d'un air courrouc\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "550",
+      "category": "5",
+      "explanation": "Merlin s'enfuit, ce qui signifie qu'il quitte la sc\u00e8ne.",
+      "stgdir": "Air : Oui mon cher Favart, \u00e0 tes yeux.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "551",
+      "category": "9",
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions complexes entre plusieurs personnages.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "552",
+      "category": "10",
+      "explanation": "Montrant le manuscrit implique l'interaction avec un objet.",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "553",
+      "category": "5",
+      "explanation": "Les gar\u00e7ons disparaissent, ce qui signifie qu'ils quittent la sc\u00e8ne.",
+      "stgdir": "Montrant le manuscrit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "554",
+      "category": "6",
+      "explanation": "Antoine le tire par son habit, ce qui est une interaction non verbale.",
+      "stgdir": "Les gar\u00e7ons disparaissent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "555",
+      "category": "8",
+      "explanation": "AIR. ( Attende-moi sous l'Orme. ) indique le nom d'un air.",
+      "stgdir": "Antoine le tire par son habit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "556",
+      "category": "8",
+      "explanation": "Air : Vaud[e]v[ille] d'Abuzar. indique le nom d'un air.",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "557",
+      "category": "8",
+      "explanation": "AIR Dans un Couvent bien-heureux. indique le nom d'un air.",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "558",
+      "category": "9",
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions du G\u00e9n\u00e9ral.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "559",
+      "category": "7",
+      "explanation": "Harpag\u00eame se met dans le pi\u00e8ge, ce qui est un mouvement.",
+      "stgdir": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "560",
+      "category": "11",
+      "explanation": "\u00c0 le lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre, ce qui d\u00e9crit le setting.",
+      "stgdir": "Harpag\u00eame se met dans le pi\u00e8ge.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "561",
+      "category": "9",
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions complexes entre plusieurs personnages.",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "562",
+      "category": "12",
+      "explanation": "\u00c0 Trasimon indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "563",
+      "category": "0",
+      "explanation": "Le docteur se l\u00e8ve est une action g\u00e9n\u00e9rale.",
+      "stgdir": "\u00c0 Trasimon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "564",
+      "category": "1",
+      "explanation": "Il tire, ce qui est une action violente.",
+      "stgdir": "Le docteur se l\u00e8ve.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "565",
+      "category": "1",
+      "explanation": "Serment de l'Ordre de Chevalerie implique une action formelle et solennelle.",
+      "stgdir": "Il tire.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "566",
+      "category": "12",
+      "explanation": "\u00c0 Sozame indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Serment de l'Ordre de Chevalerie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "567",
+      "category": "6",
+      "explanation": "Embrassant Madame Milville est une interaction non verbale.",
+      "stgdir": "\u00c0 Sozame.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "568",
+      "category": "10",
+      "explanation": "Examinant le tableau implique l'interaction avec un objet.",
+      "stgdir": "Embrassant Madame Milville.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "569",
+      "category": "8",
+      "explanation": "Air de la SIR\u00c8NE, d'Auber. indique le nom d'un air.",
+      "stgdir": "Examinant le tableau.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "570",
+      "category": "0",
+      "explanation": "Le Chevalier tombe \u00e0 genoux est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Air de la SIR\u00c8NE, d'Auber.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "571",
+      "category": "8",
+      "explanation": "AIR : R\u00e9veillez-vous belle endormie. indique le nom d'un air.",
+      "stgdir": "Le Chevalier tombe \u00e0 genoux;",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "572",
+      "category": "8",
+      "explanation": "AIR 105 : La bonne aventure, \u00f4 gai. indique le nom d'un air.",
+      "stgdir": "AIR : R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "573",
+      "category": "0",
+      "explanation": "Regardant la table servie est une action g\u00e9n\u00e9rale.",
+      "stgdir": "AIR 105 : La bonne aventure, \u00f4 gai.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "574",
+      "category": "4",
+      "explanation": "Saint-Alban parait en sc\u00e8ne.",
+      "stgdir": "Regardant la table servie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "575",
+      "category": "4",
+      "explanation": "Entre Henri Bassou. est une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Saint-Alban parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "576",
+      "category": "10",
+      "explanation": "Il le d\u00e9chire, ce qui implique la manipulation d'un objet.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "577",
+      "category": "10",
+      "explanation": "Lettre de MASSINISSE \u00e0 SOPHONISBE implique l'interaction avec un objet.",
+      "stgdir": "Il le d\u00e9chire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "578",
+      "category": "6",
+      "explanation": "Se jetant aux pieds d'In\u00e8s est une interaction non verbale.",
+      "stgdir": "Lettre de MASSINISSE \u00e0 SOPHONISBE",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "579",
+      "category": "6",
+      "explanation": "Se posant devant Julie est une interaction non verbale.",
+      "stgdir": "Se jetant aux pieds d'In\u00e8s.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "580",
+      "category": "8",
+      "explanation": "RONDEAU du Prisonnier. indique le nom d'un air.",
+      "stgdir": "Se posant devant Julie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "581",
+      "category": "12",
+      "explanation": "\u00c0 Florine indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "RONDEAU du Prisonnier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "582",
+      "category": "12",
+      "explanation": "S'adressant \u00e0 L\u00e9andre indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Florine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "583",
+      "category": "12",
+      "explanation": "Il feint de s'en aller indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "S'adressant \u00e0 L\u00e9andre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "584",
+      "category": "8",
+      "explanation": "Air : des Fraises. indique le nom d'un air.",
+      "stgdir": "Il feint de s'en aller.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "585",
+      "category": "12",
+      "explanation": "\u00c0 Ardenie indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Air : des Fraises.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "586",
+      "category": "10",
+      "explanation": "LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE implique l'interaction avec un objet.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "587",
+      "category": "5",
+      "explanation": "Fenise rentre, ce qui signifie qu'elle entre en sc\u00e8ne.",
+      "stgdir": "LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "588",
+      "category": "9",
+      "explanation": "La didascalie d\u00e9crit une s\u00e9quence d'actions entre plusieurs personnages et objets.",
+      "stgdir": "Fenise rentre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "589",
+      "category": "12",
+      "explanation": "\u00c0 Philom\u00e8le indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Tandis que cette premi\u00e8re statue par ses attitudes et ses pas, marque sa surprise et son admiration, Prom\u00e9th\u00e9e par ses gestes marque combien il est satisfait de son ouvrage, et t\u00e2che de faire entrer Mercure dans sa joie. II anime une seconde Statue qui est encore celle d'un homme, et qui exprime \u00e0 la vue du Ciel et de la Terre les m\u00eames mouvements de surprise que la premi\u00e8re ; ensuite ils s'aper\u00e7oivent, courent l'un \u00e0 l'autre, s'embrassent et se donnent tous les t\u00e9moignages de l'amiti\u00e9 la plus vive.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "590",
+      "category": "0",
+      "explanation": "Ils s'asseyent tous deux est une action g\u00e9n\u00e9rale.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "591",
+      "category": "12",
+      "explanation": "\u00c0 Tartuffe indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Ils s'asseyent tous deux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "592",
+      "category": "5",
+      "explanation": "Ils sortent avec la M\u00e8re Ubu, ce qui signifie qu'ils quittent la sc\u00e8ne.",
+      "stgdir": "\u00c0 Tartuffe.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "593",
+      "category": "8",
+      "explanation": "AIR. Oh ! Ricandaine. indique le nom d'un air.",
+      "stgdir": "Ils sortent avec la M\u00e8re Ubu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "594",
+      "category": "0",
+      "explanation": "En apercevant Eve est une action g\u00e9n\u00e9rale.",
+      "stgdir": "AIR. Oh ! Ricandaine.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "595",
+      "category": "0",
+      "explanation": "Regardant sa main vide est une action g\u00e9n\u00e9rale.",
+      "stgdir": "En apercevant Eve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "596",
+      "category": "6",
+      "explanation": "Elle reprend le bras de Phanor est une interaction non verbale.",
+      "stgdir": "Regardant sa main vide.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "597",
+      "category": "10",
+      "explanation": "Elle lui rend la bague implique l'interaction avec un objet.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "598",
+      "category": "0",
+      "explanation": "Se remettant est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle lui rend la bague.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "599",
+      "category": "1",
+      "explanation": "Elle parle surtout d'une certaine Clorinde, ce qui implique une agression \u00e9motionnelle.",
+      "stgdir": "Se remettant.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 70326.39527320862,
+  "model": "mistral-small-latest"
+}

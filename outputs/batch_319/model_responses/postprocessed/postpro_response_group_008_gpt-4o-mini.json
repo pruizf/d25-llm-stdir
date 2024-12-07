@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "8",
+      "explanation": "Commence par 'AIR', indiquant qu'il s'agit d'une indication musicale.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "10",
+      "explanation": "Il d\u00e9crit une action de manipulation d'un objet, \u00e0 savoir du poil.",
+      "stgdir": "Il arrache du poil.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "2",
+      "explanation": "Formule typique d'un apart\u00e9, s'adresse ainsi directement au public.",
+      "stgdir": "Il para\u00eet.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "1",
+      "explanation": "Action violente, frappe avec un b\u00e2ton.",
+      "stgdir": "Il donne plusieurs coups de b\u00e2ton sur le sac.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "6",
+      "explanation": "Montrer un accessoire, interaction non verbale.",
+      "stgdir": "Montrant son \u00e9charpe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "9",
+      "explanation": "Didascalie narrative, d\u00e9crivant une action et un dialogue.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "5",
+      "explanation": "Indique qu'un personnage fait semblant de quitter la sc\u00e8ne, qui est une sortie.",
+      "stgdir": "Guillot fait semblant de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "R\u00e9sultat d'une action vers un personnage nomm\u00e9.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "12",
+      "explanation": "Indique une action port\u00e9e vers D\u00e9janire.",
+      "stgdir": "\u00c0 D\u00e9janire",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "12",
+      "explanation": "Indique une direction ou une intention vers Verseuil.",
+      "stgdir": "\u00c0 Verseuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "610",
+      "category": "7",
+      "explanation": "Action d'ouvrir la porte, implique un mouvement.",
+      "stgdir": "Il va ouvrir la porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "611",
+      "category": "4",
+      "explanation": "Des caract\u00e8res entrent ensemble, ce qui est une entr\u00e9e.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "612",
+      "category": "4",
+      "explanation": "Le Cardinal entre, indiquant une entr\u00e9e.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "613",
+      "category": "9",
+      "explanation": "Longue didascalie narrative faisant r\u00e9f\u00e9rence \u00e0 un \u00e9v\u00e9nement sp\u00e9cial.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "614",
+      "category": "1",
+      "explanation": "Description d'une action violente envers un personnage.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "615",
+      "category": "4",
+      "explanation": "Action de l'orf\u00e8vre suivant l'entr\u00e9e du personnage.",
+      "stgdir": "Il entre avec l'orf\u00e8vre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "616",
+      "category": "10",
+      "explanation": "Elle interagit avec un objet en ramassant un bonnet.",
+      "stgdir": "Elle ramasse le bonnet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "617",
+      "category": "8",
+      "explanation": "Il commence par 'AIR', signifiant qu'il s'agit d'une indication musicale.",
+      "stgdir": "Air : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "618",
+      "category": "4",
+      "explanation": "Une troupe entre, ce qui est une indication d'entr\u00e9e.",
+      "stgdir": "Une troupe de Matelots descendent d'un vaisseau \u00e9chou\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "619",
+      "category": "12",
+      "explanation": "Indique une direction ou une intention vers Antonin.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "620",
+      "category": "8",
+      "explanation": "Commence par 'AIR', indiquant une indication musicale.",
+      "stgdir": "AIR : Voulez-vous savoir qui des deux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "621",
+      "category": "12",
+      "explanation": "R\u00e9sultat d'une action vers Henry.",
+      "stgdir": "\u00c0 Henry.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "622",
+      "category": "8",
+      "explanation": "Le Ch\u0153ur chante, ce qui le classe dans la musique.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "623",
+      "category": "8",
+      "explanation": "Indication musicale, core avec une demande aux Turcs.",
+      "stgdir": "Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahom\u00e9tane, et leur chante ces paroles :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "624",
+      "category": "8",
+      "explanation": "D\u00e9marche d'une indication musicale.",
+      "stgdir": "AIR : Eh zon, zon, zon, Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "625",
+      "category": "6",
+      "explanation": "Interaction entre personnages par le biais du contact physique.",
+      "stgdir": "Elle met timidement, mais avec r\u00e9solution, sur le bras de Th\u00e9odat, sa main qui se crispe \u00e0 la chair sentie sous les \u00e9toffes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "626",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de Madame Dergos sur sc\u00e8ne.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "627",
+      "category": "3",
+      "explanation": "Expression intense, g\u00e9n\u00e9ralement ce qui est \u00e9motionnel.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "628",
+      "category": "0",
+      "explanation": "Action de regarder une image.",
+      "stgdir": "Il regarde le portrait.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "629",
+      "category": "9",
+      "explanation": "Indication de sc\u00e8ne, plus narrative en g\u00e9n\u00e9ral.",
+      "stgdir": "SC\u00c8NE II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "630",
+      "category": "10",
+      "explanation": "Action de donner un objet, le bracelet.",
+      "stgdir": "Lui donnant le bracelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "8",
+      "explanation": "Indication musicale identifi\u00e9e par 'AIR'.",
+      "stgdir": "Air : Pauvre Jacques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "12",
+      "explanation": "Direction ou intention vers le duc d'Alcala.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "Une indication musicale mentionn\u00e9e par 'Air'.",
+      "stgdir": "Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "1",
+      "explanation": "Action violente li\u00e9e \u00e0 la corne, qui est une agression.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "9",
+      "explanation": "Tend \u00e0 une s\u00e9quence d'actions, quasi narrative.",
+      "stgdir": "Antistrophe II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "9",
+      "explanation": "Didascalie qui semble narrative, pas une simple action.",
+      "stgdir": "Strophe X.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "0",
+      "explanation": "Action d'apercevoir quelqu'un.",
+      "stgdir": "Apercevant Job.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "Mention d'un air musical par 'Air'.",
+      "stgdir": "Air : Mon joli petit Corbillon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "8",
+      "explanation": "Une indication musicale identifi\u00e9e par 'Air'.",
+      "stgdir": "Air : Le petit mot, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "640",
+      "category": "7",
+      "explanation": "Indique une action de pr\u00e9ambule, un mouvement.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "9",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un passage biblique, approuv\u00e9.",
+      "stgdir": "(Gen. XXII, 17 et 18).",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "4",
+      "explanation": "Indication d'entr\u00e9e du Comte.",
+      "stgdir": "Le Comte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "6",
+      "explanation": "Une sc\u00e8ne qui montre une interaction collective vers une voix.",
+      "stgdir": "Tout accourt \u00e0 sa voix.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "7",
+      "explanation": "Action de se lever, impliquant un mouvement.",
+      "stgdir": "Il se l\u00e8ve de table.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "12",
+      "explanation": "Indication sur le fait que le ton est \u00e0 demi-voix.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "7",
+      "explanation": "Action de traverser, indiquant un mouvement.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "6",
+      "explanation": "Montre une interaction par une action symbolique.",
+      "stgdir": "Elle joint les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "4",
+      "explanation": "Indication d'action d'un personnage frappant \u00e0 la porte.",
+      "stgdir": "On frappe \u00e0 la porte au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "6",
+      "explanation": "Indique une action d'interaction entre deux personnages.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "650",
+      "category": "8",
+      "explanation": "Mention d'un air, commence par 'AIR'.",
+      "stgdir": "AIR : Plaisirs si purs que je regrette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "12",
+      "explanation": "D\u00e9marque une destination ou une intention vers Hauteroche.",
+      "stgdir": "\u00c0 Hauteroche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "8",
+      "explanation": "Indication musicale identifi\u00e9e par 'Air'.",
+      "stgdir": "Air 15 : Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "9",
+      "explanation": "Aspect narratif d\u00e9peignant le sommeil du Roi.",
+      "stgdir": "Le Roi dort.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "4",
+      "explanation": "Indique une entr\u00e9e collective sur le petit th\u00e9\u00e2tre.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "Indique une direction ou une intention vers le peuple.",
+      "stgdir": "Au peuple.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "6",
+      "explanation": "Interaction non verbale en montrant N\u00e9restan.",
+      "stgdir": "En montrant N\u00e9restan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "9",
+      "explanation": "Didascalie narrative d\u00e9crivant une danse et une interaction.",
+      "stgdir": "Des soldats de la suite du Major entourent Roquillard, en lui pr\u00e9sentant de tous c\u00f4t\u00e9s la pointe de la hallebarde\u00a0; et pendant ce temps Arlequin emm\u00e8ne Isabelle. Les soldats et Roquillard forment une danse, qui sert de divertissement pour le troisi\u00e8me acte.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "4",
+      "explanation": "Indication d'un son pour un second appel.",
+      "stgdir": "On sonne une seconde fois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "12",
+      "explanation": "Indication sur l'interaction sociale avec la Servante.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "660",
+      "category": "11",
+      "explanation": "Description d'un paysage dans une sc\u00e8ne particuli\u00e8re.",
+      "stgdir": "Il y a une ottomane qui r\u00e8gne le long de la salle, le Chinois et la Chinoise s'y accroupissent. Un Tartare et une Tartare paraissent sans saluer personne ; ils ont un arc en main et un carquois sur l'\u00e9paule ; ils se couchent aupr\u00e8s des Chinois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "11",
+      "explanation": "D\u00e9signe un environnement commun dans le d\u00e9cor.",
+      "stgdir": "Une maison de paysans dans les environs de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "7",
+      "explanation": "Indique un mouvement d'approche vers quelqu'un.",
+      "stgdir": "Montano s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "11",
+      "explanation": "Description du cadre de la sc\u00e8ne, lieu propre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un petit salon. Porte au fond. Porte lat\u00e9rale \u00e0 droite. - Une fen\u00eatre \u00e0 gauche. - \u00c0 droite, une table.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "6",
+      "explanation": "Interaction entre deux personnages en conversation.",
+      "stgdir": "Elle parle \u00e0 Anth\u00e9nor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "0",
+      "explanation": "Action de d\u00e9tremper les papiers, une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle d\u00e9trempe les papiers dans l'eau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "0",
+      "explanation": "Regardant un portrait, une action ordinaire.",
+      "stgdir": "Regardant le portrait de L\u00e9lie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "9",
+      "explanation": "Marque le moment, une didascalie plus narrative.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "11",
+      "explanation": "Description d\u00e9taill\u00e9e d'un lieu de la sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente le boudoir de la Comtesse. \u00c0 gauche, un petit paravent. Au lever du rideau, la Comtesse de La Roche-Gaston est seule en sc\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "8",
+      "explanation": "Indication musicale, commence par 'Air'.",
+      "stgdir": "Air : Oh, oh, oh, ah, ah, ah !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "670",
+      "category": "6",
+      "explanation": "Action qui montre une interaction dirig\u00e9e vers Tancr\u00e8de.",
+      "stgdir": "Montrant Tancr\u00e8de.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "12",
+      "explanation": "Indique une action d'intention vers ses fils.",
+      "stgdir": "\u00c0 ses fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "8",
+      "explanation": "Indication musicale mentionn\u00e9e au d\u00e9but.",
+      "stgdir": "AIR 97. (J'ai bien la plus sobre femme.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "6",
+      "explanation": "Actions de plusieurs personnages autour d'un service.",
+      "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "8",
+      "explanation": "D\u00e9signe une sc\u00e8ne musicale avec une mention d'air.",
+      "stgdir": "Air : \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 29861.1421585083,
+  "model": "gpt-4o-mini"
+}

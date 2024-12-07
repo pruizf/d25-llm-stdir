@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "0",
+      "explanation": "The action described, 'La porte se rouvre' (the door reopens), falls under the general category of actions involving objects or characters interacting with objects.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "0",
+      "explanation": "The action 'Il tire un Papier' (He pulls out a paper) describes a character interacting with an object, which fits the general category of character action.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "9",
+      "explanation": "This stage direction describes the setting and ongoing activities, like a public celebration, providing a narrative quality intended for readers.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "0",
+      "explanation": "The stage direction 'En voyant la porte ferm\u00e9e' (Upon seeing the door closed) describes an observation tied closely to an object interaction.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "0",
+      "explanation": "This falls under general action, 'Il fait ses efforts pour l'ouvrir, mais inutilement' (He tries to open it, but in vain), as it involves an attempt to interact with an object.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "0",
+      "explanation": "The action 'Regard \u00e0 la montre' (Look at the watch) involves observing an object, thus fitting into the general action category.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "3",
+      "explanation": "The direction 'Regardant Moli\u00e8re avec h\u00e9sitation' (Looking at Moli\u00e8re with hesitation) involves a manner of expression or delivery, focusing on the hesitation.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "0",
+      "explanation": "The action 'Il s'assied dans le fauteuil' (He sits in the armchair) is a straightforward action of sitting, under general character actions.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "0",
+      "explanation": "This action 'Elle se met \u00e0 ses pieds' (She sits at his feet) involves the character sitting down, classified as general action.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "11",
+      "explanation": "This direction, describing what characters observe, sets the scene and involves character placement relative to each other, qualifying it as a setting description.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "6",
+      "explanation": "The action 'D\u00e9signant du pied une dalle' (Designating a slab with the foot) involves a non-verbal interaction pointing at an object.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "0",
+      "explanation": "Involves characters assuming a position, 'Ils se jettent \u00e0 genoux' (They kneel), which is a general action.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "0",
+      "explanation": "The action 'Elle frappe \u00e0 la porte en dehors' (She knocks on the door from outside) involves interacting with an object, a general action.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "0",
+      "explanation": "The direction 'Ils mangent tous deux' (They both eat) fits under general character actions involving eating.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "0",
+      "explanation": "The action described involves sitting and is categorized as a general character action, 'S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche' (Sitting on a chair near the table on the left).",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "5",
+      "explanation": "The action 'Elle se l\u00e8ve pour sortir' (She stands to leave) indicates the character's intention to exit the stage.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "0",
+      "explanation": "The direction 'Il tire le cordon de la sonnette' (He pulls the bell cord) involves an interaction with an object, classified as a general action.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "1",
+      "explanation": "The direction 'Don Carlos tire son \u00e9p\u00e9e' (Don Carlos draws his sword) suggests a potentially aggressive or threatening action.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "0",
+      "explanation": "The stage direction 'Montrant l'huissier' (Showing the usher) involves a gesture or non-verbal action, categorized as a general action.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "3",
+      "explanation": "The direction 'Changeant de ton et suppliant' (Changing tone and pleading) is related to the manner of verbal delivery, indicating a change in tone.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "0",
+      "explanation": "Involves searching, 'Il y cherche' (He searches there), which is an action focused on an object or location.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "0",
+      "explanation": "The action 'Le lui montrant' (Showing it to him) involves a non-verbal action of pointing or showing, a general action.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "0",
+      "explanation": "'Il s'assied, et il \u00e9crit en chantant' (He sits and writes while singing) describes a general action of sitting and writing with an element of vocal action (singing).",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "0",
+      "explanation": "The action involves interaction with an object, 'Rendant le flacon vide' (Returning the empty flask), which fits under general action.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "0",
+      "explanation": "'Il porte la fiole \u00e0 sa bouche' (He brings the vial to his mouth) involves an interaction with an object, classified under general actions.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "0",
+      "explanation": "The action 'Il ouvre le tiroir' (He opens the drawer) involves interaction with an object, falling into the general action category.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "0",
+      "explanation": "The action 'Clim\u00e8ne en action de se jeter aux pieds du Roi' involves kneeling before the King, categorized as a general action.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "0",
+      "explanation": "The direction describes listening, 'ANNA et EUG\u00c9NIE \u00e9coutent chanter', which is a general character action.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "0",
+      "explanation": "The action 'Elle regarde les fleurs' (She looks at the flowers) involves observation, fitting into the general action category.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "0",
+      "explanation": "The action 'Il lit l'affiche' (He reads the poster) is a general action involving reading.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "0",
+      "explanation": "Involves looking, 'En regardant le diamant' (Looking at the diamond), a general character action.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "11",
+      "explanation": "A description of the setting and activities 'Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux' makes it a setting description.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "0",
+      "explanation": "The action 'Regardant du cot\u00e9 oppos\u00e9' (Looking in the opposite direction) involves observation, categorized under general action.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "0",
+      "explanation": "Drinking described in 'Ils boivent de nouveau' (They drink again) is a general character action.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "0",
+      "explanation": "The action 'Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour' involves opening a paper, an object interaction under general action.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "0",
+      "explanation": "Involves showing, 'Il leur montre un mur qu'on tourne sur un pivot de fer' (He shows them a wall that turns on an iron pivot), categorized as a general action.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "0",
+      "explanation": "'Lui montrant une lettre' (Showing him a letter) involves showing an object, a general action.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "0",
+      "explanation": "The action 'Ils se mettent \u00e0 table' (They sit at the table) is a general action involving sitting.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "0",
+      "explanation": "'Lucile continue de regarder' (Lucile continues to look) involves observation, categorized under general action.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "9",
+      "explanation": "The stage direction 'La pendule sonne six heures' (The clock strikes six) describes an event with narrative quality.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "0",
+      "explanation": "Involves showing, 'Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire' (Showing him what is written at the bottom of the memoir), a general action.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "6",
+      "explanation": "Non-verbal interaction described in 'Dorante et Ang\u00e9lique se regardent tous deux' (Dorante and Ang\u00e9lique look at each other).",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "0",
+      "explanation": "'II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue' involves an opening action, categorized under general action.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "0",
+      "explanation": "The action 'Lisant :' (Reading) is a general action involving reading.",
+      "stgdir": "Lisant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "0",
+      "explanation": "The action 'Elle ouvre l'armoire' (She opens the wardrobe) involves interaction with an object, categorized under general action.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "0",
+      "explanation": "The action 'Elle s'\u00e9tend dans un fauteuil' (She stretches in an armchair) involves sitting or reclining, fitting general action.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "0",
+      "explanation": "'Ils se l\u00e8vent de table' (They rise from the table) involves getting up, a general action.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "0",
+      "explanation": "The action 'Il voit venir la Princesse' (He sees the Princess coming) involves observation, categorized as a general action.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "0",
+      "explanation": "'On entend de nouveau frapper \u00e0 la porte du fond' involves hearing a knocking sound, categorized as a general action due to the knocking.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "0",
+      "explanation": "The action 'Alfred regarde avec d\u00e9sespoir' (Alfred looks with despair) involves looking, a general action with a specified emotional tone.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "6",
+      "explanation": "Interaction, 'Il se jette aux genoux de la Marquise' (He throws himself at the knees of the Marquise) involves non-verbal interaction.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "3",
+      "explanation": "The stage direction 'D\u00e9lie lui jette un regard passionn\u00e9' involves an expressive look, fitting into delivery or expression category.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "0",
+      "explanation": "The action 'Il l\u00e8ve les Gardes de la Chambre' involves raising, falling under the general action category.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "0",
+      "explanation": "Involves looking, 'En regardant Terville' (Looking at Terville), falling into the general action category.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "3",
+      "explanation": "The direction includes a delivery detail, 'S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher', related to stopping due to Don Juan's possible anger.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "0",
+      "explanation": "'Scarron continue d'\u00e9crire' (Scarron continues to write) involves writing, a general action.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "0",
+      "explanation": "The action 'Elle d\u00e9fait le papier' (She unwraps the paper) involves interacting with an object, fitting into general actions.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "0",
+      "explanation": "The action 'Il montre son vit' directly involves a non-verbal interaction, which is a general action.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "0",
+      "explanation": "'Ils s'asseyent' (They sit) describes sitting, a general action.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "0",
+      "explanation": "Involves looking, 'Il tourne les yeux sur Henry' (He turns his eyes on Henry), categorized as a general action.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "0",
+      "explanation": "Involves non-verbal directionality 'En montrant le Chef des fugitifs et le Pr\u00e9lat' (Showing the leader of the fugitives and the prelate).",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "0",
+      "explanation": "The action 'Elle regarde du c\u00f4t\u00e9 de la porte' (She looks towards the door) involves observation, categorized as a general action.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "0",
+      "explanation": "'Il montre le mari de la Vieille' involves showing, categorized under general action.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "0",
+      "explanation": "The action 'On se met \u00e0 table' (They take their places at the table) involves sitting, a general action.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "0",
+      "explanation": "The direction 'Il a l'air d'\u00e9couter' (He seems to listen) involves listening, a general character action.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "0",
+      "explanation": "'Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main' involves showing objects, a general action.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "0",
+      "explanation": "The action 'Corbineli fait le signe de la Croix' involves making a sign, which is viewed as a general action.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "0",
+      "explanation": "The action 'Apercevant Ad\u00e9la\u00efde' (Perceiving Ad\u00e9la\u00efde) involves observation, categorized as a general action.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "0",
+      "explanation": "The direction 'Il tend l'oreille anxieusement' involves listening, which is a general character action.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "0",
+      "explanation": "'Il va aux fontaines et boit' (He goes to the fountains and drinks) involves movement followed by a general action (drinking).",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "0",
+      "explanation": "'Montrant Trissotin' (Showing Trissotin) involves a pointing or demonstrating action, categorized under general actions.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "0",
+      "explanation": "The action 'Parcourant la lettre' (Going through the letter) involves reading or examining, which is a general action.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "0",
+      "explanation": "'Il montre ses yeux poch\u00e9s' involves pointing out or demonstrating, a non-verbal action classified as general.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "0",
+      "explanation": "'Regardant' simply describes looking at something, fitting into the general action category.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "0",
+      "explanation": "Involves interacting with objects, 'Elle soul\u00e8ve l'autre vase et prend le billet' (She lifts the other vase and takes the ticket), a general action.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 57471.55237197876,
+  "model": "gpt-4o"
+}

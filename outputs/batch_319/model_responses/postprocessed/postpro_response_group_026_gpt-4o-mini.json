@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1950",
+      "category": "8",
+      "explanation": "Cette didascalie mentionne 'La vielle joue tr\u00e8s doucement', ce qui correspond \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1951",
+      "category": "8",
+      "explanation": "On entend une 'symphonie', ce qui la classe dans la cat\u00e9gorie musique.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1952",
+      "category": "0",
+      "explanation": "Il s'agit d'une action simple, sans violence ni interaction particuli\u00e8re.",
+      "stgdir": "Il tire son poignard.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1953",
+      "category": "1",
+      "explanation": "D\u00e9crit un contexte de combat avec 'se battent \u00e0 coups d'\u00e9p\u00e9e', ce qui en fait une action violente.",
+      "stgdir": "Les Suivant des deux Com\u00e9dies, et ceux de la Foire se battent \u00e0 coups d'\u00e9p\u00e9e. Les derniers sont repouss\u00e9s, et abandonnent le champ de bataille.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1954",
+      "category": "6",
+      "explanation": "Tous se mettent \u00e0 genoux, ce qui implique une interaction non verbale entre les personnages.",
+      "stgdir": "Tous se mettent \u00e0 genoux, except\u00e9 le Juge et les Soldats.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1955",
+      "category": "4",
+      "explanation": "Lisanor appara\u00eet sur sc\u00e8ne, ce qui est directement li\u00e9 \u00e0 une entr\u00e9e.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1956",
+      "category": "4",
+      "explanation": "Indique un emplacement '\u00c0 Ariston', qui implique une entr\u00e9e.",
+      "stgdir": "\u00c0 Ariston.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1957",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit le d\u00e9cor, ce qui en fait une description de la mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'entr\u00e9e de la for\u00eat sacr\u00e9e : on y voit les tombeaux et les statues des Rois de la Colchide.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1958",
+      "category": "9",
+      "explanation": "Une didascalie narrative qui relate les sentiments du personnage, il s'agit donc de narration.",
+      "stgdir": "Apr\u00e8s un silence, assez long pour reposer les yeux du spectateur, qui doivent avoir peine \u00e0 suivre les vivacit\u00e9s des mouvements pr\u00e9c\u00e9dents, l'infortun\u00e9 Kerkabon, abattu par le malheur, offre ses jours pour r\u00e9parer sa faute :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1959",
+      "category": "8",
+      "explanation": "Mention d'un air musical 'Lampons', ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1960",
+      "category": "0",
+      "explanation": "D\u00e9crit une action, 'La quittant', sans agressivit\u00e9 ni contexte d'interaction.",
+      "stgdir": "La quittant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1961",
+      "category": "8",
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 un air musical sp\u00e9cifique, 'C'est Suson la camarde', donc cat\u00e9gorie musique.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1962",
+      "category": "8",
+      "explanation": "Concerne un air musical, 'La mort de mon cher p\u00e8re', donc cat\u00e9goris\u00e9 dans la musique.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1963",
+      "category": "10",
+      "explanation": "Impliquant un objet, ici des 'papiers', cela entre dans la cat\u00e9gorie objet.",
+      "stgdir": "Il ramasse tous ses papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1964",
+      "category": "8",
+      "explanation": "Cette didascalie mentionne un air, 'Vous avez raison, la Plante', donc classification musique.",
+      "stgdir": "Air : Vous avez raison, la Plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1965",
+      "category": "5",
+      "explanation": "Indique une sortie de personnage, 'Elle sort avec Monsieur S\u00e9vin', correspondant \u00e0 la cat\u00e9gorie d'exit.",
+      "stgdir": "Elle sort avec Monsieur S\u00e9vin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1966",
+      "category": "8",
+      "explanation": "Cela se r\u00e9f\u00e8re \u00e0 un air musical, 'Or \u00e9coutez, Petits et Grands', donc cat\u00e9gorie musique.",
+      "stgdir": "Air 78 : Or \u00e9coutez, Petits et Grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1967",
+      "category": "0",
+      "explanation": "C'est une action simple, l'emplacement '\u00c0 Lourdis en riant', sans violence ni interaction.",
+      "stgdir": "\u00c0 Lourdis en riant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1968",
+      "category": "0",
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 un emplacement '\u00c0 Edouard', ce qui en fait une action sans interaction.",
+      "stgdir": "\u00c0 Edouard.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1969",
+      "category": "0",
+      "explanation": "Une mention d'un emplacement '\u00c0 la Fleur', sans connotation d'interaction ou d'agression.",
+      "stgdir": "\u00c0 la Fleur.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1970",
+      "category": "11",
+      "explanation": "D\u00e9crit le lieu, en l'occurrence 'Le palais du roi', relevant donc de mise en sc\u00e8ne.",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1971",
+      "category": "10",
+      "explanation": "Cette didascalie implique une interaction avec un objet, en l'occurrence des 'fleurs'.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1972",
+      "category": "6",
+      "explanation": "Il y a une interaction avec 'Il l\u00e8ve les yeux et voit Mouravieff', impliquant une connexion non verbale.",
+      "stgdir": "Il l\u00e8ve les yeux et voit Mouravieff qui est entr\u00e9 sans qu'il l'ait entendu, et qui est debout immobile aupr\u00e8s de lui.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1973",
+      "category": "0",
+      "explanation": "L'action de 'Il se jette \u00e0 genoux' est une action standard, sans interaction ou agression.",
+      "stgdir": "Il se jette \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1974",
+      "category": "10",
+      "explanation": "Indique une interaction avec un objet, en le pr\u00e9sentant \u00e0 Varade.",
+      "stgdir": "Pr\u00e9sentant un morceau \u00e0 Varade.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1975",
+      "category": "10",
+      "explanation": "L'action d'offrir une plume constitue une interaction avec un objet.",
+      "stgdir": "En lui pr\u00e9sentant la plume.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1976",
+      "category": "1",
+      "explanation": "Indique que 'L'on entend un bruit d'armes', ce qui implique une connotation agressive.",
+      "stgdir": "L'on entend un bruit d'armes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1977",
+      "category": "6",
+      "explanation": "Interaction humaine, 'Elle parle \u00e0 Sicandre' implique une interaction verbale et non verbale.",
+      "stgdir": "Elle parle \u00e0 Sicandre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1978",
+      "category": "6",
+      "explanation": "Interaction entre personnages, 'Elle prend les mains de Clarice et du Chevalier', tout en \u00e9tant tactile.",
+      "stgdir": "Elle prend les mains de Clarice et du Chevalier, en disant \u00e0 la Dame :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1979",
+      "category": "10",
+      "explanation": "Indique une interaction avec un objet, 'Il lui donne la promesse de Cl\u00e9andre'.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1980",
+      "category": "8",
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 un air musical, 'Tout est dit', donc c'est de la musique.",
+      "stgdir": "Air : Tout est dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1981",
+      "category": "0",
+      "explanation": "Mention d'emplacement, '\u00c0 Suzon', sans interaction ou action sp\u00e9cifique.",
+      "stgdir": "\u00c0 Suzon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1982",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un duo musical, 'DUO du silvain', donc cat\u00e9gorie musique.",
+      "stgdir": "DUO du silvain.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1983",
+      "category": "9",
+      "explanation": "Fait mention d'un bruit, impliquant un \u00e9l\u00e9ment narratif en plus de l'action.",
+      "stgdir": "On entend un bruit souterrain.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1984",
+      "category": "10",
+      "explanation": "Interaction avec un objet, 'Il donne le papier \u00e0 Ragueneau', pertinent pour la cat\u00e9gorie objet.",
+      "stgdir": "Il donne le papier \u00e0 Ragueneau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1985",
+      "category": "4",
+      "explanation": "Un personnage entre en sc\u00e8ne, ce qui justifie l'entr\u00e9e.",
+      "stgdir": "Un deuxi\u00e8me valet entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1986",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air 'La Gentille', ce qui lui attribue la cat\u00e9gorie de musique.",
+      "stgdir": "AIR. La Gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1987",
+      "category": "0",
+      "explanation": "Indique une r\u00e9f\u00e9rence \u00e0 un emplacement, '\u00c0 Thaler', sans action ni interaction.",
+      "stgdir": "\u00c0 Thaler.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1988",
+      "category": "6",
+      "explanation": "Interaction illustr\u00e9e ici, 'Ils se tiennent les mains un instant', montrant une connexion non verbale.",
+      "stgdir": "Ils se tiennent les mains un instant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1989",
+      "category": "0",
+      "explanation": "Indique simplement un emplacement, '\u00c0 Paul Ferrier', sans actie particuli\u00e8re.",
+      "stgdir": "\u00c0 Paul Ferrier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1990",
+      "category": "0",
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 une mention g\u00e9n\u00e9rale, 'Aux soldats', sans action concr\u00e8te.",
+      "stgdir": "Aux soldats.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1991",
+      "category": "0",
+      "explanation": "Indication de mouvement personnel, 'Regardant du cot\u00e9 oppos\u00e9', sans action ou interaction.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1992",
+      "category": "0",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un emplacement, '\u00c0 Charlot', sans indication d'interaction ou d'action.",
+      "stgdir": "\u00c0 Charlot.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1993",
+      "category": "0",
+      "explanation": "L'\u00f4ter de quelque chose indique une action, mais pas d'autre contexte.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1994",
+      "category": "6",
+      "explanation": "Interaction tactile, 'Octave lui donnant la main', cela entre dans une interaction.",
+      "stgdir": "Octave lui donnant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1995",
+      "category": "10",
+      "explanation": "Concerne un objet en particulier, 'Il lui donne un manche d'\u00e9clanche', donc implication avec un objet.",
+      "stgdir": "Il lui donne un manche d'\u00e9clanche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1996",
+      "category": "7",
+      "explanation": "Indique le mouvement, ici 'En s'\u00e9loignant', ce qui le classe dans la cat\u00e9gorie de mouvement.",
+      "stgdir": "En s'\u00e9loignant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1997",
+      "category": "0",
+      "explanation": "D\u00e9signe une action dans un contexte non pr\u00e9cis\u00e9, 'PRIMO'.",
+      "stgdir": "PRIMO.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1998",
+      "category": "0",
+      "explanation": "Il s'agit d'une mention d'objet, 'Fin de la lettre', sans action ou interaction explicit\u00e9e.",
+      "stgdir": "Fin de la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1999",
+      "category": "1",
+      "explanation": "Des actions r\u00e9p\u00e9t\u00e9es, 'Il frappe toujours', indirige vers le contexte d'agression.",
+      "stgdir": "Il frappe toujours.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2000",
+      "category": "8",
+      "explanation": "Mention d'air musical, 'Joconde', ce qui lui attribue la cat\u00e9gorie de musique.",
+      "stgdir": "Air : Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2001",
+      "category": "0",
+      "explanation": "Indique une action, 'Ils se mettent \u00e0 table', sans connotation d'interaction ou d'agression.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2002",
+      "category": "6",
+      "explanation": "Indique une interaction, 'Montrant son amant', reliant directement \u00e0 l'interaction non verbale.",
+      "stgdir": "Montrant son amant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2003",
+      "category": "0",
+      "explanation": "Signale une action, 'Il met la main \u00e0 l'\u00e9p\u00e9e', sans contexte d'agression.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2004",
+      "category": "9",
+      "explanation": "D\u00e9crit un bruit sp\u00e9cifique qui est narratif en son approche.",
+      "stgdir": "On entend les cris du Peuple dans le fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2005",
+      "category": "6",
+      "explanation": "Interaction implicite, bien qu'elle ne soit pas verbale, 'Elles ne se regardent plus'.",
+      "stgdir": "Elles ne se regardent plus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2006",
+      "category": "6",
+      "explanation": "Indique une interaction non verbale, 'L'abordant' implique une connexion personnelle.",
+      "stgdir": "L'abordant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2007",
+      "category": "0",
+      "explanation": "Indique une action passive, 'Regardant le chanson' sans agir d'une mani\u00e8re plus active.",
+      "stgdir": "Regardant le chanson.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2008",
+      "category": "4",
+      "explanation": "Mention d'une action sur sc\u00e8ne, 'Il fait descendre Mademoiselle Saint-Yves', occupant une entr\u00e9e.",
+      "stgdir": "Il fait descendre Mademoiselle Saint-Yves sur l'avant-sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2009",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air musical, 'P\u00e8re je me confesse', ceci appartient \u00e0 la cat\u00e9gorie de musique.",
+      "stgdir": "Air : P\u00e8re je me confesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2010",
+      "category": "4",
+      "explanation": "Indique l'arriv\u00e9e de personnages sur sc\u00e8ne, class\u00e9e dans la cat\u00e9gorie entr\u00e9e.",
+      "stgdir": "Le choeur arrive sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2011",
+      "category": "8",
+      "explanation": "D\u00e9signe la musique, ici un 'Menuet', ce qui la classe dans la cat\u00e9gorie musicale.",
+      "stgdir": "Menuet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2012",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 une balade musicale, ainsi elle se qualifie dans la musique.",
+      "stgdir": "BALADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2013",
+      "category": "4",
+      "explanation": "Le personnage fait son apparition, 'Pasquin para\u00eet', indiquant une entr\u00e9e.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2014",
+      "category": "6",
+      "explanation": "Interaction non verbale, 'Montrant Claudine', c'est un geste de partage.",
+      "stgdir": "Montrant Claudine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2015",
+      "category": "0",
+      "explanation": "D\u00e9crit une action, 'Apr\u00e8s l'avoir bais\u00e9e', sans connotation violente.",
+      "stgdir": "Apr\u00e8s l'avoir bais\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2016",
+      "category": "8",
+      "explanation": "Mention d'une entr\u00e9e de ballet, donc cela correspond \u00e0 la musique.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2017",
+      "category": "0",
+      "explanation": "Indique un bruit, 'On entend de nouveau frapper \u00e0 la porte du fond', ce qui est narratif.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2018",
+      "category": "9",
+      "explanation": "Didascalie narrative avec une description imaginative int\u00e9grant des \u00e9l\u00e9ments surprise.",
+      "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2019",
+      "category": "10",
+      "explanation": "Describe une interaction avec un objet, 'Elle ouvre le m\u00e9daillon'.",
+      "stgdir": "Elle ouvre le m\u00e9daillon, et fait voir \u00e0 la Comtesse le portrait de Napol\u00e9on.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2020",
+      "category": "8",
+      "explanation": "Indique un air musical, 'Branle de Metz', ce qui le classe dans la musique.",
+      "stgdir": "Air : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2021",
+      "category": "9",
+      "explanation": "Indique une perception auditive, 'On entend un certain bruit', gardant le ton narratif.",
+      "stgdir": "On entend un certain bruit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2022",
+      "category": "0",
+      "explanation": "D\u00e9signe un \u00e9tat d'esprit, 'D'un air de confiance' sans action concr\u00e8te.",
+      "stgdir": "D'un air de confiance.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2023",
+      "category": "10",
+      "explanation": "Ultime action d'interaction, 'Elle ouvre la lettre', impliquant un objet donn\u00e9.",
+      "stgdir": "Elle ouvre la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2024",
+      "category": "4",
+      "explanation": "Indique que le personnage dispara\u00eet en sc\u00e8ne, ceci est li\u00e9 \u00e0 l'entr\u00e9e et \u00e0 l'exit.",
+      "stgdir": "Mercure dispara\u00eet.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 31135.408878326416,
+  "model": "gpt-4o-mini"
+}

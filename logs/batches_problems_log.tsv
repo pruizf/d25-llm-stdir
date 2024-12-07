@@ -1,0 +1,3 @@
+batch_id	problem_id	problem	solution_adopted
+320	0001	stgdir_nbr 1581 was output as 11, this is in the completion already, not in my postprocessing	I changed the stgdir_nbr to 1581 by hand in the postprocessing (didn't touch category number which was also 11)
+317	0001	key `stgdir_nbr` was output as `stgdir_nbr` in some responses (group_016), already in the completion before postprocessing.	I changed the key to `stgdir_nbr` by hand in the postprocessed results.

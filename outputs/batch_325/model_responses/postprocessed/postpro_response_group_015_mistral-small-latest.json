@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1125",
+      "category": "2",
+      "explanation": "The stage direction involves a character addressing their thoughts or feelings alone, which is typical of an aside (aparte).",
+      "stgdir": "AIR. Tu croyais en aimant Colette.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1126",
+      "category": "12",
+      "explanation": "This stage direction indicates the addressee of a speech, which is Madame Abraham.",
+      "stgdir": "\u00c0 Madame Abraham, en allant l'embrasser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1127",
+      "category": "5",
+      "explanation": "Oloodeme et Eristene se retirent indicates that they are leaving the stage.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1128",
+      "category": "10",
+      "explanation": "The character interacts with an object, specifically examining papers.",
+      "stgdir": "Il examine les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1129",
+      "category": "8",
+      "explanation": "AIR. Contre un engagement, etc. indicates the name of a tune being played.",
+      "stgdir": "AIR. Contre un engagement, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1130",
+      "category": "9",
+      "explanation": "This is a narrative stage direction describing a noise from outside.",
+      "stgdir": "Une effroyable clameur se fait entendre au dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1131",
+      "category": "5",
+      "explanation": "Laurence sort. indicates that Laurence is leaving the stage.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1132",
+      "category": "10",
+      "explanation": "Elle prend le gobelet. indicates that the character interacts with an object.",
+      "stgdir": "Elle prend le gobelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1133",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the scene.",
+      "stgdir": "Un patio du palais de Silva. \u00c0 gauche, les grands murs du palais, avec une fen\u00eatre \u00e0 balcon. Au-dessous de la fen\u00eatre, une petite porte. \u00c0 droite et au fond, des maisons et des rues. - Il est nuit. - On voit briller \u00e7\u00e0 et l\u00e0, aux fa\u00e7ades des \u00e9difices, quelques fen\u00eatres encore \u00e9clair\u00e9es.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1134",
+      "category": "5",
+      "explanation": "Hersile se retire. indicates that Hersile is leaving the stage.",
+      "stgdir": "Hersile se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1135",
+      "category": "0",
+      "explanation": "Personne ne bouge. is a general character action.",
+      "stgdir": "Personne ne bouge.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1136",
+      "category": "12",
+      "explanation": "\u00c0 Mowbrai. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1137",
+      "category": "8",
+      "explanation": "Les Symphonistes jouent une Ritournelle. indicates the name of a tune being played.",
+      "stgdir": "Les Symphonistes jouent une Ritournelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1138",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the scene.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1139",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the scene.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le camp de Washington, on voit la tente de ce g\u00e9n\u00e9ral.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1140",
+      "category": "12",
+      "explanation": "\u00c0 Acante. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Acante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1141",
+      "category": "5",
+      "explanation": "Tous sortent, except\u00e9 Baron. indicates that everyone except Baron is leaving the stage.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1142",
+      "category": "9",
+      "explanation": "On entend frapper \u00e0 la porte. - Se levant. describes a noise and a character action.",
+      "stgdir": "On entend frapper et la porte. - Se levant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1143",
+      "category": "6",
+      "explanation": "D\u00e9lie lui jette un regard passionn\u00e9. indicates a non-verbal interaction.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1144",
+      "category": "9",
+      "explanation": "Arrive l'instant d\u00e9finitif. is a narrative stage direction.",
+      "stgdir": "Arrive l'instant d\u00e9finitif.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1145",
+      "category": "12",
+      "explanation": "\u00c0 Darius. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Darius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1146",
+      "category": "6",
+      "explanation": "Ensemble. indicates a non-verbal interaction.",
+      "stgdir": "Ensemble",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1147",
+      "category": "6",
+      "explanation": "Elle montre Racine. indicates a non-verbal interaction.",
+      "stgdir": "Elle montre Racine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1148",
+      "category": "12",
+      "explanation": "Au souffleur. indicates the addressee of a speech.",
+      "stgdir": "Au souffleur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1149",
+      "category": "9",
+      "explanation": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre. describes a noise.",
+      "stgdir": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1150",
+      "category": "5",
+      "explanation": "Val\u00e9rian sort. indicates that Val\u00e9rian is leaving the stage.",
+      "stgdir": "Val\u00e9rian sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1151",
+      "category": "3",
+      "explanation": "Apr\u00e8s qu'il a lu. describes the character's delivery manner.",
+      "stgdir": "Apr\u00e8s qu'il a lu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1152",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the scene.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1153",
+      "category": "3",
+      "explanation": "Anselme rit. describes the character's emotional state.",
+      "stgdir": "Anselme rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1154",
+      "category": "10",
+      "explanation": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets. indicates the character interacting with an object.",
+      "stgdir": "Pendant ce couplet il d\u00e9chire , sans y faire attention, tous ses billets pour compl\u00e9ter la description du repas qu'il fait.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1155",
+      "category": "4",
+      "explanation": "Ils entrent d'un pas d\u00e9gag\u00e9 l'un du jardin, l'autre de la cour. indicates that characters are entering the stage.",
+      "stgdir": "Ils entrent d'un pas d\u00e9gag\u00e9 l'un du jardin, l'autre de la cour.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1156",
+      "category": "8",
+      "explanation": "AIR : Je n'ai pas le pouvoir. indicates the name of a tune being played.",
+      "stgdir": "AIR : Je n'ai pas le pouvoir.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1157",
+      "category": "12",
+      "explanation": "\u00c0 la F\u00e9e. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 la F\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1158",
+      "category": "12",
+      "explanation": "\u00c0 Mathurin et \u00e0 Fran\u00e7oise. indicates the addressees of a speech.",
+      "stgdir": "\u00c0 Mathurin et \u00e0 Fran\u00e7oise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1159",
+      "category": "6",
+      "explanation": "En leur montrant Am\u00e9lite. indicates a non-verbal interaction.",
+      "stgdir": "En leur montrant Am\u00e9lite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1160",
+      "category": "3",
+      "explanation": "Marquant sa joie. describes the character's emotional state.",
+      "stgdir": "Marquant sa joie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1161",
+      "category": "3",
+      "explanation": "Il lit la lettre apr\u00e8s quoi il dit. describes the character's delivery manner.",
+      "stgdir": "Il lit la lettre apr\u00e8s quoi il dit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1162",
+      "category": "8",
+      "explanation": "AIR Quand le p\u00e9ril est agr\u00e9able. indicates the name of a tune being played.",
+      "stgdir": "AIR Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1163",
+      "category": "6",
+      "explanation": "Il rappelle Monsieur Oronte. indicates a non-verbal interaction.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1164",
+      "category": "12",
+      "explanation": "\u00c0 Zika. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Zika.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1165",
+      "category": "12",
+      "explanation": "\u00c0 Lycandre. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1166",
+      "category": "8",
+      "explanation": "On entend la ritournelle du morceau. indicates the name of a tune being played.",
+      "stgdir": "On entend la ritournelle du morceau.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1167",
+      "category": "3",
+      "explanation": "Lisant. describes the character's delivery manner.",
+      "stgdir": "Lisant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1168",
+      "category": "10",
+      "explanation": "Elle ouvre l'armoire. indicates the character interacting with an object.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1169",
+      "category": "8",
+      "explanation": "Air : Le Cabaret est mon r\u00e9duit. indicates the name of a tune being played.",
+      "stgdir": "Air : Le Cabaret est mon r\u00e9duit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1170",
+      "category": "12",
+      "explanation": "Il parle \u00e0 Dionys. indicates the addressee of a speech.",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1171",
+      "category": "10",
+      "explanation": "Il regarde dans un petit cabinet. indicates the character interacting with an object.",
+      "stgdir": "Il regarde dans un petit cabinet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1172",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the scene.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une cour. - A gauche du public un pavillon au premier plan.- Au deuxi\u00e8me plan, un mur avec une fen\u00eatre et un balcon. -\u00c0 droite, un jardin, au fond, un mur avec une grille. - Il fait nuit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1173",
+      "category": "11",
+      "explanation": "The stage direction describes the setting of the scene.",
+      "stgdir": "D\u00c9CORATION DU Ier ACTE. Le th\u00e9\u00e2tre du Prologue fait place \u00e0 une D\u00e9coration moins r\u00e9guli\u00e8re, mais qui dans son irr\u00e9gularit\u00e9 ne laisse pas d'avoir des beaut\u00e9s qui plaisent \u00e9galement \u00e0 la vue. Elle repr\u00e9sente une Plaine, o\u00f9 diverses Ruines marquent les restes de quelques Palais d\u00e9molis, et le tout dans une si agr\u00e9able vari\u00e9t\u00e9, qu'elle n'a aucune partie qui ne fasse para\u00eetre quelque chose de diff\u00e9rent. Au bout de cette plaine on d\u00e9couvre une Montagne d'une grandeur prodigieuse. Elle est fertile dans le bas en Plantes et Fleurs b\u00e2tardes\u00a0; et \u00e0 mesure qu'elle s'\u00e9l\u00e8ve, elle devient aride, formant des Rochers peu remplis de verdure, et entrecoup\u00e9s de chemins. Le sommet laisse voir un Palais ruin\u00e9 et d\u00e9sert, avec un grand Horizon tout autour, en sorte que la Montagne est isol\u00e9e, et para\u00eet naturelle aux yeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1174",
+      "category": "9",
+      "explanation": "The stage direction describes a sequence of character actions.",
+      "stgdir": "L'effigie du Comte se soul\u00e8ve lentement sur le tombeau, prend la plume et le parchemin des mains de Don Jos\u00e8s, signe, laisse tomber le parchemin, et se recouche sans pousser un soupir, sans prononcer une parole.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1175",
+      "category": "12",
+      "explanation": "\u00c0 Tib\u00e8re. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1176",
+      "category": "8",
+      "explanation": "Air 179 : La faridondaine, gu\u00e9 !. indicates the name of a tune being played.",
+      "stgdir": "Le choeur r\u00e9p\u00e8te ces quatre derniers vers ; la suite de la Paix et celle de Pan forment une entr\u00e9e, au milieu de laquelle deux bergers chantent s\u00e9par\u00e9ment les deux couplets qui suivent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1177",
+      "category": "8",
+      "explanation": "Air : Ah ! Madame Anroux. indicates the name of a tune being played.",
+      "stgdir": "Air 179 : La faridondaine, gu\u00e9 !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1178",
+      "category": "9",
+      "explanation": "Elle dit ceci bas. describes a speech in a particular manner.",
+      "stgdir": "Air : Ah ! Madame Anroux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1179",
+      "category": "12",
+      "explanation": "\u00c0 Laure, en lui baisant les doigts. indicates the addressee of a speech.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1180",
+      "category": "4",
+      "explanation": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite. indicates that characters are entering the stage.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1181",
+      "category": "10",
+      "explanation": "Il effleure l'encrier de ses doigts. indicates the character interacting with an object.",
+      "stgdir": "Il effleure l'encrier de ses doigts.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1182",
+      "category": "1",
+      "explanation": "CARTEL DU CAPITAN TAILLEBRAS A BEAUROCHER. indicates a violent action.",
+      "stgdir": "CARTEL DU CAPITAN TAILLEBRAS A BEAUROCHER.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1183",
+      "category": "5",
+      "explanation": "Elle sort avec \u00c9raste. indicates that the characters are leaving the stage.",
+      "stgdir": "Elle sort avec \u00c9raste.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1184",
+      "category": "3",
+      "explanation": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher. describes the character's emotional state.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1185",
+      "category": "1",
+      "explanation": "Il hausse le poignard. indicates a violent action.",
+      "stgdir": "Il hausse le poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1186",
+      "category": "0",
+      "explanation": "Oronte met bas son \u00e9cu et son casque, pour dormir au pied d'un arbre. is a general character action.",
+      "stgdir": "Oronte met bas son \u00e9cu et son casque, pour dormir au pied d'un arbre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1187",
+      "category": "12",
+      "explanation": "\u00c0 Laure, en lui baisant les doigts. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Laure, en lui baisant les doigts.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1188",
+      "category": "3",
+      "explanation": "Elle p\u00e2me. describes the character's emotional state.",
+      "stgdir": "Elle p\u00e2me.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1189",
+      "category": "9",
+      "explanation": "Antistrophe IX. describes a narrative stage direction.",
+      "stgdir": "Antistrophe IX.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1190",
+      "category": "9",
+      "explanation": "Le cygne chante en mourant. describes a narrative stage direction.",
+      "stgdir": "Le cygne chante en mourant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1191",
+      "category": "9",
+      "explanation": "\u00c0 les cris que pousse Th\u00e9cla. describes a narrative stage direction.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1192",
+      "category": "4",
+      "explanation": "Ils rentrent tous. indicates that characters are entering the stage.",
+      "stgdir": "Il rentrent tous.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1193",
+      "category": "5",
+      "explanation": "M\u00e9gatise sort. indicates that M\u00e9gatise is leaving the stage.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1194",
+      "category": "3",
+      "explanation": "Il est encore battu. describes the character's emotional state.",
+      "stgdir": "Il est encore battu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1195",
+      "category": "12",
+      "explanation": "\u00c0 Risette. indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Risette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1196",
+      "category": "8",
+      "explanation": "Les trompettes et les tambours se font entendre. indicates the name of a tune being played.",
+      "stgdir": "Les trompettes et les tambours se font entendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1197",
+      "category": "8",
+      "explanation": "Air : De Weick. indicates the name of a tune being played.",
+      "stgdir": "Air : De Weick.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1198",
+      "category": "8",
+      "explanation": "Air : Babet que t'es gentille. indicates the name of a tune being played.",
+      "stgdir": "Air : Babet que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1199",
+      "category": "6",
+      "explanation": "Elle entraine Rosa. indicates a non-verbal interaction.",
+      "stgdir": "Elle entraine Rosa.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 54199.02563095093,
+  "model": "mistral-small-latest"
+}

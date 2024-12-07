@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1575",
+      "category": "9",
+      "explanation": "Ce passage d\u00e9crit des sons venant de l'ext\u00e9rieur, ce qui lui donne une qualit\u00e9 narrative, \u00e9voquant des bruits ambiants.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1576",
+      "category": "10",
+      "explanation": "Ce direction implique la manipulation d'un objet, en l'occurrence un sac contenant des bijoux.",
+      "stgdir": "Elle a assembl\u00e9 dans le petit sac tous les bijoux.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1577",
+      "category": "10",
+      "explanation": "Il s'agit de montrer un objet sp\u00e9cifique (un mur) qui a une caract\u00e9ristique de pivot, ce qui d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1578",
+      "category": "8",
+      "explanation": "Le mot 'Air' indique qu'une m\u00e9lodie ou un morceau de musique sera jou\u00e9, ce qui classe cela sous la musique.",
+      "stgdir": "Air : A travers ce flacon brillant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1579",
+      "category": "0",
+      "explanation": "Cette action de continuer \u00e0 lire est une action g\u00e9n\u00e9ral qui ne correspond pas aux autres cat\u00e9gories.",
+      "stgdir": "Continuant \u00e0 lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1580",
+      "category": "10",
+      "explanation": "Cette direction implique l'action de donner de l'argent, ce qui d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il lui donne de l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1581",
+      "category": "11",
+      "explanation": "Cette description concerne l'environnement du th\u00e9\u00e2tre, il s'agit donc d'une description du cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; une habitation est \u00e0 la droite du spectateur ; parmi les arbres qui d\u00e9corent la sc\u00e8ne, on remarque un sumac du Canada, qui doit \u00eatre plus apparent que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1582",
+      "category": "5",
+      "explanation": "Cela indique une sortie de deux personnages, ce qui correspond \u00e0 une action de d\u00e9part.",
+      "stgdir": "L\u00e9andre sort avec Babot.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1583",
+      "category": "9",
+      "explanation": "Cette partie raconte l'intrigue principale de la pi\u00e8ce en d\u00e9tail, ce qui est caract\u00e9ristique de la narration.",
+      "stgdir": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1584",
+      "category": "10",
+      "explanation": "Cette direction indique que quelqu'un rend une lettre, signifiant une interaction avec un objet.",
+      "stgdir": "Elle rend la lettre a Cl\u00e9mentine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1585",
+      "category": "6",
+      "explanation": "Cette action d\u00e9crit un acte non-verbal d'adoration ou d'humilit\u00e9 envers un autre personnage.",
+      "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1586",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le cadre du th\u00e9\u00e2tre, qui est repr\u00e9sent\u00e9 par la maison de Pantalon.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le devant de la maison de Pantalon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1587",
+      "category": "0",
+      "explanation": "Il s'agit d'ouvrir une porte et de lire une carte, ce qui est une action simple mais descriptive.",
+      "stgdir": "Il ouvre la porte et lit attentivement une carte de visite clou\u00e9e \u00e0 l'ext\u00e9rieur.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1588",
+      "category": "12",
+      "explanation": "Cette mention s'adresse directement \u00e0 un personnage, ce qui le classe sous la cat\u00e9gorie 'toward'.",
+      "stgdir": "Au Suisse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1589",
+      "category": "0",
+      "explanation": "Il s'agit d'une continuation d'une action pr\u00e9c\u00e9dente par un personnage, de nature g\u00e9n\u00e9rale.",
+      "stgdir": "Phalante continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1590",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le cadre th\u00e9\u00e2tral, fournissant un aper\u00e7u du lieu de l'action.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'A\u00ebt\u00e8s.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1591",
+      "category": "1",
+      "explanation": "Le fait de jeter une bague \u00e0 terre peut \u00eatre consid\u00e9r\u00e9 comme une forme d'agression symbolique.",
+      "stgdir": "Il jette sa bague \u00e0 terre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1592",
+      "category": "1",
+      "explanation": "Cette direction d\u00e9crit une action de violence, qualifiant cela comme une aggression.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1593",
+      "category": "6",
+      "explanation": "Cette direction implique une interaction non verbale entre deux personnages.",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1594",
+      "category": "12",
+      "explanation": "Cela indique une adresse sp\u00e9cifique \u00e0 Estelle, class\u00e9e sous 'toward'.",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1595",
+      "category": "8",
+      "explanation": "Le terme 'Sc\u00e8nes italiennes' se r\u00e9f\u00e8re \u00e0 une performance musicale ou \u00e0 une pi\u00e8ce musicale.",
+      "stgdir": "Sc\u00e8nes italiennes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1596",
+      "category": "1",
+      "explanation": "Il s'agit d'une description d'un combat ou d'une agression caract\u00e9ris\u00e9e.",
+      "stgdir": "Ils se battent, et Roger ne fait que parer les coups.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1597",
+      "category": "3",
+      "explanation": "Il s'agit d'une action de chanter, ce qui implique une expression musicale.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1598",
+      "category": "6",
+      "explanation": "Cela d\u00e9crit une interaction non verbale entre deux personnages qui se regardent.",
+      "stgdir": "Ils se regardent tous deux avec leurs lunettes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1599",
+      "category": "6",
+      "explanation": "Le fait de vouloir prendre la main d'une autre personne implique une interaction physique.",
+      "stgdir": "Voulant lui prendre la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1600",
+      "category": "3",
+      "explanation": "Ce passage indique que le personnage dit quelque chose \u00e0 voix basse, relevant de l'expression vocale.",
+      "stgdir": "Il dit ces vers tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1601",
+      "category": "0",
+      "explanation": "Cela d\u00e9crit l'observation d'un personnage, class\u00e9 sous l'action g\u00e9n\u00e9rale.",
+      "stgdir": "Apercevant le Lord Houzey et le Marquis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1602",
+      "category": "3",
+      "explanation": "Cela indique que le personnage r\u00e9p\u00e8te souvent quelque chose, en rapport avec l'expression vocale.",
+      "stgdir": "Il r\u00e9it\u00e8re souvent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1603",
+      "category": "8",
+      "explanation": "Cette direction mentionne une chanson, ce qui la classe sous la musique.",
+      "stgdir": "Air : J'aime une jeune Brunette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1604",
+      "category": "4",
+      "explanation": "Cette direction indique qu\u2019un personnage entre sur sc\u00e8ne.",
+      "stgdir": "Louis se l\u00e8ve.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1605",
+      "category": "0",
+      "explanation": "Cela indique une continuit\u00e9 d'action, mais pas au sein des cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Lavinie rentre et Albine continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1606",
+      "category": "0",
+      "explanation": "Cela d\u00e9crit une action g\u00e9n\u00e9rale de retirer quelque chose de sa t\u00eate.",
+      "stgdir": "Elle se met en devoir d'\u00f4ter celui qui est sur sa t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1607",
+      "category": "0",
+      "explanation": "Il s'agit d'une action d'appuyer avec les mains sur son corps, ce qui constitue une action simple.",
+      "stgdir": "Il appuie ses deux mains sur sa poitrine.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1608",
+      "category": "4",
+      "explanation": "Cela indique qu'un personnage entre dans la maison, ce qui est une action d'entr\u00e9e.",
+      "stgdir": "Il entre dans la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1609",
+      "category": "3",
+      "explanation": "Cela indique un chant en choeur, ce qui est une activit\u00e9 musicale collective.",
+      "stgdir": "On reprend le rondeau en choeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1610",
+      "category": "8",
+      "explanation": "Ce mot 'Air' indique \u00e9galement un morceau de musique, le classant dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : On dit que je suis sans malice.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1611",
+      "category": "8",
+      "explanation": "Ceci d\u00e9signe un pr\u00e9lude musical, ce qui le classe comme une musique.",
+      "stgdir": "Pr\u00e9lude.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1612",
+      "category": "10",
+      "explanation": "Tirer une lettre implique une interaction avec un objet.",
+      "stgdir": "Il tire sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1613",
+      "category": "4",
+      "explanation": "Cela montre qu'un personnage entre sur sc\u00e8ne.",
+      "stgdir": "Moli\u00e8re rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1614",
+      "category": "4",
+      "explanation": "Cela indique une entr\u00e9e de personnage sur la sc\u00e8ne.",
+      "stgdir": "Auguste entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1615",
+      "category": "12",
+      "explanation": "Cela indiquer sp\u00e9cifiquement \u00e0 Madame Dangeville, correspondant \u00e0 une adresse.",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1616",
+      "category": "12",
+      "explanation": "Cette mention indique \u00e0 qui s'adresse la parole, ce qui le classe sous 'toward'.",
+      "stgdir": "\u00c0 Atr\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1617",
+      "category": "0",
+      "explanation": "Il s'agit d'une action physique d'embrasser, applicable \u00e0 l'action g\u00e9n\u00e9rale.",
+      "stgdir": "Il rebaise son sein.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1618",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui s'adresse une action, dans ce cas \u00e0 Arzame et \u00e0 un jeune Arz\u00e9mon.",
+      "stgdir": "\u00c0 Arzame et au jeune Arz\u00e9mon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1619",
+      "category": "0",
+      "explanation": "Cela d\u00e9signe une action collective de rire - une r\u00e9ponse humaine g\u00e9n\u00e9rale.",
+      "stgdir": "Rire g\u00e9n\u00e9ral.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1620",
+      "category": "6",
+      "explanation": "Cela signifie que Godard essaye de pousser ou de persuader de fa\u00e7on non verbale.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1621",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui le personnage fait r\u00e9f\u00e9rence, ce qui le classe sous 'toward'.",
+      "stgdir": "Voyant para\u00eetre M De Forlis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1622",
+      "category": "9",
+      "explanation": "Cela d\u00e9crit une sc\u00e8ne avec un appel de voix dans une autre pi\u00e8ce, offrant une qualit\u00e9 narrative.",
+      "stgdir": "On entend dans la Chambre voisine, VA\u00cen\u00e9 qui appelle \u00e0 lui en criant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1623",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui s'adresse le personnage, sp\u00e9cifiquement \u00e0 Rosbif.",
+      "stgdir": "\u00c0 Rosbif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1624",
+      "category": "8",
+      "explanation": "Cela d\u00e9signe un vaudeville, qui est une forme de musique.",
+      "stgdir": "Air : Vaudeville de Claudine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1625",
+      "category": "0",
+      "explanation": "Cela d\u00e9crit une instruction g\u00e9n\u00e9rale \u00e0 appeler des valets, correspondant \u00e0 une action.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1626",
+      "category": "7",
+      "explanation": "Cela indique un mouvement de retraite d\u2019un personnage, ce qui constitue un changement de position.",
+      "stgdir": "Il recule d'un autre c\u00f4t\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1627",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit une place publique, class\u00e9e sous la description de l'environnement.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une Place publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1628",
+      "category": "0",
+      "explanation": "Cela montre que malgr\u00e9 l'entr\u00e9e de Sabine, Dorante continue une action.",
+      "stgdir": "Sabine rentre, et Dorante continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1629",
+      "category": "8",
+      "explanation": "Cette direction indique une musique sp\u00e9cifique, ce qui appartient \u00e0 cette cat\u00e9gorie.",
+      "stgdir": "Air 51 : Branle de Metz retourn\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1630",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui s'adresse le texte, donc cela appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 la petite Befor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1631",
+      "category": "12",
+      "explanation": "Ceci indique que l'adresse est faite \u00e0 Denys.",
+      "stgdir": "\u00c0 Denys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1632",
+      "category": "12",
+      "explanation": "L'indication [\u00c0 tous] montre que l'adresse est g\u00e9n\u00e9rique.",
+      "stgdir": "[\u00c0 tous.]",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1633",
+      "category": "3",
+      "explanation": "Cela implique une mont\u00e9e de voix, qui est classe dans les expressions vocales.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1634",
+      "category": "9",
+      "explanation": "Cette direction donne une impression pr\u00e9cise de ce que font les personnages, avec un r\u00e9cit \u00e9motionnel.",
+      "stgdir": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1635",
+      "category": "8",
+      "explanation": "Ce passage mentionne un 'Air', ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Ne m'entendez-vous pas",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1636",
+      "category": "0",
+      "explanation": "Ceci indique une action d'utiliser une sonnerie, mais dans un contexte g\u00e9n\u00e9ral.",
+      "stgdir": "D'une voix il fait marcher la sonnerie. Carillon chez le ministre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1637",
+      "category": "1",
+      "explanation": "Cette sc\u00e8ne d\u00e9crit une interaction violente entre un paysan et son \u00e2ne, ce qui implique de l'agression.",
+      "stgdir": "Le paysan veut \u00e0 son tour prendre Ninette ; mais l'\u00e2ne, qui s'impatiente, commence \u00e0 sauter et lancer des ruades \u00e0 droite et \u00e0 gauche. Le paysan, pour en \u00e9viter une dans le ventre, se retourne et la re\u00e7oit dans le derri\u00e8re. Ninette, qui, pendant ce d\u00e9bat, n'a cess\u00e9 de crier Maman ! pique son \u00e2ne et se sauve en disant :",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1638",
+      "category": "0",
+      "explanation": "Cela indique un effort pour maintenir un calme, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "En s'effor\u00e7ant de para\u00eetre encore plus calme",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1639",
+      "category": "12",
+      "explanation": "Cela indique une adresse sp\u00e9cifique \u00e0 Raton, class\u00e9e sous 'toward'.",
+      "stgdir": "\u00c0 Raton.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1640",
+      "category": "12",
+      "explanation": "Cela indique une autre adresse, dans ce cas \u00e0 Mignonnet.",
+      "stgdir": "\u00c0 Mignonnet",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1641",
+      "category": "0",
+      "explanation": "Cela d\u00e9crit l'action de deux femmes montant, ce qui appartient \u00e0 la cat\u00e9gorie d'action g\u00e9n\u00e9ral.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1642",
+      "category": "0",
+      "explanation": "Il s'agit d'une action de frapper \u00e0 une porte, ce qui est une action simple.",
+      "stgdir": "Il frappe \u00e0 une autre porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1643",
+      "category": "12",
+      "explanation": "Cela indique une adresse au personnage \u00c9douard, donc appartenant \u00e0 'toward'.",
+      "stgdir": "\u00c0 \u00c9douard.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1644",
+      "category": "9",
+      "explanation": "Cela d\u00e9crit une situation complexe avec des ambassadeurs et leur demande, ce qui a une qualit\u00e9 narrative.",
+      "stgdir": "Au m\u00eame temps les Ambassadeurs de Ritiger redoublent leur demande, mais non pas avec un meilleur succ\u00e8s que la premi\u00e8re fois ; sinon que par une adresse secr\u00e8te ils laissent leur bague dans le Palais de cette Reine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1645",
+      "category": "10",
+      "explanation": "Ceci d\u00e9crit l'action de pr\u00e9senter un objet (bouclier) \u00e0 un autre personnage, ce qui se classe sous l'interaction avec un objet.",
+      "stgdir": "Ubalde pr\u00e9sente le bouclier de diamant aux yeux de Renaud.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1646",
+      "category": "11",
+      "explanation": "Ceci d\u00e9crit le cadre d'un salon, ce qui est une caract\u00e9ristique de la mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon tr\u00e8s orn\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1647",
+      "category": "9",
+      "explanation": "Cette direction indique une pause silencieuse, ayant une qualit\u00e9 narrative.",
+      "stgdir": "Un moment sans rien dire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1648",
+      "category": "8",
+      "explanation": "Cela indique un air sp\u00e9cifique avec le nom donn\u00e9, donc class\u00e9 comme musique.",
+      "stgdir": "AIR. Perrette \u00e9tant dessus l'herbette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1649",
+      "category": "10",
+      "explanation": "Cela d\u00e9crit l'action d'un personnage interagissant avec un encrier, relevant de la manipulation d'objets.",
+      "stgdir": "Il plonge son doigt dans l'encrier.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 28610.309600830078,
+  "model": "gpt-4o-mini"
+}

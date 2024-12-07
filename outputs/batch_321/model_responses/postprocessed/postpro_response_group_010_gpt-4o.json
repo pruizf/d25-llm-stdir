@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "750",
+      "category": "10",
+      "explanation": "La didascalie d\u00e9crit l'action de lancer une cl\u00e9, impliquant donc une interaction avec un objet.",
+      "stgdir": "Lui jetant une clef.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "751",
+      "category": "9",
+      "explanation": "Le mot 'R\u00c9CITATIF' indique une introduction descriptive \u00e0 une partie chant\u00e9e, qui s'adresse aux lecteurs.",
+      "stgdir": "R\u00c9CITATIF, par MONSIEUR LA RUETTE. N\u00b01",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "752",
+      "category": "4",
+      "explanation": "Un personnage entre en sc\u00e8ne, ce qui correspond \u00e0 une entr\u00e9e.",
+      "stgdir": "Un Messager entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "753",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, ce qui tombe sous la cat\u00e9gorie des descriptions de sc\u00e8nes.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un verger, et de chaque c\u00f4te de la sc\u00e8ne, sur le devant, un petit carr\u00e9 de jardin. On voit la maison de Caleb sur la droite, et un berceau d'orangers \u00e0 la porte : le verger est enclos d'une esp\u00e8ce de haie qui a une porte au milieu ; par-del\u00e0 est une cha\u00eene de montagnes : tous les arbres doivent \u00eatre abondamment garnis de fruits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "754",
+      "category": "5",
+      "explanation": "Le personnage Justine sort, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "Justine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "755",
+      "category": "0",
+      "explanation": "La didascalie d\u00e9crit l'action de pr\u00e9parer quelque chose, une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Scapin et Monsieur Dumont pr\u00e9parent tout.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "756",
+      "category": "6",
+      "explanation": "Un personnage montre un autre, une interaction non verbale entre personnages.",
+      "stgdir": "En montrant Bouchet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "757",
+      "category": "0",
+      "explanation": "Le personnage s'assied et \u00e9crit tout en chantant, impliquant une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "758",
+      "category": "0",
+      "explanation": "Bi\u00e8vre ri, ce qui est une action du personnage.",
+      "stgdir": "Bi\u00e8vre rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "759",
+      "category": "1",
+      "explanation": "Il met la main \u00e0 un poignard, sugg\u00e9rant une intention agressive ou mena\u00e7ante.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "760",
+      "category": "0",
+      "explanation": "Il est \u00e0 genoux, une action d\u00e9crivant la position du personnage.",
+      "stgdir": "Il est \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "0",
+      "explanation": "Un fant\u00f4me emporte une \u00e9p\u00e9e, d\u00e9crivant une action avec un objet.",
+      "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "0",
+      "explanation": "Il sonne, d\u00e9crivant une action du personnage.",
+      "stgdir": "Il sonne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit comment le th\u00e9\u00e2tre change pour repr\u00e9senter un autre d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "6",
+      "explanation": "Monsieur Hardouin interagit avec le mantelet de Madame Bertrand de fa\u00e7on non verbale.",
+      "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "6",
+      "explanation": "G\u00e9ronte s'approche de la Dame et interagit avec la cal\u00e8che, indiquant une interaction non verbale.",
+      "stgdir": "G\u00e9ronte s'approcha de la Dame, et lev\u00e9 sa cal\u00e8che.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "0",
+      "explanation": "Il tombe \u00e0 ses pieds, une action du personnage.",
+      "stgdir": "Il tombe \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "7",
+      "explanation": "Il rentre sur la pointe des pieds, indiquant un d\u00e9placement particulier.",
+      "stgdir": "Il rentre sur la pointe des pieds.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "0",
+      "explanation": "Se t\u00e2tant, une action physique du personnage.",
+      "stgdir": "Se t\u00e2tant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "12",
+      "explanation": "Dirig\u00e9 vers Marthon, indiquant le destinataire d'une action ou parole.",
+      "stgdir": "\u00c0 Marthon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "770",
+      "category": "7",
+      "explanation": "Hortense suit d'autres personnages, indiquant un mouvement.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "7",
+      "explanation": "Il part avec Silvia, indiquant un mouvement ou d\u00e9placement.",
+      "stgdir": "Il part avec Silvia.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "8",
+      "explanation": "Il s'agit d'un titre d'air musical, relevant de la cat\u00e9gorie musique.",
+      "stgdir": "Air : Je ne verrai plus ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "773",
+      "category": "12",
+      "explanation": "\u00c0 Madame Patin, indique le destinataire de l'action ou parole.",
+      "stgdir": "\u00c0 Madame Patin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "774",
+      "category": "4",
+      "explanation": "Tartuffe entre, indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Tartuffe entre chez Thalie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "775",
+      "category": "8",
+      "explanation": "Il s'agit d'un titre d'air musical, relevant de la cat\u00e9gorie musique.",
+      "stgdir": "AIR : Quel plaisir de voir Claudine !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "776",
+      "category": "11",
+      "explanation": "Description de la sc\u00e8ne, avec des d\u00e9tails sur ce que les personnages font sur sc\u00e8ne.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "777",
+      "category": "12",
+      "explanation": "\u00c0 Marie, indique le destinataire de l'action ou parole.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "778",
+      "category": "12",
+      "explanation": "\u00c0 Arlequin, indique le destinataire de l'action ou parole.",
+      "stgdir": "\u00c0 Arlequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "779",
+      "category": "0",
+      "explanation": "Ayant l'air de chercher, d\u00e9crivant une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "Ayant l'air de chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "780",
+      "category": "4",
+      "explanation": "Elle entre chez Sylviane, indiquant une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Elle entre chez Sylviane.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "781",
+      "category": "0",
+      "explanation": "Elle se l\u00e8ve, une action de la part du personnage.",
+      "stgdir": "Elle se l\u00e8ve ainsi que Lamblin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "782",
+      "category": "9",
+      "explanation": "On entend des coups \u00e0 la porte d'en bas, un bruit d\u00e9crit dans la narration.",
+      "stgdir": "On entend des coups \u00e0 la porte d'en bas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "783",
+      "category": "9",
+      "explanation": "On chante un cantique, une narration de l'action musicale.",
+      "stgdir": "On chante un cantique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "784",
+      "category": "5",
+      "explanation": "Elle rentre chez elle, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Elle rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "785",
+      "category": "12",
+      "explanation": "Au Noble, indique le destinataire d'une action ou parole.",
+      "stgdir": "Au Noble.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "786",
+      "category": "0",
+      "explanation": "Elle pleure am\u00e8rement, d\u00e9crivant une action du personnage.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "787",
+      "category": "11",
+      "explanation": "Didascalie d\u00e9crivant une arriv\u00e9e et le costume, relevant de la mise en sc\u00e8ne.",
+      "stgdir": "Ce disant, il d\u00e9signe des Urlis qui arrive en costume de N\u00e9arque, un petit chien sur un bras et un bilboquet \u00e0 la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "788",
+      "category": "10",
+      "explanation": "Le Chevalier met dans le chapeau des bijoux et de l'argent, impliquant une interaction avec un objet.",
+      "stgdir": "Le Chevalier met dans le chapeau de Frontin des bijoux et de l'argent.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "789",
+      "category": "12",
+      "explanation": "\u00c0 Sommerset, indique le destinataire de l'action ou parole.",
+      "stgdir": "\u00c0 Sommerset.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "790",
+      "category": "11",
+      "explanation": "Description d\u00e9taill\u00e9e du palais du Soleil, de la cat\u00e9gorie setting.",
+      "stgdir": "Le Soleil parait dans son palais. Ce palais est d'or, compos\u00e9 avec des colonnes torses d'or poli, qui sont rev\u00eatues de branches de Laurier qui les environnent, de couleur naturelle. Les chapiteaux sont d'or fin cisel\u00e9, et les bases des colonnes de m\u00eame mati\u00e8re, aussi bien que la frise et la corniche. Le corps du massif de ce palais est de pierres pr\u00e9cieuses, et tous les pi\u00e9destaux de marbre blanc, au milieu desquels on voit de gros Rubis. Les panneaux sont enrichis de veines d'or sur un fond de lapis. Au-dessus de la Corniche on voit, dans une esp\u00e8ce de petite Attique d'o\u00f9 naissent les cintres, des lires d'or, avec plusieurs ornements\u00a0; et dans le milieu des vo\u00fbtes sont peints de grands Soleils d'or poli, avec quantit\u00e9s d'autres ornements. L'Optique de ce palais est toute transparente, et jette un \u00e9clat qui \u00e9blouit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "6",
+      "explanation": "Il embrasse Rom\u00e9o, une interaction non verbale.",
+      "stgdir": "Il embrasse Rom\u00e9o.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "12",
+      "explanation": "\u00c0 Illo, indique le destinataire de l'action ou parole.",
+      "stgdir": "\u00c0 Illo.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "6",
+      "explanation": "Il embrasse Lisidan, une interaction non verbale.",
+      "stgdir": "Il embrasse Lisidan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "2",
+      "explanation": "\u00c9tant seule, indiquant que le personnage peut s'adresser au public ou se parler \u00e0 elle-m\u00eame.",
+      "stgdir": "\u00c9tant seule.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "6",
+      "explanation": "Retenant Hernani, une interaction physique entre personnages.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "8",
+      "explanation": "Air d'Arlequin afficheur, nom d'un air musical.",
+      "stgdir": "Air d'Arlequin afficheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "5",
+      "explanation": "La toile se baisse, marquant la fin d'une sc\u00e8ne ou section, li\u00e9 \u00e0 une sortie.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "8",
+      "explanation": "Il s'agit d'un titre d'air musical, relevant de la cat\u00e9gorie musique.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "6",
+      "explanation": "Il se jette aux genoux de la Marquise, d\u00e9crivant une interaction physique non verbale.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "800",
+      "category": "7",
+      "explanation": "Marthon se rapproche, indiquant un mouvement vers d'autres personnages.",
+      "stgdir": "Marthon se rapproche ici de Madame Lisban et de Lindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": "0",
+      "explanation": "Lucile continue de regarder, indiquant une action g\u00e9n\u00e9rale.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": "11",
+      "explanation": "Description du d\u00e9cor avec la continuation de l'action dans un lieu sp\u00e9cifique.",
+      "stgdir": "L'action continue dans le salon des prisonniers du Temple.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": "6",
+      "explanation": "Il serre la main du Grand \u00c9crivain, une interaction physique non verbale.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": "0",
+      "explanation": "Pasquariel se transforme et Arlequin engage un combat, d\u00e9crivant une s\u00e9quence d'actions.",
+      "stgdir": "Pasquariel se change en monstre. Arlequin jette son manteau royal, et para\u00eet mont\u00e9 sur un cheval ail\u00e9, combat le monstre, et apr\u00e8s un jeu de culbutes, la sc\u00e8ne finit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": "10",
+      "explanation": "Tirant une clef de sa poche, d\u00e9crivant une interaction avec un objet.",
+      "stgdir": "Tirant une clef de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": "0",
+      "explanation": "Ils se jettent \u00e0 genoux, d\u00e9crivant une action collective.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": "4",
+      "explanation": "ENTR\u00c9E, indiquant l'entr\u00e9e d'un ou plusieurs personnages.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": "8",
+      "explanation": "Il s'agit d'un titre d'air musical, relevant de la cat\u00e9gorie musique.",
+      "stgdir": "Air : Babet, que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": "8",
+      "explanation": "Il s'agit d'un titre d'air musical, relevant de la cat\u00e9gorie musique.",
+      "stgdir": "Air : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "810",
+      "category": "10",
+      "explanation": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte, implique un objet (lettre) et potentiellement une interaction.",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "811",
+      "category": "6",
+      "explanation": "Le lui montrant, d\u00e9crivant une interaction non verbale.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "812",
+      "category": "0",
+      "explanation": "Elle rit, d\u00e9crivant une action du personnage.",
+      "stgdir": "Elle rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "813",
+      "category": "0",
+      "explanation": "Il lit la lettre de Damis, d\u00e9crivant une action du personnage.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "814",
+      "category": "8",
+      "explanation": "Il s'agit d'un titre d'air musical, relevant de la cat\u00e9gorie musique.",
+      "stgdir": "Air : Re\u00e7ois dans ton galetas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "815",
+      "category": "5",
+      "explanation": "Elle part en riant, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "816",
+      "category": "12",
+      "explanation": "\u00c0 Illo et \u00e0 Tersky, indique les destinataires de l'action ou parole.",
+      "stgdir": "\u00c0 Illo et \u00e0 Tersky.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "817",
+      "category": "8",
+      "explanation": "AIR : L'amiti\u00e9 seule te s\u00e9duit, nom d'un air musical.",
+      "stgdir": "AIR : L'amiti\u00e9 seule te s\u00e9duit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "818",
+      "category": "6",
+      "explanation": "La Haine et l'Envie s'embrassent, une interaction physique non verbale.",
+      "stgdir": "La Haine et l'Envie s'embrassent, en rechignant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "819",
+      "category": "10",
+      "explanation": "Il tire un objet de sa poche et l'utilise, une interaction avec un objet.",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "820",
+      "category": "0",
+      "explanation": "Description d'une s\u00e9quence d'actions impliquant plusieurs personnages.",
+      "stgdir": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "0",
+      "explanation": "Regardant les fleurs, indiquant une action du personnage.",
+      "stgdir": "Regardant les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "10",
+      "explanation": "Elle le met \u00e0 son corsage, d\u00e9crivant une action impliquant un objet.",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "0",
+      "explanation": "Elle s'assoit \u00e0 une table, d\u00e9crivant une action du personnage.",
+      "stgdir": "Elle s'asseoit \u00e0 une table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "3",
+      "explanation": "Et comme tout bas, d\u00e9crivant la mani\u00e8re vocale d'interpr\u00e9ter une r\u00e9plique.",
+      "stgdir": "Et comme tout bas.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 37045.191287994385,
+  "model": "gpt-4o"
+}

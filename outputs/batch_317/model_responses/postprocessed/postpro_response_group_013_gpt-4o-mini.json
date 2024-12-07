@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "975",
+      "category": "10",
+      "explanation": "L\u00e9andre jette un objet (la montre) qu'il confond avec un autre (le tabac), ce qui implique une interaction avec un objet.",
+      "stgdir": "L\u00e9andre jette la montre, croyant jeter le tabac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "976",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit une apparition visuelle (Apercevant la Muse du Drame) qui enrichit le d\u00e9cor.",
+      "stgdir": "Apercevant la Muse du Drame.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "977",
+      "category": "10",
+      "explanation": "Tirer un habit de campagne implique une interaction avec un objet, en l'occurrence un v\u00eatement.",
+      "stgdir": "Il tire un habit de campagne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "978",
+      "category": "7",
+      "explanation": "Se rapprocher de Julie indique un mouvement vers un personnage, sans que ce soit une entr\u00e9e ou une sortie.",
+      "stgdir": "Il se rapproche de Julie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "979",
+      "category": "6",
+      "explanation": "L'action de serrer la main est une interaction entre deux personnages.",
+      "stgdir": "Il lui serre la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "980",
+      "category": "10",
+      "explanation": "Durval donne un objet (la montre) \u00e0 quelqu'un, ce qui en fait une interaction avec un objet.",
+      "stgdir": "Durval la lui donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "981",
+      "category": "4",
+      "explanation": "L'entr\u00e9e dans la maison indique qu'un personnage p\u00e9n\u00e8tre une nouvelle sc\u00e8ne.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "982",
+      "category": "1",
+      "explanation": "Tirer un poignard est une action violente qui peut \u00eatre consid\u00e9r\u00e9e comme une menace.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "983",
+      "category": "1",
+      "explanation": "Frappant la Chicanne \u00e9voque un acte d'agression direct.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "984",
+      "category": "6",
+      "explanation": "D\u00e9signer le roi des Ondines implique une interaction non-verbale.",
+      "stgdir": "Il d\u00e9signe le roi des Ondines.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "985",
+      "category": "5",
+      "explanation": "Jacinte sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "986",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit de mani\u00e8re d\u00e9taill\u00e9e le d\u00e9cor de l'acte, pr\u00e9cisant la sc\u00e8ne et ses \u00e9l\u00e9ments.",
+      "stgdir": "D\u00c9CORATION de L'ACTE SECOND. Dans le lointain, deux montagnes, l'une chauve, l'autre d'une belle verdure, et laissant \u00e9chapper une source du sommet. Entre elles, le fleuve Ohio tombe avec bruit d'une cascade effrayante. Un pont de lianes \u00e9lastiques, joint au-dessus les deux montagnes. Au pied de l'Ohio, quelques pirogues : ce fleuve couvre la plaine et borde le fonds du Th\u00e9\u00e2tre, qui est en gazon. \u00c0 la droite du fleuve, a mi-coteau, une cabane appuy\u00e9e contre un rocher qui pose sur une pointe \u00e0 terre ; sa partie sup\u00e9rieure \u00e9vas\u00e9e, sert de cuvette \u00e0 un ruisseau qui se pr\u00e9cipite dans l'Ohio. Pr\u00e8s de l'avant-sc\u00e8ne, une statue du Mars des Am\u00e9ricains, d'Areski sur un pi\u00e9destal orn\u00e9 de pelleteries. \u00c0 la gauche plus recul\u00e9, le tombeau d'Artamon en gazon et orn\u00e9 de fleurs ; le troph\u00e9e de ses armes sur le dessus ; et au c\u00f4t\u00e9, une large pierre grav\u00e9e d'hi\u00e9roglyphes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "987",
+      "category": "4",
+      "explanation": "Ils entent tous les deux indique leur arriv\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Ils entrent tous les deux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "988",
+      "category": "7",
+      "explanation": "\u00c0 sa suite indique un mouvement vers un autre personnage.",
+      "stgdir": "\u00c0 sa suite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "989",
+      "category": "7",
+      "explanation": "Il va pour s'en aller indique un mouvement qui n'est pas encore une sortie.",
+      "stgdir": "Il va pour s'en aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "990",
+      "category": "11",
+      "explanation": "Cette description du th\u00e9\u00e2tre enrichit l'environnement sc\u00e9nique.",
+      "stgdir": "Ils prennent tous place, et ils ne sont pas plut\u00f4t assis, qu'on fait rouler vers eux un Th\u00e9\u00e2tre dont le devant est orn\u00e9 d'un fort beau tapis o\u00f9 pend une tr\u00e8s riche campane. Ce th\u00e9\u00e2tre repr\u00e9sente une chambre. Au-devant des deux premiers pilastres qui sont de chaque c\u00f4t\u00e9, il y a deux gu\u00e9ridons faits en Maures, portant chacun une girandole. Au-dessus de la corniche de ces pilastres qui sont fort enrichis, on voit deux corbeilles de fleurs. La frise qui r\u00e8gne sur la fa\u00e7ade, repr\u00e9sente deux grandes Consoles d'or, avec des festons de fleurs qui ceignent le fronton\u00a0; et entre les deux consoles il y a un Rond orn\u00e9 d'une Bordure dor\u00e9e, dans lequel on voit une m\u00e9daille. La suite de la chambre est enrichie d'arcades, de pilastres, de panneaux remplis d'ornements diff\u00e9rents, de coloris, de festons de fleurs, de porcelaines, de vases d'or, d'argent et de lapis, et d'ovales perc\u00e9es \u00e0 jour. Dans cinq arcades ou niches, qui sont d'azur rehauss\u00e9 d'or, on voit cinq Statues toutes d'or, repr\u00e9sentant des Amours\u00a0; et dans le fond de la chambre il y a encore deux gu\u00e9ridons comme les premiers, garnis pareillement de Girandoles. De fort riches ornements en embellissent le plafond\u00a0; il est perc\u00e9 en cinq endroits, d'o\u00f9 sortent cinq lustres. Plusieurs esclaves magnifiquement v\u00eatus marchent au-devant de ce th\u00e9\u00e2tre, et semble le conduire quand il s'avance.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "991",
+      "category": "8",
+      "explanation": "Il s'agit d'une mention de musique, d\u00e9signant un air sp\u00e9cifique.",
+      "stgdir": "AIR de Pr\u00e9ville et Taconnet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "992",
+      "category": "1",
+      "explanation": "Cette action implique une menace avec un pistolet, ce qui est agressif.",
+      "stgdir": "Parth\u00e9nice interrompt la musique et porte un pistolet \u00e0 la gorge de Floridan.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "993",
+      "category": "8",
+      "explanation": "Cette mention d'air indication r\u00e9f\u00e9rence musicale, mais ne d\u00e9crit pas un personnage chantant.",
+      "stgdir": "Air : Tarare ponpon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "994",
+      "category": "3",
+      "explanation": "Apr\u00e8s une h\u00e9sitation indique un moment d'ind\u00e9cision, \u00e9motionnellement charg\u00e9.",
+      "stgdir": "Apr\u00e8s une h\u00e9sitation.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "995",
+      "category": "6",
+      "explanation": "Embrasser le p\u00e8re est une interaction physique entre deux personnages.",
+      "stgdir": "Elle va \u00e0 son p\u00e8re et l'embrasse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "996",
+      "category": "0",
+      "explanation": "Frappant contre le mur est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il frappe contre le mur.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "997",
+      "category": "3",
+      "explanation": "Air mentionn\u00e9, indique le ton et l'intention derri\u00e8re la voix.",
+      "stgdir": "Air : J'aime ce mot de gentillesse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "998",
+      "category": "9",
+      "explanation": "Cette direction se concentre sur une narration des actions et sentiments des personnages.",
+      "stgdir": "On fait remarquer \u00e0 Monsieur de Saint-Yves dans quelle affreuse situation le parti qu'il vient de prendre plonge un jeune amoureux, qui, m\u00e9connaissant les usages, les moeurs du pays qu'il habite, n'a d'autres torts que ceux d'une \u00e2me br\u00fblante. Monsieur de Kerkabon ajoute que si son neveu a la t\u00eate un peu exalt\u00e9e, en revanche il poss\u00e8de un coeur excellent ; qu'il est vaillant, honn\u00eate, plein de franchise.... enfin, qu'il m\u00e9rite d'\u00eatre trait\u00e9 avec moins de rigueur. En achevant ces mots, il presse son ami dans ses bras ; la bonne tante imite son fr\u00e8re. Monsieur de Saint-Yves, d'abord inexorable, commence \u00e0 s'attendrir... On entend sonner l'alarme dans l'int\u00e9rieur du couvent. Le jeune Kerkabon, r\u00e9duit au d\u00e9sespoir, a form\u00e9 le dessein d'en lever sa maitresse. On l'a vu, pendant la sc\u00e8ne pr\u00e9c\u00e9dente, traverser le th\u00e9\u00e2tre, une hache \u00e0 la main, et escalader les murs du couvent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "999",
+      "category": "7",
+      "explanation": "Elle tourne les yeux est un mouvement qui appelle l'attention vers un point.",
+      "stgdir": "Elle tourne les yeux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1000",
+      "category": "12",
+      "explanation": "\u00c0 Idamir indique \u00e0 qui s'adresse un personnage.",
+      "stgdir": "\u00c0 Idamir.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1001",
+      "category": "5",
+      "explanation": "Elle s'en va est une sortie de sc\u00e8ne.",
+      "stgdir": "Elle s'en va avec Henriette.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1002",
+      "category": "10",
+      "explanation": "Mettre une perruque implique une manipulation d'objet.",
+      "stgdir": "Il met sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1003",
+      "category": "8",
+      "explanation": "AIR mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "AIR Le bruit des ar~c~.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1004",
+      "category": "8",
+      "explanation": "Troisi\u00e8me couplet aussi fait r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "Troisi\u00e8me couplet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1005",
+      "category": "12",
+      "explanation": "\u00c0 Abramane indique le destinataire d'une adresse.",
+      "stgdir": "\u00c0 Abramane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1006",
+      "category": "3",
+      "explanation": "Le Mufti chante, indiquant l'expression vocale.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1007",
+      "category": "8",
+      "explanation": "Air mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "Air. Un inconnu pour vos charmes soupire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1008",
+      "category": "10",
+      "explanation": "Ouvrir le secr\u00e9taire implique une interaction avec un objet.",
+      "stgdir": "Elle ouvre le secr\u00e9taire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1009",
+      "category": "3",
+      "explanation": "AIR mentionn\u00e9 indique une musique ou une expression vocale.",
+      "stgdir": "AIR : Oh ! Que nenni.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1010",
+      "category": "0",
+      "explanation": "Frappant sur la table est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Frappant sur la table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1011",
+      "category": "12",
+      "explanation": "\u00c0 Thalie indique le destinataire d'une adresse.",
+      "stgdir": "\u00c0 Thalie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1012",
+      "category": "6",
+      "explanation": "Serrer les mains est une interaction entre deux personnages.",
+      "stgdir": "Lui serrant les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1013",
+      "category": "8",
+      "explanation": "AIR mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "AIR. Les filles de Montpellier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1014",
+      "category": "8",
+      "explanation": "Sur l'air indique une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "Sur l'air : Des rues.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1015",
+      "category": "8",
+      "explanation": "AIR mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "AIR 110. ( Quitte ta houlette. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1016",
+      "category": "5",
+      "explanation": "Sortir en faisant une r\u00e9v\u00e9rence est une sortie de sc\u00e8ne.",
+      "stgdir": "Elle sort en lui faisant la r\u00e9v\u00e9rence.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1017",
+      "category": "10",
+      "explanation": "Laisser tomber une lettre implique une interaction avec un objet.",
+      "stgdir": "Il laisse tomber sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1018",
+      "category": "10",
+      "explanation": "Donner une lettre est une interaction avec un objet.",
+      "stgdir": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1019",
+      "category": "8",
+      "explanation": "Air mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "Air : V de la famille extravagante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1020",
+      "category": "12",
+      "explanation": "\u00c0 Clim\u00e8ne indique le destinataire d'une adresse.",
+      "stgdir": "Blondel feint de prendre *B\u00e9atrix pour son petit gar\u00e7on, Antonio l'emm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1021",
+      "category": "6",
+      "explanation": "Interrogeant Zinca est une interaction entre personnages.",
+      "stgdir": "\u00c0 Clim\u00e8ne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1022",
+      "category": "11",
+      "explanation": "La transformation du th\u00e9\u00e2tre indique une mise en sc\u00e8ne.",
+      "stgdir": "Il interroge Zinca.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1023",
+      "category": "3",
+      "explanation": "Chanter sur un air ridicule concerne l'expression vocale.",
+      "stgdir": "Le th\u00e9\u00e2tre se change et repr\u00e9sente l'appartement d'Isabelle, on y voit un lit tout garni.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1024",
+      "category": "12",
+      "explanation": "\u00c0 Cendrillon indique le destinataire d'une adresse.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1025",
+      "category": "7",
+      "explanation": "Revenant \u00e0 un personnage indique un mouvement vers o\u00f9 ce personnage se situe.",
+      "stgdir": "\u00c0 Cendrillon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1026",
+      "category": "5",
+      "explanation": "Sortir tous indique une sortie de sc\u00e8ne pour plusieurs personnages.",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1027",
+      "category": "7",
+      "explanation": "Dresser brusquement indique un mouvement soudain.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1028",
+      "category": "8",
+      "explanation": "AIR mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "Se dressant brusquement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1029",
+      "category": "7",
+      "explanation": "Voulant faire un pas implique un mouvement.",
+      "stgdir": "Air : R\u00e9veillez-vous.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1030",
+      "category": "1",
+      "explanation": "L'action de lever un poignard indique une menace, donc une aggression.",
+      "stgdir": "Il veut faire un pas. Do\u00f1a Sol l\u00e8ve le poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1031",
+      "category": "4",
+      "explanation": "Entrent deux personnages indique leur arriv\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1032",
+      "category": "12",
+      "explanation": "\u00c0 Champagne indique le destinataire d'une adresse.",
+      "stgdir": "\u00c0 Champagne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1033",
+      "category": "8",
+      "explanation": "AIR mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "AIR Patapan.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1034",
+      "category": "6",
+      "explanation": "Baiser la main de la Comtesse est une interaction entre deux personnages.",
+      "stgdir": "Dorante baise la main de la Comtesse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1035",
+      "category": "12",
+      "explanation": "\u00c0 Henri indique le destinataire d'une adresse.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1036",
+      "category": "10",
+      "explanation": "Prendre une bo\u00eete d'allumettes implique une interaction avec un objet.",
+      "stgdir": "Il prend dans le gousset de son gilet une boite d'allumettes bougies.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1037",
+      "category": "3",
+      "explanation": "Changer de ton et supplier concerne l'expression vocale.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1038",
+      "category": "4",
+      "explanation": "Appara\u00eetre indique une entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Gr\u00e9goire para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1039",
+      "category": "1",
+      "explanation": "Se jeter entre le fr\u00e8re et la s\u0153ur pour s\u00e9parer \u00e9voque une action d'agression.",
+      "stgdir": "Comme il les voit se battre, tout bless\u00e9 il se jette entre le fr\u00e8re et la soeur pour les s\u00e9parer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1040",
+      "category": "10",
+      "explanation": "Donner de l'argent et prendre des chansons impliquent une interaction avec des objets.",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1041",
+      "category": "12",
+      "explanation": "\u00c0 Gaston indique le destinataire d'une adresse.",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1042",
+      "category": "12",
+      "explanation": "\u00c0 Villebrequin indique le destinataire d'une adresse.",
+      "stgdir": "\u00c0 Villebrequin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1043",
+      "category": "6",
+      "explanation": "Retourner \u00e0 leur place est une interaction entre le personnage et son emplacement.",
+      "stgdir": "Elles retournent \u00e0 leur place.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1044",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit une sc\u00e8ne mythologique, apportant un embellissement au d\u00e9cor.",
+      "stgdir": "Apollon descend sur un tr\u00f4ne de lumi\u00e8re. Cette pompe est jointe \u00e0 une musique douce. Il est entour\u00e9 des Heures, qui chantent ces mots.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1045",
+      "category": "8",
+      "explanation": "AIR mentionn\u00e9 se r\u00e9f\u00e8re \u00e0 une musique ou un air sp\u00e9cifique.",
+      "stgdir": "AIR. Mon Papa toute la nuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1046",
+      "category": "11",
+      "explanation": "D\u00e9crire le lieu 'Chez la marquise' enrichit le cadre o\u00f9 l'action se passe.",
+      "stgdir": "Chez la marquise.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1047",
+      "category": "10",
+      "explanation": "Ouvrir indique une interaction avec un objet.",
+      "stgdir": "Il l'ouvre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1048",
+      "category": "1",
+      "explanation": "Tirer son \u00e9p\u00e9e est une action violente qui indique une menace.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1049",
+      "category": "10",
+      "explanation": "Billet d'Alcipe \u00e0 L\u00e9andre est une mention d'un objet qui est pertinent pour les personnages.",
+      "stgdir": "Billet d'Alcipe \u00e0 L\u00e9andre.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 28117.63882637024,
+  "model": "gpt-4o-mini"
+}

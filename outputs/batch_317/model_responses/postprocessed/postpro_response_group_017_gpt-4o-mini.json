@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1275",
+      "category": "0",
+      "explanation": "L'expression 'Aux l\u00e9vites' sugg\u00e8re une action g\u00e9n\u00e9ralis\u00e9e sans action sp\u00e9cifique, donc class\u00e9e comme action.",
+      "stgdir": "Aux l\u00e9vites.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1276",
+      "category": "10",
+      "explanation": "Il s'agit d'une lettre, un objet que le personnage interagit potentiellement avec, donc class\u00e9 comme objet.",
+      "stgdir": "LETTRE AU BRAVE Don CARLOS.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1277",
+      "category": "6",
+      "explanation": "Cette direction d\u00e9crit une interaction non verbale o\u00f9 Colombinette embrasse passivement, donc class\u00e9e comme interaction.",
+      "stgdir": "Colombinette n'ose protester et l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1278",
+      "category": "6",
+      "explanation": "Genevi\u00e8ve rend l'acte d'embrasser, repr\u00e9sentant une interaction non verbale entre personnages.",
+      "stgdir": "Genevi\u00e8ve le lui rend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1279",
+      "category": "5",
+      "explanation": "Les gens sortent, ce qui indique leur sortie de la sc\u00e8ne, class\u00e9e donc comme exit.",
+      "stgdir": "Les gens sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1280",
+      "category": "0",
+      "explanation": "Les valets suspendent des dominos, ce qui est une action g\u00e9n\u00e9rale m\u00eame si elle pourrait \u00eatre interpr\u00e9t\u00e9e comme un mouvement.",
+      "stgdir": "Des valets suspendent des dominos aux crois\u00e9es.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1281",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui l'action ou le discours est adress\u00e9, donc class\u00e9 comme toward.",
+      "stgdir": "\u00c0 son a\u00een\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1282",
+      "category": "6",
+      "explanation": "Les personnages tendent la main pour prendre l'argent, ce qui est une interaction non verbale.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1283",
+      "category": "9",
+      "explanation": "Cette direction d\u00e9crit une c\u00e9r\u00e9monie avec une narration assez longue sur l'\u00e9v\u00e9nement, donc class\u00e9e comme narration.",
+      "stgdir": "C'est une c\u00e9r\u00e9monie burlesque d'un homme qu'on fait m\u00e9decin en r\u00e9cit, chant, et danse. Plusieurs tapissiers viennent pr\u00e9parer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assembl\u00e9e, compos\u00e9e de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir m\u00e9decin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1284",
+      "category": "8",
+      "explanation": "Il s'agit d'une direction de musique, car cela indique le nom d'un air.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1285",
+      "category": "11",
+      "explanation": "Description d'un d\u00e9cor th\u00e9\u00e2tral, ce qui rel\u00e8ve de la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1286",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui l'action ou le discours est destin\u00e9, class\u00e9e donc comme toward.",
+      "stgdir": "Au Cadet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1287",
+      "category": "6",
+      "explanation": "Indique un geste de d\u00e9signation vers la table, repr\u00e9sentant une interaction non verbale.",
+      "stgdir": "Lui d\u00e9signant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1288",
+      "category": "10",
+      "explanation": "Elle pr\u00e9sente un miroir, donc il s'agit d'une interaction avec un objet.",
+      "stgdir": "Elle lui pr\u00e9sente un petit miroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1289",
+      "category": "0",
+      "explanation": "Cette action indique une tentative de r\u00e9cup\u00e9ration ou d'\u00e9quilibre, class\u00e9e comme action.",
+      "stgdir": "Se rattrapant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1290",
+      "category": "0",
+      "explanation": "Apr\u00e8s avoir bu, cela indique une action g\u00e9n\u00e9ralis\u00e9e qui ne rentre dans aucune autre cat\u00e9gorie.",
+      "stgdir": "Apr\u00e8s avoir bu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1291",
+      "category": "4",
+      "explanation": "Indique que des personnages entrent sur sc\u00e8ne, donc class\u00e9e comme entrance.",
+      "stgdir": "Ils entrent en sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1292",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse l'action ou le discours, class\u00e9e donc comme toward.",
+      "stgdir": "\u00c0 M\u00e9gabise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1293",
+      "category": "0",
+      "explanation": "Elle l\u00e8ve la t\u00eate, ce qui est une action g\u00e9n\u00e9ralis\u00e9e d\u00e9crivant un mouvement.",
+      "stgdir": "Elle l\u00e8ve la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1294",
+      "category": "9",
+      "explanation": "Cette direction est une narration longue qui d\u00e9crit une sc\u00e8ne et son contexte.",
+      "stgdir": "D\u00c9CORATION DU PROLOGUE. L'heureux mariage de Sa Majest\u00e9, et la paix qu'il lui a pu donner \u00e0 ses peuples, ayant \u00e9t\u00e9 les motifs de la r\u00e9jouissance publique pour laquelle cette trag\u00e9die a \u00e9t\u00e9 pr\u00e9par\u00e9e, non seulement il \u00e9tait juste qu'ils servissent de sujet au prologue qui la pr\u00e9c\u00e8de, mais il \u00e9tait m\u00eame absolument impossible d'en choisir une plus illustre mati\u00e8re. L'ouverture du th\u00e9\u00e2tre fait voir un pays ruin\u00e9 par les guerres, et termin\u00e9 dans son enfoncement par une ville qui n'en est pas mieux trait\u00e9e, ce qui marque le pitoyable \u00e9tat ou la France \u00e9tait r\u00e9duite avant cette faveur du ciel, qu'elle a si longtemps souhait\u00e9e, et dont la bont\u00e9 de son g\u00e9n\u00e9reux monarque la fait jouir \u00e0 pr\u00e9sent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1295",
+      "category": "10",
+      "explanation": "Il s'agit d'un billet, une interaction avec un objet.",
+      "stgdir": "Elle lui donne un billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1296",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui l'action ou le discours est destin\u00e9, class\u00e9e donc comme toward.",
+      "stgdir": "\u00c0 LISANDRE.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1297",
+      "category": "6",
+      "explanation": "Il lui pose une cha\u00eene sur le cou, ce qui est une forme d'interaction physique.",
+      "stgdir": "Il lui pose sa cha\u00eene sur le cou.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1298",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication de musique, car cela indiquerait le nom d'un air.",
+      "stgdir": "Air 5 : Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1299",
+      "category": "8",
+      "explanation": "On entend une symphonie, ce qui fait r\u00e9f\u00e9rence \u00e0 la musique et class\u00e9e en tant que telle.",
+      "stgdir": "on entand une symphonie qui \u00e9clate",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1300",
+      "category": "0",
+      "explanation": "Il lui ferme la fen\u00eatre, action neutre qui s'inscrit dans la cat\u00e9gorie action.",
+      "stgdir": "Il lui ferme aussi la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1301",
+      "category": "5",
+      "explanation": "Sunnon sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Sunnon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1302",
+      "category": "4",
+      "explanation": "Indique un retour sur sc\u00e8ne, ce qui rel\u00e8ve d'une entr\u00e9e.",
+      "stgdir": "Il revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1303",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication musicale, car c'est le nom d'un air.",
+      "stgdir": "AIR : De la Fricass\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1304",
+      "category": "0",
+      "explanation": "Beronte heurte chez Ragonde, sugg\u00e9rant une action g\u00e9n\u00e9rale.",
+      "stgdir": "Beronte heurte chez Ragonde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1305",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication musicale, car cela indique qu'une ouverture est jou\u00e9e.",
+      "stgdir": "On joue l'ouverture.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1306",
+      "category": "10",
+      "explanation": "Il prend la lettre, ce qui est une interaction avec un objet.",
+      "stgdir": "Il prend la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1307",
+      "category": "11",
+      "explanation": "Description du d\u00e9cor th\u00e9\u00e2tral, class\u00e9e dans la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une \u00eele.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1308",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication musicale avec le nom d'un air.",
+      "stgdir": "Air : Tique, tique, taque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1309",
+      "category": "0",
+      "explanation": "L'action de voir venir G\u00e9ronte est une action g\u00e9n\u00e9ralis\u00e9e donc class\u00e9e comme action.",
+      "stgdir": "Voyant venir G\u00e9ronte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1310",
+      "category": "5",
+      "explanation": "Le Baron sort, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Le Baron sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1311",
+      "category": "5",
+      "explanation": "Elle rentre dans le ch\u00e2teau, ce qui indique \u00e9galement une sortie.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1312",
+      "category": "0",
+      "explanation": "L'action de voir approcher Gustave est d\u00e9crite comme une action neutre.",
+      "stgdir": "Voyant approcher Gustave.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1313",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication musicale avec une r\u00e9f\u00e9rence \u00e0 un air sp\u00e9cifique.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1314",
+      "category": "8",
+      "explanation": "Il s'agit d'une direction musicale, car cela indique un air sp\u00e9cifique.",
+      "stgdir": "Air : Babet que t'es gentille !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1315",
+      "category": "0",
+      "explanation": "Montval, lit - une action g\u00e9n\u00e9rale ou une posture passive.",
+      "stgdir": "Montval, lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1316",
+      "category": "5",
+      "explanation": "Elle sort avec Octave, cela d\u00e9finit une action de sortie.",
+      "stgdir": "Elle sort avec Octave.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1317",
+      "category": "6",
+      "explanation": "Il lui serre le bout des doigts, ce qui indique une interaction physique non verbale.",
+      "stgdir": "Il lui serre le bout des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1318",
+      "category": "0",
+      "explanation": "Montrant sa bague - cela s'\u00e9l\u00e8ve \u00e0 une action sans \u00eatre verbale.",
+      "stgdir": "Montrant sa bague.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1319",
+      "category": "0",
+      "explanation": "Il fait un pas pour s'en aller, cela reste une action de mouvement.",
+      "stgdir": "Il fait un pas pour s'en aller et revient toujours.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1320",
+      "category": "6",
+      "explanation": "Ph\u00e9nice frappe sur l'\u00e9paule, indiquant une forme d'interaction non verbale.",
+      "stgdir": "Ph\u00e9nice lui frappe sur l'\u00e9paule.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1321",
+      "category": "0",
+      "explanation": "Indique une lutte pour se redresser, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1322",
+      "category": "9",
+      "explanation": "Trigger une narration avec diff\u00e9rents \u00e9tats \u00e9motionnels des personnages et une description d\u00e9taill\u00e9e de l\u2019environnement.",
+      "stgdir": "Maurice ne dit pas ces mots pour la flatter, car, depuis un instant, il ne l'\u00e9coute plus. Il \u00e9coute des feuilles qui semblent r\u00e9gler leur froissement sur sa marche. Elles se taisent quand il s'arr\u00eate, et quand il repart, aussit\u00f4t elles craquent. C'est s\u00fbr que quelqu'un de mal intentionn\u00e9 suit le couple \u00e0 travers les arbres, en se cachant. Et Blanche qui, tout \u00e0 l'heure, s'effrayait sans raison, parle haut maintenant, laisse \u00e9clater une joie innocente, ne soup\u00e7onne rien et gourmande Maurice.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1323",
+      "category": "5",
+      "explanation": "L\u00e9onor et Marine se retirent, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1324",
+      "category": "5",
+      "explanation": "Indique qu'il va sortir, donc class\u00e9 comme exit.",
+      "stgdir": "Il va pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1325",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui l'action ou le discours est adress\u00e9.",
+      "stgdir": "\u00c0 Bi\u00e8vre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1326",
+      "category": "10",
+      "explanation": "Elle prend la pomme, repr\u00e9sentant une interaction avec un objet.",
+      "stgdir": "Elle prend la pomme des mains du Normand.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1327",
+      "category": "5",
+      "explanation": "Monsieur Mathieu sort, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1328",
+      "category": "6",
+      "explanation": "Ils m\u00ealent leurs mains, repr\u00e9sentant une interaction physique.",
+      "stgdir": "Ils m\u00ealent leurs mains l'une dans l'autre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1329",
+      "category": "5",
+      "explanation": "Il dispara\u00eet enti\u00e8rement, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1330",
+      "category": "0",
+      "explanation": "On entend la voix de Monsieur Desgranges, sugg\u00e9rant une action ou un mouvement auditif.",
+      "stgdir": "On entend la voix de Monsieur Desgranges.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1331",
+      "category": "8",
+      "explanation": "Indication musicale sur un air sp\u00e9cifique.",
+      "stgdir": "Air : Vous m'entendez bien.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1332",
+      "category": "6",
+      "explanation": "Il lui prend un bras qui retombe, indiquant une interaction physique.",
+      "stgdir": "Il lui prend un bras qui retombe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1333",
+      "category": "0",
+      "explanation": "Aux Chouans pourrait \u00eatre une action g\u00e9n\u00e9rale sans contexte suppl\u00e9mentaire, donc class\u00e9e comme action.",
+      "stgdir": "Aux Chouans.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1334",
+      "category": "10",
+      "explanation": "Cela indique une interaction avec un objet, le billet.",
+      "stgdir": "Prenant le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1335",
+      "category": "5",
+      "explanation": "Les fen\u00eatres se ferment, indiquant une action de sortie.",
+      "stgdir": "Les fen\u00eatres se ferment, et on entend au dehors le bruit de plusieurs verrous.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1336",
+      "category": "8",
+      "explanation": "Cela indique un acte de chant \u00e0 reprendre, ce qui est de la musique.",
+      "stgdir": "Reprenant le chant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1337",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui le discours est adress\u00e9.",
+      "stgdir": "Elle lui dit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1338",
+      "category": "11",
+      "explanation": "Description d'une chambre d'h\u00f4tel, class\u00e9e dans la cat\u00e9gorie setting.",
+      "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1339",
+      "category": "8",
+      "explanation": "Cela indique de la musique en lien avec un air sp\u00e9cifique.",
+      "stgdir": "AIR : De l'Horoscope accompli.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1340",
+      "category": "4",
+      "explanation": "Cl\u00e9onte et Croquet restent dans une all\u00e9e, d\u00e9finissant une situation d'entr\u00e9e.",
+      "stgdir": "Cl\u00e9onte et Croquet restent dans une all\u00e9e du Th\u00e9\u00e2tre et Albert met Isabelle dehors, et enferme Clarice.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1341",
+      "category": "0",
+      "explanation": "Indications adress\u00e9es aux mages sans action verbale ni mouvement clair.",
+      "stgdir": "Aux mages.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1342",
+      "category": "0",
+      "explanation": "Il se retire promptement, une action indicatrice sans sortie claire.",
+      "stgdir": "Il se retire promptement, sort son mouchoir, et y confie l'esp\u00e9rance de la branche ain\u00e9e des comtes de Catso di Coulo.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1343",
+      "category": "5",
+      "explanation": "Beno\u00eet sort, indiquant une sortie de sc\u00e8ne.",
+      "stgdir": "Beno\u00eet sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1344",
+      "category": "0",
+      "explanation": "Elle continue, une action vague ne relevant d'aucune autre cat\u00e9gorie.",
+      "stgdir": "Elle continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1345",
+      "category": "10",
+      "explanation": "Indique une interaction avec un objet, montrant le sac.",
+      "stgdir": "En montrant le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1346",
+      "category": "5",
+      "explanation": "Armide s'en va, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Armide s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1347",
+      "category": "0",
+      "explanation": "Elle se heurte encore, une action qui pourrait \u00eatre per\u00e7ue comme une tentative de mouvement.",
+      "stgdir": "Elle se heurte encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1348",
+      "category": "0",
+      "explanation": "Touchant son gousset, cela repr\u00e9sente une action g\u00e9n\u00e9rale sans contexte.",
+      "stgdir": "Touchant son gousset.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1349",
+      "category": "11",
+      "explanation": "Description d'un cadre, une place publique, entrant dans la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une place publique.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 31887.645483016968,
+  "model": "gpt-4o-mini"
+}

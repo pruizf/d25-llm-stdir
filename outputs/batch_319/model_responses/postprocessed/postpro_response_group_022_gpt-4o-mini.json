@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1650",
+      "category": "6",
+      "explanation": "Il lui parle \u00e0 l'oreille implique une interaction non verbale o\u00f9 les personnages se touchent ou se rapprochent.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1651",
+      "category": "4",
+      "explanation": "Apercevant d'Herbain sugg\u00e8re l'entr\u00e9e de ce personnage sur la sc\u00e8ne.",
+      "stgdir": "Apercevant d'Herbain.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1652",
+      "category": "6",
+      "explanation": "Il lui baise les mains indique une interaction affectueuse entre les personnages.",
+      "stgdir": "Il lui baise les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1653",
+      "category": "5",
+      "explanation": "Germon sort indique que ce personnage quitte la sc\u00e8ne.",
+      "stgdir": "Germon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1654",
+      "category": "10",
+      "explanation": "Elle lui montre un coeur de diamant d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Elle lui montre un coeur de diamant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1655",
+      "category": "4",
+      "explanation": "La chambre de C\u00e9sar s'ouvre sugg\u00e8re l'entr\u00e9e d'un espace ou d'un lieu.",
+      "stgdir": "La chambre de C\u00e9sar s'ouvre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1656",
+      "category": "9",
+      "explanation": "C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers raconte des \u00e9v\u00e9nements de mani\u00e8re narrative.",
+      "stgdir": "C\u00e9r\u00e9monies qui s'observaient \u00e0 la R\u00e9ception des Chevaliers.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1657",
+      "category": "7",
+      "explanation": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse sugg\u00e8re un mouvement physique clair, sans entr\u00e9e ou sortie.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1658",
+      "category": "8",
+      "explanation": "AIR. S\u00fbre de ta foi indique une chanson ou une musique pr\u00e9sente dans la pi\u00e8ce.",
+      "stgdir": "AIR. S\u00fbre de ta foi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1659",
+      "category": "8",
+      "explanation": "Air 75 : Un petit moment plus tard mentionne \u00e9galement une musique, correspondant \u00e0 la cat\u00e9gorie de musique.",
+      "stgdir": "Air 75 : Un petit moment plus tard.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1660",
+      "category": "12",
+      "explanation": "\u00c0 la foule indique vers qui ou \u00e0 qui un personnage s'adresse.",
+      "stgdir": "\u00c0 la foule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1661",
+      "category": "12",
+      "explanation": "\u00c0 Ninias indique le destinataire de l'action, donc fait partie de la cat\u00e9gorie envers.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1662",
+      "category": "12",
+      "explanation": "\u00c0 Beno\u00eet indique \u00e9galement le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Beno\u00eet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1663",
+      "category": "8",
+      "explanation": "AIR : Ne m'entendez-vous pas mentionne une composante musicale.",
+      "stgdir": "AIR : Ne m'entendez-vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1664",
+      "category": "0",
+      "explanation": "Don Juan demande \u00e0 boire repr\u00e9sente une action sans autre sp\u00e9cification.",
+      "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1665",
+      "category": "12",
+      "explanation": "\u00c0 madame B\u00e9verlei montre le destinataire de l'interaction.",
+      "stgdir": "\u00c0 madame B\u00e9verlei.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1666",
+      "category": "8",
+      "explanation": "Air de la Clef des champs (Deff\u00e8s) fait r\u00e9f\u00e9rence \u00e0 une musique.",
+      "stgdir": "Air de la Clef des champs (Deff\u00e8s)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1667",
+      "category": "6",
+      "explanation": "Lui tendant la main : montre de l'interaction non verbale.",
+      "stgdir": "Lui tendant la main :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1668",
+      "category": "7",
+      "explanation": "Il va se cacher derri\u00e8re L\u00e9andre implique un mouvement vers une direction particuli\u00e8re.",
+      "stgdir": "Il va se cacher derri\u00e8re L\u00e9andre. Pierrot fait signe \u00e0 Arlequin de s'approcher ; il flatte le Gougou et fait entendre par signes \u00e0 Arlequin qu'il est doux et honorable d'en \u00eatre mang\u00e9. Arlequin branle la t\u00eate. Carabosse veut entra\u00eener Arlequin vers le Gougou.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1669",
+      "category": "12",
+      "explanation": "\u00c0 Tous indique le fait de parler \u00e0 plusieurs personnes.",
+      "stgdir": "\u00c0 Tous.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1670",
+      "category": "0",
+      "explanation": "Elle fait un grand cri repr\u00e9sente une action physique.",
+      "stgdir": "Elle fait un grand cri.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1671",
+      "category": "8",
+      "explanation": "AIR. \u00c0 quoi s'occupe Magdelon ? fait r\u00e9f\u00e9rence \u00e0 une musique.",
+      "stgdir": "AIR. \u00c0 quoi s'occupe Magdelon ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1672",
+      "category": "8",
+      "explanation": "AIR. Rions, chantons mentionne des airs, donc appartient \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "AIR. Rions, chantons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1673",
+      "category": "9",
+      "explanation": "On entend dans la coulisse le refrain suivant offre une narration sur un bruit.",
+      "stgdir": "On entend dans la coulisse le refrain suivant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1674",
+      "category": "12",
+      "explanation": "Aux Licteurs montre \u00e9galement une direction d'adresse.",
+      "stgdir": "Aux Licteurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1675",
+      "category": "6",
+      "explanation": "\u00c0 Isabelle se touchant le front avec la main indique une interaction physique.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1676",
+      "category": "11",
+      "explanation": "Un repas champ\u00eatre. L'AMOUR d\u00e9crit un cadre en d\u00e9tail.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1677",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'Hercule \u00e0 Trachine d\u00e9crit un lieu de sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le palais d'Hercule \u00e0 Trachine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1678",
+      "category": "5",
+      "explanation": "Carille sort signifie que ce personnage quitte la sc\u00e8ne.",
+      "stgdir": "Carille sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1679",
+      "category": "5",
+      "explanation": "C\u00e9liante sort indique \u00e0 nouveau une sortie de personnage.",
+      "stgdir": "C\u00e9liante sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1680",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre doit repr\u00e9senter un vallon d\u00e9licieux montre la description du cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre doit repr\u00e9senter un vallon d\u00e9licieux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1681",
+      "category": "7",
+      "explanation": "Philipin va pour suivre Florence indique un mouvement physique vers une autre personne.",
+      "stgdir": "Philipin va pour suivre Florence.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1682",
+      "category": "0",
+      "explanation": "Il tombe repr\u00e9sente une action sp\u00e9cifique.",
+      "stgdir": "Il tombe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1683",
+      "category": "0",
+      "explanation": "Il signe repr\u00e9sente \u00e9galement une action.",
+      "stgdir": "Il signe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1684",
+      "category": "5",
+      "explanation": "Madame H\u00e9bert se retire indique que ce personnage sort de la sc\u00e8ne.",
+      "stgdir": "Madame H\u00e9bert se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1685",
+      "category": "8",
+      "explanation": "AIR. Aimez, belle Pastorelle indique une musique.",
+      "stgdir": "AIR. Aimez, belle Pastorelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1686",
+      "category": "12",
+      "explanation": "\u00c0 Mme Argante et \u00e0 Isabelle indique des destinataires.",
+      "stgdir": "\u00c0 Mme Argante et \u00e0 Isabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1687",
+      "category": "7",
+      "explanation": "Catherine va \u00e0 la fen\u00eatre montre un mouvement vers un nouvel endroit.",
+      "stgdir": "Catherine va \u00e0 la fen\u00eatre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1688",
+      "category": "4",
+      "explanation": "Arlequin arrive et se trouve l\u00e0 repr\u00e9sente une entr\u00e9e de personnage.",
+      "stgdir": "Arlequin arrive et se trouve l\u00e0.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1689",
+      "category": "8",
+      "explanation": "Air 62 : R\u00e9veillez-vous, belle Endormie fait r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "Air 62 : R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1690",
+      "category": "9",
+      "explanation": "AU PARTERRE d\u00e9crit une situation ou un cadre narratif.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1691",
+      "category": "6",
+      "explanation": "Se jetant aux pieds de Wild traduit une interaction non verbale.",
+      "stgdir": "Se jetant aux pieds de Wild.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1692",
+      "category": "8",
+      "explanation": "Stances est un terme musical, donc appartient \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "Stances.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1693",
+      "category": "0",
+      "explanation": "Il regarde l'heure \u00e0 sa montre repr\u00e9sente une action physique.",
+      "stgdir": "Il regarde l'heure \u00e0 sa montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1694",
+      "category": "12",
+      "explanation": "Aux princes indique une direction de l'adresse.",
+      "stgdir": "Aux princes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1695",
+      "category": "0",
+      "explanation": "VERS repr\u00e9sente une forme g\u00e9n\u00e9rale d'action.",
+      "stgdir": "VERS.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1696",
+      "category": "8",
+      "explanation": "AIR 6. ( Vous avez bien de la bont\u00e9. ) fait r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "AIR 6. ( Vous avez bien de la bont\u00e9. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1697",
+      "category": "8",
+      "explanation": "Air : Nous autres bons villageois indique de la musique.",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1698",
+      "category": "12",
+      "explanation": "\u00c0 Do\u00f1a Sol indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Do\u00f1a Sol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1699",
+      "category": "8",
+      "explanation": "Air : Entre l'amour et la raison fait partie des airs musicaux.",
+      "stgdir": "Air : Entre l'amour et la raison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1700",
+      "category": "8",
+      "explanation": "Air : Ce que j'\u00e9prouve en vous voyant mentionne \u00e9galement de la musique.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1701",
+      "category": "0",
+      "explanation": "Il entend La Marquise traduit une action d'\u00e9coute.",
+      "stgdir": "Il entend La Marquise.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1702",
+      "category": "5",
+      "explanation": "Valentin sort. On voit des hommes qui portent des torches, r\u00f4der \u00e0 travers la for\u00eat indique une sortie.",
+      "stgdir": "Valentin sort. On voit des hommes qui portent des torches, r\u00f4der \u00e0 travers la for\u00eat. Entrent la baronne et l'abb\u00e9.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1703",
+      "category": "0",
+      "explanation": "Il se met \u00e0 genoux devant elle repr\u00e9sente une action physique.",
+      "stgdir": "Il se met \u00e0 genoux devant elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1704",
+      "category": "10",
+      "explanation": "Il lui pr\u00e9sente son \u00e9p\u00e9e d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il lui pr\u00e9sente son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1705",
+      "category": "12",
+      "explanation": "\u00c0 Aldamon indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Aldamon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1706",
+      "category": "8",
+      "explanation": "Air : Un Pr\u00e9fet beau, bien fait fait partie des mentions musicales.",
+      "stgdir": "Air : Un Pr\u00e9fet beau, bien fait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1707",
+      "category": "7",
+      "explanation": "S'arr\u00eatant indique un mouvement vers un \u00e9tat d'immobilit\u00e9.",
+      "stgdir": "S'arr\u00eatant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1708",
+      "category": "8",
+      "explanation": "AIR 121 : Nicolas va voir Jeanne fait r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1709",
+      "category": "0",
+      "explanation": "Ils boivent tous trois repr\u00e9sente une action.",
+      "stgdir": "Ils boivent tous trois.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1710",
+      "category": "12",
+      "explanation": "\u00c0 Tetasse montre le destinataire de l'action.",
+      "stgdir": "\u00c0 Tetasse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1711",
+      "category": "4",
+      "explanation": "Voyant para\u00eetre Jacques Rosbif implique l'entr\u00e9e d'un personnage.",
+      "stgdir": "Voyant para\u00eetre Jacques Rosbif.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1712",
+      "category": "8",
+      "explanation": "Air : Chantez, dansez fait r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "Air : Chantez, dansez.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1713",
+      "category": "8",
+      "explanation": "AIR : Monsieur le Pr\u00e9vot des Marchands fait \u00e9galement r\u00e9f\u00e9rence \u00e0 un air.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9vot des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1714",
+      "category": "0",
+      "explanation": "Il lit en parcourant repr\u00e9sente une action d'\u00eatre engag\u00e9 avec un texte.",
+      "stgdir": "Il lit en parcourant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1715",
+      "category": "8",
+      "explanation": "Air du Pi\u00e8ge fait r\u00e9f\u00e9rence \u00e0 de la musique.",
+      "stgdir": "Air du Pi\u00e8ge",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1716",
+      "category": "8",
+      "explanation": "AIR : Les filles sont si sottes \u00e9voque une musique.",
+      "stgdir": "AIR : Les filles sont si sottes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1717",
+      "category": "0",
+      "explanation": "Il se laisse choir sur la borne repr\u00e9sente une action.",
+      "stgdir": "Il se laisse choir sur la borne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1718",
+      "category": "0",
+      "explanation": "dit-il \u00e0 Pierrot; repr\u00e9sente une action \u00e0 travers le dialogue.",
+      "stgdir": "dit-il \u00e0 Pierrot;",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1719",
+      "category": "5",
+      "explanation": "Madame Dumond et le prieur sortent signifie une sortie de personnages.",
+      "stgdir": "Madame Dumond et le prieur sortent. H\u00e9l\u00e8ne va leur ouvrir la porte, et leur fait plusieurs r\u00e9v\u00e9rences, que Madame Dumond lui rend apr\u00e8s l'avoir embrass\u00e9e. Pendant ce temps Monique reste seule sur le devant du th\u00e9\u00e2tre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1720",
+      "category": "5",
+      "explanation": "Colombine rentre chez elle indique une entr\u00e9e.",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1721",
+      "category": "12",
+      "explanation": "\u00c0 ses soeurs montre le destinataire.",
+      "stgdir": "\u00c0 ses soeurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1722",
+      "category": "0",
+      "explanation": "Elle va ouvrir repr\u00e9sente une action.",
+      "stgdir": "Elle va ouvrir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1723",
+      "category": "0",
+      "explanation": "Elle ferme la bible et va prendre le berceau repr\u00e9sente des actions.",
+      "stgdir": "Elle ferme la bible et va prendre le berceau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1724",
+      "category": "0",
+      "explanation": "\u00c0 Zoroaste indique un destinataire et se connecte par une action.",
+      "stgdir": "\u00c0 Zoroaste.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 33338.37151527405,
+  "model": "gpt-4o-mini"
+}

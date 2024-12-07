@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "675",
+      "category": "12",
+      "explanation": "C'est une didascalie qui indique \u00e0 qui s'adresse le personnage, donc elle d\u00e9signe un destinataire.",
+      "stgdir": "\u00c0 Isabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "676",
+      "category": "6",
+      "explanation": "Elle d\u00e9crit une action non verbale o\u00f9 Loretta fait le signe de la croix et se l\u00e8ve, une interaction physique.",
+      "stgdir": "Loretta fait le signe de la croix, baisse son voile, se l\u00e8ve et sort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "677",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui la didascalie est destin\u00e9e, sp\u00e9cifiant Doligni comme destinataire.",
+      "stgdir": "\u00c0 Doligni.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "678",
+      "category": "12",
+      "explanation": "D\u00e9signe le porteur de l'urne, indiquant \u00e0 qui s'adresse l'action.",
+      "stgdir": "\u00c0 celui qui porte l'urne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "679",
+      "category": "11",
+      "explanation": "Ceci d\u00e9crit l'environnement de la sc\u00e8ne, \u00e0 savoir l'appartement de Rosine.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "680",
+      "category": "12",
+      "explanation": "Cela indique \u00e0 qui s'adresse la didascalie, ici \u00e0 Mirval.",
+      "stgdir": "\u00c0 Mirval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "681",
+      "category": "0",
+      "explanation": "Il s'agit d'une action o\u00f9 le personnage se rend au lit de la petite Dusault.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "682",
+      "category": "8",
+      "explanation": "D\u00e9crit un air musical, ce qui le classe sous la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Toujours seule, disait Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "683",
+      "category": "0",
+      "explanation": "Indique une action o\u00f9 un personnage reconduit un autre.",
+      "stgdir": "Le reconduisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "684",
+      "category": "6",
+      "explanation": "Elle s'approche et donne des indications sur les fauteuils, illustrant une interaction non verbale.",
+      "stgdir": "Elle s'approche du fauteuil de gauche et elle indique celui de droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "685",
+      "category": "1",
+      "explanation": "D\u00e9montre une agression o\u00f9 Br\u00e9court et le cavalier sont en conflit avec des armes.",
+      "stgdir": "Br\u00e9court l\u00e8ve son b\u00e2ton, que le cavalier pare avec un pistolet qu'il a tir\u00e9 rapidement de sa ceinture.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "686",
+      "category": "4",
+      "explanation": "C'est une entr\u00e9e de personnage, indiquant l'arriv\u00e9e de Chompr\u00e9.",
+      "stgdir": "Chompr\u00e9 para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "687",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la didascalie, ici \u00e0 Arsame.",
+      "stgdir": "\u00c0 Arsame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "688",
+      "category": "8",
+      "explanation": "Cela r\u00e9f\u00e8re \u00e0 un air musical, class\u00e9 sous la musique.",
+      "stgdir": "AIR : Du Vaudeville de Figaro.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "689",
+      "category": "11",
+      "explanation": "D\u00e9crit le cadre de la sc\u00e8ne, ici une province de Livonie en hiver.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "690",
+      "category": "0",
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 une action o\u00f9 deux personnages partagent un moment de silence ensemble.",
+      "stgdir": "Ils restent tous deux un instant dans le silence.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "691",
+      "category": "9",
+      "explanation": "Didascalie longue d\u00e9crivant plusieurs bruits et le passage du temps, ce qui lui conf\u00e8re un caract\u00e8re narratif.",
+      "stgdir": "Abois de chiens sur la route... Autos qui passent... Silence. Deux heures, bruits d'autos... Silence. Trois heures... Chants du coq se r\u00e9pandant dans la campagne... Silence. Quatre heures...",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "692",
+      "category": "0",
+      "explanation": "Action o\u00f9 les personnages masquent leur identit\u00e9 en utilisant les casaques des morts.",
+      "stgdir": "L\u00e0, ils se masquent, et prennent les casaques des morts.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "693",
+      "category": "9",
+      "explanation": "Didascalie narrative d\u00e9taillant les actions et les interactions des personnages.",
+      "stgdir": "Les prisonniers ramassent leurs outils, s'accouplent en silence et sortent la t\u00eate basse sous le fouet du soldat. Guanhumara repara\u00eet sur la galerie haute et les suit des yeux. Au moment o\u00f9 les prisonniers disparaissent, entrent par la grande porte R\u00e9gina, Edwige et Otbert ; R\u00e9gina, v\u00eatue de blanc ; Edwige, la nourrice, vieille, v\u00eatue de noir ; Otbert, en habit de capitaine aventurier, avec le coutelas et la grande \u00e9p\u00e9e ; R\u00e9gina, toute jeune, pale, accabl\u00e9e et se tra\u00eenant \u00e0 peine, comme une personne malade depuis longtemps et presque mourante. Elle se penche sur le bras d'Otbert, qui la soutient et fixe sur elle un regard plein d'angoisse et d'amour. Edwige la suit. Guanhumara, sans \u00eatre vue d'aucun des trois, les observe et les \u00e9coute quelques instants, puis sort par le c\u00f4t\u00e9 oppos\u00e9 \u00e0 celui o\u00f9 elle est entr\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "694",
+      "category": "11",
+      "explanation": "Description de la sc\u00e8ne d'ouverture, d\u00e9finissant une grande salle de spectacle.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une grande Salle de Spectacle, o\u00f9 l'on voit une troupe de Peuples de diff\u00e9rents Provinces, qui forment le d\u00e9but de ce Prologue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "695",
+      "category": "0",
+      "explanation": "Action o\u00f9 le personnage saisit la main de son p\u00e8re.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "696",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la didascalie, ici \u00e0 B\u00e9r\u00e9nice.",
+      "stgdir": "\u00c0 B\u00e9r\u00e9nice.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "697",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e8re \u00e0 un air musical, class\u00e9 comme musique.",
+      "stgdir": "Air : Dondaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "698",
+      "category": "0",
+      "explanation": "D\u00e9crit une action o\u00f9 les personnages rentrent, celle-ci est donc class\u00e9e comme action.",
+      "stgdir": "Ils rentrent, \u00e0 la r\u00e9serve de Paquette, et de Champagne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "699",
+      "category": "0",
+      "explanation": "Action o\u00f9 le personnage se penche \u00e0 la fen\u00eatre.",
+      "stgdir": "Elle se penche \u00e0 la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "700",
+      "category": "6",
+      "explanation": "D\u00e8s qu'il s'agit d'un rassemblement des clercs autour d'un personnage, cela constitue une interaction non verbale.",
+      "stgdir": "Les clercs s'assemblent devant lui.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "701",
+      "category": "1",
+      "explanation": "D\u00e9montre une lutte, ce qui implique un conflit ou une agression.",
+      "stgdir": "Lutte valeureuse de Th\u00e9odore avec le mot \"humiliation\".",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "702",
+      "category": "11",
+      "explanation": "Indique le cadre de la sc\u00e8ne, pr\u00e9cisant que celle-ci se d\u00e9roule \u00e0 Paris.",
+      "stgdir": "La sc\u00e8ne est \u00e0 Paris.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "703",
+      "category": "12",
+      "explanation": "Indique que la didascalie est destin\u00e9e \u00e0 \u00c9rope et Thyeste.",
+      "stgdir": "\u00c0 \u00c9rope et \u00e0 Thyeste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "704",
+      "category": "10",
+      "explanation": "Impliquent une interaction avec l'objet, ici un parchemin.",
+      "stgdir": "Il tire un des parchemins de l'urne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "705",
+      "category": "10",
+      "explanation": "Impliquent l'interaction avec un objet, ici le fouet.",
+      "stgdir": "Il donne son fouet \u00e0\u00a0 L\u00e9pine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "706",
+      "category": "0",
+      "explanation": "Action o\u00f9 le personnage montre Betti.",
+      "stgdir": "En montrant Betti.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "707",
+      "category": "11",
+      "explanation": "D\u00e9crit l'int\u00e9rieur d'un caf\u00e9, ce qui classe cette didascalie dans la description de l'environnement.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'int\u00e9rieur d'un caf\u00e9, dans lequel on voit les bustes de quelques grands hommes, ni entr'autres celui de Moli\u00e8re.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "708",
+      "category": "0",
+      "explanation": "Action o\u00f9 les personnages mangent ensemble.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "709",
+      "category": "0",
+      "explanation": "D\u00e9montre une action d'affection entre les personnages.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "710",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la didascalie, ici \u00e0 Pierrot.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "711",
+      "category": "10",
+      "explanation": "Indique une action li\u00e9e \u00e0 un objet o\u00f9 un personnage prend des notes.",
+      "stgdir": "Il prend des notes pour sa collection.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "712",
+      "category": "1",
+      "explanation": "D\u00e9montre une action de supplication ou de d\u00e9sespoir, ce qui recoupe l'id\u00e9e d'agression envers soi-m\u00eame.",
+      "stgdir": "Elle se jette \u00e0 terre et se prosterne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "713",
+      "category": "1",
+      "explanation": "Implique une action potentiellement agressive en heurtant un autre personnage.",
+      "stgdir": "Il heurte Grapinian, qui fait trois ou quatre pas, et se touchant le coude.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "714",
+      "category": "6",
+      "explanation": "Interaction non verbale o\u00f9 plusieurs personnages \u00e9clatent de rire ensemble.",
+      "stgdir": "Dassoucy, le Docteur et Pierrotin \u00e9clatent de rire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "715",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale o\u00f9 les personnages font des signes de communication.",
+      "stgdir": "Il se retourne devers Isidore, \u00e0 chaque parole qu'il dit \u00e0 Don_P\u00e8dre : et lui fait des signes pour lui faire conna\u00eetre le dessein de son ma\u00eetre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "716",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 une chanson, donc class\u00e9e sous la musique.",
+      "stgdir": "Air. Nanon dormait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "717",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 une chanson, class\u00e9e sous la musique.",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "718",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui s'adresse la didascalie, ici \u00e0 Argimont.",
+      "stgdir": "\u00c0 Argimont.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "719",
+      "category": "5",
+      "explanation": "Trigger une sortie de personnage.",
+      "stgdir": "Il sort en tirant ses tablettes.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "720",
+      "category": "11",
+      "explanation": "D\u00e9montre la repr\u00e9sentation visuelle de Melpom\u00e8ne et Thalie, d\u00e9crivant le cadre.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "721",
+      "category": "0",
+      "explanation": "Action indiquant que le personnage se jette sur un fautenil.",
+      "stgdir": "Se jetant sur un fautenil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "722",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air musical, donc sous la musique.",
+      "stgdir": "AIR. Que de Gentillesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "723",
+      "category": "10",
+      "explanation": "Interaction avec un objet, ici un \u00e9crin.",
+      "stgdir": "Il referme vite le secret de l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "724",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 une chanson ou un air, class\u00e9e sous la musique.",
+      "stgdir": "Air : Quel amour fut aussi tendre ! De Nina.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "725",
+      "category": "8",
+      "explanation": "C'est une mention d'une s\u00e9r\u00e9nade, donc classifi\u00e9e comme musique.",
+      "stgdir": "S\u00c9R\u00c9NADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "726",
+      "category": "12",
+      "explanation": "Indique le destinataire de la s\u00e9r\u00e9nade, donc class\u00e9e ici.",
+      "stgdir": "Aux insulaires de l'un et de l'autre sexes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "727",
+      "category": "3",
+      "explanation": "D\u00e9montre que le personnage exprime quelque chose avec un ton l\u00e9ger \u2013 cela implique une tonalit\u00e9 humoristique.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "728",
+      "category": "4",
+      "explanation": "Indique l\u2019entr\u00e9e d\u2019un personnage.",
+      "stgdir": "Entrant.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "729",
+      "category": "5",
+      "explanation": "Indique la sortie de Tirsis.",
+      "stgdir": "Tirsis se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "730",
+      "category": "0",
+      "explanation": "Implique une action de perception en apercevant quelque chose.",
+      "stgdir": "Apercevant la livr\u00e9e de Tronquoy.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "731",
+      "category": "7",
+      "explanation": "Indique que le personnage se d\u00e9place d'une mani\u00e8re errante dans la chambre.",
+      "stgdir": "Il fait plusieurs tours de chambre d'un air d\u00e9soeuvr\u00e9, puis il revient \u00e0 fa place.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "732",
+      "category": "11",
+      "explanation": "D\u00e9crit le cadre de la sc\u00e8ne, sp\u00e9cifiquement un vestibule et un jardin.",
+      "stgdir": "La Sc\u00e8ne repr\u00e9sente un Vestibule, termin\u00e9 par un Jardin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "733",
+      "category": "8",
+      "explanation": "Mention d'un air musical, donc class\u00e9 sous la musique.",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "734",
+      "category": "8",
+      "explanation": "Mention d'un air musical, donc class\u00e9 sous la musique.",
+      "stgdir": "Air : De Monsieur Doche.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "735",
+      "category": "10",
+      "explanation": "Impliquent d'interagir avec l'objet, ici les rouleaux.",
+      "stgdir": "Il donne les quatre rouleaux \u00e0 Milescas.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "736",
+      "category": "0",
+      "explanation": "Indique une action qui p\u00e8se sur les mots du personnage.",
+      "stgdir": "En pesant beaucoup sur ces derniers mots.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "737",
+      "category": "2",
+      "explanation": "Implique un apart\u00e9, car le personnage parle \u00e0 part ou est seul.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "738",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e de diverses personnes, ce qui entre donc dans la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "ENTR\u00c9E de toutes sortes de personnes amoureuse de la nouveaut\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "739",
+      "category": "8",
+      "explanation": "Mention d'un air musical, donc class\u00e9 sous la musique.",
+      "stgdir": "AIR. Le bonheur de ma vie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "740",
+      "category": "0",
+      "explanation": "D\u00e9montre une action o\u00f9 le personnage accorde sa guitare.",
+      "stgdir": "Il accorde sa guitare.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "741",
+      "category": "7",
+      "explanation": "Indique que le personnage s'avance dans une direction sans qu'il s'agisse d'une entr\u00e9e.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "742",
+      "category": "11",
+      "explanation": "Description de l'int\u00e9rieur du salon, de ses meubles, ce qui qualifie la sc\u00e8ne.",
+      "stgdir": "Un salon chez Chameroy, ameublement sans \u00e9l\u00e9gance. Un bureau \u00e0 gauche, \u00e0 droite un canap\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "743",
+      "category": "8",
+      "explanation": "Mention d'un air musical, donc sous la musique.",
+      "stgdir": "AIR. Paris est au Roi, mon coeur est \u00e0 moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "744",
+      "category": "11",
+      "explanation": "Description du cadre de la sc\u00e8ne, sp\u00e9cifiant l'int\u00e9rieur d'un h\u00f4tel de ville.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "745",
+      "category": "1",
+      "explanation": "Cette didascalie indique un acte de suicide.",
+      "stgdir": "Elle se tue.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "746",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air musical, donc sous musique.",
+      "stgdir": "Air : Le coeur de mon Annette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "747",
+      "category": "8",
+      "explanation": "Mention d'un air musical, donc class\u00e9 sous la musique.",
+      "stgdir": "AIR d'Yelva.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "748",
+      "category": "11",
+      "explanation": "Indique que le d\u00e9cor est le m\u00eame qu'au premier acte, ce qui concerne l'environnement.",
+      "stgdir": "M\u00eame d\u00e9cor qu'au premier acte. Huit heures du soir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "749",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air musical, donc sous musique.",
+      "stgdir": "Air 172 : Je suis Madelon Friquet.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 31894.59538459778,
+  "model": "gpt-4o-mini"
+}

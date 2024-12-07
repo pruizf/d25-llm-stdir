@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2325",
+      "category": "3",
+      "explanation": "Cette didascalie d\u00e9crit une action d'\u00e9motion forte, indiquant que le personnage fond en sanglots.",
+      "stgdir": "Fondant en sanglots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2326",
+      "category": "11",
+      "explanation": "Elle d\u00e9crit le cadre du th\u00e9\u00e2tre, sp\u00e9cifiant qu'il repr\u00e9sente le vestibule du s\u00e9rail.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le vestibule du s\u00e9rail.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2327",
+      "category": "10",
+      "explanation": "Cette didascalie parle de donner un paquet, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2328",
+      "category": "11",
+      "explanation": "Elle d\u00e9crit un lieu, la maison d'Hilaire, ce qui en fait une didascalie de setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente la maison d'Hilaire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2329",
+      "category": "11",
+      "explanation": "La didascalie mentionne un lieu sp\u00e9cifique li\u00e9 \u00e0 M\u00e9d\u00e9e, ce qui la classe dans la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un lieu destin\u00e9 aux \u00e9vocations de M\u00e9d\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2330",
+      "category": "5",
+      "explanation": "Ici, Ang\u00e9lique et Temire se retirent, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Ang\u00e9lique et Temire se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2331",
+      "category": "5",
+      "explanation": "Le rideau qui tombe indique clairement une sortie de sc\u00e8ne ou la fin d'une sc\u00e8ne.",
+      "stgdir": "Le rideau tombe.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2332",
+      "category": "12",
+      "explanation": "Cette mention d'\u00ab \u00c0 Lina \u00bb indique une adresse \u00e0 un personnage sp\u00e9cifique.",
+      "stgdir": "\u00c0 Lina.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2333",
+      "category": "10",
+      "explanation": "Il tire un portefeuille, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2334",
+      "category": "8",
+      "explanation": "C'est un titre d'air de ballet, correspondant \u00e0 une performance musicale.",
+      "stgdir": "Deuxi\u00e8me entr\u00e9e de ballet : Huit p\u00eacheurs de corail.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2335",
+      "category": "9",
+      "explanation": "Le Ciel se referme peut \u00eatre interpr\u00e9t\u00e9 comme une action descriptive de la sc\u00e8ne, incluant des \u00e9l\u00e9ments narratifs.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2336",
+      "category": "3",
+      "explanation": "Il dit un vers bas, ce qui indique une mani\u00e8re ou une \u00e9motion sp\u00e9cifique dans la delivery de la r\u00e9plique.",
+      "stgdir": "Il dit ce vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2337",
+      "category": "7",
+      "explanation": "Le fait que Georges s'\u00e9loigne implique un mouvement du personnage.",
+      "stgdir": "Georges s'\u00e9loigne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2338",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit un personnage (la m\u00e9disance) avec des v\u00eatements sp\u00e9cifiques, en faisant une description de caract\u00e9risation.",
+      "stgdir": "La m\u00e9disance est habill\u00e9e en d\u00e9vote, sans panier, avec une pointe noir et une esp\u00e8ce de guimpe ou de collet.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2339",
+      "category": "9",
+      "explanation": "Reprenant la sc\u00e8ne, une didascalie qui d\u00e9crit une action de narration.",
+      "stgdir": "Reprenant la sc\u00e8ne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2340",
+      "category": "12",
+      "explanation": "\u00ab Aux autres conseillers \u00bb donne un indice sur le destinataire de la communication.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2341",
+      "category": "3",
+      "explanation": "L\u00e9lio rit, ce qui indique une expression \u00e9motionnelle sp\u00e9cifique dans la delivery.",
+      "stgdir": "L\u00e9lio rit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2342",
+      "category": "9",
+      "explanation": "Cette longue didascalie d\u00e9crit une sc\u00e8ne assez dramatique et sp\u00e9cifique, relevant de la narration.",
+      "stgdir": "Il \u00e9tend les bras. Tout le monde s'\u00e9carte et la t\u00eate de Moral\u00e8s, envelopp\u00e9e d'un voile noir, pos\u00e9e sur la table. Fargus enl\u00e8ve brusquement le voile. Tous reculent en poussant un cri d'horreur. La t\u00eate humaine, les yeux ferm\u00e9s, la face souill\u00e9e de sang, est l\u00e0, en pleine lumi\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2343",
+      "category": "7",
+      "explanation": "Il aper\u00e7oit Barberin, ce qui implique un mouvement et une reconnaissance d'un personnage.",
+      "stgdir": "Apercevant Barberin.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2344",
+      "category": "12",
+      "explanation": "Rappelant Bourdon indique un destinataire pr\u00e9cis de l'action.",
+      "stgdir": "Rappelant Bourdon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2345",
+      "category": "11",
+      "explanation": "Description de la d\u00e9coration du th\u00e9\u00e2tre, class\u00e9e dans setting.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2346",
+      "category": "4",
+      "explanation": "Cette didascalie d\u00e9crit l'entr\u00e9e d'un druide, lui attribuant un r\u00f4le significatif dans la sc\u00e8ne.",
+      "stgdir": "Un druide conduisant la c\u00e9r\u00e9monie de la f\u00eate du gui de l'an neuf, \u00e0 la place d'Adamas.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2347",
+      "category": "4",
+      "explanation": "\u00ab Plutus para\u00eet \u00bb indique \u00e9galement une entr\u00e9e marquante d'un personnage dans la sc\u00e8ne.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2348",
+      "category": "3",
+      "explanation": "Regardant la statue et l'admirant implique une delivery de reconnaissance et d'admiration.",
+      "stgdir": "Regardant la statue aux pieds de laquelle B\u00e9carre est rest\u00e9, et l'admirant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2349",
+      "category": "8",
+      "explanation": "C'est un titre d'air, directement li\u00e9 \u00e0 la musique.",
+      "stgdir": "Air 14 : Voulez-vous savoir qui de deux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2350",
+      "category": "8",
+      "explanation": "C'est \u00e9galement un titre d'air, correspondant \u00e0 la cat\u00e9gorie musicale.",
+      "stgdir": "Air 176 : De La Renaissance de la Foire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2351",
+      "category": "10",
+      "explanation": "L'action de donner un objet est une interaction sp\u00e9cifique avec un objet.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2352",
+      "category": "8",
+      "explanation": "Un air est mentionn\u00e9, ce qui implique une performance musicale.",
+      "stgdir": "AIR. Qu'on me bl\u00e2me tant que l'on voudra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2353",
+      "category": "5",
+      "explanation": "La sortie d'un personnage indique un d\u00e9part de la sc\u00e8ne.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2354",
+      "category": "8",
+      "explanation": "Un air pour un personnage, ici \u00e9galement li\u00e9 \u00e0 la musique.",
+      "stgdir": "AIR. Ah ! Robin, tais-toi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2355",
+      "category": "0",
+      "explanation": "Elle se pr\u00e9cipite dans la mer d\u00e9crit une action sans indication claire de mouvement ou d'objet.",
+      "stgdir": "Elle se pr\u00e9cipite dans la mer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2356",
+      "category": "0",
+      "explanation": "Elle para\u00eet s\u00e9rieuse indique simplement une action sans sp\u00e9cifier d'objet ou de mouvement.",
+      "stgdir": "Elle para\u00eet s\u00e9rieuse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2357",
+      "category": "8",
+      "explanation": "Mention d'un air, ce qui le place dans la cat\u00e9gorie musicale.",
+      "stgdir": "Air : Courons de la blonde \u00e0 la brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2358",
+      "category": "7",
+      "explanation": "L'action de s'asseoir pr\u00e8s de la table indique un mouvement \u00e0 un endroit sp\u00e9cifique.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2359",
+      "category": "11",
+      "explanation": "Description de l'environnement th\u00e9\u00e2tral, indiquant le setting de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le bord de la mer. On voit de c\u00f4t\u00e9 et d'autres diff\u00e9rentes ouvertures entre des rochers ; mais la grotte de Philoct\u00e8te est suppos\u00e9e ne pouvoir \u00eatre vue que dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2360",
+      "category": "4",
+      "explanation": "L'esclave qui para\u00eet marque l'entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "L'esclave para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2361",
+      "category": "8",
+      "explanation": "Comme il s'agit d'une chanson, cela appartient \u00e0 la cat\u00e9gorie musicale.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2362",
+      "category": "12",
+      "explanation": "Mentionne \u00e0 qui s'adresse la r\u00e9plique, en l'occurrence \u00e0 Deschamps.",
+      "stgdir": "\u00c0 Deschamps.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2363",
+      "category": "3",
+      "explanation": "Il rit de toute sa force exprime une forte \u00e9motion par le biais du delivery.",
+      "stgdir": "Il rit de toute sa force.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2364",
+      "category": "12",
+      "explanation": "\u00c0 au marquis d\u00e9signe le destinataire de la communication.",
+      "stgdir": "Au marquis",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2365",
+      "category": "5",
+      "explanation": "Il part indique clairement une sortie de sc\u00e8ne.",
+      "stgdir": "Il part.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2366",
+      "category": "8",
+      "explanation": "Ceci est un titre d'air indiquant la musique \u00e0 venir.",
+      "stgdir": "Air: Le moyen de faire autrement. Du Peintre amoureux, N\u00b0 3.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2367",
+      "category": "6",
+      "explanation": "La proposition d'une entrevue est une forme d'interaction verbale entre personnages.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2368",
+      "category": "8",
+      "explanation": "Mention d'un air de musique, class\u00e9e ici.",
+      "stgdir": "LES SIRENES.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2369",
+      "category": "8",
+      "explanation": "Autres couplets sur l'air, ce qui rappelle la musique.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2370",
+      "category": "12",
+      "explanation": "\u00c0 ceux aux Grands montre \u00e0 qui la r\u00e9plique est adress\u00e9e.",
+      "stgdir": "Aux Grands.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2371",
+      "category": "10",
+      "explanation": "D\u00e9crire l'action de donner l'\u00e9crit implique une interaction avec un objet document.",
+      "stgdir": "En lui donnant l'\u00e9crit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2372",
+      "category": "0",
+      "explanation": "Un regard \u00e0 la montre d\u00e9crit une simple action sans objet sp\u00e9cifique.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2373",
+      "category": "5",
+      "explanation": "Lidamant s'en va indique une sortie de sc\u00e8ne.",
+      "stgdir": "Lidamant s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2374",
+      "category": "12",
+      "explanation": "Cette didascalie d\u00e9signe \u00e0 qui la r\u00e9plique est adress\u00e9e, ici Mademoiselle Dumeny.",
+      "stgdir": "\u00c0 Mademoiselle Dumeny.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2375",
+      "category": "7",
+      "explanation": "Le mouvement de Zirph\u00e9e qui passe de l'autre c\u00f4t\u00e9 de la sc\u00e8ne est un exemple de mouvement.",
+      "stgdir": "Zirph\u00e9e passe de l'autre c\u00f4t\u00e9 de la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2376",
+      "category": "9",
+      "explanation": "Cette didascalie est une description narrative d'une repr\u00e9sentation complexe.",
+      "stgdir": "Chaconne dans le grand genre, une troupe de Boh\u00e9miens. Le petit homme noir, connu dans l'Histoire de Madame Scarron, dira \u00e0 chacun sa bonne aventure, par des couplets analogues \u00e0 leur caract\u00e8re. Ballet de Boh\u00e9miens, troupe de Soldats, qui peindra l'Histoire du Grand-Cond\u00e9, quand il reprit les armes pour la France\u00a0; combats, victoire qu'il remporte sur l'ennemi. Tous se mettent \u00e0 genoux devant le Tr\u00f4ne. Les Soldats renversent leurs armes devant le Grand Cond\u00e9, et lui pr\u00e9sentent le Pavillon de l'arm\u00e9e ennemie\u00a0; pendant ce temps, le canon, les timbales, les trompettes, doivent former une musique martiale. Elle finit, piano, piano, au point qu'on doit entendre de loin un chalumeau, qui doit faire contraste avec cette grande Musique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2377",
+      "category": "9",
+      "explanation": "C'est une didascalie narrative qui d\u00e9crit un conflit personnel.",
+      "stgdir": "Dont le Duc Dessau son fr\u00e8re, ne peut supporter la folle passion et lui repr\u00e9sente, les extr\u00e9mit\u00e9s o\u00f9 il se laisse engager par son amour.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2378",
+      "category": "7",
+      "explanation": "Tout \u00e0 fait rapproch\u00e9 fait allusion \u00e0 un mouvement vers un autre personnage.",
+      "stgdir": "Tout \u00e0 fait rapproch\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2379",
+      "category": "3",
+      "explanation": "Elle d\u00e9crit un moment d'agitation dans la delivery d'un personnage.",
+      "stgdir": "Il lui pince la taille, et entre. Il est dans un galant d\u00e9shabill\u00e9, s'avance \u00e0 pas de loup, il entr'ouvre les rideaux \u00e0 peine y met l'O dans sa bouche et d'une voix formidable qui fait trembler la maison.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2380",
+      "category": "4",
+      "explanation": "Thersandre para\u00eet indique l'entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Thersandre para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2381",
+      "category": "5",
+      "explanation": "Dorante s'en va repr\u00e9sente une sortie de sc\u00e8ne.",
+      "stgdir": "Dorante s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2382",
+      "category": "4",
+      "explanation": "Mithridate et les autres personnages sortent arm\u00e9s en entrant sur sc\u00e8ne.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2383",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit le cadre, une campagne agr\u00e9able, donc class\u00e9e sous setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2384",
+      "category": "12",
+      "explanation": "\u00c0 femmes indique le destinataire de la communication.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2385",
+      "category": "6",
+      "explanation": "Le mouvement parmi les g\u00e9n\u00e9raux implique une interaction non verbale entre personnages.",
+      "stgdir": "Il se fait un grand mouvement parmi les g\u00e9n\u00e9raux, pendant que Wallstein parle. Ils regardent G\u00e9raldin d'un air mena\u00e7ant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2386",
+      "category": "10",
+      "explanation": "L'action de prendre un livre est une interaction avec un objet.",
+      "stgdir": "Il prend le livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2387",
+      "category": "3",
+      "explanation": "Une action de baissant sa voix indique une sp\u00e9cificit\u00e9 dans le delivery.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2388",
+      "category": "0",
+      "explanation": "D\u00e9crit une action de rire, sans mouvements ou objets pr\u00e9cis\u00e9s.",
+      "stgdir": "Ad\u00e9la\u00efde reste absorb\u00e9e : Madame Wanderk pr\u00eate \u00e0 rentrer, jette un coup d'oeil, et \u00e0 toutes les peines du monde \u00e0 s'emp\u00eacher de rire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2389",
+      "category": "3",
+      "explanation": "Action qui implique un sentiment d'angoisse exprim\u00e9e dans le delivery.",
+      "stgdir": "Il \u00e9treint sa poitrine d'une main fi\u00e9vreuse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2390",
+      "category": "12",
+      "explanation": "Montrant \u00e0 la Baronne, cette didascalie d\u00e9signe un destinataire sp\u00e9cifique.",
+      "stgdir": "Montrant la Baronne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2391",
+      "category": "1",
+      "explanation": "Cette phrase est agressive car elle parle d'enfourner des financiers, impliquant une notion de menace.",
+      "stgdir": "On enfourne les financiers.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2392",
+      "category": "7",
+      "explanation": "Une action de rapprochement indique un mouvement vers un autre personnage.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2393",
+      "category": "6",
+      "explanation": "Alceste et Philinte \u00e9changent des regards d\u00e9sesp\u00e9r\u00e9s, ce qui constitue une forme d'interaction non verbale.",
+      "stgdir": "Alceste et Philinte \u00e9changent un coup d'oeil d\u00e9sesp\u00e9r\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2394",
+      "category": "9",
+      "explanation": "La didascalie d\u00e9crivant le tintement d'une sonnette inclut un \u00e9l\u00e9ment sonore qui appartient \u00e0 la narration.",
+      "stgdir": "On entend le tintement d'une sonnette.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2395",
+      "category": "10",
+      "explanation": "Donnant un verre d'eau sucr\u00e9e indique une interaction avec un objet.",
+      "stgdir": "Donnant le verre d'eau sucr\u00e9e \u00e0 Thibaudier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2396",
+      "category": "11",
+      "explanation": "D\u00e9crit le cadre d'un salon dans une maison, class\u00e9e dans setting.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un petit salon dans une grande maison de campagne ; une table o\u00f9 il reste les reliefs d'un repas. Elle a \u00e9t\u00e9 dress\u00e9e pour un d\u00eener improvis\u00e9. Il est dix heures du soir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2397",
+      "category": "10",
+      "explanation": "Elle lui donne son jupon, impliquant une interaction avec un v\u00eatement.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2398",
+      "category": "4",
+      "explanation": "L'entr\u00e9e du Chevalier introduit un nouveau personnage sur sc\u00e8ne.",
+      "stgdir": "Le Chevalier vient, et Trivelin dit :",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2399",
+      "category": "9",
+      "explanation": "Cette phrase \u00e9voque une action narrative d\u00e9crivant un miracle.",
+      "stgdir": "L'ange touche la terre avec sa palme, et fait jaillir \u00e0 l'instant une source abondante.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 29698.89497756958,
+  "model": "gpt-4o-mini"
+}

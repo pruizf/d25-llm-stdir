@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "450",
+      "category": "8",
+      "explanation": "Contient de la musique, indique une m\u00e9lodie \u00e0 interpr\u00e9ter.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "451",
+      "category": "8",
+      "explanation": "Contient une indication musicale avec un titre, appartient \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "452",
+      "category": "8",
+      "explanation": "C'est un air, donc il s'agit d'une indication de musique.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "453",
+      "category": "8",
+      "explanation": "Pas assez d'informations, mais peut indiquer un air musical.",
+      "stgdir": "bis",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "454",
+      "category": "8",
+      "explanation": "Indique une m\u00e9lodie, elle est class\u00e9e dans la musique.",
+      "stgdir": "AIR 5. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "455",
+      "category": "9",
+      "explanation": "Un testament sugg\u00e8re un r\u00e9cit ou une narration, donc narration.",
+      "stgdir": "Testament de L\u00e9once.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "456",
+      "category": "8",
+      "explanation": "Une indication musicale avec un titre, appartenant \u00e0 la musique.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "457",
+      "category": "8",
+      "explanation": "Indique un air musical sp\u00e9cifique.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "458",
+      "category": "8",
+      "explanation": "S'agit d'une indication musicale d\u00e9signant une m\u00e9lodie.",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "459",
+      "category": "8",
+      "explanation": "\u00c9voque un son musical, correspond \u00e0 de la musique.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "460",
+      "category": "8",
+      "explanation": "C'est un air, une indication musicale.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "461",
+      "category": "8",
+      "explanation": "C'est un air musical, appartenant \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "462",
+      "category": "8",
+      "explanation": "Un pr\u00e9lude musical, class\u00e9 dans la musique.",
+      "stgdir": "Pr\u00e9lude.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "463",
+      "category": "8",
+      "explanation": "Indique une musique li\u00e9e \u00e0 un \u00e9v\u00e9nement narratif.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "464",
+      "category": "8",
+      "explanation": "C'est une indication musicale.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "465",
+      "category": "8",
+      "explanation": "Indication d'une symphonie musicale.",
+      "stgdir": "On entend une symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "466",
+      "category": "8",
+      "explanation": "Un air musical, class\u00e9 dans la musique.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "467",
+      "category": "8",
+      "explanation": "Indique une musique.",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "468",
+      "category": "8",
+      "explanation": "C'est encore un air musical.",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "469",
+      "category": "8",
+      "explanation": "Un air musical indiquant une m\u00e9lodie.",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "470",
+      "category": "8",
+      "explanation": "Indication d'une musique avec une r\u00e9f\u00e9rence \u00e0 un feu d'artifice.",
+      "stgdir": "Air 200. Du Feu d'Artifice.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "471",
+      "category": "8",
+      "explanation": "Un air pr\u00e9sentant des \u00e9l\u00e9ments de musique.",
+      "stgdir": "Air : Morgu\u00e9, la femme qui m'aura.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "472",
+      "category": "8",
+      "explanation": "Indique une m\u00e9lodie \u00e0 interpr\u00e9ter.",
+      "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "473",
+      "category": "8",
+      "explanation": "Un air musical indiquant une m\u00e9lodie.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "474",
+      "category": "8",
+      "explanation": "C'est un air de musique.",
+      "stgdir": "AIR. Allons donc, jouez violons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "475",
+      "category": "8",
+      "explanation": "Une indication musicale.",
+      "stgdir": "AIR. Au bout du monde, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "476",
+      "category": "8",
+      "explanation": "S'agit de fl\u00fbtes et de clarinettes, ce qui indique de la musique.",
+      "stgdir": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "477",
+      "category": "8",
+      "explanation": "Description musicale, correspond \u00e0 la musique.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "478",
+      "category": "3",
+      "explanation": "Utilisation d'un r\u00e9citatif, li\u00e9 \u00e0 l'\u00e9motion dans le chant.",
+      "stgdir": "R\u00c9CITATIF, par MONSIEUR LA RUETTE. N\u00b01",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "479",
+      "category": "8",
+      "explanation": "Indication d'un air \u00e0 chanter.",
+      "stgdir": "AIR 6. ( Vous avez bien de la bont\u00e9. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "480",
+      "category": "8",
+      "explanation": "Indication d'un air musical.",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "481",
+      "category": "8",
+      "explanation": "C'est un air, une indication musicale.",
+      "stgdir": "Air : J'ai vu partout dans mes voyages.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "482",
+      "category": "8",
+      "explanation": "Une indication musicale.",
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "483",
+      "category": "8",
+      "explanation": "Encore une indication d'air, appartient \u00e0 la musique.",
+      "stgdir": "AIR : Vous m'entendez bien.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "484",
+      "category": "8",
+      "explanation": "Indique une m\u00e9lodie.",
+      "stgdir": "Air : Tout est dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "485",
+      "category": "8",
+      "explanation": "Il s'agit d'une chanson, indication musicale.",
+      "stgdir": "AIR : Sans cesse \u00e0 la Ville, \u00e0 ta Cour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "486",
+      "category": "8",
+      "explanation": "Indique les timbales, les trompettes et autres instruments de musique.",
+      "stgdir": "On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "487",
+      "category": "8",
+      "explanation": "Un air musical.",
+      "stgdir": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "488",
+      "category": "8",
+      "explanation": "Indication d'un air musical.",
+      "stgdir": "AIR : Le luth galant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "489",
+      "category": "8",
+      "explanation": "Indique une m\u00e9lodie.",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "490",
+      "category": "8",
+      "explanation": "C'est un air musical.",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "491",
+      "category": "8",
+      "explanation": "Indique une m\u00e9lodie musicale.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "492",
+      "category": "8",
+      "explanation": "Pr\u00e9ambule musical qui annonce un personnage.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "493",
+      "category": "8",
+      "explanation": "Indication d'un air musical.",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "494",
+      "category": "10",
+      "explanation": "Lettre \u00e9voquant un objet qui est donn\u00e9 ou re\u00e7u.",
+      "stgdir": "Lettre de Florinde \u00e0 Filemon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "495",
+      "category": "8",
+      "explanation": "Un autre air musical.",
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "496",
+      "category": "11",
+      "explanation": "Cela semble \u00eatre un titre de sc\u00e8ne, indiquant le lieu ou le contexte.",
+      "stgdir": "L'ABEILLE ET L'ARAIGN\u00c9E.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "497",
+      "category": "8",
+      "explanation": "Un air musical.",
+      "stgdir": "Air : Du haut en bas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "498",
+      "category": "8",
+      "explanation": "Notification d'un air nouveau, appartenant \u00e0 la musique.",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "499",
+      "category": "8",
+      "explanation": "Musical, mentionne une m\u00e9lodie.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "500",
+      "category": "8",
+      "explanation": "C'est un air musical.",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "501",
+      "category": "8",
+      "explanation": "Indication d'un air musical.",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "502",
+      "category": "9",
+      "explanation": "Engagement d\u00e9crit sous une forme narrative.",
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "503",
+      "category": "8",
+      "explanation": "C'est un air musical.",
+      "stgdir": "Air : De Weick.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "504",
+      "category": "8",
+      "explanation": "C'est une indication musicale.",
+      "stgdir": "Air : Tique, tique, taque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "505",
+      "category": "8",
+      "explanation": "C'est un air musical.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "506",
+      "category": "8",
+      "explanation": "Indication d'air musical.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "507",
+      "category": "8",
+      "explanation": "Indication du type d'air musical.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "508",
+      "category": "8",
+      "explanation": "Indication musicale.",
+      "stgdir": "AIR : le joli jeu d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "509",
+      "category": "8",
+      "explanation": "Une indication d'air musical.",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "510",
+      "category": "8",
+      "explanation": "C'est un air musical, indique une m\u00e9lodie.",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "511",
+      "category": "8",
+      "explanation": "Une indication musicale.",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "512",
+      "category": "8",
+      "explanation": "Une indication musicale, un menuet.",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "513",
+      "category": "8",
+      "explanation": "Indique un air du Libera, c'est musical.",
+      "stgdir": "AIR : du Libera de la Bourbonnoise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "514",
+      "category": "8",
+      "explanation": "Un air musical.",
+      "stgdir": "Air du bienheureux Lisandre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "515",
+      "category": "8",
+      "explanation": "Mentionne des violons, cela renvoie \u00e0 de la musique.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "516",
+      "category": "8",
+      "explanation": "C'est de la musique, repr\u00e9sentant un air.",
+      "stgdir": "AIR : De Z\u00e9mire et Azor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "517",
+      "category": "8",
+      "explanation": "Un air musical.",
+      "stgdir": "Air : Babet que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "518",
+      "category": "8",
+      "explanation": "C'est un air musical.",
+      "stgdir": "AIR Tu croyais, en aimant Colette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "519",
+      "category": "8",
+      "explanation": "Indication d'un air, qui est un \u00e9l\u00e9ment musical.",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "520",
+      "category": "8",
+      "explanation": "Indication d'une m\u00e9lodie.",
+      "stgdir": "AIR. ( Quand Iris prend plaisir \u00e0 boire. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "521",
+      "category": "8",
+      "explanation": "Indication d'une m\u00e9lodie.",
+      "stgdir": "Air de la Clef des champs (Deff\u00e8s)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "522",
+      "category": "8",
+      "explanation": "Indication d'une musique.",
+      "stgdir": "Symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "523",
+      "category": "4",
+      "explanation": "D\u00e9signe l'entr\u00e9e d'un personnage, ce qui correspond \u00e0 une entr\u00e9e.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "524",
+      "category": "8",
+      "explanation": "Une indication musicale, cela appartient \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "Air : Des Proverbes.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 27833.783388137817,
+  "model": "gpt-4o-mini"
+}

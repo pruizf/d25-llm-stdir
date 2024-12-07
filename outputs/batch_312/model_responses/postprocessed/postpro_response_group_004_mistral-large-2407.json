@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": "5",
+      "explanation": "Damon sort. (Damon exits.)",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": "5",
+      "explanation": "Madame Simon et Perrette sortent. (Madame Simon and Perrette exit.)",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": "5",
+      "explanation": "Jacinte sort. (Jacinte exits.)",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": "5",
+      "explanation": "Tous sortent, except\u00e9 Baron. (Everyone exits, except Baron.)",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": "5",
+      "explanation": "Lucile et Damis sortent. (Lucile and Damis exit.)",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": "4",
+      "explanation": "Julie rentre du c\u00f4t\u00e9 de la maison. (Julie enters from the side of the house.)",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": "5",
+      "explanation": "Zerbine sort. (Zerbine exits.)",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": "5",
+      "explanation": "Elle sort avec Val\u00e8re. (She exits with Val\u00e8re.)",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": "5",
+      "explanation": "Villiers dispara\u00eet. (Villiers disappears.)",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": "5",
+      "explanation": "Elle entre dans son cabinet. (She enters her cabinet.)",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "310",
+      "category": "7",
+      "explanation": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve. (He joins \u00c9tienne who is fumbling while backing away and runs off.)",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "311",
+      "category": "5",
+      "explanation": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main. (They exit with the valets and torches. The duke preceding the king with a candle in hand.)",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "312",
+      "category": "5",
+      "explanation": "Algine sort. (Algine exits.)",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "313",
+      "category": "5",
+      "explanation": "Tous sortent. (Everyone exits.)",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "314",
+      "category": "5",
+      "explanation": "Ormin s'en va. (Ormin exits.)",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "315",
+      "category": "5",
+      "explanation": "La Montagne s'en va. (La Montagne exits.)",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "316",
+      "category": "5",
+      "explanation": "Idas sort. (Idas exits.)",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "317",
+      "category": "5",
+      "explanation": "Alcandre sort. (Alcandre exits.)",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "318",
+      "category": "5",
+      "explanation": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond. (Julie enters the Cardinal's place, Lamperri\u00e8re exits from the back.)",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "319",
+      "category": "7",
+      "explanation": "Il s'en retourne. (He returns.)",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "320",
+      "category": "5",
+      "explanation": "Le Chevalier entre dans le cabinet. (The Chevalier enters the cabinet.)",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "5",
+      "explanation": "Don Quichotte se retire. (Don Quichotte withdraws.)",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "7",
+      "explanation": "S'en allant. (Leaving.)",
+      "stgdir": "S'en allant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "5",
+      "explanation": "Elle part en riant. (She leaves laughing.)",
+      "stgdir": "Elle part en riant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "5",
+      "explanation": "Il sort en toussant suivi par de Brie. (He exits coughing, followed by de Brie.)",
+      "stgdir": "Il sort en toussant suivi par de Brie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "4",
+      "explanation": "Blaise et G\u00e9rault entrent. (Blaise and G\u00e9rault enter.)",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "5",
+      "explanation": "Don Alfonce s'en va. (Don Alfonce exits.)",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "5",
+      "explanation": "Il se sauve. (He runs away.)",
+      "stgdir": "Il se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "5",
+      "explanation": "Colombine rentre chez elle. (Colombine returns to her place.)",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "5",
+      "explanation": "Phoenix sort. (Phoenix exits.)",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "330",
+      "category": "5",
+      "explanation": "Ils sortent en causant. (They exit while talking.)",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "331",
+      "category": "5",
+      "explanation": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre. (They both exit, one from one side and the other from the other side.)",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "332",
+      "category": "5",
+      "explanation": "Il entre dans sa maison. (He enters his house.)",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "333",
+      "category": "5",
+      "explanation": "Antelme s'en va. (Antelme exits.)",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "334",
+      "category": "5",
+      "explanation": "Scanderberg sort. (Scanderberg exits.)",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "335",
+      "category": "5",
+      "explanation": "La t\u00eate de Georges dispara\u00eet. (Georges' head disappears.)",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "336",
+      "category": "5",
+      "explanation": "Il sort par la petite porte \u00e0 droite. (He exits through the small door on the right.)",
+      "stgdir": "Il sort par la petite porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "337",
+      "category": "5",
+      "explanation": "Laure sort. (Laure exits.)",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "338",
+      "category": "4",
+      "explanation": "Staphyla rentre. (Staphyla enters.)",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "339",
+      "category": "5",
+      "explanation": "Laurence sort. (Laurence exits.)",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "340",
+      "category": "7",
+      "explanation": "Il veut partir. (He wants to leave.)",
+      "stgdir": "Il veut partir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "341",
+      "category": "5",
+      "explanation": "L\u00e9onor et Marine se retirent. (L\u00e9onor and Marine withdraw.)",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "342",
+      "category": "5",
+      "explanation": "Il dispara\u00eet enti\u00e8rement. (He disappears entirely.)",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "343",
+      "category": "5",
+      "explanation": "Il entre chez lui. (He enters his place.)",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "344",
+      "category": "5",
+      "explanation": "Jos\u00e9phine et Marthe sortent. (Jos\u00e9phine and Marthe exit.)",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "345",
+      "category": "7",
+      "explanation": "Elle veut sortir. (She wants to exit.)",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "346",
+      "category": "5",
+      "explanation": "Orphise sort. (Orphise exits.)",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "347",
+      "category": "6",
+      "explanation": "Il lui serre la main plus fort. (He squeezes her hand more tightly.)",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "348",
+      "category": "6",
+      "explanation": "Il embrasse Ducr\u00f4ne et Jenneval. (He embraces Ducr\u00f4ne and Jenneval.)",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "349",
+      "category": "6",
+      "explanation": "Don C\u00e9sar re\u00e7oit la main d'Isabelle. (Don C\u00e9sar receives Isabelle's hand.)",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "350",
+      "category": "1",
+      "explanation": "Poussant rudement Val\u00e8re. (Pushing Val\u00e8re roughly.)",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "351",
+      "category": "6",
+      "explanation": "Elles enl\u00e8vent Constance. (They take Constance away.)",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "352",
+      "category": "6",
+      "explanation": "Il baise la main du Prince. (He kisses the Prince's hand.)",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "353",
+      "category": "6",
+      "explanation": "Ils se pressent les mains. (They press each other's hands.)",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "354",
+      "category": "6",
+      "explanation": "Embrassant son p\u00e8re. (Embracing his father.)",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "355",
+      "category": "1",
+      "explanation": "Il la choque un peu. (He jostles her a bit.)",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "356",
+      "category": "6",
+      "explanation": "Il le baise encore. (He kisses him again.)",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "357",
+      "category": "6",
+      "explanation": "Elle touche Picus. (She touches Picus.)",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "358",
+      "category": "6",
+      "explanation": "Il veut lui prendre une main. (He wants to take her hand.)",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "359",
+      "category": "6",
+      "explanation": "Elle lui tape dans une main. (She taps his hand.)",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "360",
+      "category": "6",
+      "explanation": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne. (Damis presents his hand, which she accepts, just as Dorante also presents his.)",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "361",
+      "category": "6",
+      "explanation": "En saisissant la main de son p\u00e8re. (Seizing his father's hand.)",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "362",
+      "category": "6",
+      "explanation": "Il lui met la main dans la poche. (He puts his hand in her pocket.)",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "363",
+      "category": "1",
+      "explanation": "Il la retient encore par le bras, et, perdant tout respect. (He still holds her by the arm and loses all respect.)",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "364",
+      "category": "6",
+      "explanation": "Il serre la main du Grand \u00c9crivain. (He shakes the hand of the Great Writer.)",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "365",
+      "category": "6",
+      "explanation": "Elle l'embrasse passionn\u00e9ment. (She embraces him passionately.)",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "366",
+      "category": "6",
+      "explanation": "Le poussant du coude. (Pushing him with the elbow.)",
+      "stgdir": "Le poussant du coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "367",
+      "category": "1",
+      "explanation": "Il le pousse. (He pushes him.)",
+      "stgdir": "Il le pousse.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "368",
+      "category": "6",
+      "explanation": "Elle lui frappe le coeur. (She strikes his heart.)",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "369",
+      "category": "6",
+      "explanation": "Il embrasse Argie. (He embraces Argie.)",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "370",
+      "category": "6",
+      "explanation": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io. (H\u00e9b\u00e9 and the nymphs receive Io.)",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "371",
+      "category": "6",
+      "explanation": "Elle reprend le bras de Phanor. (She takes Phanor's arm again.)",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "372",
+      "category": "6",
+      "explanation": "En lui serrant affectueusement la main. (Squeezing his hand affectionately.)",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "373",
+      "category": "6",
+      "explanation": "Ma\u00eetre Godard la presse, encor, du geste, seulement. (Ma\u00eetre Godard presses her, still, by gesture only.)",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "374",
+      "category": "6",
+      "explanation": "Il embrasse Fleur-de-Sauge. (He embraces Fleur-de-Sauge.)",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 124092.90838241577,
+  "model": "mistral-large-2407"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "4",
+      "explanation": "La porte se rouvre est clairement une indication d'entr\u00e9e, marquant que quelqu'un entre sur sc\u00e8ne.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "10",
+      "explanation": "Il tire un Papier indique une action qui implique un objet, dans ce cas, un papier.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "9",
+      "explanation": "La description d'une sc\u00e8ne avec des personnages en action et une f\u00eate au loin a un aspect narratif.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "0",
+      "explanation": "En voyant la porte ferm\u00e9e est une action g\u00e9n\u00e9rale o\u00f9 un personnage prend note d'un \u00e9tat.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "0",
+      "explanation": "Il fait ses efforts pour l'ouvrir d\u00e9crit une action d'essayer d'ouvrir quelque chose.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "0",
+      "explanation": "Regard \u00e0 la montre est une action simple, indiquant un geste de v\u00e9rifier le temps.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "6",
+      "explanation": "Regardant Moli\u00e8re avec h\u00e9sitation implique une interaction visuelle et d'h\u00e9sitation entre les personnages.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "0",
+      "explanation": "Il s'assied dans le fauteuil indique une action de s'asseoir, qui est une action simple.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "6",
+      "explanation": "Elle se met \u00e0 ses pieds montre une interaction non verbale entre deux personnages.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "9",
+      "explanation": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne est une narration des actions des personnages.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "6",
+      "explanation": "D\u00e9signant du pied une dalle montre une interaction non verbale \u00e0 travers un geste.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "0",
+      "explanation": "Ils se jettent \u00e0 genoux est une action indiquant le mouvement des personnages, mais aussi un acte symbolique.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "0",
+      "explanation": "Elle frappe \u00e0 la porte en dehors indique une action o\u00f9 un personnage interagit avec un objet (la porte).",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "0",
+      "explanation": "Ils mangent tous deux d\u00e9crit une action simple de manger.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "0",
+      "explanation": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche indique une action d'assise.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "5",
+      "explanation": "Elle se l\u00e8ve pour sortir indique une action d'exit.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "0",
+      "explanation": "Il tire le cordon de la sonnette est une action impliquant un geste pour attirer l'attention.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "1",
+      "explanation": "Don Carlos tire son \u00e9p\u00e9e indique une action agressive, impliquant une arme.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "6",
+      "explanation": "Montrant l'huissier implique un geste de d\u00e9signation, une interaction non verbale.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "3",
+      "explanation": "Changeant de ton et suppliant indique une modulation vocale et une \u00e9motion dans l'expression.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "0",
+      "explanation": "Il y cherche indique une action o\u00f9 le personnage est en qu\u00eate de quelque chose.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "6",
+      "explanation": "Le lui montrant explique une interaction non verbale o\u00f9 un personnage indique quelque chose \u00e0 un autre.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "0",
+      "explanation": "Il s'assied, et il \u00e9crit en chantant est une description d'action o\u00f9 un personnage s'engage dans plusieurs activit\u00e9s.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "10",
+      "explanation": "Rendant le flacon vide implique la manipulation d'un objet sp\u00e9cifique (le flacon).",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "10",
+      "explanation": "Il porte la fiole \u00e0 sa bouche d\u00e9crit l'interaction d'un personnage avec un objet (la fiole).",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "0",
+      "explanation": "Il ouvre le tiroir indique une action d'ouverture d'un meuble, ce qui est un acte simple.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "6",
+      "explanation": "Clim\u00e8ne en action de se jeter aux pieds du Roi implique une posture de soumission, une interaction non verbale.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "9",
+      "explanation": "ANNA et EUG\u00c9NIE \u00e9coutent chanter est une observation de l'action qui a une qualit\u00e9 narrative.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "0",
+      "explanation": "Elle regarde les fleurs est une action d'observation simple.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "0",
+      "explanation": "Il lit l'affiche indique une action simpliste, celle de lire.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "0",
+      "explanation": "En regardant le diamant d\u00e9crit un acte d'observation, simple dans sa nature.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "11",
+      "explanation": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux d\u00e9crit un setting ou une sc\u00e8ne g\u00e9n\u00e9rale.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "0",
+      "explanation": "Regardant du cot\u00e9 oppos\u00e9 est une action d'observation simple.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "0",
+      "explanation": "Ils boivent de nouveau est une action g\u00e9n\u00e9rale de boire.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "0",
+      "explanation": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour d\u00e9crit une action impliquant un objet (papier).",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "10",
+      "explanation": "Il leur montre un mur qu'on tourne sur un pivot de fer inclut l'action de montrer et impliquer un objet (le mur).",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "6",
+      "explanation": "Lui montrant une lettre d\u00e9crit un geste d'affichage d'un objet \u00e0 un autre.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "0",
+      "explanation": "Ils se mettent \u00e0 table implique l'action de s'installer.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "0",
+      "explanation": "Lucile continue de regarder indique une action d'observation.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "9",
+      "explanation": "La pendule sonne six heures d\u00e9crivent un \u00e9v\u00e9nement qui contribue au contexte narratif.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "6",
+      "explanation": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire implique une interaction visuelle entre deux personnages.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "6",
+      "explanation": "Dorante et Ang\u00e9lique se regardent tous deux est une interaction non verbale entre les deux personnages.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "4",
+      "explanation": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue indique une entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "0",
+      "explanation": "Lisant : indique l'action de lire, un acte simple.",
+      "stgdir": "Lisant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "0",
+      "explanation": "Elle ouvre l'armoire d\u00e9peint une action d'ouverture d'un meuble.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "0",
+      "explanation": "Elle s'\u00e9tend dans un fauteuil indique l'action de s'asseoir ou se reposer.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "5",
+      "explanation": "Ils se l\u00e8vent de table d\u00e9crit une action d'exit depuis une position \u00e0 table.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "0",
+      "explanation": "Il voit venir la Princesse implique une observation, une action simple.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "0",
+      "explanation": "On entend de nouveau frapper \u00e0 la porte du fond indique un \u00e9v\u00e9nement de frappe.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "0",
+      "explanation": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du th\u00e9\u00e2tre exprime une action d'observation \u00e9motionnelle.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "6",
+      "explanation": "Il se jette aux genoux de la Marquise repr\u00e9sente une action de soumission, une interaction non verbale.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "6",
+      "explanation": "D\u00e9lie lui jette un regard passionn\u00e9 indique une interaction visuelle charg\u00e9e d'\u00e9motion.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "0",
+      "explanation": "Il l\u00e8ve les Gardes de la Chambre repr\u00e9sente une action physique.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "0",
+      "explanation": "En regardant Terville indique une action d'observation.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "3",
+      "explanation": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher d\u00e9crit une \u00e9motion croissante dans la voix.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "0",
+      "explanation": "Scarron continue d'\u00e9crire d\u00e9crit une action simple.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "10",
+      "explanation": "Elle d\u00e9fait le papier d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "10",
+      "explanation": "Il montre son vit implique l'interaction physique ou l'exhibition d'un objet.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "0",
+      "explanation": "Ils s'asseyent d\u00e9crit une action simple d'asseoir.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "0",
+      "explanation": "Il tourne les yeux sur Henry d\u00e9crit un geste d'observation.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "6",
+      "explanation": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre implique une interaction non verbale.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "0",
+      "explanation": "Elle regarde du c\u00f4t\u00e9 de la porte d\u00e9crit une action d'observation.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "6",
+      "explanation": "Il montre le mari de la Vieille implique l'action de d\u00e9signation, un geste non verbal.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "0",
+      "explanation": "On se met \u00e0 table indique une action de s'installer.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "0",
+      "explanation": "Il a l'air d'\u00e9couter exprime une action d'observation.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "10",
+      "explanation": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main d\u00e9finit l'interaction avec des objets.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "0",
+      "explanation": "Corbineli fait le signe de la Croix indique une action physique.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "0",
+      "explanation": "Apercevant Ad\u00e9la\u00efde d\u00e9crit une action d'observation.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "0",
+      "explanation": "Il tend l'oreille anxieusement d\u00e9crit une action d'\u00e9coute.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "0",
+      "explanation": "Il va aux fontaines et boit d\u00e9crit une s\u00e9quence d'actions simples.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "6",
+      "explanation": "Montrant Trissotin implique une interaction non verbale en d\u00e9signant un autre personnage.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "0",
+      "explanation": "Parcourant la lettre d\u00e9crit une action de lecture ou de consultation.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "0",
+      "explanation": "Il montre ses yeux poch\u00e9s indique une action d'expression physique.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "0",
+      "explanation": "Regardant est une action d'observation simple.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "10",
+      "explanation": "Elle soul\u00e8ve l'autre vase et prend le billet d\u00e9crit l'interaction avec les objets.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 31958.691120147705,
+  "model": "gpt-4o-mini"
+}

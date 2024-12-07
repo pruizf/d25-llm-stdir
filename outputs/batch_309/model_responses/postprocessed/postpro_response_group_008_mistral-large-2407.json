@@ -1,0 +1,706 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 800,
+      "category": 7,
+      "explanation": "Marthon se rapproche de Madame Lisban et de Lindor, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Marthon se rapproche ici de Madame Lisban et de Lindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 801,
+      "category": 0,
+      "explanation": "Lucile continue de regarder, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 802,
+      "category": 9,
+      "explanation": "L'action continue dans le salon des prisonniers du Temple, ce qui est une description narrative.",
+      "stgdir": "L'action continue dans le salon des prisonniers du Temple.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 803,
+      "category": 6,
+      "explanation": "Il serre la main du Grand \u00c9crivain, ce qui est une interaction non verbale.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 804,
+      "category": 9,
+      "explanation": "Pasquariel se change en monstre. Arlequin jette son manteau royal, et para\u00eet mont\u00e9 sur un cheval ail\u00e9, combat le monstre, et apr\u00e8s un jeu de culbutes, la sc\u00e8ne finit, ce qui est une description narrative longue.",
+      "stgdir": "Pasquariel se change en monstre. Arlequin jette son manteau royal, et para\u00eet mont\u00e9 sur un cheval ail\u00e9, combat le monstre, et apr\u00e8s un jeu de culbutes, la sc\u00e8ne finit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 805,
+      "category": 0,
+      "explanation": "Tirant une clef de sa poche, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Tirant une clef de sa poche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 806,
+      "category": 0,
+      "explanation": "Ils se jettent \u00e0 genoux, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 807,
+      "category": 4,
+      "explanation": "ENTR\u00c9E, ce qui indique l'entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 808,
+      "category": 8,
+      "explanation": "Air : Babet, que t'es gentille, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air : Babet, que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 809,
+      "category": 8,
+      "explanation": "Air : Restez, restez, troupe jolie, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 810,
+      "category": 10,
+      "explanation": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte, ce qui d\u00e9crit un objet.",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 811,
+      "category": 6,
+      "explanation": "Le lui montrant, ce qui est une interaction non verbale.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 812,
+      "category": 0,
+      "explanation": "Elle rit, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle rit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 813,
+      "category": 0,
+      "explanation": "Il lit la lettre de Damis, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 814,
+      "category": 8,
+      "explanation": "Air : Re\u00e7ois dans ton galetas, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air : Re\u00e7ois dans ton galetas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 815,
+      "category": 5,
+      "explanation": "Elle part en riant, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 816,
+      "category": 12,
+      "explanation": "\u00c0 Illo et \u00e0 Tersky, ce qui indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Illo et \u00e0 Tersky.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 817,
+      "category": 8,
+      "explanation": "AIR : L'amiti\u00e9 seule te s\u00e9duit, ce qui d\u00e9crit la musique.",
+      "stgdir": "AIR : L'amiti\u00e9 seule te s\u00e9duit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 818,
+      "category": 6,
+      "explanation": "La Haine et l'Envie s'embrassent, en rechignant, ce qui est une interaction non verbale.",
+      "stgdir": "La Haine et l'Envie s'embrassent, en rechignant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 819,
+      "category": 10,
+      "explanation": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui, ce qui d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 820,
+      "category": 9,
+      "explanation": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants, ce qui est une description narrative longue.",
+      "stgdir": "Azor et Euphrosine vont pour attraper l'Amour, ils passent par dessous un Berceau, et sont pris dans un filet, Francoeur et sa Vendangeuse dans un autre. L'Amour vient au milieu, se moque d'eux; la Sybille approche tout doucement par derri\u00e8re, lui jette une Guirlande et l'encha\u00eene; d\u00e8s qu'il est pris tous les filets je rompent, et l'Amour unit tous les amants.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 821,
+      "category": 0,
+      "explanation": "Regardant les fleurs, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Regardant les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 822,
+      "category": 10,
+      "explanation": "Elle le met \u00e0 son corsage, ce qui d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 823,
+      "category": 0,
+      "explanation": "Elle s'asseoit \u00e0 une table, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle s'asseoit \u00e0 une table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 824,
+      "category": 3,
+      "explanation": "Et comme tout bas, ce qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Et comme tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 825,
+      "category": 12,
+      "explanation": "Au Domestique, ce qui indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au Domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 826,
+      "category": 7,
+      "explanation": "Mouvement violent de monsieur Blaisy, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Mouvement violent de monsieur Blaisy.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 827,
+      "category": 7,
+      "explanation": "Il s'arrache de leurs bras, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Il s'arrache de leurs bras.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 828,
+      "category": 5,
+      "explanation": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 829,
+      "category": 8,
+      "explanation": "Air : Ami, qui l'aurait pu croire, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air : Ami, qui l'aurait pu croire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 830,
+      "category": 8,
+      "explanation": "AIR : Quand tu chantes, berc\u00e9e, ce qui d\u00e9crit la musique.",
+      "stgdir": "AIR : Quand tu chantes, berc\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 831,
+      "category": 0,
+      "explanation": "Reprenant son exorde, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 832,
+      "category": 5,
+      "explanation": "Il rentre dans l'auberge, et Marianne dans sa maison, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Il rentre dans l'auberge, et Marianne dans sa maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 833,
+      "category": 8,
+      "explanation": "AIR. Je crois Lison, ce qui d\u00e9crit la musique.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 834,
+      "category": 6,
+      "explanation": "Il parle \u00e0 son \u00e9cuyer, ce qui est une interaction non verbale.",
+      "stgdir": "Il parle \u00e0 son \u00e9cuyer.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 835,
+      "category": 6,
+      "explanation": "Monsieur Orgon donne la main \u00e0 Madame Oronte, et Val\u00e8re \u00e0 Ang\u00e9lique, ce qui est une interaction non verbale.",
+      "stgdir": "Monsieur Orgon donne la main \u00e0 Madame Oronte, et Val\u00e8re \u00e0 Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 836,
+      "category": 0,
+      "explanation": "Le Financier frappe, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Le Financier frappe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 837,
+      "category": 11,
+      "explanation": "Int\u00e9rieur du Palais ; un tr\u00f4ne au milieu et la Toison d'or suspendue au-dessus du tr\u00f4ne, ce qui d\u00e9crit le lieu de la pi\u00e8ce.",
+      "stgdir": "Int\u00e9rieur du Palais ; un tr\u00f4ne au milieu et la Toison d'or suspendue au-dessus du tr\u00f4ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 838,
+      "category": 7,
+      "explanation": "Le Prince arrive tout triste et tout en col\u00e8re, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Le Prince arrive tout triste et tout en col\u00e8re.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 839,
+      "category": 8,
+      "explanation": "Air Tique, tique, toque , et lonlanla, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air Tique, tique, toque , et lonlanla.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 840,
+      "category": 0,
+      "explanation": "Il se jette aux pieds de Sophie, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il se jette aux pieds de Sophie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 841,
+      "category": 12,
+      "explanation": "\u00c0 Soliman, ce qui indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Soliman.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 842,
+      "category": 6,
+      "explanation": "Dorante et Ang\u00e9lique se regardent tous deux, ce qui est une interaction non verbale.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 843,
+      "category": 5,
+      "explanation": "Sophar rentre dans la maison, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Sophar rentre dans la maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 844,
+      "category": 9,
+      "explanation": "On entend un coup de feu, ce qui est une description narrative.",
+      "stgdir": "On entend un coup de feu.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 845,
+      "category": 0,
+      "explanation": "Elle lit s'\u00e9crie :, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle lit s'\u00e9crie :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 846,
+      "category": 7,
+      "explanation": "Il va le chercher, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Il va le chercher.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 847,
+      "category": 10,
+      "explanation": "On lui pr\u00e9sente les deux l\u00e9vriers, ce qui d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "On lui pr\u00e9sente les deux l\u00e9vriers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 848,
+      "category": 7,
+      "explanation": "Robespierre s'approche, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Robespierre s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 849,
+      "category": 0,
+      "explanation": "Joseph et Victorine tombent \u00e0 genoux, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Joseph et Victorine tombent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 850,
+      "category": 12,
+      "explanation": "Au pr\u00e9sident, ce qui indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 851,
+      "category": 0,
+      "explanation": "Il arrive, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il arrive.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 852,
+      "category": 7,
+      "explanation": "Iole s'avance pour rendre hommage \u00e0 D\u00e9janire, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Iole s'avance pour rendre hommage \u00e0 D\u00e9janire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 853,
+      "category": 7,
+      "explanation": "L\u00e9on fait un grand mouvement, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 854,
+      "category": 0,
+      "explanation": "Elles vont d\u00eener, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elles vont d\u00eener.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 855,
+      "category": 3,
+      "explanation": "Soupir de satisfaction, ce qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Soupir de satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 856,
+      "category": 9,
+      "explanation": "Le jeune Kerkabon, qui vainement a voulu suivre son amie, s\u00e9par\u00e9 d'elle, et pour jamais, s'abandonne au plus affreux d\u00e9sespoir ; il l'appelle en tendant les bras vers le lieu qui la d\u00e9robe \u00e0 ses regards, il l'appelle... et voyant qu'elle me r\u00e9pond pas, il parait vouloir renoncer \u00e0 la vie, il s'\u00e9chappe des bras qui lui sont ouverts, et va tomber sur le banc de gazon, plac\u00e9 \u00e0 gauche du spectateur. Les g\u00e9n\u00e9reux parents s'empressent \u00e0 lui t\u00e9moigner l'int\u00e9r\u00eat le plus tendre !... Celui que l'on doit au malheur, ce qui est une description narrative longue.",
+      "stgdir": "Le jeune Kerkabon, qui vainement a voulu suivre son amie, s\u00e9par\u00e9 d'elle, et pour jamais, s'abandonne au plus affreux d\u00e9sespoir ; il l'appelle en tendant les bras vers le lieu qui la d\u00e9robe \u00e0 ses regards, il l'appelle... et voyant qu'elle me r\u00e9pond pas, il parait vouloir renoncer \u00e0 la vie, il s'\u00e9chappe des bras qui lui sont ouverts, et va tomber sur le banc de gazon, plac\u00e9 \u00e0 gauche du spectateur. Les g\u00e9n\u00e9reux parents s'empressent \u00e0 lui t\u00e9moigner l'int\u00e9r\u00eat le plus tendre !... Celui que l'on doit au malheur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 857,
+      "category": 0,
+      "explanation": "Elle met la couronne sur sa t\u00eate, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle met la couronne sur sa t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 858,
+      "category": 3,
+      "explanation": "Elle lui parle bas, ce qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Elle lui parle bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 859,
+      "category": 0,
+      "explanation": "Julie regarde le marquis, l\u00e8ve les yeux au ciel, et s'en va, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Julie regarde le marquis, l\u00e8ve les yeux au ciel, et s'en va.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 860,
+      "category": 10,
+      "explanation": "Il tire un Papier, ce qui d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 861,
+      "category": 8,
+      "explanation": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 862,
+      "category": 9,
+      "explanation": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout, ce qui est une description narrative.",
+      "stgdir": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 863,
+      "category": 7,
+      "explanation": "Il sort de son si\u00e8ge, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Il sort de son si\u00e8ge.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 864,
+      "category": 4,
+      "explanation": "L'Oranger et l'Aub\u00e9pine paraissent au fond, ce qui indique l'entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 865,
+      "category": 9,
+      "explanation": "On entend la voiture de Doduvert qui s'en va, ce qui est une description narrative.",
+      "stgdir": "On entend la voiture de Doduvert qui s'en va.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 866,
+      "category": 3,
+      "explanation": "Il continue \u00e0 chanter, ce qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Il continue \u00e0 chanter.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 867,
+      "category": 5,
+      "explanation": "Il entre chez lui, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 868,
+      "category": 3,
+      "explanation": "Tout bas, ce qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 869,
+      "category": 5,
+      "explanation": "Baptiste se sauve, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 870,
+      "category": 1,
+      "explanation": "Il fait un massacre de Polonais, ce qui est une action violente.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 871,
+      "category": 4,
+      "explanation": "Elle entre sur la sc\u00e8ne, ce qui indique l'entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Elle entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 872,
+      "category": 8,
+      "explanation": "Air : C'est \u00e0 mon ma\u00eetre en l'art de plaire, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air : C'est \u00e0 mon ma\u00eetre en l'art de plaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 873,
+      "category": 12,
+      "explanation": "\u00c0 Candide, ce qui indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 874,
+      "category": 3,
+      "explanation": "Il parle tout bas, ce qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Il parle tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 875,
+      "category": 10,
+      "explanation": "Alain prend le cigare, ce qui d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "Alain prend le cigare.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 876,
+      "category": 8,
+      "explanation": "AIR. Toujours va qui danse, ce qui d\u00e9crit la musique.",
+      "stgdir": "AIR. Toujours va qui danse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 877,
+      "category": 5,
+      "explanation": "Il sort en chantant, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 878,
+      "category": 5,
+      "explanation": "Dame Pluche sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Dame Pluche sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 879,
+      "category": 7,
+      "explanation": "Pluton se l\u00e8ve de son tribunal, ce qui est un d\u00e9placement du personnage.",
+      "stgdir": "Pluton se l\u00e8ve de son tribunal.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 880,
+      "category": 8,
+      "explanation": "AIR : Mariez, mariez, mariez-moi, ce qui d\u00e9crit la musique.",
+      "stgdir": "AIR : Mariez, mariez, mariez-moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 881,
+      "category": 8,
+      "explanation": "Air : Non, je ne ferai pas, ce qui d\u00e9crit la musique.",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 882,
+      "category": 8,
+      "explanation": "Air 162 : Lucas se plaint que sa femme, ce qui d\u00e9crit la musique.",
+      "stgdir": "Tersky sort.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 883,
+      "category": 2,
+      "explanation": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre, ce qui est un apart\u00e9.",
+      "stgdir": "Air 162 : Lucas se plaint que sa femme.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 884,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un palais, ce qui d\u00e9crit le lieu de la pi\u00e8ce.",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 885,
+      "category": 9,
+      "explanation": "Il se passe que des branches d\u00e9plac\u00e9es ont fouett\u00e9 le visage de Maurice et qu'un ennemi va s'\u00e9lancer des arbres. Maurice tire son couteau, le brandit, et s'\u00e9crie d'une voix fr\u00e9missante :, ce qui est une description narrative.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un palais.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 886,
+      "category": 9,
+      "explanation": "Dans cette obscurit\u00e9 soudaine, l'Envie sort de son antre qui s'ouvre au milieu du th\u00e9\u00e2tre : elle \u00e9voque le monstrueux Serpent Python, qui para\u00eet dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumi\u00e8re qui \u00e9claire le th\u00e9\u00e2tre : elle appelle les Vents les plus imp\u00e9tueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous apr\u00e8s avoir vol\u00e9 et s'\u00eatre crois\u00e9s dans l'air, viennent se ranger autour d'elle, pour l'aider \u00e0 troubler les beaux jours que le Soleil donne au monde, ce qui est une description narrative longue.",
+      "stgdir": "Il se passe que des branches d\u00e9plac\u00e9es ont fouett\u00e9 le visage de Maurice et qu'un ennemi va s'\u00e9lancer des arbres. Maurice tire son couteau, le brandit, et s'\u00e9crie d'une voix fr\u00e9missante :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 887,
+      "category": 11,
+      "explanation": "Au lever du rideau, Gontran est couch\u00e9 tout habill\u00e9 sur le lit. Dix heures sonnent, ce qui d\u00e9crit le lieu de la pi\u00e8ce.",
+      "stgdir": "Dans cette obscurit\u00e9 soudaine, l'Envie sort de son antre qui s'ouvre au milieu du th\u00e9\u00e2tre : elle \u00e9voque le monstrueux Serpent Python, qui para\u00eet dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumi\u00e8re qui \u00e9claire le th\u00e9\u00e2tre : elle appelle les Vents les plus imp\u00e9tueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous apr\u00e8s avoir vol\u00e9 et s'\u00eatre crois\u00e9s dans l'air, viennent se ranger autour d'elle, pour l'aider \u00e0 troubler les beaux jours que le Soleil donne au monde.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 888,
+      "category": 9,
+      "explanation": "Tous partent d'un \u00e9clat de rire, ce qui est une description narrative.",
+      "stgdir": "Au lever du rideau, Gontran est couch\u00e9 tout habill\u00e9 sur le lit. Dix heures sonnent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 889,
+      "category": 11,
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais d'Omphale, ce qui d\u00e9crit le lieu de la pi\u00e8ce.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 890,
+      "category": 12,
+      "explanation": "Puis s'adressant \u00e0 Oronte, ce qui indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais d'Omphale.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 891,
+      "category": 8,
+      "explanation": "Air : D'\u00c9gl\u00e9. Que je vous aime !, ce qui d\u00e9crit la musique.",
+      "stgdir": "Puis s'adressant \u00e0 Oronte.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 892,
+      "category": 4,
+      "explanation": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur, ce qui indique l'entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Air : D'\u00c9gl\u00e9. Que je vous aime !",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 893,
+      "category": 4,
+      "explanation": "Amintus para\u00eet, ce qui indique l'entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 894,
+      "category": 6,
+      "explanation": "Lui effeuillant son bouquet de roses sur la t\u00eate, ce qui est une interaction non verbale.",
+      "stgdir": "Amintus para\u00eet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 895,
+      "category": 0,
+      "explanation": "Julie ouvre la lettre. Son p\u00e8re et Moli\u00e8re l'observent, ce qui est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Lui effeuillant son bouquet de roses sur la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 896,
+      "category": 3,
+      "explanation": "Il r\u00e9p\u00e8te ces quatre vers, ce qui d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Julie ouvre la lettre. Son p\u00e8re et Moli\u00e8re l'observent.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 897,
+      "category": 4,
+      "explanation": "Entr\u00e9e de deux petits paysans et d'une petite paysanne, ce qui indique l'entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 898,
+      "category": 5,
+      "explanation": "Il s'en va avec les demi-Dieux, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e de deux petits paysans et d'une petite paysanne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 899,
+      "category": 8,
+      "explanation": "Air : Non, je ne ferai pas, ce qui d\u00e9crit la musique.",
+      "stgdir": "Il s'en va avec les demi-Dieux.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 200532.0382118225,
+  "model": "mistral-large-2407"
+}

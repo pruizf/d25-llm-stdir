@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "675",
+      "category": "9",
+      "explanation": "Le Ciel se referme \u00e9voque une action m\u00e9t\u00e9orologique, d\u00e9crivant l'\u00e9tat du ciel, ce qui est narratif.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "676",
+      "category": "10",
+      "explanation": "Il tire un porte-feuille implique l'interaction avec un objet, en sp\u00e9cifiant l'action de tirer. ",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "677",
+      "category": "10",
+      "explanation": "Elle lui donne son jupon d\u00e9crit un \u00e9change d'objet, impliquant une manipulation directe d'un v\u00eatement.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "678",
+      "category": "10",
+      "explanation": "Prenant des fleurs dans le tiroir indique une action dirig\u00e9e vers un objet sp\u00e9cifique, en l'occurrence des fleurs.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "679",
+      "category": "10",
+      "explanation": "Il prend une couronne dans le panier d'Antoine implique \u00e9galement la manipulation d'un objet, la couronne.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "680",
+      "category": "10",
+      "explanation": "Il lui donne deux lettres dont il lit l'inscription est une interaction avec des objets, en l'occurrence des lettres.",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "681",
+      "category": "10",
+      "explanation": "Mettant le portefeuille sur une table indique une action de d\u00e9poser un objet sur une surface.",
+      "stgdir": "Mettant le portefeuille sur une table[.]",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "682",
+      "category": "6",
+      "explanation": "Il lui pose la couronne sur la t\u00eate est une interaction non verbale o\u00f9 un personnage aide un autre.",
+      "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "683",
+      "category": "6",
+      "explanation": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre implique une interaction non verbale o\u00f9 elle modifie la possession de l'objet.",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "684",
+      "category": "0",
+      "explanation": "Il \u00f4te ses gants puis les remet vivement, ce qui rel\u00e8ve d'une action g\u00e9n\u00e9rale sans un objet sp\u00e9cifique.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "685",
+      "category": "11",
+      "explanation": "Le palais du roi est une description de d\u00e9cor, d\u00e9finissant le cadre de la sc\u00e8ne.",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "686",
+      "category": "11",
+      "explanation": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent est encore une description de d\u00e9cor, sans action sp\u00e9cifique.",
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "687",
+      "category": "5",
+      "explanation": "Il quitte le balcon d\u00e9signe un exit, ce qui implique qu'un personnage sort de la sc\u00e8ne.",
+      "stgdir": "Il quitte le balcon.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "688",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur d\u00e9crit le cadre de la sc\u00e8ne avec des \u00e9l\u00e9ments sp\u00e9cifiques.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "689",
+      "category": "11",
+      "explanation": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige fournit une description de l'environnement de la sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "690",
+      "category": "11",
+      "explanation": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre et Thalie sur l'aile gauche avec sa suite est une description des personnages et de leur placement sur la sc\u00e8ne.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "691",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique fournit \u00e0 nouveau une description du cadre de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "692",
+      "category": "7",
+      "explanation": "La toile se baisse implique un changement dans la sc\u00e8ne, ce qui implique un mouvement.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "693",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; ceci d\u00e9crit la sc\u00e8ne en tant que cadre visuel.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; une habitation est \u00e0 la droite du spectateur ; parmi les arbres qui d\u00e9corent la sc\u00e8ne, on remarque un sumac du Canada, qui doit \u00eatre plus apparent que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "694",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage fournit une description du cadre de la sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "695",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte d\u00e9crit un changement dans la d\u00e9coration du cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "696",
+      "category": "0",
+      "explanation": "Scapin et Monsieur Dumont pr\u00e9parent tout est une d\u00e9claration g\u00e9n\u00e9rale concernant l'action, mais sans objet sp\u00e9cifique.",
+      "stgdir": "Scapin et Monsieur Dumont pr\u00e9parent tout.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "697",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre donne une description du cadre, \u00e0 nouveau.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "698",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e fournit une description d\u00e9taill\u00e9e du cadre de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "699",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE d\u00e9crit le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "700",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron est une description du cadre et de l'environnement.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "701",
+      "category": "11",
+      "explanation": "D\u00c9CORATION DU Ve ACTE d\u00e9crit le d\u00e9cor sp\u00e9cifique propos\u00e9 pour l'acte.",
+      "stgdir": "D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "702",
+      "category": "11",
+      "explanation": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef\u2026  fournit une description d\u00e9taill\u00e9e du cadre de la sc\u00e8ne.",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "703",
+      "category": "11",
+      "explanation": "La salle du Conseil d'Ubu indique \u00e9galement un cadre ou un d\u00e9cor sp\u00e9cifique.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "704",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine d\u00e9crit clairement un environnement de sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "705",
+      "category": "7",
+      "explanation": "Elle va au lit de la petite Dusault implique un mouvement dans l'espace, pas une sortie ou un changement de d\u00e9cor.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "706",
+      "category": "11",
+      "explanation": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e d\u00e9crit un autre cadre non verbal.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "707",
+      "category": "9",
+      "explanation": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit, fournit des d\u00e9tails narratifs sur une sc\u00e8ne.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "708",
+      "category": "11",
+      "explanation": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique\u2026 d\u00e9finit le cadre visuel.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "709",
+      "category": "11",
+      "explanation": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre\u2026 fournit une description de l'objet sur sc\u00e8ne.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "710",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean\u2026 fournit une description du cadre de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "711",
+      "category": "11",
+      "explanation": "La sc\u00e8ne repr\u00e9sente sur le devant un lieu champ\u00eatre\u2026 encore une fois, une description du cadre.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente sur le devant un lieu champ\u00eatre, et dans l'enfoncement un rocher perc\u00e9 \u00e0 jour, \u00e0 travers duquel on voit la mer en \u00e9loignement. Flore para\u00eet au milieu du th\u00e9\u00e2tre, accompagn\u00e9 de Vertumne Dieu des Arbres et des Fruits, et de Palamon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinit\u00e9s ; l'un m\u00e8ne \u00e0 sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Na\u00efades, Flore chante ce r\u00e9cit pour inviter V\u00e9nus \u00e0 descendre en Terre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "712",
+      "category": "11",
+      "explanation": "Une route devant une h\u00f4tellerie\u2026 fournit une description de l'environnement de sc\u00e8ne.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "713",
+      "category": "11",
+      "explanation": "Une salle d'auberge fournit une description du d\u00e9cor.",
+      "stgdir": "Une salle d'auberge.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "714",
+      "category": "7",
+      "explanation": "Il passe devant \u00c9velina indique un mouvement \u00e0 travers l'espace.",
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "715",
+      "category": "7",
+      "explanation": "Il va vers la porte du cabinet implique un d\u00e9placement d'un personnage.",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "716",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables\u2026 d\u00e9crit le cadre de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "717",
+      "category": "6",
+      "explanation": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre implique une interaction entre les personnages.",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "718",
+      "category": "7",
+      "explanation": "Elle passe \u00e0 gauche implique un mouvement.",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "719",
+      "category": "7",
+      "explanation": "Elles traversent toutes deux indique \u00e9galement un mouvement.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "720",
+      "category": "6",
+      "explanation": "Tous les deux prennent place devant la table indique une interaction non verbale.",
+      "stgdir": "Tous les deux prennent place devant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "721",
+      "category": "7",
+      "explanation": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir implique un mouvement vers le fond.",
+      "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "722",
+      "category": "7",
+      "explanation": "\u00c0 la balustrade implique un mouvement d'un personnage vers un endroit.",
+      "stgdir": "\u00c0 la balustrade.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "723",
+      "category": "7",
+      "explanation": "Il fait lever la toile implique un mouvement, en r\u00e9f\u00e9rence \u00e0 l'\u00e9l\u00e9vation de la toile.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "724",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le devant de la maison de Pantalon d\u00e9crit le d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le devant de la maison de Pantalon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "725",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre fournit une description de l'environnement.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "726",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes d\u00e9crit un changement de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "727",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de ville fournit une description du cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "728",
+      "category": "11",
+      "explanation": "Une biblioth\u00e8que dont tous les rayons sont vides \u2026 offre une description d'une pi\u00e8ce ou environnement.",
+      "stgdir": "Une biblioth\u00e8que dont tous les rayons sont vides ; au milieu, Sainte-Beuve, et \u00e0 son c\u00f4t\u00e9 un diable, travesti en \u00e9tudiant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "729",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. fournit une description de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "730",
+      "category": "11",
+      "explanation": "Une fontaine dans un bois d\u00e9crit le cadre de la sc\u00e8ne.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "731",
+      "category": "11",
+      "explanation": "Un salon de coiffeur d\u00e9crit le cadre et ses \u00e9l\u00e9ments.",
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "732",
+      "category": "11",
+      "explanation": "En prison fournit une description du cadre.",
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "733",
+      "category": "11",
+      "explanation": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre d\u00e9crit l'\u00e9tat de la sc\u00e8ne.",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "734",
+      "category": "11",
+      "explanation": "LE CH\u00c2TEAU DE SILVA\u2026 d\u00e9crit le cadre ou d\u00e9cor.",
+      "stgdir": "LE CH\u00c2TEAU DE SILVA. Dans les montagnes d'Aragon. La galerie des portraits de famille de Silva ; grande salle, dont ces portraits entour\u00e9s de riches bordures, et surmont\u00e9s de couronnes ducales et d'\u00e9cussons dor\u00e9s, font la d\u00e9coration. Au fond une haute porte gothique. Entre chaque portrait une panoplie compl\u00e8te, toutes ces armures de si\u00e8cles diff\u00e9rents.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "735",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher fournit une description.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "736",
+      "category": "9",
+      "explanation": "La porte du fond s'ouvre; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re\u2026  contient des \u00e9l\u00e9ments narratifs.",
+      "stgdir": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re ; de jeunes cavaliers et de jeunes femmes se l\u00e8vent de table ; deux n\u00e8gres v\u00eatus en pages entrent en portant des flambeaux ; la sc\u00e8ne s'\u00e9claire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "737",
+      "category": "6",
+      "explanation": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne implique une interaction.",
+      "stgdir": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "738",
+      "category": "2",
+      "explanation": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre d\u00e9finit une intervention en apart\u00e9.",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "739",
+      "category": "11",
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte est une description du d\u00e9cor.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "740",
+      "category": "11",
+      "explanation": "Le camp sous Varsovie fournit une description du cadre.",
+      "stgdir": "Le camp sous Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "741",
+      "category": "11",
+      "explanation": "Chambre d'h\u00f4tel en d\u00e9sordre fournit une description du cadre.",
+      "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "742",
+      "category": "12",
+      "explanation": "\u00c0 Madherbal indique \u00e0 qui se dirige l'action.",
+      "stgdir": "\u00c0 Madherbal",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "743",
+      "category": "12",
+      "explanation": "\u00c0 Madame Abraham, en allant l'embrasser indique \u00e0 qui l'action est dirig\u00e9e.",
+      "stgdir": "\u00c0 Madame Abraham, en allant l'embrasser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "744",
+      "category": "12",
+      "explanation": "\u00c0 Araminte indique \u00e9galement le destinataire de l'action.",
+      "stgdir": "\u00c0 Araminte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "745",
+      "category": "12",
+      "explanation": "\u00c0 Valentin indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Valentin",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "746",
+      "category": "12",
+      "explanation": "Au gar\u00e7on conf\u00e8re \u00e9galement un destinataire \u00e0 l'action.",
+      "stgdir": "Au gar\u00e7on.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "747",
+      "category": "12",
+      "explanation": "\u00c0 Paul Ferrier indique une direction d'adresse dans l'action.",
+      "stgdir": "\u00c0 Paul Ferrier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "748",
+      "category": "12",
+      "explanation": "\u00c0 Madame Grognac indique qui est la cible de l'action.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "749",
+      "category": "12",
+      "explanation": "\u00c0 N\u00e9optol\u00e9mus conclut une adresse \u00e0 un destinataire sp\u00e9cifique.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 29218.918561935425,
+  "model": "gpt-4o-mini"
+}

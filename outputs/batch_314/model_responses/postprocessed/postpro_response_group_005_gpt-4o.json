@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "375",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction o\u00f9 un personnage embrasse un autre avec peine, ce qui rel\u00e8ve de l'interaction non verbale.",
+      "stgdir": "Il la baise avec peine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "376",
+      "category": "6",
+      "explanation": "Le fait de baiser la bouche d'une personne constitue une interaction non verbale.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "377",
+      "category": "0",
+      "explanation": "Retenir quelqu'un est une action, ce qui correspond \u00e0 une cat\u00e9gorie g\u00e9n\u00e9rale d'action.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "378",
+      "category": "7",
+      "explanation": "Le fait de revenir \u00e0 Oronte implique un mouvement vers une personne, indiquant un d\u00e9placement qui ne constitue ni une entr\u00e9e ni une sortie.",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "379",
+      "category": "7",
+      "explanation": "Aller vers elle d\u00e9crit un mouvement vers une autre personne.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "380",
+      "category": "0",
+      "explanation": "Revenir et remettre la lampe sur la table constituent une s\u00e9rie d'actions g\u00e9n\u00e9rales.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "7",
+      "explanation": "Les deux femmes remontant indique un mouvement d'ascension, correspondant \u00e0 un d\u00e9placement de personnage.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "7",
+      "explanation": "Aller \u00e0 Marie indique un mouvement de d\u00e9placement vers un autre personnage.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "6",
+      "explanation": "Le personnage s'approche et offre sa main \u00e0 H\u00e9l\u00e8ne, ce qui est une interaction non verbale.",
+      "stgdir": "Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "7",
+      "explanation": "Le retour de Cl\u00e9andre et Ferrande indique un mouvement \u00e0 l'int\u00e9rieur de la sc\u00e8ne.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "0",
+      "explanation": "Parler \u00e0 l'oreille de quelqu'un est une action g\u00e9n\u00e9rale, sans rapport direct avec une cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "7",
+      "explanation": "Aller \u00e0 elle d\u00e9crit un d\u00e9placement intentionnel vers quelqu'un.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "7",
+      "explanation": "Faire quelques pas pour sortir indique un mouvement avec une intention de partir.",
+      "stgdir": "Elle fait quelques pas pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "7",
+      "explanation": "Aller vers le po\u00e8te et venir \u00e0 sa rencontre est un d\u00e9placement du personnage.",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "7",
+      "explanation": "Revenir pr\u00e8s de son bureau indique un d\u00e9placement de retour vers un point fixe.",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "390",
+      "category": "5",
+      "explanation": "Tous s'en vont indique une sortie collective de la sc\u00e8ne, relevant de la cat\u00e9gorie de sortie.",
+      "stgdir": "Tous s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "391",
+      "category": "6",
+      "explanation": "S'approcher de Dormel et l'embrasser constitue une interaction non verbale avec un autre personnage.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "392",
+      "category": "6",
+      "explanation": "Faire faire le tour du th\u00e9\u00e2tre est une interaction physique non verbale avec un personnage.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "393",
+      "category": "5",
+      "explanation": "Se retirer est \u00e9quivalent \u00e0 quitter la sc\u00e8ne, donc une sortie.",
+      "stgdir": "Elle se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "394",
+      "category": "7",
+      "explanation": "S'approcher apr\u00e8s avoir agi indique un d\u00e9placement cons\u00e9cutif \u00e0 une action.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "395",
+      "category": "0",
+      "explanation": "T\u00e9moigner d'une intention de partir est une action sp\u00e9cifique du personnage.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "396",
+      "category": "7",
+      "explanation": "Se rapprocher implique un d\u00e9placement vers un objet ou une personne.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "397",
+      "category": "7",
+      "explanation": "Suivre quelqu'un indique le mouvement de se diriger derri\u00e8re un autre.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "398",
+      "category": "0",
+      "explanation": "R\u00e9p\u00e9ter le m\u00eame jeu fait r\u00e9f\u00e9rence \u00e0 une action effectu\u00e9e de la m\u00eame mani\u00e8re que pr\u00e9c\u00e9demment.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "399",
+      "category": "10",
+      "explanation": "\u00d4ter sa main implique une interaction avec une partie du corps, semblable \u00e0 un objet.",
+      "stgdir": "Elle \u00f4te sa main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "400",
+      "category": "5",
+      "explanation": "S'en aller est similaire \u00e0 quitter la sc\u00e8ne, ce qui est une sortie.",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "401",
+      "category": "7",
+      "explanation": "Suivre un personnage implique un mouvement continu derri\u00e8re quelqu'un.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "402",
+      "category": "5",
+      "explanation": "Se retirer de la danse indique une fin de participation et une sortie.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "403",
+      "category": "7",
+      "explanation": "Vouloir s'enfuir fait r\u00e9f\u00e9rence \u00e0 un mouvement h\u00e2tif de d\u00e9part, sans pr\u00e9ciser s'il s'agit d'une sortie effective.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "404",
+      "category": "7",
+      "explanation": "Effectuer un mouvement pour aller vers une personne indique un d\u00e9placement intentionnel.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "405",
+      "category": "7",
+      "explanation": "Revenir promptement \u00e0 elle implique un mouvement de retour.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "406",
+      "category": "7",
+      "explanation": "Se mouvoir pour s'\u00e9loigner indique un d\u00e9placement vers l'ext\u00e9rieur de la sc\u00e8ne.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "407",
+      "category": "7",
+      "explanation": "Se rendre pr\u00e8s de quelqu'un implique un d\u00e9placement intentionnel vers une destination sp\u00e9cifique.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "408",
+      "category": "5",
+      "explanation": "Aller indique une sortie de la sc\u00e8ne.",
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "409",
+      "category": "7",
+      "explanation": "Se mettre entre L\u00e9lie et sa ma\u00eetresse implique un d\u00e9placement vers une position interm\u00e9diaire.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "410",
+      "category": "7",
+      "explanation": "S'approcher d'un tombeau est un mouvement spatial vers un objet fixe.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "411",
+      "category": "7",
+      "explanation": "Avancer vers la petite porte indique un mouvement intentionnel vers une sortie potentielle.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "412",
+      "category": "7",
+      "explanation": "Se rapprocher d'une personne implique un mouvement spatial vers celle-ci.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "413",
+      "category": "7",
+      "explanation": "S'approcher de C\u00e9cile d\u00e9crit un mouvement vers elle.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "414",
+      "category": "8",
+      "explanation": "C'est un titre d'air musical.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "415",
+      "category": "8",
+      "explanation": "Contient le mot 'CHANSON' qui indique une pi\u00e8ce de musique.",
+      "stgdir": "CHANSON des Basques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "416",
+      "category": "8",
+      "explanation": "Identifi\u00e9 comme un air musical par son titre : 'Air 26 : Talarire'.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "417",
+      "category": "8",
+      "explanation": "Il s'agit d'un titre musical : 'Air des Bossus'.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "418",
+      "category": "8",
+      "explanation": "Inclut le mot 'air' et une description de la chanson.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "419",
+      "category": "8",
+      "explanation": "'AIR. ( De la Besogne. )' est une r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "420",
+      "category": "8",
+      "explanation": "Air : La danse n'eslpas Ce que j'aime est un titre d'air musical.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "8",
+      "explanation": "Commence par 'Air', donc c'est une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "8",
+      "explanation": "Indique un 'Air 179' nomm\u00e9 'La faridondaine, gu\u00e9 !' qui est un titre musical.",
+      "stgdir": "Air 179 : La faridondaine, gu\u00e9 !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "8",
+      "explanation": "Nom d'un air musical : 'Air : Colin un jour trouva Lisette'.",
+      "stgdir": "Air : Colin un jour trouva Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "8",
+      "explanation": "Didascalie pr\u00e9sentant une pi\u00e8ce musicale particuli\u00e8re : 'CLOMIRE, PASTORALE'.",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "8",
+      "explanation": "Identifi\u00e9 comme une 'Antistrophe', g\u00e9n\u00e9ralement une section musicale, ici la IXe.",
+      "stgdir": "Antistrophe IX.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "8",
+      "explanation": "Se r\u00e9f\u00e8re \u00e0 un Air : De Monsieur Doche, ce qui indique une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "Air : De Monsieur Doche.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "8",
+      "explanation": "Titre d'une pi\u00e8ce musicale ou po\u00e9tique : 'LE FLEUVE ET SA SOURCE'.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical identifi\u00e9 comme 'AIR. Ah ! je vous trouve, Chevalier'.",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "8",
+      "explanation": "'CARTEL de Tygrane \u00e0 Eurim\u00e9don' est probablement li\u00e9 \u00e0 des sc\u00e8nes musicales ou po\u00e9tiques.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "430",
+      "category": "8",
+      "explanation": "Un air musical : 'AIR : Restez, restez, troupe jolie'.",
+      "stgdir": "AIR : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "8",
+      "explanation": "Une r\u00e9f\u00e9rence musicale nomm\u00e9e : 'Air : Des fraises'.",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "8",
+      "explanation": "Identifi\u00e9 comme un air musical : 'AIR : O gu\u00e9 lan la, lanlaire'.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "8",
+      "explanation": "Le mot 'air chant\u00e9' et 'musique' indiquent une s\u00e9quence musicale.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "8",
+      "explanation": "Nom d'un air : 'Air : Lampons'.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "8",
+      "explanation": "Identifi\u00e9 comme un air musical : 'Air : Sa ne vous va brin'.",
+      "stgdir": "Air : Sa ne vous va brin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "8",
+      "explanation": "Inclut AIR, d\u00e9crivant une musique sp\u00e9cifique : 'Dans un Couvent bien-heureux'.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence musicale sous 'AIR : C'est Suson la camarde'.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "8",
+      "explanation": "Concerne un air : 'Air : Pour qu'sa pr\u00e9tention soit bannie'.",
+      "stgdir": "Air : Pour qu'sa pr\u00e9tention soit bannie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "8",
+      "explanation": "Indique un air : 'Air : Va, va, Fanchon, J'irai en salle'.",
+      "stgdir": "Air : Va, va, Fanchon, J'irai en salle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "440",
+      "category": "8",
+      "explanation": "La mention de 'PANTOMIME' signifie probablement une s\u00e9quence musicale ou chor\u00e9graphique.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "441",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical d'apr\u00e8s la mention : 'Air : Quand on tient de ce jus d'octobre'.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "442",
+      "category": "9",
+      "explanation": "La mention simple 'LETTRE' indique une s\u00e9quence narrative ou descriptive.",
+      "stgdir": "LETTRE",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "443",
+      "category": "8",
+      "explanation": "La mention 'AIR. Mon Papa toute la nuit' indique un contenu musical.",
+      "stgdir": "AIR. Mon Papa toute la nuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "444",
+      "category": "8",
+      "explanation": "'Strophe X' se rapporte g\u00e9n\u00e9ralement \u00e0 un extrait musical ou po\u00e9tique.",
+      "stgdir": "Strophe X.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "445",
+      "category": "8",
+      "explanation": "Une 'symphonie douce' se r\u00e9f\u00e8re \u00e0 une description musicale.",
+      "stgdir": "On entend une symphonie douce.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "446",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical : 'Air : \u00c0 l'ombre de ce vert bocage'.",
+      "stgdir": "Air : \u00c0 l'ombre de ce vert bocage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "447",
+      "category": "8",
+      "explanation": "Mention d'un air musical : 'AIR : Va t'en voir s'ils viennent Jean'.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "448",
+      "category": "8",
+      "explanation": "Titre d'un air musical : 'Air : Une jeune Pucelle, etc.'",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "449",
+      "category": "8",
+      "explanation": "Identificateur d'un air musical : 'AIR : Ne m'entendez-vous pas'.",
+      "stgdir": "AIR : Ne m'entendez-vous pas.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 50560.208559036255,
+  "model": "gpt-4o"
+}

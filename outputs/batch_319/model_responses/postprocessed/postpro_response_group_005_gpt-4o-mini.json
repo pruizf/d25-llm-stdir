@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "375",
+      "category": "11",
+      "explanation": "La didascalie 'Entre Dergos' indique probablement la mise en place d'un personnage, ce qui correspond \u00e0 une description du lieu de la pi\u00e8ce.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "376",
+      "category": "11",
+      "explanation": "Cette didascalie '\u00c0 l'artisan' indique un lieu sp\u00e9cifique dans la pi\u00e8ce, donc elle fait partie de la description de la sc\u00e8ne.",
+      "stgdir": "\u00c0 l'artisan.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "377",
+      "category": "3",
+      "explanation": "Cette didascalie contient une r\u00e9plique interpr\u00e9t\u00e9e, donc elle se classifie sous la cat\u00e9gorie de delivery.",
+      "stgdir": "Air : Je ne veux point troubler votre ignorance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "378",
+      "category": "1",
+      "explanation": "La didascalie implique une action violente puisque le personnage frappe, donc cela correspond \u00e0 l'agression.",
+      "stgdir": "Il le frappe ou croit le frapper, et attrape le mur, qui lui fait tomber son b\u00e2ton de la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "379",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit une action se d\u00e9roulant dans un cadre, int\u00e9grant des personnages sp\u00e9cifiques, ce qui indique un lieu.",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "380",
+      "category": "6",
+      "explanation": "La didascalie implique une interaction non verbale, o\u00f9 un personnage montre \u00e0 un autre l'huissier.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "10",
+      "explanation": "Cette didascalie concerne la manipulation d'un objet, le portefeuille, ce qui l'inscrit dans la cat\u00e9gorie des objets.",
+      "stgdir": "Il tire son portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "3",
+      "explanation": "Cette didascalie d\u00e9crit un v\u0153u exprim\u00e9 par un personnage, d'o\u00f9 sa classification sous delivery.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "12",
+      "explanation": "La mention '\u00c0 son \u00e9poux' indique \u00e0 qui le personnage s'adresse, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "0",
+      "explanation": "Il s'agit d'une action o\u00f9 un personnage arrive en premier, sans sp\u00e9cifier d'interaction ou de contexte \u00e9motionnel.",
+      "stgdir": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "8",
+      "explanation": "Cela concerne un bruit musical sp\u00e9cifique, une partie int\u00e9grante de la pi\u00e8ce.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "0",
+      "explanation": "Elle observe sans interagir, c'est une action passive mais non violente.",
+      "stgdir": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "10",
+      "explanation": "Elle fait r\u00e9f\u00e9rence \u00e0 un objet, le paquet pris par la Reine.",
+      "stgdir": "La Reine prenant le paquet de la suivante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit la mise en sc\u00e8ne de personnages dans le fond du Th\u00e9\u00e2tre, ce qui est li\u00e9 au cadre.",
+      "stgdir": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction visuelle o\u00f9 un personnage montre quelque chose \u00e0 un autre.",
+      "stgdir": "Montrant la Marchande de Chansons.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "390",
+      "category": "0",
+      "explanation": "Il semble \u00e9couter, ce qui est une action simple sans interaction ou \u00e9motion particuli\u00e8re.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "391",
+      "category": "8",
+      "explanation": "Indique un air musical, ce qui le classe dans la musique.",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "392",
+      "category": "11",
+      "explanation": "Il s'agit d'une description d'un personnage qui aper\u00e7oit quelqu'un, ce qui est contextuel au cadre.",
+      "stgdir": "Apercevant Flamand.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "393",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air musical sp\u00e9cifique, donc directement li\u00e9 \u00e0 la musique.",
+      "stgdir": "Air : Quand la mer rouge apparut.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "394",
+      "category": "5",
+      "explanation": "Cette didascalie indique qu'un personnage sort, ce qui appartient \u00e0 la cat\u00e9gorie exit.",
+      "stgdir": "Marthe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "395",
+      "category": "8",
+      "explanation": "Ceci fait r\u00e9f\u00e9rence \u00e0 un bruit musical, donc cela se classe sous la musique.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "396",
+      "category": "9",
+      "explanation": "Cette didascalie d\u00e9crit un son sp\u00e9cifique qui pourrait influencer la narration de la pi\u00e8ce.",
+      "stgdir": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "397",
+      "category": "10",
+      "explanation": "Cela concerne la manipulation d'un objet, une couronne prise dans un panier.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "398",
+      "category": "7",
+      "explanation": "Il indique un mouvement vers quelqu'un d'autre, ce qui appartient \u00e0 la cat\u00e9gorie de movement.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "399",
+      "category": "12",
+      "explanation": "Cela dirige l'attention de la r\u00e9plique vers un destinataire sp\u00e9cifique, l'Inspecteur des B\u00e2timents.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "400",
+      "category": "12",
+      "explanation": "Encore une fois, cela pr\u00e9cise \u00e0 qui un personnage s'adresse en parlant \u00e0 Perdiccas.",
+      "stgdir": "\u00c0 Perdiccas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "401",
+      "category": "12",
+      "explanation": "Il indique qui le personnage voit, ce qui oriente l'attention de la r\u00e9plique.",
+      "stgdir": "Il voit Sophie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "402",
+      "category": "0",
+      "explanation": "R\u00e9pondant indique une action de r\u00e9ponse, sans d\u00e9tails suppl\u00e9mentaires.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "403",
+      "category": "3",
+      "explanation": "Cela fait r\u00e9f\u00e9rence \u00e0 un air exprim\u00e9, donc il s'int\u00e8gre dans la cat\u00e9gorie de delivery.",
+      "stgdir": "Sur l'Air : Quand on a bu, la t\u00eate tourne.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "404",
+      "category": "10",
+      "explanation": "Elle pr\u00e9sente un peignoir au feu, ce qui implique une action et un objet.",
+      "stgdir": "Elle pr\u00e9sente le peignoir au feu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "405",
+      "category": "4",
+      "explanation": "Cela indique l'entr\u00e9e d'un personnage dans une sc\u00e8ne.",
+      "stgdir": "Il entre aussi chez Hipolite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "406",
+      "category": "11",
+      "explanation": "C'est une description du cadre o\u00f9 la sc\u00e8ne se d\u00e9roule.",
+      "stgdir": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "407",
+      "category": "8",
+      "explanation": "Un air musical est mentionn\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Sur le Pont d'Avignon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "408",
+      "category": "6",
+      "explanation": "Elle embrasse, ce qui indique une interaction physique entre les personnages.",
+      "stgdir": "Elle l'embrasse encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "409",
+      "category": "12",
+      "explanation": "Indique simplement \u00e0 qui un personnage s'adresse au cours de l'action.",
+      "stgdir": "\u00c0 Achior.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "410",
+      "category": "0",
+      "explanation": "C'est une indication d'une action, donc class\u00e9e en action.",
+      "stgdir": "Elle le fait comme elle de dis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "411",
+      "category": "5",
+      "explanation": "Il s'agit d'une sortie de la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie exit.",
+      "stgdir": "Laurent et Grivet sortent par la porte du fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "412",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, ce qui le classe dans la musique.",
+      "stgdir": "Air : Voulez-vous savoir l'histoire, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "413",
+      "category": "8",
+      "explanation": "Cette didascalie d\u00e9crit un son musical d'un instrument.",
+      "stgdir": "On entend un bruit de hautbois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "414",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air sp\u00e9cifique, cela appartient \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "Air nouveau du C. DELAPORTE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "415",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse, Finot, ce qui le classe dans toward.",
+      "stgdir": "\u00c0 Finot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "416",
+      "category": "8",
+      "explanation": "Encore un air musical, ce qui le classe dans la musique.",
+      "stgdir": "Air 171. Menuet des F\u00eates Grecques et Rom.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "417",
+      "category": "12",
+      "explanation": "Cela dirige le regard du personnage vers Cassandre, donc il s'agit de toward.",
+      "stgdir": "Apercevant Cassandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "418",
+      "category": "12",
+      "explanation": "Semblable aux autres, cela indique vers qui un personnage s'adresse.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "419",
+      "category": "0",
+      "explanation": "Sonne du cor est une action qui n'entre dans aucune autre cat\u00e9gorie.",
+      "stgdir": "Il sonne du cor.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "420",
+      "category": "9",
+      "explanation": "Cela d\u00e9crit un bruit annon\u00e7ant l'arriv\u00e9e, donc cela correspond \u00e0 la narration.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "4",
+      "explanation": "Il s'agit de l'entr\u00e9e d'Antoinette sur sc\u00e8ne.",
+      "stgdir": "Antoinette para\u00eet au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "8",
+      "explanation": "Une mention d'un air musical, il est donc class\u00e9 sous musique.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "0",
+      "explanation": "Ils sortent en causant, c'est une action mais sans d\u00e9tails suppl\u00e9mentaires.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "3",
+      "explanation": "Cela d\u00e9crit un Air, qui est une forme de delivery musicale.",
+      "stgdir": "Air : Un jour que j'avais mal dans\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage entend une r\u00e9ponse, ce qui le classe sous toward.",
+      "stgdir": "Il entend sa ma\u00eetresse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "4",
+      "explanation": "Cela signifie que Lucile entre de nouveau sur sc\u00e8ne.",
+      "stgdir": "Lucile revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "7",
+      "explanation": "Il sautille sous les fen\u00eatres, indiquant un type de mouvement.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui se r\u00e9f\u00e8re le personnage, donc cela appartient \u00e0 toward.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "12",
+      "explanation": "Une mention qui indique la direction d'une r\u00e9plique vers Eum\u00e9e.",
+      "stgdir": "\u00c0 Eum\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "430",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit une mise en sc\u00e8ne sp\u00e9cifique d'un lieu dans le bois.",
+      "stgdir": "dans le bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "8",
+      "explanation": "Une mention d'un air, donc class\u00e9e sous la musique.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "10",
+      "explanation": "Il examine quelque chose, une action qui implique un objet.",
+      "stgdir": "Il l'examine des pieds \u00e0 la t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "8",
+      "explanation": "Un air est mentionn\u00e9, donc cela fait partie de la musique.",
+      "stgdir": "Air : Alarmez vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "0",
+      "explanation": "Il arrange des fruits et des fleurs, qui est une action simple.",
+      "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "6",
+      "explanation": "Cette didascalie indique une interaction non verbale entre Orph\u00e9e et Eurydice.",
+      "stgdir": "Orph\u00e9e passe sans regarder Eurydice.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "0",
+      "explanation": "D\u00e9crit un personnage se promenant et lisant, qui est une action.",
+      "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "Il s'agit d'un air qui est une partie int\u00e9grante de la musique.",
+      "stgdir": "AIR : De la marche du Malade imaginaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "6",
+      "explanation": "Indique une interaction physique o\u00f9 lui baisant la bouche, cela est interactif.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "0",
+      "explanation": "Il se l\u00e8ve, une simple action sans \u00e9motion sp\u00e9cifique.",
+      "stgdir": "Il se l\u00e8ve, ainsi que Maurice.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "440",
+      "category": "3",
+      "explanation": "Un Air est mentionn\u00e9, ce qui se classe dans la delivery.",
+      "stgdir": "Air : Du partage de la richesse.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "441",
+      "category": "6",
+      "explanation": "Il retient au bras, ce qui constitue une interaction entre personnages.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "442",
+      "category": "10",
+      "explanation": "Il tire du papier, ce qui implique l'interaction avec un objet.",
+      "stgdir": "Il tire du papier mou de son pot.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "443",
+      "category": "12",
+      "explanation": "C'est une indication de vers qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "444",
+      "category": "8",
+      "explanation": "Cela renvoie \u00e0 un air musical.",
+      "stgdir": "Air : Menuet d'Exaudet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "445",
+      "category": "5",
+      "explanation": "Indique que C\u00e9sario sort de la sc\u00e8ne.",
+      "stgdir": "C\u00e9sario sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "446",
+      "category": "11",
+      "explanation": "C'est une description d'un lieu, une fontaine dans un bois.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "447",
+      "category": "10",
+      "explanation": "Elle soul\u00e8ve un vase et prend un billet, ce qui concerne l'interaction avec un objet.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "448",
+      "category": "5",
+      "explanation": "Cela indique la sortie de N\u00e9restan.",
+      "stgdir": "N\u00e9restan sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "449",
+      "category": "8",
+      "explanation": "Un air est mentionn\u00e9, donc cela rel\u00e8ve de la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR ( Le Cabaret est mon r\u00e9duit. )",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 27163.517236709595,
+  "model": "gpt-4o-mini"
+}

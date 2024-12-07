@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "825",
+      "category": "4",
+      "explanation": "C'est une entr\u00e9e de personnage, indiquant que le domestique fait son apparition sur sc\u00e8ne.",
+      "stgdir": "Au Domestique.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "826",
+      "category": "1",
+      "explanation": "Il d\u00e9crit un mouvement violent de monsieur Blaisy, ce qui correspond \u00e0 une action d'agression.",
+      "stgdir": "Mouvement violent de monsieur Blaisy.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "827",
+      "category": "0",
+      "explanation": "Il s'agit d'une action g\u00e9n\u00e9rale o\u00f9 le personnage se soustrait \u00e0 l'emprise des autres.",
+      "stgdir": "Il s'arrache de leurs bras.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "828",
+      "category": "4",
+      "explanation": "Les personnages sortent de sc\u00e8ne, ce qui caract\u00e9rise une action d'entr\u00e9e.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "829",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, ainsi il entre dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Ami, qui l'aurait pu croire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "830",
+      "category": "8",
+      "explanation": "C'est un air musical sp\u00e9cifiquement d\u00e9sign\u00e9, class\u00e9 sous la musique.",
+      "stgdir": "AIR : Quand tu chantes, berc\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "831",
+      "category": "3",
+      "explanation": "Reprenant son exorde fait r\u00e9f\u00e9rence \u00e0 la fa\u00e7on d'interpr\u00e9ter une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie delivery.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "832",
+      "category": "5",
+      "explanation": "Cela indique une sortie de personnage, car Marianne quitte la sc\u00e8ne.",
+      "stgdir": "Il rentre dans l'auberge, et Marianne dans sa maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "833",
+      "category": "8",
+      "explanation": "C'est un air musical, donc il est class\u00e9 sous la musique.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "834",
+      "category": "6",
+      "explanation": "Il parle \u00e0 son \u00e9cuyer, ce qui implique une interaction entre personnages.",
+      "stgdir": "Il parle \u00e0 son \u00e9cuyer.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "835",
+      "category": "6",
+      "explanation": "C'est une interaction entre deux couples, o\u00f9 il y a une action de donner la main.",
+      "stgdir": "Monsieur Orgon donne la main \u00e0 Madame Oronte, et Val\u00e8re \u00e0 Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "836",
+      "category": "1",
+      "explanation": "Le fait de frapper peut \u00eatre associ\u00e9 \u00e0 une action agressive.",
+      "stgdir": "Le Financier frappe.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "837",
+      "category": "11",
+      "explanation": "Il s'agit de la description d'un lieu, correspondant \u00e0 la cat\u00e9gorie setting.",
+      "stgdir": "Int\u00e9rieur du Palais ; un tr\u00f4ne au milieu et la Toison d'or suspendue au-dessus du tr\u00f4ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "838",
+      "category": "0",
+      "explanation": "Il s'agit d'un mouvement du personnage, d\u00e9crivant son \u00e9tat d'esprit d\u00e9pressif.",
+      "stgdir": "Le Prince arrive tout triste et tout en col\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "839",
+      "category": "8",
+      "explanation": "C'est un air musical, donc il entre dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air Tique, tique, toque , et lonlanla.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "840",
+      "category": "6",
+      "explanation": "Il se jette aux pieds de Sophie, indiquant une interaction physique.",
+      "stgdir": "Il se jette aux pieds de Sophie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "841",
+      "category": "4",
+      "explanation": "Cela peut \u00eatre interpr\u00e9t\u00e9 comme une mise en sc\u00e8ne d'un personnage entrant.",
+      "stgdir": "\u00c0 Soliman.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "842",
+      "category": "6",
+      "explanation": "C'est une interaction visuelle o\u00f9 les personnages se regardent.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "843",
+      "category": "5",
+      "explanation": "Cela indique une sortie de personnage lorsque Sophar quitte la maison.",
+      "stgdir": "Sophar rentre dans la maison.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "844",
+      "category": "0",
+      "explanation": "Il s'agit d'un bruit, mais pas en lui-m\u00eame une action caract\u00e9ristique; cela peut \u00eatre li\u00e9 d'une certaine mani\u00e8re \u00e0 l'action.",
+      "stgdir": "On entend un coup de feu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "845",
+      "category": "3",
+      "explanation": "Elle lit et s'\u00e9crie, ce qui implique une mani\u00e8re d'interpr\u00e9ter la \u00e9motion.",
+      "stgdir": "Elle lit s'\u00e9crie :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "846",
+      "category": "0",
+      "explanation": "Il va chercher quelqu'un; c'est une action d'aller \u00e0 un endroit.",
+      "stgdir": "Il va le chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "847",
+      "category": "10",
+      "explanation": "Il s'agit ici de la pr\u00e9sentation de deux l\u00e9vriers, impliquant un objet et son interaction.",
+      "stgdir": "On lui pr\u00e9sente les deux l\u00e9vriers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "848",
+      "category": "4",
+      "explanation": "Cela indique une entr\u00e9e par la phrase 's'approche', sugg\u00e9rant une entr\u00e9e sc\u00e9nographique.",
+      "stgdir": "Robespierre s'approche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "849",
+      "category": "4",
+      "explanation": "Cela implique une action de supplication avec un geste de soumission, sugg\u00e9rant une interaction.",
+      "stgdir": "Joseph et Victorine tombent \u00e0 genoux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "850",
+      "category": "4",
+      "explanation": "L'action d'entr\u00e9e de personnage se dirige vers le pr\u00e9sident.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "851",
+      "category": "4",
+      "explanation": "Cela indique une arriv\u00e9e ou une entr\u00e9e sur sc\u00e8ne du personnage.",
+      "stgdir": "Il arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "852",
+      "category": "6",
+      "explanation": "L'acte de s'avancer pour rendre hommage repr\u00e9sente une interaction.",
+      "stgdir": "Iole s'avance pour rendre hommage \u00e0 D\u00e9janire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "853",
+      "category": "7",
+      "explanation": "Il fait un grand mouvement qui implique un changement de position.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "854",
+      "category": "0",
+      "explanation": "Cela fait r\u00e9f\u00e9rence \u00e0 une action de groupe d'aller d\u00eener.",
+      "stgdir": "Elles vont d\u00eener.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "855",
+      "category": "3",
+      "explanation": "Il s'agit d'une expression de satisfaction d\u00e9crivant un sentiment.",
+      "stgdir": "Soupir de satisfaction.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "856",
+      "category": "9",
+      "explanation": "C'est une didascalie narrative qui d\u00e9taille les \u00e9motions et actions du personnage.",
+      "stgdir": "Le jeune Kerkabon, qui vainement a voulu suivre son amie, s\u00e9par\u00e9 d'elle, et pour jamais, s'abandonne au plus affreux d\u00e9sespoir ; il l'appelle en tendant les bras vers le lieu qui la d\u00e9robe \u00e0 ses regards, il l'appelle... et voyant qu'elle me r\u00e9pond pas, il parait vouloir renoncer \u00e0 la vie, il s'\u00e9chappe des bras qui lui sont ouverts, et va tomber sur le banc de gazon, plac\u00e9 \u00e0 gauche du spectateur. Les g\u00e9n\u00e9reux parents s'empressent \u00e0 lui t\u00e9moigner l'int\u00e9r\u00eat le plus tendre !... Celui que l'on doit au malheur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "857",
+      "category": "10",
+      "explanation": "Cela fait r\u00e9f\u00e9rence \u00e0 l'action de la couronne, un objet, devant un personnage.",
+      "stgdir": "Elle met la couronne sur sa t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "858",
+      "category": "6",
+      "explanation": "Elle lui parle bas, cela implique interaction verbale.",
+      "stgdir": "Elle lui parle bas.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "859",
+      "category": "7",
+      "explanation": "Le mouvement de Julie implique son retrait et son d\u00e9part.",
+      "stgdir": "Julie regarde le marquis, l\u00e8ve les yeux au ciel, et s'en va.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "860",
+      "category": "10",
+      "explanation": "Il tire un papier, interagissant avec un objet.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "861",
+      "category": "8",
+      "explanation": "Cela fait r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "862",
+      "category": "11",
+      "explanation": "Description de l'arrangement des personnages dans le cadre du th\u00e9\u00e2tre.",
+      "stgdir": "Le peuple se range sur les deux c\u00f4t\u00e9s du th\u00e9\u00e2tre ; les grands prennent place aux c\u00f4t\u00e9s du tr\u00f4ne, et sont debout.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "863",
+      "category": "7",
+      "explanation": "Cela d\u00e9crit un mouvement du personnage qui sort de son si\u00e8ge.",
+      "stgdir": "Il sort de son si\u00e8ge.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "864",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit une entr\u00e9e de personnages au fond de la sc\u00e8ne.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "865",
+      "category": "0",
+      "explanation": "Il s'agit d'une action li\u00e9e \u00e0 une voiture quittant.",
+      "stgdir": "On entend la voiture de Doduvert qui s'en va.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "866",
+      "category": "3",
+      "explanation": "Il continue \u00e0 chanter, indiquant une mani\u00e8re d'interpr\u00e9ter l'action.",
+      "stgdir": "Il continue \u00e0 chanter.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "867",
+      "category": "5",
+      "explanation": "Il sort de chez lui, ce qui caract\u00e9rise une action d'exit.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "868",
+      "category": "3",
+      "explanation": "Tout bas indique le ton et la mani\u00e8re de la voix, ce qui s'inscrit dans la livraison.",
+      "stgdir": "Tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "869",
+      "category": "5",
+      "explanation": "Baptiste se sauve, indiquant une sortie de la sc\u00e8ne.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "870",
+      "category": "1",
+      "explanation": "Cela concerne une action violente de massacre.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "871",
+      "category": "4",
+      "explanation": "Elle entre sur la sc\u00e8ne, indiquant une entr\u00e9e de personnage.",
+      "stgdir": "Elle entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "872",
+      "category": "8",
+      "explanation": "Cela indique un air musical.",
+      "stgdir": "Air : C'est \u00e0 mon ma\u00eetre en l'art de plaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "873",
+      "category": "4",
+      "explanation": "C'est une entr\u00e9e de personnage, ou un acte de rendre hommage.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "874",
+      "category": "3",
+      "explanation": "Il parle tout bas, indiquant une mani\u00e8re de rendre l'interaction plus discr\u00e8te.",
+      "stgdir": "Il parle tout bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "875",
+      "category": "10",
+      "explanation": "Il prend un objet, en l'occurrence un cigare.",
+      "stgdir": "Alain prend le cigare.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "876",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical.",
+      "stgdir": "AIR. Toujours va qui danse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "877",
+      "category": "5",
+      "explanation": "Il sort en chantant, impliquant une sortie de sc\u00e8ne.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "878",
+      "category": "5",
+      "explanation": "C'est une sortie de personnage sur sc\u00e8ne.",
+      "stgdir": "Dame Pluche sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "879",
+      "category": "4",
+      "explanation": "Pluton se l\u00e8ve, ce qui indique un mouvement.",
+      "stgdir": "Pluton se l\u00e8ve de son tribunal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "880",
+      "category": "8",
+      "explanation": "Cela fait r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "AIR : Mariez, mariez, mariez-moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "881",
+      "category": "8",
+      "explanation": "C'est un air musical nomm\u00e9.",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "882",
+      "category": "5",
+      "explanation": "Il s'agit d'une sortie de personnage.",
+      "stgdir": "Tersky sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "883",
+      "category": "8",
+      "explanation": "C'est un air musical mentionn\u00e9.",
+      "stgdir": "Air 162 : Lucas se plaint que sa femme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "884",
+      "category": "2",
+      "explanation": "Dire des mots derri\u00e8re le th\u00e9\u00e2tre s'apparente \u00e0 un apart\u00e9.",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "885",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit le cadre du th\u00e9\u00e2tre qui repr\u00e9sente un palais.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un palais.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "886",
+      "category": "9",
+      "explanation": "Didascalie narrative d\u00e9crivant une sc\u00e8ne d'action.",
+      "stgdir": "Il se passe que des branches d\u00e9plac\u00e9es ont fouett\u00e9 le visage de Maurice et qu'un ennemi va s'\u00e9lancer des arbres. Maurice tire son couteau, le brandit, et s'\u00e9crie d'une voix fr\u00e9missante :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "887",
+      "category": "9",
+      "explanation": "C'est une description narrative \u00e0 caract\u00e8re dramatique.",
+      "stgdir": "Dans cette obscurit\u00e9 soudaine, l'Envie sort de son antre qui s'ouvre au milieu du th\u00e9\u00e2tre : elle \u00e9voque le monstrueux Serpent Python, qui para\u00eet dans son marais bourbeux, jettant des feux par la gueule et par les yeux, qui sont la seule lumi\u00e8re qui \u00e9claire le th\u00e9\u00e2tre : elle appelle les Vents les plus imp\u00e9tueux pour seconder sa fureur, elle en fait sortir quatre de ceux qui sont renfermez dans les cavernes souterraines, et elle en fait descendre quatre autres de ceux qui forment les orages, qui tous apr\u00e8s avoir vol\u00e9 et s'\u00eatre crois\u00e9s dans l'air, viennent se ranger autour d'elle, pour l'aider \u00e0 troubler les beaux jours que le Soleil donne au monde.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "888",
+      "category": "11",
+      "explanation": "C'est une pr\u00e9sentation de la sc\u00e8ne au lever du rideau.",
+      "stgdir": "Au lever du rideau, Gontran est couch\u00e9 tout habill\u00e9 sur le lit. Dix heures sonnent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "889",
+      "category": "0",
+      "explanation": "Tous partent d'un \u00e9clat de rire, ce qui d\u00e9crit une action collective.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "890",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit le cadre de th\u00e9\u00e2tre repr\u00e9sentant un palais.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais d'Omphale.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "891",
+      "category": "3",
+      "explanation": "S'adressant \u00e0 Oronte implique un mode de livraison d'une r\u00e9plique.",
+      "stgdir": "Puis s'adressant \u00e0 Oronte.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "892",
+      "category": "8",
+      "explanation": "C'est une mention d'un air musical.",
+      "stgdir": "Air : D'\u00c9gl\u00e9. Que je vous aime !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "893",
+      "category": "4",
+      "explanation": "C'est une entr\u00e9e de personnages sur sc\u00e8ne.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "894",
+      "category": "4",
+      "explanation": "Amintus fait une entr\u00e9e.",
+      "stgdir": "Amintus para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "895",
+      "category": "6",
+      "explanation": "Cela implique une interaction \u00e0 travers un geste.",
+      "stgdir": "Lui effeuillant son bouquet de roses sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "896",
+      "category": "6",
+      "explanation": "Julie ouvre la lettre tandis que son p\u00e8re et Moli\u00e8re portent un regard, symbolisant une interaction.",
+      "stgdir": "Julie ouvre la lettre. Son p\u00e8re et Moli\u00e8re l'observent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "897",
+      "category": "3",
+      "explanation": "Il r\u00e9p\u00e8te ces vers, impliquant une mani\u00e8re de livrer une r\u00e9plique.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "898",
+      "category": "4",
+      "explanation": "C'est une entr\u00e9e de trois personnages sur sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e de deux petits paysans et d'une petite paysanne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "899",
+      "category": "5",
+      "explanation": "Ils partent, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Il s'en va avec les demi-Dieux.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 25546.250820159912,
+  "model": "gpt-4o-mini"
+}

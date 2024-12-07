@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2100",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit le transfert d'un personnage entre d'autres, ce qui constitue une interaction non verbale.",
+      "stgdir": "Alvar\u00e8s est men\u00e9 chez la Reine par deux dames d'honneur qui paraissent et entre les mains desquelles Alcimadure le remet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2101",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit des personnages qui quittent la sc\u00e8ne, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "La M\u00e8re emm\u00e8ne Lucas, et toute la noce d\u00e9file, \u00e0 la r\u00e9serve de Nanette, qui demeure avec Adrien.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2102",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre Agla\u00e9 et sa m\u00e8re.",
+      "stgdir": "Agla\u00e9 en pleurs, court se pr\u00e9cipiter aux genoux de sa m\u00e8re, qui la rel\u00e8ve avec s\u00e9v\u00e9rit\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2103",
+      "category": "6",
+      "explanation": "Montrer quelqu'un est une forme d'interaction non verbale.",
+      "stgdir": "Montrant Amphitryon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2104",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Dubois.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2105",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique, ainsi qu'une action d'arr\u00eater quelqu'un.",
+      "stgdir": "\u00c0 Laure, qui sortait, et qu'il arr\u00eate.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2106",
+      "category": "7",
+      "explanation": "Le personnage se d\u00e9place vers son bureau, ce qui est un mouvement.",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2107",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Miltiade.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2108",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Aux Dames.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2109",
+      "category": "7",
+      "explanation": "Se d\u00e9barrasser ou s'\u00e9chapper implique un mouvement du personnage.",
+      "stgdir": "B\u00e9atrix se d\u00e9barrasse de Jodelet, et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2110",
+      "category": "10",
+      "explanation": "La didascalie d\u00e9crit un \u00e9l\u00e9ment de costume (v\u00eatements).",
+      "stgdir": "Les trois pr\u00e9tendantes doivent \u00eatre v\u00eatues de blanc",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2111",
+      "category": "9",
+      "explanation": "Description narrative d'un \u00e9v\u00e9nement sur sc\u00e8ne, y compris des effets visuels.",
+      "stgdir": "En m\u00eame temps, on voit descendre des nues un char lumineux sous lequel para\u00eet le g\u00e9nie Beninguet, tout brillant de pierreries.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2112",
+      "category": "9",
+      "explanation": "Narration d'une action entre plusieurs soldats, description d'une interaction collective.",
+      "stgdir": "- Trois des autres soldats se lev\u00e8rent, et parl\u00e8rent ainsi au premier :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2113",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 \u00c9rise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2114",
+      "category": "10",
+      "explanation": "D\u00e9crit l'action de reprendre et lire une lettre, interagissant ainsi avec un objet.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2115",
+      "category": "10",
+      "explanation": "Interagir avec un livre en feuilletant les pages.",
+      "stgdir": "Feuilletant un volume de ses oeuvres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2116",
+      "category": "10",
+      "explanation": "Sortir un objet de sa poche est une interaction avec un objet.",
+      "stgdir": "Il tire un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2117",
+      "category": "6",
+      "explanation": "Pousser quelqu'un est une forme d'interaction non verbale.",
+      "stgdir": "Le poussant par les \u00e9paules.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2118",
+      "category": "5",
+      "explanation": "Le personnage quitte la sc\u00e8ne (sort).",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2119",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Diane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2120",
+      "category": "8",
+      "explanation": "Mention d'un 'Air', qui indique un morceau ou une m\u00e9lodie musicale sp\u00e9cifique.",
+      "stgdir": "Air : Du jaloux malgr\u00e9 lui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2121",
+      "category": "8",
+      "explanation": "Mention d'un 'Air', qui est li\u00e9 \u00e0 la musique.",
+      "stgdir": "Air : Belle Chanoinesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2122",
+      "category": "4",
+      "explanation": "Le personnage entre en sc\u00e8ne, mention de son d\u00e9placement vers un lieu pr\u00e9cis (chez le Cardinal).",
+      "stgdir": "Il entre chez le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2123",
+      "category": "6",
+      "explanation": "Montrer un objet, m\u00eame s'il s'agit d'une personne (enfant), est une interaction non verbale.",
+      "stgdir": "Montrant son enfant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2124",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Durval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2125",
+      "category": "8",
+      "explanation": "Mention d'un 'Air', indicatif d'un morceau musical.",
+      "stgdir": "Air 49 : Jardinier ne vois-tu pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2126",
+      "category": "5",
+      "explanation": "Le personnage quitte la sc\u00e8ne (sort).",
+      "stgdir": "Rosine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2127",
+      "category": "0",
+      "explanation": "Action de ne pas r\u00e9pondre, n'entrant pas dans les autres cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Il ne r\u00e9pond rien.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2128",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2129",
+      "category": "0",
+      "explanation": "D\u00e9crit deux personnages ensemble mais sans action sp\u00e9cifique d\u00e9crite, donc cat\u00e9goris\u00e9 sous action g\u00e9n\u00e9rale.",
+      "stgdir": "C\u00c9LINDE et LUCIDOR en m\u00eame temps.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2130",
+      "category": "11",
+      "explanation": "Description du d\u00e9cor du th\u00e9\u00e2tre, indiquant le cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le magnifique Palais de Priam.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2131",
+      "category": "7",
+      "explanation": "Indique un mouvement collectif vers la poursuite de quelqu'un.",
+      "stgdir": "Pers\u00e9e, C\u00e9ph\u00e9e et leur suite poursuivent Phin\u00e9e et sa suite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2132",
+      "category": "11",
+      "explanation": "Description du changement de d\u00e9cor du th\u00e9\u00e2tre.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un palais magnifique et brillant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2133",
+      "category": "0",
+      "explanation": "L'action de regarder par la fen\u00eatre est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle regarde par la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2134",
+      "category": "11",
+      "explanation": "Description d\u00e9taill\u00e9e du d\u00e9cor, qui est typiquement un cadre.",
+      "stgdir": "LE CH\u00c2TEAU DE SILVA. Dans les montagnes d'Aragon. La galerie des portraits de famille de Silva ; grande salle, dont ces portraits entour\u00e9s de riches bordures, et surmont\u00e9s de couronnes ducales et d'\u00e9cussons dor\u00e9s, font la d\u00e9coration. Au fond une haute porte gothique. Entre chaque portrait une panoplie compl\u00e8te, toutes ces armures de si\u00e8cles diff\u00e9rents.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2135",
+      "category": "6",
+      "explanation": "Placer quelqu'un quelque part sur sc\u00e8ne implique une interaction non verbale.",
+      "stgdir": "Il la place sur le devant de la sc\u00e8ne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2136",
+      "category": "8",
+      "explanation": "Mention d'un 'Air', qui indique un morceau musical sp\u00e9cifique.",
+      "stgdir": "Air : J'ai vu partout dans mes voyages.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2137",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Trigaudin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2138",
+      "category": "0",
+      "explanation": "L'action de lire et de parler apr\u00e8s fait partie d'une action g\u00e9n\u00e9rale.",
+      "stgdir": "Apr\u00e8s voir lu, il dit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2139",
+      "category": "9",
+      "explanation": "Description narrative d'une s\u00e9rie d'actions qui impliquent plusieurs personnages et objets.",
+      "stgdir": "Dumont revient, apporte le carton de dessins de la Comtesse, et sort. La comtesse s'assied sur le tronc d'arbre. Dorval se pr\u00e9cipite \u00e0 c\u00f4t\u00e9 d'elle, et lui laisse \u00e0 peine le temps d'ouvrir le carton, et voulant l'ouvrir lui-m\u00eame.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2140",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 la Dupuis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2141",
+      "category": "10",
+      "explanation": "L'action de tirer sur la sonnette interagit avec un objet.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2142",
+      "category": "9",
+      "explanation": "Description narrative d'\u00e9v\u00e9nements dramatiques incluant des ph\u00e9nom\u00e8nes naturels.",
+      "stgdir": "Tonnerre, pluie de feu, tremblement de terre, des ombres sortent des tombeaux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2143",
+      "category": "0",
+      "explanation": "L'action de tomber \u00e0 genoux est une action, mais ne correspond pas aux aspects plus d\u00e9finis des autres cat\u00e9gories.",
+      "stgdir": "Il tombe \u00e0 leurs genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2144",
+      "category": "6",
+      "explanation": "Les passants entendent, ce qui implique une interaction non verbale.",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2145",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Tomi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2146",
+      "category": "5",
+      "explanation": "Le personnage quitte la sc\u00e8ne (sort).",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2147",
+      "category": "7",
+      "explanation": "Le personnage s'\u00e9lance pour suivre, une forme de mouvement.",
+      "stgdir": "S'\u00e9lan\u00e7ant pour la suivre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2148",
+      "category": "6",
+      "explanation": "Montrer un personnage est une forme d'interaction non verbale.",
+      "stgdir": "Montrant Antigone.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2149",
+      "category": "8",
+      "explanation": "Indication d'un morceau musical par la mention d'un 'Air'.",
+      "stgdir": "AIR. Oh reguingu\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2150",
+      "category": "9",
+      "explanation": "Description narrative d'un effet dramatique (le th\u00e9\u00e2tre tremble).",
+      "stgdir": "Le th\u00e9\u00e2tre tremble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2151",
+      "category": "7",
+      "explanation": "Le personnage s'approche d'un autre, indiquant un mouvement.",
+      "stgdir": "S'avan\u00e7ant ensuite vers la Vicomtesse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2152",
+      "category": "0",
+      "explanation": "Apr\u00e8s avoir regard\u00e9 de tous c\u00f4t\u00e9s indique une action mais n'est pas sp\u00e9cifique \u00e0 une interaction ou un mouvement d\u00e9fini.",
+      "stgdir": "Apr\u00e8s avoir regard\u00e9 de tous cot\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2153",
+      "category": "10",
+      "explanation": "Perdre ou laisser tomber un objet (le couteau) est une interaction avec un objet.",
+      "stgdir": "Ici le couteau lui tombe [des] mains.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2154",
+      "category": "7",
+      "explanation": "\u00catre port\u00e9 vers quelqu'un indique un mouvement, mais pas une interaction encore d\u00e9finie.",
+      "stgdir": "Il est port\u00e9 vers Cl\u00e9op\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2155",
+      "category": "8",
+      "explanation": "Mention d'un 'Air', indiquant un morceau musical.",
+      "stgdir": "Air. L\u00e0-haut sur ces montagnes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2156",
+      "category": "0",
+      "explanation": "L'action de s'asseoir ne rentre pas n\u00e9cessairement dans mouvement, donc cat\u00e9goris\u00e9e comme action.",
+      "stgdir": "Elle va s'asseoir \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2157",
+      "category": "0",
+      "explanation": "Tenir pr\u00eat \u00e0 d\u00e9chirer est une action impliquant une intention non r\u00e9alis\u00e9e.",
+      "stgdir": "Il les tient pr\u00eat \u00e0 les d\u00e9chirer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2158",
+      "category": "8",
+      "explanation": "Indication d'un morceau musical.",
+      "stgdir": "Air : Femmes, voulez-vous \u00e9prouver.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2159",
+      "category": "10",
+      "explanation": "Poser un objet est une interaction avec cet objet.",
+      "stgdir": "Il pose un domino.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2160",
+      "category": "5",
+      "explanation": "Les com\u00e9diens quittent la sc\u00e8ne (sortent).",
+      "stgdir": "Les Com\u00e9diens sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2161",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Monsieur Jourdain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2162",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Aux Esclaves.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2163",
+      "category": "0",
+      "explanation": "Regarder un tableau est une action qui ne s'inscrit pas n\u00e9cessairement dans une interaction non verbale.",
+      "stgdir": "Regardant le tableau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2164",
+      "category": "0",
+      "explanation": "Prendre un moment de silence est une action mentale ou physique sans sp\u00e9cificit\u00e9 de cat\u00e9gorie.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2165",
+      "category": "0",
+      "explanation": "Action d'apercevoir, sans interaction d\u00e9finitive.",
+      "stgdir": "Apercevant la malade.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2166",
+      "category": "11",
+      "explanation": "Description du cadre ou du d\u00e9cor de la sc\u00e8ne, d\u00e9finissant l'environnement du salon.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un salon assez luxueusement meubl\u00e9. Aux murs, des tableaux de grande valeur. Une bonne ach\u00e8ve d'\u00e9pousseter les meubles. Entre Madame Racosse, un peu m\u00fbre, un peu grosse, v\u00eatue d'une robe trop paillet\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2167",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Clodomire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2168",
+      "category": "10",
+      "explanation": "Tirer une lettre de sa poche constitue une interaction avec un objet.",
+      "stgdir": "Tirant une lettre de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2169",
+      "category": "10",
+      "explanation": "Ouvrir une lettre est une interaction avec un objet.",
+      "stgdir": "Il ouvre la deuxi\u00e8me lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2170",
+      "category": "8",
+      "explanation": "Mention d'une chanson sp\u00e9cifique, indiquant un \u00e9l\u00e9ment musical.",
+      "stgdir": "CHANSON DE M. Sall\u00e9 et Ponteuil.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2171",
+      "category": "11",
+      "explanation": "Description du cadre ou de l'environnement de la sc\u00e8ne (une cour de prison).",
+      "stgdir": "La sc\u00e8ne para\u00eet une cour de prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2172",
+      "category": "5",
+      "explanation": "Quitter la tente signifie que le personnage sort.",
+      "stgdir": "Il sort de sa tente.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2173",
+      "category": "5",
+      "explanation": "Le personnage (Don Alfonce) quitte la sc\u00e8ne.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2174",
+      "category": "5",
+      "explanation": "Le personnage (Damon) quitte la sc\u00e8ne.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 45363.91496658325,
+  "model": "gpt-4o"
+}

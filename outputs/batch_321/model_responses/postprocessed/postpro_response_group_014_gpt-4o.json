@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1050",
+      "category": "3",
+      "explanation": "La didascalie indique que Jeanneton chante, ce qui concerne l'interpr\u00e9tation vocale d'une r\u00e9plique.",
+      "stgdir": "Jeanneton chante les paroles suivantes sur un air de Thes\u00e9e qui commence.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1051",
+      "category": "8",
+      "explanation": "Le mot 'Branle' est un type de danse ou de musique, indiquant une didascalie li\u00e9e \u00e0 la musique.",
+      "stgdir": "Branle",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1052",
+      "category": "5",
+      "explanation": "Moli\u00e8re sort de la sc\u00e8ne, correspondant \u00e0 une sortie.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1053",
+      "category": "12",
+      "explanation": "La didascalie indique '\u00c0 Monr\u00e9al, p\u00e8re', sugg\u00e9rant le destinataire d'une interaction ou d'un dialogue.",
+      "stgdir": "\u00c0 Monr\u00e9al, p\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1054",
+      "category": "3",
+      "explanation": "Sancho continue probablement de parler ou de chanter, ce qui rel\u00e8ve de l'interpr\u00e9tation d'une r\u00e9plique.",
+      "stgdir": "Sancho continue.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1055",
+      "category": "4",
+      "explanation": "La didascalie indique qu'elle arrive, signalant une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1056",
+      "category": "7",
+      "explanation": "Il s'agit d'une description du mouvement des personnages d'un endroit \u00e0 un autre.",
+      "stgdir": "Alcippe rentre chez Clarice avec elle et Isabelle, et le reste rentre chez Lucr\u00e8ce.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1057",
+      "category": "6",
+      "explanation": "Le fait d'apercevoir quelqu'un est une interaction visuelle entre les personnages.",
+      "stgdir": "Apercevant Rodogine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1058",
+      "category": "11",
+      "explanation": "Il s'agit de la description du d\u00e9cor du th\u00e9\u00e2tre, correspondant \u00e0 l'environnement de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais du CARNAVAL.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1059",
+      "category": "3",
+      "explanation": "La didascalie d\u00e9crit une expression h\u00e9sitante, li\u00e9e \u00e0 l'interpr\u00e9tation \u00e9motionnelle ou vocale.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1060",
+      "category": "8",
+      "explanation": "La mention 'On entend un bruit de musettes' fait r\u00e9f\u00e9rence \u00e0 la musique ou bruit instrumental.",
+      "stgdir": "On entend un bruit de musettes et Roland continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1061",
+      "category": "10",
+      "explanation": "Il s'agit du geste de montrer un portrait, impliquant une interaction avec un objet.",
+      "stgdir": "Il montre le portrait.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1062",
+      "category": "5",
+      "explanation": "La didascalie indique qu'Ormin s'en va, correspondant \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1063",
+      "category": "11",
+      "explanation": "Il semble s'agir du titre ou d'une description parte de l'environnement ou d\u00e9cor.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1064",
+      "category": "12",
+      "explanation": "Indication du destinataire '\u00c0 un valet', relevant d'une interaction dirig\u00e9e.",
+      "stgdir": "\u00c0 un valet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1065",
+      "category": "7",
+      "explanation": "Le verbe 's'enfuient' indique un mouvement rapide des personnages hors d'un endroit.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1066",
+      "category": "5",
+      "explanation": "La didascalie montre une sortie par sa formulation 'Il sortesasuite'.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1067",
+      "category": "8",
+      "explanation": "Un intitul\u00e9 indiquant un couplet, typique des didascalies musicales.",
+      "stgdir": "V COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1068",
+      "category": "8",
+      "explanation": "La mention du mot 'AIR' indique qu'il s'agit d'une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "AIR : Va-t'en voir s'ils viennent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1069",
+      "category": "7",
+      "explanation": "La phrase d\u00e9crit un d\u00e9placement sur sc\u00e8ne.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1070",
+      "category": "3",
+      "explanation": "La r\u00e9p\u00e9tition d'un jeu indique le style d'interpr\u00e9tation.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1071",
+      "category": "4",
+      "explanation": "L'entr\u00e9e d'Enguerrand Durand en sc\u00e8ne est explicitement mentionn\u00e9e.",
+      "stgdir": "Entre Enguerrand Durand.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1072",
+      "category": "6",
+      "explanation": "Cette indication fait r\u00e9f\u00e9rence \u00e0 une interaction physique et visuelle entre personnages.",
+      "stgdir": "Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1073",
+      "category": "6",
+      "explanation": "Entrer en collision, ou choquer avec quelqu'un, repr\u00e9sente une interaction physique.",
+      "stgdir": "Il choque avec elle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1074",
+      "category": "8",
+      "explanation": "La mention 'Antistrophe X' fait r\u00e9f\u00e9rence \u00e0 une strophe musicale ou lyrique.",
+      "stgdir": "Antistrophe X.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1075",
+      "category": "3",
+      "explanation": "Flore continue de parler ou chanter, ce qui rel\u00e8ve de l'interpr\u00e9tation.",
+      "stgdir": "Flore continue.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1076",
+      "category": "8",
+      "explanation": "La mention 'M\u00eame air' rapporte \u00e0 une note musicale pr\u00e9c\u00e9demment nomm\u00e9e.",
+      "stgdir": "M\u00eame air",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1077",
+      "category": "8",
+      "explanation": "La mention 'Air :' signale une indication musicale ou chant\u00e9e.",
+      "stgdir": "Air : Femmes, voulez-vous \u00e9prouver ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1078",
+      "category": "9",
+      "explanation": "La description longue et d\u00e9taill\u00e9e d'une s\u00e9quence enti\u00e8re correspond \u00e0 de la narration.",
+      "stgdir": "Prom\u00e9th\u00e9e anime ces trois statues ; l'homme de Cour danse d'un air fastueux, et l'\u00e9l\u00e8ve de Th\u00e9mis, en minaudant. Au son de l'or que le favori de Plutus qui s'est anim\u00e9 lentement, remue dans son chapeau, l'un et l'autre viennent le flatter et le caresser avec bassesse ; Il se d\u00e9barrasse d'eux d'un air brusque ; ils le suivent, et tous les trois sortent de dessus la sc\u00e8ne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1079",
+      "category": "4",
+      "explanation": "Il s'agit d'une entr\u00e9e en sc\u00e8ne pour Blanche, Am\u00e9lie et Jeanne.",
+      "stgdir": "\u00c0 son appel, Blanche, Am\u00e9lie et Jeanne entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1080",
+      "category": "8",
+      "explanation": "Cette strophe est probablement musicale, en lien avec la mention 'Strophe IX'.",
+      "stgdir": "Strophe IX.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1081",
+      "category": "0",
+      "explanation": "Le fait de s'asseoir est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1082",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit la sortie par une position sp\u00e9cifique 'par la porte de gauche'.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1083",
+      "category": "0",
+      "explanation": "Regarder dans une direction est une action isol\u00e9e.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1084",
+      "category": "11",
+      "explanation": "Description longue et sp\u00e9cifique du d\u00e9cor th\u00e9\u00e2trale, indiquant l'environnement.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une salle de caf\u00e9. Au milieu est un po\u00eale \u00e9conomique surmont\u00e9 d'un Mont-Parnasse, compos\u00e9 selon le syst\u00e8me des Litt\u00e9rateurs modernes, et cons\u00e9quemment tout l'oppos\u00e9 de celui que M. Titon du Tillet a \u00e9lev\u00e9 \u00e0 la gloire du si\u00e8cle de Louis XIV. Chaque table est garnie d'encre, de papier et d'une inscription relative aux feuilles et aux brochures qui leur est propre. On aper\u00e7oit, dans le fond, une biblioth\u00e8que fort en d\u00e9sordre. Parnassot et deux gar\u00e7ons arrangent la salle. Parnassot est coiff\u00e9 d'un p\u00e9tasse ou bonnet de Mercure, les gar\u00e7ons en ont un \u00e0-peu-pr\u00e9s semblable, except\u00e9 que les ailes rabattues forment des oreilles de Midas.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1085",
+      "category": "0",
+      "explanation": "Le fait de taper du pied est une action monologue, n'interagissant pas directement avec les autres.",
+      "stgdir": "Tapant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1086",
+      "category": "8",
+      "explanation": "La mention 'Air :' signale une indication musicale ou chant\u00e9e.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1087",
+      "category": "4",
+      "explanation": "Le terme 'd\u00e9bouche' peut indiquer une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "[Il] d\u00e9bouche.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1088",
+      "category": "0",
+      "explanation": "Il s'agit de l'action de regarder.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1089",
+      "category": "8",
+      "explanation": "Le mot 'AIR' introduit le nom d'un air musical.",
+      "stgdir": "AIR. Songez \u00e0 vous d\u00e9fendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1090",
+      "category": "10",
+      "explanation": "La mention de l'action 'montrer un paquet de lettres' indique une interaction avec un objet.",
+      "stgdir": "En montrant un paquet de lettres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1091",
+      "category": "3",
+      "explanation": "L'\u00e9motion d\u00e9crite en lien avec l'action correspond \u00e0 une interpr\u00e9tation.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1092",
+      "category": "3",
+      "explanation": "Crier implique un mode de livraison de r\u00e9plique caract\u00e9ris\u00e9 par une expression forte.",
+      "stgdir": "Il se met \u00e0 crier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1093",
+      "category": "11",
+      "explanation": "Description du cadre sc\u00e9nique, typique des didascalies de mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un coin de verdure, dans la campagne, Noellie est endormie sur un banc de gazon, \u00e0 c\u00f4t\u00e9 de sa guitare.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1094",
+      "category": "8",
+      "explanation": "Le terme 'AIR' indique un titre de chanson ou de m\u00e9lodie.",
+      "stgdir": "AIR: Ton petit minois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1095",
+      "category": "7",
+      "explanation": "La didascalie d\u00e9crit un mouvement sp\u00e9cifique des personnages.",
+      "stgdir": "Allant vers La gu\u00e9rite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1096",
+      "category": "10",
+      "explanation": "Il s'agit d'une interaction du personnage avec un objet personnel.",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1097",
+      "category": "10",
+      "explanation": "La didascalie d\u00e9crit une interaction avec un objet en particulier (paquet).",
+      "stgdir": "Il tire machinalement un paquet de cigarettes de la poche de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1098",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire d'une interaction ou d'une r\u00e9plique '\u00c0 Adam'.",
+      "stgdir": "\u00c0 Adam.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1099",
+      "category": "0",
+      "explanation": "L'action de s'asseoir est une action sans trop d'autre cat\u00e9gorie appropri\u00e9e.",
+      "stgdir": "Il s'assied en un coin du th\u00e9\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1100",
+      "category": "12",
+      "explanation": "Indication du destinataire d'une interaction ou dialogue '\u00c0 Hiaskar'.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1101",
+      "category": "5",
+      "explanation": "La didascalie mentionne la sortie collective de plusieurs personnages.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1102",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une interaction : '\u00c0 Trasibule'.",
+      "stgdir": "\u00c0 Trasibule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1103",
+      "category": "6",
+      "explanation": "Parle \u00e0 l'oreille est une interaction non verbale entre personnages.",
+      "stgdir": "Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1104",
+      "category": "11",
+      "explanation": "Description d\u00e9taill\u00e9e du d\u00e9cor ou arrangement de la sc\u00e8ne.",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1105",
+      "category": "10",
+      "explanation": "Interaction avec un objet, 'tire un livre'.",
+      "stgdir": "Hortensius tire un livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1106",
+      "category": "10",
+      "explanation": "Il s'agit d'une mention d'interaction avec objet, 'tire un \u00e9crin'.",
+      "stgdir": "Il tire un \u00e9crin de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1107",
+      "category": "12",
+      "explanation": "\u00c9nonce la cible d'une interaction ou r\u00e9plique '\u00c0 Monsieur Dabelle'.",
+      "stgdir": "\u00c0 Monsieur Dabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1108",
+      "category": "10",
+      "explanation": "Interaction avec un objet passant d'une main \u00e0 une autre.",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1109",
+      "category": "10",
+      "explanation": "Rapport\u00e9 \u00e0 l'interaction avec les lettres (objet).",
+      "stgdir": "Et donnant les Lettres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1110",
+      "category": "6",
+      "explanation": "Interaction physique non verbale, essayant de prendre la main.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1111",
+      "category": "0",
+      "explanation": "Il s'agit de l'action d'\u00e9crire, donc une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il grave quatre vers sur son tombeau qui seront lus par Amarille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1112",
+      "category": "0",
+      "explanation": "Indication que tous s'asseyent, une action simple.",
+      "stgdir": "Ils s'asseyent tous.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1113",
+      "category": "0",
+      "explanation": "Se lever est une action ou mouvement personnel.",
+      "stgdir": "Se levant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1114",
+      "category": "4",
+      "explanation": "Arriv\u00e9e de Pierre et Philippe en sc\u00e8ne, ce qui constitue une entr\u00e9e.",
+      "stgdir": "Pierre et Philippe arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1115",
+      "category": "8",
+      "explanation": "Introduction du nom d'un air musical ou chant.",
+      "stgdir": "Air : Dans ma cabane obscure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1116",
+      "category": "10",
+      "explanation": "Interaction avec un objet (lettre) qui est retir\u00e9 de sa poche.",
+      "stgdir": "Il tire une lettre de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1117",
+      "category": "6",
+      "explanation": "Interaction physique entre personnages o\u00f9 un objet est pris.",
+      "stgdir": "Elle lui arrache le poignard de sa ceinture. Il la l\u00e2che et recule.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1118",
+      "category": "12",
+      "explanation": "Destin\u00e9 \u00e0 quelqu'un, '\u00c0 Pharasmane' indique le r\u00e9cepteur.",
+      "stgdir": "\u00c0 Pharasmane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1119",
+      "category": "8",
+      "explanation": "D\u00e9not\u00e9 par 'Air', introduit le nom d'une m\u00e9lodie.",
+      "stgdir": "Air: Cet arbre apport\u00e9 de Provence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1120",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une interaction ou communication.",
+      "stgdir": "\u00c0 Arsino\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1121",
+      "category": "9",
+      "explanation": "Description d'un bruit d'ouverture de serrure.",
+      "stgdir": "Un bruit de clef dans la serrure de l'antichambre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1122",
+      "category": "11",
+      "explanation": "D\u00c9CORATION: d\u00e9crit un environnement sc\u00e9nique.",
+      "stgdir": "D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1123",
+      "category": "8",
+      "explanation": "La musique continue sugg\u00e8re persistance ou introduction musicale.",
+      "stgdir": "La musique continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1124",
+      "category": "7",
+      "explanation": "La fuite est un mouvement expressif des personnages hors sc\u00e8ne.",
+      "stgdir": "Ils se sauvent.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 28605.05199432373,
+  "model": "gpt-4o"
+}

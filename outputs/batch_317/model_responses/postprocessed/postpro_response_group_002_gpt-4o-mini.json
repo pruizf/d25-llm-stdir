@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "8",
+      "explanation": "Cette direction de sc\u00e8ne indique un air musical, donc elle appartient \u00e0 la cat\u00e9gorie de la musique.",
+      "stgdir": "M\u00eame air que le couplet pr\u00e9c\u00e9dent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "9",
+      "explanation": "Cette direction fournit une narration de la sc\u00e8ne muette qui se d\u00e9roule entre plusieurs personnages, donc elle est class\u00e9e comme narration.",
+      "stgdir": "Ici une Sc\u00e8ne muette de Falaise qui voit le Chevalier avec Ang\u00e9lique, et le soup\u00e7onne. Il regarde ensuite N\u00e9rine, et feint d'en \u00eatre charm\u00e9\u00a0; apr\u00e8s quoi il se retire d'un c\u00f4t\u00e9 et le Chevalier d'un autre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "5",
+      "explanation": "Le terme 's'en va' indique que le personnage quitte la sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Lascy s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor de la sc\u00e8ne et les objets pr\u00e9sents, ce qui correspond \u00e0 la cat\u00e9gorie de mise en sc\u00e8ne.",
+      "stgdir": "La Sc\u00e8ne repr\u00e9sente les Charniers des Innocents. \u00c0 droite est la boutique de Madame de L'Aiguille, Marchande Ling\u00e8re, et \u00e0 gauche, un tonneau qui sert de Bureau \u00e0 Monsieur Discret, \u00e9crivain.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "12",
+      "explanation": "Cette direction indique que l'interaction est faite envers Philox\u00e8ne, donc elle appartient \u00e0 la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "8",
+      "explanation": "C'est une direction qui mentionne un air musical, donc elle est dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Dans quel canton est l'Huronie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "8",
+      "explanation": "Cette direction de sc\u00e8ne indique \u00e9galement un air, ce qui place celle-ci dans la cat\u00e9gorie musique.",
+      "stgdir": "AIR : Qu'a du vin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "2",
+      "explanation": "Il s'agit d'une remarque \u00e0 part, ce qui en fait une apart\u00e9.",
+      "stgdir": "Il dit \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "4",
+      "explanation": "La sortie des \u00c9thiopiens se rapporte \u00e0 l'entr\u00e9e ou \u00e0 l'\u00e9mergence d'un groupe de personnages sur sc\u00e8ne, donc c'est une entr\u00e9e.",
+      "stgdir": "Les \u00c9thiopiens sortent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "12",
+      "explanation": "Cette direction indique une interaction avec \u00c9ricie, ce qui justifie la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 \u00c9ricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "160",
+      "category": "5",
+      "explanation": "Le personnage sort par la droite, ce qui signifie une sortie.",
+      "stgdir": "Il sort par la droite. La sc\u00e8ne demeure vide.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "8",
+      "explanation": "Cette r\u00e9p\u00e9tition fait r\u00e9f\u00e9rence \u00e0 la musique, la pla\u00e7ant donc dans la cat\u00e9gorie de musique.",
+      "stgdir": "Bis des deux vers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "7",
+      "explanation": "Faire six pas correspond \u00e0 un mouvement sur sc\u00e8ne, ce qui les classe dans la cat\u00e9gorie mouvement.",
+      "stgdir": "Il fait six pas.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "6",
+      "explanation": "Il aide \u00e0 d\u00e9poser le plateau, ce qui est une forme d'interaction non verbale.",
+      "stgdir": "Il l'aide \u00e0 d\u00e9poser le plateau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "12",
+      "explanation": "Ceci indique que l'interaction est faite envers Mademoiselle Beaulieu, class\u00e9e sous 'toward'.",
+      "stgdir": "\u00c0 Mademoiselle Beaulieu.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "7",
+      "explanation": "Montrer ses yeux poch\u00e9s implique un mouvement ou une action physique.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "8",
+      "explanation": "C'est un air de musique, donc cela rel\u00e8ve de la cat\u00e9gorie musique.",
+      "stgdir": "Air : Quand je tiens de ce jus d'Octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "8",
+      "explanation": "C'est aussi un air, ce qui le classe dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Moi qui veux m'instruire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "6",
+      "explanation": "Regarder les fleurs est une interaction non verbale.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "8",
+      "explanation": "C'est une direction musicale, donc elle est class\u00e9e comme musique.",
+      "stgdir": "AIR : Du Grand Cond\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "170",
+      "category": "5",
+      "explanation": "Sortir de la caverne signifie une sortie.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "8",
+      "explanation": "Encore une mention d'un air, cela le classe dans la cat\u00e9gorie musique.",
+      "stgdir": "AIR : Les filles de Nanterre,",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "7",
+      "explanation": "\u00c9couter implique un mouvement ou une action de pr\u00eater attention.",
+      "stgdir": "Ils \u00e9coutent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "12",
+      "explanation": "Cela indique que l'interaction est faite envers Guillaume, ce qui le classe dans 'toward'.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "9",
+      "explanation": "Un sonnet est une forme po\u00e9tique, ce qui valorise le c\u00f4t\u00e9 narratif.",
+      "stgdir": "SONNET.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de Timag\u00e8ne indique qu'il entre sur sc\u00e8ne, donc c'est une entr\u00e9e.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "6",
+      "explanation": "Recevoir la main d'Isabelle est une forme d'interaction non verbale.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "0",
+      "explanation": "S'attabler constitue une simple action, donc cela rel\u00e8ve de la cat\u00e9gorie d'action.",
+      "stgdir": "Ils s'attablent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "8",
+      "explanation": "Encore une indication d'un air, donc cela rel\u00e8ve de la musique.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "Cela indique un air musical.",
+      "stgdir": "Air : La b\u00e9quille du P\u00e8re Barnaba.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "180",
+      "category": "10",
+      "explanation": "Il s'agit d'un action de donner de l'argent, ce qui implique un objet.",
+      "stgdir": "Au Facteur en le payant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "4",
+      "explanation": "S'asseoir est un mouvement qui implique une entr\u00e9e dans un \u00e9tat assis, relevant ainsi de l'entr\u00e9e.",
+      "stgdir": "Elles s'asseyent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "2",
+      "explanation": "Le premier vers, \u00e0 part indique une parole \u00e0 part, donc c'est une apart\u00e9.",
+      "stgdir": "Le premier vers, \u00e0 part.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "6",
+      "explanation": "Embrasser tendrement est une forme d'interaction non verbale.",
+      "stgdir": "Mondor embrasse tendrement sa femme.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "11",
+      "explanation": "Marche de toutes sortes de personnages repr\u00e9sente un d\u00e9cor et des personnages, ce qui les classe dans la mise en sc\u00e8ne.",
+      "stgdir": "Marche de toutes sortes de Personnages de l'ancienne Com\u00e9die Fran\u00e7aise et Italienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "4",
+      "explanation": "Entrer du c\u00f4t\u00e9 de la maison est une action qui d\u00e9note une entr\u00e9e.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "11",
+      "explanation": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent indique un changement de mise en sc\u00e8ne.",
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "6",
+      "explanation": "L'action d'aider \u00e0 replacer le bras implique une interaction non verbale.",
+      "stgdir": "Et malgr\u00e9 lui, elle lui replace le bras dans l'\u00e9charpe, apr\u00e8s en avoir r\u00e9-assujetti rapidement le pansement. Ren\u00e9, apr\u00e8s la premi\u00e8re r\u00e9volte, se laisse faire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "5",
+      "explanation": "En s'en allant indique une sortie, donc cela appartient \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "En s'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit un cadre sp\u00e9cifique - 'En prison' correspond \u00e0 une mise en sc\u00e8ne.",
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "190",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit la mise en sc\u00e8ne dans le Palais de Pluton, donc elle est class\u00e9e dans la cat\u00e9gorie de mise en sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre change, et repr\u00e9sente le Palais de PLUTON.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "3",
+      "explanation": "D'un ton d\u00e9cid\u00e9 indique la mani\u00e8re de d\u00e9livrer les paroles, ce qui rel\u00e8verait de la cat\u00e9gorie de d\u00e9livrance.",
+      "stgdir": "D'un ton d\u00e9cid\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "6",
+      "explanation": "Donner la main droite indique une interaction non verbale.",
+      "stgdir": "En lui donnant la main droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de Judith indique qu'elle entre sur sc\u00e8ne, class\u00e9e comme une entr\u00e9e.",
+      "stgdir": "Judith entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "12",
+      "explanation": "Cela indique une interaction dirig\u00e9e vers le Moineau.",
+      "stgdir": "Au Moineau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "0",
+      "explanation": "Se lever de table est une action, donc cela appartient \u00e0 la cat\u00e9gorie d'action.",
+      "stgdir": "Tous se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "10",
+      "explanation": "Il lui montre sa main, indiquant une interaction avec un objet.",
+      "stgdir": "Il lui montrera alors sa main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "10",
+      "explanation": "Cette direction implique donner un roman, ce qui concerne un objet.",
+      "stgdir": "Il lui remet en main son roman.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "5",
+      "explanation": "La sortie de Valentin indique une sortie.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "3",
+      "explanation": "Avec un air grave fait r\u00e9f\u00e9rence \u00e0 une mani\u00e8re de livrer les paroles, ce qui classifie cette direction dans 'delivery'.",
+      "stgdir": "Avec un air grave",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "200",
+      "category": "5",
+      "explanation": "Le fait de sortir tous ensemble indique une sortie.",
+      "stgdir": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "8",
+      "explanation": "Cela indique un air musical, donc cela appartient \u00e0 la cat\u00e9gorie musique.",
+      "stgdir": "Air : De la b\u00e9quille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "6",
+      "explanation": "Choc l\u00e9ger indique une interaction physique non verbale.",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "5",
+      "explanation": "La direction indique que 'ils la quittent', ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Ils la quittent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "3",
+      "explanation": "Ceci indique qu'une actrice chante, ce qui est une mani\u00e8re de livraison.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "9",
+      "explanation": "Cette direction est narrative et fournit des d\u00e9tails sur la sc\u00e8ne.",
+      "stgdir": "Apr\u00e8s que Neptune eut \u00e9t\u00e9 remerci\u00e9 par le sieur de Poutrincourt de ses offres au bieN de la France, les sauvages le furent semblablement de leur bonne volont\u00e9 et d\u00e9votion, et incit\u00e9s de venir au Fort-Royal prendre du caracona. \u00c0 l'instant la troupe de Neptune chante en musique \u00e0 quatre parties ce qui s'enfuit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "6",
+      "explanation": "Montrer Cic\u00e9ron constitue une interaction non verbale.",
+      "stgdir": "Montrant Cic\u00e9ron.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "5",
+      "explanation": "Se retirer indique une sortie.",
+      "stgdir": "Les chasseurs se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "1",
+      "explanation": "L'action 'pousse deux ou trois bottes' indique une forme d'agression \u00e0 l'encontre d'un personnage.",
+      "stgdir": "Le ma\u00eetre d'armes, lui pousse deux ou trois bottes, en lui disant : \"En garde.\"",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "6",
+      "explanation": "Prendre par le collet est une interaction physique non verbale.",
+      "stgdir": "Ici Lisette en approchant de l'Olive qu'elle ne voit point, \u00e9tend sa main, et le prend par le collet, et dans le m\u00eame temps Ang\u00e9lique rencontre la main de Dorante, qu'elle prend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "210",
+      "category": "0",
+      "explanation": "Vient savoir 'finement' implique une action, donc c'est une cat\u00e9gorie d'action.",
+      "stgdir": "Parth\u00e9nice vient savoir finement en quel \u00e9tat est Floridan aupr\u00e8s de C\u00e9linde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "0",
+      "explanation": "Reprendre indique une forme d'action, class\u00e9e sous 'action'.",
+      "stgdir": "Il la reprend.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "12",
+      "explanation": "Cette direction indique une interaction envers le grand bramine, donc dans 'toward'.",
+      "stgdir": "Au grand bramine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "8",
+      "explanation": "Cela mentionne une m\u00e9lodie, et fait r\u00e9f\u00e9rence \u00e0 un air musical.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "12",
+      "explanation": "Cette direction indique une interaction dirig\u00e9e vers Coucy.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, ce qui le classe dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Faut-il qu'une fi faible plante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "9",
+      "explanation": "C'est une indication de bruit, pouvant \u00eatre interpr\u00e9t\u00e9e dans un cadre narratif.",
+      "stgdir": "On entend chanter dans la rue.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "8",
+      "explanation": "Elle indique \u00e9galement un air, donc elle est dans la cat\u00e9gorie musique.",
+      "stgdir": "Air : Fanfare de Saint-Cloud.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "0",
+      "explanation": "Se lever indique une action.",
+      "stgdir": "Damis, se l\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "12",
+      "explanation": "Cette direction indique une interaction vers un voisin, class\u00e9e dans 'toward'.",
+      "stgdir": "\u00c0 un voisin, qui somnole dans l'angle du compartiment.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "220",
+      "category": "2",
+      "explanation": "L'\u00e9nonc\u00e9 indique une expression de pens\u00e9e, donc c'est une apart\u00e9.",
+      "stgdir": "Clairville quitte Rosalie. Il est comme un fou. Il va, il vient, il s'arr\u00eate. Il soupire de douleur, de fureur. Il s'appuie les coudes sur le dos d'un fauteuil, la t\u00eate sur ses mains, et les poings dans les yeux. Le silence dure un moment. Enfin il dit :",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "12",
+      "explanation": "Cette direction indique une interaction vers Philotas.",
+      "stgdir": "\u00c0 Philotas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "6",
+      "explanation": "Montrer l'ilote constitue une interaction non verbale.",
+      "stgdir": "Montrant l'ilote, qui salue modestement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "0",
+      "explanation": "D\u00e9couvrir son estomac est une simple action.",
+      "stgdir": "Il d\u00e9couvre son estomac.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "0",
+      "explanation": "Les jeunes filles riant est une simple action, donc cela rel\u00e8ve de l'action.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 39759.305238723755,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "75",
+      "category": "0",
+      "explanation": "The action involves showing something without further context or interaction, which fits the 'action' category.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "76",
+      "category": "7",
+      "explanation": "The stage direction describes characters advancing, which is a movement but does not specify exit or entrance.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "77",
+      "category": "4",
+      "explanation": "This stage direction involves characters entering the scene, consistent with the 'entrance' category.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "78",
+      "category": "0",
+      "explanation": "Involves a character named Arlequin who is holding a match, a typical general action.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "79",
+      "category": "0",
+      "explanation": "It involves showing or pointing to a forehead, which is a simple action.",
+      "stgdir": "Montrant son front.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "80",
+      "category": "0",
+      "explanation": "Describes raising a hand and showing something, a typical action-oriented direction.",
+      "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "81",
+      "category": "0",
+      "explanation": "Signing is a basic action without specified aggression or interaction.",
+      "stgdir": "Il signe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "82",
+      "category": "1",
+      "explanation": "Striking the table suggests aggression or strong emphasis, qualifying it as an aggressive action.",
+      "stgdir": "Frappant sur la table.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "83",
+      "category": "0",
+      "explanation": "Simply involves perceiving or noticing someone, fitting the 'action' category.",
+      "stgdir": "Apercevant Octave.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "84",
+      "category": "1",
+      "explanation": "The mention of seeing naked swords implies a potentially aggressive or threatening situation.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "85",
+      "category": "0",
+      "explanation": "Presenting a letter is a non-verbal action and fits into the general category of action.",
+      "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "86",
+      "category": "9",
+      "explanation": "Involves complex, narrative detail describing multiple character actions and emotions, matching the 'narration' category.",
+      "stgdir": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "87",
+      "category": "0",
+      "explanation": "Searching pockets is a straightforward action that doesn't involve interaction or aggression.",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "88",
+      "category": "0",
+      "explanation": "Involves a character showing or pointing at the former senators, a basic action.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "89",
+      "category": "7",
+      "explanation": "Describes a character moving away with another character, representing movement but not exit.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "90",
+      "category": "0",
+      "explanation": "Looking at someone, in this case a daughter, is a simple action.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "91",
+      "category": "0",
+      "explanation": "Noticing someone (the President) is an action rather than interaction or aggression.",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "92",
+      "category": "0",
+      "explanation": "Describes a specific gesture meant to incite, which is an action.",
+      "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "93",
+      "category": "0",
+      "explanation": "Seeing or noticing Gaston is considered an action.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "94",
+      "category": "0",
+      "explanation": "Showing a thumb is a simple action, fitting the 'action' category.",
+      "stgdir": "Il montre son pouce.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "95",
+      "category": "0",
+      "explanation": "Jumping is a physical action that isn't aggressive or interaction.",
+      "stgdir": "Il saute.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "96",
+      "category": "0",
+      "explanation": "Describes an action involving manipulating an object (half-circle and cane).",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "97",
+      "category": "0",
+      "explanation": "Eating quickly is a physical action, fitting the 'action' category.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "98",
+      "category": "6",
+      "explanation": "Involves searching or reaching for someone, which suggests interaction.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "99",
+      "category": "0",
+      "explanation": "Showing a tree is a simple action, devoid of aggression or interaction.",
+      "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "100",
+      "category": "0",
+      "explanation": "Perusing or reading quickly is a basic action.",
+      "stgdir": "Il lit en parcourant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "101",
+      "category": "9",
+      "explanation": "Narrative explanation of strategies and marches, fitting the 'narration' category.",
+      "stgdir": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "102",
+      "category": "0",
+      "explanation": "Perceiving Dorval and changing tone is an individual action.",
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "103",
+      "category": "9",
+      "explanation": "Describes a narrative moment of shock and recovery, fitting in 'narration'.",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "104",
+      "category": "0",
+      "explanation": "Showing someone (Betti) is a stand-alone action.",
+      "stgdir": "En montrant Betti.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "105",
+      "category": "0",
+      "explanation": "Describes pointing to or showing the Muses, which is an action.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "106",
+      "category": "9",
+      "explanation": "Involves hearing sounds at a door, resembling an atmospheric detail in 'narration'.",
+      "stgdir": "On entend des coups \u00e0 la porte d'en bas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "107",
+      "category": "0",
+      "explanation": "Touching oneself, for instance in checking, is an action.",
+      "stgdir": "Se t\u00e2tant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "108",
+      "category": "0",
+      "explanation": "Sitting near someone is a typical action.",
+      "stgdir": "Il s'assoit pr\u00e8s de Philippe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "109",
+      "category": "0",
+      "explanation": "Looking at someone is an action.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "110",
+      "category": "0",
+      "explanation": "Pointing to a letter is a direct action.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "111",
+      "category": "0",
+      "explanation": "Involves noticing various animals, fitting an action.",
+      "stgdir": "Apercevant plusieurs sortes d'Animaux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "112",
+      "category": "0",
+      "explanation": "Looking through a window is a simple action.",
+      "stgdir": "Elle regarde par la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "113",
+      "category": "0",
+      "explanation": "Noticing someone entering is an individual action.",
+      "stgdir": "Apercevant Monsieur Rossignol qui entre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "114",
+      "category": "6",
+      "explanation": "Giving or showing a note involves interaction.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "115",
+      "category": "0",
+      "explanation": "Serving soup is an action involving handling objects.",
+      "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "116",
+      "category": "0",
+      "explanation": "Looking into a different room is a solitary action.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "117",
+      "category": "6",
+      "explanation": "Pointing out a location (caf\u00e9) involves an element of interaction.",
+      "stgdir": "Lui montrant le caf\u00e9 de l'Alliance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "118",
+      "category": "0",
+      "explanation": "Showing a character (Montval) is a non-interactive action.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "119",
+      "category": "0",
+      "explanation": "Taking back and reading a letter are separate actions.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "120",
+      "category": "0",
+      "explanation": "Showing Milady is a straightforward action, with no specified interaction.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "121",
+      "category": "0",
+      "explanation": "Jumping around, potentially under windows, is a simple action.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "122",
+      "category": "11",
+      "explanation": "The description of a picnic gives a setting.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "123",
+      "category": "0",
+      "explanation": "Reading a letter is an action.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "124",
+      "category": "0",
+      "explanation": "Pointing out or showing a stone bench is an action.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "125",
+      "category": "0",
+      "explanation": "Showing embroideries without further context remains an action.",
+      "stgdir": "Madame Leblanc montre successivement ses broderies.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "126",
+      "category": "0",
+      "explanation": "Opening a jewelry box is an interaction between character and object.",
+      "stgdir": "Il ouvre l'\u00e9crin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "127",
+      "category": "0",
+      "explanation": "Opening a letter, involving no other action, is classified as an action.",
+      "stgdir": "Elle ouvre la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "128",
+      "category": "0",
+      "explanation": "Opening a drawer is an intermediate action.",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "129",
+      "category": "6",
+      "explanation": "The clash implies interaction of bodies or objects.",
+      "stgdir": "Il choque avec elle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "130",
+      "category": "0",
+      "explanation": "Throwing oneself at someone's feet is an action.",
+      "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "131",
+      "category": "0",
+      "explanation": "Looking at someone reflects an action.",
+      "stgdir": "Le regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "132",
+      "category": "0",
+      "explanation": "Showing Pyrrhus is an individual action without interaction.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "133",
+      "category": "10",
+      "explanation": "Giving an object, in this case straws, to a character defines interaction with an object.",
+      "stgdir": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "134",
+      "category": "6",
+      "explanation": "Pointing to or showing Am\u00e9lite involves non-verbal interaction.",
+      "stgdir": "En leur montrant Am\u00e9lite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "135",
+      "category": "0",
+      "explanation": "Looking at Ang\u00e9lique is equivalent to observing, an action.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "136",
+      "category": "0",
+      "explanation": "Being seated on a mound is an instance of action rather than interaction.",
+      "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "137",
+      "category": "0",
+      "explanation": "Reciprocally observing each other with glasses constitutes individual action.",
+      "stgdir": "Ils se regardent tous deux avec leurs lunettes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "138",
+      "category": "0",
+      "explanation": "Finishing a letter pertains to writing or reading, thus an action.",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "139",
+      "category": "9",
+      "explanation": "Hearing reactions from bystanders implies off-stage sounds or commentary, more narrative.",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "140",
+      "category": "0",
+      "explanation": "Looking into a cabinet describes an action, not involving others.",
+      "stgdir": "Il regarde dans un petit cabinet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "141",
+      "category": "0",
+      "explanation": "Involves opening a letter, a physical action.",
+      "stgdir": "Ouvrant une autre lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "142",
+      "category": "0",
+      "explanation": "Pointing or showing legs is a solitary action.",
+      "stgdir": "En montrant ses jambes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "143",
+      "category": "7",
+      "explanation": "A large motion implies bodily movement that doesn\u2019t involve entrance or exit.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "144",
+      "category": "0",
+      "explanation": "Reading, accustomed as a routine action.",
+      "stgdir": "Don Cosme lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "145",
+      "category": "10",
+      "explanation": "Raising (or removing) a mask involves interaction with an object, such as clothing.",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "146",
+      "category": "1",
+      "explanation": "Beating someone qualifies as aggression or combative interaction.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "147",
+      "category": "1",
+      "explanation": "Raising sticks suggests preparing for aggression or combat.",
+      "stgdir": "Ils haussent leurs b\u00e2tons.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "148",
+      "category": "1",
+      "explanation": "Putting a hand to a sword prepares for aggression or dueling.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "149",
+      "category": "1",
+      "explanation": "Indicates a desire to stab oneself, classified as aggression or self-harm.",
+      "stgdir": "Il veut se percer.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 37468.27530860901,
+  "model": "gpt-4o"
+}

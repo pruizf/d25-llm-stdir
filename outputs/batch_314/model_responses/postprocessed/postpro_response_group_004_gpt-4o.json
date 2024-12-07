@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": "5",
+      "explanation": "La didascalie indique que le personnage Damon sort de la sc\u00e8ne, ce qui correspond \u00e0 la sortie d'un personnage.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": "5",
+      "explanation": "La didascalie mentionne que Madame Simon et Perrette sortent, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": "5",
+      "explanation": "La mention de Jacinte sort indique une sortie de personnage, correspondant \u00e0 la cat\u00e9gorie sortie.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": "5",
+      "explanation": "La didascalie dit que tous sortent except\u00e9 Baron, ce qui implique une sortie de sc\u00e8ne pour la plupart des personnages.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": "5",
+      "explanation": "Lucile et Damis sortent, ce qui d\u00e9crit une sortie de sc\u00e8ne.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": "4",
+      "explanation": "Julie rentre du c\u00f4t\u00e9 de la maison, ce qui indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": "5",
+      "explanation": "Zerbine sort, ce qui implique une sortie de sc\u00e8ne.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": "5",
+      "explanation": "Elle sort avec Val\u00e8re indique que le personnage et Val\u00e8re quittent la sc\u00e8ne, une sortie.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": "5",
+      "explanation": "Villiers dispara\u00eet, ce qui est synonyme d'une sortie de sc\u00e8ne, m\u00eame si le terme utilis\u00e9 ici est 'dispara\u00eet'.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": "4",
+      "explanation": "Elle entre dans son cabinet, ce qui d\u00e9crit une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "310",
+      "category": "6",
+      "explanation": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve, indiquant une interaction lorsqu'il rejoint \u00c9tienne.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "311",
+      "category": "5",
+      "explanation": "Ils sortent avec les valets et les flambeaux indique que les personnages quittent la sc\u00e8ne.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "312",
+      "category": "5",
+      "explanation": "Algine sort d\u00e9crit la sortie d'un personnage de la sc\u00e8ne.",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "313",
+      "category": "5",
+      "explanation": "Tous sortent, ce qui d\u00e9note une sortie collective de sc\u00e8ne.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "314",
+      "category": "5",
+      "explanation": "Ormin s'en va indique qu'Ormin quitte la sc\u00e8ne, donc une sortie.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "315",
+      "category": "5",
+      "explanation": "La Montagne s'en va, ce qui veut dire qu'elle quitte la sc\u00e8ne, une sortie.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "316",
+      "category": "5",
+      "explanation": "Idas sort, illustrant la sortie d'un personnage de la sc\u00e8ne.",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "317",
+      "category": "5",
+      "explanation": "Alcandre sort d\u00e9crit la sortie de ce personnage de la sc\u00e8ne.",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "318",
+      "category": "4",
+      "explanation": "Julie entre chez le Cardinal est une entr\u00e9e alors que Lamperri\u00e8re sort est une sortie.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "319",
+      "category": "5",
+      "explanation": "Il s'en retourne, indiquant qu'il quitte la sc\u00e8ne, une sortie.",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "320",
+      "category": "4",
+      "explanation": "Le Chevalier entre dans le cabinet est une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "5",
+      "explanation": "Don Quichotte se retire, ce qui signifie qu'il quitte la sc\u00e8ne, donc une sortie.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "7",
+      "explanation": "S'en allant indique un mouvement, pas n\u00e9cessairement une sortie d\u00e9finitive de sc\u00e8ne.",
+      "stgdir": "S'en allant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "7",
+      "explanation": "Elle part en riant est un mouvement, pas uniquement une sortie. Elle d\u00e9crit un d\u00e9part avec une \u00e9motion.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "5",
+      "explanation": "Il sort en toussant suivi par de Brie, d\u00e9crivant une sortie et mentionnant une caract\u00e9ristique ajout\u00e9e (toussant).",
+      "stgdir": "Il sort en toussant suivi par de Brie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "4",
+      "explanation": "Blaise et G\u00e9rault entrent, ce qui fait r\u00e9f\u00e9rence \u00e0 une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "5",
+      "explanation": "Don Alfonce s'en va, ce qui est synonyme de quitter la sc\u00e8ne, donc une sortie.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "7",
+      "explanation": "Il se sauve, d\u00e9crivant un mouvement rapide qui peut ne pas signifier une sortie d\u00e9finitive.",
+      "stgdir": "Il se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "5",
+      "explanation": "Colombine rentre chez elle, indiquant une entr\u00e9e sp\u00e9cifique dans un lieu.",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "5",
+      "explanation": "Phoenix sort, s'agissant d'une sortie de sc\u00e8ne.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "330",
+      "category": "5",
+      "explanation": "Ils sortent en causant implique une sortie de la sc\u00e8ne, m\u00eame si elle est accompagn\u00e9e d'une action (causant).",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "331",
+      "category": "5",
+      "explanation": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre, indique une sortie.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "332",
+      "category": "4",
+      "explanation": "Il entre dans sa maison, ce qui est une entr\u00e9e en sc\u00e8ne ou dans un lieu.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "333",
+      "category": "5",
+      "explanation": "Antelme s'en va montre qu'il quitte la sc\u00e8ne, \u00e9tant une sortie.",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "334",
+      "category": "5",
+      "explanation": "Scanderberg sort, \u00e9tant une sortie de personnage de la sc\u00e8ne.",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "335",
+      "category": "5",
+      "explanation": "La t\u00eate de Georges dispara\u00eet, implicant une sortie d'une mani\u00e8re particuli\u00e8re (disparition).",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "336",
+      "category": "5",
+      "explanation": "Il sort par la petite porte \u00e0 droite, ce qui est une sortie.",
+      "stgdir": "Il sort par la petite porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "337",
+      "category": "5",
+      "explanation": "Laure sort, ce qui signale une sortie de sc\u00e8ne.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "338",
+      "category": "4",
+      "explanation": "Staphyla rentre, indiquant une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "339",
+      "category": "5",
+      "explanation": "Laurence sort d\u00e9crit le d\u00e9part de ce personnage de la sc\u00e8ne.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "340",
+      "category": "7",
+      "explanation": "Il veut partir montre une intention de mouvement sans ex\u00e9cuter une sortie.",
+      "stgdir": "Il veut partir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "341",
+      "category": "5",
+      "explanation": "L\u00e9onor et Marine se retirent, ce qui est synonyme de quitter la sc\u00e8ne, une sortie.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "342",
+      "category": "5",
+      "explanation": "Il dispara\u00eet enti\u00e8rement, ce qui \u00e9quivaut \u00e0 sortir de la sc\u00e8ne de mani\u00e8re compl\u00e8te.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "343",
+      "category": "4",
+      "explanation": "Il entre chez lui signale une entr\u00e9e dans un domicile ou lieu particulier.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "344",
+      "category": "5",
+      "explanation": "Jos\u00e9phine et Marthe sortent, ce qui implique une sortie de sc\u00e8ne.",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "345",
+      "category": "7",
+      "explanation": "Elle veut sortir indique une intention de mouvement sans action d\u00e9finitive, donc class\u00e9e comme mouvement.",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "346",
+      "category": "5",
+      "explanation": "Orphise sort, ce qui implique qu'elle quitte la sc\u00e8ne.",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "347",
+      "category": "6",
+      "explanation": "Il lui serre la main plus fort, interaction non verbale d\u00e9crit une interaction entre deux personnages.",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "348",
+      "category": "6",
+      "explanation": "Il embrasse Ducr\u00f4ne et Jenneval illustre une interaction physique affectuat\u00e9e.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "349",
+      "category": "6",
+      "explanation": "Don C\u00e9sar re\u00e7oit la main d'Isabelle est une interaction en acceptant ou prenant la main.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "350",
+      "category": "6",
+      "explanation": "Poussant rudement Val\u00e8re constitue une interaction corporelle avec une connotation d'agression.",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "351",
+      "category": "6",
+      "explanation": "Elles enl\u00e8vent Constance d\u00e9crit une interaction physique.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "352",
+      "category": "6",
+      "explanation": "Il baise la main du Prince, interaction physique montrant le respect ou la formalit\u00e9.",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "353",
+      "category": "6",
+      "explanation": "Ils se pressent les mains est une interaction physique entre personnages.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "354",
+      "category": "6",
+      "explanation": "Embrassant son p\u00e8re constitue une interaction non verbale affective.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "355",
+      "category": "6",
+      "explanation": "Il la choque un peu d\u00e9crit une action physique, interaction non verbale qui peut \u00eatre per\u00e7ue comme n\u00e9gative.",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "356",
+      "category": "6",
+      "explanation": "Il le baise encore constitue une interaction non verbale r\u00e9p\u00e9t\u00e9e.",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "357",
+      "category": "6",
+      "explanation": "Elle touche Picus, indiquant une interaction physique entre personnages.",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "358",
+      "category": "6",
+      "explanation": "Il veut lui prendre une main, interaction non verbale montrant l'intention de cr\u00e9er une connexion physique.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "359",
+      "category": "6",
+      "explanation": "Elle lui tape dans une main est une interaction physique.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "360",
+      "category": "6",
+      "explanation": "Damis lui pr\u00e9sente la main montre une interaction o\u00f9 le geste est accept\u00e9, impliquant contact physique.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "361",
+      "category": "6",
+      "explanation": "En saisissant la main de son p\u00e8re, montre une interaction physique significative.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "362",
+      "category": "6",
+      "explanation": "Il lui met la main dans la poche d\u00e9crit une interaction physique non verbale.",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "363",
+      "category": "6",
+      "explanation": "Il la retient encore par le bras est une interaction non verbale qui implique une forme de pouvoir ou de contr\u00f4le.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "364",
+      "category": "6",
+      "explanation": "Il serre la main du Grand \u00c9crivain est une interaction respectueuse non verbale.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "365",
+      "category": "6",
+      "explanation": "Elle l'embrasse passionn\u00e9ment montre une interaction affectueuse.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "366",
+      "category": "6",
+      "explanation": "Le poussant du coude est une interaction physique dans un cadre interactif ou d'agression l\u00e9g\u00e8re.",
+      "stgdir": "Le poussant du coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "367",
+      "category": "6",
+      "explanation": "Il le pousse, d\u00e9crivant une interaction physique qui peut \u00eatre agressive.",
+      "stgdir": "Il le pousse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "368",
+      "category": "6",
+      "explanation": "Elle lui frappe le coeur, interaction physique avec une connotation d'agression.",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "369",
+      "category": "6",
+      "explanation": "Il embrasse Argie, illustrant une interaction physique typiquement affectueuse.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "370",
+      "category": "6",
+      "explanation": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io, qui d\u00e9crit une interaction d'accueil ou de r\u00e9ception.",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "371",
+      "category": "6",
+      "explanation": "Elle reprend le bras de Phanor, interaction physique qui montre affinit\u00e9 ou besoin.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "372",
+      "category": "6",
+      "explanation": "En lui serrant affectueusement la main, interaction physique amicale ou affectueuse.",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "373",
+      "category": "6",
+      "explanation": "Ma\u00eetre Godard la presse, encor, du geste, seulement, interaction physique qui montre un geste significatif.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "374",
+      "category": "6",
+      "explanation": "Il embrasse Fleur-de-Sauge, qui est une interaction affectueuse.",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 138437.95895576477,
+  "model": "gpt-4o"
+}

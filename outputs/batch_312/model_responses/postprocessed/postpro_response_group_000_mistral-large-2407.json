@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "11",
+      "explanation": "The stage direction describes a change in the setting, specifically the door opening again.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically pulling out a piece of paper.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "11",
+      "explanation": "The stage direction describes the setting and the initial actions of the characters, indicating the location and the activities taking place.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of an action or speech, in this case, the closed door.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically the character trying to open a door.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically looking at a watch.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically looking at Moli\u00e8re with hesitation.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically sitting in an armchair.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically kneeling at someone's feet.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "11",
+      "explanation": "The stage direction describes the setting and the actions of characters, indicating what they see from their windows.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically indicating something with a foot.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically kneeling.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically knocking on a door.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically eating.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically sitting on a chair near a table.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "5",
+      "explanation": "The stage direction describes a character exiting, specifically standing up to leave.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically pulling a cord to ring a bell.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "1",
+      "explanation": "The stage direction describes a violent action, specifically drawing a sword.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically pointing at someone.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "3",
+      "explanation": "The stage direction describes a delivery manner, specifically changing tone and supplicating.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically searching for something.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing something to someone.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically sitting and writing while singing.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically returning an empty flask.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically bringing a vial to the mouth.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically opening a drawer.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically kneeling in front of the King.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "8",
+      "explanation": "The stage direction describes a music scene, specifically involving ANNA and EUG\u00c9NIE listening to music and choristers arriving on stage.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically looking at flowers.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically reading a poster.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of an action or speech, in this case, looking at a diamond.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "11",
+      "explanation": "The stage direction describes the setting, specifically a group of shepherds and shepherdesses playing various games.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of an action or speech, in this case, looking in the opposite direction.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically drinking again.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically opening a paper and finding an ode.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing a wall that rotates on a pivot.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing a letter to someone.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically sitting at a table.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically continuing to look.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "11",
+      "explanation": "The stage direction describes the setting, specifically a clock chiming six times.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing what is written at the bottom of a document.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically two characters looking at each other.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "11",
+      "explanation": "The stage direction describes the setting, specifically opening a lattice and revealing a countess in place of a statue.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "3",
+      "explanation": "The stage direction describes a delivery manner, specifically reading.",
+      "stgdir": "Lisant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically opening a wardrobe.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically stretching out in an armchair.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically standing up from the table.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically seeing someone coming.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically hearing knocking at the door.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically looking with despair at officers.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically kneeling in front of the Marquise.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically throwing a passionate glance.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "1",
+      "explanation": "The stage direction describes a violent action, specifically lifting guards of the chamber.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of an action or speech, in this case, looking at Terville.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically interrupting and seeing Don Juan ready to get angry.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically continuing to write.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically unwrapping a paper.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically showing something.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically sitting down.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically turning the eyes towards Henry.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing the chief of the fugitives and the prelate in the back of the theater.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of an action or speech, in this case, looking towards the door.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing the husband of the old woman.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically sitting at a table.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically appearing to listen.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing a sword and a pistol.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically making the sign of the cross.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically seeing Ad\u00e9la\u00efde.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically straining to hear.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically going to the fountains and drinking.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "6",
+      "explanation": "The stage direction describes a non-verbal interaction, specifically showing Trissotin.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically reading a letter.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically showing black eyes.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "0",
+      "explanation": "The stage direction describes a general character action, specifically looking.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "10",
+      "explanation": "The stage direction describes a character interacting with an object, specifically lifting another vase and taking a note.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 132361.02080345154,
+  "model": "mistral-large-2407"
+}

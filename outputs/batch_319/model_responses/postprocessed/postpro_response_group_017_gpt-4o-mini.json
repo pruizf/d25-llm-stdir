@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1275",
+      "category": "11",
+      "explanation": "Cette didascalie indique un groupe sp\u00e9cifique, les l\u00e9vites, et d\u00e9crit une partie du cadre qui est les l\u00e9vites, ce qui la classe dans la cat\u00e9gorie de l'environnement ou de la sc\u00e8ne.",
+      "stgdir": "Aux l\u00e9vites.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1276",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit le contenu d'une lettre, qui est une r\u00e9f\u00e9rence directe \u00e0 un objet en lien avec le cadre de la sc\u00e8ne.",
+      "stgdir": "LETTRE AU BRAVE Don CARLOS.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1277",
+      "category": 6,
+      "explanation": "Cette didascalie d\u00e9crit l'action de Colombinette embrassant un autre personnage, ce qui constitue une interaction physique.",
+      "stgdir": "Colombinette n'ose protester et l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1278",
+      "category": 6,
+      "explanation": "Genevi\u00e8ve rend un acte \u00e0 Colombinette, ce qui \u00e9largit l'interaction entre les personnages.",
+      "stgdir": "Genevi\u00e8ve le lui rend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1279",
+      "category": 5,
+      "explanation": "La didascalie indique que les gens quittent la sc\u00e8ne, ce qui correspond \u00e0 l'action de sortir.",
+      "stgdir": "Les gens sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1280",
+      "category": 0,
+      "explanation": "Cette didascalie d\u00e9crit le fait que des valets suspendent des dominos, ce qui est une action g\u00e9n\u00e9rale sans une classification sp\u00e9cifique appliqu\u00e9e.",
+      "stgdir": "Des valets suspendent des dominos aux crois\u00e9es.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1281",
+      "category": 12,
+      "explanation": "Il s'agit d'un geste o\u00f9 l'a\u00een\u00e9e est d\u00e9sign\u00e9e, indiquant une direction ou un b\u00e9n\u00e9ficiaire de l'action.",
+      "stgdir": "\u00c0 son a\u00een\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1282",
+      "category": 6,
+      "explanation": "Les deux personnages tendent la main pour prendre de l'argent, illustrant une interaction non verbale entre eux.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1283",
+      "category": 9,
+      "explanation": "C'est une description d\u00e9taill\u00e9e d'une c\u00e9r\u00e9monie, class\u00e9e comme narration \u00e9tant donn\u00e9 sa longueur et son contenu descriptif.",
+      "stgdir": "C'est une c\u00e9r\u00e9monie burlesque d'un homme qu'on fait m\u00e9decin en r\u00e9cit, chant, et danse. Plusieurs tapissiers viennent pr\u00e9parer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assembl\u00e9e, compos\u00e9e de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir m\u00e9decin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1284",
+      "category": 8,
+      "explanation": "Cette didascalie mentionne un air sp\u00e9cifique, relevant de la cat\u00e9gorie musicale.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1285",
+      "category": 11,
+      "explanation": "Cette didascalie d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, ce qui correspond \u00e0 la cat\u00e9gorie des descriptions de sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1286",
+      "category": 12,
+      "explanation": "Cette didascalie indique clairement une direction ou un b\u00e9n\u00e9ficiaire d'une action.",
+      "stgdir": "Au Cadet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1287",
+      "category": 6,
+      "explanation": "Le geste de d\u00e9signer la table rel\u00e8ve de l'interaction non verbale entre les personnages.",
+      "stgdir": "Lui d\u00e9signant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1288",
+      "category": 6,
+      "explanation": "Lorsque quelqu'un pr\u00e9sente un objet (le miroir), cela rel\u00e8ve d'une interaction entre les personnages.",
+      "stgdir": "Elle lui pr\u00e9sente un petit miroir.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1289",
+      "category": 7,
+      "explanation": "L'action de se rattraper implique un d\u00e9placement sans n\u00e9cessairement quitter la sc\u00e8ne.",
+      "stgdir": "Se rattrapant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1290",
+      "category": 0,
+      "explanation": "Le fait de boire est une action en soi, donc cat\u00e9goris\u00e9e sous action.",
+      "stgdir": "Apr\u00e8s avoir bu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1291",
+      "category": 4,
+      "explanation": "Cette didascalie indique que des personnages entrent en sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie d'entr\u00e9e.",
+      "stgdir": "Ils entrent en sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1292",
+      "category": 12,
+      "explanation": "Ceci pourrait indiquer une direction li\u00e9e \u00e0 M\u00e9gabise, donc class\u00e9 dans cette cat\u00e9gorie.",
+      "stgdir": "\u00c0 M\u00e9gabise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1293",
+      "category": 0,
+      "explanation": "Lever la t\u00eate est une action simple, ne n\u00e9cessitant pas d'autres classifications.",
+      "stgdir": "Elle l\u00e8ve la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1294",
+      "category": 9,
+      "explanation": "C'est une didascalie longue qui explique le d\u00e9cor et les motifs de la sc\u00e9nographie, donc class\u00e9e dans narration.",
+      "stgdir": "D\u00c9CORATION DU PROLOGUE. L'heureux mariage de Sa Majest\u00e9, et la paix qu'il lui a pu donner \u00e0 ses peuples, ayant \u00e9t\u00e9 les motifs de la r\u00e9jouissance publique pour laquelle cette trag\u00e9die a \u00e9t\u00e9 pr\u00e9par\u00e9e, non seulement il \u00e9tait juste qu'ils servissent de sujet au prologue qui la pr\u00e9c\u00e8de, mais il \u00e9tait m\u00eame absolument impossible d'en choisir une plus illustre mati\u00e8re. L'ouverture du th\u00e9\u00e2tre fait voir un pays ruin\u00e9 par les guerres, et termin\u00e9 dans son enfoncement par une ville qui n'en est pas mieux trait\u00e9e, ce qui marque le pitoyable \u00e9tat ou la France \u00e9tait r\u00e9duite avant cette faveur du ciel, qu'elle a si longtemps souhait\u00e9e, et dont la bont\u00e9 de son g\u00e9n\u00e9reux monarque la fait jouir \u00e0 pr\u00e9sent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1295",
+      "category": 10,
+      "explanation": "Le fait de donner un billet est une interaction avec un objet, celle-ci est donc centr\u00e9e sur un objet.",
+      "stgdir": "Elle lui donne un billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1296",
+      "category": 12,
+      "explanation": "Cette didascalie indique un geste en direction de Lisandre, ce qui la place dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 LISANDRE.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1297",
+      "category": 6,
+      "explanation": "Poser une cha\u00eene sur quelqu'un implique une interaction physique entre les personnages.",
+      "stgdir": "Il lui pose sa cha\u00eene sur le cou.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1298",
+      "category": 8,
+      "explanation": "Mentionner un air sp\u00e9cifique le place dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air 5 : Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1299",
+      "category": 8,
+      "explanation": "La mention d'une symphonie en fait une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "on entand une symphonie qui \u00e9clate",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1300",
+      "category": 0,
+      "explanation": "L'action de fermer une fen\u00eatre est une action simple qui ne n\u00e9cessite pas une classification plus sp\u00e9cifique.",
+      "stgdir": "Il lui ferme aussi la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1301",
+      "category": 5,
+      "explanation": "Indique que Sunnon sort, ce qui correspond \u00e0 la sortie de la sc\u00e8ne.",
+      "stgdir": "Sunnon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1302",
+      "category": 0,
+      "explanation": "Cette didascalie d\u00e9crit une action sans entrer dans d'autres cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Il revient.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1303",
+      "category": 8,
+      "explanation": "Comme pour les autres mentions d'air, cela est class\u00e9 dans la musique.",
+      "stgdir": "AIR : De la Fricass\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1304",
+      "category": 0,
+      "explanation": "Heurter implique un mouvement d'un personnage, donc cela rel\u00e8ve de l'action.",
+      "stgdir": "Beronte heurte chez Ragonde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1305",
+      "category": 8,
+      "explanation": "Cette mention d'une ouverture fait partie des compositions musicales pour la sc\u00e8ne.",
+      "stgdir": "On joue l'ouverture.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1306",
+      "category": 10,
+      "explanation": "Prendre une lettre est une interaction avec un objet, ce qui le classe ici.",
+      "stgdir": "Il prend la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1307",
+      "category": 11,
+      "explanation": "Cette didascalie d\u00e9crit un cadre th\u00e9\u00e2tral, ce qui est caract\u00e9ristique de la cat\u00e9gorie 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une \u00eele.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1308",
+      "category": 8,
+      "explanation": "Encore une fois, la mention d'un air rend la didascalie musicale.",
+      "stgdir": "Air : Tique, tique, taque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1309",
+      "category": 7,
+      "explanation": "L'action de voir quelqu'un venir implique un mouvement d'observation.",
+      "stgdir": "Voyant venir G\u00e9ronte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1310",
+      "category": 5,
+      "explanation": "Le Baron sort, donc cela correspond \u00e0 la sortie.",
+      "stgdir": "Le Baron sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1311",
+      "category": 5,
+      "explanation": "Indique que quelqu'un sort d'un endroit, ce qui est class\u00e9 sous 'exit'.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1312",
+      "category": 7,
+      "explanation": "Cette action implique de voir approcher Gustave, ce qui fait r\u00e9f\u00e9rence \u00e0 un mouvement d'un personnage.",
+      "stgdir": "Voyant approcher Gustave.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1313",
+      "category": 8,
+      "explanation": "Mentions d'un air comme 'AIR. De la Royale' sont class\u00e9es dans la musique.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1314",
+      "category": 8,
+      "explanation": "Une autre mention d'air qui le classe dans la musique.",
+      "stgdir": "Air : Babet que t'es gentille !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1315",
+      "category": 11,
+      "explanation": "La description d'un lit dans le cadre d'une chambre met en avant le cadre de la sc\u00e8ne.",
+      "stgdir": "Montval, lit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1316",
+      "category": 5,
+      "explanation": "Indique qu'un personnage sort avec un autre, donc class\u00e9 comme 'exit'.",
+      "stgdir": "Elle sort avec Octave.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1317",
+      "category": 6,
+      "explanation": "Serrer le bout des doigts est une forme d'interaction tactile entre les personnages.",
+      "stgdir": "Il lui serre le bout des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1318",
+      "category": 6,
+      "explanation": "Montrer sa bague est une interaction visuelle impliquant un objet.",
+      "stgdir": "Montrant sa bague.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1319",
+      "category": 7,
+      "explanation": "Faire un pas pour s'en aller implique un mouvement avant de revenir, class\u00e9 ici.",
+      "stgdir": "Il fait un pas pour s'en aller et revient toujours.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1320",
+      "category": 6,
+      "explanation": "Frapper sur l'\u00e9paule est une interaction physique avec un autre personnage.",
+      "stgdir": "Ph\u00e9nice lui frappe sur l'\u00e9paule.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1321",
+      "category": 0,
+      "explanation": "Se redresser malgr\u00e9 la faiblesse est une action qui ne s'inscrit pas dans une autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1322",
+      "category": 9,
+      "explanation": "Cette longue description relate des \u00e9v\u00e9nements et des actions, la classant dans narration.",
+      "stgdir": "Maurice ne dit pas ces mots pour la flatter, car, depuis un instant, il ne l'\u00e9coute plus. Il \u00e9coute des feuilles qui semblent r\u00e9gler leur froissement sur sa marche. Elles se taisent quand il s'arr\u00eate, et quand il repart, aussit\u00f4t elles craquent. C'est s\u00fbr que quelqu'un de mal intentionn\u00e9 suit le couple \u00e0 travers les arbres, en se cachant. Et Blanche qui, tout \u00e0 l'heure, s'effrayait sans raison, parle haut maintenant, laisse \u00e9clater une joie innocente, ne soup\u00e7onne rien et gourmande Maurice.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1323",
+      "category": 5,
+      "explanation": "Indique que L\u00e9onor et Marine se retirent, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1324",
+      "category": 5,
+      "explanation": "Cela indique qu'un personnage va sortir, on le classera donc sous 'exit'.",
+      "stgdir": "Il va pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1325",
+      "category": 12,
+      "explanation": "Indique qu'une action est dirig\u00e9e vers Bi\u00e8vre, correspondant \u00e0 la cat\u00e9gorie.",
+      "stgdir": "\u00c0 Bi\u00e8vre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1326",
+      "category": 6,
+      "explanation": "Prendre quelque chose des mains d'un autre est une interaction physique.",
+      "stgdir": "Elle prend la pomme des mains du Normand.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1327",
+      "category": 5,
+      "explanation": "Le fait que Monsieur Mathieu sort indique une sortie de sc\u00e8ne.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1328",
+      "category": 6,
+      "explanation": "M\u00ealer les mains indique une interaction physique entre deux personnages.",
+      "stgdir": "Ils m\u00ealent leurs mains l'une dans l'autre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1329",
+      "category": 5,
+      "explanation": "Disparaitre enti\u00e8rement indique une sortie ou un d\u00e9part de la sc\u00e8ne.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1330",
+      "category": 9,
+      "explanation": "Une mention d'une voix au loin d\u00e9crit une situation, donc class\u00e9e sous narration.",
+      "stgdir": "On entend la voix de Monsieur Desgranges.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1331",
+      "category": 8,
+      "explanation": "La mention d'une air renvoie \u00e0 un \u00e9l\u00e9ment musical.",
+      "stgdir": "Air : Vous m'entendez bien.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1332",
+      "category": 6,
+      "explanation": "Prendre un bras d'un autre personnage repr\u00e9sente une forme d'interaction.",
+      "stgdir": "Il lui prend un bras qui retombe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1333",
+      "category": "11",
+      "explanation": "Ceci indique la pr\u00e9sence de mages, ce qui d\u00e9finit une dimension dans le d\u00e9cor ou l'environnement.",
+      "stgdir": "Aux Chouans.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1334",
+      "category": 0,
+      "explanation": "Confier une esp\u00e9rance \u00e0 un mouchoir est une action, donc class\u00e9e ici.",
+      "stgdir": "Prenant le billet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1335",
+      "category": 0,
+      "explanation": "Fermer des fen\u00eatres et entendre le bruit des verrous sont des actions g\u00e9n\u00e9rales.",
+      "stgdir": "Les fen\u00eatres se ferment, et on entend au dehors le bruit de plusieurs verrous.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1336",
+      "category": 8,
+      "explanation": "Reprendre un chant indique une action musicale.",
+      "stgdir": "Reprenant le chant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1337",
+      "category": 3,
+      "explanation": "Le fait de dire quelque chose \u00e0 quelqu'un implique une forme de livraison ou de communication.",
+      "stgdir": "Elle lui dit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1338",
+      "category": 11,
+      "explanation": "La description d'une chambre d'h\u00f4tel en d\u00e9sordre est une indication de l'environnement.",
+      "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1339",
+      "category": 8,
+      "explanation": "Une mention d'air \u00e0 un horoscope est li\u00e9e \u00e0 la musique.",
+      "stgdir": "AIR : De l'Horoscope accompli.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1340",
+      "category": 9,
+      "explanation": "La description de l'action autour de deux personnages illustre un r\u00e9cit plus d\u00e9taill\u00e9.",
+      "stgdir": "Cl\u00e9onte et Croquet restent dans une all\u00e9e du Th\u00e9\u00e2tre et Albert met Isabelle dehors, et enferme Clarice.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1341",
+      "category": "11",
+      "explanation": "La mention de mages sur la sc\u00e8ne s'inscrit dans le cadre de la pi\u00e8ce.",
+      "stgdir": "Aux mages.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1342",
+      "category": 0,
+      "explanation": "C'est un acte de retrait et de confiement qui ne s'aligne pas sur une autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Il se retire promptement, sort son mouchoir, et y confie l'esp\u00e9rance de la branche ain\u00e9e des comtes de Catso di Coulo.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1343",
+      "category": 5,
+      "explanation": "Beno\u00eet sort, ce qui est clairement une sortie de sc\u00e8ne.",
+      "stgdir": "Beno\u00eet sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1344",
+      "category": 0,
+      "explanation": "Continuer une action est class\u00e9 comme action.",
+      "stgdir": "Elle continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1345",
+      "category": 10,
+      "explanation": "En montrant un sac, cela implique une interaction ou une mention d'objet.",
+      "stgdir": "En montrant le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1346",
+      "category": 5,
+      "explanation": "Armide s'en va, ce qui indique un d\u00e9part de la sc\u00e8ne.",
+      "stgdir": "Armide s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1347",
+      "category": 0,
+      "explanation": "Le fait de se heurter est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle se heurte encore.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1348",
+      "category": 10,
+      "explanation": "Toucher son gousset parle d'une interaction avec un objet.",
+      "stgdir": "Touchant son gousset.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1349",
+      "category": 11,
+      "explanation": "D\u00e9crire une place publique s'inscrit dans la cat\u00e9gorie de l'environnement de la pi\u00e8ce.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une place publique.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 35408.60319137573,
+  "model": "gpt-4o-mini"
+}

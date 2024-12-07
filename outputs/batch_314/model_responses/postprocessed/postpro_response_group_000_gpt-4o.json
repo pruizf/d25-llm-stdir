@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "0",
+      "explanation": "La didascalie d\u00e9crit l'action d'une porte s'ouvrant, ce qui entre dans la cat\u00e9gorie g\u00e9n\u00e9rale d'action.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "0",
+      "explanation": "Il tire un Papier, une action impliquant la manipulation d'un objet, relevant de la cat\u00e9gorie action.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne et son ambiance, ce qui correspond \u00e0 la cat\u00e9gorie setting.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "0",
+      "explanation": "Regard vers une porte ferm\u00e9e, une action simple de regarder qui entre dans la cat\u00e9gorie action.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "0",
+      "explanation": "Faire des efforts pour ouvrir une porte d\u00e9crit une tentative/actions physiques envers un objet, pertinent pour action.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "0",
+      "explanation": "Regard \u00e0 la montre fait r\u00e9f\u00e9rence \u00e0 une action de regarder vers un objet, class\u00e9e sous action.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "6",
+      "explanation": "Regarder quelqu'un avec h\u00e9sitation implique une interaction non verbale entre les personnages.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "0",
+      "explanation": "S'asseoir dans un fauteuil est une action. Sans interaction particuli\u00e8re, elle correspond \u00e0 action.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "6",
+      "explanation": "Se mettre aux pieds de quelqu'un exprime une interaction non verbale entre personnages.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "9",
+      "explanation": "La description de plusieurs personnages observant depuis des fen\u00eatres cr\u00e9e un contexte, appropri\u00e9 pour narration.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "6",
+      "explanation": "D\u00e9signer du pied une dalle implique une interaction entre le personnage et l'environnement imm\u00e9diat.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "6",
+      "explanation": "Se jeter \u00e0 genoux devant quelqu'un est une interaction non verbale significative entre les personnages.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "0",
+      "explanation": "Une action simple comme frapper \u00e0 une porte est bien class\u00e9e sous l'action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "0",
+      "explanation": "Manger est une action de consommation, relevant ainsi de la cat\u00e9gorie g\u00e9n\u00e9rale d'action.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "0",
+      "explanation": "S'asseyant sur une chaise est une action simple effectu\u00e9e par le personnage.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "5",
+      "explanation": "Se lever pour sortir implique l'intention de quitter la sc\u00e8ne, pertinent \u00e0 une sortie, donc exit.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "0",
+      "explanation": "Tirer le cordon est une action physique envers un objet, pertinent pour action.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "1",
+      "explanation": "Tirer son \u00e9p\u00e9e implique une menace ou pr\u00e9paration \u00e0 l'agression, propre \u00e0 aggression.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "0",
+      "explanation": "Montrer l'huissier fait partie des actions simples de signalement, class\u00e9 sous action.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "3",
+      "explanation": "Changer de ton et supplier d\u00e9crit l'intonation et l'expression vocale, pertinent \u00e0 delivery.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "0",
+      "explanation": "Chercher quelque chose est une action g\u00e9n\u00e9rale, propre \u00e0 l'activit\u00e9 physique simple.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "6",
+      "explanation": "Montrer un objet \u00e0 quelqu'un est une interaction entre personnages, class\u00e9e comme interaction.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "0",
+      "explanation": "S'asseoir et \u00e9crire tout en chantant est essentiellement une action g\u00e9n\u00e9rale, relevant d'action.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "10",
+      "explanation": "Rendre une fiole vide implique interagir avec un objet, class\u00e9e sous object.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "0",
+      "explanation": "Porter une fiole \u00e0 sa bouche est une action de consommation s'apparentant \u00e0 action.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "0",
+      "explanation": "Ouvrir un tiroir constitue une action simple, entrant dans la cat\u00e9gorie action.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "6",
+      "explanation": "Deux personnages se mettent aux pieds du Roi, cette soumission et placement est une interaction.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "6",
+      "explanation": "\u00c9couter les choristes chanteurs, bien que partag\u00e9e avec la musique, se rattache \u00e0 une interaction passive.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "0",
+      "explanation": "Regarder les fleurs est une action observatoire simple envers un \u00e9l\u00e9ment du d\u00e9cor.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "0",
+      "explanation": "Lire une affiche est une action intellectuelle simple, relevant de action.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "0",
+      "explanation": "L'action de regarder un diamant correspond \u00e0 une observation, relevant d'action.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "9",
+      "explanation": "Plusieurs groupes jouant \u00e0 divers jeux fournit une image d'ambiance, typique de narration.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "0",
+      "explanation": "Regarder du c\u00f4t\u00e9 oppos\u00e9 est \u00e0 la fois une action simple et une modification de regard, sous action.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "0",
+      "explanation": "Boire de nouveau d\u00e9crit une action r\u00e9p\u00e9t\u00e9e li\u00e9e \u00e0 la consommation, sous action.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "0",
+      "explanation": "Ouvrir un papier et y trouver une ode combine action de lecture et manipulation.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "0",
+      "explanation": "Montrer un mur pivotant par un pivot est une action simple de d\u00e9monstration li\u00e9e \u00e0 l'environnement.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "6",
+      "explanation": "Montrer une lettre \u00e0 quelqu'un est une interaction directe, appropri\u00e9e pour interaction.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "0",
+      "explanation": "Se mettre \u00e0 table implique un d\u00e9placement suivi d'une simple action, class\u00e9e sous action.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "0",
+      "explanation": "Continuer de regarder constitue une action observatoire pure, class\u00e9e comme action.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "9",
+      "explanation": "La pendule qui sonne est non seulement un effet sonore, mais aussi un \u00e9l\u00e9ment du temps, reliant \u00e0 narration.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "6",
+      "explanation": "Montrer ce qui est \u00e9crit \u00e0 la fin d'un m\u00e9moire est une interaction directe et vis\u00e9e.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "6",
+      "explanation": "Se regarder mutuellement est clairement une interaction non verbale entre personnages.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "0",
+      "explanation": "Ouvrir un treillage pour montrer une statue dissimul\u00e9e d\u00e9crit une action mutation d'une sc\u00e8ne.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "0",
+      "explanation": "L'action de lire, bien que possible pour d'autres cat\u00e9gories, est ici simplement exemplaire.",
+      "stgdir": "Lisant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "0",
+      "explanation": "Une action aussi simple qu'ouvrir une armoire tombe sous la cat\u00e9gorie d'action directe.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "0",
+      "explanation": "\u00c9tendre dans un fauteuil est une simple d\u00e9tente, une action refl\u00e9tant la position prise.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "0",
+      "explanation": "Se lever de table, bien que potentiellement une d\u00e9claration d'intention, sert de commentaire d'action.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "0",
+      "explanation": "Voir venir une Princesse est une observation simple, appropri\u00e9e dans action plut\u00f4t que complexe.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "9",
+      "explanation": "Une violence sourde arrive par une indication de son comme dans une sc\u00e8ne \u00e9largie, id\u00e9al pour narration.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "0",
+      "explanation": "Alfred regardant d\u00e9sesp\u00e9r\u00e9ment est une action mentale tourn\u00e9e vers la sc\u00e8ne imm\u00e9diate.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "6",
+      "explanation": "Se jeter aux genoux de la Marquise est une interaction de nature \u00e9motionnelle et pouss\u00e9e.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "6",
+      "explanation": "Un regard passionn\u00e9 est une interaction forte et non verbale exprimant l'\u00e9motion profonde.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "0",
+      "explanation": "Lever les Gardes de la Chambre consiste en une direction de l'action concert\u00e9e semblable \u00e0 un appel.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "0",
+      "explanation": "Regarder Terville reste un simple acte de d\u00e9placement des yeux, relevant de la cat\u00e9gorie action.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "3",
+      "explanation": "Une interruption induite par la vue de Don Juan sert d'indicateur de choc ou d'attente, ma\u00e7onn\u00e9 en delivery.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "0",
+      "explanation": "Continuer d'\u00e9crire est clairement une action r\u00e9p\u00e9t\u00e9e o\u00f9 la continuit\u00e9 est primeraction.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "0",
+      "explanation": "D\u00e9faire un papier est une action simple d\u00e9montrant l'utilisation des mains reconnue comme action.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "1",
+      "explanation": "Montrer intentionnellement une partie intime exprime une tentative d'offense, class\u00e9e comme aggression.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "0",
+      "explanation": "S'asseoir est une position de repos, synonyme de l'action de se placer, se relevant.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "0",
+      "explanation": "Tourner les yeux vers Henry reste une observation sans signification secondaire \u00e9tendue, sous action.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "6",
+      "explanation": "Montrer quelqu'un particuli\u00e8rement suppose une interaction directe et emphatique, sous interaction.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "0",
+      "explanation": "Une action de regarder vers la porte n'\u00e9tant sp\u00e9cifi\u00e9e comme \u00e9tant importante reste une simple action.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "6",
+      "explanation": "L'homme montrant \u00e0 d'autres indique une interaction active reliant plusieurs objets physiques et personnages.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "0",
+      "explanation": "Se mettre \u00e0 table d\u00e9finit \u00e0 la fois une interaction et une action simple, convenant \u00e0 l'action.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "0",
+      "explanation": "\u00c9couter quelqu'un est une activit\u00e9 passive adapt\u00e9e \u00e0 l'action non verbale.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "0",
+      "explanation": "Montrer une \u00e9p\u00e9e et un pistolet est une action simple faute d'autres contextes d'agressivit\u00e9.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "0",
+      "explanation": "Faire le signe de la croix implique une observation ou un geste en rapport direct avec l'action.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "0",
+      "explanation": "Apercevoir quelqu'un est une action simple de r\u00e9action visuelle envers une surprise imm\u00e9diate.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "0",
+      "explanation": "Tendre l'oreille anxieusement est une action mentale camoufl\u00e9e, relevant de l'observation.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "0",
+      "explanation": "Aller aux fontaines pour boire s'ajuste sous une action de mouvement vers un but d\u00e9fini.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "6",
+      "explanation": "Montrer Trissotin est une mani\u00e8re franche de se rapporter \u00e0 une personne et de d\u00e9clencher une interaction.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "0",
+      "explanation": "Parcourir la lettre est class\u00e9 sous action due \u00e0 la non-d\u00e9monstrabilit\u00e9 de la lecture.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "0",
+      "explanation": "Montrer ses yeux est per\u00e7u comme une introspection physique et non verbale, tout en reliant action.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "0",
+      "explanation": "Regarder est une terme commun de la cat\u00e9gorie action, sans autre aspect/sc\u00e8ne litt\u00e9raire.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "10",
+      "explanation": "Soulever un vase pour prendre un billet implique une interaction directe avec des objets.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 59172.99818992615,
+  "model": "gpt-4o"
+}

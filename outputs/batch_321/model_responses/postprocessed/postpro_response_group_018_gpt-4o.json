@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1350",
+      "category": "3",
+      "explanation": "La didascalie 'Avec r\u00e9solution' d\u00e9crit la mani\u00e8re dont une r\u00e9plique ou une action est interpr\u00e9t\u00e9e, ce qui correspond \u00e0 la cat\u00e9gorie delivery.",
+      "stgdir": "Avec r\u00e9solution.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1351",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un nom d'air ou une r\u00e9f\u00e9rence musicale, ce qui en fait une cat\u00e9gorie music.",
+      "stgdir": "Air : De la baronne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1352",
+      "category": "0",
+      "explanation": "L'action d'ajuster son col est une action g\u00e9n\u00e9rale sans interaction sp\u00e9cifique, elle tombe donc dans la cat\u00e9gorie action.",
+      "stgdir": "Il ajuste son col.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1353",
+      "category": "8",
+      "explanation": "Comme il s'agit d'un 'AIR', cela r\u00e9f\u00e8re \u00e0 la musique ou \u00e0 un air particulier, donc correspond \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "AIR. Allons gai, toujours gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1354",
+      "category": "8",
+      "explanation": "Il s'agit d'un 'Air', ce qui indique une r\u00e9f\u00e9rence musicale, appartenant \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "Air : Comment faire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1355",
+      "category": "12",
+      "explanation": "Cette didascalie indique vers qui une r\u00e9plique est destin\u00e9e, correspondant ainsi \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Phlipotte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1356",
+      "category": "12",
+      "explanation": "La didascalie 'Au laquais' signifie que l'action ou la parole est dirig\u00e9e vers le laquais, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1357",
+      "category": "6",
+      "explanation": "Montrer ses jambes implique une interaction non verbale, correspondant \u00e0 la cat\u00e9gorie interaction.",
+      "stgdir": "En montrant ses jambes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1358",
+      "category": "8",
+      "explanation": "Cela commence par 'AIR', indiquant qu'il s'agit du titre d'une pi\u00e8ce musicale, ce qui appartient \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "AIR : le joli jeu d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1359",
+      "category": "0",
+      "explanation": "Rester en contemplation est une action qui ne correspond pas \u00e0 une autre cat\u00e9gories sp\u00e9cifique, donc cela appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Il reste en contemplation.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1360",
+      "category": "12",
+      "explanation": "Avec une ouverture vers \u00c9sope, cette indication montre \u00e0 qui est destin\u00e9e une action ou parole, relevant de la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 \u00c9sope.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1361",
+      "category": "12",
+      "explanation": "Cette didascalie montre \u00e0 qui est destin\u00e9 une action ou une parole, en l'occurrence, 'Au Pr\u00e9sident', relevant donc de la cat\u00e9gorie toward.",
+      "stgdir": "Au Pr\u00e9sident affectueusement.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1362",
+      "category": "3",
+      "explanation": "Le fait de reprendre une m\u00e9lodie improvis\u00e9e sans paroles implique une forme de livraison (delivery) musicale, bien qu'elle soit sans paroles.",
+      "stgdir": "Pendant que Maximienne reprend, sans les paroles, sa m\u00e9lodie improvis\u00e9e,",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1363",
+      "category": "0",
+      "explanation": "Ouvrir une porte est une action g\u00e9n\u00e9rale et ne constitue pas une interaction particuli\u00e8re, donc cela appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Il va ouvrir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1364",
+      "category": "0",
+      "explanation": "Lire est une action qui ne correspond \u00e0 aucune autre cat\u00e9gorie plus sp\u00e9cifique, appartenant donc \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Ils lisent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1365",
+      "category": "12",
+      "explanation": "La didascalie indique une action orient\u00e9e vers une personne sp\u00e9cifique, Fr\u00e9missin, et rel\u00e8ve donc de la cat\u00e9gorie toward.",
+      "stgdir": "Sortant, \u00e0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1366",
+      "category": "8",
+      "explanation": "Cette didascalie commence par 'AIR', indiquant un nom d'air, ce qui est class\u00e9 dans la cat\u00e9gorie music.",
+      "stgdir": "AIR 87. Din, dan, don.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1367",
+      "category": "7",
+      "explanation": "Aller quelque part implique un mouvement mais pas n\u00e9cessairement une entr\u00e9e ou une sortie de sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie movement.",
+      "stgdir": "Allant \u00e0 sa femme.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1368",
+      "category": "10",
+      "explanation": "Porter diff\u00e9rents v\u00eatements et changer entre eux implique une interaction avec des objets, correspondant donc \u00e0 la cat\u00e9gorie object.",
+      "stgdir": "Le Prince \u00f4te son bonnet de nuit et sa robe de chambre met par dessus sa r\u00e9sille, le bonnet de Barogo, sa veste par-dessus le gilet de dessous, la gratoire \u00e0 sa ceinture, les genouill\u00e8res \u00e0 ses genoux, et les souliers \u00e0 la place de ses pantoufles.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1369",
+      "category": "6",
+      "explanation": "Le baiser est une interaction non verbale significative entre personnages, appartenant \u00e0 la cat\u00e9gorie interaction.",
+      "stgdir": "Il la baise avec peine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1370",
+      "category": "7",
+      "explanation": "Suivre quelqu'un d\u00e9crit un d\u00e9placement physique sans qu'il s'agisse d'une entr\u00e9e ou sortie, donc cela correspond \u00e0 la cat\u00e9gorie movement.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1371",
+      "category": "12",
+      "explanation": "Cette didascalie indique que l'interaction ou le dialogue est dirig\u00e9 vers Haly, ce qui rel\u00e8ve de la cat\u00e9gorie toward.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1372",
+      "category": "8",
+      "explanation": "Marqu\u00e9 comme 'AIR', cela fait r\u00e9f\u00e9rence \u00e0 un air particulier, donc c'est class\u00e9 dans la cat\u00e9gorie music.",
+      "stgdir": "AIR. Ah ! que je me lasse d'\u00eatre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1373",
+      "category": "0",
+      "explanation": "Le fait d'emmener quelqu'un est une action g\u00e9n\u00e9rale, n'entrant pas dans une autre cat\u00e9gorie sp\u00e9cialis\u00e9e, c'est pourquoi elle est class\u00e9e en action.",
+      "stgdir": "Fr\u00e9d\u00e9ric emm\u00e8ne Ferdinand.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1374",
+      "category": "8",
+      "explanation": "La mention d''Air' signale qu'il s'agit d'une chanson ou d'une musique, donc c'est dans la cat\u00e9gorie music.",
+      "stgdir": "Air. \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1375",
+      "category": "8",
+      "explanation": "Encore une fois, 'Air' souligne une r\u00e9f\u00e9rence musicale, que l'on classe donc dans la cat\u00e9gorie music.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1376",
+      "category": "5",
+      "explanation": "Lucile et Damis quittent la sc\u00e8ne, ce qui en fait une sortie, relevant donc de la cat\u00e9gorie exit.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1377",
+      "category": "5",
+      "explanation": "Le personnage sort en emportant quelque chose avec lui, la sortie pr\u00e9vaut donc et cela rel\u00e8ve de la cat\u00e9gorie exit.",
+      "stgdir": "Il s'en va et il emporte le couplet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1378",
+      "category": "6",
+      "explanation": "Montrer le portrait d'\u00c9lise au bras est une interaction non verbale entre personnages, ce qui en fait une cat\u00e9gorie interaction.",
+      "stgdir": "Il lui montre le portrait d'\u00c9lise qu'il a au bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1379",
+      "category": "0",
+      "explanation": "Apercevoir quelqu'un est une action individuelle g\u00e9n\u00e9rale, donc elle appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Apercevant Cl\u00e9on.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1380",
+      "category": "12",
+      "explanation": "Indique vers qui l'action ou parole est dirig\u00e9e, Hernani, relevant ainsi de la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1381",
+      "category": "9",
+      "explanation": "Probablement un texte po\u00e9tique ou narratif \u00e0 destination du roi, cette didascalie est plus longue et descriptive, ce qui la classe dans la cat\u00e9gorie narration.",
+      "stgdir": "VERS AU ROI.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1382",
+      "category": "0",
+      "explanation": "Regarder quelqu'un est une action g\u00e9n\u00e9rale sans interaction physique, ce qui le place dans la cat\u00e9gorie action.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1383",
+      "category": "8",
+      "explanation": "Didascalie associ\u00e9e \u00e0 un air musical nomm\u00e9, donc cela rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "Air. Du Cap de Bonne-Esp\u00e8rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1384",
+      "category": "7",
+      "explanation": "Se sauver implique un d\u00e9placement sans qu'il soit officiel comme une sortie de sc\u00e8ne, ce qui en fait un mouvement.",
+      "stgdir": "En se sauvant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1385",
+      "category": "0",
+      "explanation": "Apercevoir un bouquet implique une action individuelle qui ne se classe pas dans une cat\u00e9gorie d'interaction, donc cela rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Apercevant le bouquet oubli\u00e9 sur le divan.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1386",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit le cadre sc\u00e9nique, relevant ainsi de la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais d'Oromas\u00e8s, Roi des G\u00e9nies.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1387",
+      "category": "7",
+      "explanation": "Retourner sur le rocher implique un mouvement physique sur sc\u00e8ne, ce qui en fait un mouvement.",
+      "stgdir": "Elle retourne sur le rocher.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1388",
+      "category": "11",
+      "explanation": "D\u00e9crire la mise en place du tableau et son positionnement sur la sc\u00e8ne rel\u00e8ve de la cat\u00e9gorie setting.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1389",
+      "category": "8",
+      "explanation": "Didascalie se r\u00e9f\u00e9rant \u00e0 un 'Vaudeville', qui est une forme musicale ou th\u00e9\u00e2trale, ainsi class\u00e9e dans music.",
+      "stgdir": "Air : Vaudeville des deux Veuves.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1390",
+      "category": "8",
+      "explanation": "La mention 'Air' indique qu'il s'agit du titre d'une chanson ou musique, donc cela rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "Air : Colin un jour trouva Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1391",
+      "category": "9",
+      "explanation": "\u00c9tant donn\u00e9 que cela d\u00e9crit une fin avec une 'marche g\u00e9n\u00e9rale', il s'agit d'un passage descriptif narratif de la sc\u00e8ne.",
+      "stgdir": "La pi\u00e8ce finit par une marche g\u00e9n\u00e9rale.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1392",
+      "category": "8",
+      "explanation": "Il se r\u00e9f\u00e8re \u00e0 l'air musical d\u00e9j\u00e0 mentionn\u00e9, donc cela appartient \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "Air pr\u00e9c\u00e9dent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1393",
+      "category": "10",
+      "explanation": "Jeter quelque chose implique une interaction physique avec un objet, relevant donc de la cat\u00e9gorie object.",
+      "stgdir": "Elle jette sa Marotte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1394",
+      "category": "7",
+      "explanation": "Approcher est un mouvement physique d'un personnage, donc cela appartient \u00e0 la cat\u00e9gorie movement.",
+      "stgdir": "Elle approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1395",
+      "category": "11",
+      "explanation": "D\u00e9crit une ouverture de porte et un changement dans la mise en sc\u00e8ne, ce qui en fait une description du cadre, donc setting.",
+      "stgdir": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re ; de jeunes cavaliers et de jeunes femmes se l\u00e8vent de table ; deux n\u00e8gres v\u00eatus en pages entrent en portant des flambeaux ; la sc\u00e8ne s'\u00e9claire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1396",
+      "category": "9",
+      "explanation": "Indique un son (voix de J\u00e9r\u00f4me) venant d'ailleurs sur la sc\u00e8ne, et c'est donc une longue didascalie narrative, appartenant \u00e0 la narration.",
+      "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1397",
+      "category": "12",
+      "explanation": "Dirig\u00e9e vers Tatonet, elle indique vers qui l'action ou le discours est destin\u00e9, relevant de la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1398",
+      "category": "10",
+      "explanation": "D\u00e9shabiller quelqu'un est une interaction avec un objet (les v\u00eatements), ce qui appartient \u00e0 l'objet.",
+      "stgdir": "Il la d\u00e9pouille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1399",
+      "category": "12",
+      "explanation": "Cela indique vers qui l'action ou la parole est dirig\u00e9e (l'un des Arabes), ce qui en fait une cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1400",
+      "category": "3",
+      "explanation": "Le couplage peut impliquer une livraison si celle-ci est chant\u00e9e ou r\u00e9cit\u00e9e de mani\u00e8re distinctive.",
+      "stgdir": "Quatri\u00e8me Couplet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1401",
+      "category": "7",
+      "explanation": "Entrer dans le tombeau implique un d\u00e9placement dans la sc\u00e8ne, bien que ce ne soit pas une entr\u00e9e au sens strict.",
+      "stgdir": "Elle entre dans le tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1402",
+      "category": "0",
+      "explanation": "S'asseoir sans qu'il y ait une interaction ou un mouvement particulier rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Elle s'assied \u00e0 gauche de la chemin\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1403",
+      "category": "10",
+      "explanation": "Remettre une lettre est une interaction avec un objet, ce qui la classe en cat\u00e9gorie object.",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1404",
+      "category": "9",
+      "explanation": "Le bruit constitue un \u00e9l\u00e9ment narratif ou descriptif qui s'ajoute \u00e0 l'action, ce qui en fait une narration.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1405",
+      "category": "9",
+      "explanation": "C'est une longue description d'une conversation et d'une situation narrative, donc cela appartient \u00e0 la narration.",
+      "stgdir": "FRONTIN dit \u00e0 son ma\u00eetre qu'il a toutes les peines du monde \u00e0 tirer de l'argent de Monsieur Simon son usurier ordinaire mais qu'\u00e0 la fin il lui a donn\u00e9 deux mille livres, apr\u00e8s avoir rempli son blanc-seing de quatre mille livres. Ce sont deux mille livres qu'il m'en co\u00fbte, r\u00e9pond Adraste mais que ne ferait-on pas pour se tirer d'affaire avec honneur ? Va ajo\u00fbte-t-il \u00e0 Frontin, assemble mes cr\u00e9anciers chez moi : je vais t'y joindre, et les payer.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1406",
+      "category": "10",
+      "explanation": "Montrer des objets (l'\u00e9p\u00e9e et le pistolet) est une interaction physique avec ces objets, class\u00e9e dans la cat\u00e9gorie object.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1407",
+      "category": "7",
+      "explanation": "Se placer indique un d\u00e9placement du personnage sur sc\u00e8ne, ce qui en fait un mouvement.",
+      "stgdir": "Il se place derri\u00e8re le Peintre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1408",
+      "category": "5",
+      "explanation": "Tous except\u00e9 Chapelle et Lafor\u00eat sortent, donc cela rel\u00e8ve de la cat\u00e9gorie exit.",
+      "stgdir": "Tous sortent, except\u00e9 Chapelle et Lafor\u00eat.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1409",
+      "category": "3",
+      "explanation": "Une 'petite reprise' est g\u00e9n\u00e9ralement un terme musical qui indique une r\u00e9p\u00e9tition, class\u00e9 ici en delivery, car implicite par l'ex\u00e9cution.",
+      "stgdir": "PETITE REPRISE",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1410",
+      "category": "4",
+      "explanation": "L'apparition du Duc indique qu'il entre sur sc\u00e8ne, donc cela rel\u00e8ve de l'entr\u00e9e.",
+      "stgdir": "Le Duc de Nemours para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1411",
+      "category": "8",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un air musical en d\u00e9but de pi\u00e8ce, donc appartenance \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "Air du commencement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1412",
+      "category": "12",
+      "explanation": "Dirig\u00e9 sp\u00e9cifiquement \u00e0 Francis et Madeleine, ce qui en fait une cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Francis et \u00e0 Madeleine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1413",
+      "category": "12",
+      "explanation": "La didascalie indique qu'il adresse la parole ou l'action \u00e0 ses soldats, cela rel\u00e8ve de la cat\u00e9gorie toward.",
+      "stgdir": "Il parle \u00e0 ses soldats.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1414",
+      "category": "6",
+      "explanation": "Montrer une lettre est une interaction non verbale focalis\u00e9e entre deux ou plusieurs personnes, correspondant \u00e0 la cat\u00e9gorie interaction.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1415",
+      "category": "8",
+      "explanation": "Indique un 'Air', qui est le nom d'une pi\u00e8ce musicale ou chanson, cela rel\u00e8ve donc de la cat\u00e9gorie music.",
+      "stgdir": "AIR. ( Quand Iris prend plaisir \u00e0 boire. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1416",
+      "category": "8",
+      "explanation": "Nous avons affaire \u00e0 un air mentionn\u00e9, ce qui est un indice certain de la cat\u00e9gorie music.",
+      "stgdir": "AIR : La plus belle promenade.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1417",
+      "category": "1",
+      "explanation": "Frapper avec une batte est consid\u00e9r\u00e9 comme une agression ou une action violente, ce qui le classe dans l'agression.",
+      "stgdir": "Il frappe avec sa batte.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1418",
+      "category": "0",
+      "explanation": "Tourner les yeux vers quelqu'un est une action sans interaction directe, class\u00e9e ici comme action.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1419",
+      "category": "8",
+      "explanation": "Avec 'AIR' et un num\u00e9ro d'ordre, c'est sans conteste une identification musicale, relevant de la musique.",
+      "stgdir": "AIR 119. Et autre chose itou.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1420",
+      "category": "8",
+      "explanation": "Cit\u00e9 comme un 'Air', cette didascalie se range naturellement dans la cat\u00e9gorie music.",
+      "stgdir": "Air : La raison propose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1421",
+      "category": "10",
+      "explanation": "L'action de prendre une lettre est une interaction directe avec un objet physique, donc il s'agit de l'objet.",
+      "stgdir": "Prenant une lettre ouverte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1422",
+      "category": "11",
+      "explanation": "La vue d'un singe apparaissant ajoute \u00e0 la mise en sc\u00e8ne ou au d\u00e9cor, donc c'est class\u00e9 en setting.",
+      "stgdir": "On voit para\u00eetre un singe.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1423",
+      "category": "9",
+      "explanation": "Cette didascalie compte comme une narration, car elle d\u00e9crit une longue s\u00e9quence d'\u00e9v\u00e9nements d'action dans la sc\u00e8ne.",
+      "stgdir": "Comme Dorise est pr\u00eate de tuer Caliste, un bruit entendu lui fait relever son \u00e9p\u00e9e, et Rosidor para\u00eet tout en sang poursuivi par ses trois assassins masqu\u00e9s. En entrant, il tue Lycaste, et retirant son \u00e9p\u00e9e elle se rompt contre la branche d'un arbre. En cette extr\u00e9mit\u00e9 il voit celle que tient Dorise, et sans la reconna\u00eetre il s'en saisit, et passe tout d'un temps le tron\u00e7on qui lui restait de la sienne en la main gauche, et se d\u00e9fend ainsi contre Pymante et G\u00e9ronte, dont il tue le dernier et met l'autre en fuite.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1424",
+      "category": "1",
+      "explanation": "Le geste de b\u00e2tonner quelqu'un est une agression implicite ou probable, appartenant \u00e0 la cat\u00e9gorie d'agression.",
+      "stgdir": "Il fait le geste de b\u00e2tonner quelqu'un.",
+      "categFull": "aggression"
+    }
+  ],
+  "response_time": 61089.14518356323,
+  "model": "gpt-4o"
+}

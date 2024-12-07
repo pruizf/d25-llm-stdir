@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2025",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, comme l'indique 'Air : L'occasion fait le larron'.",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2026",
+      "category": 5,
+      "explanation": "La t\u00eate de Georges dispara\u00eet, ce qui implique qu'il quitte la sc\u00e8ne.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2027",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'AIR. Nous autre bons villageois'.",
+      "stgdir": "AIR. Nous autre bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2028",
+      "category": 0,
+      "explanation": "L'expression se r\u00e9f\u00e8re \u00e0 un acte, '\u00c0pr\u00e8s avoir lu', impliquant une action de lecture.",
+      "stgdir": "\u00c0pr\u00e8s avoir lu.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2029",
+      "category": 6,
+      "explanation": "Elle lui tape dans une main, ce qui est une interaction physique.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2030",
+      "category": 9,
+      "explanation": "Cette phrase \u00e9voque une situation narrative o\u00f9 l'on parle d'auditeurs et de vers, donc c'est de la narration.",
+      "stgdir": "Qui a entendu les trois derniers vers de Tib\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2031",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'AIR. Preuve de folie'.",
+      "stgdir": "AIR. Preuve de folie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2032",
+      "category": 9,
+      "explanation": "Cette direction d\u00e9crit une sc\u00e8ne avec un chant et une action d'avancer, ce qui lui donne une qualit\u00e9 narrative.",
+      "stgdir": "Chant des Argonautes, entendu dabord dans le lointain de la for\u00eat ; ils s'avancent en triomphe, et portent la Toison d'or.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2033",
+      "category": 6,
+      "explanation": "Ils parlent tous quatre en m\u00eame temps, impliquant une interaction verbale commune.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2034",
+      "category": 9,
+      "explanation": "Cette direction est narrative, mentionnant des \u00e9l\u00e9ments comme des flammes et une voix qui se fait entendre.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2035",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'AIR : Ne v'la-t-i1 pas que j'aime ?'.",
+      "stgdir": "AIR : Ne v'la-t-i1 pas que j'aime ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2036",
+      "category": 5,
+      "explanation": "Elle sort avec Val\u00e8re, ce qui signifie qu'elle quitte la sc\u00e8ne.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2037",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'AIR. Ne m'entendez-vous pas'.",
+      "stgdir": "AIR. Ne m'entendez-vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2038",
+      "category": 12,
+      "explanation": "Cette direction indique une adresse \u00e0 Don Lope et \u00e0 Don Felix.",
+      "stgdir": "\u00c0 Don Lope et \u00e0 Don Felix.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2039",
+      "category": 9,
+      "explanation": "Le reste s'\u00e9tant mis en fuite, cela d\u00e9crit une action narrative.",
+      "stgdir": "Le reste s'\u00e9tant mis en fuite.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2040",
+      "category": 6,
+      "explanation": "Elle distribue les cartes, ce qui est une interaction avec une action de donner.",
+      "stgdir": "Elle distribue les cartes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2041",
+      "category": 9,
+      "explanation": "Cette direction est narrative et explique une s\u00e9rie d'actions et d'\u00e9v\u00e9nements.",
+      "stgdir": "Mais ses avertissements n'ont point eu place dans un coeur passionn\u00e9 : au contraire, l'arriv\u00e9e du Magicien anime sa fureur, lorsqu'il luy donne une bague qui fondra la glace du Coeur de cette Grande Reine, si elle peut \u00eatre mise dans son doigt. Il l'envoie par un second Ambassade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2042",
+      "category": 12,
+      "explanation": "Cette direction indique que l'action se dirige vers Am\u00e9lite.",
+      "stgdir": "\u00c0 Am\u00e9lite.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2043",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'Air Que Dieu b\u00e9nisse la besogne'.",
+      "stgdir": "Air Que Dieu b\u00e9nisse la besogne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2044",
+      "category": "8",
+      "explanation": "Cette phrase indique une chanson \u00e0 boire, donc c'est un air musical.",
+      "stgdir": "Seconde chanson \u00e0 boire",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2045",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit un paysage, ce qui en fait une description de d\u00e9cor.",
+      "stgdir": "Un paysage ath\u00e9nien o\u00f9 se prom\u00e8ne Th\u00e9odore de Banville, v\u00eatu seulement d'un thyrse, comme le dieu Liber.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2046",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'Air : Dans un bosquet'.",
+      "stgdir": "Air : Dans un bosquet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2047",
+      "category": "8",
+      "explanation": "C'est un air musical, comme l'indique 'Air : Quand on a prononc\u00e9 ce malheureux oui'.",
+      "stgdir": "Air : Quand on a prononc\u00e9 ce malheureux oui",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2048",
+      "category": 1,
+      "explanation": "L'action de tirer son \u00e9p\u00e9e et de vouloir se tuer est clairement un acte d'agression.",
+      "stgdir": "Il tire son \u00e9p\u00e9e, et veut se tuer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2049",
+      "category": 9,
+      "explanation": "Cette direction a une qualit\u00e9 narrative, d\u00e9crivant une s\u00e9quence de pens\u00e9es et d'actions concernant l'Amour.",
+      "stgdir": "L'AMOUR, voyant que ses lois, qui avaient toujours \u00e9t\u00e9 fort respect\u00e9es de tout le monde, n'\u00e9taient plus en si grande consid\u00e9ration, et que le pouvoir qu'il avait eu jusques ici sur les coeurs commen\u00e7ait \u00e0 se diminuer, depuis que les Pr\u00e9cieuses s'\u00e9taient introduites dans les compagnies, d'o\u00f9 elles avaient r\u00e9solu de le bannir enti\u00e8rement, entra dans une col\u00e8re dont on n'eut jamais cru qu'un enfant eut \u00e9t\u00e9 capable, et jura de se venger d'elles, \u00e0 quelque prix que ce fut, et voulut m\u00eame engager ses fid\u00e8les sujets en cette occasion, leur ordonnant de se d\u00e9clarer ouvertement contre ces ennemies communes ; ce qui leur fit chercher un moyen de contenter leur petit Dieu, et crurent ne le pouvoir pas mieux faire qu'en les discr\u00e9ditant parmi le peuple, d\u00e9peignant dans un Almanach leurs figures grotesques et leurs belles occupations, ce qui fut aussi t\u00f4t fait.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2050",
+      "category": 6,
+      "explanation": "Il le met sur sa t\u00eate, ce qui implique une action d'interaction avec un objet.",
+      "stgdir": "Il le met sur sa t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2051",
+      "category": 11,
+      "explanation": "Le treillage est ouvert pour r\u00e9v\u00e9ler la Comtesse, ce qui indique un changement de d\u00e9cor.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2052",
+      "category": 0,
+      "explanation": "Il d\u00e9croche, une action g\u00e9n\u00e9rale sans sp\u00e9cificit\u00e9.",
+      "stgdir": "Il d\u00e9croche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2053",
+      "category": 9,
+      "explanation": "Cette direction d\u00e9crit une situation narrative avec Ulysse et les Grecs.",
+      "stgdir": "Ulysse et les Grecs sont pr\u00e8s d'emmener Polix\u00e8ne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2054",
+      "category": 1,
+      "explanation": "Elle lui frappe le c\u0153ur, ce qui peut \u00eatre consid\u00e9r\u00e9 comme un acte d'agression \u00e9motionnelle.",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2055",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'AIR. C'est ce qui nous enrhume.'.",
+      "stgdir": "AIR. C'est ce qui nous enrhume.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2056",
+      "category": 0,
+      "explanation": "Il y cherche, ce qui est une action de recherche.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2057",
+      "category": 9,
+      "explanation": "Cette direction \u00e9voque un effet \u00e9motionnel, donc elle a une qualit\u00e9 narrative.",
+      "stgdir": "Ici les sanglots de Sophie lui doivent couper la voix.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2058",
+      "category": 12,
+      "explanation": "Cette direction est destin\u00e9e aux soldats des troupes de ligne.",
+      "stgdir": "Aux soldats des troupes de ligne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2059",
+      "category": 0,
+      "explanation": "Il d\u00e9ploie sa boutique, indiquant une action de mise en place.",
+      "stgdir": "Il d\u00e9ploie sa boutique.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2060",
+      "category": 9,
+      "explanation": "Ce passage contient une longue narration des \u00e9changes entre les personnages.",
+      "stgdir": "Je les interrompis, bien que j'eusse un extr\u00eame plaisir d'apprendre par leurs bouches tous les d\u00e9tours dont elles se servent, en leur disant que la nuit s'approchait, et qu'il fallait me retirer. Elles me demand\u00e8rent mon sentiment touchant leurs diff\u00e9rentes humeurs : je voulus m'en excuser par l'heure qui semblait ne me pas donner le temps de m'expliquer ; mais elles me contraignirent d'en dire quelque chose. Je leur dis que je trouvais autant de satisfaction dans l'une que dans l'autre. Elles me r\u00e9pondirent, que ce n'\u00e9tait pas mon sentiment, et que je voulais par ce jugement ne d\u00e9sobliger personne ; mais que je pouvais en d\u00e9cider, sans appr\u00e9hender de f\u00e2cher aucune des deux. Je leur dis encore la m\u00eame chose ; et pour leur prouver que c'\u00e9tait ma pens\u00e9e, je dis que quand j'aimais une prude, que je crois que la coquette \u00e9tait fort condamnable ; que depuis j'avais trouv\u00e9 qu'elle avait ses agr\u00e9ments comme une autre, mais que v\u00e9ritablement il fallait faire un \u00e9trange saut. Iris r\u00e9pondit, qu'elle avait ou\u00ef dire \u00e0 plusieurs ce que je disais, mais que je ne devais pas regarder l'effet que ces humeurs produisaient dans l'esprit des hommes, mais seulement le plaisir que les femmes en pouvaient receuoir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2061",
+      "category": 4,
+      "explanation": "Agla\u00e9 s'avance, indiquant qu'elle fait son entr\u00e9e.",
+      "stgdir": "Agla\u00e9 s'avance.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2062",
+      "category": 12,
+      "explanation": "Ceci est destin\u00e9 \u00e0 H\u00e9cube, indiquant une adresse.",
+      "stgdir": "\u00c0 H\u00e9cube.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2063",
+      "category": 6,
+      "explanation": "Il veut embrasser Julie, indiquant une interaction physique.",
+      "stgdir": "Il veut embrasser Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2064",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'Air De la Ceinture'.",
+      "stgdir": "Air De la Ceinture.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2065",
+      "category": 0,
+      "explanation": "Reprenant son air gai, implique une action de changement d'humeur.",
+      "stgdir": "Reprenant son air gai.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2066",
+      "category": 12,
+      "explanation": "Cette direction s'adresse \u00e0 Chiffonne.",
+      "stgdir": "\u00c0 Chiffonne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2067",
+      "category": 0,
+      "explanation": "Les domestiques accourent, indiquant une action d'arriv\u00e9e.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2068",
+      "category": 11,
+      "explanation": "En montrant le Chef des fugitifs et le Pr\u00e9lat, il se r\u00e9f\u00e8re \u00e0 l'arrangement spatial.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2069",
+      "category": 6,
+      "explanation": "Elle se jette \u00e0 ses genoux, repr\u00e9sentant une action d'interaction physique.",
+      "stgdir": "Elle se jette \u00e0 ses genoux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2070",
+      "category": 12,
+      "explanation": "Cette direction est donn\u00e9e \u00e0 ses pages.",
+      "stgdir": "\u00c0 ses pages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2071",
+      "category": "8",
+      "explanation": "C'est un air musical, comme l'indique 'AIR. Un mouvement de curiosit\u00e9.'",
+      "stgdir": "AIR. Un mouvement de curiosit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2072",
+      "category": 6,
+      "explanation": "Il rend la lettre \u00e0 C\u00e9line, impliquant une interaction avec un objet.",
+      "stgdir": "Il rend la lettre \u00e0 C\u00e9line.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2073",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'AIR. Di que st'alma, il fior tormento, etc.'.",
+      "stgdir": "AIR. Di que st'alma, il fior tormento, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2074",
+      "category": 6,
+      "explanation": "Lui montrant le caf\u00e9 de l'Alliance, ce qui repr\u00e9sente une action d'interaction.",
+      "stgdir": "Lui montrant le caf\u00e9 de l'Alliance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2075",
+      "category": 0,
+      "explanation": "Il s'approche d'une autre Statue, ce qui est une action d'approche.",
+      "stgdir": "Il s'approche d'une autre Statue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2076",
+      "category": 12,
+      "explanation": "Ceci est donn\u00e9 \u00e0 Omphale, une direction vers une personne.",
+      "stgdir": "\u00c0 Omphale.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2077",
+      "category": 9,
+      "explanation": "Cette direction d\u00e9crit une sc\u00e8ne dynamique avec des cris et des tambours.",
+      "stgdir": "Les cris redoublent en dehors, les tambours battent, une foule de g\u00e9n\u00e9raux et d'officiers d'\u00e9tat major paraissent au fond et se placent vis-\u00e0-vis les portes vitr\u00e9es.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2078",
+      "category": 12,
+      "explanation": "Cette direction s'adresse \u00e0 Don Alvar, indiquant une adresse directe.",
+      "stgdir": "\u00c0 Don Alvar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2079",
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change, ce qui indique un changement de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre change.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2080",
+      "category": 6,
+      "explanation": "Il lui met la main dans la poche, une interaction physique avec un objet.",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2081",
+      "category": 5,
+      "explanation": "Elle descend, ce qui implique une sortie de sc\u00e8ne.",
+      "stgdir": "Elle descend.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2082",
+      "category": 6,
+      "explanation": "En d\u00e9signant celle de droite, c'est une action d'interaction non verbale.",
+      "stgdir": "En d\u00e9signant celle de droite.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2083",
+      "category": 12,
+      "explanation": "Cette direction s'adresse \u00e0 Mme Lourdis.",
+      "stgdir": "\u00c0 Mme Lourdis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2084",
+      "category": 0,
+      "explanation": "Elle s'assoit et attache le gland qui manquait, une action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle s'assoit et attache le gland qui manquait.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2085",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'Air : Un ancien proverbe nous dit.'.",
+      "stgdir": "Air : Un ancien proverbe nous dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2086",
+      "category": 6,
+      "explanation": "Ma\u00eetre Godard menace du geste, une interaction physique.",
+      "stgdir": "L\u00e0, Ma\u00eetre Godard le menace, encor, du geste, et Champagne poursuit, apr\u00e8s.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2087",
+      "category": 1,
+      "explanation": "Elle se jette l'\u00e9p\u00e9e \u00e0 la main entre Aristandre et le Peuple, repr\u00e9sentant une action d'agression.",
+      "stgdir": "Elle se jette l'\u00e9p\u00e9e \u00e0 la main entre Aristandre et le Peuple.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2088",
+      "category": 0,
+      "explanation": "Revenant promptement \u00e0 elle, une action qui indique un mouvement vers quelque chose ou quelqu'un.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2089",
+      "category": 12,
+      "explanation": "Ceci s'adresse \u00e0 une des dames, indiquant une adresse.",
+      "stgdir": "\u00c0 une des dames.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2090",
+      "category": 9,
+      "explanation": "Roulement de tambours qui battent aux champs, d\u00e9crit une situation sonore.",
+      "stgdir": "Roulement de tambours qui battent aux champs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2091",
+      "category": "8",
+      "explanation": "C'est un air musical, comme indiqu\u00e9 par 'Air 204. L'Amour veut devenir vainqueur.'.",
+      "stgdir": "Air 204. L'Amour veut devenir vainqueur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2092",
+      "category": 0,
+      "explanation": "Elle va \u00e0 son clavecin, et revient aussit\u00f4t, signifiant un mouvement d'aller et retour.",
+      "stgdir": "Elle va \u00e0 son clavecin, et revient aussit\u00f4t.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2093",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit un salon d'\u00e9t\u00e9, une description de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon d'\u00e9t\u00e9 des plus riches. Trois portes-fen\u00eatres au fond, ouvertes sur des jardins orn\u00e9s de statues. Deux portraits en pied de l'empereur et de l'Imp\u00e9ratrice sont plac\u00e9s entre les fen\u00eatres, vis-\u00e0-vis les spectateurs.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2094",
+      "category": 10,
+      "explanation": "Rendant le flacon vide, une interaction avec un objet.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2095",
+      "category": 11,
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte, ce qui est une description de d\u00e9cor.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2096",
+      "category": 9,
+      "explanation": "On entend un colporteur qui crie, ce qui est une direction narrative.",
+      "stgdir": "On entend un colporteur qui crie en dehors : \u00ab C'est aujourd'hui la Loterie Nationale de France ; qu'est-ce qui veut le gros lot ? 955 francs pour 24 sols.\u00bb",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2097",
+      "category": 0,
+      "explanation": "Il s'approche de la porte, signifiant un mouvement vers l'objet.",
+      "stgdir": "Il s'approche de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2098",
+      "category": 6,
+      "explanation": "Il le pousse, une interaction physique avec un objet.",
+      "stgdir": "Il le pousse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2099",
+      "category": 9,
+      "explanation": "Un lit de gazon s'\u00e9l\u00e8ve, d\u00e9crit une sc\u00e8ne avec des \u00e9l\u00e9ments narratifs.",
+      "stgdir": "Un lit de gazon s'\u00e9l\u00e8ve fort \u00e0 propos propos. Le Pasteur tombe dessus sans connaissance, les Aguilons, les Cyclopes et les Sulamandres se retiremt.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 33742.425203323364,
+  "model": "gpt-4o-mini"
+}

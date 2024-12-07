@@ -1,0 +1,706 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 500,
+      "category": 8,
+      "explanation": "Le choeur r\u00e9p\u00e8te ces derniers vers. (Musique)",
+      "stgdir": "Le choeur r\u00e9p\u00e8te ces derniers vers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 501,
+      "category": 5,
+      "explanation": "Elle rentre dans ses appartements. (Exit)",
+      "stgdir": "Elle rentre dans ses appartements.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 502,
+      "category": 0,
+      "explanation": "Pendant ce temps l'on pose les scell\u00e9s. (Action)",
+      "stgdir": "Pendant ce temps l'on pose les scell\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 503,
+      "category": 5,
+      "explanation": "Mademoiselle Damour sort. (Exit)",
+      "stgdir": "Mademoiselle Damour sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 504,
+      "category": 0,
+      "explanation": "On entend le tambour. (Action)",
+      "stgdir": "On entend le tambour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 505,
+      "category": 8,
+      "explanation": "Il chante avec Galaor. (Musique)",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 506,
+      "category": 5,
+      "explanation": "Elle dispara\u00eet dans la nuit. (Exit)",
+      "stgdir": "Elle dispara\u00eet dans la nuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 507,
+      "category": 3,
+      "explanation": "Il h\u00e9site. (Delivery)",
+      "stgdir": "Il h\u00e9site.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 508,
+      "category": 12,
+      "explanation": "\u00c0 un garde. (Toward)",
+      "stgdir": "\u00c0 un garde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 509,
+      "category": 8,
+      "explanation": "AIR : C'est la fille \u00e0 Simonette. (Musique)",
+      "stgdir": "AIR : C'est la fille \u00e0 Simonette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 510,
+      "category": 3,
+      "explanation": "En pleurant. (Delivery)",
+      "stgdir": "En pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 511,
+      "category": 8,
+      "explanation": "AIR. Voil\u00e0 la ressemblance. (Musique)",
+      "stgdir": "AIR. Voil\u00e0 la ressemblance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 512,
+      "category": 10,
+      "explanation": "Il lui baille une lettre. (Object)",
+      "stgdir": "Il lui baille une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 513,
+      "category": 9,
+      "explanation": "SENTENCE. (Narration)",
+      "stgdir": "SENTENCE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 514,
+      "category": 8,
+      "explanation": "AIR. Monsieur le Pr\u00e9v\u00f4t des marchands. (Musique)",
+      "stgdir": "AIR. Monsieur le Pr\u00e9v\u00f4t des marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 515,
+      "category": 3,
+      "explanation": "S'\u00e9chauffant. (Delivery)",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 516,
+      "category": 3,
+      "explanation": "Criant tr\u00e8s fort. (Delivery)",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 517,
+      "category": 12,
+      "explanation": "\u00c0 Carion. (Toward)",
+      "stgdir": "\u00c0 Carion.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 518,
+      "category": 5,
+      "explanation": "Monsieur Dumont sort. (Exit)",
+      "stgdir": "Monsieur Dumont sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 519,
+      "category": 8,
+      "explanation": "AIR. Des pendus. (Musique)",
+      "stgdir": "AIR. Des pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 520,
+      "category": 4,
+      "explanation": "Marton para\u00eet. (Entrance)",
+      "stgdir": "Marton para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 521,
+      "category": 8,
+      "explanation": "Patrice chante. (Musique)",
+      "stgdir": "Patrice chante.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 522,
+      "category": 9,
+      "explanation": "L'ouverture se fait par \u00c9raste, qui conduit un grand concert, de voix et d'instruments, pour une s\u00e9r\u00e9nade, dont les paroles chant\u00e9es par trois voix en mani\u00e8re de dialogue, sont faites sur le sujet de la com\u00e9die, et expriment les sentiments de deux amants, qui, \u00e9tant bien ensemble, sont travers\u00e9s par le caprice des parents. (Narration)",
+      "stgdir": "L'ouverture se fait par \u00c9raste, qui conduit un grand concert, de voix et d'instruments, pour une s\u00e9r\u00e9nade, dont les paroles chant\u00e9es par trois voix en mani\u00e8re de dialogue, sont faites sur le sujet de la com\u00e9die, et expriment les sentiments de deux amants, qui, \u00e9tant bien ensemble, sont travers\u00e9s par le caprice des parents.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 523,
+      "category": 8,
+      "explanation": "AIR : du Libera de la Bourbonnoise. (Musique)",
+      "stgdir": "AIR : du Libera de la Bourbonnoise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 524,
+      "category": 4,
+      "explanation": "Le m\u00e9decin Louis XV s'avance. (Entrance)",
+      "stgdir": "Le m\u00e9decin Louis XV s'avance.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 525,
+      "category": 9,
+      "explanation": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s, (Narration)",
+      "stgdir": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s,",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 526,
+      "category": 6,
+      "explanation": "Il lui envoie des baisers. (Interaction)",
+      "stgdir": "Il lui envoie des baisers.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 527,
+      "category": 5,
+      "explanation": "Edwige sort. (Exit)",
+      "stgdir": "Edwige sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 528,
+      "category": 12,
+      "explanation": "\u00c0 Asser. (Toward)",
+      "stgdir": "\u00c0 Asser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 529,
+      "category": 12,
+      "explanation": "\u00c0 Nanine. (Toward)",
+      "stgdir": "\u00c0 Nanine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 530,
+      "category": 9,
+      "explanation": "Cinthio et Colombine arrivent ensemble \u00e0 l'h\u00f4tellerie d'Arlequin. Colombine fait part \u00e0 Cinthio de l'infid\u00e9lit\u00e9 d'Octave, et de l'embarras o\u00f9 elle se trouve en voyageant seule. Cinthio t\u00e2che de la rassurer, offre de l'accompagner, et lui persuade de se faire passer pour sa soeur. Il frappe \u00e0 la porte d'Arlequin. (Narration)",
+      "stgdir": "Cinthio et Colombine arrivent ensemble \u00e0 l'h\u00f4tellerie d'Arlequin. Colombine fait part \u00e0 Cinthio de l'infid\u00e9lit\u00e9 d'Octave, et de l'embarras o\u00f9 elle se trouve en voyageant seule. Cinthio t\u00e2che de la rassurer, offre de l'accompagner, et lui persuade de se faire passer pour sa soeur. Il frappe \u00e0 la porte d'Arlequin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 531,
+      "category": 10,
+      "explanation": "Elle quitte son chapeau et son ch\u00e2le. (Object)",
+      "stgdir": "Elle quitte son chapeau et son ch\u00e2le.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 532,
+      "category": 8,
+      "explanation": "AIR. Non, je ne ferai pas. (Musique)",
+      "stgdir": "AIR. Non, je ne ferai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 533,
+      "category": 5,
+      "explanation": "La Fleur s'en va. (Exit)",
+      "stgdir": "La Fleur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 534,
+      "category": 12,
+      "explanation": "Au commandeur et au comte. (Toward)",
+      "stgdir": "Au commandeur et au comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 535,
+      "category": 3,
+      "explanation": "Portant le main \u00e0 son coeur. (Delivery)",
+      "stgdir": "Portant le main \u00e0 son coeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 536,
+      "category": 3,
+      "explanation": "Sur le m\u00eame ton. (Delivery)",
+      "stgdir": "Sur le m\u00eame ton.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 537,
+      "category": 3,
+      "explanation": "En chorus. (Delivery)",
+      "stgdir": "En chorus.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 538,
+      "category": 0,
+      "explanation": "Elle ouvre un autre tiroir. (Action)",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 539,
+      "category": 4,
+      "explanation": "Sabine entre. (Entrance)",
+      "stgdir": "Sabine entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 540,
+      "category": 12,
+      "explanation": "\u00c0 ses Chasseurs. (Toward)",
+      "stgdir": "\u00c0 ses Chasseurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 541,
+      "category": 8,
+      "explanation": "BRANLE, etc. (Musique)",
+      "stgdir": "BRANLE, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 542,
+      "category": 8,
+      "explanation": "Air : D'un Z\u00e9phir mutin. (Musique)",
+      "stgdir": "Air : D'un Z\u00e9phir mutin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 543,
+      "category": 12,
+      "explanation": "\u00c0 Monsieur Delamarre. (Toward)",
+      "stgdir": "\u00c0 Monsieur Delamarre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 544,
+      "category": 10,
+      "explanation": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour. (Object)",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 545,
+      "category": 0,
+      "explanation": "Changeant de perruque. (Action)",
+      "stgdir": "Changeant de perruque.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 546,
+      "category": 8,
+      "explanation": "Air : du Ballet des Pierrots. (Musique)",
+      "stgdir": "Air : du Ballet des Pierrots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 547,
+      "category": 1,
+      "explanation": "Il jette Chasteaufort \u00e0 terre d'un coup de pied. (Aggression)",
+      "stgdir": "Il jette Chasteaufort \u00e0 terre d'un coup de pied.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 548,
+      "category": 6,
+      "explanation": "Elle regarde Marton d'un air courrouc\u00e9. (Interaction)",
+      "stgdir": "Elle regarde Marton d'un air courrouc\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 549,
+      "category": 8,
+      "explanation": "Air : Oui mon cher Favart, \u00e0 tes yeux. (Musique)",
+      "stgdir": "Air : Oui mon cher Favart, \u00e0 tes yeux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 550,
+      "category": 5,
+      "explanation": "Merlin s'enfuit. (Exit)",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 551,
+      "category": 9,
+      "explanation": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9. (Narration)",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 552,
+      "category": 10,
+      "explanation": "Montrant le manuscrit. (Object)",
+      "stgdir": "Montrant le manuscrit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 553,
+      "category": 5,
+      "explanation": "Les gar\u00e7ons disparaissent. (Exit)",
+      "stgdir": "Les gar\u00e7ons disparaissent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 554,
+      "category": 6,
+      "explanation": "Antoine le tire par son habit. (Interaction)",
+      "stgdir": "Antoine le tire par son habit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 555,
+      "category": 8,
+      "explanation": "AIR. ( Attende-moi sous l'Orme. ) (Musique)",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 556,
+      "category": 8,
+      "explanation": "Air : Vaud[e]v[ille] d'Abuzar. (Musique)",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 557,
+      "category": 8,
+      "explanation": "AIR Dans un Couvent bien-heureux. (Musique)",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 558,
+      "category": 9,
+      "explanation": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u. (Narration)",
+      "stgdir": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 559,
+      "category": 0,
+      "explanation": "Harpag\u00eame se met dans le pi\u00e8ge. (Action)",
+      "stgdir": "Harpag\u00eame se met dans le pi\u00e8ge.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 560,
+      "category": 11,
+      "explanation": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre. (Setting)",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 561,
+      "category": 9,
+      "explanation": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre. (Narration)",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 562,
+      "category": 12,
+      "explanation": "\u00c0 Trasimon. (Toward)",
+      "stgdir": "\u00c0 Trasimon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 563,
+      "category": 0,
+      "explanation": "Le docteur se l\u00e8ve. (Action)",
+      "stgdir": "Le docteur se l\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 564,
+      "category": 1,
+      "explanation": "Il tire. (Aggression)",
+      "stgdir": "Il tire.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 565,
+      "category": 0,
+      "explanation": "Serment de l'Ordre de Chevalerie. (Action)",
+      "stgdir": "Serment de l'Ordre de Chevalerie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 566,
+      "category": 12,
+      "explanation": "\u00c0 Sozame. (Toward)",
+      "stgdir": "\u00c0 Sozame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 567,
+      "category": 6,
+      "explanation": "Embrassant Madame Milville. (Interaction)",
+      "stgdir": "Embrassant Madame Milville.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 568,
+      "category": 0,
+      "explanation": "Examinant le tableau. (Action)",
+      "stgdir": "Examinant le tableau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 569,
+      "category": 8,
+      "explanation": "Air de la SIR\u00c8NE, d'Auber. (Musique)",
+      "stgdir": "Air de la SIR\u00c8NE, d'Auber.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 570,
+      "category": 0,
+      "explanation": "Le Chevalier tombe \u00e0 genoux; (Action)",
+      "stgdir": "Le Chevalier tombe \u00e0 genoux;",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 571,
+      "category": 8,
+      "explanation": "AIR : R\u00e9veillez-vous belle endormie. (Musique)",
+      "stgdir": "AIR : R\u00e9veillez-vous belle endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 572,
+      "category": 8,
+      "explanation": "AIR 105 : La bonne aventure, \u00f4 gai. (Musique)",
+      "stgdir": "AIR 105 : La bonne aventure, \u00f4 gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 573,
+      "category": 0,
+      "explanation": "Regardant la table servie. (Action)",
+      "stgdir": "Regardant la table servie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 574,
+      "category": 4,
+      "explanation": "Saint-Alban parait. (Entrance)",
+      "stgdir": "Saint-Alban parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 575,
+      "category": 4,
+      "explanation": "Entre Henri Bassou. (Entrance)",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 576,
+      "category": 10,
+      "explanation": "Il le d\u00e9chire. (Object)",
+      "stgdir": "Il le d\u00e9chire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 577,
+      "category": 10,
+      "explanation": "Lettre de MASSINISSE \u00e0 SOPHONISBE (Object)",
+      "stgdir": "Lettre de MASSINISSE \u00e0 SOPHONISBE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 578,
+      "category": 6,
+      "explanation": "Se jetant aux pieds d'In\u00e8s. (Interaction)",
+      "stgdir": "Se jetant aux pieds d'In\u00e8s.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 579,
+      "category": 7,
+      "explanation": "Se posant devant Julie. (Movement)",
+      "stgdir": "Se posant devant Julie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 580,
+      "category": 8,
+      "explanation": "RONDEAU du Prisonnier. (Musique)",
+      "stgdir": "RONDEAU du Prisonnier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 581,
+      "category": 12,
+      "explanation": "\u00c0 Florine. (Toward)",
+      "stgdir": "\u00c0 Florine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 582,
+      "category": 12,
+      "explanation": "S'adressant \u00e0 L\u00e9andre. (Toward)",
+      "stgdir": "S'adressant \u00e0 L\u00e9andre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 583,
+      "category": 7,
+      "explanation": "Il feint de s'en aller. (Movement)",
+      "stgdir": "Il feint de s'en aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 584,
+      "category": 8,
+      "explanation": "Air : des Fraises. (Musique)",
+      "stgdir": "Air : des Fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 585,
+      "category": 12,
+      "explanation": "\u00c0 Ardenie. (Toward)",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 586,
+      "category": 10,
+      "explanation": "LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE. (Object)",
+      "stgdir": "LETTRE SUPPOS\u00c9E d'ALIDOR \u00c0 CLARINE.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 587,
+      "category": 4,
+      "explanation": "Fenise rentre. (Entrance)",
+      "stgdir": "Fenise rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 588,
+      "category": 9,
+      "explanation": "Tandis que cette premi\u00e8re statue par ses attitudes et ses pas, marque sa surprise et son admiration, Prom\u00e9th\u00e9e par ses gestes marque combien il est satisfait de son ouvrage, et t\u00e2che de faire entrer Mercure dans sa joie. II anime une seconde Statue qui est encore celle d'un homme, et qui exprime \u00e0 la vue du Ciel et de la Terre les m\u00eames mouvements de surprise que la premi\u00e8re ; ensuite ils s'aper\u00e7oivent, courent l'un \u00e0 l'autre, s'embrassent et se donnent tous les t\u00e9moignages de l'amiti\u00e9 la plus vive. (Narration)",
+      "stgdir": "Tandis que cette premi\u00e8re statue par ses attitudes et ses pas, marque sa surprise et son admiration, Prom\u00e9th\u00e9e par ses gestes marque combien il est satisfait de son ouvrage, et t\u00e2che de faire entrer Mercure dans sa joie. II anime une seconde Statue qui est encore celle d'un homme, et qui exprime \u00e0 la vue du Ciel et de la Terre les m\u00eames mouvements de surprise que la premi\u00e8re ; ensuite ils s'aper\u00e7oivent, courent l'un \u00e0 l'autre, s'embrassent et se donnent tous les t\u00e9moignages de l'amiti\u00e9 la plus vive.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 589,
+      "category": 12,
+      "explanation": "\u00c0 Philom\u00e8le. (Toward)",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 590,
+      "category": 0,
+      "explanation": "Ils s'asseyent tous deux. (Action)",
+      "stgdir": "Ils s'asseyent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 591,
+      "category": 12,
+      "explanation": "\u00c0 Tartuffe. (Toward)",
+      "stgdir": "\u00c0 Tartuffe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 592,
+      "category": 5,
+      "explanation": "Ils sortent avec la M\u00e8re Ubu. (Exit)",
+      "stgdir": "Ils sortent avec la M\u00e8re Ubu.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 593,
+      "category": 8,
+      "explanation": "AIR. Oh ! Ricandaine. (Musique)",
+      "stgdir": "AIR. Oh ! Ricandaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 594,
+      "category": 0,
+      "explanation": "En apercevant Eve. (Action)",
+      "stgdir": "En apercevant Eve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 595,
+      "category": 0,
+      "explanation": "Regardant sa main vide. (Action)",
+      "stgdir": "Regardant sa main vide.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 596,
+      "category": 6,
+      "explanation": "Elle reprend le bras de Phanor. (Interaction)",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 597,
+      "category": 10,
+      "explanation": "Elle lui rend la bague. (Object)",
+      "stgdir": "Elle lui rend la bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 598,
+      "category": 0,
+      "explanation": "Se remettant. (Action)",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 599,
+      "category": 9,
+      "explanation": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau. (Narration)",
+      "stgdir": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.",
+      "categFull": "narration"
+    }
+  ],
+  "response_time": 157914.45970535278,
+  "model": "mistral-large-2407"
+}

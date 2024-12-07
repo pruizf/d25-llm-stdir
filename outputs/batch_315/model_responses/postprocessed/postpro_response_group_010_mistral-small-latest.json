@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "750",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Henri.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "751",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Antenor.",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "752",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse la Reine.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "753",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Colin.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "754",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adressent les deux courtisans.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "755",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse le Courtisan.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "756",
+      "category": "3",
+      "explanation": "La direction de sc\u00e8ne indique une mani\u00e8re de prononcer les paroles, en reprenant son exorde.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "757",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Clidamis.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "758",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Alain.",
+      "stgdir": "\u00c0 Alain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "759",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Madame Dangeville.",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "760",
+      "category": "0",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une action g\u00e9n\u00e9rale de L\u00e9onore proposant une longue entrevue avec Julie.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse le p\u00e8re de famille.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Philom\u00e8le.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Adario.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Crassus.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adressent \u00c9liante et Philinte.",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Placide.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Tatonet.",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse la Vidame.",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "9",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une longue s\u00e9quence narrative adress\u00e9e au parterre.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "770",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Delval.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Aricie.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Euph\u00e9mon fils.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "773",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Ardenie.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "774",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Pierrot.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "775",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse l'un des Arabes.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "776",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Lycandre.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "777",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse M\u00e9rione.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "778",
+      "category": "9",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une longue s\u00e9quence narrative o\u00f9 le personnage se retourne vers son fils et lui parle.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "779",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Ibrahim.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "780",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adressent les Bergers.",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "781",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Philox\u00e8ne.",
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "782",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Vasta.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "783",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Estelle.",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "784",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Candide.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "785",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Darie.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "786",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Ninias.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "787",
+      "category": "10",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une interaction avec un objet, Isabelle se touchant le front avec la main.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "788",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Genseric.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "789",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse le duc d'Alcala.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "790",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse le laboureur.",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Mowbrai.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse l'Inspecteur des B\u00e2timents.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "9",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une longue s\u00e9quence narrative o\u00f9 le personnage se retourne vers les Spectateurs.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Lisimon.",
+      "stgdir": "\u00c0 Lisimon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse C\u00e9lie, Galimatias.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Tib\u00e8re.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Hernani.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse le laquais.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Dariolette.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "800",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Marlot.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Colette.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": "3",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une mani\u00e8re de parler, G\u00e9ronte de sa voix ordinaire.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adressent les femmes.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Monsieur de Chambre.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse son \u00e9poux.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Hortensius.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Guillaume.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": "10",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une interaction avec un objet, les Esclaves de son sexe.",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Margot.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "810",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Fr\u00e9missin.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "811",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse le Sauvage.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "812",
+      "category": "3",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une mani\u00e8re de parler, en parlant au prince.",
+      "stgdir": "Parlant au prince.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "813",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse C\u00e9lie.",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "814",
+      "category": "3",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une mani\u00e8re de parler, en parlant \u00e0 Dionys.",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "815",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Poquelin.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "816",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adressent Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "817",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Gaston.",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "818",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse le marquis.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "819",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adressent les autres conseillers.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "820",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Hortensius.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse la comtesse.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Mercure.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "9",
+      "explanation": "La direction de sc\u00e8ne d\u00e9crit une longue s\u00e9quence narrative en indiquant \u00e0 qui s'adresse le Roi, en lui montrant Thamar.",
+      "stgdir": "Au Roi, en lui montrant Thamar.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "12",
+      "explanation": "La direction de sc\u00e8ne indique \u00e0 qui s'adresse Coucy.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 57330.965995788574,
+  "model": "mistral-small-latest"
+}

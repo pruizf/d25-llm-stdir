@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit une action sur la porte, ce qui est une description de la sc\u00e8ne ou du lieu de la pi\u00e8ce.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "10",
+      "explanation": "L'action de tirer un papier implique une interaction avec un objet.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne et les personnages occup\u00e9s \u00e0 travailler sur des plans, des livres et des papiers.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "0",
+      "explanation": "L'action de voir une porte ferm\u00e9e est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "0",
+      "explanation": "L'action de faire des efforts pour ouvrir une porte est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "0",
+      "explanation": "L'action de regarder \u00e0 la montre est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "0",
+      "explanation": "L'action de regarder Moli\u00e8re avec h\u00e9sitation est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "0",
+      "explanation": "L'action de s'asseoir dans un fauteuil est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "1",
+      "explanation": "L'action de se mettre \u00e0 ses pieds implique une interaction non violente entre les personnages.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne en expliquant o\u00f9 se trouvent les personnages et ce qu'ils voient.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "0",
+      "explanation": "L'action de d\u00e9signer du pied une dalle est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "1",
+      "explanation": "L'action de se jeter \u00e0 genoux implique une interaction non violente entre les personnages.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "0",
+      "explanation": "L'action de frapper \u00e0 la porte est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "10",
+      "explanation": "L'action de manger tous deux implique une interaction avec un objet.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "0",
+      "explanation": "L'action de s'asseyant sur une chaise est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "0",
+      "explanation": "L'action de se lever pour sortir est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "0",
+      "explanation": "L'action de tirer le cordon de la sonnette est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "1",
+      "explanation": "L'action de tirer son \u00e9p\u00e9e implique une interaction violente entre les personnages.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "0",
+      "explanation": "L'action de montrant l'huissier est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "3",
+      "explanation": "L'action de changer de ton et de suppliant implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "0",
+      "explanation": "L'action de chercher est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "0",
+      "explanation": "L'action de montrer est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "0",
+      "explanation": "L'action de s'asseoir et d'\u00e9crire en chantant est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "10",
+      "explanation": "L'action de rendant le flacon vide implique une interaction avec un objet.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "10",
+      "explanation": "L'action de porter la fiole \u00e0 sa bouche implique une interaction avec un objet.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "0",
+      "explanation": "L'action d'ouvrir le tiroir est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "1",
+      "explanation": "L'action de se jeter aux genoux implique une interaction non violente entre les personnages.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "2",
+      "explanation": "La didascalie indique que les personnages \u00e9coutent chanter, ce qui est un apart\u00e9.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "0",
+      "explanation": "L'action de regarder les fleurs est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "0",
+      "explanation": "L'action de lire l'affiche est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "10",
+      "explanation": "L'action de regarder le diamant implique une interaction avec un objet.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne avec des groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "0",
+      "explanation": "L'action de regardant du c\u00f4t\u00e9 oppos\u00e9 est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "10",
+      "explanation": "L'action de boire de nouveau implique une interaction avec un objet.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "10",
+      "explanation": "L'action d'ouvrir le papier et d'y trouver une Ode sur un triomphe d'amour implique une interaction avec un objet.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit la sc\u00e8ne en expliquant une caract\u00e9ristique de la sc\u00e8ne.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "0",
+      "explanation": "L'action de lui montrant une lettre est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "10",
+      "explanation": "L'action de se mettre \u00e0 table implique une interaction avec un objet.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "0",
+      "explanation": "L'action de continuer de regarder est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "9",
+      "explanation": "L'action de la pendule sonnant six heures est une description de la sc\u00e8ne ou du lieu de la pi\u00e8ce.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "0",
+      "explanation": "L'action de lui montrant ce qui est \u00e9crit au bas du m\u00e9moire est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "0",
+      "explanation": "L'action de se regarder tous deux est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "4",
+      "explanation": "L'action d'ouvrir le treillage et de voir la Comtesse \u00e0 la place de la statue indique que quelqu'un entre en sc\u00e8ne.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "3",
+      "explanation": "L'action de lire implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "Lisant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "10",
+      "explanation": "L'action d'ouvrir l'armoire implique une interaction avec un objet.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "0",
+      "explanation": "L'action de s'\u00e9tendre dans un fauteuil est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "0",
+      "explanation": "L'action de se lever de table est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "0",
+      "explanation": "L'action de voir venir la Princesse est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "0",
+      "explanation": "L'action d'entendre frapper \u00e0 la porte est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "3",
+      "explanation": "L'action de regarder avec d\u00e9sespoir les officiers implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "1",
+      "explanation": "L'action de se jeter aux genoux de la Marquise implique une interaction non violente entre les personnages.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "3",
+      "explanation": "L'action de jeter un regard passionn\u00e9 implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "0",
+      "explanation": "L'action de lever les Gardes de la Chambre est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "0",
+      "explanation": "L'action de regardant Terville est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "3",
+      "explanation": "L'action de s'interrompant en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "3",
+      "explanation": "L'action de continuer d'\u00e9crire implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "10",
+      "explanation": "L'action de d\u00e9faire le papier implique une interaction avec un objet.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "1",
+      "explanation": "L'action de montrer son vit est une agression.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "0",
+      "explanation": "L'action de s'asseoir est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "0",
+      "explanation": "L'action de tourner les yeux sur Henry est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "0",
+      "explanation": "L'action de montrant le Chef des fugitifs et le Pr\u00e9lat est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "0",
+      "explanation": "L'action de regarder du c\u00f4t\u00e9 de la porte est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "0",
+      "explanation": "L'action de montrer le mari de la Vieille est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "10",
+      "explanation": "L'action de se mettre \u00e0 table implique une interaction avec un objet.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "3",
+      "explanation": "L'action d'avoir l'air d'\u00e9couter implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "1",
+      "explanation": "L'action de montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main est une agression.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "0",
+      "explanation": "L'action de faire le signe de la Croix est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "0",
+      "explanation": "L'action d'apercevoir Ad\u00e9la\u00efde est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "3",
+      "explanation": "L'action de tendre l'oreille anxieusement implique une interpr\u00e9tation vocale d'une \u00e9motion.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "0",
+      "explanation": "L'action de va aux fontaines et boit est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "0",
+      "explanation": "L'action de montrant Trissotin est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "0",
+      "explanation": "L'action de parcourant la lettre est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "10",
+      "explanation": "L'action de montrant ses yeux poch\u00e9s implique une interaction avec un objet.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "0",
+      "explanation": "L'action de regardant est une action g\u00e9n\u00e9rale des personnages.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "10",
+      "explanation": "L'action de soul\u00e8ver l'autre vase et prendre le billet implique une interaction avec un objet.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    }
+  ],
+  "response_time": 65903.49292755127,
+  "model": "mistral-small-latest"
+}

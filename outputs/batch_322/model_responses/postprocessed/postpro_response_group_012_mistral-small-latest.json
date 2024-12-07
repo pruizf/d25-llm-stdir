@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "900",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant une route, une h\u00f4tellerie, un ch\u00e2teau et des montagnes.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "901",
+      "category": "0",
+      "explanation": "Le personnage ex\u00e9cute une action en ob\u00e9issant.",
+      "stgdir": "Il ob\u00e9it.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "902",
+      "category": "3",
+      "explanation": "La didascalie d\u00e9crit comment la r\u00e9plique est interpr\u00e9t\u00e9e, en l'occurrence en sanglotant et en pleurant.",
+      "stgdir": "En sanglotant, et en pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "903",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un air de musique.",
+      "stgdir": "AIR. Nous sommes Pr\u00e9cepteurs d'Amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "904",
+      "category": "0",
+      "explanation": "Le personnage entreprend une action en allant chercher quelque chose.",
+      "stgdir": "Il va les chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "905",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant un h\u00f4tel et les costumes des personnages.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "906",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un air de musique.",
+      "stgdir": "Air op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "907",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Monsieur Jourdain.",
+      "stgdir": "Monsieur Jourdain chante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "908",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Menos.",
+      "stgdir": "\u00c0 Menos.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "909",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet en ouvrant un portefeuille et en examinant son contenu.",
+      "stgdir": "Il ouvre le portefeuille, il examine ce qu'il contient, et dit :",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "910",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence le Turc et le Mogol.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "911",
+      "category": "3",
+      "explanation": "La didascalie d\u00e9crit comment la r\u00e9plique est interpr\u00e9t\u00e9e, en l'occurrence de mani\u00e8re h\u00e9sitante.",
+      "stgdir": "H\u00e9sitant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "912",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence les peintres.",
+      "stgdir": "Aux peintres qui sont rest\u00e9s et qui l'attendent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "913",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages, en l'occurrence les lutins qui jettent Arlequin dans une couverture.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "914",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant un caf\u00e9 et des chambres.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un caf\u00e9 et des chambres sur les ailes, de fa\u00e7on qu'un peut entrer de plain-pied des appartements dans le caf\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "915",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet en mettant une perruque.",
+      "stgdir": "Il met la perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "916",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Drusus.",
+      "stgdir": "\u00c0 Drusus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "917",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant une salle pr\u00e9par\u00e9e pour un bal.",
+      "stgdir": "Cette sc\u00e8ne est dans une salle pr\u00e9par\u00e9e pour un bal, o\u00f9 il y a compagnie, et des violons.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "918",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Lafrappe.",
+      "stgdir": "\u00c0 Lafrappe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "919",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un air de musique.",
+      "stgdir": "Air : Si le Roi m'avait donn\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "920",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit une sortie de la sc\u00e8ne, en l'occurrence Flore et Blanche rentrent.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "921",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Ibrahim.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "922",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant le Palais des Rois d'Argos.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "923",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un air de musique.",
+      "stgdir": "AIR. Votre beaut\u00e9 soumet tout l'univers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "924",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence les deux Com\u00e9dies.",
+      "stgdir": "Aux deux Com\u00e9dies.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "925",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Constantin.",
+      "stgdir": "\u00c0 Constantin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "926",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit une sortie de la sc\u00e8ne, en l'occurrence elle sort par la porte de la chambre nuptiale.",
+      "stgdir": "Elle sort par la porte de la chambre nuptiale.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "927",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence les Muses.",
+      "stgdir": "Aux Muses.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "928",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence les Gens du Bailli.",
+      "stgdir": "Aux Gens du Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "929",
+      "category": "4",
+      "explanation": "La didascalie d\u00e9crit une entr\u00e9e en sc\u00e8ne, en l'occurrence Dorante entre.",
+      "stgdir": "Dorante entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "930",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Plisth\u00e8ne.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "931",
+      "category": "7",
+      "explanation": "La didascalie d\u00e9crit un mouvement du personnage, en l'occurrence il passe.",
+      "stgdir": "Il passe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "932",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit une sortie de la sc\u00e8ne, en l'occurrence Brigitte sort.",
+      "stgdir": "Brigitte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "933",
+      "category": "4",
+      "explanation": "La didascalie d\u00e9crit une entr\u00e9e en sc\u00e8ne, en l'occurrence Entr\u00e9e.",
+      "stgdir": "Entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "934",
+      "category": "1",
+      "explanation": "La didascalie d\u00e9crit une action agressive, en l'occurrence le soldat frappe le personnage avec sa pique.",
+      "stgdir": "Le soldat le frappe de sa pique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "935",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant les jardins du Palais d'Hercule sur le bord de la mer.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente les jardins du Palais d'Hercule sur le bord de la mer.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "936",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet en tirant un petit volume de son habit.",
+      "stgdir": "Il tire un petit volume de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "937",
+      "category": "9",
+      "explanation": "La didascalie est une narration longue et descriptive.",
+      "stgdir": "IV.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "938",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant la sc\u00e8ne chez l'Abb\u00e9.",
+      "stgdir": "La sc\u00e8ne est chez l'Abb\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "939",
+      "category": "3",
+      "explanation": "La didascalie d\u00e9crit comment la r\u00e9plique est interpr\u00e9t\u00e9e, en l'occurrence sans se mettre \u00e0 genoux.",
+      "stgdir": "Sans se mettre \u00e0 genoux.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "940",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Medwin.",
+      "stgdir": "\u00c0 Medwin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "941",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence son cheval.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "942",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant le cabinet de G\u00e9ralde.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente Le cabinet de G\u00e9ralde ; sur La gauche est une table, couverte de papiers en d\u00e9sordre ; sur sa droite, un clavecin ; une biblioth\u00e8que, dans Le fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "943",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Dangeste.",
+      "stgdir": "\u00c0 Dangeste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "944",
+      "category": "3",
+      "explanation": "La didascalie d\u00e9crit comment la r\u00e9plique est interpr\u00e9t\u00e9e, en l'occurrence \u00e0 voix haute.",
+      "stgdir": "\u00c0 voix haute.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "945",
+      "category": "9",
+      "explanation": "La didascalie est une narration longue et descriptive, en l'occurrence le coucou chante.",
+      "stgdir": "Le coucou chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "946",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet, en l'occurrence Arlequin avec l'allumette.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "947",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Delphine.",
+      "stgdir": "\u00c0 Delphine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "948",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet en prenant Albert.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "949",
+      "category": "3",
+      "explanation": "La didascalie d\u00e9crit comment la r\u00e9plique est interpr\u00e9t\u00e9e, en l'occurrence il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours.",
+      "stgdir": "Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "950",
+      "category": "4",
+      "explanation": "La didascalie d\u00e9crit une entr\u00e9e en sc\u00e8ne, en l'occurrence Orphise et Lise entrent.",
+      "stgdir": "Orphise et Lise entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "951",
+      "category": "3",
+      "explanation": "La didascalie d\u00e9crit comment la r\u00e9plique est interpr\u00e9t\u00e9e, en l'occurrence haut \u00e0 Fanchette.",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "952",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un air de musique.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "953",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages, en l'occurrence elles enl\u00e8vent Constance.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "954",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un air de musique.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "955",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages, en l'occurrence elle frappe sur les oreilles de l'\u00e2ne qui rue.",
+      "stgdir": "Elle frappe sur les oreilles de l'\u00e2ne qui rue.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "956",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence l'intendant.",
+      "stgdir": "\u00c0 l'intendant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "957",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages, en l'occurrence en regardant les enfants.",
+      "stgdir": "En regardant les enfants.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "958",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet en ouvrant un tiroir.",
+      "stgdir": "Elle ouvre un tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "959",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un air de musique.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "960",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant les rivages du Tibre.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "961",
+      "category": "9",
+      "explanation": "La didascalie est une narration longue et descriptive, en l'occurrence on entend tousser derri\u00e8re le th\u00e9\u00e2tre.",
+      "stgdir": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "962",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, incluant un d\u00e9sert et une grotte.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "963",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit une sortie de la sc\u00e8ne, en l'occurrence Don Quichotte se retire.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "964",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction non verbale entre les personnages, en l'occurrence il embrasse Ducr\u00f4ne et Jenneval.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "965",
+      "category": "9",
+      "explanation": "La didascalie est une narration longue et descriptive, en l'occurrence SC\u00c8NES FRAN\u00c7AISES.",
+      "stgdir": "SC\u00c8NES FRAN\u00c7AISES.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "966",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit une sortie de la sc\u00e8ne, en l'occurrence elle s'\u00e9loigne avec Perillo.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "967",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit une sortie de la sc\u00e8ne, en l'occurrence la troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+      "stgdir": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "968",
+      "category": "5",
+      "explanation": "La didascalie d\u00e9crit une sortie de la sc\u00e8ne, en l'occurrence ils s'en vont.",
+      "stgdir": "Ils s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "969",
+      "category": "7",
+      "explanation": "La didascalie d\u00e9crit un mouvement du personnage, en l'occurrence se relevant.",
+      "stgdir": "Se relevant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "970",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire de la r\u00e9plique, en l'occurrence Ergazile.",
+      "stgdir": "\u00c0 Ergazile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "971",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet en prenant le pli.",
+      "stgdir": "Prenant le pli.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "972",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un air de musique.",
+      "stgdir": "Air : Des Pierrots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "973",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un air de musique.",
+      "stgdir": "Air : Not\u00e9 \u00e0 la fin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "974",
+      "category": "7",
+      "explanation": "La didascalie d\u00e9crit un mouvement du personnage, en l'occurrence il se tire \u00e0 l'\u00e9cart.",
+      "stgdir": "Il se tire \u00e0 l'\u00e9cart.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 64337.477684020996,
+  "model": "mistral-small-latest"
+}

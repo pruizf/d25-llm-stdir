@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "750",
+      "category": "12",
+      "explanation": "Cette didascalie indique que l'action est dirig\u00e9e vers Henri, ce qui est une indication claire d'interaction verbale.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "751",
+      "category": "12",
+      "explanation": "Ici, l'action est adress\u00e9e \u00e0 Antenor, indiquant une communication directe vers ce personnage.",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "752",
+      "category": "12",
+      "explanation": "La didascalie indique que la r\u00e9plique est destin\u00e9e \u00e0 la Reine, ce qui correspond \u00e0 la d\u00e9finition de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "753",
+      "category": "12",
+      "explanation": "La mention de Colin signifie que l'interaction verbale ou l'action est dirig\u00e9e vers lui.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "754",
+      "category": "12",
+      "explanation": "Cette didascalie indique que l'action s'adresse \u00e0 deux courtisans, ce qui en fait une interaction verbale.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "755",
+      "category": "12",
+      "explanation": "Au Courtisan indique que l'action est dirig\u00e9e vers un seul personnage, ce qui correspond \u00e0 cette cat\u00e9gorie.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "756",
+      "category": "0",
+      "explanation": "Cette didascalie indique une action de reprendre un exorde, sans r\u00e9f\u00e9rence explicite \u00e0 un destinataire.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "757",
+      "category": "12",
+      "explanation": "C'est une indication d'interaction verbale dirig\u00e9e vers Clidamis.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "758",
+      "category": "12",
+      "explanation": "Indique une action dirig\u00e9e vers Alain.",
+      "stgdir": "\u00c0 Alain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "759",
+      "category": "12",
+      "explanation": "Cette didascalie indique que l'attention est dirig\u00e9e vers Madame Dangeville.",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "760",
+      "category": "0",
+      "explanation": "Proposer une entrevue est une action classique qui se classe dans la cat\u00e9gorie g\u00e9n\u00e9rale d'action.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "12",
+      "explanation": "Cette didascalie mentionne le p\u00e8re de famille, indiquant l'action dirig\u00e9e vers lui.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "12",
+      "explanation": "L'action est explicitement dirig\u00e9e vers Philom\u00e8le.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "12",
+      "explanation": "Cette didascalie \u00e9voque une action qui s'adresse sp\u00e9cifiquement \u00e0 Adario.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "12",
+      "explanation": "Il s'agit d'une interaction verbale indirecte vers Crassus.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "12",
+      "explanation": "Cette mention signifie que l'action est dirig\u00e9e vers \u00c9liante et Philinte.",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "12",
+      "explanation": "La didascalie indique que l'attention est port\u00e9e \u00e0 Placide.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "12",
+      "explanation": "Une indication d'interaction verbale \u00e0 Tatonet.",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "12",
+      "explanation": "S'adresse sp\u00e9cifiquement \u00e0 la Vidame.",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "11",
+      "explanation": "Mentionne le Parterre, d\u00e9crivant un lieu de sc\u00e8ne, ce qui est typique de la description d'un cadre.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "770",
+      "category": "12",
+      "explanation": "Cette didascalie montre que l'action est dirig\u00e9e vers Delval.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "12",
+      "explanation": "L'attention se concentre sp\u00e9cifiquement sur Aricie.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "12",
+      "explanation": "Indique que l'action se dirige vers Euph\u00e9mon fils.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "773",
+      "category": "12",
+      "explanation": "Cette didascalie cible directement Ardenie.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "774",
+      "category": "12",
+      "explanation": "Indication d'une interaction verbale dirig\u00e9e vers Pierrot.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "775",
+      "category": "12",
+      "explanation": "Mentionne un des Arabes, donc l'interaction est dirig\u00e9e vers ce personnage.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "776",
+      "category": "12",
+      "explanation": "S'adresse \u00e0 Lycandre directement dans la communication.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "777",
+      "category": "12",
+      "explanation": "Indique que l'action est sp\u00e9cifiquement dirig\u00e9e vers M\u00e9rione.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "778",
+      "category": "0",
+      "explanation": "Indique une action o\u00f9 il se retourne et parle \u00e0 son fils, sans inclure d'\u00e9l\u00e9ments sp\u00e9cifiques au dialogue.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "779",
+      "category": "12",
+      "explanation": "Il se dirige vers Ibrahim ici.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "780",
+      "category": "12",
+      "explanation": "Mentionne que l'action est destin\u00e9e aux Bergers.",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "781",
+      "category": "12",
+      "explanation": "Indique une direction vers Philox\u00e8ne.",
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "782",
+      "category": "12",
+      "explanation": "Indique que l'action se dirige vers Vasta.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "783",
+      "category": "12",
+      "explanation": "Cette action est sp\u00e9cifiquement \u00e0 destination d'Estelle.",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "784",
+      "category": "12",
+      "explanation": "Indique que l'action s'adresse \u00e0 Candide.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "785",
+      "category": "12",
+      "explanation": "Elle s'adresse directement \u00e0 Darie.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "786",
+      "category": "12",
+      "explanation": "Cible Ninias dans l'interaction.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "787",
+      "category": "0",
+      "explanation": "Description d'une action physique qui ne communique pas directement avec un autre personnage.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "788",
+      "category": "12",
+      "explanation": "Indique que l'action est adress\u00e9e \u00e0 Genseric.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "789",
+      "category": "12",
+      "explanation": "Cette didascalie montre que l'action est destin\u00e9e au duc d'Alcala.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "790",
+      "category": "12",
+      "explanation": "Indique que l'action s'adresse au laboureur.",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "12",
+      "explanation": "L'interaction est dirig\u00e9e vers Mowbrai.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "12",
+      "explanation": "Cette didascalie montre que l'action est adress\u00e9e \u00e0 l'Inspecteur des B\u00e2timents.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "0",
+      "explanation": "Indication d'une action o\u00f9 le personnage se retourne, mais sans sp\u00e9cification d'interaction.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "12",
+      "explanation": "S'adresse directement \u00e0 Lisimon.",
+      "stgdir": "\u00c0 Lisimon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "12",
+      "explanation": "Cible sp\u00e9cifiquement C\u00e9lie.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "12",
+      "explanation": "Mentionne Tiber, ce qui indique une interaction verbale.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "12",
+      "explanation": "Cette didascalie implique une interaction avec Hernani.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "12",
+      "explanation": "Indique que l'action s'adresse au laquais.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "12",
+      "explanation": "Indique une communication dirig\u00e9e vers Dariolette.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "800",
+      "category": "12",
+      "explanation": "S'adresse directement \u00e0 Marlot.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": "12",
+      "explanation": "Indique que l'action est dirig\u00e9e vers Colette.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": "3",
+      "explanation": "Indique que G\u00e9ronte parle d'une voix ordinaire, ce qui d\u00e9crit l'intonation de la parole, s'inscrivant dans la cat\u00e9gorie 'delivery'.",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": "12",
+      "explanation": "Cette didascalie indique que l'action est dirig\u00e9e vers les femmes.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": "12",
+      "explanation": "Indique sp\u00e9cifiquement que l'interaction se d\u00e9roule avec Monsieur de Chambre.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": "12",
+      "explanation": "Cette action est dirig\u00e9e vers son \u00e9poux.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": "12",
+      "explanation": "Indication d'interaction dirig\u00e9e vers Hortensius.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": "12",
+      "explanation": "Oriente l'action vers Guillaume.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": "12",
+      "explanation": "Cible les femmes esclaves, indiquant une direction d'interaction.",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": "12",
+      "explanation": "Cible Margot dans l'interaction.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "810",
+      "category": "12",
+      "explanation": "Cette didascalie signifie que l'attention est dirig\u00e9e vers Fr\u00e9missin.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "811",
+      "category": "12",
+      "explanation": "Indication d'une action dirig\u00e9e vers le Sauvage.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "812",
+      "category": "12",
+      "explanation": "Cette didascalie montre que l'action s'adresse au prince.",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "813",
+      "category": "12",
+      "explanation": "Cible C\u00e9lie, indiquant une interaction verbale.",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "814",
+      "category": "12",
+      "explanation": "Dialogue dirig\u00e9 vers Dionys dans l'interaction.",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "815",
+      "category": "12",
+      "explanation": "Indique que l'action est dirig\u00e9e vers Poquelin.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "816",
+      "category": "12",
+      "explanation": "Mentionne plusieurs figures, indiquant que l'interaction s'adresse sp\u00e9cifiquement \u00e0 elles.",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "817",
+      "category": "12",
+      "explanation": "Indique une direction d'interaction vers Gaston.",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "818",
+      "category": "12",
+      "explanation": "S'adresse directement au marquis.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "819",
+      "category": "12",
+      "explanation": "Cible les autres conseillers, claire indication d'interaction.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "820",
+      "category": "12",
+      "explanation": "Indique que l'action s'adresse \u00e0 Hortensius et \u00e0 d'autres.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "12",
+      "explanation": "Cible directement la comtesse dans l'interaction.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "12",
+      "explanation": "Indique que l'interaction s'adresse \u00e0 Mercure.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "12",
+      "explanation": "Cette didascalie montre que l'action est dirig\u00e9e vers le Roi, indiquant qui doit \u00e9couter ou recevoir.",
+      "stgdir": "Au Roi, en lui montrant Thamar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "12",
+      "explanation": "Cible Coucy, indiquant une direction d'interaction.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 35044.08597946167,
+  "model": "gpt-4o-mini"
+}

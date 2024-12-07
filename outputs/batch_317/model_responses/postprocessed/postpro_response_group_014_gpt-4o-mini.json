@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1050",
+      "category": 3,
+      "explanation": "Le personnage chante des paroles, ce qui correspond \u00e0 une expression vocale.",
+      "stgdir": "Jeanneton chante les paroles suivantes sur un air de Thes\u00e9e qui commence.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1051",
+      "category": 0,
+      "explanation": "Branle peut \u00eatre vu comme une action g\u00e9n\u00e9rale sans sp\u00e9cification.",
+      "stgdir": "Branle",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1052",
+      "category": 5,
+      "explanation": "Moli\u00e8re sort, signifiant qu'il quitte la sc\u00e8ne.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1053",
+      "category": 12,
+      "explanation": "Cette phrase indique \u00e0 qui le dialogue s'adresse.",
+      "stgdir": "\u00c0 Monr\u00e9al, p\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1054",
+      "category": 0,
+      "explanation": "Sancho continue, cela implique une action sans autre sp\u00e9cification.",
+      "stgdir": "Sancho continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1055",
+      "category": 4,
+      "explanation": "Elle arrive indique que le personnage entre sur sc\u00e8ne.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1056",
+      "category": 4,
+      "explanation": "Des personnages entrent ensemble, indiquant une sc\u00e8ne d'entr\u00e9e.",
+      "stgdir": "Alcippe rentre chez Clarice avec elle et Isabelle, et le reste rentre chez Lucr\u00e8ce.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1057",
+      "category": 6,
+      "explanation": "Apercevant Rodogine montre une interaction non verbale par le regard.",
+      "stgdir": "Apercevant Rodogine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1058",
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit la sc\u00e8ne ou le d\u00e9cor du th\u00e9\u00e2tre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais du CARNAVAL.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1059",
+      "category": 6,
+      "explanation": "Regardant Moli\u00e8re avec h\u00e9sitation indique une interaction visuelle.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1060",
+      "category": 8,
+      "explanation": "On entend un bruit de musettes fait r\u00e9f\u00e9rence \u00e0 la musique en jeu.",
+      "stgdir": "On entend un bruit de musettes et Roland continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1061",
+      "category": 10,
+      "explanation": "Il montre un portrait, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il montre le portrait.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1062",
+      "category": 4,
+      "explanation": "Ormin s'en va, ce qui indique une sortie de la sc\u00e8ne.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1063",
+      "category": 11,
+      "explanation": "LE FLEUVE ET SA SOURCE d\u00e9signe un extrait de d\u00e9cor.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1064",
+      "category": 12,
+      "explanation": "\u00c0 un valet indique \u00e0 qui la phrase s'adresse.",
+      "stgdir": "\u00c0 un valet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1065",
+      "category": 0,
+      "explanation": "Ils s'enfuient implique une action de fuite.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1066",
+      "category": 5,
+      "explanation": "Il sort \u00e9galement indique une sortie de la sc\u00e8ne.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1067",
+      "category": 8,
+      "explanation": "V COUPLET indique une retransmission musicale.",
+      "stgdir": "V COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1068",
+      "category": 8,
+      "explanation": "AIR : Va-t'en voir s'ils viennent indique une r\u00e9f\u00e9rence \u00e0 une m\u00e9lodie.",
+      "stgdir": "AIR : Va-t'en voir s'ils viennent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1069",
+      "category": 7,
+      "explanation": "Elle lui fait faire le tour du th\u00e9\u00e2tre indique un mouvement dirig\u00e9.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1070",
+      "category": 0,
+      "explanation": "Indique un jeu identique \u00e0 une action pr\u00e9c\u00e9dente.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1071",
+      "category": 4,
+      "explanation": "Entre Enguerrand Durand indique son entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Entre Enguerrand Durand.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1072",
+      "category": 6,
+      "explanation": "Il s'approche d'elle et lui pr\u00e9sente la main montre une interaction physique.",
+      "stgdir": "Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1073",
+      "category": 1,
+      "explanation": "Il choque avec elle indique une action violente.",
+      "stgdir": "Il choque avec elle.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1074",
+      "category": 8,
+      "explanation": "Antistrophe X est une r\u00e9f\u00e9rence \u00e0 une s\u00e9quence musicale.",
+      "stgdir": "Antistrophe X.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1075",
+      "category": 0,
+      "explanation": "Flore continue indique simplement une continuation d'action.",
+      "stgdir": "Flore continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1076",
+      "category": 8,
+      "explanation": "M\u00eame air fait r\u00e9f\u00e9rence \u00e0 une musique d\u00e9j\u00e0 mentionn\u00e9e.",
+      "stgdir": "M\u00eame air",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1077",
+      "category": 8,
+      "explanation": "Air : Femmes, voulez-vous \u00e9prouver ? mentionne le titre d'une m\u00e9lodie.",
+      "stgdir": "Air : Femmes, voulez-vous \u00e9prouver ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1078",
+      "category": 9,
+      "explanation": "Cette longue description d'une sc\u00e8ne m\u00eale la narration et des actions.",
+      "stgdir": "Prom\u00e9th\u00e9e anime ces trois statues ; l'homme de Cour danse d'un air fastueux, et l'\u00e9l\u00e8ve de Th\u00e9mis, en minaudant. Au son de l'or que le favori de Plutus qui s'est anim\u00e9 lentement, remue dans son chapeau, l'un et l'autre viennent le flatter et le caresser avec bassesse ; Il se d\u00e9barrasse d'eux d'un air brusque ; ils le suivent, et tous les trois sortent de dessus la sc\u00e8ne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1079",
+      "category": 4,
+      "explanation": "\u00c0 son appel, les personnages entrent, indiquant une entr\u00e9e.",
+      "stgdir": "\u00c0 son appel, Blanche, Am\u00e9lie et Jeanne entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1080",
+      "category": 8,
+      "explanation": "Strophe IX d\u00e9signe une partie musicale.",
+      "stgdir": "Strophe IX.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1081",
+      "category": 0,
+      "explanation": "Ils s'asseyent repr\u00e9sente une action sans autre sp\u00e9cification.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1082",
+      "category": 5,
+      "explanation": "Il sort par la porte de gauche indique une sortie.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1083",
+      "category": 0,
+      "explanation": "Il regarde dans l'antichambre indique une action de regards.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1084",
+      "category": 11,
+      "explanation": "La description de la sc\u00e8ne fournit un cadre clair pour l'action.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une salle de caf\u00e9. Au milieu est un po\u00eale \u00e9conomique surmont\u00e9 d'un Mont-Parnasse, compos\u00e9 selon le syst\u00e8me des Litt\u00e9rateurs modernes, et cons\u00e9quemment tout l'oppos\u00e9 de celui que M. Titon du Tillet a \u00e9lev\u00e9 \u00e0 la gloire du si\u00e8cle de Louis XIV. Chaque table est garnie d'encre, de papier et d'une inscription relative aux feuilles et aux brochures qui leur est propre. On aper\u00e7oit, dans le fond, une biblioth\u00e8que fort en d\u00e9sordre. Parnassot et deux gar\u00e7ons arrangent la salle. Parnassot est coiff\u00e9 d'un p\u00e9tasse ou bonnet de Mercure, les gar\u00e7ons en ont un \u00e0-peu-pr\u00e9s semblable, except\u00e9 que les ailes rabattues forment des oreilles de Midas.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1085",
+      "category": 0,
+      "explanation": "Tapant du pied est une action physique sans sp\u00e9cification plus profonde.",
+      "stgdir": "Tapant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1086",
+      "category": 3,
+      "explanation": "Air : Madame en v\u00e9rit\u00e9 indique une part chant\u00e9e.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1087",
+      "category": 0,
+      "explanation": "[Il] d\u00e9bouche indique une action d'arriver \u00e0 un endroit.",
+      "stgdir": "[Il] d\u00e9bouche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1088",
+      "category": 0,
+      "explanation": "En regardant Terville implique un acte visuel sans interaction sp\u00e9cifique.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1089",
+      "category": 8,
+      "explanation": "AIR. Songez \u00e0 vous d\u00e9fendre mentionne un morceau musical.",
+      "stgdir": "AIR. Songez \u00e0 vous d\u00e9fendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1090",
+      "category": 10,
+      "explanation": "En montrant un paquet de lettres implique l'interaction avec un objet.",
+      "stgdir": "En montrant un paquet de lettres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1091",
+      "category": 3,
+      "explanation": "Avec \u00e9motion \u00e9voque l'\u00e9tat vocal d'un personnage.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1092",
+      "category": 0,
+      "explanation": "Il se met \u00e0 crier est une action verbale intense.",
+      "stgdir": "Il se met \u00e0 crier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1093",
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un coin de verdure d\u00e9crit le cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un coin de verdure, dans la campagne, Noellie est endormie sur un banc de gazon, \u00e0 c\u00f4t\u00e9 de sa guitare.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1094",
+      "category": 8,
+      "explanation": "AIR: Ton petit minois mentionne une partie musicale.",
+      "stgdir": "AIR: Ton petit minois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1095",
+      "category": 7,
+      "explanation": "Allant vers La gu\u00e9rite indique un mouvement sp\u00e9cifique.",
+      "stgdir": "Allant vers La gu\u00e9rite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1096",
+      "category": 10,
+      "explanation": "Elle fouille dans ses poches indique une interaction avec un objet.",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1097",
+      "category": 10,
+      "explanation": "Il tire machinalement un paquet de cigarettes de sa poche indique une interaction avec un objet.",
+      "stgdir": "Il tire machinalement un paquet de cigarettes de la poche de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1098",
+      "category": 12,
+      "explanation": "\u00c0 Adam indique le destinataire du dialogue.",
+      "stgdir": "\u00c0 Adam.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1099",
+      "category": 4,
+      "explanation": "Il s'assied en un coin du th\u00e9\u00e2tre indique une action d'entrer dans un espace.",
+      "stgdir": "Il s'assied en un coin du th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1100",
+      "category": 12,
+      "explanation": "\u00c0 Hiaskar indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1101",
+      "category": 5,
+      "explanation": "Monsieur Mathieu, Benjamine et Damis sortent indiquent leurs sorties.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1102",
+      "category": 12,
+      "explanation": "\u00c0 Trasibule indique \u00e0 qui s'adresse le personnage.",
+      "stgdir": "\u00c0 Trasibule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1103",
+      "category": 6,
+      "explanation": "Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va montre une interaction.",
+      "stgdir": "Il parle \u00e0 l'oreille de X\u00e9nocl\u00e8s qui s'en va.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1104",
+      "category": 11,
+      "explanation": "Un salon. - \u00c0 droite, un petit meuble... d\u00e9crit le d\u00e9cor.",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1105",
+      "category": 10,
+      "explanation": "Hortensius tire un livre indique l'interaction avec un objet.",
+      "stgdir": "Hortensius tire un livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1106",
+      "category": 10,
+      "explanation": "Il tire un \u00e9crin de sa poche implique l'interaction avec un objet.",
+      "stgdir": "Il tire un \u00e9crin de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1107",
+      "category": 12,
+      "explanation": "\u00c0 Monsieur Dabelle indique le destinataire d'un dialogue.",
+      "stgdir": "\u00c0 Monsieur Dabelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1108",
+      "category": 10,
+      "explanation": "Il lui met une bourse dans la main implique une interaction avec un objet.",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1109",
+      "category": 10,
+      "explanation": "Et donnant les Lettres implique l'interaction avec un objet.",
+      "stgdir": "Et donnant les Lettres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1110",
+      "category": 0,
+      "explanation": "Il veut lui prendre une main implique une action physique.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1111",
+      "category": 0,
+      "explanation": "Il grave quatre vers sur son tombeau d\u00e9crit une action.",
+      "stgdir": "Il grave quatre vers sur son tombeau qui seront lus par Amarille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1112",
+      "category": 0,
+      "explanation": "Ils s'asseyent tous \u00e9galement une action sans sp\u00e9cificit\u00e9s.",
+      "stgdir": "Ils s'asseyent tous.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1113",
+      "category": 0,
+      "explanation": "Se levant indique une action de changement de position.",
+      "stgdir": "Se levant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1114",
+      "category": 4,
+      "explanation": "Pierre et Philippe arrivent indique une entr\u00e9e.",
+      "stgdir": "Pierre et Philippe arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1115",
+      "category": 8,
+      "explanation": "Air : Dans ma cabane obscure mentionne une partie musicale.",
+      "stgdir": "Air : Dans ma cabane obscure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1116",
+      "category": 10,
+      "explanation": "Il tire une lettre de sa poche implique une interaction avec un objet.",
+      "stgdir": "Il tire une lettre de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1117",
+      "category": 1,
+      "explanation": "Elle lui arrache le poignard de sa ceinture implique une action d'agression.",
+      "stgdir": "Elle lui arrache le poignard de sa ceinture. Il la l\u00e2che et recule.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1118",
+      "category": 12,
+      "explanation": "\u00c0 Pharasmane indique le destinataire du dialogue.",
+      "stgdir": "\u00c0 Pharasmane.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1119",
+      "category": 8,
+      "explanation": "Air: Cet arbre apport\u00e9 de Provence mentionne une m\u00e9lodie.",
+      "stgdir": "Air: Cet arbre apport\u00e9 de Provence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1120",
+      "category": 12,
+      "explanation": "\u00c0 Arsino\u00e9 indique la cible d'une communication.",
+      "stgdir": "\u00c0 Arsino\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1121",
+      "category": 0,
+      "explanation": "Un bruit de clef dans la serrure implique une action sans autre sp\u00e9cification.",
+      "stgdir": "Un bruit de clef dans la serrure de l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1122",
+      "category": 11,
+      "explanation": "D\u00c9CORATION DU Ve ACTE d\u00e9crit le cadre de la sc\u00e8ne.",
+      "stgdir": "D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1123",
+      "category": 0,
+      "explanation": "La musique continue repr\u00e9sente une action musicale sans sp\u00e9cification.",
+      "stgdir": "La musique continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1124",
+      "category": 0,
+      "explanation": "Ils se sauvent implique une action de fuite.",
+      "stgdir": "Ils se sauvent.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 41276.51262283325,
+  "model": "gpt-4o-mini"
+}

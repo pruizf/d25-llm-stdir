@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": "5",
+      "explanation": "Damon sort de la sc\u00e8ne.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": "5",
+      "explanation": "Madame Simon et Perrette sortent de la sc\u00e8ne.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": "5",
+      "explanation": "Jacinte sort de la sc\u00e8ne.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": "5",
+      "explanation": "Tous sortent de la sc\u00e8ne, except\u00e9 Baron.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": "5",
+      "explanation": "Lucile et Damis sortent de la sc\u00e8ne.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": "4",
+      "explanation": "Julie entre en sc\u00e8ne.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": "5",
+      "explanation": "Zerbine sort de la sc\u00e8ne.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": "6",
+      "explanation": "Elle sort de la sc\u00e8ne avec Val\u00e8re.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": "5",
+      "explanation": "Villiers dispara\u00eet de la sc\u00e8ne.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": "11",
+      "explanation": "Elle entre dans son cabinet.",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "310",
+      "category": "1",
+      "explanation": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve (action violente).",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "311",
+      "category": "5",
+      "explanation": "Ils sortent de la sc\u00e8ne avec les valets et les flambeaux.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "312",
+      "category": "5",
+      "explanation": "Algine sort de la sc\u00e8ne.",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "313",
+      "category": "5",
+      "explanation": "Tous sortent de la sc\u00e8ne.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "314",
+      "category": "5",
+      "explanation": "Ormin s'en va de la sc\u00e8ne.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "315",
+      "category": "5",
+      "explanation": "La Montagne s'en va de la sc\u00e8ne.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "316",
+      "category": "5",
+      "explanation": "Idas sort de la sc\u00e8ne.",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "317",
+      "category": "5",
+      "explanation": "Alcandre sort de la sc\u00e8ne.",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "318",
+      "category": "5",
+      "explanation": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "319",
+      "category": "7",
+      "explanation": "Il s'en retourne (d\u00e9placement).",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "320",
+      "category": "4",
+      "explanation": "Le Chevalier entre dans le cabinet.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "5",
+      "explanation": "Don Quichotte se retire de la sc\u00e8ne.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "7",
+      "explanation": "S'en allant (d\u00e9placement).",
+      "stgdir": "S'en allant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "7",
+      "explanation": "Elle part en riant (d\u00e9placement).",
+      "stgdir": "Elle part en riant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "7",
+      "explanation": "Il sort en toussant suivi par de Brie (d\u00e9placement).",
+      "stgdir": "Il sort en toussant suivi par de Brie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "4",
+      "explanation": "Blaise et G\u00e9rault entrent en sc\u00e8ne.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "7",
+      "explanation": "Don Alfonce s'en va de la sc\u00e8ne (d\u00e9placement).",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "7",
+      "explanation": "Il se sauve de la sc\u00e8ne (d\u00e9placement).",
+      "stgdir": "Il se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "4",
+      "explanation": "Colombine rentre chez elle (entre en sc\u00e8ne).",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "5",
+      "explanation": "Phoenix sort de la sc\u00e8ne.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "330",
+      "category": "7",
+      "explanation": "Ils sortent en causant (d\u00e9placement).",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "331",
+      "category": "7",
+      "explanation": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre (d\u00e9placement).",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "332",
+      "category": "11",
+      "explanation": "Il entre dans sa maison (description de la sc\u00e8ne).",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "333",
+      "category": "7",
+      "explanation": "Antelme s'en va de la sc\u00e8ne (d\u00e9placement).",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "334",
+      "category": "5",
+      "explanation": "Scanderberg sort de la sc\u00e8ne.",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "335",
+      "category": "5",
+      "explanation": "La t\u00eate de Georges dispara\u00eet de la sc\u00e8ne.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "336",
+      "category": "7",
+      "explanation": "Il sort par la petite porte \u00e0 droite (d\u00e9placement).",
+      "stgdir": "Il sort par la petite porte \u00e0 droite.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "337",
+      "category": "5",
+      "explanation": "Laure sort de la sc\u00e8ne.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "338",
+      "category": "4",
+      "explanation": "Staphyla rentre en sc\u00e8ne.",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "339",
+      "category": "5",
+      "explanation": "Laurence sort de la sc\u00e8ne.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "340",
+      "category": "7",
+      "explanation": "Il veut partir de la sc\u00e8ne (d\u00e9placement).",
+      "stgdir": "Il veut partir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "341",
+      "category": "5",
+      "explanation": "L\u00e9onor et Marine se retirent de la sc\u00e8ne.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "342",
+      "category": "5",
+      "explanation": "Il dispara\u00eet enti\u00e8rement de la sc\u00e8ne.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "343",
+      "category": "4",
+      "explanation": "Il entre chez lui (entre en sc\u00e8ne).",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "344",
+      "category": "5",
+      "explanation": "Jos\u00e9phine et Marthe sortent de la sc\u00e8ne.",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "345",
+      "category": "7",
+      "explanation": "Elle veut sortir de la sc\u00e8ne (d\u00e9placement).",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "346",
+      "category": "5",
+      "explanation": "Orphise sort de la sc\u00e8ne.",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "347",
+      "category": "6",
+      "explanation": "Il lui serre la main plus fort (interaction non verbale).",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "348",
+      "category": "6",
+      "explanation": "Il embrasse Ducr\u00f4ne et Jenneval (interaction non verbale).",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "349",
+      "category": "6",
+      "explanation": "Don C\u00e9sar re\u00e7oit la main d'Isabelle (interaction non verbale).",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "350",
+      "category": "1",
+      "explanation": "Poussant rudement Val\u00e8re (action violente).",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "351",
+      "category": "6",
+      "explanation": "Elles enl\u00e8vent Constance (interaction non verbale).",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "352",
+      "category": "6",
+      "explanation": "Il baise la main du Prince (interaction non verbale).",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "353",
+      "category": "6",
+      "explanation": "Ils se pressent les mains (interaction non verbale).",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "354",
+      "category": "6",
+      "explanation": "Embrassant son p\u00e8re (interaction non verbale).",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "355",
+      "category": "1",
+      "explanation": "Il la choque un peu (action violente).",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "356",
+      "category": "6",
+      "explanation": "Il le baise encore (interaction non verbale).",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "357",
+      "category": "6",
+      "explanation": "Elle touche Picus (interaction non verbale).",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "358",
+      "category": "6",
+      "explanation": "Il veut lui prendre une main (interaction non verbale).",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "359",
+      "category": "6",
+      "explanation": "Elle lui tape dans une main (interaction non verbale).",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "360",
+      "category": "6",
+      "explanation": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sente aussi la sienne (interaction non verbale).",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "361",
+      "category": "6",
+      "explanation": "En saisissant la main de son p\u00e8re (interaction non verbale).",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "362",
+      "category": "6",
+      "explanation": "Il lui met la main dans la poche (interaction non verbale).",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "363",
+      "category": "6",
+      "explanation": "Il la retient encore par le bras, et, perdant tout respect (interaction non verbale).",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "364",
+      "category": "6",
+      "explanation": "Il serre la main du Grand \u00c9crivain (interaction non verbale).",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "365",
+      "category": "6",
+      "explanation": "Elle l'embrasse passionn\u00e9ment (interaction non verbale).",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "366",
+      "category": "6",
+      "explanation": "Le poussant du coude (interaction non verbale).",
+      "stgdir": "Le poussant du coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "367",
+      "category": "1",
+      "explanation": "Il le pousse (action violente).",
+      "stgdir": "Il le pousse.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "368",
+      "category": "1",
+      "explanation": "Elle lui frappe le c\u0153ur (action violente).",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "369",
+      "category": "6",
+      "explanation": "Il embrasse Argie (interaction non verbale).",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "370",
+      "category": "6",
+      "explanation": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io (interaction non verbale).",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "371",
+      "category": "6",
+      "explanation": "Elle reprend le bras de Phanor (interaction non verbale).",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "372",
+      "category": "6",
+      "explanation": "En lui serrant affectueusement la main (interaction non verbale).",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "373",
+      "category": "6",
+      "explanation": "Ma\u00eetre Godard la presse, encor, du geste, seulement (interaction non verbale).",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "374",
+      "category": "6",
+      "explanation": "Il embrasse Fleur-de-Sauge (interaction non verbale).",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 46787.40882873535,
+  "model": "mistral-small-latest"
+}

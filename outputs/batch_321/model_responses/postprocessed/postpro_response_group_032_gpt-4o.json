@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2400",
+      "category": "6",
+      "explanation": "Alfred regarde avec d\u00e9sespoir quelqu'un, ce qui est une interaction non verbale.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2401",
+      "category": "6",
+      "explanation": "Les personnages se voient \u00e0 travers des fen\u00eatres, ce qui est une interaction non verbale.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2402",
+      "category": "4",
+      "explanation": "Patrocle entre en sc\u00e8ne, ce qui est une entr\u00e9e.",
+      "stgdir": "Patrocle entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2403",
+      "category": "0",
+      "explanation": "Il t\u00e9moigne vouloir partir, mais il ne s'agit pas d'un acte d'agression ni de mouvement concret.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2404",
+      "category": "3",
+      "explanation": "Arlequin chante, ce qui implique une action de livraison vocale.",
+      "stgdir": "Arlequin chante :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2405",
+      "category": "12",
+      "explanation": "La r\u00e9f\u00e9rence \u00e0 Monsieur Mananville indique qu'il est le destinataire.",
+      "stgdir": "\u00c0 Monsieur Mananville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2406",
+      "category": "4",
+      "explanation": "Ariston appara\u00eet, ce qui correspond \u00e0 une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Ariston para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2407",
+      "category": "7",
+      "explanation": "Carlos rabat son chapeau et s'avance, tandis que Do\u00f1a Sol laisse tomber quelque chose, ce qui sont des mouvements.",
+      "stgdir": "Carlos rabat son chapeau sur son visage, et s'avance pr\u00e9cipitamment vers elle. Do\u00f1a Sol, laissant tomber sa lampe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2408",
+      "category": "12",
+      "explanation": "\u00c0 \u00c9rix\u00e8ne indique la personne vers laquelle une action est dirig\u00e9e.",
+      "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2409",
+      "category": "10",
+      "explanation": "Elle reprend le mouchoir et se couvre le sein, ce qui sont des interactions avec des objets.",
+      "stgdir": "Elle reprend le mouchoir et se couvre le sein.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2410",
+      "category": "11",
+      "explanation": "Changement du th\u00e9\u00e2tre pour repr\u00e9senter un nouveau cadre (le cabinet de L\u00e9ontine), ce qui est une description du d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le cabinet de L\u00e9ontine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2411",
+      "category": "0",
+      "explanation": "Relire l'adresse est une action g\u00e9n\u00e9rale que le personnage effectue.",
+      "stgdir": "Il relit l'adresse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2412",
+      "category": "5",
+      "explanation": "Elle rentre dans le palais, ce qui est une indication de sortie de sc\u00e8ne initialement.",
+      "stgdir": "Elle rentre dans le palais.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2413",
+      "category": "1",
+      "explanation": "Se percer (sous-entendu probablement d'un couteau ou autre) implique une agression envers soi-m\u00eame.",
+      "stgdir": "Il veut se percer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2414",
+      "category": "12",
+      "explanation": "Indique Colin comme le destinataire d'une action.",
+      "stgdir": "\u00c0 Colin qui rapporte les cent \u00e9cus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2415",
+      "category": "9",
+      "explanation": "Une all\u00e9gorie qui documente des effets, rel\u00e8ve de la narration.",
+      "stgdir": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2416",
+      "category": "8",
+      "explanation": "AIR R\u00e9veillez-vous mentionne un titre de musique ou une chanson.",
+      "stgdir": "AIR R\u00e9veillez-vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2417",
+      "category": "7",
+      "explanation": "Le personnage descend du ch\u00e2teau en courant, ce qui d\u00e9crit un mouvement.",
+      "stgdir": "Dassoucy, poursuivant Pierrotin, descend du ch\u00e2teau dans le parc ; il court, embarrasse par son luth qu'il tient de la main gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2418",
+      "category": "6",
+      "explanation": "\u00c9couter est une interaction non verbale impliquant de l'attention dirig\u00e9e vers celle qui chante.",
+      "stgdir": "Mais elle se met \u00e0 chanter, il \u00e9coute.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2419",
+      "category": "8",
+      "explanation": "Le titre 'Air : La Fustemberg' indique un morceau musical.",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2420",
+      "category": "0",
+      "explanation": "Apercevoir quelqu'un est une action g\u00e9n\u00e9rale sans interaction directe.",
+      "stgdir": "Il aper\u00e7oit Nicodon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2421",
+      "category": "4",
+      "explanation": "Entr\u00e9e de personnages (deux meuniers et deux meuni\u00e8res).",
+      "stgdir": "ENTR\u00c9E de deux meuniers et de deux meuni\u00e8res.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2422",
+      "category": "6",
+      "explanation": "Elle rend la bo\u00eete sans la regarder, ce qui est une interaction avec un personnage et un objet.",
+      "stgdir": "Ang\u00e9lique, sans lui r\u00e9pondre, tire la bo\u00eete aux bijoux et la lui rend sans le regarder : elle la met dans sa main ; et il s'arr\u00eate comme surpris et sans la lui remettre, apr\u00e8s quoi il sort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2423",
+      "category": "8",
+      "explanation": "AIR 108. [ \u00d4 turlutaine ! ] indique un extrait musical.",
+      "stgdir": "AIR 108. [ \u00d4 turlutaine ! ]",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2424",
+      "category": "0",
+      "explanation": "Se jeter dans un fauteuil est une action physique g\u00e9n\u00e9rale.",
+      "stgdir": "Il se jette dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2425",
+      "category": "5",
+      "explanation": "Elle sort de la sc\u00e8ne avec Lucie, ce qui est une sortie.",
+      "stgdir": "Elle sort avec Lucie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2426",
+      "category": "6",
+      "explanation": "Montrer le mari de la Vieille est une interaction non verbale.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2427",
+      "category": "8",
+      "explanation": "AIR : Mes chers amis, pouvez-vous m'enseigner indique une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2428",
+      "category": "4",
+      "explanation": "Val\u00e9rian entre en sc\u00e8ne, indiquant une entr\u00e9e.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2429",
+      "category": "0",
+      "explanation": "Commencer \u00e0 lire est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il commence \u00e0 lire le billet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2430",
+      "category": "9",
+      "explanation": "Une didascalie longue qui d\u00e9crit une action complexe et narrative.",
+      "stgdir": "La Reine ayant accept\u00e9 son d\u00e9fi, d\u00e9couvre ses intentions \u00e0 tous ses Princes assembl\u00e9s, qui t\u00e2chent de la divertir du dessein qu'elle \u00e0 con\u00e7u de le combattre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2431",
+      "category": "12",
+      "explanation": "Il s'adresse aux Enfants, ce qui indique le destinataire d'une action.",
+      "stgdir": "Il s'adresse aux Enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2432",
+      "category": "6",
+      "explanation": "Baiser la main du Prince est une interaction physique directe.",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2433",
+      "category": "12",
+      "explanation": "La didascalie indique Marat, Robespierre et Manuel comme destinataires.",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2434",
+      "category": "8",
+      "explanation": "Air : Not\u00e9 n\u00b01 est une r\u00e9f\u00e9rence au titre d'une pi\u00e8ce musicale ou chanson.",
+      "stgdir": "Air : Not\u00e9 n\u00b01.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2435",
+      "category": "5",
+      "explanation": "Mademoiselle Clairet, Madame Papillon et sa fille quittent la sc\u00e8ne, correspondant \u00e0 une sortie.",
+      "stgdir": "Mademoiselle Clairet, Madame Papillon et sa fille de boutique sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2436",
+      "category": "0",
+      "explanation": "Lettres sont en g\u00e9n\u00e9ral une action ou un objet, mais vu le contexte, il s'agit probablement d'une partie d'une narration sans interaction directe.",
+      "stgdir": "LETTRE D'HELENE A PHALANTE.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2437",
+      "category": "8",
+      "explanation": "Air : Cet arbre apport\u00e9 de Provence fait r\u00e9f\u00e9rence \u00e0 une chanson ou pi\u00e8ce musicale.",
+      "stgdir": "Air : Cet arbre apport\u00e9 de Provence.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2438",
+      "category": "6",
+      "explanation": "Parler \u00e0 sa femme est une interaction verbale simple.",
+      "stgdir": "Il parle \u00e0 sa femme.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2439",
+      "category": "12",
+      "explanation": "Indique Clytemnestre comme \u00e9tant le destinataire.",
+      "stgdir": "\u00c0 Clytemnestre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2440",
+      "category": "8",
+      "explanation": "AIR. Allons donc, jouez violons est une r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce musicale.",
+      "stgdir": "AIR. Allons donc, jouez violons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2441",
+      "category": "0",
+      "explanation": "Fouiller dans la poche est une action g\u00e9n\u00e9rale li\u00e9e \u00e0 un objet.",
+      "stgdir": "Monsieur Carondas, fouillant dans la poche de Val\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2442",
+      "category": "9",
+      "explanation": "Une symphonie douce est entendue, indiquant un \u00e9v\u00e9nement auditif pas n\u00e9cessairement li\u00e9 \u00e0 un titre de musique.",
+      "stgdir": "On entend une symphonie douce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2443",
+      "category": "8",
+      "explanation": "Air : On dit par tout le monde fait r\u00e9f\u00e9rence \u00e0 une pi\u00e8ce musicale.",
+      "stgdir": "Air : On dit par tout le monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2444",
+      "category": "5",
+      "explanation": "Ils quittent tous les deux la sc\u00e8ne, indiquant une sortie.",
+      "stgdir": "Ils sortent l'un et l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2445",
+      "category": "11",
+      "explanation": "APOTH\u00c9OSE - RIDEAU. Description finale de la sc\u00e8ne (cl\u00f4ture de la pi\u00e8ce).",
+      "stgdir": "APOTH\u00c9OSE. - RIDEAU",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2446",
+      "category": "4",
+      "explanation": "Entr\u00e9e en sc\u00e8ne de Blaise et G\u00e9rault, ce qui signifie une introduction.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2447",
+      "category": "0",
+      "explanation": "Se pr\u00e9parer \u00e0 sortir est une action pr\u00e9paratoire sans encore bouger de la sc\u00e8ne.",
+      "stgdir": "Elle se pr\u00e9pare \u00e0 sortir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2448",
+      "category": "8",
+      "explanation": "AIR : Dans la jeune saison correspond \u00e0 une pi\u00e8ce musicale.",
+      "stgdir": "AIR. Dans la jeune saison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2449",
+      "category": "10",
+      "explanation": "Essayer de lui mettre le bonnet implique l'utilisation d'un objet sp\u00e9cifique dans l'action.",
+      "stgdir": "Elle veut lui mettre le bonnet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2450",
+      "category": "3",
+      "explanation": "Triomphalement d\u00e9crit le ton ou l'attitude avec laquelle une r\u00e9plique est prononc\u00e9e.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2451",
+      "category": "10",
+      "explanation": "Recevoir un billet implique une interaction avec un objet.",
+      "stgdir": "Elle re\u00e7oit son billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2452",
+      "category": "12",
+      "explanation": "\u00c0 Antenor indique la personne vers laquelle une action est dirig\u00e9e.",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2453",
+      "category": "7",
+      "explanation": "Se relever apr\u00e8s \u00eatre tomb\u00e9 induit un mouvement physique.",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2454",
+      "category": "7",
+      "explanation": "Se mettre entre des personnages implique un mouvement sp\u00e9cifique.",
+      "stgdir": "Il va se mettre entre Damis et Marthon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2455",
+      "category": "0",
+      "explanation": "Le personnage est vigilant envers l'Infant.",
+      "stgdir": "Avisant l'Infant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2456",
+      "category": "9",
+      "explanation": "Recommencement de la symphonie avec action associ\u00e9e de parole, impliquant une s\u00e9quence d'\u00e9v\u00e9nements.",
+      "stgdir": "Ici recommence la symphonie, et Joad aussit\u00f4t reprend la parole.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2457",
+      "category": "6",
+      "explanation": "Remttre quelqu'un dans les bras de Sophie est une interaction physique directe.",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2458",
+      "category": "12",
+      "explanation": "Parlant \u00e0 Ninon, exploration du destinataire d'une action.",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2459",
+      "category": "8",
+      "explanation": "Air de PLANTADE est une indication musicale.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2460",
+      "category": "8",
+      "explanation": "Air : Vaudeville de Racan renvoie \u00e0 une pi\u00e8ce musicale.",
+      "stgdir": "Air : Vaudeville de Racan.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2461",
+      "category": "9",
+      "explanation": "Description d'une action collective d\u00e9crite de fa\u00e7on narrative.",
+      "stgdir": "Tout le Peuple va se ranger au bout de la Cour.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2462",
+      "category": "12",
+      "explanation": "Dirig\u00e9 vers Madame Duru, indiquant le destinataire.",
+      "stgdir": "\u00c0 Madame Duru.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2463",
+      "category": "0",
+      "explanation": "Lever un marteau est une action g\u00e9n\u00e9rale li\u00e9e \u00e0 un objet.",
+      "stgdir": "Il l\u00e8ve son marteau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2464",
+      "category": "7",
+      "explanation": "S'enfuir indique un mouvement rapide vers l'arri\u00e8re de la sc\u00e8ne.",
+      "stgdir": "Il s'enfuit par le fond.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2465",
+      "category": "5",
+      "explanation": "Phoedime sort, indiquant un d\u00e9part de la sc\u00e8ne.",
+      "stgdir": "Phoedime sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2466",
+      "category": "10",
+      "explanation": "Poser un portefeuille sur une table implique une interaction avec un objet.",
+      "stgdir": "Mettant le portefeuille sur une table[.]",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2467",
+      "category": "12",
+      "explanation": "\u00c0 Hyacinte montre le destinataire.",
+      "stgdir": "\u00c0 Hyacinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2468",
+      "category": "6",
+      "explanation": "Appeler un domestique implique interagir verbalement, mais sugg\u00e8re une action.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2469",
+      "category": "8",
+      "explanation": "Air : Aye, aye, aye, Jeannette est une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "Air : Aye, aye, aye, Jeannette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2470",
+      "category": "0",
+      "explanation": "Action de boire indiqu\u00e9e dans le texte.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2471",
+      "category": "6",
+      "explanation": "Apercevoir quelqu'un sur le seuil est une interaction visuelle.",
+      "stgdir": "En se retournant, elle aper\u00e7oit Don Juan sur le seuil de la porte.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2472",
+      "category": "6",
+      "explanation": "Montrer Nadine constitue une interaction directe.",
+      "stgdir": "Montrant Nadine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2473",
+      "category": "0",
+      "explanation": "Le souhait de partir est une action g\u00e9n\u00e9rale \u00e0 r\u00e9aliser.",
+      "stgdir": "Il veut partir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2474",
+      "category": "8",
+      "explanation": "Air : Vaudeville de l'Isle des femmes, r\u00e9f\u00e9rence implicite \u00e0 de la musique.",
+      "stgdir": "AIR : Vaudeville de l'Isle des femmes.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 39885.57767868042,
+  "model": "gpt-4o"
+}

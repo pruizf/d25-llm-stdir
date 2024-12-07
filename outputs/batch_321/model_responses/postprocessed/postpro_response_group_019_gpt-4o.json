@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1425",
+      "category": "5",
+      "explanation": "La didascalie indique que tous les personnages quittent la sc\u00e8ne.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1426",
+      "category": "6",
+      "explanation": "La didascalie d\u00e9crit une interaction entre les personnages et l'action de s'asseoir \u00e0 table.",
+      "stgdir": "Il s'assied \u00e0 table. Lafor\u00eat et de Brie vont et viennent par la porte du fond, et apportent une collation.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1427",
+      "category": "11",
+      "explanation": "C'est une description d\u00e9taill\u00e9e du d\u00e9cor et de l'atmosph\u00e8re de la sc\u00e8ne, typique de la cat\u00e9gorie 'setting'.",
+      "stgdir": "D\u00c9CORATION DU TROISI\u00c8ME. Il se fait ici une si \u00e9trange m\u00e9tamorphose qu'il semble qu'avant que de sortir de ce jardin Pers\u00e9e ait d\u00e9couvert cette monstrueuse t\u00eate de M\u00e9duse qu'il porte partout sous son bouclier. Les myrtes et les jasmins qui le composaient sont devenus des rochers affreux dont les masses in\u00e9galement escarp\u00e9es et bossues suivent si parfaitement le caprice de la nature, qu'il semble qu'elle ait plus contribu\u00e9 que l'art \u00e0 les placer ainsi des deux c\u00f4t\u00e9s du th\u00e9\u00e2tre : c'est en quoi l'artifice de l'ouvrier est merveilleux, et se fait voir d'autant plus qu'il prend soin de se cacher. Les vagues s'emparent de toute la sc\u00e8ne, \u00e0 la r\u00e9serve de cinq ou six pieds qu'ils laissent pour leur servir de rivage ; elles sont dans une agitation continuelle, et composent comme un golfe enferm\u00e9 entre ces deux rangs de falaises ; on en voit l'embouchure se d\u00e9gorger dans la pleine mer, qui para\u00eet si vaste et d'une si grande \u00e9tendue qu'on jurerait que les vaisseaux qui flottent pr\u00e8s de l'horizon, dont le vue est born\u00e9e, sont \u00e9loign\u00e9s de plus de six lieues de ceux qui les consid\u00e8rent. Il n'y a personne qui ne juge que cet horrible spectacle et le funeste appareil de l'injustice des Dieux et du supplice d'Androm\u00e8de ; aussi la voit-on au haut des nues, d'o\u00f9 les deux vents qui l'ont enlev\u00e9e l'apportent avec imp\u00e9tuosit\u00e9 et l'attachement au pied d'un de ces rochers.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1428",
+      "category": "12",
+      "explanation": "La didascalie indique le destinataire d'une action ou d'une parole, \u00e0 savoir la veuve.",
+      "stgdir": "\u00c0 la veuve.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1429",
+      "category": "10",
+      "explanation": "Il s'agit de l'interaction avec un objet (l'\u00e9charpe) impliquant un rejet.",
+      "stgdir": "Lui rejetant son \u00e9charpe.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1430",
+      "category": "0",
+      "explanation": "Faire le signe de la Croix est une action, ne correspondant pas aux autres cat\u00e9gories sp\u00e9cifiques.",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1431",
+      "category": "11",
+      "explanation": "Description du d\u00e9cor de la sc\u00e8ne, c'est donc du 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre simplement meubl\u00e9e. Sur un des c\u00f4t\u00e9s de la sc\u00e8ne est un grand bureau de travail, couvert de cartes, de livres, de globes et d'instruments de math\u00e9matiques.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1432",
+      "category": "8",
+      "explanation": "La didascalie mentionne un air musical, typique pour la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1433",
+      "category": "11",
+      "explanation": "Description d\u00e9taill\u00e9e d'un cadre sp\u00e9cifique, donc class\u00e9e sous 'setting'.",
+      "stgdir": "Sur le navire nomm\u00e9 Le Saint-Jean de la Rochelle, au petit matin, avec du brouillard. Il fait frais, le 14 juillet 1650. Le Saint-Jean repartira le 23 ao\u00fbt.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1434",
+      "category": "7",
+      "explanation": "Le personnage aper\u00e7oit quelqu'un, impliquant un mouvement de perception.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1435",
+      "category": "6",
+      "explanation": "Interaction physique en se jetant aux pieds de quelqu'un.",
+      "stgdir": "Elle se jette aux pieds de Saint-Albin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1436",
+      "category": "5",
+      "explanation": "Elle sort de la sc\u00e8ne, accompagn\u00e9 d'un rire, indiquant la sortie.",
+      "stgdir": "Elle sort avec sa soeur, en \u00e9clatant de rire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1437",
+      "category": "8",
+      "explanation": "Nom d'un air musical, mise dans la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR. Marguerite, ma Mie, olire, olire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1438",
+      "category": "7",
+      "explanation": "Le personnage s'approche d'une autre, indiquant un mouvement vers elle.",
+      "stgdir": "S'approchant de Mariette.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1439",
+      "category": "12",
+      "explanation": "Indique une direction vers un objet ou une personne (la statue de Pomp\u00e9e).",
+      "stgdir": "\u00c0 la statue de Pomp\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1440",
+      "category": "8",
+      "explanation": "Cette didascalie note un air musical, typiquement associ\u00e9 \u00e0 'music'.",
+      "stgdir": "Air : Ah ! que la paresseuse Automne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1441",
+      "category": "5",
+      "explanation": "Indique que le personnage quitte la sc\u00e8ne par la porte \u00e0 droite.",
+      "stgdir": "Sortant par la porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1442",
+      "category": "7",
+      "explanation": "Le personnage voit quelqu'un, impliquant un mouvement de perception.",
+      "stgdir": "Voyant Monsieur Raimond.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1443",
+      "category": "0",
+      "explanation": "Action d'appeler, ne correspondant \u00e0 aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Elle l'appelle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1444",
+      "category": "7",
+      "explanation": "Perception de la s\u0153ur, indicatif d'un mouvement mental ou physique vers elle.",
+      "stgdir": "En apercevant sa soeur.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1445",
+      "category": "8",
+      "explanation": "Il s'agit du nom d'un air musical.",
+      "stgdir": "AIR : Ton humeur indiff\u00e9rente.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1446",
+      "category": "12",
+      "explanation": "Indique l'orientation d'un discours ou d'une action (vers \u00c9n\u00e9e).",
+      "stgdir": "\u00c0 \u00c9n\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1447",
+      "category": "12",
+      "explanation": "Indique la direction ou le destinataire d'une action (vers Nars\u00e9e).",
+      "stgdir": "Parlant \u00e0 Nars\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1448",
+      "category": "8",
+      "explanation": "Mention d'un air musical, cat\u00e9goris\u00e9 sous 'music'.",
+      "stgdir": "Air : Ah! voila comme l'homme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1449",
+      "category": "12",
+      "explanation": "Indication de direction, vers Fabrice.",
+      "stgdir": "\u00c0 Fabrice",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1450",
+      "category": "10",
+      "explanation": "Interaction avec un objet physique, ici une lettre.",
+      "stgdir": "Lettre de Florinde \u00e0 Filemon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1451",
+      "category": "8",
+      "explanation": "Cette didascalie mentionne une forme de musique (Marche).",
+      "stgdir": "Marche des P\u00e2tres et des Sylvains.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1452",
+      "category": "8",
+      "explanation": "Indication d'un air musical, typiquement class\u00e9e sous 'music'.",
+      "stgdir": "AIR : Faut attendre avec patience",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1453",
+      "category": "12",
+      "explanation": "Indique la direction vers une entit\u00e9 abstraite ou po\u00e9tique.",
+      "stgdir": "\u00c0 la Nuit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1454",
+      "category": "7",
+      "explanation": "Indique un mouvement vers un personnage, en s'approchant d'Alcindor.",
+      "stgdir": "S'approchant d'Alcindor.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1455",
+      "category": "8",
+      "explanation": "Nom d'un air musical, class\u00e9 sous 'music'.",
+      "stgdir": "Air 196 Combattants de Cadmus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1456",
+      "category": "5",
+      "explanation": "Le personnage Agathe quitte la sc\u00e8ne, indiquant une sortie.",
+      "stgdir": "Agathe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1457",
+      "category": "10",
+      "explanation": "Interagit avec un objet (la couronne) pour la poser sur la t\u00eate.",
+      "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1458",
+      "category": "0",
+      "explanation": "Action de se rasseoir, aucune autre cat\u00e9gorie sp\u00e9cifique appropri\u00e9e.",
+      "stgdir": "Il se rassoit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1459",
+      "category": "8",
+      "explanation": "Mention d'un air musical, typique pour la cat\u00e9gorie 'music'.",
+      "stgdir": "Air de Marianne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1460",
+      "category": "9",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 des bruits, class\u00e9e sous narration.",
+      "stgdir": "Sons indistincts.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1461",
+      "category": "12",
+      "explanation": "Direction vers un personnage, en l'occurrence Hortensius.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1462",
+      "category": "10",
+      "explanation": "Elle donne un objet (une lettre), donc c'est une interaction avec un objet.",
+      "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1463",
+      "category": "6",
+      "explanation": "Interaction physique de prendre quelqu'un par la main.",
+      "stgdir": "Il le prend par la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1464",
+      "category": "5",
+      "explanation": "Indique qu'un groupe de personnages quitte la sc\u00e8ne.",
+      "stgdir": "Les porteurs se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1465",
+      "category": "10",
+      "explanation": "Interaction avec un objet, ici prendre un portefeuille.",
+      "stgdir": "Bernard prend le portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1466",
+      "category": "5",
+      "explanation": "Le personnage quitte la sc\u00e8ne en courant.",
+      "stgdir": "Il sort en courant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1467",
+      "category": "8",
+      "explanation": "D\u00e9bute par 'AIR', indiquant un air musical.",
+      "stgdir": "AIR : Des Pendus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1468",
+      "category": "6",
+      "explanation": "Interaction physique par l'acte d'embrasser.",
+      "stgdir": "En embrassant Monsieur Devaux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1469",
+      "category": "10",
+      "explanation": "Offrir des pr\u00e9sents implique une interaction avec des objets.",
+      "stgdir": "On offre des pr\u00e9sents.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1470",
+      "category": "12",
+      "explanation": "Indique une direction ou orientation vers Mme Vigneron.",
+      "stgdir": "\u00c0 Mme Vigneron.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1471",
+      "category": "5",
+      "explanation": "Le d\u00e9part du facteur indique une sortie.",
+      "stgdir": "Le Facteur s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1472",
+      "category": "0",
+      "explanation": "Action de chanceler et interaction entre personnages.",
+      "stgdir": "Madeleine, qui est rest\u00e9e la derni\u00e8re avec Pierrette, chancelle au moment de sortir ; Pierrette la retient dans ses bras.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1473",
+      "category": "0",
+      "explanation": "Action de lire, ne correspondant \u00e0 aucune autre cat\u00e9gorie sp\u00e9cifique.",
+      "stgdir": "Il lit les requ\u00eates.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1474",
+      "category": "12",
+      "explanation": "La direction de la parole est indiqu\u00e9e, vers le Chevalier.",
+      "stgdir": "Il parle au Chevalier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1475",
+      "category": "8",
+      "explanation": "D\u00e9bute par 'Air', indiquant un morceau de musique.",
+      "stgdir": "Air 178 : Ah ! Quel plaisir lorsqu'apr\u00e8s mille alarmes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1476",
+      "category": "8",
+      "explanation": "Le dialogue en musique et la mention d'un air implique la cat\u00e9gorie musicale.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1477",
+      "category": "7",
+      "explanation": "Perception d'un individu (sa femme), indiquant une orientation mentale.",
+      "stgdir": "Apercevant sa femme.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1478",
+      "category": "10",
+      "explanation": "Interaction avec un objet, l'action de tirer un portefeuille.",
+      "stgdir": "Tirant un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1479",
+      "category": "9",
+      "explanation": "Le titre 'LE MOINEAU EN CAGE' semble indiquer une narration.",
+      "stgdir": "LE MOINEAU EN CAGE.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1480",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e sur sc\u00e8ne de personnages.",
+      "stgdir": "Entr\u00e9e de Dangeville et de Lolotte.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1481",
+      "category": "9",
+      "explanation": "Description narrative d'une sc\u00e8ne avec Genevi\u00e8ve et des anges.",
+      "stgdir": "I. Genevi\u00e8ve ayant pass\u00e9 doucement la nuit dans sa Grotte, est f\u00e9licit\u00e9e \u00e0 son r\u00e9veil d'un concert de Musique que lui font les Anges qui la servent dans une profonde extase.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1482",
+      "category": "0",
+      "explanation": "Action de crier, avec une interaction sonore avec la porte.",
+      "stgdir": "Criant au travers de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1483",
+      "category": "12",
+      "explanation": "Direction d'une parole vers Dufour.",
+      "stgdir": "\u00c0 Dufour.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1484",
+      "category": "12",
+      "explanation": "Orientation vers une entit\u00e9 abstraite, en l'occurrence un d\u00e9put\u00e9.",
+      "stgdir": "Au d\u00e9put\u00e9.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1485",
+      "category": "7",
+      "explanation": "D\u00e9placement de personnages autour d'autres, impliquant du mouvement.",
+      "stgdir": "L'un passe par devant Lucinde, et l'autre par devant G\u00e9ronte, et prennent tous deux le milieu, ils se trouvent l'un pr\u00e8s de l'autre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1486",
+      "category": "8",
+      "explanation": "Nom d'un air musical, typique pour la cat\u00e9gorie 'music'.",
+      "stgdir": "AIR. Oh ! oh ! ah, ah.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1487",
+      "category": "6",
+      "explanation": "D\u00e9voilement successif de broderies, impliquant une interaction d'objet.",
+      "stgdir": "Madame Leblanc montre successivement ses broderies.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1488",
+      "category": "11",
+      "explanation": "Description du cadre de la sc\u00e8ne, classement sous 'setting'.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un Cabinet de verdure, o\u00f9 aboutissent plusieurs all\u00e9es de charmille ; sur le devant est un banc de gazon. Au fond, dans l'\u00e9loignement, on aper\u00e7oit le Ch\u00e2teau du Marquis.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1489",
+      "category": "0",
+      "explanation": "Action de s'appuyer contre un arbre.",
+      "stgdir": "Il s'appuie contre un arbre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1490",
+      "category": "12",
+      "explanation": "Indique l'orientation d'une action ou parole vers un groupe (\u00e0 tous).",
+      "stgdir": "Et puis \u00e0 tous.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1491",
+      "category": "0",
+      "explanation": "Action de montrer un objet sp\u00e9cifique, dans ce cas un tombeau.",
+      "stgdir": "Il montre celle qui est sur le tombeau d'Artamon.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1492",
+      "category": "10",
+      "explanation": "Interaction avec un objet, une bo\u00eete \u00e0 mouches.",
+      "stgdir": "Tirant une bo\u00eete \u00e0 mouches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1493",
+      "category": "8",
+      "explanation": "D\u00e9bute par 'AIR', indiquant une pi\u00e8ce musicale.",
+      "stgdir": "AIR : Jardinier ne vois-tu pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1494",
+      "category": "10",
+      "explanation": "Action sur un objet, dans ce cas, \u00e9carter un verre.",
+      "stgdir": "\u00c9cartant le verre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1495",
+      "category": "4",
+      "explanation": "Entr\u00e9e d'Esther, accompagn\u00e9e, indiquant une entr\u00e9e.",
+      "stgdir": "Esther entre, s'appuyant sur \u00c9lise ; quatre Isra\u00e9lites soutiennent sa robe.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1496",
+      "category": "9",
+      "explanation": "Description narrative d'un bruit lointain (canon).",
+      "stgdir": "On entend le canon au loin.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1497",
+      "category": "9",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un bruit, cat\u00e9gorie de narration.",
+      "stgdir": "On entend une sourde rumeur \u00e0 la cantonade.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1498",
+      "category": "4",
+      "explanation": "Le verbe 'rentrent' indique que des personnages entrent de nouveau.",
+      "stgdir": "Ils rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1499",
+      "category": "8",
+      "explanation": "Didascalie indiquant une unit\u00e9 clausale musicale.",
+      "stgdir": "DAPHNIS ET SYLVANDRE ensemble.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 35873.244762420654,
+  "model": "gpt-4o"
+}
