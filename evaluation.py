@@ -15,7 +15,9 @@ import utils as ut
 
 # constants
 clrmap_dict = {"gpt-4o-mini": "Blues", "gpt-4o": "Greens",
-               "mistral-large-latest": "BuGn", "mistral-small-latest": "PuBu"}
+               "mistral-large-latest": "BuGn",
+               "mistral-large-2407": "BuGn",
+               "mistral-small-latest": "PuBu"}
 for ke in clrmap_dict:
   assert ke in cf.llm_list, f"Model {ke} not in {cf.llm_list}"
 

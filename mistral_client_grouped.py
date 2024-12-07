@@ -4,6 +4,7 @@ import argparse
 from importlib import reload
 import json
 import os
+import random
 import time
 
 from mistralai import Mistral
@@ -164,16 +165,31 @@ if __name__ == "__main__":
       time.sleep(1)
 
       # postprocess response
-      jresp = json.loads(resp[0])
+      try:
+        jresp = json.loads(resp[0])
+      except json.JSONDecodeError:
+        # based on attested errors
+        if not resp[0].endswith("}]}"):
+          jresp = json.loads(resp[0] + "}]}")
       for ridx, result in enumerate(jresp["result_list"]):
         result["stgdir"] = stdirs_for_grp[ridx]
         try:
           result["categFull"] = cf.categs_as13[int(result["category"])]
+        # Category output as string, not number
         except ValueError:
           assert result["category"] in cf.categs_as13, f"Category {result['category']} not in {cf.categs_as13}"
           print(f"- >>> String label used, group index [{gidx}], group number [{grpn}], result number [{ridx}]")
           # bring back label to a numberic label (for evaluation)
           result["categFull"] = result["category"]
+        # Category hallucination (seen in one crashed batch, added to allow batch to finish if happens again)
+        except IndexError:
+          print(f"- >>> Missing category, group index [{gidx}], group number [{grpn}], result number [{ridx}]")
+          orig_categ = result["category"]
+          rand_categ = random.choice(cf.categs_as13)
+          print(f"      Hallucinated category Replaced Missing stage direction {result['stgdir_nbr']} filled with random category {rand_choice}")
+          result["category"] = rand_categ
+          with open(os.path.join("logs", f"hallucinated_categs_{args.batch_name}.txt"), "a") as out_ac:
+            out_ac.write(f"{result['stgdir_nbr']}\t{orig_categ}\t{rand_categ}\n")
       jresp["response_time"] = td
       jresp["model"] = args.model
       print(f"## Processing group: {grpn}")
