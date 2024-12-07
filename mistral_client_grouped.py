@@ -83,8 +83,8 @@ if __name__ == "__main__":
 
   # run the client
   batch_start_time = time.time()
-  mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY_P"))
-  #mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
+  #mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY_P"))
+  mistral_client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
   corpus_sep = "\t" if "30" in args.corpus else ","
   stdirs = ut.get_and_format_data(args.corpus, corpus_sep)
   #TODO change CLI args making group_size obligatory

@@ -120,8 +120,7 @@ We also tested prompts where, instead of asking to classify a single stage direc
 | 322    |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.616   |    0.692    | 0.686 | 1221.21 |
 | 323    |       en        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.705   |    0.764    | 0.753 |   ip    |
 | 324    |       fr        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.724   |    0.76     | 0.753 | 380.65  |
-| 325    |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.509   |    0.586    | 0.582 |   ip    |
-| 325_01 |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |   0.55   |    0.626    | 0.621 | 2263.2  |
+| 325    |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |   0.61   |    0.674    | 0.675 |   ip    |
 | 326    |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |  0.621   |    0.666    | 0.657 | 374.07  |
 | 327    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |   0.65   |    0.707    | 0.700 | 312.11  |
 | 328    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.729   |    0.788    | 0.78  | 312.11  |
