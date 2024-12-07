@@ -112,9 +112,9 @@ We also tested prompts where, instead of asking to classify a single stage direc
 | 314  |       fr        |        75        |  few-shot   |       0.3<br>stratified       |        gpt-4o        |  0.744   |    0.802    | 0.791 |  747.69  |
 | 315  |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.473   |    0.569    | 0.551 |  705.2   |
 | 316  |       fr        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.525   |    0.608    | 0.597 |    ip    |
-| 317  |       fr        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.676    | 0.676 |    ip    |
+| 317  |       en        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.676    | 0.676 |    ip    |
 | 318  |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.472   |    0.548    | 0.555 |    ip    |
-| 319  |       fr        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.623   |    0.675    | 0.665 |  965.42  |
+| 319  |       fr        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.675    | 0.665 |  965.42  |
 | 320  |       en        |        75        |  zero-shot  |               1               |    mistral-large     |  0.683   |    0.714    | 0.713 | 1278.86  |
 | 321  |       fr        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.691   |    0.742    | 0.732 | 1522.73  |
 | 322  |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.616   |    0.692    | 0.686 | 1221.21  |
@@ -125,7 +125,7 @@ We also tested prompts where, instead of asking to classify a single stage direc
 | 327  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |   0.65   |    0.707    | 0.700 |  312.11  |
 | 328  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.729   |    0.788    | 0.78  |  312.11  |
 | 329  |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.726   |    0.788    | 0.781 |          |
-| 330  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.526   |    0.606    | 0.602 |          |
+| 330  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-small     |  0.526   |    0.606    | 0.602 |          |
 | 331  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled | mistral-small-latest |  0.592   |    0.66     | 0.652 | ip |
 | 332  |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.728    | 0.727 | ip |
 | 333 |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.744    | 0.741 | ip |
