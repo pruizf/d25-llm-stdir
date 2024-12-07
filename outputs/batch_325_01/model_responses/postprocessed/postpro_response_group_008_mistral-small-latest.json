@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "10",
+      "explanation": "L'action d'arracher du poil implique une interaction avec un objet (le poil).",
+      "stgdir": "Il arrache du poil.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "4",
+      "explanation": "L'action de para\u00eetre signifie que le personnage entre en sc\u00e8ne.",
+      "stgdir": "Il para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "1",
+      "explanation": "Donner plusieurs coups de b\u00e2ton sur le sac est une action violente.",
+      "stgdir": "Il donne plusieurs coups de b\u00e2ton sur le sac.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "10",
+      "explanation": "Montrer son \u00e9charpe implique une interaction avec un objet.",
+      "stgdir": "Montrant son \u00e9charpe.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "9",
+      "explanation": "Cette direction donne des informations sur ce qui se passe pendant les minutes o\u00f9 l'\u00e9v\u00eaque murmure.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "5",
+      "explanation": "Faire semblant de s'en aller est une sortie de sc\u00e8ne.",
+      "stgdir": "Guillot fait semblant de s'en aller.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers Antiochus.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers D\u00e9janire.",
+      "stgdir": "\u00c0 D\u00e9janire",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers Verseuil.",
+      "stgdir": "\u00c0 Verseuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "610",
+      "category": "4",
+      "explanation": "Aller ouvrir la porte signifie entrer en sc\u00e8ne.",
+      "stgdir": "Il va ouvrir la porte.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "611",
+      "category": "4",
+      "explanation": "Les trois personnages apparaissent en sc\u00e8ne.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "612",
+      "category": "4",
+      "explanation": "Le Cardinal entre en sc\u00e8ne.",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "613",
+      "category": "11",
+      "explanation": "La description de la sc\u00e8ne et de l'interm\u00e8de rel\u00e8ve de la mise en sc\u00e8ne.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "614",
+      "category": "1",
+      "explanation": "Le fait de battre quelqu'un est une action violente.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "615",
+      "category": "4",
+      "explanation": "Entrer avec l'orf\u00e8vre signifie entrer en sc\u00e8ne.",
+      "stgdir": "Il entre avec l'orf\u00e8vre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "616",
+      "category": "10",
+      "explanation": "Ramasser le bonnet implique une interaction avec un objet.",
+      "stgdir": "Elle ramasse le bonnet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "617",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air : Or \u00e9coutez petits et grands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "618",
+      "category": "4",
+      "explanation": "La descente d'une troupe de matelots signifie une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Une troupe de Matelots descendent d'un vaisseau \u00e9chou\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "619",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers Antonin.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "620",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "AIR : Voulez-vous savoir qui des deux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "621",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers Henry.",
+      "stgdir": "\u00c0 Henry.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "622",
+      "category": "3",
+      "explanation": "Le Ch\u0153ur r\u00e9p\u00e8te des vers, ce qui implique une mani\u00e8re de parler (chant).",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "623",
+      "category": "3",
+      "explanation": "Le Mufti chante des paroles, ce qui implique une mani\u00e8re de parler (chant).",
+      "stgdir": "Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahom\u00e9tane, et leur chante ces paroles :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "624",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "AIR : Eh zon, zon, zon, Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "625",
+      "category": "6",
+      "explanation": "Mettre sa main sur le bras de quelqu'un est une interaction non-verbale.",
+      "stgdir": "Elle met timidement, mais avec r\u00e9solution, sur le bras de Th\u00e9odat, sa main qui se crispe \u00e0 la chair sentie sous les \u00e9toffes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "626",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de Madame Dergos signifie une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "627",
+      "category": "3",
+      "explanation": "Avec feu indique une mani\u00e8re d'exprimer l'\u00e9motion.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "628",
+      "category": "6",
+      "explanation": "Regarder le portrait implique une interaction non-verbale.",
+      "stgdir": "Il regarde le portrait.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "629",
+      "category": "11",
+      "explanation": "La mention 'SC\u00c8NE II' indique un changement de d\u00e9cor ou de sc\u00e8ne.",
+      "stgdir": "SC\u00c8NE II.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "630",
+      "category": "10",
+      "explanation": "Donner un bracelet implique une interaction avec un objet.",
+      "stgdir": "Lui donnant le bracelet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air : Pauvre Jacques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers le duc d'Alcala.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air : Je vous salue, \u00f4 v\u00e9g\u00e9taux !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "1",
+      "explanation": "Le fait de corner aux oreilles est une action violente.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "9",
+      "explanation": "Les mentions 'Antistrophe II' et 'Strophe X' indiquent des sections de la pi\u00e8ce.",
+      "stgdir": "Antistrophe II.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "7",
+      "explanation": "Apercevoir quelqu'un implique un mouvement des yeux ou de la t\u00eate.",
+      "stgdir": "Strophe X.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Apercevant Job.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air : Mon joli petit Corbillon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air : Le petit mot, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "640",
+      "category": "7",
+      "explanation": "Le fait de pr\u00e9luder encore implique un mouvement.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "11",
+      "explanation": "La r\u00e9f\u00e9rence biblique indique un contexte ou une mise en sc\u00e8ne.",
+      "stgdir": "(Gen. XXII, 17 et 18).",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "4",
+      "explanation": "Le Comte para\u00eet, ce qui signifie une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Le Comte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "7",
+      "explanation": "Tout accourt \u00e0 sa voix implique un mouvement.",
+      "stgdir": "Tout accourt \u00e0 sa voix.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "7",
+      "explanation": "Se lever de table implique un mouvement.",
+      "stgdir": "Il se l\u00e8ve de table.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "3",
+      "explanation": "\u00c0 demi-voix indique une mani\u00e8re de parler.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "7",
+      "explanation": "Traverser implique un mouvement.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "6",
+      "explanation": "Joindre les mains est une interaction non-verbale.",
+      "stgdir": "Elle joint les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "9",
+      "explanation": "Frapper \u00e0 la porte est une indication sonore.",
+      "stgdir": "On frappe \u00e0 la porte au fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "6",
+      "explanation": "Serrer la main est une interaction non-verbale.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "650",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "AIR : Plaisirs si purs que je regrette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers Hauteroche.",
+      "stgdir": "\u00c0 Hauteroche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "8",
+      "explanation": "La mention 'AIR 15' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air 15 : Je ne suis n\u00e9 ni Roi, ni Prince.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "9",
+      "explanation": "Le fait que le Roi dort est une indication de l'\u00e9tat du personnage.",
+      "stgdir": "Le Roi dort.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "4",
+      "explanation": "L'apparition de Fritelin et son Ma\u00eetre sur le petit th\u00e9\u00e2tre signifie une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers le peuple.",
+      "stgdir": "Au peuple.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "6",
+      "explanation": "En montrant N\u00e9restan implique une interaction non-verbale.",
+      "stgdir": "En montrant N\u00e9restan.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "7",
+      "explanation": "La description de la danse implique des mouvements.",
+      "stgdir": "Des soldats de la suite du Major entourent Roquillard, en lui pr\u00e9sentant de tous c\u00f4t\u00e9s la pointe de la hallebarde\u00a0; et pendant ce temps Arlequin emm\u00e8ne Isabelle. Les soldats et Roquillard forment une danse, qui sert de divertissement pour le troisi\u00e8me acte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "9",
+      "explanation": "Le fait de sonner une seconde fois est une indication sonore.",
+      "stgdir": "On sonne une seconde fois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers la Servante.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "660",
+      "category": "11",
+      "explanation": "La description de la salle et des personnages est une indication de mise en sc\u00e8ne.",
+      "stgdir": "Il y a une ottomane qui r\u00e8gne le long de la salle, le Chinois et la Chinoise s'y accroupissent. Un Tartare et une Tartare paraissent sans saluer personne ; ils ont un arc en main et un carquois sur l'\u00e9paule ; ils se couchent aupr\u00e8s des Chinois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "11",
+      "explanation": "La description de la maison de paysans est une indication de mise en sc\u00e8ne.",
+      "stgdir": "Une maison de paysans dans les environs de Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "7",
+      "explanation": "Montano s'approche implique un mouvement.",
+      "stgdir": "Montano s'approche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "11",
+      "explanation": "La description de la sc\u00e8ne est une indication de mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un petit salon. Porte au fond. Porte lat\u00e9rale \u00e0 droite. - Une fen\u00eatre \u00e0 gauche. - \u00c0 droite, une table.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers Anth\u00e9nor.",
+      "stgdir": "Elle parle \u00e0 Anth\u00e9nor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "10",
+      "explanation": "D\u00e9tremper les papiers implique une interaction avec un objet.",
+      "stgdir": "Elle d\u00e9trempe les papiers dans l'eau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "6",
+      "explanation": "Regarder le portrait implique une interaction non-verbale.",
+      "stgdir": "Regardant le portrait de L\u00e9lie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "8",
+      "explanation": "La mention 'ENSEMBLE' indique qu'il s'agit d'un moment musical.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "11",
+      "explanation": "La description de la sc\u00e8ne est une indication de mise en sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente le boudoir de la Comtesse. \u00c0 gauche, un petit paravent. Au lever du rideau, la Comtesse de La Roche-Gaston est seule en sc\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "8",
+      "explanation": "La mention 'AIR' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air : Oh, oh, oh, ah, ah, ah !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "670",
+      "category": "6",
+      "explanation": "Montrant Tancr\u00e8de implique une interaction non-verbale.",
+      "stgdir": "Montrant Tancr\u00e8de.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "12",
+      "explanation": "L'action est dirig\u00e9e vers ses fils.",
+      "stgdir": "\u00c0 ses fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "8",
+      "explanation": "La mention 'AIR 97' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "AIR 97. (J'ai bien la plus sobre femme.)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "7",
+      "explanation": "Se lever et aller voir le cabinet implique des mouvements.",
+      "stgdir": "La bouteille d'A\u00ef achev\u00e9e, la Marquise, le Chevalier, le Pr\u00e9sident, Eglante, le Baron se l\u00e8vent pour aller voir le cabinet. Ils prennent plusieurs bourgeois qui sont sur les encoignures.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "8",
+      "explanation": "La mention 'AIR : \u00c0 la fa\u00e7on de Barbari' indique qu'il s'agit d'une direction de musique.",
+      "stgdir": "Air : \u00c0 la fa\u00e7on de Barbari.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 62509.18698310852,
+  "model": "mistral-small-latest"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1275",
+      "category": "12",
+      "explanation": "L'adresse 'Aux l\u00e9vites' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "Aux l\u00e9vites.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1276",
+      "category": "10",
+      "explanation": "La mention 'LETTRE AU BRAVE Don CARLOS' concerne un objet.",
+      "stgdir": "LETTRE AU BRAVE Don CARLOS.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1277",
+      "category": "6",
+      "explanation": "L'embrassement est une interaction non-verbale.",
+      "stgdir": "Colombinette n'ose protester et l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1278",
+      "category": "6",
+      "explanation": "Le fait de rendre un embrassement est une interaction non-verbale.",
+      "stgdir": "Genevi\u00e8ve le lui rend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1279",
+      "category": "5",
+      "explanation": "La sortie des gens du th\u00e9\u00e2tre est une sortie de sc\u00e8ne.",
+      "stgdir": "Les gens sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1280",
+      "category": "6",
+      "explanation": "Suspendre des dominos aux crois\u00e9es implique une interaction avec un objet.",
+      "stgdir": "Des valets suspendent des dominos aux crois\u00e9es.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1281",
+      "category": "12",
+      "explanation": "L'adresse '\u00c0 son a\u00een\u00e9e' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "\u00c0 son a\u00een\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1282",
+      "category": "6",
+      "explanation": "Tendre la main et prendre de l'argent est une interaction non-verbale.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1283",
+      "category": "9",
+      "explanation": "La description de la c\u00e9r\u00e9monie burlesque est une longue description narrative.",
+      "stgdir": "C'est une c\u00e9r\u00e9monie burlesque d'un homme qu'on fait m\u00e9decin en r\u00e9cit, chant, et danse. Plusieurs tapissiers viennent pr\u00e9parer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assembl\u00e9e, compos\u00e9e de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir m\u00e9decin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1284",
+      "category": "8",
+      "explanation": "La mention 'Air 30 : Lanturlu' concerne une chanson.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1285",
+      "category": "11",
+      "explanation": "La description du th\u00e9\u00e2tre repr\u00e9sentant le Palais de l'Oc\u00e9an est une description de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1286",
+      "category": "12",
+      "explanation": "L'adresse 'Au Cadet' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "Au Cadet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1287",
+      "category": "10",
+      "explanation": "D\u00e9signer la table implique une interaction avec un objet.",
+      "stgdir": "Lui d\u00e9signant la table.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1288",
+      "category": "10",
+      "explanation": "Pr\u00e9senter un miroir implique une interaction avec un objet.",
+      "stgdir": "Elle lui pr\u00e9sente un petit miroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1289",
+      "category": "7",
+      "explanation": "Se rattrapant implique un mouvement.",
+      "stgdir": "Se rattrapant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1290",
+      "category": "10",
+      "explanation": "Apr\u00e8s avoir bu implique une interaction avec un objet (boisson).",
+      "stgdir": "Apr\u00e8s avoir bu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1291",
+      "category": "4",
+      "explanation": "Entrer en sc\u00e8ne est une entr\u00e9e.",
+      "stgdir": "Ils entrent en sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1292",
+      "category": "12",
+      "explanation": "L'adresse '\u00c0 M\u00e9gabise' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "\u00c0 M\u00e9gabise.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1293",
+      "category": "7",
+      "explanation": "Lever la t\u00eate implique un mouvement.",
+      "stgdir": "Elle l\u00e8ve la t\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1294",
+      "category": "9",
+      "explanation": "La description du d\u00e9cor du prologue est une longue description narrative.",
+      "stgdir": "D\u00c9CORATION DU PROLOGUE. L'heureux mariage de Sa Majest\u00e9, et la paix qu'il lui a pu donner \u00e0 ses peuples, ayant \u00e9t\u00e9 les motifs de la r\u00e9jouissance publique pour laquelle cette trag\u00e9die a \u00e9t\u00e9 pr\u00e9par\u00e9e, non seulement il \u00e9tait juste qu'ils servissent de sujet au prologue qui la pr\u00e9c\u00e8de, mais il \u00e9tait m\u00eame absolument impossible d'en choisir une plus illustre mati\u00e8re. L'ouverture du th\u00e9\u00e2tre fait voir un pays ruin\u00e9 par les guerres, et termin\u00e9 dans son enfoncement par une ville qui n'en est pas mieux trait\u00e9e, ce qui marque le pitoyable \u00e9tat ou la France \u00e9tait r\u00e9duite avant cette faveur du ciel, qu'elle a si longtemps souhait\u00e9e, et dont la bont\u00e9 de son g\u00e9n\u00e9reux monarque la fait jouir \u00e0 pr\u00e9sent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1295",
+      "category": "6",
+      "explanation": "Donner un billet implique une interaction non-verbale.",
+      "stgdir": "Elle lui donne un billet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1296",
+      "category": "12",
+      "explanation": "L'adresse '\u00c0 LISANDRE' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "\u00c0 LISANDRE.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1297",
+      "category": "6",
+      "explanation": "Poser une cha\u00eene sur le cou est une interaction non-verbale.",
+      "stgdir": "Il lui pose sa cha\u00eene sur le cou.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1298",
+      "category": "8",
+      "explanation": "La mention 'Air 5 : Quand le p\u00e9ril est agr\u00e9able' concerne une chanson.",
+      "stgdir": "Air 5 : Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1299",
+      "category": "8",
+      "explanation": "La mention 'on entand une symphonie qui \u00e9clate' concerne la musique.",
+      "stgdir": "on entand une symphonie qui \u00e9clate",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1300",
+      "category": "10",
+      "explanation": "Fermer une fen\u00eatre implique une interaction avec un objet.",
+      "stgdir": "Il lui ferme aussi la fen\u00eatre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1301",
+      "category": "5",
+      "explanation": "La sortie de Sunnon est une sortie de sc\u00e8ne.",
+      "stgdir": "Sunnon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1302",
+      "category": "4",
+      "explanation": "Revient en sc\u00e8ne est une entr\u00e9e.",
+      "stgdir": "Il revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1303",
+      "category": "8",
+      "explanation": "La mention 'AIR : De la Fricass\u00e9e' concerne une chanson.",
+      "stgdir": "AIR : De la Fricass\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1304",
+      "category": "4",
+      "explanation": "Heurter chez quelqu'un est une entr\u00e9e.",
+      "stgdir": "Beronte heurte chez Ragonde.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1305",
+      "category": "8",
+      "explanation": "La mention 'On joue l'ouverture' concerne la musique.",
+      "stgdir": "On joue l'ouverture.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1306",
+      "category": "10",
+      "explanation": "Prendre la lettre implique une interaction avec un objet.",
+      "stgdir": "Il prend la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1307",
+      "category": "11",
+      "explanation": "La description du th\u00e9\u00e2tre repr\u00e9sentant une \u00eele est une description de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une \u00eele.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1308",
+      "category": "8",
+      "explanation": "La mention 'Air : Tique, tique, taque' concerne une chanson.",
+      "stgdir": "Air : Tique, tique, taque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1309",
+      "category": "7",
+      "explanation": "Voyant venir G\u00e9ronte implique un mouvement.",
+      "stgdir": "Voyant venir G\u00e9ronte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1310",
+      "category": "5",
+      "explanation": "La sortie du Baron est une sortie de sc\u00e8ne.",
+      "stgdir": "Le Baron sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1311",
+      "category": "5",
+      "explanation": "Rentrer dans le ch\u00e2teau est une sortie de sc\u00e8ne.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1312",
+      "category": "7",
+      "explanation": "Voyant approcher Gustave implique un mouvement.",
+      "stgdir": "Voyant approcher Gustave.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1313",
+      "category": "8",
+      "explanation": "La mention 'AIR. De la Royale, etc.' concerne une chanson.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1314",
+      "category": "8",
+      "explanation": "La mention 'Air : Babet que t'es gentille !' concerne une chanson.",
+      "stgdir": "Air : Babet que t'es gentille !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1315",
+      "category": "5",
+      "explanation": "Montval sort est une sortie de sc\u00e8ne.",
+      "stgdir": "Montval, lit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1316",
+      "category": "5",
+      "explanation": "Elle sort avec Octave est une sortie de sc\u00e8ne.",
+      "stgdir": "Elle sort avec Octave.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1317",
+      "category": "6",
+      "explanation": "Serre le bout des doigts est une interaction non-verbale.",
+      "stgdir": "Il lui serre le bout des doigts.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1318",
+      "category": "10",
+      "explanation": "Montrant sa bague implique une interaction avec un objet.",
+      "stgdir": "Montrant sa bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1319",
+      "category": "7",
+      "explanation": "Faire un pas pour s'en aller et revenir implique un mouvement.",
+      "stgdir": "Il fait un pas pour s'en aller et revient toujours.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1320",
+      "category": "6",
+      "explanation": "Frapper sur l'\u00e9paule est une interaction non-verbale.",
+      "stgdir": "Ph\u00e9nice lui frappe sur l'\u00e9paule.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1321",
+      "category": "7",
+      "explanation": "Les jambes fl\u00e9chissent et se redresse implique un mouvement.",
+      "stgdir": "Ses jambes fl\u00e9chissent sous lui, mais il se redresse h\u00e9ro\u00efquement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1322",
+      "category": "9",
+      "explanation": "La longue description de Maurice \u00e9coutant des feuilles est une longue description narrative.",
+      "stgdir": "Maurice ne dit pas ces mots pour la flatter, car, depuis un instant, il ne l'\u00e9coute plus. Il \u00e9coute des feuilles qui semblent r\u00e9gler leur froissement sur sa marche. Elles se taisent quand il s'arr\u00eate, et quand il repart, aussit\u00f4t elles craquent. C'est s\u00fbr que quelqu'un de mal intentionn\u00e9 suit le couple \u00e0 travers les arbres, en se cachant. Et Blanche qui, tout \u00e0 l'heure, s'effrayait sans raison, parle haut maintenant, laisse \u00e9clater une joie innocente, ne soup\u00e7onne rien et gourmande Maurice.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1323",
+      "category": "5",
+      "explanation": "L\u00e9onor et Marine se retirent est une sortie de sc\u00e8ne.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1324",
+      "category": "4",
+      "explanation": "Va pour sortir est une entr\u00e9e.",
+      "stgdir": "Il va pour sortir.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1325",
+      "category": "12",
+      "explanation": "L'adresse '\u00c0 Bi\u00e8vre' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "\u00c0 Bi\u00e8vre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1326",
+      "category": "6",
+      "explanation": "Prendre la pomme des mains du Normand est une interaction non-verbale.",
+      "stgdir": "Elle prend la pomme des mains du Normand.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1327",
+      "category": "5",
+      "explanation": "Monsieur Mathieu sort est une sortie de sc\u00e8ne.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1328",
+      "category": "6",
+      "explanation": "M\u00ealent leurs mains l'une dans l'autre est une interaction non-verbale.",
+      "stgdir": "Ils m\u00ealent leurs mains l'une dans l'autre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1329",
+      "category": "5",
+      "explanation": "Dispara\u00eet enti\u00e8rement est une sortie de sc\u00e8ne.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1330",
+      "category": "8",
+      "explanation": "La mention 'On entend la voix de Monsieur Desgranges' concerne la musique.",
+      "stgdir": "On entend la voix de Monsieur Desgranges.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1331",
+      "category": "8",
+      "explanation": "La mention 'AIR : De l'Horoscope accompli' concerne une chanson.",
+      "stgdir": "Air : Vous m'entendez bien.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1332",
+      "category": "6",
+      "explanation": "Prendre un bras est une interaction non-verbale.",
+      "stgdir": "Il lui prend un bras qui retombe.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1333",
+      "category": "12",
+      "explanation": "L'adresse 'Aux Chouans' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "Aux Chouans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1334",
+      "category": "10",
+      "explanation": "Prenant le billet implique une interaction avec un objet.",
+      "stgdir": "Prenant le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1335",
+      "category": "10",
+      "explanation": "Les fen\u00eatres se ferment implique une interaction avec un objet.",
+      "stgdir": "Les fen\u00eatres se ferment, et on entend au dehors le bruit de plusieurs verrous.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1336",
+      "category": "3",
+      "explanation": "Reprenant le chant implique une delivery manner.",
+      "stgdir": "Reprenant le chant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1337",
+      "category": "6",
+      "explanation": "Lui dit implique une interaction non-verbale.",
+      "stgdir": "Elle lui dit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1338",
+      "category": "11",
+      "explanation": "La description de la chambre d'h\u00f4tel en d\u00e9sordre est une description de d\u00e9cor.",
+      "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1339",
+      "category": "8",
+      "explanation": "La mention 'AIR : De l'Horoscope accompli' concerne une chanson.",
+      "stgdir": "AIR : De l'Horoscope accompli.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1340",
+      "category": "7",
+      "explanation": "Restent dans une all\u00e9e du Th\u00e9\u00e2tre implique un mouvement.",
+      "stgdir": "Cl\u00e9onte et Croquet restent dans une all\u00e9e du Th\u00e9\u00e2tre et Albert met Isabelle dehors, et enferme Clarice.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1341",
+      "category": "12",
+      "explanation": "L'adresse 'Aux mages' indique l'addresse auquel un discours est destin\u00e9.",
+      "stgdir": "Aux mages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1342",
+      "category": "10",
+      "explanation": "Confie l'esp\u00e9rance de la branche ain\u00e9e des comtes de Catso di Coulo dans un objet.",
+      "stgdir": "Il se retire promptement, sort son mouchoir, et y confie l'esp\u00e9rance de la branche ain\u00e9e des comtes de Catso di Coulo.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1343",
+      "category": "5",
+      "explanation": "Beno\u00eet sort est une sortie de sc\u00e8ne.",
+      "stgdir": "Beno\u00eet sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1344",
+      "category": "3",
+      "explanation": "Continue implique une delivery manner.",
+      "stgdir": "Elle continue.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "1345",
+      "category": "10",
+      "explanation": "En montrant le sac implique une interaction avec un objet.",
+      "stgdir": "En montrant le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1346",
+      "category": "5",
+      "explanation": "Armide sort est une sortie de sc\u00e8ne.",
+      "stgdir": "Armide s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1347",
+      "category": "7",
+      "explanation": "Se heurte encore implique un mouvement.",
+      "stgdir": "Elle se heurte encore.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1348",
+      "category": "10",
+      "explanation": "Touchant son gousset implique une interaction avec un objet.",
+      "stgdir": "Touchant son gousset.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1349",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une place publique est une description de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une place publique.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 65750.18548965454,
+  "model": "mistral-small-latest"
+}

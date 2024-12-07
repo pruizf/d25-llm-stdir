@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "1200",
+      "category": "11",
+      "explanation": "La description de la chambre et des accessoires indispensables est une indication de d\u00e9cor et de mise en sc\u00e8ne.",
+      "stgdir": "La plus belle chambre du repaire des brigands klephtes. - Luxe \u00e0 volont\u00e9. Accessoires indispensables : un lit et un secr\u00e9taire quelconques. Une panoplie et quelques si\u00e9ges. - Au mur pend un tube acoustique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1201",
+      "category": "0",
+      "explanation": "L'action de s'approcher sournoisement est une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "AIR 12 : Amis, sans regretter Paris.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1202",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui ou \u00e0 quoi le personnage s'approche.",
+      "stgdir": "Il s'approche sournoisement du lit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1203",
+      "category": "12",
+      "explanation": "Indique l'objet de la perception du personnage.",
+      "stgdir": "Apercevant l'appartement.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1204",
+      "category": "7",
+      "explanation": "L'action de s'asseoir sur le canap\u00e9 est un mouvement.",
+      "stgdir": "Il s'assied sur le canap\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1205",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Pyrrha.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1206",
+      "category": "6",
+      "explanation": "L'action de se baiser aux genoux est une interaction non-verbale.",
+      "stgdir": "Il se baise aux genoux de Miltiade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1207",
+      "category": "10",
+      "explanation": "La mention de la lettre est une indication d'objet.",
+      "stgdir": "LETTRE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1208",
+      "category": "0",
+      "explanation": "L'action de regarder est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Lucile regarde toujours.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1209",
+      "category": "10",
+      "explanation": "L'action de reprendre son sabre est une interaction avec un objet.",
+      "stgdir": "Reprenant son sabre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1210",
+      "category": "10",
+      "explanation": "L'action de ramasser les pistolets est une interaction avec un objet.",
+      "stgdir": "Il ramasse les pistolets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1211",
+      "category": "9",
+      "explanation": "La mention du bruit de guerre est une narration.",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1212",
+      "category": "6",
+      "explanation": "L'action de regarder tous en face est une interaction non-verbale.",
+      "stgdir": "Les regardant tous en face.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1213",
+      "category": "8",
+      "explanation": "La mention de l'air est une indication de musique.",
+      "stgdir": "Air : Du haut en bas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1214",
+      "category": "8",
+      "explanation": "La mention de l'air est une indication de musique.",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1215",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Marton.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1216",
+      "category": "9",
+      "explanation": "La mention de ne pas entendre le reste de la phrase est une narration.",
+      "stgdir": "On n'entend pas le reste de la phrase.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1217",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Dormene.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1218",
+      "category": "6",
+      "explanation": "L'action de donner l'habit est une interaction non-verbale.",
+      "stgdir": "Elle lui donne l'habit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1219",
+      "category": "8",
+      "explanation": "La mention de l'air est une indication de musique.",
+      "stgdir": "AIR. De mon Berger volage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1220",
+      "category": "8",
+      "explanation": "La mention de l'air est une indication de musique.",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1221",
+      "category": "6",
+      "explanation": "L'action de pr\u00e9senter la lettre est une interaction non-verbale.",
+      "stgdir": "En lui pr\u00e9sentant la lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1222",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Dorval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1223",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 la Comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1224",
+      "category": "9",
+      "explanation": "La longue description est une narration.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1225",
+      "category": "5",
+      "explanation": "L'action de se retirer est une sortie de sc\u00e8ne.",
+      "stgdir": "Th\u00e9odat se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1226",
+      "category": "8",
+      "explanation": "La mention de l'air est une indication de musique.",
+      "stgdir": "AIR : La bonne aventure, \u00f4 gai.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1227",
+      "category": "6",
+      "explanation": "L'action de se jeter sur le Pr\u00e9sident est une interaction non-verbale.",
+      "stgdir": "Ils se jettent tous sur le Pr\u00e9sident.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1228",
+      "category": "2",
+      "explanation": "L'action de se taire est un apart\u00e9.",
+      "stgdir": "Isolan se tait.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1229",
+      "category": "6",
+      "explanation": "L'action de donner une couronne est une interaction non-verbale.",
+      "stgdir": "Oriane donne au chef du Parti vaincu une couronne de lauriers et myrte de fleuri ; et les nymphes, des couronnes de laurier aux autres vainqueurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1230",
+      "category": "10",
+      "explanation": "La mention du cartel est une indication d'objet.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1231",
+      "category": "4",
+      "explanation": "L'action d'entrer dans le cabinet est une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1232",
+      "category": "1",
+      "explanation": "L'action de tirer son \u00e9p\u00e9e est une agression.",
+      "stgdir": "Il tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1233",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "Aux deux marquis Platon et Gilissa.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1234",
+      "category": "9",
+      "explanation": "La longue description est une narration.",
+      "stgdir": "Le Docteur lit la lettre, apprend que le fils de Colin est malade ; et qu'il ne peut se mette sit\u00f4t en chemin ; il jette en m\u00eame tempos les yeux sur Arlequin qui lui soutient effront\u00e9ment qu'il est le fils du Fermier de Domfront, et qu'il se porte bien. Le Docteur demande au Paysan s'il le conna\u00eet ; le Paysan r\u00e9pond que non, et que ce n'est pas l\u00e0 le Fils de son Ma\u00eetre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1235",
+      "category": "6",
+      "explanation": "L'action de payer et les gestes diff\u00e9rents sont des interactions non-verbales.",
+      "stgdir": "Il les paye, et chacun, en recevant l'argent, fait un geste diff\u00e9rent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1236",
+      "category": "7",
+      "explanation": "L'action de parcourir le livre sans s'asseoir est un mouvement.",
+      "stgdir": "Il s'approche de la table et parcourt le livre sans s'asseoir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1237",
+      "category": "9",
+      "explanation": "La mention du grand silence est une narration.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1238",
+      "category": "11",
+      "explanation": "La description du d\u00e9cor est une indication de mise en sc\u00e8ne.",
+      "stgdir": "La d\u00e9coration repr\u00e9sente un lieu champ\u00eatre fort agr\u00e9able.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1239",
+      "category": "9",
+      "explanation": "La mention du bruit est une narration.",
+      "stgdir": "On entend du bruit dans la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1240",
+      "category": "4",
+      "explanation": "L'action d'entrer en sc\u00e8ne est une entr\u00e9e.",
+      "stgdir": "Derville entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1241",
+      "category": "7",
+      "explanation": "L'action de sortir en chantonnant est un mouvement.",
+      "stgdir": "Il sort en chantonnant de nouveau le refrain de l'Amant d'Amanda.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1242",
+      "category": "9",
+      "explanation": "La longue description est une narration.",
+      "stgdir": "Adeline, Eglante, Necelle, sont toutes tremblantes , craignant que l'ordre ne soit contre elles. Elles ne se rassurent un peu, que lorsqu'elles sont certaines que l'exempt n'en veut qu'\u00e0 la Marquise, qu'elles ont cru jusqu'\u00e0 ce moment une nouvelle d\u00e9barqu\u00e9e de province, qui \u00e9tait venue, comme le chevalier le leur a dit, pour d\u00e9buter \u00e0 l'Op\u00e9ra.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1243",
+      "category": "8",
+      "explanation": "La mention de l'air est une indication de musique.",
+      "stgdir": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1244",
+      "category": "7",
+      "explanation": "L'action de rentrer vivement est un mouvement.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1245",
+      "category": "5",
+      "explanation": "L'action de s'en aller est une sortie de sc\u00e8ne.",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1246",
+      "category": "6",
+      "explanation": "L'action de donner des noeuds d'\u00e9p\u00e9e est une interaction non-verbale.",
+      "stgdir": "Les femmes donnent aux hommes des noeuds d'\u00e9p\u00e9e etc.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1247",
+      "category": "6",
+      "explanation": "L'action de s'accrocher \u00e0 un rosier est une interaction avec un objet.",
+      "stgdir": "Il s'accroche \u00e0 un des rosiers de l'Ecole des Femmes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1248",
+      "category": "2",
+      "explanation": "L'action de se retourner vers les spectateurs est un apart\u00e9.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "1249",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "Au po\u00e8te.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1250",
+      "category": "0",
+      "explanation": "L'action de regarder est une action g\u00e9n\u00e9rale.",
+      "stgdir": "Lucile regarde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "1251",
+      "category": "4",
+      "explanation": "L'action d'entrer est une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "1252",
+      "category": "5",
+      "explanation": "L'action de sortir est une sortie de sc\u00e8ne.",
+      "stgdir": "Monsieur de Saint-Franc sort avec le Notaire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1253",
+      "category": "6",
+      "explanation": "L'action de tenir le bras est une interaction non-verbale.",
+      "stgdir": "Il tient le bras de Beline, croyant tenir celui de la Malade.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1254",
+      "category": "6",
+      "explanation": "L'action de vouloir baiser la main est une interaction non-verbale.",
+      "stgdir": "Il va au fils.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1255",
+      "category": "10",
+      "explanation": "La mention des couplets est une indication d'objet (musical).",
+      "stgdir": "Il veut lui baiser la main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1256",
+      "category": "7",
+      "explanation": "L'action de se fouiller est un mouvement.",
+      "stgdir": "COUPLETS sur l'air : De la b\u00e9quille du p\u00e8re Barnabas.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1257",
+      "category": "7",
+      "explanation": "L'action de se diriger est un mouvement.",
+      "stgdir": "Il se fouille.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "1258",
+      "category": "5",
+      "explanation": "L'action de sortir est une sortie de sc\u00e8ne.",
+      "stgdir": "Elle se dirige vers la porte.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1259",
+      "category": "6",
+      "explanation": "L'action de montrer est une interaction non-verbale.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1260",
+      "category": "6",
+      "explanation": "L'action de pousser rudement est une interaction non-verbale.",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1261",
+      "category": "9",
+      "explanation": "La longue description est une narration.",
+      "stgdir": "Cette sc\u00e8ne est le contraire de la pr\u00e9c\u00e9dente. Madame_Charpentier se d\u00e9sole avec sa fille ; elle montre ses inqui\u00e9tudes, les dangers que court son fils, bien qu'il soit un honn\u00eate homme. Elle redoute la col\u00e8re et un refus de son mari.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1262",
+      "category": "9",
+      "explanation": "La longue description est une narration.",
+      "stgdir": "Alors viendra un ange, tout de blanc habill\u00e9, une \u00e9p\u00e9e flamboyante \u00e0 la main, que Dieu placera \u00e0 la porte du paradis, en lui disant :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "1263",
+      "category": "10",
+      "explanation": "L'action de prendre son \u00e9p\u00e9e est une interaction avec un objet.",
+      "stgdir": "Prenant son \u00e9p\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1264",
+      "category": "8",
+      "explanation": "La mention du r\u00e9citatif est une indication de musique.",
+      "stgdir": "R\u00e9citatif De M. de la Ruette. N\u00b02",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1265",
+      "category": "10",
+      "explanation": "L'action de donner un re\u00e7u est une interaction avec un objet.",
+      "stgdir": "Il est d\u00e9guis\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1266",
+      "category": "11",
+      "explanation": "La description de la salle d'auberge est une indication de d\u00e9cor.",
+      "stgdir": "Il donne \u00e0 son ma\u00eetre le re\u00e7u de Rosalie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "1267",
+      "category": "10",
+      "explanation": "L'action de prendre le chapeau est une interaction avec un objet.",
+      "stgdir": "Une salle d'auberge.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "1268",
+      "category": "6",
+      "explanation": "L'action d'apercevoir est une interaction non-verbale.",
+      "stgdir": "En prenant le chapeau qu'Olympe avait laiss\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "1269",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "Apercevant Amphitryon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1270",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 \u00c9narus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1271",
+      "category": "1",
+      "explanation": "L'action de vouloir se jeter sur une \u00e9p\u00e9e est une agression.",
+      "stgdir": "Le Prince veut se jeter sur une \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "1272",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui le personnage s'adresse.",
+      "stgdir": "\u00c0 Torine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "1273",
+      "category": "5",
+      "explanation": "L'action de sortir \u00e0 reculons est une sortie de sc\u00e8ne.",
+      "stgdir": "Il sort a reculons en saluant \u00e0 droite et \u00e0 gauche et dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1274",
+      "category": "11",
+      "explanation": "La description du d\u00e9cor est une indication de mise en sc\u00e8ne.",
+      "stgdir": "M\u00eame d\u00e9coration qu'au premier acte ; seulement, la porte du fond est grande ouverte et l'on voit la campagne au printemps.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 58698.760747909546,
+  "model": "mistral-small-latest"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 1500,
+      "category": 11,
+      "explanation": "La description du th\u00e9\u00e2tre repr\u00e9sentant des prairies agr\u00e9ables et le Fleuve Inachus serpentant.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1501,
+      "category": 1,
+      "explanation": "La sc\u00e8ne d\u00e9crit une lutte entre l'imp\u00e9ratrice et le pape, utilisant des objets comme le sceptre et la croix.",
+      "stgdir": "L'imp\u00e9ratrice et le pape se battent, l'une avec son sceptre et l'autre avec sa croix : un coup de sceptre casse la croix ; le pape jette sa tiare \u00e0 la t\u00eate de Catherine et lui renverse sa couronne. Ils se battent avec leurs cha\u00eenes. Le roi de Pologne veut mettre le hol\u00e0, en \u00f4tant des mains le sceptre \u00e0 Catherine.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 1502,
+      "category": 6,
+      "explanation": "Verseuil donne la main \u00e0 Julie, ce qui est une interaction non-verbale.",
+      "stgdir": "Verseuil donne la main \u00e0 Julie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1503,
+      "category": 10,
+      "explanation": "La description des objets que les personnages portent, comme le plat \u00e0 barbe, le peignoir, et les hardes.",
+      "stgdir": "Cadet aura un plat \u00e0 barbe en main, le petit portera le peignoir et la m\u00e8re aura des hardes sous le bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1504,
+      "category": 7,
+      "explanation": "Elle sort en col\u00e8re, ce qui est un mouvement de la sc\u00e8ne.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1505,
+      "category": 9,
+      "explanation": "La description du vieillard servant de truchement aux sauvages et la traduction dans le langage des signes.",
+      "stgdir": "Le vieillard sert de truchement aux sauvages, devant lesquels passent en revue les rois. Il leur traduit dans le langage des signes, ce qui se dit \u00e0 mesure que les rois paraissent sur la sc\u00e8ne. Les sauvages donnent tour \u00e0 tour des marques d'\u00e9tonnement et d'indignation.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1506,
+      "category": 10,
+      "explanation": "Ouvrir le tiroir est une interaction avec un objet.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1507,
+      "category": 11,
+      "explanation": "La description du th\u00e9\u00e2tre repr\u00e9sentant le Palais de LA FOLIE.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1508,
+      "category": 10,
+      "explanation": "Il montre des bagues qu'il a, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il lui montre des bagues qu'il a.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1509,
+      "category": 6,
+      "explanation": "Ils se pressent les mains, ce qui est une interaction non-verbale.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1510,
+      "category": 12,
+      "explanation": "En apercevant le Comte, indique l'addressee d'une action.",
+      "stgdir": "En apercevant le Comte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1511,
+      "category": 6,
+      "explanation": "Polidor doit avoir suivi Tirsis, ce qui est une interaction non-verbale.",
+      "stgdir": "Polidor doit avoir suivi Tirsis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1512,
+      "category": 10,
+      "explanation": "Elle porte la bague \u00e0 ses l\u00e8vres, ce qui implique une interaction avec un objet.",
+      "stgdir": "Elle porte la bague \u00e0 ses l\u00e8vres.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1513,
+      "category": 8,
+      "explanation": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands, indique une chanson.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1514,
+      "category": 9,
+      "explanation": "Cris au-dehors : indique une description narrative.",
+      "stgdir": "Cris au-dehors :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1515,
+      "category": 5,
+      "explanation": "B\u00e9atrix se retire, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "B\u00e9atrix se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1516,
+      "category": 7,
+      "explanation": "Elle se l\u00e8ve, et parcourt la chambre de long en large, ce qui est un mouvement.",
+      "stgdir": "Elle se l\u00e8ve, et parcourt la chambre de long en large.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1517,
+      "category": 12,
+      "explanation": "\u00c0 la Reine, indique l'addressee d'une action.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1518,
+      "category": 12,
+      "explanation": "Montrant Milady, indique l'addressee d'une action.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1519,
+      "category": 12,
+      "explanation": "\u00c0 Zaide, indique l'addressee d'une action.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1520,
+      "category": 8,
+      "explanation": "Air : Le tout par nature, indique une chanson.",
+      "stgdir": "Air : Le tout par nature.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1521,
+      "category": 7,
+      "explanation": "Il s'en retourne, ce qui est un mouvement.",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1522,
+      "category": 10,
+      "explanation": "Il arrache les papiers, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1523,
+      "category": 4,
+      "explanation": "Cl\u00e9andre et Ferrande reviennent, ce qui est une entr\u00e9e de sc\u00e8ne.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1524,
+      "category": 3,
+      "explanation": "PANTOMIME, indique une mani\u00e8re de faire passer une \u00e9motion ou un sentiment.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1525,
+      "category": 8,
+      "explanation": "AIR. ( Quand je tiens de ce jus d'octobre. ) indique une chanson.",
+      "stgdir": "AIR. ( Quand je tiens de ce jus d'octobre. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1526,
+      "category": 5,
+      "explanation": "Adrien sort, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1527,
+      "category": 10,
+      "explanation": "Ouvrant la premi\u00e8re lettre, ce qui implique une interaction avec un objet.",
+      "stgdir": "Ouvrant la premi\u00e8re lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1528,
+      "category": 8,
+      "explanation": "AIR. N'avez-vous pas vu l'horloge, indique une chanson.",
+      "stgdir": "AIR. N'avez-vous pas vu l'horloge.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1529,
+      "category": 12,
+      "explanation": "Montrant Cris\u00e9is, indique l'addressee d'une action.",
+      "stgdir": "Montrant Cris\u00e9is.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1530,
+      "category": 12,
+      "explanation": "Montrant Frontin, indique l'addressee d'une action.",
+      "stgdir": "Montrant Frontin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1531,
+      "category": 8,
+      "explanation": "Air 200. Du Feu d'Artifice, indique une chanson.",
+      "stgdir": "Air 200. Du Feu d'Artifice.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1532,
+      "category": 6,
+      "explanation": "C\u00e9cile et Germeuil s'approchent, ce qui est une interaction non-verbale.",
+      "stgdir": "C\u00e9cile et Germeuil s'approchent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1533,
+      "category": 9,
+      "explanation": "La description des feux d'artifice et de l'apparition d'Arlequin dans sa machine.",
+      "stgdir": "Ils continuent a chercher le faux Proph\u00e8te, qui jette sur eux quantit\u00e9 de p\u00e9tards et d'autres feux d'artifice qui enflamment l'air. On voit en m\u00eame temps Arlequin dans sa machine qui traverse le th\u00e9\u00e2tre. Il a un pourpoint noir avec un turban et une longue barbe blanche. Le Roi et le Kam sont frapp\u00e9s de cette apparition ; et la Suivante profitant de la crainte dont elle voit le Roi saisi lui dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1534,
+      "category": 5,
+      "explanation": "La Branche sort, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "La Branche sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1535,
+      "category": 9,
+      "explanation": "On entend un outil qui fourrage dans la serrure, ce qui est une description narrative.",
+      "stgdir": "On entend un outil qui fourrage dans la serrure.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1536,
+      "category": 2,
+      "explanation": "Arlequin voyant son ma\u00eetre revenu lui dit ;, ce qui est un apart\u00e9.",
+      "stgdir": "Arlequin voyant son ma\u00eetre revenu lui dit ;",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": 1537,
+      "category": 12,
+      "explanation": "\u00c0 Virgine, indique l'addressee d'une action.",
+      "stgdir": "\u00c0 Virgine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1538,
+      "category": 11,
+      "explanation": "La Sc\u00e8ne se passe dans le palais de Lothaire, ce qui est une description du cadre.",
+      "stgdir": "La Sc\u00e8ne se passe dans le palais de Lothaire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1539,
+      "category": 8,
+      "explanation": "AIR : J'en avons tant ri, indique une chanson.",
+      "stgdir": "AIR : J'en avons tant ri",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1540,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant dans une maison de campagne, ce qui est une description du cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon \u00e9l\u00e9gant dans une maison de campagne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 1541,
+      "category": 7,
+      "explanation": "Il s'\u00e9chappe, ce qui est un mouvement.",
+      "stgdir": "Il s'\u00e9chappe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1542,
+      "category": 8,
+      "explanation": "Air : Quand la berg\u00e8re vient des champs, indique une chanson.",
+      "stgdir": "Air : Quand la berg\u00e8re vient des champs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1543,
+      "category": 4,
+      "explanation": "Entr\u00e9e des forgerons, ce qui est une entr\u00e9e de sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e des forgerons.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 1544,
+      "category": 7,
+      "explanation": "Il s'approche d'un tombeau, ce qui est un mouvement.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1545,
+      "category": 10,
+      "explanation": "Il donne une \u00e9p\u00e9e \u00e0 Francis et l'autre \u00e0 Alfred, ce qui implique une interaction avec un objet.",
+      "stgdir": "Il donne une \u00e9p\u00e9e \u00e0 Francis et l'autre \u00e0 Alfred.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1546,
+      "category": 12,
+      "explanation": "\u00c0 L\u00e9onidas, indique l'addressee d'une action.",
+      "stgdir": "\u00c0 L\u00e9onidas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1547,
+      "category": 12,
+      "explanation": "Apercevant Dormene, indique l'addressee d'une action.",
+      "stgdir": "Apercevant Dormene.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1548,
+      "category": 9,
+      "explanation": "On voit para\u00eetre le Marquis dans le miroir, ce qui est une description narrative.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1549,
+      "category": 12,
+      "explanation": "\u00c0 son fils, indique l'addressee d'une action.",
+      "stgdir": "\u00c0 son fils",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1550,
+      "category": 12,
+      "explanation": "Montrant Martin, indique l'addressee d'une action.",
+      "stgdir": "Montrant Martin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1551,
+      "category": 6,
+      "explanation": "Regardant sa fille, ce qui est une interaction non-verbale.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1552,
+      "category": 8,
+      "explanation": "Air : Lanturlu, indique une chanson.",
+      "stgdir": "Air : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1553,
+      "category": 7,
+      "explanation": "Elle passe \u00e0 gauche, ce qui est un mouvement.",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1554,
+      "category": 6,
+      "explanation": "Tous reviennent, et Madame Raquin remet la lampe sur la table, ce qui est une interaction non-verbale.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1555,
+      "category": 5,
+      "explanation": "Sainte C\u00e9cile sort, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "Sainte C\u00e9cile sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1556,
+      "category": 8,
+      "explanation": "Air : Voulez-vous savoir qui des deux, indique une chanson.",
+      "stgdir": "Air : Voulez-vous savoir qui des deux",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1557,
+      "category": 12,
+      "explanation": "\u00c0 Valentin, indique l'addressee d'une action.",
+      "stgdir": "\u00c0 Valentin",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1558,
+      "category": 3,
+      "explanation": "Parlant \u00e0 son cheval, indique une mani\u00e8re de faire passer une \u00e9motion ou un sentiment.",
+      "stgdir": "Parlant \u00e0 son cheval.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 1559,
+      "category": 8,
+      "explanation": "AIR. Tout roule aujourd'hui dans le monde, indique une chanson.",
+      "stgdir": "AIR. Tout roule aujourd'hui dans le monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1560,
+      "category": 10,
+      "explanation": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires, ce qui implique une interaction avec des objets.",
+      "stgdir": "Br\u00e9court et Duparc commencent \u00e0 enlever les accessoires.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 1561,
+      "category": 12,
+      "explanation": "\u00c0 Drouillac, indique l'addressee d'une action.",
+      "stgdir": "\u00c0 Drouillac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1562,
+      "category": 12,
+      "explanation": "Apercevant Ang\u00e9lique, indique l'addressee d'une action.",
+      "stgdir": "Apercevant Ang\u00e9lique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1563,
+      "category": 6,
+      "explanation": "Ayant l'air de chercher autour d'elle, ce qui est une interaction non-verbale.",
+      "stgdir": "Ayant l'air de chercher autour d'elle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1564,
+      "category": 12,
+      "explanation": "Et \u00e0 Hortensius, indique l'addressee d'une action.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1565,
+      "category": 9,
+      "explanation": "On les apaise \u00e0 grand peine, ce qui est une description narrative.",
+      "stgdir": "On les apaise \u00e0 grand peine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 1566,
+      "category": 5,
+      "explanation": "Duparc sort, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1567,
+      "category": 6,
+      "explanation": "Il embrasse Nicette et Mimi, ce qui est une interaction non-verbale.",
+      "stgdir": "Il embrasse Nicette et Mimi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1568,
+      "category": 7,
+      "explanation": "Il remonte la sc\u00e8ne, ce qui est un mouvement.",
+      "stgdir": "Il remonte la sc\u00e8ne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1569,
+      "category": 7,
+      "explanation": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus, ce qui est un mouvement.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 1570,
+      "category": 12,
+      "explanation": "Aux guerriers, indique l'addressee d'une action.",
+      "stgdir": "Aux guerriers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 1571,
+      "category": 5,
+      "explanation": "Villiers dispara\u00eet, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 1572,
+      "category": 8,
+      "explanation": "AIR. ( L'autre nuit j'aper\u00e7us en songe. } ce qui indique une chanson.",
+      "stgdir": "AIR. ( L'autre nuit j'aper\u00e7us en songe. }",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 1573,
+      "category": 6,
+      "explanation": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main, ce qui est une interaction non-verbale.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 1574,
+      "category": 6,
+      "explanation": "Il lui porte de m\u00eame son bras sous le nez, ce qui est une interaction non-verbale.",
+      "stgdir": "Il lui porte de m\u00eame son bras sous le nez.",
+      "categFull": "interaction"
+    }
+  ],
+  "response_time": 57802.68096923828,
+  "model": "mistral-small-latest"
+}

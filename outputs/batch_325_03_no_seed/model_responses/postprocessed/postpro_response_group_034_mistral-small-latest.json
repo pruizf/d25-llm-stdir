@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2550",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Sophie' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Sophie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2551",
+      "category": "10",
+      "explanation": "The action of 'arrache' and 'brise' involves interaction with an object.",
+      "stgdir": "Don Juan lui arrache l'\u00e9p\u00e9e des mains et la brise.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2552",
+      "category": "4",
+      "explanation": "The direction 'Charpentier entre' indicates a character entering the stage.",
+      "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2553",
+      "category": "10",
+      "explanation": "The action of 'montrer' involves interaction with an object.",
+      "stgdir": "Montrant son lit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2554",
+      "category": "6",
+      "explanation": "The direction 'regardant Gaston' indicates non-verbal interaction.",
+      "stgdir": "Regardant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2555",
+      "category": "8",
+      "explanation": "The direction starts with 'Air' followed by the name of a tune.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2556",
+      "category": "0",
+      "explanation": "The action of 'sort de table' is a general character action.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2557",
+      "category": "8",
+      "explanation": "The direction starts with 'III COUPLET' indicating a musical element.",
+      "stgdir": "III COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2558",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Barberin' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Barberin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2559",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Spartacus' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Spartacus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2560",
+      "category": "8",
+      "explanation": "The direction starts with 'fredonne' followed by the name of a tune.",
+      "stgdir": "Il fredonne l'Amant d'Amanda.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2561",
+      "category": "8",
+      "explanation": "The direction starts with 'Air' followed by the name of a tune.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2562",
+      "category": "0",
+      "explanation": "The action of 'frappe \u00e0 la porte' is a general character action.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2563",
+      "category": "7",
+      "explanation": "The direction 'recommencent le combat plus vivement' describes character movement.",
+      "stgdir": "L\u00e0 ils recommencent le combat plus vivement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2564",
+      "category": "6",
+      "explanation": "The direction 'se laisse embrasser' indicates non-verbal interaction.",
+      "stgdir": "Elle se laisse embrasser.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2565",
+      "category": "7",
+      "explanation": "The direction 's'assoit' describes character movement.",
+      "stgdir": "Camille s'assoit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2566",
+      "category": "8",
+      "explanation": "The direction 'CANTATE' indicates a musical element.",
+      "stgdir": "CANTATE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2567",
+      "category": "8",
+      "explanation": "The direction 'on danse' describes a musical element.",
+      "stgdir": "On danse, et la danse est coup\u00e9e par ces deux couplets.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2568",
+      "category": "10",
+      "explanation": "The action of 'pr\u00e9senter brusquement un p\u00e2t\u00e9' involves interaction with an object.",
+      "stgdir": "On lui pr\u00e9sente brusquement un p\u00e2t\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2569",
+      "category": "12",
+      "explanation": "The direction 'Il parle \u00e0 Troile' indicates the addressee of a speech.",
+      "stgdir": "Il parle \u00e0 Troile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2570",
+      "category": "10",
+      "explanation": "The action of 'montrant les Muses' involves interaction with an object.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2571",
+      "category": "2",
+      "explanation": "The direction 'se parle \u00e0 lui-m\u00eame' indicates an aside.",
+      "stgdir": "Il se parle \u00e0 lui-m\u00eame.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2572",
+      "category": "12",
+      "explanation": "The direction 'Aux filles et aux gar\u00e7ons' indicates the addressee of a speech.",
+      "stgdir": "Aux filles et aux gar\u00e7ons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2573",
+      "category": "11",
+      "explanation": "The direction describes a change in the stage setting.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le palais du grand sacrificateur de Cyb\u00e8le.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2574",
+      "category": "2",
+      "explanation": "The direction is an aside, indicated by '[Th\u00e9s\u00e9e fait un apart\u00e9]'.",
+      "stgdir": "[Th\u00e9s\u00e9e fait un apart\u00e9 en pensant \u00e0 \u00c9g\u00e9e].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "2575",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Madame de Lucenay' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame de Lucenay.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2576",
+      "category": "7",
+      "explanation": "The direction 'Eug\u00e9nie fait un mouvement' describes character movement.",
+      "stgdir": "Eug\u00e9nie fait un mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2577",
+      "category": "7",
+      "explanation": "The direction 'l\u00e8ve sa coiffe' describes character movement.",
+      "stgdir": "Elle l\u00e8ve sa coiffe.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2578",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Albin' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Albin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2579",
+      "category": "8",
+      "explanation": "The direction starts with 'AIR' followed by the name of a tune.",
+      "stgdir": "AIR : D'une main je tiens mon pot.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2580",
+      "category": "5",
+      "explanation": "The direction 'Paquita sort' indicates a character exiting the stage.",
+      "stgdir": "Paquita sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2581",
+      "category": "8",
+      "explanation": "The direction starts with 'AIR' followed by the name of a tune.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2582",
+      "category": "7",
+      "explanation": "The direction 'Guillot s\u2019assied' describes character movement.",
+      "stgdir": "Guillot s'ass\u00eced.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2583",
+      "category": "9",
+      "explanation": "The direction describes a sequence of character actions with narrative quality.",
+      "stgdir": "Apr\u00e8s avoir encore bu, il dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2584",
+      "category": "8",
+      "explanation": "The direction starts with 'AIR' followed by the name of a tune.",
+      "stgdir": "AIR. Ah ! le bel oiseau maman.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2585",
+      "category": "9",
+      "explanation": "The direction describes a noise event.",
+      "stgdir": "On entend sonner minuit \u00e0 l'horloge de l'h\u00f4tel de ville.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2586",
+      "category": "8",
+      "explanation": "The direction starts with 'Air' followed by the name of a tune.",
+      "stgdir": "Air : Cet Oracle est plus fur, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2587",
+      "category": "8",
+      "explanation": "The direction indicates a musical element continuing.",
+      "stgdir": "L'ouverture continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2588",
+      "category": "10",
+      "explanation": "The action of 'prend Hector \u00e0 la cravate' involves interaction with an object.",
+      "stgdir": "Il prend Hector \u00e0 la cravate.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2589",
+      "category": "8",
+      "explanation": "The direction starts with 'Air' followed by the name of a tune.",
+      "stgdir": "Air : Honor\u00e9 du brillant poste.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2590",
+      "category": "10",
+      "explanation": "The action of 'donne \u00e0 la suivante le papier' involves interaction with an object.",
+      "stgdir": "Il donne \u00e0 la suivante le papier sur lequel il a \u00e9crit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2591",
+      "category": "4",
+      "explanation": "The direction 'Entr\u00e9e de suivants de la Fortune' indicates characters entering the stage.",
+      "stgdir": "Entr\u00e9e de suivants de la Fortune.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2592",
+      "category": "12",
+      "explanation": "The direction 'Cr\u00e9sus, appelant' indicates the addressee of a speech.",
+      "stgdir": "Cr\u00e9sus, appelant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2593",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Rhadamisthe' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Rhadamisthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2594",
+      "category": "6",
+      "explanation": "The direction 'embrasse Argie' indicates non-verbal interaction.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2595",
+      "category": "9",
+      "explanation": "The direction describes a sequence of character actions with narrative quality.",
+      "stgdir": "Tandis que Moli\u00e8re reste pensif, Dassoucy, Pierrotin et le Docteur sortent bruyamment du ch\u00e2teau ; Pierrotin porte un flacon et un gobelet, boit \u00e0 petits coups, fait claquer sa langue et se caresse l'estomac avec b\u00e9atitude.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2596",
+      "category": "8",
+      "explanation": "The direction starts with 'Air' followed by the name of a tune.",
+      "stgdir": "Air : De tous les Capucins du monde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2597",
+      "category": "9",
+      "explanation": "The direction describes a scene with narrative quality.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2598",
+      "category": "0",
+      "explanation": "The action of 'ses doigts, qui errent \u00e0 l'aventure, rencontrent les panneaux sup\u00e9rieurs du buffet' is a general character action.",
+      "stgdir": "Ses doigts, qui errent \u00e0 l'aventure, rencontrent les panneaux sup\u00e9rieurs du buffet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2599",
+      "category": "8",
+      "explanation": "The direction starts with 'Air' followed by the name of a tune.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2600",
+      "category": "0",
+      "explanation": "The action of 'semble se mirer dans un ruisseau' is a general character action.",
+      "stgdir": "Elle semble se mirer dans un ruisseau en arrangeant les fleurs dans ses cheveux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2601",
+      "category": "6",
+      "explanation": "The direction 'l'embrassent \u00e9troitement' indicates non-verbal interaction.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2602",
+      "category": "12",
+      "explanation": "The direction 'Voyant Maximin' indicates the addressee of a speech.",
+      "stgdir": "Voyant Maximin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2603",
+      "category": "12",
+      "explanation": "The direction 'Au Sauvage' indicates the addressee of a speech.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2604",
+      "category": "3",
+      "explanation": "The direction '\u00c0 mi-voix' indicates delivery manner.",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "2605",
+      "category": "10",
+      "explanation": "The action of 'lit' involves interaction with an object.",
+      "stgdir": "Il l'\u00f4te et lit :",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2606",
+      "category": "10",
+      "explanation": "The action of 'montre Florange' involves interaction with an object.",
+      "stgdir": "Il montre Florange.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2607",
+      "category": "7",
+      "explanation": "The direction 'saute' describes character movement.",
+      "stgdir": "Il saute.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2608",
+      "category": "10",
+      "explanation": "The action of 'lit un des billets' involves interaction with an object.",
+      "stgdir": "Il lit un des billets que Livie lui a rendus.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2609",
+      "category": "12",
+      "explanation": "The direction 'Aux Esprits' indicates the addressee of a speech.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2610",
+      "category": "5",
+      "explanation": "The direction 'Flore sort' indicates a character exiting the stage.",
+      "stgdir": "Flore sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2611",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Bel-Air' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Bel-Air.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2612",
+      "category": "11",
+      "explanation": "The direction describes a stage setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2613",
+      "category": "12",
+      "explanation": "The direction '\u00c0 Monsieur_le_Duc de la Fenillade' indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monsieur_le_Duc de la Fenillade.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2614",
+      "category": "11",
+      "explanation": "The direction describes a stage setting.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2615",
+      "category": "12",
+      "explanation": "The direction 'Aux autres personnages' indicates the addressee of a speech.",
+      "stgdir": "Aux autres personnages.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2616",
+      "category": "7",
+      "explanation": "The direction 's'\u00e9tend dans un fauteuil' describes character movement.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2617",
+      "category": "7",
+      "explanation": "The direction 'se rapproche d'Adrienne' describes character movement.",
+      "stgdir": "Il se rapproche d'Adrienne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2618",
+      "category": "4",
+      "explanation": "The direction 'Entre un seigneur de la cour' indicates a character entering the stage.",
+      "stgdir": "Entre un seigneur de la cour.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2619",
+      "category": "4",
+      "explanation": "The direction indicates characters entering the stage.",
+      "stgdir": "Orante et N\u00e9rine en habit d'hommes les rencontr\u00e8rent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2620",
+      "category": "9",
+      "explanation": "The direction is a long stage direction with narrative quality.",
+      "stgdir": "HARANGUE DE MASSINISSE",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2621",
+      "category": "9",
+      "explanation": "The direction describes a sequence of character actions with narrative quality.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2622",
+      "category": "12",
+      "explanation": "The direction 'Apercevant leurs \u00e9p\u00e9es nues' indicates the addressee of a speech.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2623",
+      "category": "9",
+      "explanation": "The direction describes a noise event.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2624",
+      "category": "3",
+      "explanation": "The direction 'Avec ravissement' indicates delivery manner.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 63115.72027206421,
+  "model": "mistral-small-latest"
+}

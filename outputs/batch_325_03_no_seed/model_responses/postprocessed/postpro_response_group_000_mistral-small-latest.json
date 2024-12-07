@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "5",
+      "explanation": "The stage direction 'L'avocat sort.' describes a character exiting the stage, fitting category 5: exit.",
+      "stgdir": "L'avocat sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "9",
+      "explanation": "This stage direction narrates a sequence of events and actions, fitting category 9: narration.",
+      "stgdir": "C'est dans cette sc\u00e8ne que les lutins d\u00e9guis\u00e9s font une c\u00e9r\u00e9monie magique pour feindre d'embellir Forestan, et pour se moquer de lui. Deux magiciens paraissent chacun une baguette \u00e0 la main, ils frappent, la Terre en dansant, et font sortir six d\u00e9mons qui se joignent avec eux. Trois sorci\u00e8res sortent aussi de dessous terre, et faisant asseoir Forestan au milieu d'elles, m\u00ealent leur chants aux danses des Magiciens et des D\u00e9mons, pour former une mani\u00e8re d'enchantement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "0",
+      "explanation": "The stage direction 'Sixi\u00e8me Couplet.' indicates a generic action, fitting category 0: action.",
+      "stgdir": "Sixi\u00e8me Couplet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "4",
+      "explanation": "The stage direction 'N\u00e9rine para\u00eet.' describes a character entering the stage, fitting category 4: entrance.",
+      "stgdir": "N\u00e9rine para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "7",
+      "explanation": "The stage direction 'Il passe devant \u00c9velina.' describes a character movement, fitting category 7: movement.",
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "3",
+      "explanation": "The stage direction 'LE CHOEUR r\u00e9p\u00e8te.' describes a delivery manner, fitting category 3: delivery.",
+      "stgdir": "LE CHOEUR r\u00e9p\u00e8te.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Dariolette.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "5",
+      "explanation": "The stage direction 'Ceux \u00e0 qui elle parle se retirent.' describes characters exiting the stage, fitting category 5: exit.",
+      "stgdir": "Ceux \u00e0 qui elle parle se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "8",
+      "explanation": "The stage direction 'DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.' describes music or a tune, fitting category 8: music.",
+      "stgdir": "DIVERTISSEMENT d'artificiers et d'artifici\u00e8res.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "9",
+      "explanation": "The stage direction 'On entend quelqu'un qui vient.' narrates a noise or event, fitting category 9: narration.",
+      "stgdir": "On entend quelqu'un qui vient.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "5",
+      "explanation": "The stage direction 'Le valet, de de chambre sort.' describes a character exiting the stage, fitting category 5: exit.",
+      "stgdir": "Le valet, de de chambre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "4",
+      "explanation": "The stage direction 'Bricard entre.' describes a character entering the stage, fitting category 4: entrance.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "7",
+      "explanation": "The stage direction 'Il va \u00e0 elle.' describes a character movement, fitting category 7: movement.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "8",
+      "explanation": "The stage direction 'Air de la Crois\u00e9e.' describes a tune, fitting category 8: music.",
+      "stgdir": "Air de la Crois\u00e9e.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "2",
+      "explanation": "The stage direction 'Apart\u00e9.' indicates an aside, fitting category 2: aparte.",
+      "stgdir": "Apart\u00e9.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "10",
+      "explanation": "The stage direction 'Jetant les cartes.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Jetant les cartes.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Aux Gardes.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "Aux Gardes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Christierne.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Christierne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "5",
+      "explanation": "The stage direction 'Zerbine sort.' describes a character exiting the stage, fitting category 5: exit.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 L\u00e9andre' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 L\u00e9andre",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "6",
+      "explanation": "The stage direction 'Elle appelle Lubin.' describes a non-verbal interaction, fitting category 6: interaction.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "0",
+      "explanation": "The stage direction 'Lisant.' indicates a generic action, fitting category 0: action.",
+      "stgdir": "Lisant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "5",
+      "explanation": "The stage direction 'Elle sort suivie de son page et de la Comtesse.' describes characters exiting the stage, fitting category 5: exit.",
+      "stgdir": "Elle sort suivie de son page et de la Comtesse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "8",
+      "explanation": "The stage direction 'AIR NOUVEAU : Musique d'Augusrte BLANGY.' describes a tune, fitting category 8: music.",
+      "stgdir": "AIR NOUVEAU : Musique d'Augusrte BLANGY.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "The stage direction 'Il la frappe.' describes a violent action, fitting category 1: aggression.",
+      "stgdir": "Il la frappe",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui donne le rouleau.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Il lui donne le rouleau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "10",
+      "explanation": "The stage direction 'Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Bobielle va jeter dans le vase quelque chose qu'elle porte dans son tablier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "5",
+      "explanation": "The stage direction 'Adonias sort.' describes a character exiting the stage, fitting category 5: exit.",
+      "stgdir": "Adonias sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "11",
+      "explanation": "The stage direction 'La Montagne s'en va.' describes a stage setting or location change, fitting category 11: setting.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "10",
+      "explanation": "The stage direction 'Il l'\u00f4te \u00e0 Liliane.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Il l'\u00f4te \u00e0 Liliane.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "11",
+      "explanation": "The stage direction 'Il fait lever la toile.' describes a stage setting or location change, fitting category 11: setting.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "6",
+      "explanation": "The stage direction 'Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.' describes non-verbal interactions, fitting category 6: interaction.",
+      "stgdir": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "5",
+      "explanation": "The stage direction 'Actor s'en va.' describes a character exiting the stage, fitting category 5: exit.",
+      "stgdir": "Actor s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "10",
+      "explanation": "The stage direction 'Elle d\u00e9chire la lettre.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Elle d\u00e9chire la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "8",
+      "explanation": "The stage direction 'Air nouveau de Couder.' describes a tune, fitting category 8: music.",
+      "stgdir": "Air nouveau de Couder.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Poquelin.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Je veux t'\u00eatre un Chien, etc.' describes a tune, fitting category 8: music.",
+      "stgdir": "Air : Je veux t'\u00eatre un Chien, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "0",
+      "explanation": "The stage direction 'Elle aper\u00e7oit Dorval et change de ton.' indicates a generic action, fitting category 0: action.",
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Lucinde.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Lucinde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "0",
+      "explanation": "The stage direction 'Elle s'arrange la figure devant la glace.' indicates a generic action, fitting category 0: action.",
+      "stgdir": "Elle s'arrange la figure devant la glace.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "0",
+      "explanation": "The stage direction 'Il tend l'oreille anxieusement.' indicates a generic action, fitting category 0: action.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "10",
+      "explanation": "The stage direction 'Il lui donne deux lettres dont il lit l'inscription.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 un tribun.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 un tribun.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "3",
+      "explanation": "The stage direction 'Il rit beaucoup.' describes a delivery manner, fitting category 3: delivery.",
+      "stgdir": "Il rit beaucoup.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "10",
+      "explanation": "The stage direction 'Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Y a coups de pieds, etc.' describes a tune, fitting category 8: music.",
+      "stgdir": "AIR : Y a coups de pieds, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Vaudeville des Visitandines.' describes a tune, fitting category 8: music.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Ariarathe' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Ariarathe",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "12",
+      "explanation": "The stage direction 'Il s'adresse \u00e0 Ragotin.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "Il s'adresse \u00e0 Ragotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "11",
+      "explanation": "The stage direction 'Il est en prison.' describes a stage setting or location, fitting category 11: setting.",
+      "stgdir": "Il est en prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "8",
+      "explanation": "The stage direction 'PREMIER COUPLET.' describes a tune, fitting category 8: music.",
+      "stgdir": "PREMIER COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "8",
+      "explanation": "The stage direction 'AIR : Evohe ! que ces d\u00e9esses... ' describes a tune, fitting category 8: music.",
+      "stgdir": "AIR : Evohe ! que ces d\u00e9esses...",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "6",
+      "explanation": "The stage direction 'Il lui balsa la main.' describes a non-verbal interaction, fitting category 6: interaction.",
+      "stgdir": "Il lui balsa la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Laurent.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "8",
+      "explanation": "The stage direction 'Air 107 : Faites boire \u00e0 triple mesure.' describes a tune, fitting category 8: music.",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "6",
+      "explanation": "The stage direction 'Montrant Jenneval.' describes a non-verbal interaction, fitting category 6: interaction.",
+      "stgdir": "Montrant Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "8",
+      "explanation": "The stage direction 'Air : Dis-moi donc, mon cher Hypolite.' describes a tune, fitting category 8: music.",
+      "stgdir": "Air : Dis-moi donc, mon cher Hypolite.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "0",
+      "explanation": "The stage direction 'Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.' describes generic actions, fitting category 0: action.",
+      "stgdir": "Le mousse montre comment charger un mousquet. Le bosco bouge le canon. Moli\u00e8re trouve un chapeau avec une grande plume et s'en affuble.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Un inconnu.' describes a tune, fitting category 8: music.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "8",
+      "explanation": "The stage direction 'Les violons jouent un branle pendant que Polydas parle et que les convi\u00e9s dansent.' describes music, fitting category 8: music.",
+      "stgdir": "Les violons jouent un branle pendant que Polydas parle et que les convi\u00e9s dansent.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "1",
+      "explanation": "The stage direction 'Don Carlos tire son \u00e9p\u00e9e.' describes a violent action, fitting category 1: aggression.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "0",
+      "explanation": "The stage direction 'Il s'assied dans le fauteuil.' indicates a generic action, fitting category 0: action.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "3",
+      "explanation": "The stage direction 'Val\u00e9rian chante.' describes a delivery manner, fitting category 3: delivery.",
+      "stgdir": "Val\u00e9rian chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "7",
+      "explanation": "The stage direction 'Il fait un mouvement pour se lever.' describes a character movement, fitting category 7: movement.",
+      "stgdir": "Il fait un mouvement pour se lever.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "11",
+      "explanation": "The stage direction 'Le th\u00e9\u00e2tre repr\u00e9sente un bocage dont les arbres sont couverts de frimas et de gla\u00e7ons. On voit dans le lointain plusieurs cabanes de Sauvages dont les toits sont couverts de neige. Parmi ces cabanes, on en remarque une plus spacieuse et moins \u00e9loign\u00e9e que les autres.' describes a stage setting or location, fitting category 11: setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un bocage dont les arbres sont couverts de frimas et de gla\u00e7ons. On voit dans le lointain plusieurs cabanes de Sauvages dont les toits sont couverts de neige. Parmi ces cabanes, on en remarque une plus spacieuse et moins \u00e9loign\u00e9e que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "10",
+      "explanation": "The stage direction 'Elle jette la rose par terre.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Elle jette la rose par terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "10",
+      "explanation": "The stage direction 'Il met les tablettes sur le banc.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Il met les tablettes sur le banc.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "3",
+      "explanation": "The stage direction 'Que Clarimand lit haut.' describes a delivery manner, fitting category 3: delivery.",
+      "stgdir": "Que Clarimand lit haut.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "10",
+      "explanation": "The stage direction 'Faisant sonner la bourse.' describes an object interaction, fitting category 10: object.",
+      "stgdir": "Faisant sonner la bourse.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Casimir.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Casimir.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "8",
+      "explanation": "The stage direction 'AIR. Lulli n'est plus \u00e0 l'Op\u00e9ra.' describes a tune, fitting category 8: music.",
+      "stgdir": "AIR. Lulli n'est plus \u00e0 l'Op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 Monsieur le Bailli.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 Monsieur le Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "11",
+      "explanation": "The stage direction 'La suite de Bacchus danse.' describes a stage setting or location, fitting category 11: setting.",
+      "stgdir": "La suite de Bacchus danse.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "12",
+      "explanation": "The stage direction '\u00c0 F\u00e9licio.' indicates the addressee of a speech, fitting category 12: toward.",
+      "stgdir": "\u00c0 F\u00e9licio.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "0",
+      "explanation": "The stage direction 'Elle regarde du c\u00f4t\u00e9 de la porte.' indicates a generic action, fitting category 0: action.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 63328.37414741516,
+  "model": "mistral-small-latest"
+}

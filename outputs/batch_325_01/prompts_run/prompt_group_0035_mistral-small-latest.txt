@@ -1,0 +1,158 @@
+
+You will find below a numbered list of stage directions in French, within the <<<>>> signs. For each stage direction, classify it into one of the categories provided in the category list below the stage direction list:
+
+<<<
+Stage direction list:
+2625. Près de pleurer.
+2626. On entend un hautbois.
+2627. Air : À l'ombre de ce vert bocage.
+2628. Cordiani paraît.
+2629. À la Vidame.
+2630. À Vasta.
+2631. On commence à chanter des couplets.
+2632. Air : Il faut aimer, c'est la loi de Cythère.
+2633. Il se met l'habit.
+2634. Il lit la lettre bas.
+2635. Il fait le moulinet avec son épée et en fait un massacre.
+2636. On entend dans le lointain des cris et une marche militaire.
+2637. Il demeure quelque temps sans parler.
+2638. Il fait un pas pour sortir.
+2639. * Deux dames, Mademoiselle Kerkabon, Duménil, Mademoisolle Saint-Yves, le Huron, Kerkabon, Madame Plougoulin, Mademoiselle des Guérets, deux dames.
+2640. Regardant Alfred.
+2641. Lucidor arrive.
+2642. À Antoinette.
+2643. Il chante en se promenant :
+2644. Il appuie en lisant.
+2645. Air : Mon Père, je viens devant vous.
+2646. Le théâtre représente la bibliothèque d'Almaviva.
+2647. AIR : On n'entend plus le bruit des armes
+2648. [À Sarcide].
+2649. AIR. Sans le savoir.
+2650. Elle lève ici son masque.
+2651. - Il la regarde.
+2652. Revenant à elle.
+2653. À Madame Mondor.
+2654. Il chante l'air en entier.
+2655. Qui connait le prix des moments, va fermer la porte avec un doigt de verrous, fait un petit saut de caractère ; et sans autre préambule, dit au Vicomte.
+2656. Duo.
+2657. Il prend une autre bouteille sous la table et met celle qui est vide à la place, sans que Boileau s'en aperçoive.
+2658. À ses gardes.
+2659. Narbas et Euryclès s'éloignent un peu.
+2660. Le théâtre représente un salon élégant.
+2661. Sortie par la droite.
+2662. AIR. À sa voisine.
+2663. Ritournelle pour le frémissement des flots.
+2664. LETTRE SUPPOSÉE DE MÉLITE À PHILANDRE.
+2665. Il goûte.
+2666. Il se retire.
+2667. Au Chevalier.
+2668. À Don Fernand.
+2669. À Oronte.
+2670. Montrant Crispin.
+2671. Air : Du vaudeville de Madame Scarron.
+2672. Montrant Trissotin.
+2673. Ils rient.
+2674. Au Crocheteur.
+2675. Alexandre mettant la main sur son épée.
+2676. Air 91 : Ô gué, lon-la, lan-laire.
+2677. Ils sortent tous avec le poignard sanglant à la main après avoir tué César.
+2678. Entrée d'un Gille.
+2679. AIR. Au bout du monde, etc.
+2680. À Zirphée.
+2681. Thésée reprend son épée. Médée continue.
+2682. Avec beaucoup d'ironie.
+2683. À Venise.
+2684. Les Osages portent d'énormes casse-têtes ; leurs cheveux peints en rouge sont entrelacés de plumes jaunes et noires. Des serpents et des peaux de tigres leurs servent de ceintures-carquois, d'écorce d'arbre, arcs et boucliers, avec la figure Dareski.
+2685. On frappe de nouveau.
+2686. Il le baise encore.
+2687. AIR: Les Trembleurs.
+2688. L'examinant encore.
+2689. Il lui ôte ses fers.
+2690. Regardant sa montre.
+2691. Il est sur le pont de son palais.
+2692. Huitième et dernier Couplet.
+2693. Il la donne.
+2694. Adèle paraît.
+2695. Don Juan lui donne un soufflet.
+2696. Les délibérations des Princes, qui s'ensuivirent pour ce sujet, furent interrompues par une querelle qui s'allait vivement allumer entre l'oncle paternel de la Reine et Horuestat ; puissant Prince dans le Royaume, sans la prudence de Leque, qui en assoupit les premiers feux.
+2697. Bertram surgit.
+2698. À Anténor.
+2699. Au troisième Laquais.
+>>>
+
+###
+Category list:
+0. action
+1. aggression
+2. aparte
+3. delivery
+4. entrance
+5. exit
+6. interaction
+7. movement
+8. music
+9. narration
+10. object
+11. setting
+12. toward
+
+To help classification, here is a definition for each category:
+
+- Category 0
+  - Name: action
+  - Definition: General character action. Use it only when other categories do not describe the action. Verbs related to this category are watch, show, paint, pray, jump, read, kneel, fall, knock, write, drink, search, open, eat, sleep, stand, sit, move, listen, ring among others.
+- Category 1
+  - Name: aggression
+  - Definition: Violent action. Related to notions like kill, fight, hit, suicide or threat.
+- Category 2
+  - Name: aparte
+  - Definition: Aside (character addresses audience or is alone).
+- Category 3
+  - Name: delivery
+  - Definition: Delivery manner, e.g. regarding voice or vocal expression of emotion. Also used when the character sings. Can refer to notions like the character showing anger or being furious, being serious, happy, hesitant, showing enthousiasm, emotion, emphasis, being friendly, making a grimace, showing a feeling, or repeating an expression.
+- Category 4
+  - Name: entrance
+  - Definition: Character enters stage.
+- Category 5
+  - Name: exit
+  - Definition: Character exits. Verbs related to this type of stage direction are (in French) "se retirer", "sortir", "s'en aller" and other close verbs.
+- Category 6
+  - Name: interaction
+  - Definition: Non-verbal character interaction. The interaction must be non-verbal, e.g. looking at, pointing at, touching, helping, pulling, pushing among other non-verbal interaction types.
+- Category 7
+  - Name: movement
+  - Definition: Character movement (but not exit/entrance). Sometimes related to getting closer, moving away, walking away, following a character, moving back.
+- Category 8
+  - Name: music
+  - Definition: Tune names (plays with songs). Music description. Not used when the stage direction describes the character singing. Often starts with the word "AIR" or "Air". If it starts with these words, it is most likely a music stage direction and the content following these words is the name of the tune.
+- Category 9
+  - Name: narration
+  - Definition: Long stage direction, with narrative quality, inteded for readers. Generally long stage directions, they can narrate a sequence of character actions. They can also refer to noises or to weather events.
+- Category 10
+  - Name: object
+  - Definition: Describes an object or a character's interaction with an object, including giving or receiving an object or otherwise handling or manipulating the object, among other interactions. The object may be a costume or a dress for instance. Verbs related to this category are throw, tear, get, give, dress, drop, close among others. 
+- Category 11
+  - Name: setting
+  - Definition: Stage description or play location.
+- Category 12
+  - Name: toward
+  - Definition: Indicates the addressee of a speech.
+###
+
+Provide a JSON response. Your response will contain a `result_list` element
+with an entry for each stage direction in the list. Each entry will contain
+the stage direction number, the number for the category that best fits
+the stage direction type, and an explanation for your choice.
+Response format will be as follows:
+
+{"result_list": [
+  {
+    "stgdir_nbr": "stage direction number",
+    "category": "category number",
+    "explanation": "explanation for choice"
+  } ...
+  ]
+}
+
+Note that all stage directions are in French.
+

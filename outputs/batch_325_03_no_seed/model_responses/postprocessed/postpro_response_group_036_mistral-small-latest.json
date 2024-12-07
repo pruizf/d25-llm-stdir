@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "2700",
+      "category": "0",
+      "explanation": "The character recognizes someone, which is a general action.",
+      "stgdir": "Il la d\u00e9sarme, et \u00e0 la clart\u00e9 du jour naissant il la reconna\u00eet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2701",
+      "category": "9",
+      "explanation": "This is a narrative stage direction indicating how many times an action occurs.",
+      "stgdir": "Quatre fois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2702",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2703",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Chanson'.",
+      "stgdir": "Chanson",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2704",
+      "category": "1",
+      "explanation": "The character dies from stab wounds, which is a violent action.",
+      "stgdir": "Il se tue de ceux coups de poignards.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "2705",
+      "category": "0",
+      "explanation": "The character attempts to enter a place, which is a general action.",
+      "stgdir": "Il va pour entrer chez son Colonel.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2706",
+      "category": "6",
+      "explanation": "The character looks at himself, which is a non-verbal interaction.",
+      "stgdir": "En se regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2707",
+      "category": "6",
+      "explanation": "The character points at Br\u00e9court, which is a non-verbal interaction.",
+      "stgdir": "Montrant Br\u00e9court.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2708",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Au gar\u00e7on qui porte le fauteuil.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2709",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Clarine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2710",
+      "category": "11",
+      "explanation": "This describes the setting or play location.",
+      "stgdir": "\u00c0 la Folie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2711",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'AIR'.",
+      "stgdir": "AIR. Not\u00e9 N\u00b04.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2712",
+      "category": "10",
+      "explanation": "The character manipulates a letter, which involves an object.",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2713",
+      "category": "4",
+      "explanation": "One character enters while another exits.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2714",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Air'.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2715",
+      "category": "0",
+      "explanation": "The character looks around and sees blood, which is a general action.",
+      "stgdir": "Il regarde autour de lui, et vois du sang.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2716",
+      "category": "11",
+      "explanation": "This describes the setting or play location.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un salon, plusieurs tableaux sont suspendus \u00e7\u00e0 et l\u00e0. Un portrait de femme, plac\u00e9 sur un chevalet, est plus en vue que les autres. Th\u00e9odore est assis devant une table, sur laquelle il y a du papier, une \u00e9critoire, de la musique, etc. Dubois arrange l'appartement.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2717",
+      "category": "6",
+      "explanation": "The character joins another, which is a non-verbal interaction.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2718",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Refrain'.",
+      "stgdir": "Refrain de l'AIR 72 : Morguienne de vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2719",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Air'.",
+      "stgdir": "Air : Souvenez-vous en.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2720",
+      "category": "10",
+      "explanation": "The character hides a letter, which involves an object.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2721",
+      "category": "4",
+      "explanation": "A character enters the stage.",
+      "stgdir": "Camille rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2722",
+      "category": "11",
+      "explanation": "This describes the change in setting or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2723",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Au Grand Bibi.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2724",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Air'.",
+      "stgdir": "Air De l'Anonyme.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2725",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "D\u00e9mophon, lui montrant la promesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2726",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'AIR'.",
+      "stgdir": "AIR :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2727",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Air'.",
+      "stgdir": "Air : La vieille m\u00e9thode.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2728",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Calotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2729",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Au Ma\u00eetre d'H\u00f4tel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2730",
+      "category": "5",
+      "explanation": "A character exits the stage.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2731",
+      "category": "0",
+      "explanation": "The character continues writing, which is a general action.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2732",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Arsace.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2733",
+      "category": "9",
+      "explanation": "This describes a change in weather, which is a narrative stage direction.",
+      "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2734",
+      "category": "4",
+      "explanation": "A character enters the stage.",
+      "stgdir": "Edgard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2735",
+      "category": "0",
+      "explanation": "The character sits on a rock next to their child, which is a general action.",
+      "stgdir": "Agar s'assied sur un rocher \u00e0 c\u00f4t\u00e9 de son enfant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2736",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Arons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2737",
+      "category": "6",
+      "explanation": "The characters repeat a round, which is a non-verbal interaction.",
+      "stgdir": "Tous reprennent le rondeau.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2738",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Air'.",
+      "stgdir": "Air 18 : Branle de Metz.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2739",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'AIR'.",
+      "stgdir": "AIR : Du pas redoubl\u00e9 de l'Infanterie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2740",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marco.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2741",
+      "category": "4",
+      "explanation": "A character enters the stage.",
+      "stgdir": "\u00c9lise entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2742",
+      "category": "6",
+      "explanation": "The characters embrace each other, which is a non-verbal interaction.",
+      "stgdir": "Ils s'embrassent",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2743",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 B\u00eame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2744",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'AIR'.",
+      "stgdir": "AIR : Je n'en dirai pas davantage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2745",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Regardant Rouqu\u00e9rolle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2746",
+      "category": "0",
+      "explanation": "The character performs a series of actions, which are general actions.",
+      "stgdir": "Pierrot retombe sur ses pieds, fait hum! hum! et feint un air penaud d'\u00e9colier surpris par le pion.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2747",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'AIR'.",
+      "stgdir": "AIR : Tique tique taque lon lan la.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2748",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Pluton et Proserpine ensemble.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2749",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Dorante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2750",
+      "category": "5",
+      "explanation": "A character exits the stage.",
+      "stgdir": "Gallas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "2751",
+      "category": "0",
+      "explanation": "The character takes a ladder and closes a window, which are general actions.",
+      "stgdir": "Il prend une \u00e9chelle d'espalier, la pose contre le volet qu'il referme, et court prendre sa fl\u00fbte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2752",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 La Brie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2753",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2754",
+      "category": "6",
+      "explanation": "The character hits another character, which is a non-verbal interaction.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2755",
+      "category": "9",
+      "explanation": "This describes a character's movement, which is a narrative stage direction.",
+      "stgdir": "Le garde s'\u00e9loigne un moment.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2756",
+      "category": "4",
+      "explanation": "A character enters the stage.",
+      "stgdir": "Salviati entre dans le palais.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2757",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Air'.",
+      "stgdir": "Air : Eh! zon, zon, zon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2758",
+      "category": "9",
+      "explanation": "This describes a repeated action, which is a narrative stage direction.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "2759",
+      "category": "4",
+      "explanation": "A character enters the stage.",
+      "stgdir": "Premi\u00e8re entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2760",
+      "category": "6",
+      "explanation": "The character embraces a doll and puts it in a basket, which are non-verbal interactions.",
+      "stgdir": "Elle embrasse la poup\u00e9e, elle la met dans le panier et elle va rejoindre Berthe et Blanche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2761",
+      "category": "0",
+      "explanation": "The character attempts to read, which is a general action.",
+      "stgdir": "Il veut lire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2762",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Regardant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2763",
+      "category": "0",
+      "explanation": "The character sings and plays an instrument, which are general actions.",
+      "stgdir": "Il fait un petit pr\u00e9lude et chante, sur l'air\u00a0; C'est l'ouvrage d'un moment\u00a0:",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2764",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "2765",
+      "category": "11",
+      "explanation": "This describes the setting or play location.",
+      "stgdir": "Au palais du roi. \u2014 Une salle. \u2014 Une galerie au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "2766",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'AIR'.",
+      "stgdir": "AIR de la Somnambule.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2767",
+      "category": "6",
+      "explanation": "The character gets closer to another, which is a non-verbal interaction.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "2768",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'AIR'.",
+      "stgdir": "AIR : Sans dessus desssous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2769",
+      "category": "8",
+      "explanation": "This refers to a tune, starting with 'Air'.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "2770",
+      "category": "7",
+      "explanation": "The character moves toward another character, which is a general movement.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2771",
+      "category": "4",
+      "explanation": "A character exits the stage.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "2772",
+      "category": "0",
+      "explanation": "The character observes another character, which is a general action.",
+      "stgdir": "Observant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2773",
+      "category": "10",
+      "explanation": "The character repeints, which involves handling an object.",
+      "stgdir": "Elle repeint.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "2774",
+      "category": "12",
+      "explanation": "This indicates the addressee of a speech.",
+      "stgdir": "Elle le regarde toujours.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 51922.89733886719,
+  "model": "mistral-small-latest"
+}

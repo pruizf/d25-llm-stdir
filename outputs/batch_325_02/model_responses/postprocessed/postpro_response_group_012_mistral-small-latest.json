@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 900,
+      "category": 11,
+      "explanation": "La description de la sc\u00e8ne et du d\u00e9cor correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 901,
+      "category": 0,
+      "explanation": "Il ob\u00e9it est une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "Il ob\u00e9it.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 902,
+      "category": 3,
+      "explanation": "En sanglotant, et en pleurant d\u00e9crit la mani\u00e8re dont le personnage parle ou pleure.",
+      "stgdir": "En sanglotant, et en pleurant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 903,
+      "category": 8,
+      "explanation": "AIR. Nous sommes Pr\u00e9cepteurs d'Amour indique une chanson sp\u00e9cifique.",
+      "stgdir": "AIR. Nous sommes Pr\u00e9cepteurs d'Amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 904,
+      "category": 0,
+      "explanation": "Il va les chercher est une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "Il va les chercher.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 905,
+      "category": 11,
+      "explanation": "La description du th\u00e9\u00e2tre et des costumes correspond \u00e0 la cat\u00e9gorie 'setting'.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 906,
+      "category": 8,
+      "explanation": "Air op\u00e9ra indique une chanson sp\u00e9cifique.",
+      "stgdir": "Air op\u00e9ra.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 907,
+      "category": 3,
+      "explanation": "Monsieur Jourdain chante d\u00e9crit la mani\u00e8re dont le personnage parle ou chante.",
+      "stgdir": "Monsieur Jourdain chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 908,
+      "category": 12,
+      "explanation": "\u00c0 Menos indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Menos.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 909,
+      "category": 10,
+      "explanation": "Il ouvre le portefeuille, il examine ce qu'il contient d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il ouvre le portefeuille, il examine ce qu'il contient, et dit :",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 910,
+      "category": 0,
+      "explanation": "Au turc et au Mogol est une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 911,
+      "category": 3,
+      "explanation": "H\u00e9sitant d\u00e9crit la mani\u00e8re dont le personnage parle.",
+      "stgdir": "H\u00e9sitant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 912,
+      "category": 12,
+      "explanation": "Aux peintres qui sont rest\u00e9s et qui l'attendent indique le destinataire de la parole.",
+      "stgdir": "Aux peintres qui sont rest\u00e9s et qui l'attendent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 913,
+      "category": 1,
+      "explanation": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent d\u00e9crit une action violente.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 914,
+      "category": 11,
+      "explanation": "La sc\u00e8ne repr\u00e9sente un caf\u00e9 et des chambres sur les ailes, de fa\u00e7on qu'un peut entrer de plain-pied des appartements dans le caf\u00e9 d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente un caf\u00e9 et des chambres sur les ailes, de fa\u00e7on qu'un peut entrer de plain-pied des appartements dans le caf\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 915,
+      "category": 10,
+      "explanation": "Il met la perruque d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il met la perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 916,
+      "category": 12,
+      "explanation": "\u00c0 Drusus indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Drusus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 917,
+      "category": 11,
+      "explanation": "Cette sc\u00e8ne est dans une salle pr\u00e9par\u00e9e pour un bal, o\u00f9 il y a compagnie, et des violons d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "Cette sc\u00e8ne est dans une salle pr\u00e9par\u00e9e pour un bal, o\u00f9 il y a compagnie, et des violons.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 918,
+      "category": 12,
+      "explanation": "\u00c0 Lafrappe indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Lafrappe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 919,
+      "category": 8,
+      "explanation": "Air : Si le Roi m'avait donn\u00e9 indique une chanson sp\u00e9cifique.",
+      "stgdir": "Air : Si le Roi m'avait donn\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 920,
+      "category": 4,
+      "explanation": "Flore et Blanche rentrent d\u00e9crit un personnage qui entre en sc\u00e8ne.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 921,
+      "category": 12,
+      "explanation": "\u00c0 Ibrahim indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 922,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais des Rois d'Argos.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 923,
+      "category": 8,
+      "explanation": "AIR. Votre beaut\u00e9 soumet tout l'univers indique une chanson sp\u00e9cifique.",
+      "stgdir": "AIR. Votre beaut\u00e9 soumet tout l'univers.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 924,
+      "category": 12,
+      "explanation": "Aux deux Com\u00e9dies indique le destinataire de la parole.",
+      "stgdir": "Aux deux Com\u00e9dies.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 925,
+      "category": 12,
+      "explanation": "\u00c0 Constantin indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Constantin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 926,
+      "category": 5,
+      "explanation": "Elle sort par la porte de la chambre nuptiale d\u00e9crit un personnage qui sort de sc\u00e8ne.",
+      "stgdir": "Elle sort par la porte de la chambre nuptiale.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 927,
+      "category": 12,
+      "explanation": "Aux Muses indique le destinataire de la parole.",
+      "stgdir": "Aux Muses.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 928,
+      "category": 12,
+      "explanation": "Aux Gens du Bailli indique le destinataire de la parole.",
+      "stgdir": "Aux Gens du Bailli.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 929,
+      "category": 4,
+      "explanation": "Dorante entre d\u00e9crit un personnage qui entre en sc\u00e8ne.",
+      "stgdir": "Dorante entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 930,
+      "category": 12,
+      "explanation": "\u00c0 Plisth\u00e8ne indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 931,
+      "category": 0,
+      "explanation": "Il passe est une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "Il passe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 932,
+      "category": 5,
+      "explanation": "Brigitte sort d\u00e9crit un personnage qui sort de sc\u00e8ne.",
+      "stgdir": "Brigitte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 933,
+      "category": 4,
+      "explanation": "Entr\u00e9e d\u00e9crit un personnage qui entre en sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 934,
+      "category": 1,
+      "explanation": "Le soldat le frappe de sa pique d\u00e9crit une action violente.",
+      "stgdir": "Le soldat le frappe de sa pique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 935,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente les jardins du Palais d'Hercule sur le bord de la mer d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente les jardins du Palais d'Hercule sur le bord de la mer.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 936,
+      "category": 10,
+      "explanation": "Il tire un petit volume de son habit d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il tire un petit volume de son habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 937,
+      "category": 0,
+      "explanation": "IV d\u00e9crit une action g\u00e9n\u00e9rale.",
+      "stgdir": "IV.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 938,
+      "category": 11,
+      "explanation": "La sc\u00e8ne est chez l'Abb\u00e9 d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "La sc\u00e8ne est chez l'Abb\u00e9.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 939,
+      "category": 0,
+      "explanation": "Sans se mettre \u00e0 genoux d\u00e9crit une action g\u00e9n\u00e9rale.",
+      "stgdir": "Sans se mettre \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 940,
+      "category": 12,
+      "explanation": "\u00c0 Medwin indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Medwin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 941,
+      "category": 12,
+      "explanation": "\u00c0 son cheval indique le destinataire de la parole.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 942,
+      "category": 11,
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente Le cabinet de G\u00e9ralde ; sur La gauche est une table, couverte de papiers en d\u00e9sordre ; sur sa droite, un clavecin ; une biblioth\u00e8que, dans Le fond d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente Le cabinet de G\u00e9ralde ; sur La gauche est une table, couverte de papiers en d\u00e9sordre ; sur sa droite, un clavecin ; une biblioth\u00e8que, dans Le fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 943,
+      "category": 12,
+      "explanation": "\u00c0 Dangeste indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Dangeste.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 944,
+      "category": 3,
+      "explanation": "\u00c0 voix haute d\u00e9crit la mani\u00e8re dont le personnage parle.",
+      "stgdir": "\u00c0 voix haute.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 945,
+      "category": 9,
+      "explanation": "Le coucou chante d\u00e9crit un son ou un bruit.",
+      "stgdir": "Le coucou chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 946,
+      "category": 10,
+      "explanation": "Arlequin avec l'allumette d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 947,
+      "category": 12,
+      "explanation": "\u00c0 Delphine indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Delphine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 948,
+      "category": 10,
+      "explanation": "Il prend Albert d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 949,
+      "category": 3,
+      "explanation": "Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours d\u00e9crit la mani\u00e8re dont le personnage parle.",
+      "stgdir": "Il cherche en vain \u00e0 renouer le fil bris\u00e9 de son discours.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 950,
+      "category": 4,
+      "explanation": "Orphise et Lise entrent d\u00e9crit des personnages qui entrent en sc\u00e8ne.",
+      "stgdir": "Orphise et Lise entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 951,
+      "category": 12,
+      "explanation": "Haut \u00e0 Fanchette indique le destinataire de la parole.",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 952,
+      "category": 8,
+      "explanation": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb indique une chanson sp\u00e9cifique.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 953,
+      "category": 6,
+      "explanation": "Elles enl\u00e8vent Constance d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 954,
+      "category": 8,
+      "explanation": "AIR : Va t'en voir s'ils viennent Jean indique une chanson sp\u00e9cifique.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 955,
+      "category": 6,
+      "explanation": "Elle frappe sur les oreilles de l'\u00e2ne qui rue d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Elle frappe sur les oreilles de l'\u00e2ne qui rue.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 956,
+      "category": 12,
+      "explanation": "\u00c0 l'intendant indique le destinataire de la parole.",
+      "stgdir": "\u00c0 l'intendant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 957,
+      "category": 6,
+      "explanation": "En regardant les enfants d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "En regardant les enfants.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 958,
+      "category": 10,
+      "explanation": "Elle ouvre un tiroir d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Elle ouvre un tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 959,
+      "category": 8,
+      "explanation": "AIR. Je voudrais bien me marier indique une chanson sp\u00e9cifique.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 960,
+      "category": 11,
+      "explanation": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 961,
+      "category": 9,
+      "explanation": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre d\u00e9crit un son ou un bruit.",
+      "stgdir": "On entend tousser derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 962,
+      "category": 11,
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte d\u00e9crit le d\u00e9cor et la mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 963,
+      "category": 5,
+      "explanation": "Don Quichotte se retire d\u00e9crit un personnage qui sort de sc\u00e8ne.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 964,
+      "category": 6,
+      "explanation": "Il embrasse Ducr\u00f4ne et Jenneval d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 965,
+      "category": 12,
+      "explanation": "SC\u00c8NES FRAN\u00c7AISES indique le destinataire de la parole.",
+      "stgdir": "SC\u00c8NES FRAN\u00c7AISES.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 966,
+      "category": 5,
+      "explanation": "Elle s'\u00e9loigne avec Perillo d\u00e9crit un personnage qui sort de sc\u00e8ne.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 967,
+      "category": 5,
+      "explanation": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin d\u00e9crit des personnages qui sortent de sc\u00e8ne.",
+      "stgdir": "La troupe d\u00e9file et se retire ayant \u00e0 sa t\u00eate Victor et Valentin.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 968,
+      "category": 5,
+      "explanation": "Ils s'en vont d\u00e9crit des personnages qui sortent de sc\u00e8ne.",
+      "stgdir": "Ils s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 969,
+      "category": 0,
+      "explanation": "Se relevant est une action g\u00e9n\u00e9rale du personnage.",
+      "stgdir": "Se relevant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 970,
+      "category": 12,
+      "explanation": "\u00c0 Ergazile indique le destinataire de la parole.",
+      "stgdir": "\u00c0 Ergazile.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 971,
+      "category": 10,
+      "explanation": "Prenant le pli d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Prenant le pli.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 972,
+      "category": 8,
+      "explanation": "Air : Des Pierrots indique une chanson sp\u00e9cifique.",
+      "stgdir": "Air : Des Pierrots.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 973,
+      "category": 8,
+      "explanation": "Air : Not\u00e9 \u00e0 la fin indique une chanson sp\u00e9cifique.",
+      "stgdir": "Air : Not\u00e9 \u00e0 la fin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 974,
+      "category": 7,
+      "explanation": "Il se tire \u00e0 l'\u00e9cart d\u00e9crit un mouvement du personnage.",
+      "stgdir": "Il se tire \u00e0 l'\u00e9cart.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 65115.99683761597,
+  "model": "mistral-small-latest"
+}

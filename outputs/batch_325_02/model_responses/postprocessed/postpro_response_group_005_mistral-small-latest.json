@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 375,
+      "category": 4,
+      "explanation": "Dergos entre en sc\u00e8ne.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 376,
+      "category": 12,
+      "explanation": "L'artisan est l'addressee de la parole.",
+      "stgdir": "\u00c0 l'artisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 377,
+      "category": 3,
+      "explanation": "Le personnage chante ou utilise une intonation particuli\u00e8re.",
+      "stgdir": "Air : Je ne veux point troubler votre ignorance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 378,
+      "category": 1,
+      "explanation": "Le personnage essaie de frapper quelqu'un ou pense le faire.",
+      "stgdir": "Il le frappe ou croit le frapper, et attrape le mur, qui lui fait tomber son b\u00e2ton de la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 379,
+      "category": 6,
+      "explanation": "H\u00e9b\u00e9 et les nymphes accueillent Io.",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 380,
+      "category": 12,
+      "explanation": "L'huissier est montr\u00e9.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 381,
+      "category": 10,
+      "explanation": "Le personnage sort son portefeuille.",
+      "stgdir": "Il tire son portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 382,
+      "category": 8,
+      "explanation": "Nom d'une chanson : VOEU DE SOPHONISBE \u00c0 L'AMOUR.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 383,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 son \u00e9poux.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 384,
+      "category": 7,
+      "explanation": "Le personnage qui \u00e9tait deuxi\u00e8me arrive en premier.",
+      "stgdir": "Celui qui \u00e9tait deuxi\u00e8me arrive le premier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 385,
+      "category": 9,
+      "explanation": "On entend le sifflet du tube acoustique.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 386,
+      "category": 0,
+      "explanation": "Le personnage observe le th\u00e9\u00e2tre sans regarder les acteurs.",
+      "stgdir": "Elle a l'air d'observer le Th\u00e9\u00e2tre, sans regarder les Acteurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 387,
+      "category": 10,
+      "explanation": "La reine prend le paquet de la suivante.",
+      "stgdir": "La Reine prenant le paquet de la suivante.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 388,
+      "category": 9,
+      "explanation": "Claudine et Lucas sont dans le fond du th\u00e9\u00e2tre.",
+      "stgdir": "Claudine et Lucas sont dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 389,
+      "category": 12,
+      "explanation": "La marchande de chansons est montr\u00e9e.",
+      "stgdir": "Montrant la Marchande de Chansons.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 390,
+      "category": 0,
+      "explanation": "Le personnage a l'air d'\u00e9couter.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 391,
+      "category": 8,
+      "explanation": "Nom d'une chanson : La Boulang\u00e8re a des \u00e9cus.",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 392,
+      "category": 0,
+      "explanation": "Le personnage aper\u00e7oit Flamand.",
+      "stgdir": "Apercevant Flamand.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 393,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Quand la mer rouge apparut.",
+      "stgdir": "Air : Quand la mer rouge apparut.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 394,
+      "category": 5,
+      "explanation": "Marthe sort.",
+      "stgdir": "Marthe sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 395,
+      "category": 9,
+      "explanation": "On entend Sosie qui chante.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 396,
+      "category": 9,
+      "explanation": "On entend un bruit comme de la vaisselle renvers\u00e9e.",
+      "stgdir": "Ici l'on entend un bruit comme de la vaisselle renvers\u00e9e.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 397,
+      "category": 10,
+      "explanation": "Le personnage prend une couronne dans le panier d'Antoine.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 398,
+      "category": 7,
+      "explanation": "Le personnage va vers elle.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 399,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 l'Inspecteur des B\u00e2timents.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 400,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 Perdiccas.",
+      "stgdir": "\u00c0 Perdiccas.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 401,
+      "category": 0,
+      "explanation": "Le personnage voit Sophie.",
+      "stgdir": "Il voit Sophie.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 402,
+      "category": 12,
+      "explanation": "Le personnage r\u00e9pond.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 403,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Sur le Pont d'Avignon.",
+      "stgdir": "Sur l'Air : Quand on a bu, la t\u00eate tourne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 404,
+      "category": 10,
+      "explanation": "Le personnage pr\u00e9sente le peignoir au feu.",
+      "stgdir": "Elle pr\u00e9sente le peignoir au feu.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 405,
+      "category": 4,
+      "explanation": "Le personnage entre aussi chez Hipolite.",
+      "stgdir": "Il entre aussi chez Hipolite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 406,
+      "category": 11,
+      "explanation": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal.",
+      "stgdir": "La sc\u00e8ne est dans la salle de com\u00e9die du Palais-Royal.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 407,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Tes beaux jeux, ma Nicole.",
+      "stgdir": "Air : Sur le Pont d'Avignon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 408,
+      "category": 6,
+      "explanation": "Le personnage embrasse encore l'autre.",
+      "stgdir": "Elle l'embrasse encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 409,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 Achior.",
+      "stgdir": "\u00c0 Achior.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 410,
+      "category": 6,
+      "explanation": "Le personnage fait quelque chose comme elle disait.",
+      "stgdir": "Elle le fait comme elle de dis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 411,
+      "category": 5,
+      "explanation": "Laurent et Grivet sortent par la porte du fond.",
+      "stgdir": "Laurent et Grivet sortent par la porte du fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 412,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Voulez-vous savoir l'histoire, etc.",
+      "stgdir": "Air : Voulez-vous savoir l'histoire, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 413,
+      "category": 9,
+      "explanation": "On entend un bruit de hautbois.",
+      "stgdir": "On entend un bruit de hautbois.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 414,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Air nouveau du C. DELAPORTE.",
+      "stgdir": "Air nouveau du C. DELAPORTE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 415,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 Finot.",
+      "stgdir": "\u00c0 Finot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 416,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Menuet des F\u00eates Grecques et Rom.",
+      "stgdir": "Air 171. Menuet des F\u00eates Grecques et Rom.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 417,
+      "category": 0,
+      "explanation": "Le personnage aper\u00e7oit Cassandre.",
+      "stgdir": "Apercevant Cassandre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 418,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 Placide.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 419,
+      "category": 9,
+      "explanation": "Le personnage sonne du cor.",
+      "stgdir": "Il sonne du cor.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 420,
+      "category": 9,
+      "explanation": "On entend un pr\u00e9lude qui annonce l'arriv\u00e9e d'Apollon.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 421,
+      "category": 4,
+      "explanation": "Antoinette para\u00eet au fond.",
+      "stgdir": "Antoinette para\u00eet au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 422,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Tes beaux jeux, ma Nicole.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 423,
+      "category": 5,
+      "explanation": "Ils sortent en causant.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 424,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Un jour que j'avais mal dans\u00e9.",
+      "stgdir": "Air : Un jour que j'avais mal dans\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 425,
+      "category": 0,
+      "explanation": "Le personnage entend sa ma\u00eetresse.",
+      "stgdir": "Il entend sa ma\u00eetresse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 426,
+      "category": 4,
+      "explanation": "Lucile revient.",
+      "stgdir": "Lucile revient.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 427,
+      "category": 7,
+      "explanation": "Le personnage sautille sous les fen\u00eatres, avec sa viole \u00e0 la main.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 428,
+      "category": 10,
+      "explanation": "Le personnage montre le billet \u00e0 quelqu'un.",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 429,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 Eum\u00e9e.",
+      "stgdir": "\u00c0 Eum\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 430,
+      "category": 11,
+      "explanation": "L'action se passe dans le bois.",
+      "stgdir": "dans le bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 431,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Quand on tient de ce jus d'octobre.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 432,
+      "category": 0,
+      "explanation": "Le personnage examine quelqu'un des pieds \u00e0 la t\u00eate.",
+      "stgdir": "Il l'examine des pieds \u00e0 la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 433,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Alarmez vous.",
+      "stgdir": "Air : Alarmez vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 434,
+      "category": 0,
+      "explanation": "Pendant les couplets suivants, le personnage arrange des fruits et des fleurs dans un panier.",
+      "stgdir": "Pendant les couplets suivants, il arrange des fruits et des fleurs dans un panier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 435,
+      "category": 6,
+      "explanation": "Orph\u00e9e passe sans regarder Eurydice.",
+      "stgdir": "Orph\u00e9e passe sans regarder Eurydice.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 436,
+      "category": 0,
+      "explanation": "Le personnage aper\u00e7oit Hircan, qui suit l'usage de la campagne en se promenant avec une canne \u00e0 la main, et lit en se promenant.",
+      "stgdir": "Il aper\u00e7oit Hircan, qui suivant l'usage de la campagne se promenait avec une canne \u00e0 la main, et lisait en se promenant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 437,
+      "category": 8,
+      "explanation": "Nom d'une chanson : De la marche du Malade imaginaire.",
+      "stgdir": "AIR : De la marche du Malade imaginaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 438,
+      "category": 6,
+      "explanation": "Le personnage baise la bouche de quelqu'un.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 439,
+      "category": 7,
+      "explanation": "Le personnage et Maurice se l\u00e8vent.",
+      "stgdir": "Il se l\u00e8ve, ainsi que Maurice.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 440,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Du partage de la richesse.",
+      "stgdir": "Air : Du partage de la richesse.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 441,
+      "category": 6,
+      "explanation": "Le personnage retient encore quelqu'un par le bras, et perdant tout respect.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 442,
+      "category": 10,
+      "explanation": "Le personnage tire du papier mou de son pot.",
+      "stgdir": "Il tire du papier mou de son pot.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 443,
+      "category": 12,
+      "explanation": "Le personnage parle \u00e0 Madame Grognac.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 444,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Menuet d'Exaudet.",
+      "stgdir": "Air : Menuet d'Exaudet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 445,
+      "category": 5,
+      "explanation": "C\u00e9sario sort.",
+      "stgdir": "C\u00e9sario sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 446,
+      "category": 11,
+      "explanation": "Une fontaine dans un bois.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 447,
+      "category": 10,
+      "explanation": "Le personnage soul\u00e8ve l'autre vase et prend le billet.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 448,
+      "category": 5,
+      "explanation": "N\u00e9restan sort.",
+      "stgdir": "N\u00e9restan sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 449,
+      "category": 8,
+      "explanation": "Nom d'une chanson : Le Cabaret est mon r\u00e9duit.",
+      "stgdir": "AIR ( Le Cabaret est mon r\u00e9duit. )",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 71237.46919631958,
+  "model": "mistral-small-latest"
+}

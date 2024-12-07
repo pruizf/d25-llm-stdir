@@ -95,40 +95,41 @@ Note that, in all batches from 005 onwards, all prompts in English mention expli
 
 We also tested prompts where, instead of asking to classify a single stage direction, the model is asked to classify a list of stage directions. The table below summarizes such results.
 
-| id   | prompt language | stdir per prompt | example use |          data split           |        model         | macro F1 | weighted F1 |  acc  |   secs   |
-|------|:---------------:|:----------------:|:-----------:|:-----------------------------:|:--------------------:|:--------:|:-----------:|:-----:|:--------:|
-| 303  |       en        |        10        |  zero-shot  |               1               |     gpt-4o-mini      |   0.60   |    0.66     | 0.64  |          |
-| 304  |       en        |        10        |  zero-shot  |               1               |        gpt-4o        |   0.70   |    0.739    | 0.733 |          |
-| 304  |       en        |        10        |  zero-shot  |               1               |        gpt-4o        |   0.70   |    0.739    | 0.733 |          |
-| 305  |       en        |        10        |  zero-shot  |        0.3 stratified         |    mistral-large     |  0.648   |    0.703    | 0.706 |          |
-| 306  |       en        |        10        |  zero-shot  |               1               |    mistral-large     |   0.69   |    0.726    | 0.726 | 5812.24  |
-| 307  |       en        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.696   |    0.745    | 0.735 | 2510.22  |
-| 308  |       fr        |        75        |  zero-shot  |               1               |    mistral-large     |  0.708   |    0.74     | 0.736 | 5244.82  |
-| 309  |       fr        |       100        |  zero-shot  |               1               |    mistral-large     |    ip    |     ip      |  ip   |    ip    |
-| 310  |       fr        |       100        |  zero-shot  |               1               |    mistral-small     |    ip    |     ip      |  ip   |    ip    |
-| 311  |       fr        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.734   |    0.797    | 0.796 |    ip    |
-| 312  |       en        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.717   |    0.761    | 0.759 |    ip    |
-| 313  |       en        |        75        |  few-shot   |       0.3<br>stratified       |        gpt-4o        |  0.765   |    0.826    | 0.818 |  973.99  |
-| 314  |       fr        |        75        |  few-shot   |       0.3<br>stratified       |        gpt-4o        |  0.744   |    0.802    | 0.791 |  747.69  |
-| 315  |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.473   |    0.569    | 0.551 |  705.2   |
-| 316  |       fr        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.525   |    0.608    | 0.597 |    ip    |
-| 317  |       en        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.676    | 0.676 |    ip    |
-| 318  |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.472   |    0.548    | 0.555 |    ip    |
-| 319  |       fr        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.675    | 0.665 |  965.42  |
-| 320  |       en        |        75        |  zero-shot  |               1               |    mistral-large     |  0.683   |    0.714    | 0.713 | 1278.86  |
-| 321  |       fr        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.691   |    0.742    | 0.732 | 1522.73  |
-| 322  |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.616   |    0.692    | 0.686 | 1221.21  |
-| 323  |       en        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.705   |    0.764    | 0.753 |    ip    |
-| 324  |       fr        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.724   |    0.76     | 0.753 |  380.65  |
-| 325  |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.509   |    0.586    | 0.582 |    ip    |
-| 326  |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |  0.621   |    0.666    | 0.657 |  374.07  |
-| 327  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |   0.65   |    0.707    | 0.700 |  312.11  |
-| 328  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.729   |    0.788    | 0.78  |  312.11  |
-| 329  |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.726   |    0.788    | 0.781 |          |
-| 330  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-small     |  0.526   |    0.606    | 0.602 |          |
-| 331  |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled | mistral-small-latest |  0.592   |    0.66     | 0.652 | ip |
-| 332  |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.728    | 0.727 | ip |
-| 333 |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.744    | 0.741 | ip |
+| id     | prompt language | stdir per prompt | example use |          data split           |        model         | macro F1 | weighted F1 |  acc  |  secs   |
+|--------|:---------------:|:----------------:|:-----------:|:-----------------------------:|:--------------------:|:--------:|:-----------:|:-----:|:-------:|
+| 303    |       en        |        10        |  zero-shot  |               1               |     gpt-4o-mini      |   0.60   |    0.66     | 0.64  |         |
+| 304    |       en        |        10        |  zero-shot  |               1               |        gpt-4o        |   0.70   |    0.739    | 0.733 |         |
+| 304    |       en        |        10        |  zero-shot  |               1               |        gpt-4o        |   0.70   |    0.739    | 0.733 |         |
+| 305    |       en        |        10        |  zero-shot  |        0.3 stratified         |    mistral-large     |  0.648   |    0.703    | 0.706 |         |
+| 306    |       en        |        10        |  zero-shot  |               1               |    mistral-large     |   0.69   |    0.726    | 0.726 | 5812.24 |
+| 307    |       en        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.696   |    0.745    | 0.735 | 2510.22 |
+| 308    |       fr        |        75        |  zero-shot  |               1               |    mistral-large     |  0.708   |    0.74     | 0.736 | 5244.82 |
+| 309    |       fr        |       100        |  zero-shot  |               1               |    mistral-large     |    ip    |     ip      |  ip   |   ip    |
+| 310    |       fr        |       100        |  zero-shot  |               1               |    mistral-small     |    ip    |     ip      |  ip   |   ip    |
+| 311    |       fr        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.734   |    0.797    | 0.796 |   ip    |
+| 312    |       en        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.717   |    0.761    | 0.759 |   ip    |
+| 313    |       en        |        75        |  few-shot   |       0.3<br>stratified       |        gpt-4o        |  0.765   |    0.826    | 0.818 | 973.99  |
+| 314    |       fr        |        75        |  few-shot   |       0.3<br>stratified       |        gpt-4o        |  0.744   |    0.802    | 0.791 | 747.69  |
+| 315    |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.473   |    0.569    | 0.551 |  705.2  |
+| 316    |       fr        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.525   |    0.608    | 0.597 |   ip    |
+| 317    |       en        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.676    | 0.676 |   ip    |
+| 318    |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.472   |    0.548    | 0.555 |   ip    |
+| 319    |       fr        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.675    | 0.665 | 965.42  |
+| 320    |       en        |        75        |  zero-shot  |               1               |    mistral-large     |  0.683   |    0.714    | 0.713 | 1278.86 |
+| 321    |       fr        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.691   |    0.742    | 0.732 | 1522.73 |
+| 322    |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.616   |    0.692    | 0.686 | 1221.21 |
+| 323    |       en        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.705   |    0.764    | 0.753 |   ip    |
+| 324    |       fr        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.724   |    0.76     | 0.753 | 380.65  |
+| 325    |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.509   |    0.586    | 0.582 |   ip    |
+| 325_01 |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |   0.55   |    0.626    | 0.621 | 2263.2  |
+| 326    |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |  0.621   |    0.666    | 0.657 | 374.07  |
+| 327    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |   0.65   |    0.707    | 0.700 | 312.11  |
+| 328    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.729   |    0.788    | 0.78  | 312.11  |
+| 329    |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.726   |    0.788    | 0.781 |         |
+| 330    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-small     |  0.526   |    0.606    | 0.602 |         |
+| 331    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled | mistral-small-latest |  0.592   |    0.66     | 0.652 |   ip    |
+| 332    |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.728    | 0.727 |   ip    |
+| 333    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.744    | 0.741 |   ip    |
 
 305 once bad batch (res does not match ref), but fixed
 
@@ -151,3 +152,5 @@ Note that Mistral client sleeps for one second after each call.
 318 bad, 155 random
 
 325 v bad, > 400 random categs
+
+325_01 v bad > 225 random categs
