@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical sp\u00e9cifi\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "0",
+      "explanation": "C'est une action simple o\u00f9 un personnage va vers un autre, sans indication d'interaction verbale.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "0",
+      "explanation": "L'action de lever les Gardes de la Chambre est une action g\u00e9n\u00e9rale qui ne rentre pas dans les autres cat\u00e9gories.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "5",
+      "explanation": "Frontin sort, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "8",
+      "explanation": "C'est un air musical sp\u00e9cifi\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Un Pr\u00e9fet beau, bien fait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "3",
+      "explanation": "Le fait qu'il 'pr\u00e9lude encore' indique un geste musical, ce qui est li\u00e9 \u00e0 la livraison de musique.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction o\u00f9 deux personnages se pr\u00e9sentant des mains, indiquant une interaction non verbale.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "6",
+      "explanation": "Le personnage regarde, ce qui est une interaction non verbale avec son environnement.",
+      "stgdir": "Regardant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "12",
+      "explanation": "Indiquant la direction, cela pr\u00e9cise l'interlocuteur d'une r\u00e9plique, correspondant parfaitement \u00e0 la cat\u00e9gorie.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "5",
+      "explanation": "Monsieur Mathieu sort, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "1",
+      "explanation": "Il s'agit d'une situation de menace, o\u00f9 les personnages aper\u00e7oivent leurs \u00e9p\u00e9es nues.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "5",
+      "explanation": "Ici, il s'agit de plusieurs personnages qui sortent avec des valets et des flambeaux, ce qui correspond \u00e0 une sortie.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "8",
+      "explanation": "C'est un air musical sp\u00e9cifi\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR 6. ( Vous avez bien de la bont\u00e9. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "8",
+      "explanation": "Il s'agit d'autres couplets sur un air, ce qui est li\u00e9 \u00e0 la musique.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "6",
+      "explanation": "Regarder dans un certain sens peut \u00eatre consid\u00e9r\u00e9 comme une interaction non verbale.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical sp\u00e9cifi\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "9",
+      "explanation": "C'est une description de bruit qui s'inscrit dans une narration plus large.",
+      "stgdir": "Clameurs \u00e9loign\u00e9es.)",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "8",
+      "explanation": "C'est un air musical sp\u00e9cifi\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "5",
+      "explanation": "Don Alfonce sort, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "10",
+      "explanation": "C'est une action o\u00f9 un personnage manipule un objet, en l'occurrence une lettre.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "5",
+      "explanation": "Phoenix sort, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "10",
+      "explanation": "Il s'agit de l'interaction avec une lettre, ce qui la classe dans la cat\u00e9gorie des objets.",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "6",
+      "explanation": "Il y a interaction physique entre Dorante et un autre personnage, se jetant \u00e0 ses pieds.",
+      "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "3",
+      "explanation": "Indiquant une action non verbale de frapper, ce qui peut \u00eatre li\u00e9 \u00e0 la livraison d'une r\u00e9plique.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "Il s'agit d'une action violente, c'est un acte de battre et correspond \u00e0 la cat\u00e9gorie d'agression.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical sp\u00e9cifi\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "6",
+      "explanation": "Montrer quelque chose implique une interaction non verbale avec un personnage.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "12",
+      "explanation": "Indiquant que l'action se dirige vers un groupe d'esprits, cela correspond \u00e0 la cat\u00e9gorie.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "7",
+      "explanation": "S'avancer vers une porte implique un mouvement sans entrer ou sortir.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "6",
+      "explanation": "Montrant quelqu'un est aussi une interaction non verbale.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "6",
+      "explanation": "Montrer les anciens S\u00e9nateurs indique une interaction non verbale.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "6",
+      "explanation": "Montrant un diamant est une forme d'interaction non verbale.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "5",
+      "explanation": "Moli\u00e8re sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "9",
+      "explanation": "Il s'agit d'une instruction relative \u00e0 la sc\u00e8ne pr\u00e9c\u00e9dente, qui donne des informations g\u00e9n\u00e9rales au spectateur.",
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "2",
+      "explanation": "C'est une indication d'apart\u00e9 qui indique que le personnage parle ou pense seul.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "11",
+      "explanation": "C'est une description du cadre qui correspond \u00e0 un \u00e9l\u00e9ment de d\u00e9cor.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "1",
+      "explanation": "Ils frappent, ce qui est une action violente.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "6",
+      "explanation": "Le fait de regarder sa fille est une interaction non verbale.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "6",
+      "explanation": "Montrer une lettre est aussi une interaction non verbale.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "5",
+      "explanation": "M\u00e9gatise sort, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "4",
+      "explanation": "Bricard entre, donc il y a une entr\u00e9e de sc\u00e8ne.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "9",
+      "explanation": "C'est une longue explication de l'intrigue, qualifi\u00e9e de narration.",
+      "stgdir": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "12",
+      "explanation": "Indiquant l'adresse vers un personnage arabe, ce qui correspond \u00e0 la cat\u00e9gorie.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, indiquant une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "6",
+      "explanation": "Apercevoir quelqu'un est une forme d'interaction non verbale.",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "12",
+      "explanation": "C'est une r\u00e9f\u00e9rence \u00e0 un interlocuteur, en l'occurrence un p\u00e8re de famille.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "12",
+      "explanation": "Il s'agit d'une r\u00e9f\u00e9rence int\u00e9gr\u00e9e \u00e0 un laquais, indiquant quelqu'un \u00e0 qui la r\u00e9plique est adress\u00e9e.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "8",
+      "explanation": "Symphonie se rapporte directement \u00e0 la musique.",
+      "stgdir": "Symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "3",
+      "explanation": "Il chante, donc il exprime une action de mani\u00e8re vocale.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "4",
+      "explanation": "Il entre chez lui, ce qui constitue une entr\u00e9e.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "3",
+      "explanation": "L'actrice chante un morceau, ce qui est une indication de livraison musicale.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "10",
+      "explanation": "Il s'agit d'un geste d'interaction avec un objet, sp\u00e9cifiquement une lettre.",
+      "stgdir": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "10",
+      "explanation": "Il s'agit d'une interaction avec un jupon, manipulant un objet.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "7",
+      "explanation": "Faire faire le tour du th\u00e9\u00e2tre indique un mouvement.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "5",
+      "explanation": "Il sort ensuite, ce qui est une sortie de sc\u00e8ne.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "12",
+      "explanation": "C'est une adresse vers Monr\u00e9al p\u00e8re, indiquant \u00e0 qui la r\u00e9plique est donn\u00e9e.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "12",
+      "explanation": "C'est une adresse vers Rosbif, d\u00e9signant l'interlocuteur.",
+      "stgdir": "\u00c0 Rosbif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "12",
+      "explanation": "C'est une adresse vers Mademoiselle Moli\u00e8re, pr\u00e9cisant l'interlocuteur.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "10",
+      "explanation": "Il remet une promesse, ce qui indique l'interaction avec un objet.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "12",
+      "explanation": "C'est une adresse vers Monr\u00e9al p\u00e8re, en tant qu'interlocuteur.",
+      "stgdir": "\u00c0 Monr\u00e9al p\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "5",
+      "explanation": "Madame Simon et Perrette sortent, ce qui correspond \u00e0 une sortie de sc\u00e8ne.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "4",
+      "explanation": "L'Oranger et l'Aub\u00e9pine apparaissent au fond, ce qui est plus une entr\u00e9e qu'une sortie.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "12",
+      "explanation": "C'est une adresse vers Genseric, indiquant un interlocuteur.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "3",
+      "explanation": "Il chante sur un air ridicule, ce qui implique une livraison vocale.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "11",
+      "explanation": "Une description d'un repas champ\u00eatre, indiquant le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "10",
+      "explanation": "Remplir et refermer un sac implique l'interaction avec un objet.",
+      "stgdir": "Serre-fort remplit et referme le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "4",
+      "explanation": "Oronte entre, indique une entr\u00e9e de sc\u00e8ne.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "6",
+      "explanation": "Montrer Pyrrhus est une interaction non verbale.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "4",
+      "explanation": "Elle arrive, ce qui signifie une entr\u00e9e de sc\u00e8ne.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "8",
+      "explanation": "C'est un air musical sp\u00e9cifi\u00e9, ce qui le classe dans la cat\u00e9gorie de la musique.",
+      "stgdir": "Air : J'ai vu partout dans mes voyages.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "12",
+      "explanation": "C'est une adresse vers Colin, indiquant le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "7",
+      "explanation": "Cela indique un mouvement de la part du personnage vers la sortie.",
+      "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "9",
+      "explanation": "C'est une description d'une s\u00e9rie d'actions sur le personnage, s'inscrivant dans la narration.",
+      "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "0",
+      "explanation": "Appeler ses valets est une action g\u00e9n\u00e9rale, sans sp\u00e9cification d'entr\u00e9e ou de sortie.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 29862.14804649353,
+  "model": "gpt-4o-mini"
+}

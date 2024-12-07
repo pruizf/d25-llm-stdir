@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "675",
+      "category": "0",
+      "explanation": "The action described is a presentation, which is a generic interaction not specifically fitting other categories.",
+      "stgdir": "On le lui pr\u00e9sente.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "676",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of three Pantomimes for a ballet performance.",
+      "stgdir": "Entr\u00e9e de ballet de trois Pantomimes.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "677",
+      "category": "12",
+      "explanation": "The stage direction indicates the addressee of a speech or action (toward Araminte).",
+      "stgdir": "\u00c0 Araminte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "678",
+      "category": "0",
+      "explanation": "The action of pulling the bell cord is a general action that does not fit a specific category.",
+      "stgdir": "Il tire le cordon de la sonnette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "679",
+      "category": "10",
+      "explanation": "The stage direction describes the action of taking an object (Olympe's hat), which is an interaction with an object.",
+      "stgdir": "En prenant le chapeau qu'Olympe avait laiss\u00e9.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "680",
+      "category": "3",
+      "explanation": "The stage direction involves lifting a hand as part of an expressive delivery while saying lines.",
+      "stgdir": "Alors Adam l\u00e8vera la main et montrera le fruit d\u00e9fendu, en disant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "681",
+      "category": "0",
+      "explanation": "The action of appearing to listen falls under general actions not fitting other specific categories.",
+      "stgdir": "Il a l'air d'\u00e9couter.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "682",
+      "category": "9",
+      "explanation": "A noise description, such as the sound of a key in the lock, has a narrative quality.",
+      "stgdir": "Un bruit de clef dans la serrure de l'antichambre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "683",
+      "category": "5",
+      "explanation": "This describes Colombine's exit from the stage.",
+      "stgdir": "Colombine rentre chez elle.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "684",
+      "category": "12",
+      "explanation": "Addresses something to G\u00e9ronte, indicated by '\u00c0 G\u00e9ronte.'",
+      "stgdir": "\u00c0 G\u00e9ronte de sa voix ordinaire.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "685",
+      "category": "1",
+      "explanation": "The action involves aggression as the character forcefully puts the door to the ground.",
+      "stgdir": "Il en donne dans la porte qu'il met par terre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "686",
+      "category": "1",
+      "explanation": "The action involves physical interaction with an aggressive connotation as a character is knocked slightly.",
+      "stgdir": "Il la choque un peu.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "687",
+      "category": "9",
+      "explanation": "Describes a change in weather which has a narrative element.",
+      "stgdir": "Le ciel s'\u00e9claircit, l'orage cesse, et la mer s'apaise.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "688",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward Ariston).",
+      "stgdir": "\u00c0 Ariston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "689",
+      "category": "9",
+      "explanation": "A complex narrative description of a sequence of violent actions and movements involving multiple characters.",
+      "stgdir": "Comme Dorise est pr\u00eate de tuer Caliste, un bruit entendu lui fait relever son \u00e9p\u00e9e, et Rosidor para\u00eet tout en sang poursuivi par ses trois assassins masqu\u00e9s. En entrant, il tue Lycaste, et retirant son \u00e9p\u00e9e elle se rompt contre la branche d'un arbre. En cette extr\u00e9mit\u00e9 il voit celle que tient Dorise, et sans la reconna\u00eetre il s'en saisit, et passe tout d'un temps le tron\u00e7on qui lui restait de la sienne en la main gauche, et se d\u00e9fend ainsi contre Pymante et G\u00e9ronte, dont il tue le dernier et met l'autre en fuite.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "690",
+      "category": "0",
+      "explanation": "The action of showing someone to others is a general character action.",
+      "stgdir": "En leur montrant Am\u00e9lite.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "691",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward l'esclave).",
+      "stgdir": "\u00c0 l'esclave",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "692",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of a character (the Cardinal).",
+      "stgdir": "Entre le Cardinal.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "693",
+      "category": "0",
+      "explanation": "The action of showing Trissotin is a general character action.",
+      "stgdir": "Montrant Trissotin.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "694",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward Madame Abraham).",
+      "stgdir": "\u00c0 Madame Abraham, en allant l'embrasser.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "695",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air: La raison propose').",
+      "stgdir": "Air : La raison propose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "696",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('AIR: Vous m'entendez bien').",
+      "stgdir": "AIR : Vous m'entendez bien.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "697",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air: De Weick').",
+      "stgdir": "Air : De Weick.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "698",
+      "category": "11",
+      "explanation": "The stage direction describes the setting, indicating a salon with specific furniture and entrances.",
+      "stgdir": "Un salon. - \u00c0 droite, un petit meuble fermant \u00e0 clef; - \u00e0 gauche, une fen\u00eatre. - Au fond, la porte d entr\u00e9e ; \u00e0 droite, porte conduisant \u00e0 une pi\u00e8ce voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "699",
+      "category": "0",
+      "explanation": "Describes an action related to resuming an expression.",
+      "stgdir": "Reprenant son exorde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "700",
+      "category": "9",
+      "explanation": "Describes noises ('On entend des coups \u00e0 la porte d'en bas'), a narrative element.",
+      "stgdir": "On entend des coups \u00e0 la porte d'en bas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "701",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('AIR 5. Quand le p\u00e9ril est agr\u00e9able').",
+      "stgdir": "AIR 5. Quand le p\u00e9ril est agr\u00e9able.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "702",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air du bienheureux Lisandre').",
+      "stgdir": "Air du bienheureux Lisandre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "703",
+      "category": "5",
+      "explanation": "The stage direction describes the exit of characters from a cave.",
+      "stgdir": "Ils sortent de la caverne.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "704",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air I. R\u00e9veillez-vous, belle Endormie').",
+      "stgdir": "Air I. R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "705",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward la F\u00e9e).",
+      "stgdir": "\u00c0 la F\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "706",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of a character (a Messenger).",
+      "stgdir": "Un Messager entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "707",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air op\u00e9ra, fin de la quatri\u00e8me sc\u00e8ne de la premi\u00e8re entr\u00e9e').",
+      "stgdir": "Air op\u00e9ra, fin de la quatri\u00e8me sc\u00e8ne de la premi\u00e8re entr\u00e9e",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "708",
+      "category": "11",
+      "explanation": "The stage direction provides a description of the setting for Act V.",
+      "stgdir": "D\u00c9CORATION DU Ve ACTE. Une longue All\u00e9e de Cypr\u00e8s qui forment une Perspective tr\u00e8s agr\u00e9able \u00e0 la vue, succ\u00e8de au Lieu d\u00e9sert qui a paru dans l'Acte pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "709",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward Gaston).",
+      "stgdir": "\u00c0 Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "710",
+      "category": "9",
+      "explanation": "Describes a sound event ('Le bruit redouble'), which contributes to the play's narrative.",
+      "stgdir": "Le bruit redouble.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "711",
+      "category": "0",
+      "explanation": "The action of looking with hesitation at Moli\u00e8re falls under general actions.",
+      "stgdir": "Regardant Moli\u00e8re avec h\u00e9sitation.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "712",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air: Ah! Madame Anroux').",
+      "stgdir": "Air : Ah ! Madame Anroux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "713",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air: La Boulang\u00e8re a des \u00e9cus').",
+      "stgdir": "Air : La Boulang\u00e8re a des \u00e9cus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "714",
+      "category": "5",
+      "explanation": "The stage direction describes Jacinte's exit.",
+      "stgdir": "Jacinte sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "715",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward le gar\u00e7on).",
+      "stgdir": "Au gar\u00e7on.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "716",
+      "category": "0",
+      "explanation": "Describes the action of opening another drawer, which is a general character action.",
+      "stgdir": "Elle ouvre un autre tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "717",
+      "category": "5",
+      "explanation": "The stage direction describes the exit of Monsieur Mathieu, Benjamine and Damis.",
+      "stgdir": "Monsieur Mathieu, Benjamine et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "718",
+      "category": "8",
+      "explanation": "Refers to the name of an air/tune being played ('Air de Marianne').",
+      "stgdir": "Air de Marianne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "719",
+      "category": "10",
+      "explanation": "Describes handing out fencing foils ('Il leur baille des fleurets'), an interaction with objects.",
+      "stgdir": "Il leur baille des fleurets.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "720",
+      "category": "6",
+      "explanation": "Describes characters speaking together, a non-verbal interaction.",
+      "stgdir": "L\u00e9andre, M\u00e9lite, Doris, C\u00e9phise et Ism\u00e8ne parlent ensemble.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "721",
+      "category": "7",
+      "explanation": "Describes the character's movement of going back.",
+      "stgdir": "Il s'en retourne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "722",
+      "category": "11",
+      "explanation": "The stage direction describes the setting which represents an apartment.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Appartement de Monsieur Oronte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "723",
+      "category": "8",
+      "explanation": "Refers to an antistrophe ('Antistrophe IX'), typically related to music or dance.",
+      "stgdir": "Antistrophe IX.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "724",
+      "category": "7",
+      "explanation": "Describes Merlin's movement as he flees.",
+      "stgdir": "Merlin s'enfuit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "725",
+      "category": "8",
+      "explanation": "Describes a musical element ('On entend une symphonie').",
+      "stgdir": "On entend une symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "726",
+      "category": "0",
+      "explanation": "Describes presenting conditions in a promise or agreement.",
+      "stgdir": "Les 12 conditions sous lesquelles nous Hylas et Stelle, promettons de nous aimer \u00e0 l'avenir, pat accord fait entre nous.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "727",
+      "category": "10",
+      "explanation": "Describes the action of giving a book to someone, interaction with an object.",
+      "stgdir": "Il lui remet en main son roman.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "728",
+      "category": "10",
+      "explanation": "Describes placing a chain around someone's neck, indicating an interaction with an object.",
+      "stgdir": "Il lui pose sa cha\u00eene sur le cou.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "729",
+      "category": "0",
+      "explanation": "Describes the action of making a purse sound, which is a general character action.",
+      "stgdir": "Faisant sonner la bourse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "730",
+      "category": "8",
+      "explanation": "Refers to a musical element ('DUO du silvain').",
+      "stgdir": "DUO du silvain.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "731",
+      "category": "6",
+      "explanation": "Describes characters bursting into laughter, indicating a non-verbal interaction.",
+      "stgdir": "Tous partent d'un \u00e9clat de rire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "732",
+      "category": "9",
+      "explanation": "Describes a sequence of actions involving character movements and an entrance.",
+      "stgdir": "Blanche quitte sa m\u00e8re ; lorsqu'elle est arriv\u00e9e \u00e0 la porte de droite, Auguste entre par le fond et annonce Madame_de_Saint-Genis ; Blanche s'arr\u00eate.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "733",
+      "category": "4",
+      "explanation": "The stage direction describes the entrance of Madeleine Ozeray and Raymone.",
+      "stgdir": "Entrent Madeleine Ozeray et Raymone.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "734",
+      "category": "5",
+      "explanation": "The stage direction describes the exit of multiple characters, both armed and in a company.",
+      "stgdir": "Mithridate, Hypsicrat\u00e9e sortent arm\u00e9s, et Mitridatie, Nise et B\u00e9r\u00e9nice avec eux.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "735",
+      "category": "3",
+      "explanation": "Refers to speaking in a soft voice ('\u00c0 mi-voix').",
+      "stgdir": "\u00c0 mi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "736",
+      "category": "7",
+      "explanation": "Describes the character movement as he runs away.",
+      "stgdir": "Il se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "737",
+      "category": "11",
+      "explanation": "Refers to the setting, specifying it as an inn.",
+      "stgdir": "Une salle d'auberge.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "738",
+      "category": "0",
+      "explanation": "Describes the action of opening a letter, which fits under the general actions category.",
+      "stgdir": "Elle ouvre la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "739",
+      "category": "10",
+      "explanation": "Refers to the action of handing a letter to Ar\u00e9taphile, an interaction with an object.",
+      "stgdir": "Il remet une lettre \u00e0 Ar\u00e9taphile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "740",
+      "category": "8",
+      "explanation": "Refers to a musical element ('Air : Des Proverbes').",
+      "stgdir": "Air : Des Proverbes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "741",
+      "category": "5",
+      "explanation": "Describes a character exiting while coughing, which indicates an exit.",
+      "stgdir": "Il sort en toussant suivi par de Brie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "742",
+      "category": "6",
+      "explanation": "Describes the action of both characters extending their hands and taking money, indicating interaction.",
+      "stgdir": "Ils tendent tous deux la main, et prennent l'argent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "743",
+      "category": "8",
+      "explanation": "Refers to a musical element ('Air : Tique, tique, taque').",
+      "stgdir": "Air : Tique, tique, taque.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "744",
+      "category": "3",
+      "explanation": "Indicates speech ('Parlant') as part of delivery.",
+      "stgdir": "Parlant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "745",
+      "category": "11",
+      "explanation": "Refers to a scene change or identification by SCENE number ('SC\u00c8NE II').",
+      "stgdir": "SC\u00c8NE II.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "746",
+      "category": "9",
+      "explanation": "Describes a narrative element explaining the General's plans.",
+      "stgdir": "Le G\u00e9n\u00e9ral leur fait part des dispositions qu'il a pris, en cas que les ennemis approchent, et leur indique la marche qu'ils doivent suivre , d'apr\u00e8s le plan qu'il a con\u00e7u.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "747",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward Tatonet).",
+      "stgdir": "\u00c0 Tatonet.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "748",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech or action (toward Antenor).",
+      "stgdir": "\u00c0 Antenor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "749",
+      "category": "0",
+      "explanation": "The stage direction describes reading, a general action by Don Cosme.",
+      "stgdir": "Don Cosme lit.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 29680.161476135254,
+  "model": "gpt-4o"
+}

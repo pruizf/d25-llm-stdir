@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "8",
+      "explanation": "The stage direction starts with the word 'Air,' indicating music, followed by the title of the tune.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "0",
+      "explanation": "The action 'elle \u00f4te sa main' suggests a character action not covered by other specific categories.",
+      "stgdir": "Elle \u00f4te sa main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "0",
+      "explanation": "The action 'Il ouvre le tiroir' involves a character interacting with an object by opening, which is a general action.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "12",
+      "explanation": "The stage direction 'Il parle \u00e0 Haly' indicates that the speech or dialogue is directed towards Haly.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "12",
+      "explanation": "The phrase 'Aux Chouans' indicates the addressees of a speech or action, relating to the category 'toward.'",
+      "stgdir": "Aux Chouans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "5",
+      "explanation": "The stage direction indicates that characters 'savent tous, except\u00e9 Babet,' which implies an exit for all except one character.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "11",
+      "explanation": "The stage description 'en d\u00e9sordre' provides details about the setting at the rise of the curtain.",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "The direction 'Aux autres conseillers' indicates the addressees of a speech or action, pointing to the 'toward' category.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "11",
+      "explanation": "The phrase 'Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre' is a description of the play's setting.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "5",
+      "explanation": "The stage direction 'Le chevalier Uladislas sort de l'h\u00f4tellerie' describes an exit from a location.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "610",
+      "category": "8",
+      "explanation": "Begins with 'AIR' indicating a musical tune, confirming its classification under music.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "611",
+      "category": "12",
+      "explanation": "Indicating the addressing of 'Les Enfants,' making it related to category 'toward'.",
+      "stgdir": "Il s'adresse aux Enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "612",
+      "category": "0",
+      "explanation": "The action 'Montrant les Muses' is the character action of pointing, which fits the action category.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "613",
+      "category": "5",
+      "explanation": "Describes characters leaving with another character, thus matching the 'exit' category.",
+      "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "614",
+      "category": "8",
+      "explanation": "References playing violins, suggesting a tune pertaining to the 'marches des Bostangis' which fits music.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "615",
+      "category": "7",
+      "explanation": "The character follows another, described by 'Il le suit,' a movement without exit or entrance.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "616",
+      "category": "3",
+      "explanation": "The direction 'Il chante avec Galaor' involves singing, fitting the 'delivery' category.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "617",
+      "category": "7",
+      "explanation": "'Il t\u00e9moigne s'en vouloir aller' suggests movement away, hence the 'movement' category.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "618",
+      "category": "6",
+      "explanation": "The stage direction 'Elle se met \u00e0 ses pieds' implies a physical interaction or positioning.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "619",
+      "category": "9",
+      "explanation": "'Ici un grand silence' refers to environmental or atmospheric conditions, fitting the 'narration' category.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "620",
+      "category": "5",
+      "explanation": "All characters exit, making it a clear 'exit' category instance.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "621",
+      "category": "8",
+      "explanation": "The direction starts with 'AIR' referring to a musical piece related to 'Je suis un bon soldat.'",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "622",
+      "category": "0",
+      "explanation": "The action of serving soup falls under general character actions.",
+      "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "623",
+      "category": "7",
+      "explanation": "Describes an attempt to move away, fitting within 'movement' without confirming exit.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "624",
+      "category": "8",
+      "explanation": "Refers to a musical dialogue and chorus, thus falling under the music category.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "625",
+      "category": "6",
+      "explanation": "The direction 'Embrassant son p\u00e8re' involves physical interaction between characters.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "626",
+      "category": "12",
+      "explanation": "'\u00c0 Hiaskar' specifies an addressee for speech or action, indicating the 'toward' category.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "627",
+      "category": "8",
+      "explanation": "Begins with 'AIR' indicating a connection to musical content.",
+      "stgdir": "AIR : Le luth galant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "628",
+      "category": "11",
+      "explanation": "Details characters' positions, like in '\u00e0 la rue' and '\u00e0 la fen\u00eatre,' aligning with 'setting.'",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "629",
+      "category": "0",
+      "explanation": "Involves a character interacting with an object by opening, fitting the general action category.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "630",
+      "category": "1",
+      "explanation": "'Il fait un massacre de Polonais' describes violent action, correlated with aggression.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "4",
+      "explanation": "The direction 'Il paraissent tous trois' suggests a character entry on stage.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "8",
+      "explanation": "The direction 'Air : L'occasion fait le larron' suggests a musical tune or song reference.",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "The direction 'AIR. ( De la Besogne. )' indicates a musical piece.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "12",
+      "explanation": "'\u00c0 Zoroastre' specifies an addressee for speech or action, indicating the 'toward' category.",
+      "stgdir": "\u00c0 Zoroastre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "5",
+      "explanation": "Indicates characters exiting, fitting the exit category.",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "0",
+      "explanation": "Describes characters eating, which is a general character action.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "4",
+      "explanation": "The direction 'Val\u00e9rian entre' indicates a character entrance.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "Begins with 'AIR', referencing a specific musical piece, fitting the 'music' category.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "10",
+      "explanation": "Describes interaction with an object, 'prend le portefeuille,' fitting object handling.",
+      "stgdir": "Bernard prend le portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "640",
+      "category": "6",
+      "explanation": "'Voyant Gaston' suggests interaction through visual contact or acknowledgment.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "5",
+      "explanation": "The direction 'La t\u00eate de Georges dispara\u00eet' indicates part of the character exiting the scene.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "5",
+      "explanation": "'Se retire de la danse' suggests the character exits the active scene.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "12",
+      "explanation": "'Aux Esclaves de son sexe' indicates the addressees of speech or action, fitting the 'toward' category.",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "10",
+      "explanation": "'Il tire un porte-feuille' involves object interaction.",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "9",
+      "explanation": "This long direction narrates a scene and describes actions and emotions, fitting narration.",
+      "stgdir": "On fait remarquer \u00e0 Monsieur de Saint-Yves dans quelle affreuse situation le parti qu'il vient de prendre plonge un jeune amoureux, qui, m\u00e9connaissant les usages, les moeurs du pays qu'il habite, n'a d'autres torts que ceux d'une \u00e2me br\u00fblante. Monsieur de Kerkabon ajoute que si son neveu a la t\u00eate un peu exalt\u00e9e, en revanche il poss\u00e8de un coeur excellent ; qu'il est vaillant, honn\u00eate, plein de franchise.... enfin, qu'il m\u00e9rite d'\u00eatre trait\u00e9 avec moins de rigueur. En achevant ces mots, il presse son ami dans ses bras ; la bonne tante imite son fr\u00e8re. Monsieur de Saint-Yves, d'abord inexorable, commence \u00e0 s'attendrir... On entend sonner l'alarme dans l'int\u00e9rieur du couvent. Le jeune Kerkabon, r\u00e9duit au d\u00e9sespoir, a form\u00e9 le dessein d'en lever sa maitresse. On l'a vu, pendant la sc\u00e8ne pr\u00e9c\u00e9dente, traverser le th\u00e9\u00e2tre, une hache \u00e0 la main, et escalader les murs du couvent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "0",
+      "explanation": "Describes characters sitting at a table, a general action.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "0",
+      "explanation": "The action 'Montrant Milady' involves the character showing or pointing out, aligning with action.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "1",
+      "explanation": "Describes combat between two characters, a violent action fitting the aggression category.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "0",
+      "explanation": "'Il tire un Papier' involves an interaction with an object, fitting general action.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "650",
+      "category": "8",
+      "explanation": "'Air 62 : R\u00e9veillez-vous, belle Endormie' indicates musical content.",
+      "stgdir": "Air 62 : R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "8",
+      "explanation": "Starts with 'Air,' indicating a musical piece, title shared after.",
+      "stgdir": "Air : Dans un bosquet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "12",
+      "explanation": "'Au turc et au Mogol' indicates the addressees of speech or action.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "6",
+      "explanation": "'Regardant Ang\u00e9lique' describes a form of character interaction.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "11",
+      "explanation": "'La salle du Conseil d'Ubu' offers a stage description.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "'\u00c0 Dariolette' specifies the addressee of speech or action.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "7",
+      "explanation": "Describes movement towards a character or location, 'Il s'approche de C\u00e9cile,' fitting movement.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "11",
+      "explanation": "Offers detailed description of the stage's scenery, 'repr\u00e9sente un bois et un ch\u00e2teau.'",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "10",
+      "explanation": "Describes interaction with part of an apparel or costume.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "8",
+      "explanation": "Starts with 'AIR,' aligned with music category.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "660",
+      "category": "6",
+      "explanation": "'Il embrasse Ducr\u00f4ne et Jenneval' involves physical interaction among characters.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "0",
+      "explanation": "Describes a character opening something to reveal another object, fitting general action.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "8",
+      "explanation": "Includes elements typical of musical or lyrical content, like 'CLOMIRE, PASTORALE.'",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "5",
+      "explanation": "'Orphise sort' connotes character exit.",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "4",
+      "explanation": "'Julie rentre' indicates character entrance.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "8",
+      "explanation": "Includes musical/lyrical elements, indicated by 'AIR.'",
+      "stgdir": "AIR. Di que st'alma, il fior tormento, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "3",
+      "explanation": "The stage direction involves changes in tone or expression, aligning with delivery.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "9",
+      "explanation": "Auditory experience of distant cries fits within 'narration.'",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "10",
+      "explanation": "Involves interaction with an object, a trompe de postillon, possibly related to delivery of sound.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "0",
+      "explanation": "The direction 'ENSEMBLE' likely pertains to coordinated or collective action.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "670",
+      "category": "3",
+      "explanation": "Involves hearing Sosie sing, pertains to vocal expression or delivery.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "8",
+      "explanation": "Starting with 'Air' suggests a musical title.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "0",
+      "explanation": "Describes interaction with an object, fitting general action.",
+      "stgdir": "On entend un outil qui fourrage dans la serrure.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "8",
+      "explanation": "Refers to a musical tune, indicated by 'Air.'",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "5",
+      "explanation": "Describes the action of Laure exiting.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 34379.60433959961,
+  "model": "gpt-4o"
+}

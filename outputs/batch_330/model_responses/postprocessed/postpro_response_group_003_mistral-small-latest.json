@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 225,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, dans ce cas, l'utilisation de l'air \"Maman vous a dit, dans six ans.\"",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 226,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale de Scarron, qui continue d'\u00e9crire.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 227,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence vers les femmes.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 228,
+      "category": 6,
+      "explanation": "Cette direction indique une interaction non-verbale, Hernani est retenu par un autre personnage.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 229,
+      "category": 4,
+      "explanation": "Cette direction indique l'entr\u00e9e d'un personnage, Henri Bassou.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 230,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 231,
+      "category": 4,
+      "explanation": "Cette direction indique la sortie d'un personnage, Perillo.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 232,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air des Visitandines.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 233,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, l'\u00e9gorgement des victimes.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 234,
+      "category": 10,
+      "explanation": "Cette direction indique une interaction avec un objet, l'ouverture d'une armoire.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 235,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, l'apparition du Marquis dans un miroir.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 236,
+      "category": 6,
+      "explanation": "Cette direction indique une interaction non-verbale, se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 237,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air intitul\u00e9 \"Changement pique l'app\u00e9tit.\"",
+      "stgdir": "AIR : Changement pique l'app\u00e9tit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 238,
+      "category": 4,
+      "explanation": "Cette direction indique l'entr\u00e9e de personnages, elles.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 239,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air intitul\u00e9 \"La Fustemberg.\"",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 240,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, avec Melpom\u00e8ne sur l'aile droite et Thalie sur l'aile gauche.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 241,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air intitul\u00e9 \"Monsieur le Pr\u00e9v\u00f4t des Marchands.\"",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 242,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, un air not\u00e9 num\u00e9ro 3.",
+      "stgdir": "Air Not\u00e9, N\u00b03",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 243,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence Terville.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 244,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, avec des troupes de magiciens et de d\u00e9mons sous des formes agr\u00e9ables.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 245,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence Dorinde.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 246,
+      "category": 4,
+      "explanation": "Cette direction indique l'entr\u00e9e de personnages, Blaise et G\u00e9rault.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 247,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, en lisant.",
+      "stgdir": "Lisant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 248,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, le jardin de la F\u00e9e.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 249,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, essayer d'ouvrir quelque chose sans succ\u00e8s.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 250,
+      "category": 4,
+      "explanation": "Cette direction indique la sortie d'un personnage, Laurence.",
+      "stgdir": "Laurence sort.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 251,
+      "category": 4,
+      "explanation": "Cette direction indique l'entr\u00e9e d'un personnage, dans sa maison.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 252,
+      "category": 5,
+      "explanation": "Cette direction indique la sortie d'un personnage, frappant \u00e0 la porte.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 253,
+      "category": 10,
+      "explanation": "Cette direction indique une interaction avec un objet, prendre Albert.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 254,
+      "category": 7,
+      "explanation": "Cette direction indique un mouvement, vouloir s'enfuir.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 255,
+      "category": 11,
+      "explanation": "Cette direction indique une interaction avec un objet, regarder par la fen\u00eatre.",
+      "stgdir": "Elle regarde par la fen\u00eatre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 256,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air intitul\u00e9 \"Madame en v\u00e9rit\u00e9.\"",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 257,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence Hernani.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 258,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, montrer le banc de pierre.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 259,
+      "category": 9,
+      "explanation": "Cette direction est une longue description narrative.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 260,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, la province de Livonie couverte de neige.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 261,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, se lever de table.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 262,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, \u00e0 part et avec ironie.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 263,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence Ninias.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 264,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, les domestiques accourent.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 265,
+      "category": 6,
+      "explanation": "Cette direction indique une interaction non-verbale, s'approcher apr\u00e8s avoir fait quelque chose.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 266,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, les rivages du Tibre.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 267,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence la Servante.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 268,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, lire.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 269,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air intitul\u00e9 \"Deux enfants s'aimaient d'amour tendre.\"",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 270,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, la voix reprend.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 271,
+      "category": 9,
+      "explanation": "Cette direction est une longue description narrative.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 272,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, en voyant la porte ferm\u00e9e.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 273,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, apercevant Ad\u00e9la\u00efde.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 274,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air intitul\u00e9 \"Les Trembleurs.\"",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 275,
+      "category": 4,
+      "explanation": "Cette direction indique la sortie de personnages, Lucile et Damis.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 276,
+      "category": 9,
+      "explanation": "Cette direction est une longue description narrative.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 277,
+      "category": 10,
+      "explanation": "Cette direction indique une interaction avec un objet, \u00f4ter et remettre des gants.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 278,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence Alcm\u00e8ne.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 279,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence le pr\u00e9sident.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 280,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence Henri.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 281,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air intitul\u00e9 \"Non, je ne serai pas.\"",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 282,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, regarder les fleurs.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 283,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, ils rient.",
+      "stgdir": "Ils rient.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 284,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, la vielle joue tr\u00e8s doucement.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 285,
+      "category": 3,
+      "explanation": "Cette direction indique une mani\u00e8re de parler, \u00e0 part avec ironie.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 286,
+      "category": 10,
+      "explanation": "Cette direction indique une interaction avec un objet, donner et prendre des chansons.",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 287,
+      "category": 0,
+      "explanation": "Cette direction indique une action g\u00e9n\u00e9rale, s'approcher d'un tombeau.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 288,
+      "category": 8,
+      "explanation": "Cette direction indique une musique ou une chanson, en l'occurrence un air.",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 289,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence N\u00e9optol\u00e9mus.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 290,
+      "category": 9,
+      "explanation": "Cette direction est une longue description narrative.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 291,
+      "category": 9,
+      "explanation": "Cette direction est une longue description narrative.",
+      "stgdir": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 292,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence les deux courtisans.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 293,
+      "category": 9,
+      "explanation": "Cette direction est une longue description narrative.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 294,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence l'Inspecteur des B\u00e2timents.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 295,
+      "category": 6,
+      "explanation": "Cette direction indique une interaction non-verbale, saisir la main de son p\u00e8re.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 296,
+      "category": 12,
+      "explanation": "Cette direction indique \u00e0 qui s'adresse une action ou un discours, en l'occurrence le Jeune Homme.",
+      "stgdir": "Au Jeune Homme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 297,
+      "category": 6,
+      "explanation": "Cette direction indique une interaction non-verbale, l'embrasser passionn\u00e9ment.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 298,
+      "category": 6,
+      "explanation": "Cette direction indique une interaction non-verbale, Ma\u00eetre Godard la presse du geste.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 299,
+      "category": 11,
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, un paysage avec les fermes de Thomas et Mathurin.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 59093.830823898315,
+  "model": "mistral-small-latest"
+}

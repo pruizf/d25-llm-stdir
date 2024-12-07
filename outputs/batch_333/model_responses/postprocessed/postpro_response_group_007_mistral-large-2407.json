@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 525,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 526,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality, describing a sequence of actions.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 527,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 528,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "AIR. Allons donc, jouez violons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 529,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 530,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 531,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 532,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 533,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 534,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 535,
+      "category": 4,
+      "explanation": "Character enters stage.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 536,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 537,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 538,
+      "category": 3,
+      "explanation": "Delivery manner, e.g., regarding voice or vocal expression of emotion.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 539,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 540,
+      "category": 3,
+      "explanation": "Delivery manner, e.g., regarding voice or vocal expression of emotion.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 541,
+      "category": 5,
+      "explanation": "Character exits.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 542,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame Mondor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 543,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 544,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 545,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air du commencement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 546,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 547,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Il la donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 548,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 549,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 550,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 551,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 552,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 553,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Elle ferme la bible et va prendre le berceau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 554,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 555,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Il ouvre l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 556,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 557,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 558,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 559,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 560,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 561,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 562,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 563,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 564,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 565,
+      "category": 5,
+      "explanation": "Character exits.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 566,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 567,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 568,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 569,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 570,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Pr\u00e9lude.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 571,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air : Vivre sans amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 572,
+      "category": 3,
+      "explanation": "Delivery manner, e.g., regarding voice or vocal expression of emotion.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 573,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality.",
+      "stgdir": "Bruit de fer-blanc heurt\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 574,
+      "category": 11,
+      "explanation": "Stage description or play location.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 575,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality.",
+      "stgdir": "L'Amour para\u00eet dans sa Gloire, environn\u00e9 de Gr\u00e2ces et de Plaisirs. Les Divinit\u00e9s de la Terre sont assises sur les ailes du Th\u00e9\u00e2tre, encha\u00een\u00e9es de Fleurs ; et les Divinit\u00e9s du Ciel sont au-dessus, assises sur des Nuages. On voit au fond l'Antre de la Jalousie, o\u00f9 elle est encha\u00een\u00e9e avec la Rage et le D\u00e9sespoir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 576,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 577,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "PANTOMIME.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 578,
+      "category": 1,
+      "explanation": "Violent action.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 579,
+      "category": 3,
+      "explanation": "Delivery manner, e.g., regarding voice or vocal expression of emotion.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 580,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 581,
+      "category": 6,
+      "explanation": "Non-verbal character interaction.",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 582,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 583,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 584,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 585,
+      "category": 1,
+      "explanation": "Violent action.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 586,
+      "category": 7,
+      "explanation": "Character movement (but not exit/entrance).",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 587,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 588,
+      "category": 10,
+      "explanation": "Describes an object or a character's interaction with an object.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 589,
+      "category": 12,
+      "explanation": "Indicates the addressee of a speech.",
+      "stgdir": "\u00c0 un de ses suivants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 590,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 591,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 592,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Scapin et Monsieur Dumont pr\u00e9parent tout.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 593,
+      "category": 5,
+      "explanation": "Character exits.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 594,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "Air : Du haut en bas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 595,
+      "category": 0,
+      "explanation": "General character action.",
+      "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 596,
+      "category": 9,
+      "explanation": "Long stage direction with narrative quality.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": 597,
+      "category": 8,
+      "explanation": "Tune name (play with songs).",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 598,
+      "category": 4,
+      "explanation": "Character enters stage.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 599,
+      "category": 5,
+      "explanation": "Character exits.",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 96776.99494361877,
+  "model": "mistral-large-2407"
+}

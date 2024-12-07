@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "375",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Alain.",
+      "stgdir": "\u00c0 Alain.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "376",
+      "category": "8",
+      "explanation": "Music stage direction, as it starts with 'AIR' and mentions a song.",
+      "stgdir": "AIR. ( Quand Iris prend plaisir \u00e0 boire. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "377",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to the crowd ('la foule').",
+      "stgdir": "\u00c0 la foule.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "378",
+      "category": "11",
+      "explanation": "Describes the stage setting as being in front of Pantalon's house.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le devant de la maison de Pantalon.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "379",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Estelle.",
+      "stgdir": "\u00c0 Estelle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "380",
+      "category": "0",
+      "explanation": "General character action; staring or looking.",
+      "stgdir": "Le regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "381",
+      "category": "9",
+      "explanation": "Narration describing a voice heard, contributing to the narrative setting.",
+      "stgdir": "On entend la voix de J\u00e9r\u00f4me qui appelle Babet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "382",
+      "category": "9",
+      "explanation": "Narration indicating dramatic weather and supernatural events.",
+      "stgdir": "Tonnerre, pluie de feu, tremblement de terre, des ombres sortent des tombeaux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "383",
+      "category": "5",
+      "explanation": "Character exits through a small door on the right.",
+      "stgdir": "Il sort par la petite porte \u00e0 droite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "384",
+      "category": "0",
+      "explanation": "General character action; anxiously listening or tending an ear.",
+      "stgdir": "Il tend l'oreille anxieusement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "385",
+      "category": "8",
+      "explanation": "Music stage direction, indicating a likely tune or musical reference.",
+      "stgdir": "L'ABEILLE ET L'ARAIGN\u00c9E.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "386",
+      "category": "9",
+      "explanation": "Narration describing music being heard, a soft symphony. Focus is on the auditory experience.",
+      "stgdir": "On entend une symphonie douce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "387",
+      "category": "6",
+      "explanation": "Non-verbal interaction where characters physically help someone exit the stage.",
+      "stgdir": "Almaviva et L\u00e9on la prennent sous les bras ; ils sortent tous.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "388",
+      "category": "9",
+      "explanation": "Narration indicating a mountain 'leaving,' implying a change or passing event in the narrative.",
+      "stgdir": "La Montagne s'en va.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "389",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Guillaume.",
+      "stgdir": "\u00c0 Guillaume.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "390",
+      "category": "6",
+      "explanation": "Non-verbal interaction where someone takes another's clothing item (habit).",
+      "stgdir": "Lui prenant son habit.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "391",
+      "category": "7",
+      "explanation": "Movement towards the poet, showing a character's change in position to interact.",
+      "stgdir": "Elle va vers le po\u00e8te qui se tenait \u00e0 l'\u00e9cart et qui vient au devant d'elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "392",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to the executioner ('bourreau').",
+      "stgdir": "Au bourreau.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "393",
+      "category": "8",
+      "explanation": "Music stage direction, indicating a song or chant related to the Basques.",
+      "stgdir": "CHANSON des Basques.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "394",
+      "category": "6",
+      "explanation": "Non-verbal interaction; rudely pushing Val\u00e8re.",
+      "stgdir": "Poussant rudement Val\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "395",
+      "category": "9",
+      "explanation": "Narrative quality with a series of actions and character interactions explained.",
+      "stgdir": "FRONTIN dit \u00e0 son ma\u00eetre qu'il a toutes les peines du monde \u00e0 tirer de l'argent de Monsieur Simon son usurier ordinaire mais qu'\u00e0 la fin il lui a donn\u00e9 deux mille livres, apr\u00e8s avoir rempli son blanc-seing de quatre mille livres. Ce sont deux mille livres qu'il m'en co\u00fbte, r\u00e9pond Adraste mais que ne ferait-on pas pour se tirer d'affaire avec honneur ? Va ajo\u00fbte-t-il \u00e0 Frontin, assemble mes cr\u00e9anciers chez moi : je vais t'y joindre, et les payer.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "396",
+      "category": "8",
+      "explanation": "Music stage direction, with 'Air' indicating a specific tune name.",
+      "stgdir": "Air : Tarare ponpon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "397",
+      "category": "8",
+      "explanation": "Music stage direction, possibly indicating a stanza or musical segment.",
+      "stgdir": "Strophe VII.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "398",
+      "category": "6",
+      "explanation": "Non-verbal character interaction, throwing a passionate look.",
+      "stgdir": "D\u00e9lie lui jette un regard passionn\u00e9.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "399",
+      "category": "8",
+      "explanation": "Music stage direction, referring to musical stanzas or lyrics.",
+      "stgdir": "Stances.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "400",
+      "category": "6",
+      "explanation": "Non-verbal interaction indicating striking someone ('frappe le coeur').",
+      "stgdir": "Elle lui frappe le coeur.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "401",
+      "category": "8",
+      "explanation": "Music stage direction, indicating a stanza or piece in a series.",
+      "stgdir": "Strophe X.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "402",
+      "category": "0",
+      "explanation": "General action; character showing an item (a ticket or note).",
+      "stgdir": "Lui montrant le billet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "403",
+      "category": "0",
+      "explanation": "General action where a character covers themselves.",
+      "stgdir": "Il se couvre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "404",
+      "category": "0",
+      "explanation": "General action of eating hungrily.",
+      "stgdir": "Elle mange avidement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "405",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Hauteroche.",
+      "stgdir": "\u00c0 Hauteroche.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "406",
+      "category": "9",
+      "explanation": "Narrative stage direction describing dialogue and interaction sequence.",
+      "stgdir": "Elle parle surtout d'une certaine Clorinde, qui ne l'a reconduite qu'\u00e0 la porte de sa chambre. Monsieur Bobinet trouve fort ridicule que pendant tout le temps de la visite, on ne l'ait pas pri\u00e9 de mettre son chapeau.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "407",
+      "category": "4",
+      "explanation": "Character Verseuil enters the scene during a monologue.",
+      "stgdir": "Pendant ce monologue, Verseuil entre sur la sc\u00e8ne.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "408",
+      "category": "11",
+      "explanation": "Describes the stage setting, including locations mentioned such as an inn and a gothic castle.",
+      "stgdir": "Une route devant une h\u00f4tellerie. - Un ch\u00e2teau gothique au fond, dans les montagnes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "409",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Dionys.",
+      "stgdir": "Il parle \u00e0 Dionys.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "410",
+      "category": "8",
+      "explanation": "Music stage direction, indicating a tune with the name 'Babet que t'es gentille.'",
+      "stgdir": "Air : Babet que t'es gentille.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "411",
+      "category": "1",
+      "explanation": "Violent action of striking Scaramouche with force.",
+      "stgdir": "Il frappe Scaramouche de toute sa force.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "412",
+      "category": "0",
+      "explanation": "General action; making a sign of the cross (prayer-related).",
+      "stgdir": "Corbineli fait le signe de la Croix.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "413",
+      "category": "0",
+      "explanation": "General action; a character signs something.",
+      "stgdir": "Il signe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "414",
+      "category": "11",
+      "explanation": "Describes the setting of a messy hotel room with various items and furniture.",
+      "stgdir": "Chambre d'h\u00f4tel en d\u00e9sordre, portes lat\u00e9rales ; beaucoup de malles et de menus colis par terre et sur les meubles. Table au fond. Gu\u00e9ridon \u00e0 gauche, premier plan, encrier, plumes, etc. Toilette de voyage sur la table \u00e0 droite au fond.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "415",
+      "category": "11",
+      "explanation": "Describes the stage setting representing the Palace of Folly.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente le Palais de LA FOLIE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "416",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Fanchette.",
+      "stgdir": "Haut \u00e0 Fanchette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "417",
+      "category": "0",
+      "explanation": "General action; showing a specific place, specifically the Caf\u00e9 de l'Alliance.",
+      "stgdir": "Lui montrant le caf\u00e9 de l'Alliance.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "418",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Ragotin.",
+      "stgdir": "Il s'adresse \u00e0 Ragotin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "419",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to the Licteurs.",
+      "stgdir": "Aux Licteurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "420",
+      "category": "0",
+      "explanation": "General action; the characters raise their sticks.",
+      "stgdir": "Ils haussent leurs b\u00e2tons.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "421",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Zinca.",
+      "stgdir": "Il interroge Zinca.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "422",
+      "category": "0",
+      "explanation": "General action; sitting next to Philippe.",
+      "stgdir": "Il s'assoit pr\u00e8s de Philippe.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "423",
+      "category": "7",
+      "explanation": "Movement towards someone, interacting by offering assistance or leading.",
+      "stgdir": "Il s'approche d'elle et lui pr\u00e9sente la main ; H\u00e9l\u00e8ne fait la r\u00e9v\u00e9rence, et s'appuie sur son bras.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "424",
+      "category": "10",
+      "explanation": "Describes interaction with an object, where an item (habit) is given.",
+      "stgdir": "Elle lui donne l'habit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "425",
+      "category": "0",
+      "explanation": "General action of looking towards a door.",
+      "stgdir": "Elle regarde du c\u00f4t\u00e9 de la porte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "426",
+      "category": "3",
+      "explanation": "Delivery with emphasis on emotion.",
+      "stgdir": "Avec \u00e9motion.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "427",
+      "category": "0",
+      "explanation": "General action towards the pit area in the theater.",
+      "stgdir": "AU PARTERRE.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "428",
+      "category": "9",
+      "explanation": "Narration describing a dramatic and horrific scene with Moral\u00e8s' head.",
+      "stgdir": "Il \u00e9tend les bras. Tout le monde s'\u00e9carte et la t\u00eate de Moral\u00e8s, envelopp\u00e9e d'un voile noir, pos\u00e9e sur la table. Fargus enl\u00e8ve brusquement le voile. Tous reculent en poussant un cri d'horreur. La t\u00eate humaine, les yeux ferm\u00e9s, la face souill\u00e9e de sang, est l\u00e0, en pleine lumi\u00e8re.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "429",
+      "category": "8",
+      "explanation": "Music stage direction, indicating a tune or song with number 'AIR 17.'",
+      "stgdir": "AIR 17. (Vaudeville du Nouveau-Monde. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "430",
+      "category": "8",
+      "explanation": "Music stage direction, indicating a tune, starting with 'AIR.'",
+      "stgdir": "AIR. Dans la jeune saison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "431",
+      "category": "3",
+      "explanation": "Delivery method, characterized by interacting through a letter given as context.",
+      "stgdir": "Il lui baille une lettre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "432",
+      "category": "3",
+      "explanation": "Delivery method where someone is 'crying across the door.'",
+      "stgdir": "Criant au travers de la porte.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "433",
+      "category": "10",
+      "explanation": "Describes interaction with an object; giving back a ring.",
+      "stgdir": "Elle lui rend la bague.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "434",
+      "category": "4",
+      "explanation": "Character entrance, indicated by 'ENTR\u00c9E.'",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "435",
+      "category": "0",
+      "explanation": "General action; character searching or looking for something.",
+      "stgdir": "Il y cherche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "436",
+      "category": "0",
+      "explanation": "General action; offering presents is part of a broader interaction or ceremonial act.",
+      "stgdir": "On offre des pr\u00e9sents.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "437",
+      "category": "8",
+      "explanation": "Music stage direction, with mention of a specific tune or air accustomed to a performance.",
+      "stgdir": "AIR : Les filles sont si sottes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "438",
+      "category": "8",
+      "explanation": "Music stage direction, with indication of 'Air,' marking a specific musical piece.",
+      "stgdir": "Air : Fanfare de Saint-Cloud.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "439",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to M\u00e9rione.",
+      "stgdir": "\u00c0 M\u00e9rione.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "440",
+      "category": "6",
+      "explanation": "Non-verbal interaction where a kiss is involved.",
+      "stgdir": "Il le baise encore.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "441",
+      "category": "12",
+      "explanation": "Indicates the addressee of a speech, directed to Clidamis.",
+      "stgdir": "\u00c0 Clidamis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "442",
+      "category": "3",
+      "explanation": "Delivery, indicating an intense general uproar.",
+      "stgdir": "Toll\u00e9 g\u00e9n\u00e9ral.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "443",
+      "category": "10",
+      "explanation": "Interaction with an object, most likely a letter.",
+      "stgdir": "LETTRE",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "444",
+      "category": "9",
+      "explanation": "Narrative stage direction detailing actions with more context than typical directions.",
+      "stgdir": "Dassoucy, poursuivant Pierrotin, descend du ch\u00e2teau dans le parc ; il court, embarrasse par son luth qu'il tient de la main gauche.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "445",
+      "category": "0",
+      "explanation": "General action indicating movement; jumping.",
+      "stgdir": "Il saute.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "446",
+      "category": "8",
+      "explanation": "Music stage direction mentioning a choir and specifying what will be sung.",
+      "stgdir": "Le choeur chantera : Tulit ergo Dominas hominem. Alors, Dieu, \u00e9tendant la main vers te paradis, dira :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "447",
+      "category": "0",
+      "explanation": "General action; a light action or gesture involving petals from a bouquet.",
+      "stgdir": "Lui effeuillant son bouquet de roses sur la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "448",
+      "category": "11",
+      "explanation": "Describes the setting of a grand palace, with detailed architectural and design elements.",
+      "stgdir": "Le Soleil parait dans son palais. Ce palais est d'or, compos\u00e9 avec des colonnes torses d'or poli, qui sont rev\u00eatues de branches de Laurier qui les environnent, de couleur naturelle. Les chapiteaux sont d'or fin cisel\u00e9, et les bases des colonnes de m\u00eame mati\u00e8re, aussi bien que la frise et la corniche. Le corps du massif de ce palais est de pierres pr\u00e9cieuses, et tous les pi\u00e9destaux de marbre blanc, au milieu desquels on voit de gros Rubis. Les panneaux sont enrichis de veines d'or sur un fond de lapis. Au-dessus de la Corniche on voit, dans une esp\u00e8ce de petite Attique d'o\u00f9 naissent les cintres, des lires d'or, avec plusieurs ornements\u00a0; et dans le milieu des vo\u00fbtes sont peints de grands Soleils d'or poli, avec quantit\u00e9s d'autres ornements. L'Optique de ce palais est toute transparente, et jette un \u00e9clat qui \u00e9blouit.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "449",
+      "category": "3",
+      "explanation": "Describes delivery, specifically using a particular tone of voice.",
+      "stgdir": "Reprenant son ton de voix familier et indiff\u00e9rent.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 35343.061685562134,
+  "model": "gpt-4o"
+}

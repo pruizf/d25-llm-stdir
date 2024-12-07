@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "5",
+      "explanation": "Zerbine sort.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "5",
+      "explanation": "On sort de table, et on l'emporte.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "5",
+      "explanation": "Ormin s'en va.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "10",
+      "explanation": "Il fait lever la toile.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "3",
+      "explanation": "AIR : Mes chers amis, pouvez -vous m' enseigner, indique un chant.",
+      "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "6",
+      "explanation": "Tous les deux prennent place devant la table, ce qui implique une interaction.",
+      "stgdir": "Tous les deux prennent place devant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "12",
+      "explanation": "\u00c0 l'Eth\u00e9r\u00e9e, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "3",
+      "explanation": "AIR : le joli jeu d'amour, indique un chant.",
+      "stgdir": "AIR : le joli jeu d'amour.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "3",
+      "explanation": "Air : Pour qu'sa pr\u00e9tention soit bannie, indique un chant.",
+      "stgdir": "Air : Pour qu'sa pr\u00e9tention soit bannie.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "12",
+      "explanation": "\u00c0 Colette, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "160",
+      "category": "8",
+      "explanation": "Seconde chanson \u00e0 boire, d\u00e9signe une musique.",
+      "stgdir": "Seconde chanson \u00e0 boire",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "0",
+      "explanation": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main, d\u00e9crit une action.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "4",
+      "explanation": "Le Chevalier entre dans le cabinet, indique une entr\u00e9e.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "12",
+      "explanation": "\u00c0 l'Eth\u00e9r\u00e9e, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 l'Eth\u00e9r\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "3",
+      "explanation": "Air : Tes beaux jeux, ma Nicole, indique un chant.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "0",
+      "explanation": "Il fond en larmes, d\u00e9crit une action.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "9",
+      "explanation": "On entend la ritournelle du morceau, fait r\u00e9f\u00e9rence \u00e0 un son.",
+      "stgdir": "On entend la ritournelle du morceau.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "6",
+      "explanation": "Il se jette aux genoux de la Marquise, cela implique une interaction physique.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "0",
+      "explanation": "Elle pleure am\u00e8rement, d\u00e9crit une action.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "10",
+      "explanation": "Elle soul\u00e8ve l'autre vase et prend le billet, d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "170",
+      "category": "10",
+      "explanation": "Mettant le portefeuille sur une table, d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "Mettant le portefeuille sur une table[.]",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "12",
+      "explanation": "\u00c0 L\u00e9ontine, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 L\u00e9ontine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "5",
+      "explanation": "Villiers dispara\u00eet, une sortie.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "4",
+      "explanation": "Lisanor para\u00eet, une entr\u00e9e.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "12",
+      "explanation": "\u00c0 Monsieur de Chambre, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "0",
+      "explanation": "Il lit l'affiche, d\u00e9crit une action.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "10",
+      "explanation": "Il prend une couronne dans le panier d'Antoine, d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "0",
+      "explanation": "Il lit en parcourant, d\u00e9crit une action.",
+      "stgdir": "Il lit en parcourant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "5",
+      "explanation": "Tous sortent, except\u00e9 Baron, d\u00e9crit une sortie.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "Reprise de Choeur, d\u00e9signe la musique.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "180",
+      "category": "9",
+      "explanation": "Apr\u00e8s un silence, c'est une indication narrative.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "6",
+      "explanation": "Il lui donne le paquet ouvert, cela implique une interaction.",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "12",
+      "explanation": "\u00c0 Paul Ferrier, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Paul Ferrier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "5",
+      "explanation": "On se met \u00e0 table, indique une action collective.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "4",
+      "explanation": "Entr\u00e9e d'un Gille, indique une entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "1",
+      "explanation": "Il met la main \u00e0 l'\u00e9p\u00e9e, cela peut indiquer une menace.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "7",
+      "explanation": "Se rapprochant, indique un mouvement.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "1",
+      "explanation": "Elles enl\u00e8vent Constance, peut indiquer une action agressive.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "0",
+      "explanation": "Apercevant plusieurs sortes d'Animaux, d\u00e9crit une action.",
+      "stgdir": "Apercevant plusieurs sortes d'Animaux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "11",
+      "explanation": "La D\u00e9coration du th\u00e9\u00e2tre est d\u00e9crite, ce qui constitue un r\u00e9glage.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "190",
+      "category": "3",
+      "explanation": "Elle dit ceci bas, cela indique une fa\u00e7on de parler.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "6",
+      "explanation": "Il lui met la main dans la poche, cela implique une interaction.",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "9",
+      "explanation": "On entend de nouveau frapper \u00e0 la porte du fond, cette indication est narrative.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "12",
+      "explanation": "\u00c0 Darie, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "3",
+      "explanation": "Il chante, cela d\u00e9crit une performance vocale.",
+      "stgdir": "Il chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "11",
+      "explanation": "En prison, cela d\u00e9crit le cadre de la sc\u00e8ne.",
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "7",
+      "explanation": "Il tourne les yeux sur Henry, cela indique un mouvement.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "10",
+      "explanation": "Il montre son pouce, cela implique une interaction avec un geste.",
+      "stgdir": "Il montre son pouce.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "8",
+      "explanation": "AIR. S\u00fbre de ta foi, d\u00e9signe un chant.",
+      "stgdir": "AIR. S\u00fbre de ta foi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "10",
+      "explanation": "Il d\u00e9chire la Version, d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il d\u00e9chire la Version.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "200",
+      "category": "8",
+      "explanation": "AIR : Restez, restez, troupe jolie, d\u00e9signe un chant.",
+      "stgdir": "AIR : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "12",
+      "explanation": "\u00c0 Mercure, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "8",
+      "explanation": "Air 69. Un certain je-ne-sais-quoi, d\u00e9signe un chant.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "12",
+      "explanation": "\u00c0 Madame Grognac, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "5",
+      "explanation": "Elle se retire, indique une sortie.",
+      "stgdir": "Elle se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "3",
+      "explanation": "VOEU DE SOPHONISBE \u00c0 L'AMOUR, peut d\u00e9signer une sorte de chant ou de r\u00e9citation.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "9",
+      "explanation": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira, c'est une narration.",
+      "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, une description du cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "3",
+      "explanation": "Avec humeur, cela d\u00e9crit l'humeur du personnage dans sa fa\u00e7on de parler.",
+      "stgdir": "Avec humeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "0",
+      "explanation": "Lucile continue de regarder, d\u00e9crit une action.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "210",
+      "category": "12",
+      "explanation": "\u00c0 C\u00e9lie, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "12",
+      "explanation": "\u00c0 Tib\u00e8re, indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "9",
+      "explanation": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon, cela fait r\u00e9f\u00e9rence \u00e0 la musique.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "4",
+      "explanation": "Domitian entre, indique une entr\u00e9e.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "9",
+      "explanation": "On entend dans le lointain des cris et une marche militaire, d\u00e9crit des sons.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "6",
+      "explanation": "Il serre la main du Grand \u00c9crivain, cela d\u00e9crit une interaction.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "9",
+      "explanation": "Aux cris que pousse Th\u00e9cla, c'est une indication narrative.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "9",
+      "explanation": "On entend des clameurs en dehors, cela d\u00e9crit un son.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "6",
+      "explanation": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; cela implique une interaction.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "6",
+      "explanation": "Ils se regardent tous deux avec leurs lunettes, d\u00e9crit une interaction non verbale.",
+      "stgdir": "Ils se regardent tous deux avec leurs lunettes.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "220",
+      "category": "1",
+      "explanation": "Il le pousse, cela refl\u00e8te une action d'agression.",
+      "stgdir": "Il le pousse.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "11",
+      "explanation": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re, d\u00e9crit le d\u00e9cor.",
+      "stgdir": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re ; de jeunes cavaliers et de jeunes femmes se l\u00e8vent de table ; deux n\u00e8gres v\u00eatus en pages entrent en portant des flambeaux ; la sc\u00e8ne s'\u00e9claire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "3",
+      "explanation": "Avec ravissement, cela d\u00e9crit une mani\u00e8re d'exprimer une \u00e9motion.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "6",
+      "explanation": "Prenant la main de Silvia, cela d\u00e9crit une interaction.",
+      "stgdir": "Prenant la main de Silvia.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "8",
+      "explanation": "Fin de l'air : Revenant de Lorette, cela d\u00e9signe un chant.",
+      "stgdir": "Fin de l'air : Revenant de Lorette.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 25952.89134979248,
+  "model": "gpt-4o-mini"
+}

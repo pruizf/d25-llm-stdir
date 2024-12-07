@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "7",
+      "explanation": "The character is moving towards someone, indicating movement.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": "1",
+      "explanation": "The character is performing a violent action by lifting the guards.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "5",
+      "explanation": "The character is leaving the stage, indicating an exit.",
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "Air : Un Pr\u00e9fet beau, bien fait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "3",
+      "explanation": "The character is performing a musical action, indicating delivery.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "6",
+      "explanation": "The characters are interacting non-verbally by presenting and accepting a hand.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "0",
+      "explanation": "The character is performing a general action of looking.",
+      "stgdir": "Regardant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "12",
+      "explanation": "The character is addressing Aricie, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "5",
+      "explanation": "The character is leaving the stage, indicating an exit.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "0",
+      "explanation": "The character is performing a general action of noticing something.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "5",
+      "explanation": "The characters are leaving the stage, indicating an exit.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "AIR 6. ( Vous avez bien de la bont\u00e9. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "0",
+      "explanation": "The character is performing a general action of looking.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "9",
+      "explanation": "The stage direction describes a sound effect, indicating narration.",
+      "stgdir": "Clameurs \u00e9loign\u00e9es.)",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune number, indicating it is related to music.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "5",
+      "explanation": "The character is leaving the stage, indicating an exit.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "10",
+      "explanation": "The character is interacting with an object by sealing a letter.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "5",
+      "explanation": "The character is leaving the stage, indicating an exit.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "10",
+      "explanation": "The character is interacting with objects by giving and reading letters.",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "0",
+      "explanation": "The character is performing a general action of throwing himself at someone's feet.",
+      "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "0",
+      "explanation": "The character is performing a general action of knocking again.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "The character is performing a violent action by hitting someone.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "12",
+      "explanation": "The character is addressing Montval, indicating the addressee of a speech.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "12",
+      "explanation": "The character is addressing the Spirits, indicating the addressee of a speech.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "7",
+      "explanation": "The character is moving towards a small door, indicating movement.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "12",
+      "explanation": "The character is addressing Scanderberg, indicating the addressee of a speech.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "12",
+      "explanation": "The character is addressing the ancient Senators, indicating the addressee of a speech.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "0",
+      "explanation": "The character is performing a general action of looking at a diamond.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "5",
+      "explanation": "The character is leaving the stage, indicating an exit.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "11",
+      "explanation": "The stage direction describes the setting or decoration of the stage.",
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "2",
+      "explanation": "The character is speaking aside, indicating an aparte.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "11",
+      "explanation": "The stage direction describes the setting or decoration of the stage.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "1",
+      "explanation": "The characters are performing a violent action by hitting someone.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "0",
+      "explanation": "The character is performing a general action of looking at his daughter.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "12",
+      "explanation": "The character is addressing someone by showing a letter, indicating the addressee of a speech.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "5",
+      "explanation": "The character is leaving the stage, indicating an exit.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "4",
+      "explanation": "The character is entering the stage, indicating an entrance.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "9",
+      "explanation": "The stage direction provides a long narrative description, indicating narration.",
+      "stgdir": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "12",
+      "explanation": "The character is addressing one of the Arabs, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "0",
+      "explanation": "The character is performing a general action of noticing someone.",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "12",
+      "explanation": "The character is addressing the father of the family, indicating the addressee of a speech.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "12",
+      "explanation": "The character is addressing the valet, indicating the addressee of a speech.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "8",
+      "explanation": "The stage direction mentions a musical term, indicating it is related to music.",
+      "stgdir": "Symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "5",
+      "explanation": "The character is leaving the stage while singing, indicating an exit.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "4",
+      "explanation": "The character is entering his house, indicating an entrance.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "3",
+      "explanation": "The character is performing a musical action by singing, indicating delivery.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "10",
+      "explanation": "The character is interacting with an object by giving a letter.",
+      "stgdir": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "10",
+      "explanation": "The character is interacting with an object by giving her skirt.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "6",
+      "explanation": "The character is interacting non-verbally by making someone walk around the stage.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "5",
+      "explanation": "The character is leaving the stage, indicating an exit.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "12",
+      "explanation": "The character is addressing Marlot, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "12",
+      "explanation": "The character is addressing Rosbif, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Rosbif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "12",
+      "explanation": "The character is addressing Mademoiselle Moli\u00e8re, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "10",
+      "explanation": "The character is interacting with an object by giving a promise.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "12",
+      "explanation": "The character is addressing Monr\u00e9al p\u00e8re, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Monr\u00e9al p\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "5",
+      "explanation": "The characters are leaving the stage, indicating an exit.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "4",
+      "explanation": "The characters are entering the stage, indicating an entrance.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "12",
+      "explanation": "The character is addressing Genseric, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "3",
+      "explanation": "The character is performing a musical action by singing a ridiculous song, indicating delivery.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "9",
+      "explanation": "The stage direction describes a meal setting, indicating narration.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "10",
+      "explanation": "The character is interacting with an object by filling and closing a bag.",
+      "stgdir": "Serre-fort remplit et referme le sac.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "4",
+      "explanation": "The character is entering the stage, indicating an entrance.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "12",
+      "explanation": "The character is addressing Pyrrhus, indicating the addressee of a speech.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "4",
+      "explanation": "The character is entering the stage, indicating an entrance.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "8",
+      "explanation": "The stage direction mentions a tune name, indicating it is related to music.",
+      "stgdir": "Air : J'ai vu partout dans mes voyages.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "12",
+      "explanation": "The character is addressing Colin, indicating the addressee of a speech.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "7",
+      "explanation": "The character is moving towards the back of the stage, indicating movement.",
+      "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "9",
+      "explanation": "The stage direction provides a narrative description of the character's actions and reactions, indicating narration.",
+      "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "0",
+      "explanation": "The character is performing a general action of calling his valets.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "action"
+    }
+  ],
+  "response_time": 102797.49798774719,
+  "model": "mistral-large-2407"
+}

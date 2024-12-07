@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": "9",
+      "explanation": "Il s'agit d'une description de ce que les passants per\u00e7oivent, ce qui rel\u00e8ve de la narration.",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": "7",
+      "explanation": "Le verbe 'remontent' implique un d\u00e9placement, ce qui correspond \u00e0 la cat\u00e9gorie 'movement'.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": "0",
+      "explanation": "L'action de finir une lettre est une activit\u00e9 du personnage, bien que simple.",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": "8",
+      "explanation": "Le mot 'AIR' suivi d'une description indique qu'il s'agit du nom d'un air ou d'une chanson.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": "8",
+      "explanation": "La mention de fl\u00fbtes et clarinettes \u00e0 l'orchestre concerne la musique, donc cette cat\u00e9gorie est appropri\u00e9e.",
+      "stgdir": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": "0",
+      "explanation": "Montrer une partie du corps est une action du personnage.",
+      "stgdir": "Montrant son front.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": "5",
+      "explanation": "La phrase \u00e9voque l'action de quitter un endroit.",
+      "stgdir": "Il quitte le balcon.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": "5",
+      "explanation": "L'action de sortir de la sc\u00e8ne par diff\u00e9rents c\u00f4t\u00e9s est une sortie.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": "1",
+      "explanation": "Le fait de frapper quelqu'un constitue une agression.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": "0",
+      "explanation": "L'action de montrer quelque chose est une activit\u00e9 du personnage.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "310",
+      "category": "9",
+      "explanation": "La didascalie est longue, narrative, d\u00e9crivant une sc\u00e8ne complexe. Elle rel\u00e8ve de la narration.",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "311",
+      "category": "0",
+      "explanation": "Prendre la bouteille est une action simple mais sp\u00e9cifique de manipulation d'objet.",
+      "stgdir": "Prenant la bouteille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "312",
+      "category": "6",
+      "explanation": "L'action de baiser implique une interaction physique entre personnes.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "313",
+      "category": "8",
+      "explanation": "Le mot 'Air' indique qu'il s'agit du nom d'un air musical.",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "314",
+      "category": "12",
+      "explanation": "La didascalie indique vers qui la r\u00e9plique ou action est dirig\u00e9e, ici Laurent.",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "315",
+      "category": "7",
+      "explanation": "Aller aux fontaines et boire n\u00e9cessitent un d\u00e9placement, donc cette cat\u00e9gorie est pertinente.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "316",
+      "category": "8",
+      "explanation": "Le mot 'Air' indique que c'est un nom de musique.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "317",
+      "category": "10",
+      "explanation": "Donner une ordonnance implique la manipulation et remise d'un objet.",
+      "stgdir": "Il donne une ordonnance.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "318",
+      "category": "10",
+      "explanation": "Remettre une lettre est l'action de donner un objet.",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "319",
+      "category": "12",
+      "explanation": "Le pr\u00e9dicat indique l'interlocuteur, le prince, donc cette cat\u00e9gorie est appropri\u00e9e.",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "320",
+      "category": "8",
+      "explanation": "Le mot 'AIR' suivi de la description est typique pour d\u00e9signer une chanson sp\u00e9cifique.",
+      "stgdir": "AIR Tu croyais, en aimant Colette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "12",
+      "explanation": "Indique vers qui l'action est dirig\u00e9e, donc c'est cette cat\u00e9gorie.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "12",
+      "explanation": "Indique le destinataire d'une interaction ou r\u00e9plique.",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "4",
+      "explanation": "L'arriv\u00e9e de neuf choristes et deux individus sur sc\u00e8ne constitue une entr\u00e9e.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "0",
+      "explanation": "Montrer un objet ou une structure reste une action basique.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "3",
+      "explanation": "Chanter l'air en entier est une performance vocale.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "0",
+      "explanation": "Lever un masque est une action physique par un personnage.",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "0",
+      "explanation": "Se remettre sous-entend un changement de posture ou situation personnelle.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "3",
+      "explanation": "Prendre un air s\u00e9v\u00e8re indique une expression d'\u00e9motion ou d'attitude.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "8",
+      "explanation": "Il s'agit de l'\u00e9nonciation d'un air musical.",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "330",
+      "category": "8",
+      "explanation": "Le terme 'AIR' indique le nom d'un air ou chanson.",
+      "stgdir": "AIR. Au bout du monde, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "331",
+      "category": "5",
+      "explanation": "L'action de s'en aller signifie que le personnage quitte la sc\u00e8ne.",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "332",
+      "category": "8",
+      "explanation": "D\u00e9note le nom d'un air musical.",
+      "stgdir": "Air : Morgu\u00e9, la femme qui m'aura.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "333",
+      "category": "8",
+      "explanation": "Titre d'une composition musicale ou pi\u00e8ce.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "334",
+      "category": "0",
+      "explanation": "Fouiller dans des poches est une action impliquant le personnage.",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "335",
+      "category": "4",
+      "explanation": "L'apparition de Phalante sur la sc\u00e8ne implique une entr\u00e9e.",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "336",
+      "category": "3",
+      "explanation": "\u00c9tat ou configuration exprim\u00e9e par 'Ensemble', parfois musicale/chorale.",
+      "stgdir": "Ensemble",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "337",
+      "category": "5",
+      "explanation": "Indique que Pysandre quitte la sc\u00e8ne.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "338",
+      "category": "0",
+      "explanation": "Boire est une action accomplie par les personnages sans l'ajout d'une autre interaction.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "339",
+      "category": "9",
+      "explanation": "Mentionne le bruit de guerre qui s'inscrit dans une dimension narrative au-del\u00e0 du dialogue direct.",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "340",
+      "category": "1",
+      "explanation": "Frapper Arlequin constitue une agression.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "341",
+      "category": "12",
+      "explanation": "Didascalie concernant l'\u00e9nonciation vers une personne sp\u00e9cifique, ici Placide.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "342",
+      "category": "8",
+      "explanation": "Indique le nom d'un air musical particulier.",
+      "stgdir": "Air : Moi qui veux m'instruire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "343",
+      "category": "8",
+      "explanation": "Identifie un air ou nom musical sp\u00e9cifique.",
+      "stgdir": "Air : Sa ne vous va brin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "344",
+      "category": "8",
+      "explanation": "\u00c9tiquet\u00e9 comme nom d'air musical.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "345",
+      "category": "12",
+      "explanation": "Dirige une action ou r\u00e9plique vers un personnage nomm\u00e9.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "346",
+      "category": "12",
+      "explanation": "Indique vers qui l'attention ou action est dirig\u00e9e, ici Vasta.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "347",
+      "category": "8",
+      "explanation": "Identifie le nom d'un air musical ou chanson.",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "348",
+      "category": "0",
+      "explanation": "L'action de montrer implique une activit\u00e9 du personnage sur sc\u00e8ne.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "349",
+      "category": "8",
+      "explanation": "Indique un titre ou nom d'air, li\u00e9 \u00e0 la musique.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "350",
+      "category": "8",
+      "explanation": "Pr\u00e9sentation du nom d'un air ou formule musicale.",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "351",
+      "category": "12",
+      "explanation": "Dirige vers le destinataire dans la situation sc\u00e9nique, ici le Courtisan.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "352",
+      "category": "8",
+      "explanation": "Mention d'un air musical sp\u00e9cifique.",
+      "stgdir": "Air : Va, va, Fanchon, J'irai en salle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "353",
+      "category": "3",
+      "explanation": "Le fait de prendre un air d'importance peut exprimer une attitude ou \u00e9motion.",
+      "stgdir": "D'un air d'importance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "354",
+      "category": "10",
+      "explanation": "Identifie un document ou message \u00e9crit.",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "355",
+      "category": "5",
+      "explanation": "Indique que Baptiste quitte pr\u00e9cipitamment la sc\u00e8ne.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "356",
+      "category": "6",
+      "explanation": "Didascalie d\u2019une action non verbale visant \u00e0 montrer ou indiquer \u00e0 une personne.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "357",
+      "category": "7",
+      "explanation": "Effectuer une jonction et se sauver implique un d\u00e9placement, diff\u00e9rent d'une simple sortie de sc\u00e8ne.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "358",
+      "category": "6",
+      "explanation": "Non explicite interaction par la communication entre les quatre.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "359",
+      "category": "10",
+      "explanation": "Maniement d'objets, compr\u00e9hensions d'\u00e9changes et remise d'objets.",
+      "stgdir": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "360",
+      "category": "0",
+      "explanation": "Frapper dans un contexte g\u00e9n\u00e9ral est consid\u00e9r\u00e9 comme une activit\u00e9.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "361",
+      "category": "8",
+      "explanation": "Le titre mentionn\u00e9 d\u00e9signe un air musical.",
+      "stgdir": "Air Par bonheur, ou par malheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "362",
+      "category": "12",
+      "explanation": "Didascalie de direction de r\u00e9plique, ici adress\u00e9e \u00e0 Albert.",
+      "stgdir": "\u00c0 Albert.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "363",
+      "category": "9",
+      "explanation": "Narratif, car il d\u00e9crit un son entendu dans la sc\u00e8ne.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "364",
+      "category": "12",
+      "explanation": "Indique la direction vers laquelle l'action ou parole est dirig\u00e9e.",
+      "stgdir": "\u00c0 Madame Duru.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "365",
+      "category": "11",
+      "explanation": "Capte la repr\u00e9sentation visuelle de la sc\u00e8ne th\u00e9\u00e2trale, consid\u00e9r\u00e9e comme d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "366",
+      "category": "7",
+      "explanation": "Le saut implique un mouvement sous une fen\u00eatre.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "367",
+      "category": "12",
+      "explanation": "Indique le destinataire ou l'objectif de l'interaction.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "368",
+      "category": "4",
+      "explanation": "Retour de personnages sur sc\u00e8ne, ce qui concerne une entr\u00e9e.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "369",
+      "category": "12",
+      "explanation": "Didascalie vers une focalisation ou destinataire d\u00e9sign\u00e9, ici Pierrot.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "370",
+      "category": "10",
+      "explanation": "L'acte de mettre un manteau implique manipulation de v\u00eatement/costume.",
+      "stgdir": "Il lui met le manteau royal.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "371",
+      "category": "8",
+      "explanation": "Didascalie musicale d\u00e9crivant un air sp\u00e9cifique.",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "372",
+      "category": "4",
+      "explanation": "Entr\u00e9e ou pr\u00e9sences de groupes jouant \u00e0 divers jeux.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "373",
+      "category": "0",
+      "explanation": "S'asseoir est une activit\u00e9 physique standard des personnages.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "374",
+      "category": "4",
+      "explanation": "L'entr\u00e9e dans un cabinet est une indication de mouvement d'entr\u00e9e.",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "entrance"
+    }
+  ],
+  "response_time": 27099.472522735596,
+  "model": "gpt-4o"
+}

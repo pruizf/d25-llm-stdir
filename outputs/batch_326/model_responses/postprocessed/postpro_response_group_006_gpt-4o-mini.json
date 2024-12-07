@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "450",
+      "category": "7",
+      "explanation": "Cette didascalie d\u00e9crit un mouvement, \u00e0 savoir le fait qu'elle fait quelques pas pour sortir.",
+      "stgdir": "Elle fait quelques pas pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "451",
+      "category": "11",
+      "explanation": "Il s'agit d'une description du cadre de la pi\u00e8ce, repr\u00e9sentant une chambre \u00e0 coucher.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "452",
+      "category": "7",
+      "explanation": "Cette didascalie indique le mouvement de la personne qui passe \u00e0 gauche.",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "453",
+      "category": "10",
+      "explanation": "Le fait qu'il tire un habit de campagne d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il tire un habit de campagne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "454",
+      "category": "1",
+      "explanation": "Cela indique une action agressive o\u00f9 le petit Blandineau et sa s\u0153ur battent Jannot.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "455",
+      "category": "12",
+      "explanation": "Cela indique un lieu, '\u00c0 Zaide', ce qui sugg\u00e8re une direction de discours.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "456",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, comme mentionn\u00e9 par 'Air'.",
+      "stgdir": "Air, Ah le bel oiseau etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "457",
+      "category": "10",
+      "explanation": "Cette didascalie d\u00e9crit l'action de lui donner une lettre, interagissant avec un objet.",
+      "stgdir": "Il lui donne la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "458",
+      "category": "9",
+      "explanation": "On entend une cloche, et cela repr\u00e9sente un son dans le r\u00e9cit de la pi\u00e8ce.",
+      "stgdir": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "459",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction o\u00f9 Don C\u00e9sar re\u00e7oit la main d'Isabelle, indiquant une connection physique.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "460",
+      "category": "6",
+      "explanation": "Cette didascalie d\u00e9crit plusieurs interactions entre H\u00e9l\u00e8ne, Madame Dumond et le prieur.",
+      "stgdir": "Madame Dumond et le prieur sortent. H\u00e9l\u00e8ne va leur ouvrir la porte, et leur fait plusieurs r\u00e9v\u00e9rences, que Madame Dumond lui rend apr\u00e8s l'avoir embrass\u00e9e. Pendant ce temps Monique reste seule sur le devant du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "461",
+      "category": "8",
+      "explanation": "Cela indique que Crispe se retire, ce qui est un changement dans la dynamique de la musique.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "462",
+      "category": "11",
+      "explanation": "Cette didascalie compl\u00e8te d\u00e9peint le setting du th\u00e9\u00e2tre, sp\u00e9cifiant le salon de coiffeur.",
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "463",
+      "category": "4",
+      "explanation": "Il s'agit d'une indication d'entr\u00e9e pour un personnage ou une sc\u00e8ne.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "464",
+      "category": "3",
+      "explanation": "Il s'agit d'une situation o\u00f9 le personnage parle \u00e0 sa femme, ce qui implique une expression verbale.",
+      "stgdir": "Il parle \u00e0 sa femme.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "465",
+      "category": "10",
+      "explanation": "Cette didascalie montre qu'il ouvre une autre lettre, interagissant avec un objet.",
+      "stgdir": "Ouvrant une autre lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "466",
+      "category": "1",
+      "explanation": "Des actions de menace et de violence sont d\u00e9crites ici entre les personnages, ce qui les classe dans l'agression.",
+      "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "467",
+      "category": "8",
+      "explanation": "Il s'agit d'un air musical, comme indiqu\u00e9 par 'Air', accompagn\u00e9 de la mention du contenu musical.",
+      "stgdir": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "468",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit un cadre, le vestibule d'un h\u00f4tel de ville, et donne des indications sur le setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "469",
+      "category": "12",
+      "explanation": "Une destination est indiqu\u00e9e ici avec '\u00c0 Antonin', sugg\u00e9rant un endroit ou un interlocuteur.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "470",
+      "category": "10",
+      "explanation": "Elle lui pr\u00e9sente une lettre, d\u00e9crivant une interaction avec un objet.",
+      "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "471",
+      "category": "12",
+      "explanation": "Une adresse ou un lieu est pr\u00e9cis\u00e9 ici, '\u00c0 Coucy', sugg\u00e9rant une direction de discours.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "472",
+      "category": "12",
+      "explanation": "R\u00e9f\u00e9rence \u00e0 un destinataire, '\u00c0 son cheval', peut indiquer une direction ou un lieu.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "473",
+      "category": "10",
+      "explanation": "Il couvre le presse-papier avec le chapeau, interagissant avec un objet.",
+      "stgdir": "Il couvre le presse-papier avec le chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "474",
+      "category": "3",
+      "explanation": "Cela \u00e9voque une atmosph\u00e8re solennelle dans le contexte de la pi\u00e8ce.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "475",
+      "category": "6",
+      "explanation": "Il montre le mari de la Vieille, indiquant une interaction non verbale.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "476",
+      "category": "8",
+      "explanation": "C'est un air musical, not\u00e9 par 'Air 30', sp\u00e9cifiant une pi\u00e8ce musicale.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "477",
+      "category": "8",
+      "explanation": "C'est un air musical, not\u00e9 par 'Air', sp\u00e9cifiant le contenu musical.",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "478",
+      "category": "6",
+      "explanation": "\u00c0 Isabelle se touchant le front indique une interaction non verbale entre personnages.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "479",
+      "category": "6",
+      "explanation": "Figaro passe le linge au cou de Bartholo, indiquant une interaction physique.",
+      "stgdir": "Figaro passe le linge au cou de Bartholo.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "480",
+      "category": "3",
+      "explanation": "Il chante un petit motet, ce qui implique une expression vocale.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "481",
+      "category": "6",
+      "explanation": "Cela montre une sorte de pr\u00e9paration active, comme un \u00e9chauffement, indiquant une interaction physique.",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "482",
+      "category": "7",
+      "explanation": "Indiquer qu'un personnage est rest\u00e9 assis implique un \u00e9tat de mouvement relatif \u00e0 sa position.",
+      "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "483",
+      "category": "6",
+      "explanation": "Il la retient encore par le bras, ce qui est une interaction non verbale.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "484",
+      "category": "7",
+      "explanation": "Cela implique un mouvement collectif des personnages, ici d\u00e9crit comme 'r\u00e9p\u00e9tant'.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "485",
+      "category": "12",
+      "explanation": "Cela implique une direction de discours, avec 'En montrant Betti'.",
+      "stgdir": "En montrant Betti.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "486",
+      "category": "12",
+      "explanation": "Cela d\u00e9signe un point d'attention, '\u00c0 la balustrade', donnant une direction d'interaction.",
+      "stgdir": "\u00c0 la balustrade.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "487",
+      "category": "5",
+      "explanation": "Il s'agit d'une sortie de Jean Poquelin, comprenant un mouvement de d\u00e9part.",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "488",
+      "category": "6",
+      "explanation": "Il la reprend, sugg\u00e9rant une interaction physique entre les personnages.",
+      "stgdir": "Il la reprend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "489",
+      "category": "8",
+      "explanation": "Cela mentionne un air musical, 'AIR. Je voudrais bien me marier', indiquant une pi\u00e8ce musicale.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "490",
+      "category": "12",
+      "explanation": "Indique le destinataire des paroles '\u00c0 Antoinette', int\u00e9grant une direction de discours.",
+      "stgdir": "\u00c0 Antoinette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "491",
+      "category": "12",
+      "explanation": "Une autre indication de direction de discours, '\u00c0 Tronquoy'.",
+      "stgdir": "\u00c0 Tronquoy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "492",
+      "category": "6",
+      "explanation": "S'\u00e9tablir dans le fauteuil repr\u00e9sente une interaction non verbale avec l'environnement.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "493",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit un changement de sc\u00e8ne, le Palais d'AEg\u00e9e repr\u00e9sente un cadre sc\u00e9nique.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "494",
+      "category": "1",
+      "explanation": "Don Carlos tire son \u00e9p\u00e9e, indiquant une action agressive.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "495",
+      "category": "12",
+      "explanation": "Indique une destination de discours, '\u00c0 Madherbal'.",
+      "stgdir": "\u00c0 Madherbal",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "496",
+      "category": "6",
+      "explanation": "Il anime ses capitaines, montrant une interaction de commande et leadership.",
+      "stgdir": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s,",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "497",
+      "category": "10",
+      "explanation": "Il prend une lettre dans sa poche, interagissant avec un objet.",
+      "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "498",
+      "category": "9",
+      "explanation": "Didascalie narrative qui d\u00e9crit une sc\u00e8ne complexe et ma\u00e7onn\u00e9e avec plusieurs personnages.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente sur le devant un lieu champ\u00eatre, et dans l'enfoncement un rocher perc\u00e9 \u00e0 jour, \u00e0 travers duquel on voit la mer en \u00e9loignement. Flore para\u00eet au milieu du th\u00e9\u00e2tre, accompagn\u00e9 de Vertumne Dieu des Arbres et des Fruits, et de Palamon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinit\u00e9s ; l'un m\u00e8ne \u00e0 sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Na\u00efades, Flore chante ce r\u00e9cit pour inviter V\u00e9nus \u00e0 descendre en Terre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "499",
+      "category": "0",
+      "explanation": "Frappant sur la table d\u00e9crit une action qui ne correspond vraiment \u00e0 aucune autre cat\u00e9gorie.",
+      "stgdir": "Frappant sur la table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "500",
+      "category": "8",
+      "explanation": "Indique une musique, 'Air : Vaud[e]v[ille] d'Abuzar', lui assignant un th\u00e8me musical.",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "501",
+      "category": "8",
+      "explanation": "C'est un air musical, not\u00e9 par 'AIR: Ton petit minois'.",
+      "stgdir": "AIR: Ton petit minois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "502",
+      "category": "8",
+      "explanation": "Cela indique un \u00e9l\u00e9ment musical, 'III COUPLET', qui se rapporte \u00e0 une structure musicale.",
+      "stgdir": "III COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "503",
+      "category": "12",
+      "explanation": "Indique une direction des paroles, '\u00c0 Ardenie'.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "504",
+      "category": "8",
+      "explanation": "Une autre indication d'un air musical, 'AIR. Un inconnu'.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "505",
+      "category": "11",
+      "explanation": "Description du set avec 'Le palais du roi', indiquant le cadre.",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "506",
+      "category": "8",
+      "explanation": "Un air de musique est annonc\u00e9 ici, 'AIR. ( Ma raison s'en va beau train. )'.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "507",
+      "category": "9",
+      "explanation": "C'est une description narrative de ce qui est observ\u00e9 dans la sc\u00e8ne.",
+      "stgdir": "Ils continuent a chercher le faux Proph\u00e8te, qui jette sur eux quantit\u00e9 de p\u00e9tards et d'autres feux d'artifice qui enflamment l'air. On voit en m\u00eame temps Arlequin dans sa machine qui traverse le th\u00e9\u00e2tre. Il a un pourpoint noir avec un turban et une longue barbe blanche. Le Roi et le Kam sont frapp\u00e9s de cette apparition ; et la Suivante profitant de la crainte dont elle voit le Roi saisi lui dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "508",
+      "category": "8",
+      "explanation": "D\u00e9signe une entr\u00e9e musicale, 'Troisi\u00e8me entr\u00e9e de ballet'.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "509",
+      "category": "12",
+      "explanation": "Dire '\u00c0 Philom\u00e8le' indique \u00e9galement une direction de discours.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "510",
+      "category": "8",
+      "explanation": "Une activit\u00e9 musicale est mentionn\u00e9e avec 'Air : Non je ne ferai pas, etc.'.",
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "511",
+      "category": "9",
+      "explanation": "Testament de L\u00e9once indique une r\u00e9f\u00e9rence narrative ou une histoire relat\u00e9e.",
+      "stgdir": "Testament de L\u00e9once.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "512",
+      "category": "10",
+      "explanation": "Tirer un portefeuille de sa poche implique une interaction avec un objet.",
+      "stgdir": "Tirant un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "513",
+      "category": "12",
+      "explanation": "Indique une direction de discours vers \u00c9sope.",
+      "stgdir": "\u00c0 \u00c9sope.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "514",
+      "category": "5",
+      "explanation": "Ce personnage veut partir, indiquant qu'il s'appr\u00eate \u00e0 sortir de la sc\u00e8ne.",
+      "stgdir": "Il veut partir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "515",
+      "category": "5",
+      "explanation": "Indique une action de mani\u00e8re franche, o\u00f9 elle se l\u00e8ve pour sortir.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "516",
+      "category": "10",
+      "explanation": "Il laisse tomber sa lettre, ce qui traite d'une interaction avec un objet.",
+      "stgdir": "Il laisse tomber sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "517",
+      "category": "9",
+      "explanation": "Cette didascalie narrative indique un \u00e9v\u00e9nement fantastique dans la pi\u00e8ce.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "518",
+      "category": "3",
+      "explanation": "Cela d\u00e9crit la r\u00e9p\u00e9tition de vers, une action verbale r\u00e9p\u00e9t\u00e9e.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "519",
+      "category": "12",
+      "explanation": "C'est une direction de discours, '\u00c0 \u00c9rix\u00e8ne', indiquant \u00e0 qui est adress\u00e9 le discours.",
+      "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "520",
+      "category": "8",
+      "explanation": "Il mentionne un air musical associ\u00e9 \u00e0 cette didascalie.",
+      "stgdir": "Air de la Clef des champs (Deff\u00e8s)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "521",
+      "category": "9",
+      "explanation": "Cela d\u00e9crit l'\u00e9tat d'Alfred en voyant ce qui se passe, ajoutant une dimension narrative.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "522",
+      "category": "3",
+      "explanation": "S'interrompant indique une fa\u00e7on d'exprimer une \u00e9motion dans le discours.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "523",
+      "category": "3",
+      "explanation": "Cela signale une situation d'exclamation 'AIR : Va t'en voir s'ils viennent Jean'.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "524",
+      "category": "7",
+      "explanation": "Revenant promptement \u00e0 elle indique mouvement vers un personnage.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 31250.856161117554,
+  "model": "gpt-4o-mini"
+}

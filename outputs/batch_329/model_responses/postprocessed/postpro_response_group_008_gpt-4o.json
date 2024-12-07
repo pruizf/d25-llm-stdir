@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "8",
+      "explanation": "La didascalie indique un 'Air', ce qui sugg\u00e8re qu'il s'agit d'une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "0",
+      "explanation": "Elle \u00f4te sa main est une action g\u00e9n\u00e9rale, donc elle appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Elle \u00f4te sa main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "0",
+      "explanation": "Ouvrir le tiroir est une action concernant un objet, donc cela rel\u00e8ve de la cat\u00e9gorie 0 action.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "12",
+      "explanation": "Dirig\u00e9 vers Haly, 'Il parle \u00e0 Haly' indique l'adresse d'une r\u00e9plique \u00e0 quelqu'un, donc cat\u00e9gorie toward.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "12",
+      "explanation": "Aux Chouans indique que quelque chose est dirig\u00e9 vers le groupe des Chouans, donc cat\u00e9gorie toward.",
+      "stgdir": "Aux Chouans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "5",
+      "explanation": "Cette didascalie indique une sortie de sc\u00e8ne, except\u00e9 Babet, donc elle correspond \u00e0 la cat\u00e9gorie exit.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "11",
+      "explanation": "Description de la sc\u00e8ne initiale au lever du rideau, donc dans la cat\u00e9gorie setting.",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "Indiqu\u00e9 comme \u00e9tant pour les 'autres conseillers', c'est une indication de destinataire, donc cat\u00e9gorie toward.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "11",
+      "explanation": "Description du Th\u00e9\u00e2tre qui repr\u00e9sente un lieu sp\u00e9cifique, l'Antre d'Aristandre, donc cat\u00e9gorie setting.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "5",
+      "explanation": "Le chevalier Uladislas sort de l'h\u00f4tellerie indique une sortie de sc\u00e8ne, donc cat\u00e9gorie exit.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "610",
+      "category": "8",
+      "explanation": "La mention 'AIR' suivie d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "611",
+      "category": "12",
+      "explanation": "L'indication qu'il s'adresse aux Enfants d\u00e9signe un destinataire, donc cat\u00e9gorie toward.",
+      "stgdir": "Il s'adresse aux Enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "612",
+      "category": "0",
+      "explanation": "Montrer les Muses est une action g\u00e9n\u00e9rale, donc elle appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "613",
+      "category": "5",
+      "explanation": "Elle sort suivie des Paysans et Paysannes indique une sortie de sc\u00e8ne, donc cat\u00e9gorie exit.",
+      "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "614",
+      "category": "8",
+      "explanation": "Les violons jouant une marche est une indication musicale, donc cat\u00e9gorie music.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "615",
+      "category": "7",
+      "explanation": "Il le suit est une indication de mouvement, donc cat\u00e9gorie movement.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "616",
+      "category": "3",
+      "explanation": "L'indication qu'il chante 'avec Galaor' concerne une expression vocale, donc cat\u00e9gorie delivery.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "617",
+      "category": "7",
+      "explanation": "Exprimer le d\u00e9sir de partir implique un mouvement, donc cat\u00e9gorie movement.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "618",
+      "category": "0",
+      "explanation": "Se mettre \u00e0 ses pieds est consid\u00e9r\u00e9 comme une action physique, donc cat\u00e9gorie action.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "619",
+      "category": "9",
+      "explanation": "Un grand silence est mentionn\u00e9, ce qui est un \u00e9l\u00e9ment sonore observable au sens narratif, donc cat\u00e9gorie narration.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "620",
+      "category": "5",
+      "explanation": "Tous sortent indique une sortie de sc\u00e8ne, donc cat\u00e9gorie exit.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "621",
+      "category": "8",
+      "explanation": "AIR et son titre indiquent un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "622",
+      "category": "0",
+      "explanation": "Servir de la soupe est une action d'interaction avec un objet, donc cat\u00e9gorie action.",
+      "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "623",
+      "category": "7",
+      "explanation": "Faire un mouvement pour s'\u00e9loigner implique un d\u00e9placement, donc cat\u00e9gorie movement.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "624",
+      "category": "3",
+      "explanation": "Chanter un dialogue en musique implique une forme d'expression vocale, donc cat\u00e9gorie delivery.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "625",
+      "category": "6",
+      "explanation": "Le fait d'embrasser implique une interaction physique, donc cat\u00e9gorie interaction.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "626",
+      "category": "12",
+      "explanation": "\u00c0 Hiaskar d\u00e9signe le destinataire de l'action, donc cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "627",
+      "category": "8",
+      "explanation": "AIR et son titre indiquent un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "AIR : Le luth galant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "628",
+      "category": "11",
+      "explanation": "Description de la sc\u00e8ne impliquant Pauline \u00e0 la rue et \u00c9lise \u00e0 la fen\u00eatre, donc cat\u00e9gorie setting.",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "629",
+      "category": "0",
+      "explanation": "Ouvrir le papier est consid\u00e9r\u00e9 comme une action sur un objet, donc cat\u00e9gorie action.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "630",
+      "category": "1",
+      "explanation": "Faire un massacre de Polonais implique de la violence, donc cat\u00e9gorie aggression.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "4",
+      "explanation": "Ils apparaissent tous trois indique une entr\u00e9e en sc\u00e8ne, donc cat\u00e9gorie entrance.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "8",
+      "explanation": "AIR suivi d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "AIR suivi d'un titre, donc li\u00e9 \u00e0 la musique, donc cat\u00e9gorie music.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "12",
+      "explanation": "\u00c0 Zoroastre d\u00e9signe le destinataire de l'action, donc cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Zoroastre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "5",
+      "explanation": "Jos\u00e9phine et Marthe sortent indique une sortie de sc\u00e8ne, donc cat\u00e9gorie exit.",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "0",
+      "explanation": "Manger implique une action g\u00e9n\u00e9rale, donc elle appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "4",
+      "explanation": "Val\u00e9rian entre, ce qui est une entr\u00e9e, donc cat\u00e9gorie entrance.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "AIR suivi d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "10",
+      "explanation": "Prendre un portefeuille implique une interaction avec un objet, donc cat\u00e9gorie object.",
+      "stgdir": "Bernard prend le portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "640",
+      "category": "6",
+      "explanation": "Voir ou regarder Gaston implique une interaction, donc cat\u00e9gorie interaction.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "5",
+      "explanation": "La t\u00eate de Georges dispara\u00eet implique une sortie de sc\u00e8ne, donc cat\u00e9gorie exit.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "7",
+      "explanation": "Le fait de se retirer de la danse implique un mouvement, donc cat\u00e9gorie movement.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "12",
+      "explanation": "Aux Esclaves de son sexe indique un destinataire, donc cat\u00e9gorie toward.",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "10",
+      "explanation": "Tirer un porte-feuille implique une interaction avec un objet, donc cat\u00e9gorie object.",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "9",
+      "explanation": "Cette longue description narrative sur les \u00e9v\u00e9nements et les actions relev\u00e9e de la narration, donc cat\u00e9gorie narration.",
+      "stgdir": "On fait remarquer \u00e0 Monsieur de Saint-Yves dans quelle affreuse situation le parti qu'il vient de prendre plonge un jeune amoureux, qui, m\u00e9connaissant les usages, les moeurs du pays qu'il habite, n'a d'autres torts que ceux d'une \u00e2me br\u00fblante. Monsieur de Kerkabon ajoute que si son neveu a la t\u00eate un peu exalt\u00e9e, en revanche il poss\u00e8de un coeur excellent ; qu'il est vaillant, honn\u00eate, plein de franchise.... enfin, qu'il m\u00e9rite d'\u00eatre trait\u00e9 avec moins de rigueur. En achevant ces mots, il presse son ami dans ses bras ; la bonne tante imite son fr\u00e8re. Monsieur de Saint-Yves, d'abord inexorable, commence \u00e0 s'attendrir... On entend sonner l'alarme dans l'int\u00e9rieur du couvent. Le jeune Kerkabon, r\u00e9duit au d\u00e9sespoir, a form\u00e9 le dessein d'en lever sa maitresse. On l'a vu, pendant la sc\u00e8ne pr\u00e9c\u00e9dente, traverser le th\u00e9\u00e2tre, une hache \u00e0 la main, et escalader les murs du couvent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "0",
+      "explanation": "S'asseoir pour manger est consid\u00e9r\u00e9 comme une action g\u00e9n\u00e9rale, donc elle appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "0",
+      "explanation": "Montrer Milady est une action g\u00e9n\u00e9rale, donc elle appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "1",
+      "explanation": "Combattre implique de la violence, donc rel\u00e8ve de la cat\u00e9gorie aggression.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "10",
+      "explanation": "Tirer un papier implique une interaction avec un objet, donc cat\u00e9gorie object.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "650",
+      "category": "8",
+      "explanation": "Air 62 suivi d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "Air 62 : R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "8",
+      "explanation": "Air suivi d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "Air : Dans un bosquet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "12",
+      "explanation": "Au turc et au Mogol d\u00e9signe le destinataire de l'action, donc cat\u00e9gorie toward.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "6",
+      "explanation": "Regarder Ang\u00e9lique implique une interaction, donc cat\u00e9gorie interaction.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "11",
+      "explanation": "Description d'un lieu, 'La salle du Conseil d'Ubu', donc cat\u00e9gorie setting.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "\u00c0 Dariolette d\u00e9signe le destinataire de l'action, donc cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "7",
+      "explanation": "S'approcher de C\u00e9cile implique un mouvement vers elle, donc cat\u00e9gorie movement.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "11",
+      "explanation": "Description d'un changement de sc\u00e8ne en bois et ch\u00e2teau, donc cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "0",
+      "explanation": "\u00d4ter son costume est une action g\u00e9n\u00e9rale, donc elle appartient \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "8",
+      "explanation": "AIR suivi d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "660",
+      "category": "6",
+      "explanation": "Embrasser indique une interaction non verbale entre personnages, donc cat\u00e9gorie interaction.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "0",
+      "explanation": "Ouvrir le treillage est une action li\u00e9e \u00e0 un objet, donc cat\u00e9gorie action.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "11",
+      "explanation": "Pastorale suivit d'une description de sc\u00e8ne, donc cat\u00e9gorie setting.",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "5",
+      "explanation": "Orphise sort indique une sortie de sc\u00e8ne, donc cat\u00e9gorie exit.",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "4",
+      "explanation": "Julie rentre, donc il s'agit d'une entr\u00e9e en sc\u00e8ne, cat\u00e9gorie entrance.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "8",
+      "explanation": "AIR suivi d'une r\u00e9f\u00e9rence musicale, donc cat\u00e9gorie music.",
+      "stgdir": "AIR. Di que st'alma, il fior tormento, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "3",
+      "explanation": "Changeant de ton indique une mani\u00e8re d'exprimer la r\u00e9plique, donc cat\u00e9gorie delivery.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "9",
+      "explanation": "On entend crier de loin, ce qui est un bruit narratif, donc cat\u00e9gorie narration.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "9",
+      "explanation": "Corne aux oreilles avec une trompe de postillon, ce qui est un \u00e9l\u00e9ment sonore observable, cat\u00e9gorie narration.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "9",
+      "explanation": "ENSEMBLE, bien souvent li\u00e9 \u00e0 de la musique collective, mais sans contexte pr\u00e9cis ici, cela pourrait \u00eatre narratif.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "670",
+      "category": "3",
+      "explanation": "Sosie qui chante implique une expression vocale, donc cat\u00e9gorie delivery.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "8",
+      "explanation": "Air suivi d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "9",
+      "explanation": "On entend un outil fourrager dans la serrure est un \u00e9l\u00e9ment sonore narratif, donc cat\u00e9gorie narration.",
+      "stgdir": "On entend un outil qui fourrage dans la serrure.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "8",
+      "explanation": "AIR suivi d'un titre indique un air musical, donc cat\u00e9gorie music.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "5",
+      "explanation": "Laure sort indique une sortie de sc\u00e8ne, donc cat\u00e9gorie exit.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 36731.24027252197,
+  "model": "gpt-4o"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "150",
+      "category": "5",
+      "explanation": "Zerbine sort. // This indicates a character exiting the stage.",
+      "stgdir": "Zerbine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "151",
+      "category": "0",
+      "explanation": "On sort de table, et on l'emporte. // This describes the action of removing something, presumably a table.",
+      "stgdir": "On sort de table, et on l'emporte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "152",
+      "category": "5",
+      "explanation": "Ormin s'en va. // This indicates a character exiting the stage.",
+      "stgdir": "Ormin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "153",
+      "category": "0",
+      "explanation": "Il fait lever la toile. // This describes the action of lifting the curtain, without indicating an entrance or exit.",
+      "stgdir": "Il fait lever la toile.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "154",
+      "category": "8",
+      "explanation": "AIR : Mes chers amis, pouvez -vous m' enseigner. // This specifies a musical air.",
+      "stgdir": "AIR : Mes chers amis, pouvez -vous m' enseigner.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "155",
+      "category": "6",
+      "explanation": "Tous les deux prennent place devant la table. // This indicates interaction as the characters are taking their places together.",
+      "stgdir": "Tous les deux prennent place devant la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "156",
+      "category": "12",
+      "explanation": "Au marquis. // This indicates the addressee of a speech.",
+      "stgdir": "Au marquis.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "157",
+      "category": "8",
+      "explanation": "AIR : le joli jeu d'amour. // This specifies a musical air.",
+      "stgdir": "AIR : le joli jeu d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "158",
+      "category": "8",
+      "explanation": "Air : Pour qu'sa pr\u00e9tention soit bannie. // This specifies a musical air.",
+      "stgdir": "Air : Pour qu'sa pr\u00e9tention soit bannie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "159",
+      "category": "12",
+      "explanation": "\u00c0 Colette. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Colette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "160",
+      "category": "8",
+      "explanation": "Seconde chanson \u00e0 boire. // This indicates the start of a second drinking song, a musical reference.",
+      "stgdir": "Seconde chanson \u00e0 boire",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "161",
+      "category": "10",
+      "explanation": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main. // This describes the action of showing objects.",
+      "stgdir": "Montrant l'\u00e9p\u00e9e et le pistolet qu'elle a en main.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "162",
+      "category": "4",
+      "explanation": "Le Chevalier entre dans le cabinet. // This indicates a character entering the stage.",
+      "stgdir": "Le Chevalier entre dans le cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "163",
+      "category": "12",
+      "explanation": "\u00c0 l'Eth\u00e9r\u00e9e. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 l'Eth\u00e9r\u00e9e.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "164",
+      "category": "8",
+      "explanation": "Air : Tes beaux jeux, ma Nicole. // This specifies a musical air.",
+      "stgdir": "Air : Tes beaux jeux, ma Nicole.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "165",
+      "category": "3",
+      "explanation": "Il fond en larmes. // This describes a delivery of emotion, specifically crying.",
+      "stgdir": "Il fond en larmes.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "166",
+      "category": "3",
+      "explanation": "On entend la ritournelle du morceau. // This indicates that music is being played or heard.",
+      "stgdir": "On entend la ritournelle du morceau.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "167",
+      "category": "6",
+      "explanation": "Il se jette aux genoux de la Marquise. // This describes a non-verbal interaction with another character.",
+      "stgdir": "Il se jette aux genoux de la Marquise.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "168",
+      "category": "3",
+      "explanation": "Elle pleure am\u00e8rement. // This describes a delivery of emotion, specifically crying.",
+      "stgdir": "Elle pleure am\u00e8rement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "169",
+      "category": "10",
+      "explanation": "Elle soul\u00e8ve l'autre vase et prend le billet. // This describes the action of handling objects.",
+      "stgdir": "Elle soul\u00e8ve l'autre vase et prend le billet.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "170",
+      "category": "10",
+      "explanation": "Mettant le portefeuille sur une table. // This describes the action of placing an object down.",
+      "stgdir": "Mettant le portefeuille sur une table[.]",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "171",
+      "category": "12",
+      "explanation": "\u00c0 L\u00e9ontine. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 L\u00e9ontine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "172",
+      "category": "5",
+      "explanation": "Villiers dispara\u00eet. // This indicates a character exiting the stage.",
+      "stgdir": "Villiers dispara\u00eet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "173",
+      "category": "4",
+      "explanation": "Lisanor para\u00eet. // This indicates a character entering the stage.",
+      "stgdir": "Lisanor para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "174",
+      "category": "12",
+      "explanation": "\u00c0 Monsieur de Chambre. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Monsieur de Chambre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "175",
+      "category": "0",
+      "explanation": "Il lit l'affiche. // This describes the action of reading, general character action.",
+      "stgdir": "Il lit l'affiche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "176",
+      "category": "10",
+      "explanation": "Il prend une couronne dans le panier d'Antoine. // This describes the action of taking an object.",
+      "stgdir": "Il prend une couronne dans le panier d'Antoine.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "177",
+      "category": "0",
+      "explanation": "Il lit en parcourant. // This describes the action of reading, general character action.",
+      "stgdir": "Il lit en parcourant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "178",
+      "category": "5",
+      "explanation": "Tous sortent, except\u00e9 Baron. // This indicates that all characters except one are exiting the stage.",
+      "stgdir": "Tous sortent, except\u00e9 Baron.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "179",
+      "category": "8",
+      "explanation": "Reprise de Choeur. // This indicates a musical reference.",
+      "stgdir": "Reprise de Choeur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "180",
+      "category": "9",
+      "explanation": "Apr\u00e8s un silence. // This has a narrative quality, indicating a pause in the action.",
+      "stgdir": "Apr\u00e8s un silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "181",
+      "category": "10",
+      "explanation": "Il lui donne le paquet ouvert. // This describes the action of giving an object.",
+      "stgdir": "Il lui donne le paquet ouvert.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "182",
+      "category": "12",
+      "explanation": "\u00c0 Paul Ferrier. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Paul Ferrier.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "183",
+      "category": "0",
+      "explanation": "On se met \u00e0 table. // This indicates the action of sitting at a table, a general character action.",
+      "stgdir": "On se met \u00e0 table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "184",
+      "category": "4",
+      "explanation": "Entr\u00e9e d'un Gille. // This indicates a character entering the stage.",
+      "stgdir": "Entr\u00e9e d'un Gille.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "185",
+      "category": "1",
+      "explanation": "Il met la main \u00e0 l'\u00e9p\u00e9e. // This suggests a potentially aggressive action of readiness to use a weapon.",
+      "stgdir": "Il met la main \u00e0 l'\u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "186",
+      "category": "7",
+      "explanation": "Se rapprochant. // This describes the action of getting closer.",
+      "stgdir": "Se rapprochant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "187",
+      "category": "6",
+      "explanation": "Elles enl\u00e8vent Constance. // This indicates non-verbal interaction as they physically handle another character.",
+      "stgdir": "Elles enl\u00e8vent Constance.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "188",
+      "category": "0",
+      "explanation": "Apercevant plusieurs sortes d'Animaux. // This describes an observational action.",
+      "stgdir": "Apercevant plusieurs sortes d'Animaux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "189",
+      "category": "11",
+      "explanation": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e. // This describes the setting or decoration of the stage.",
+      "stgdir": "La D\u00e9coration du th\u00e9\u00e2tre est compos\u00e9e d'un Portique magnifique, et du Temple d'Hym\u00e9n\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "190",
+      "category": "3",
+      "explanation": "Elle dit ceci bas. // This describes a delivery manner for speech.",
+      "stgdir": "Elle dit ceci bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "191",
+      "category": "6",
+      "explanation": "Il lui met la main dans la poche. // This indicates non-verbal interaction.",
+      "stgdir": "Il lui met la main dans la poche",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "192",
+      "category": "0",
+      "explanation": "On entend de nouveau frapper \u00e0 la porte du fond. // This describes a sound action, which is general character action.",
+      "stgdir": "On entend de nouveau frapper \u00e0 la porte du fond.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "193",
+      "category": "12",
+      "explanation": "\u00c0 Darie. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Darie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "194",
+      "category": "3",
+      "explanation": "Il chante. // This describes a delivery manner as it involves singing.",
+      "stgdir": "Il chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "195",
+      "category": "11",
+      "explanation": "En prison. // This indicates the setting or location of a scene.",
+      "stgdir": "En prison.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "196",
+      "category": "0",
+      "explanation": "Il tourne les yeux sur Henry. // This describes a general character action.",
+      "stgdir": "Il tourne les yeux sur Henry.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "197",
+      "category": "6",
+      "explanation": "Il montre son pouce. // This indicates a non-verbal interaction.",
+      "stgdir": "Il montre son pouce.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "198",
+      "category": "8",
+      "explanation": "AIR. S\u00fbre de ta foi. // This specifies a musical air.",
+      "stgdir": "AIR. S\u00fbre de ta foi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "199",
+      "category": "10",
+      "explanation": "Il d\u00e9chire la Version. // This describes the action of tearing an object.",
+      "stgdir": "Il d\u00e9chire la Version.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "200",
+      "category": "8",
+      "explanation": "AIR : Restez, restez, troupe jolie. // This specifies a musical air.",
+      "stgdir": "AIR : Restez, restez, troupe jolie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "201",
+      "category": "12",
+      "explanation": "\u00c0 Mercure. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Mercure.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "202",
+      "category": "8",
+      "explanation": "Air 69. Un certain je-ne-sais-quoi. // This specifies a musical air.",
+      "stgdir": "Air 69. Un certain je-ne-sais-quoi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "203",
+      "category": "12",
+      "explanation": "\u00c0 Madame Grognac. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Madame Grognac.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "204",
+      "category": "5",
+      "explanation": "Elle se retire. // This indicates a character exiting the stage.",
+      "stgdir": "Elle se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "205",
+      "category": "9",
+      "explanation": "VOEU DE SOPHONISBE \u00c0 L'AMOUR // This has a narrative quality and suggests a vow or declaration.",
+      "stgdir": "VOEU DE SOPHONISBE \u00c0 L'AMOUR",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "206",
+      "category": "0",
+      "explanation": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira : // This describes an action that will be performed.",
+      "stgdir": "Puis il indiquera l'arbre dont le fruit est d\u00e9fendu, et dira :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "207",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. // This describes the setting of the stage.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'h\u00f4tel de Vanglenne, h\u00f4tel riche et magnifique. Vanglenne doit avoir un habit d'\u00e9carlate galonn\u00e9, une canne \u00e0 pomme d'or ; il conduira Madame Milville par la main.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "208",
+      "category": "3",
+      "explanation": "Avec humeur. // This describes a manner of delivery, indicating an emotional state.",
+      "stgdir": "Avec humeur.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "209",
+      "category": "0",
+      "explanation": "Lucile continue de regarder. // This describes an observational action.",
+      "stgdir": "Lucile continue de regarder.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "210",
+      "category": "12",
+      "explanation": "\u00c0 C\u00e9lie. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 C\u00e9lie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "211",
+      "category": "12",
+      "explanation": "\u00c0 Tib\u00e8re. // This indicates the addressee of a speech.",
+      "stgdir": "\u00c0 Tib\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "212",
+      "category": "3",
+      "explanation": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon. // This is a musical reference as it indicates a prelude.",
+      "stgdir": "On entend ici un pr\u00e9lude qui annonce l'arriv\u00e9e d'Appollon.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "213",
+      "category": "4",
+      "explanation": "Domitian entre. // This indicates a character entering the stage.",
+      "stgdir": "Domitian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "214",
+      "category": "3",
+      "explanation": "On entend dans le lointain des cris et une marche militaire. // This describes sounds heard in the distance, a delivery of auditory information.",
+      "stgdir": "On entend dans le lointain des cris et une marche militaire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "215",
+      "category": "6",
+      "explanation": "Il serre la main du Grand \u00c9crivain. // This indicates a non-verbal interaction between characters.",
+      "stgdir": "Il serre la main du Grand \u00c9crivain.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "216",
+      "category": "0",
+      "explanation": "Aux cris que pousse Th\u00e9cla. // This describes an observational action regarding what is heard.",
+      "stgdir": "Aux cris que pousse Th\u00e9cla.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "217",
+      "category": "3",
+      "explanation": "On entend des clameurs en dehors. // This describes sounds heard outside, a delivery of auditory information.",
+      "stgdir": "On entend des clameurs en dehors.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "218",
+      "category": "6",
+      "explanation": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature. // This describes non-verbal interaction between characters.",
+      "stgdir": "Ils s'approchent de Dormel, fils, et l'embrassent \u00e9troitement ; Sophie resserre sa ligature.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "219",
+      "category": "0",
+      "explanation": "Ils se regardent tous deux avec leurs lunettes. // This describes an observational action.",
+      "stgdir": "Ils se regardent tous deux avec leurs lunettes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "220",
+      "category": "6",
+      "explanation": "Il le pousse. // This indicates a non-verbal interaction.",
+      "stgdir": "Il le pousse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "221",
+      "category": "11",
+      "explanation": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re ; de jeunes cavaliers et de jeunes femmes se l\u00e8vent de table ; deux n\u00e8gres v\u00eatus en pages entrent en portant des flambeaux ; la sc\u00e8ne s'\u00e9claire. // This describes the setting vividly.",
+      "stgdir": "La porte du fond s'ouvre ; on aper\u00e7oit une salle \u00e0 manger toute resplendissante de lumi\u00e8re ; de jeunes cavaliers et de jeunes femmes se l\u00e8vent de table ; deux n\u00e8gres v\u00eatus en pages entrent en portant des flambeaux ; la sc\u00e8ne s'\u00e9claire.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "222",
+      "category": "3",
+      "explanation": "Avec ravissement. // This describes a manner of delivery indicating joy or pleasure.",
+      "stgdir": "Avec ravissement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "223",
+      "category": "6",
+      "explanation": "Prenant la main de Silvia. // This indicates a non-verbal interaction.",
+      "stgdir": "Prenant la main de Silvia.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "224",
+      "category": "8",
+      "explanation": "Fin de l'air : Revenant de Lorette. // This specifies the end of a musical air.",
+      "stgdir": "Fin de l'air : Revenant de Lorette.",
+      "categFull": "music"
+    }
+  ],
+  "response_time": 34182.777643203735,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,468 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "750",
+      "category": "6",
+      "explanation": "Il s'agit d'une interaction non verbale o\u00f9 une personne fait un geste affectueux (un baiser) \u00e0 une autre, ce qui correspond \u00e0 la cat\u00e9gorie d'interaction.",
+      "stgdir": "Il la baise avec peine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "751",
+      "category": "9",
+      "explanation": "Ce direction \u00e9voque un bruit de musique ou d'instruments, relevant de la narration sonore.",
+      "stgdir": "On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "752",
+      "category": "4",
+      "explanation": "C'est une entr\u00e9e de personnage sur sc\u00e8ne, qui est clairement indiqu\u00e9e par 'Moli\u00e8re rentre'.",
+      "stgdir": "Moli\u00e8re rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "753",
+      "category": "6",
+      "explanation": "Clim\u00e8ne et Pamphilie se jettent aux pieds du Roi, ce qui repr\u00e9sente une interaction non verbale avec expression de soumission.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "754",
+      "category": "5",
+      "explanation": "Le mot 'sort' indique une sortie de sc\u00e8ne, ce qui correspond \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "755",
+      "category": "6",
+      "explanation": "Cela d\u00e9crit une action non verbale o\u00f9 un personnage veut prendre la main d'un autre, ce qui est une interaction.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "756",
+      "category": "0",
+      "explanation": "'bis' est une notation minimale. Elle ne d\u00e9crit pas d'action distincte, donc la cat\u00e9gorie 'action' est la plus appropri\u00e9e.",
+      "stgdir": "bis",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "757",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e d'un personnage, 'Timag\u00e8ne rentre sur le th\u00e9\u00e2tre' est une entr\u00e9e de sc\u00e8ne.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "758",
+      "category": "5",
+      "explanation": "Indique que 'Ils sortent en causant', donc il s'agit d'une exit.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "759",
+      "category": "11",
+      "explanation": "Le laboureur mentionn\u00e9 ici est un cadre qui semble \u00e9tablir une sc\u00e8ne, relevant de la cat\u00e9gorie de d\u00e9cor.",
+      "stgdir": "Au laboureur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "760",
+      "category": "6",
+      "explanation": "Remettre une personne entre les bras d'une autre constitue une interaction non verbale.",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "761",
+      "category": "10",
+      "explanation": "C'est une action qui d\u00e9crit comment elle interagit avec un v\u00eatement (mettant quelque chose \u00e0 son corsage).",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "762",
+      "category": "12",
+      "explanation": "Cela indique que l'interaction ou le dialogue est dirig\u00e9 vers Mademoiselle Dumeny, ce qui rel\u00e8ve de la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Mademoiselle Dumeny.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "763",
+      "category": "4",
+      "explanation": "Le fait que quelqu'un aille au lit indique une entr\u00e9e dans un nouveau lieu sur sc\u00e8ne.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "764",
+      "category": "4",
+      "explanation": "L'Exempt et ses Gardes arrivent, ce qui indique une nouvelle entr\u00e9e de personnages.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "765",
+      "category": "5",
+      "explanation": "Elle veut sortir, ceci affirme son d\u00e9sir d'exit.",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "766",
+      "category": "0",
+      "explanation": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e, indiquant une action de prise mais pas dans le cadre d'agression.",
+      "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "767",
+      "category": "10",
+      "explanation": "Il prend le livre, une interaction avec un objet.",
+      "stgdir": "Il prend le livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "768",
+      "category": "8",
+      "explanation": "C'est clairement une indication de musique ou de chant, sp\u00e9cifique \u00e0 un air.",
+      "stgdir": "R\u00c9CITATIF, par MONSIEUR LA RUETTE. N\u00b01",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "769",
+      "category": "4",
+      "explanation": "L'entr\u00e9e de nombreuses personnes amoureuses de la nouveaut\u00e9 implique une grande entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "ENTR\u00c9E de toutes sortes de personnes amoureuse de la nouveaut\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "770",
+      "category": "12",
+      "explanation": "\u00c0 la comtesse, cela montre que l'attention ou l'adresse est dirig\u00e9e vers elle.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "771",
+      "category": "3",
+      "explanation": "\u00c0 demi-voix indique une mani\u00e8re de parler, donc cela rel\u00e8ve de la fa\u00e7on dont le dialogue est formul\u00e9.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "772",
+      "category": "11",
+      "explanation": "Cette description pose le cadre et le d\u00e9cor du th\u00e9\u00e2tre, ainsi cela correspond \u00e0 la cat\u00e9gorie d\u00e9cor.",
+      "stgdir": "L'ancienne galerie des portraits seigneuriaux du burg de Heppenheff. Cette galerie, qui \u00e9tait circulaire, se d\u00e9veloppait autour du grand donjon, et communiquait avec le reste du ch\u00e2teau par quatre grandes portes situ\u00e9es aux quatre points cardinaux. Au lever du rideau, on aper\u00e7oit une partie de cette galerie, qui fait retour et qu'on voit se perdre derri\u00e8re le mur arrondi du donjon. A gauche, une des quatre grandes portes de communication. \u00c0 droite, une haute et large porte communiquant avec l'int\u00e9rieur du donjon, exhauss\u00e9e sur un degr\u00e9 de trois marches et accost\u00e9e d'une porte b\u00e2tarde. Au fond, un promenoir roman \u00e0 pleins cintres, \u00e0 piliers bas, \u00e0 chapiteaux bizarres, portant un deuxi\u00e8me \u00e9tage (praticable), et communiquant avec la galerie par un grand degr\u00e9 de six marches. \u00c0 travers les larges arcades de ce promenoir, on aper\u00e7oit le ciel et le reste du ch\u00e2teau, dont la plus haute tour est surmont\u00e9e d'un immense drapeau noir qui flotte au vent. \u00c0 gauche, pr\u00e8s de la grande porte \u00e0 deux battants, une petite fen\u00eatre ferm\u00e9e d'un vitrail haut en couleur. Pr\u00e8s de la fen\u00eatre, un fauteuil. Toute la galerie a l'aspect d\u00e9labr\u00e9 et inhabit\u00e9. Les murailles et les vo\u00fbtes de pierre, sur lesquelles on distingue quelques vestiges de fresques effac\u00e9es, sont verdies et moisies par le suintement des pluies. Les portraits suspendus dans les panneaux de la galerie sont tous retourn\u00e9s la face contre le mur. Au moment o\u00f9 le rideau se l\u00e8ve, le soir vient. La partie du ch\u00e2teau qu'on aper\u00e7oit par les archivoltes du promenoir au fond du th\u00e9\u00e2tre semble \u00e9clair\u00e9e et illumin\u00e9e \u00e0 l'int\u00e9rieur, quoiqu'il fasse encore-grand jour. On entend venir de ce c\u00f4t\u00e9 du burg un bruit de trompettes et de clairons, et par moments des Chansons chant\u00e9es \u00e0 pleines voix au cliquetis des verres. Plus pr\u00e8s on entend un froissement de ferrailles, comme si une troupe d'hommes encha\u00een\u00e9s allait et venait dans la portion du promenoir qu'on ne voit pas. Une femme, seule, vieille, \u00e0 demi cach\u00e9e par un long voile noir, v\u00eatue d'un sac de toile grise en lambeaux, encha\u00een\u00e9e d'une cha\u00eene qui se rattache par un double anneau \u00e0 sa ceinture et \u00e0 son pied nu, un collier de fer autour du cou, s'appuie contre la grande porte, et semble \u00e9couter les fanfares et les chants de la salle voisine.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "782",
+      "category": "8",
+      "explanation": "Air : Lampons indique un moment musical.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "783",
+      "category": "8",
+      "explanation": "Plus haut encore indique un niveau musical ou une mont\u00e9e en intensit\u00e9.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "784",
+      "category": "6",
+      "explanation": "Paquette lui serrant la main, une action non verbale.",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "785",
+      "category": "4",
+      "explanation": "Plutus appara\u00eet, marquant une entr\u00e9e.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; une habitation est \u00e0 la droite du spectateur ; parmi les arbres qui d\u00e9corent la sc\u00e8ne, on remarque un sumac du Canada, qui doit \u00eatre plus apparent que les autres.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "786",
+      "category": "4",
+      "explanation": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io, une entr\u00e9e de personnage.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "787",
+      "category": "5",
+      "explanation": "Tous s'en vont, indiquant une exit.",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "788",
+      "category": "12",
+      "explanation": "Au Roi, en lui montrant Thamar, indique l'adresse de la parole.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "789",
+      "category": "0",
+      "explanation": "Il regarde dans un petit cabinet, une simple action.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "790",
+      "category": "3",
+      "explanation": "Le Mufti dit en chantant, ce qui indique une mani\u00e8re de livrer le texte.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "791",
+      "category": "10",
+      "explanation": "Madame Leblanc montre ses broderies, une interaction avec un objet.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "792",
+      "category": "8",
+      "explanation": "AIR : Quand on conspire indique un moment musical.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "793",
+      "category": "0",
+      "explanation": "Se t\u00e2tant indique une action simple d'exploration physique.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "794",
+      "category": "8",
+      "explanation": "Air : Tout est dit indique un moment musical.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "795",
+      "category": "12",
+      "explanation": "\u00c0 Crassus indique que l'interaction verbale est dirig\u00e9e vers lui.",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "796",
+      "category": "0",
+      "explanation": "Cette description d'actions de personnages repr\u00e9sente plusieurs actions cons\u00e9cutives sans cat\u00e9gorisation claire, donc le 'action' est choisi comme cat\u00e9gorie g\u00e9n\u00e9rale.",
+      "stgdir": "Tous s'en vont.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "797",
+      "category": "9",
+      "explanation": "La toile se baisse, cela refl\u00e8te une narration de ce qui se passe sur sc\u00e8ne.",
+      "stgdir": "Au Roi, en lui montrant Thamar.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "798",
+      "category": "8",
+      "explanation": "Duo implique un moment musical.",
+      "stgdir": "Il regarde dans un petit cabinet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "799",
+      "category": "8",
+      "explanation": "Air 107 : Faites boire \u00e0 triple mesure indique un moment musical.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "800",
+      "category": "8",
+      "explanation": "Air : Vaudeville de Jean Monnet indique un moment musical.",
+      "stgdir": "Madame Leblanc montre successivement ses broderies.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "801",
+      "category": "0",
+      "explanation": "S'\u00e9tendant dans un fauteuil d\u00e9crit une action de d\u00e9tente.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "802",
+      "category": "9",
+      "explanation": "Le tumulte qui annonce une f\u00eate publique est une narration d'\u00e9v\u00e9nements sur sc\u00e8ne.",
+      "stgdir": "Se t\u00e2tant.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "803",
+      "category": "8",
+      "explanation": "AIR : O gu\u00e9 lan la, lanlaire signifie un moment musical.",
+      "stgdir": "Air : Tout est dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "804",
+      "category": "5",
+      "explanation": "Scanderberg sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "805",
+      "category": "8",
+      "explanation": "Air 211 : De Monsieur Gillier indique un air musical.",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "806",
+      "category": "0",
+      "explanation": "Quatre lutins se jettent sur Arlequin, ce qui d\u00e9crit une action active (une agression).",
+      "stgdir": "La toile se baisse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "807",
+      "category": "8",
+      "explanation": "Air : De la contredanse de la Fontaine de Jouvence indique un moment musical.",
+      "stgdir": "Duo.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "808",
+      "category": "11",
+      "explanation": "Description du ch\u00e2teau et de ses d\u00e9corations, qui est un cadre pour l'action.",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "809",
+      "category": "8",
+      "explanation": "Air : \u00c0 l'ombre de ce vert bocage indique un moment musical.",
+      "stgdir": "Air : Vaudeville de Jean Monnet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "810",
+      "category": "0",
+      "explanation": "Il se retourne vers son fils et lui dit, indiquant une action simple.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "811",
+      "category": "1",
+      "explanation": "Il les met en termes de combattre indique une intention d'agression.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "812",
+      "category": "1",
+      "explanation": "\u00c9carter le mantelet de quelqu'un peut \u00eatre consid\u00e9r\u00e9 comme un acte agressif.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "813",
+      "category": "12",
+      "explanation": "\u00c0 \u00c9liante et Philinte, indique un dialogue dirig\u00e9 vers ces personnages.",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "814",
+      "category": "10",
+      "explanation": "Rendant le flacon vide d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Air 211 : De Monsieur Gillier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "815",
+      "category": "11",
+      "explanation": "Indique le cadre d'une action militaire, d\u00e9signant un lieu.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "816",
+      "category": "9",
+      "explanation": "Dire des mots derri\u00e8re le th\u00e9\u00e2tre \u00e9voque l'action sans \u00eatre sur sc\u00e8ne, relevant de la narration.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "817",
+      "category": "7",
+      "explanation": "Passer devant \u00c9velina indique un mouvement.",
+      "stgdir": "LE CH\u00c2TEAU DE SILVA. Dans les montagnes d'Aragon. La galerie des portraits de famille de Silva ; grande salle, dont ces portraits entour\u00e9s de riches bordures, et surmont\u00e9s de couronnes ducales et d'\u00e9cussons dor\u00e9s, font la d\u00e9coration. Au fond une haute porte gothique. Entre chaque portrait une panoplie compl\u00e8te, toutes ces armures de si\u00e8cles diff\u00e9rents.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "818",
+      "category": "5",
+      "explanation": "Oloodeme et Eristene se retirent, impliquant une sortie de sc\u00e8ne.",
+      "stgdir": "Air : \u00c0 l'ombre de ce vert bocage.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "819",
+      "category": "5",
+      "explanation": "Elle sort avec Val\u00e8re, ce qui atteste d'une sortie de sc\u00e8ne.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "820",
+      "category": "5",
+      "explanation": "Il dispara\u00eet enti\u00e8rement indique aussi une exit.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "821",
+      "category": "5",
+      "explanation": "Ils s'enfuient hors du Palais indique une sortie.",
+      "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "822",
+      "category": "4",
+      "explanation": "Julie entre chez le Cardinal, donc c'est une entr\u00e9e.",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "823",
+      "category": "8",
+      "explanation": "Air : Quand on a prononc\u00e9 indique un moment musical.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "824",
+      "category": "11",
+      "explanation": "Description d'un cadre de sc\u00e8ne, repr\u00e9sentant une campagne agr\u00e9able.",
+      "stgdir": "Le camp sous Varsovie.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 30768.056392669678,
+  "model": "gpt-4o-mini"
+}

@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "0",
+      "category": "8",
+      "explanation": "This indicates a musical air, which is categorized under music.",
+      "stgdir": "Air : Aim\u00e9 de la belle Ninon.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "1",
+      "category": "7",
+      "explanation": "The character is moving towards someone, indicating movement.",
+      "stgdir": "Il va \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "2",
+      "category": 0,
+      "explanation": "Raising the guards signifies a general action without specifying aggression.",
+      "stgdir": "Il l\u00e8ve les Gardes de la Chambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "3",
+      "category": "5",
+      "explanation": "This indicates a character leaving the scene, marking an exit.",
+      "stgdir": "Frontin s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "4",
+      "category": "8",
+      "explanation": "This is a music direction referencing a specific air.",
+      "stgdir": "Air : Un Pr\u00e9fet beau, bien fait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "5",
+      "category": "3",
+      "explanation": "Pr\u00e9lude suggest a musical or emotional delivery, referring to the manner of presenting.",
+      "stgdir": "Il pr\u00e9lude encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "6",
+      "category": "6",
+      "explanation": "The interaction between the characters is non-verbal; one presents a hand to another.",
+      "stgdir": "Damis lui pr\u00e9sente la main qu'elle accepte, au moment que Dorante lui pr\u00e9sentait aussi la sienne.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "7",
+      "category": "11",
+      "explanation": "This indicates a character looking at something but doesn't fit a specific category.",
+      "stgdir": "Regardant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "8",
+      "category": "12",
+      "explanation": "Indicates the character is addressing someone specific, categorized under 'toward'.",
+      "stgdir": "\u00c0 Aricie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "9",
+      "category": "5",
+      "explanation": "A character leaving the stage, fitting the exit category.",
+      "stgdir": "Monsieur Mathieu sort, sans \u00e9couter Benjamine.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "10",
+      "category": "1",
+      "explanation": "Seeing their naked swords suggests an impending violent interaction, hence aggression.",
+      "stgdir": "Apercevant leurs \u00e9p\u00e9es nues.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "11",
+      "category": "5",
+      "explanation": "This indicates multiple characters exiting the scene, categorizing it as an exit.",
+      "stgdir": "Ils sortent avec les valets et les flambeaux. Le duc pr\u00e9c\u00e9dant le roi une cire \u00e0 la main.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "12",
+      "category": "8",
+      "explanation": "This is another musical air reference, fitting the music category.",
+      "stgdir": "AIR 6. ( Vous avez bien de la bont\u00e9. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "13",
+      "category": "8",
+      "explanation": "This direction about other verses from a specific air is categorized under music.",
+      "stgdir": "Autres Couplets sur l'air\u00a0: Comp\u00e8re Gervais.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "14",
+      "category": "7",
+      "explanation": "The character is looking away, indicating another form of movement, not toward another.",
+      "stgdir": "Regardant du cot\u00e9 oppos\u00e9.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "15",
+      "category": "8",
+      "explanation": "This is a musical reference, categorized under music.",
+      "stgdir": "Air : Que ne suis-je la foug\u00e8re ?",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "16",
+      "category": "9",
+      "explanation": "This describes distant noises, fitting a narrative tone.",
+      "stgdir": "Clameurs \u00e9loign\u00e9es.)",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "17",
+      "category": "8",
+      "explanation": "As another reference to a musical air, it fits within the music category.",
+      "stgdir": "Air : n\u00b0 1.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "18",
+      "category": "5",
+      "explanation": "Indicates that Don Alfonce is leaving the stage, marking an exit.",
+      "stgdir": "Don Alfonce s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "19",
+      "category": "10",
+      "explanation": "The act of sealing a letter fits the object interaction category.",
+      "stgdir": "Il cach\u00e8te sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "20",
+      "category": "4",
+      "explanation": "The character entering signifies an entrance onto the stage.",
+      "stgdir": "Phoenix sort.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "21",
+      "category": "10",
+      "explanation": "Giving letters fits the criteria for object interactions.",
+      "stgdir": "Il lui donne deux lettres dont il lit l'inscription.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "22",
+      "category": "6",
+      "explanation": "The character is throwing themselves at the feet of another, showing interaction.",
+      "stgdir": "Dorante, se jetant de nouveau \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "23",
+      "category": "1",
+      "explanation": "This direction suggests a violent interaction, categorized as aggression.",
+      "stgdir": "On frappe de nouveau.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "24",
+      "category": "1",
+      "explanation": "The act of hitting indicates a violent action, categorized under aggression.",
+      "stgdir": "Il le bat.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "25",
+      "category": "8",
+      "explanation": "This references a musical air, categorizing it in music.",
+      "stgdir": "AIR 121 : Nicolas va voir Jeanne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "26",
+      "category": "6",
+      "explanation": "Showing something to someone indicates a non-verbal interaction.",
+      "stgdir": "Montrant Montval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "27",
+      "category": "12",
+      "explanation": "Indicates address toward spirits, fitting 'toward' category.",
+      "stgdir": "Aux Esprits",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "28",
+      "category": "7",
+      "explanation": "Walking toward a specific door indicates movement.",
+      "stgdir": "Il s'avance vers la petite porte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "29",
+      "category": "6",
+      "explanation": "Indicating a character suggests a non-verbal interaction, fitted as such.",
+      "stgdir": "En montrant Scanderberg.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "30",
+      "category": "6",
+      "explanation": "Indicating the presence of senators indicates non-verbal communication.",
+      "stgdir": "Montrant les anciens S\u00e9nateurs.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "31",
+      "category": "7",
+      "explanation": "Looking at an object signifies character movement in terms of focus.",
+      "stgdir": "En regardant le diamant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "32",
+      "category": "5",
+      "explanation": "Moli\u00e8re leaving indicates an exit from the scene.",
+      "stgdir": "Moli\u00e8re sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "33",
+      "category": "11",
+      "explanation": "Indicates that the setting is the same as the previous scene.",
+      "stgdir": "M\u00eame d\u00e9coration que le pr\u00e9c\u00e9dent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "34",
+      "category": "2",
+      "explanation": "A direction marked as \u2018part\u2019 implies an aside, categorizing it as an aparte.",
+      "stgdir": "[\u00c0 part].",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "35",
+      "category": "11",
+      "explanation": "Setting the stage description fits the setting category.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente une \u00c9tude de Procureur ; sur le devant est une table couverte de papiers, sur laquelle est une brochure ouverte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "36",
+      "category": "1",
+      "explanation": "The action of hitting indicates aggression.",
+      "stgdir": "Ils le frappent.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "37",
+      "category": "6",
+      "explanation": "Looking at one's daughter indicates a non-verbal interaction.",
+      "stgdir": "Regardant sa fille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "38",
+      "category": "6",
+      "explanation": "Showing the letter is classified as an interaction.",
+      "stgdir": "Montrant la lettre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "39",
+      "category": "5",
+      "explanation": "M\u00e9gatise leaving indicates an exit from the scene.",
+      "stgdir": "M\u00e9gatise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "40",
+      "category": "8",
+      "explanation": "This references a specific air in music.",
+      "stgdir": "Air de PLANTADE.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "41",
+      "category": "4",
+      "explanation": "The entrance of Bricard signifies an entrance onto the stage.",
+      "stgdir": "Bricard entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "42",
+      "category": "9",
+      "explanation": "This lengthy description narrates a story, fitting the narration category.",
+      "stgdir": "Le sujet est d'un Fermier de Livry, qui, par l'adresse de sa femme, se trouve engag\u00e9 de donner sa ni\u00e8ce \u00e0 un jeune homme de Paris, quoiqu'il l'e\u00fbt promise au collecteur. Le moyen dont la femme se sert, est qu'elle feint d'\u00eatre amoureuse de l'Amant aim\u00e9 de la ni\u00e8ce. Elle fait m\u00eame \u00e9clater cette feinte passion aux yeux de son mari, qui, pour \u00e9viter les suites et les inconv\u00e9nients, manque de parole au collecteur, fait \u00e9pouser en h\u00e2te sa ni\u00e8ce \u00e0 son Amant, qu'il croit \u00eatre aim\u00e9 de sa femme. Le Divertissement qui suit sert de pr\u00e9lude \u00e0 la Noce.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "43",
+      "category": "12",
+      "explanation": "Indicating direction to an Arab character suggests address, fitting 'toward' category.",
+      "stgdir": "\u00c0 l'un des Arabes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "44",
+      "category": "8",
+      "explanation": "This also denotes a musical reference, categorizing it under music.",
+      "stgdir": "Air : Nous n'avons qu'un temps \u00e0 vivre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "45",
+      "category": "7",
+      "explanation": "Seeing someone indicates an action of looking or movement.",
+      "stgdir": "Apercevant la Pr\u00e9sidente.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "46",
+      "category": "12",
+      "explanation": "Addressing the family head indicates speech direction, fitting 'toward' description.",
+      "stgdir": "Au p\u00e8re de famille.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "47",
+      "category": "12",
+      "explanation": "Indicating a direction toward a serving character suggests address.",
+      "stgdir": "Au laquais.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "48",
+      "category": "8",
+      "explanation": "Symphony refers to music, categorizing it under music.",
+      "stgdir": "Symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "49",
+      "category": "3",
+      "explanation": "Singing illustrates delivery style, fitting delivery category.",
+      "stgdir": "Il sort en chantant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "50",
+      "category": "5",
+      "explanation": "Entering one's home signifies an exit, marking it as such.",
+      "stgdir": "Il entre chez lui.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "51",
+      "category": "3",
+      "explanation": "Singing a piece of her choice falls under delivery style.",
+      "stgdir": "Ici l'actrice chante un morceau \u00e0 son choix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "52",
+      "category": "10",
+      "explanation": "Giving a letter fits the object category.",
+      "stgdir": "Il lui donne la lettre qu'il a trouv\u00e9e dans le cabinet d'Astr\u00e9e.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "53",
+      "category": "10",
+      "explanation": "Giving a garment describes an interaction with an object.",
+      "stgdir": "Elle lui donne son jupon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "54",
+      "category": "7",
+      "explanation": "Leading someone around indicates movement.",
+      "stgdir": "Elle lui fait faire le tour du th\u00e9\u00e2tre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "55",
+      "category": "5",
+      "explanation": "Exiting immediately indicates an exit action.",
+      "stgdir": "Il sortesasuite.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "56",
+      "category": "12",
+      "explanation": "Addressing Marlot suggests direction or engagement with someone.",
+      "stgdir": "\u00c0 Marlot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "57",
+      "category": "12",
+      "explanation": "Indicating Rosbif implies addressing that character.",
+      "stgdir": "\u00c0 Rosbif.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "58",
+      "category": "12",
+      "explanation": "Addressing Mademoiselle Moli\u00e8re implies speaking to her specifically.",
+      "stgdir": "\u00c0 Mademoiselle Moli\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "59",
+      "category": "10",
+      "explanation": "Giving a promise to Cl\u00e9andre fits the object category.",
+      "stgdir": "Il lui donne la promesse de Cl\u00e9andre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "60",
+      "category": "12",
+      "explanation": "Indicating address to Monr\u00e9al p\u00e8re suggests direction.",
+      "stgdir": "\u00c0 Monr\u00e9al p\u00e8re.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "61",
+      "category": "5",
+      "explanation": "Indicates that Madame Simon and Perrette are exiting the stage.",
+      "stgdir": "Madame Simon et Perrette sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "62",
+      "category": "4",
+      "explanation": "The entry of these characters signifies an entrance.",
+      "stgdir": "L'Oranger et l'Aub\u00e9pine paraissent au fond.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "63",
+      "category": "12",
+      "explanation": "This indicates that the address is to Genseric, fitting the 'toward' category.",
+      "stgdir": "\u00c0 Genseric.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "64",
+      "category": "3",
+      "explanation": "Improvising a song aligns with the manner of delivery.",
+      "stgdir": "Il chante sur un air ridicule qu'il improvise.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "65",
+      "category": "11",
+      "explanation": "Describes a setting involving a meal, categorizing it under setting.",
+      "stgdir": "Un repas champ\u00eatre. L'AMOUR.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "66",
+      "category": "0",
+      "explanation": "Filling and closing a bag indicates action, not fitting other specific categories.",
+      "stgdir": "Serre-fort remplit et referme le sac.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "67",
+      "category": "4",
+      "explanation": "The appearance of Oronte signifies an entrance onto the stage.",
+      "stgdir": "Oronte para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "68",
+      "category": "6",
+      "explanation": "Indicating someone points at Pyrrhus suggests a non-verbal interaction.",
+      "stgdir": "Montrant Pyrrhus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "69",
+      "category": "4",
+      "explanation": "This indicates the arrival, hence an entrance.",
+      "stgdir": "Elle arrive.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "70",
+      "category": "8",
+      "explanation": "Another reference to a song or musical piece.",
+      "stgdir": "Air : J'ai vu partout dans mes voyages.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "71",
+      "category": "12",
+      "explanation": "Addressing Colin implies direction.",
+      "stgdir": "\u00c0 Colin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "72",
+      "category": "7",
+      "explanation": "Movement up the stage suggests physical movement.",
+      "stgdir": "En disant le dernier h\u00e9mistiche elle remonte le th\u00e9\u00e2tre et va pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "73",
+      "category": "9",
+      "explanation": "Narrative quality describing a series of actions, fitting the narration category.",
+      "stgdir": "Il va pour cueillir le lis extasi\u00e9 qui se change en or. Surprises et \u00e9blouissements de Th\u00e9odore de Banville. Il se dirige vers une rose qui se m\u00e9tamorphose \u00e9galement en or. Sa main se porte sur un arbre; c'est de l'or qu'il touche. Il s'arr\u00eate et dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "74",
+      "category": "12",
+      "explanation": "Indicating the calling of servants suggests direction in address.",
+      "stgdir": "Il appelle ses valets.",
+      "categFull": "toward"
+    }
+  ],
+  "response_time": 29918.1125164032,
+  "model": "gpt-4o-mini"
+}

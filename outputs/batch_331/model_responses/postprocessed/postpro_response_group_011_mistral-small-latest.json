@@ -1,0 +1,370 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "825",
+      "category": "5",
+      "explanation": "Duparc sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "826",
+      "category": "4",
+      "explanation": "Staphyla rentre, ce qui indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "827",
+      "category": "6",
+      "explanation": "Elle touche Picus, ce qui est une interaction non verbale entre les personnages.",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "828",
+      "category": "12",
+      "explanation": "\u00c0 la Reine indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "829",
+      "category": "8",
+      "explanation": "AIR : Paris est au Roi, mon coeur est \u00e0 moi. indique le nom d'un air.",
+      "stgdir": "AIR. Paris est au Roi, mon coeur est \u00e0 moi.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "830",
+      "category": "8",
+      "explanation": "AIR : De Z\u00e9mire et Azor. indique le nom d'un air.",
+      "stgdir": "AIR : De Z\u00e9mire et Azor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "831",
+      "category": "8",
+      "explanation": "AIR : de Joconde. indique le nom d'un air.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "832",
+      "category": "8",
+      "explanation": "m\u00eame jeu que plus haut. indique le nom d'un air.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "833",
+      "category": "9",
+      "explanation": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne. d\u00e9crit une s\u00e9quence d'actions des personnages.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "834",
+      "category": "4",
+      "explanation": "Entre Madame Dergos. indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "835",
+      "category": "7",
+      "explanation": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve. d\u00e9crit un d\u00e9placement du personnage.",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "836",
+      "category": "12",
+      "explanation": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre. indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "837",
+      "category": "8",
+      "explanation": "Air : Colin un jour trouva Lisette. indique le nom d'un air.",
+      "stgdir": "Air : Colin un jour trouva Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "838",
+      "category": "5",
+      "explanation": "Phoedime sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Phoedime sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "839",
+      "category": "8",
+      "explanation": "Air 200. Du Feu d'Artifice. indique le nom d'un air.",
+      "stgdir": "Air 200. Du Feu d'Artifice.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "840",
+      "category": "11",
+      "explanation": "Ces deux divinit\u00e9s paraissent. d\u00e9crit la sc\u00e8ne ou le lieu de la pi\u00e8ce.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "841",
+      "category": "9",
+      "explanation": "Mais le Duc Dessau impatient de la perte de son Fr\u00e8re, se r\u00e9sout de s'opposer \u00e0 ses desseins. d\u00e9crit une s\u00e9quence d'actions des personnages.",
+      "stgdir": "Mais le Duc Dessau impatient de la perte de son Fr\u00e8re, se r\u00e9sout de s'opposer \u00e0 ses desseins.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "842",
+      "category": "10",
+      "explanation": "Elle d\u00e9fait le papier. d\u00e9crit l'interaction d'un personnage avec un objet.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "843",
+      "category": "4",
+      "explanation": "Entre Dergos. indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "844",
+      "category": "6",
+      "explanation": "Il lui pose la couronne sur la t\u00eate. d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "845",
+      "category": "5",
+      "explanation": "Elle sort en col\u00e8re, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "846",
+      "category": "10",
+      "explanation": "Arlequin avec l'allumette. d\u00e9crit l'interaction d'un personnage avec un objet.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "847",
+      "category": "12",
+      "explanation": "Elle aper\u00e7oit Dorval et change de ton. indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "848",
+      "category": "3",
+      "explanation": "Triomphalement. d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "849",
+      "category": "6",
+      "explanation": "Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant. d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "850",
+      "category": "7",
+      "explanation": "Allant \u00e0 Marie. d\u00e9crit un d\u00e9placement du personnage.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "851",
+      "category": "10",
+      "explanation": "Prenant des fleurs dans le tiroir. d\u00e9crit l'interaction d'un personnage avec un objet.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "852",
+      "category": "7",
+      "explanation": "Se rapprochant de Rosalie. d\u00e9crit un d\u00e9placement du personnage.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "853",
+      "category": "12",
+      "explanation": "\u00c0 Candide. indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "854",
+      "category": "5",
+      "explanation": "Damon sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "855",
+      "category": "5",
+      "explanation": "Adrien sort, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "856",
+      "category": "4",
+      "explanation": "Pasquin para\u00eet, ce qui indique une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "857",
+      "category": "8",
+      "explanation": "Air : Ce que j'\u00e9prouve en vous voyant. indique le nom d'un air.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "858",
+      "category": "8",
+      "explanation": "Air : Folies d'Espagne. indique le nom d'un air.",
+      "stgdir": "Air : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "859",
+      "category": "10",
+      "explanation": "Il porte la fiole \u00e0 sa bouche. d\u00e9crit l'interaction d'un personnage avec un objet.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "860",
+      "category": "10",
+      "explanation": "Parcourant la lettre. d\u00e9crit l'interaction d'un personnage avec un objet.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "861",
+      "category": "12",
+      "explanation": "\u00c0 Lycandre. indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "862",
+      "category": "8",
+      "explanation": "AIR : Y a coups de pieds, etc. indique le nom d'un air.",
+      "stgdir": "AIR : Y a coups de pieds, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "863",
+      "category": "12",
+      "explanation": "\u00c0 Mowbrai. indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "864",
+      "category": "7",
+      "explanation": "Allant \u00e0 elle. d\u00e9crit un d\u00e9placement du personnage.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "865",
+      "category": "6",
+      "explanation": "Il lui parle \u00e0 l'oreille. d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "866",
+      "category": "5",
+      "explanation": "S'en allant, ce qui indique une sortie de sc\u00e8ne.",
+      "stgdir": "S'en allant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "867",
+      "category": "12",
+      "explanation": "Aux Grands. indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Aux Grands.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "868",
+      "category": "12",
+      "explanation": "Au Sauvage. indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "869",
+      "category": "3",
+      "explanation": "R\u00e9pondant. d\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "870",
+      "category": "10",
+      "explanation": "Il met sa perruque. d\u00e9crit l'interaction d'un personnage avec un objet.",
+      "stgdir": "Il met sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "871",
+      "category": "9",
+      "explanation": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas. d\u00e9crit une s\u00e9quence d'actions des personnages.",
+      "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "872",
+      "category": "6",
+      "explanation": "Il lui met une bourse dans la main. d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "873",
+      "category": "6",
+      "explanation": "Elle appelle Lubin. d\u00e9crit une interaction non verbale entre les personnages.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "874",
+      "category": "9",
+      "explanation": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence. d\u00e9crit une s\u00e9quence d'actions des personnages.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "875",
+      "category": "11",
+      "explanation": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne. d\u00e9crit la sc\u00e8ne ou le lieu de la pi\u00e8ce.",
+      "stgdir": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "876",
+      "category": "11",
+      "explanation": "Une fontaine dans un bois. d\u00e9crit la sc\u00e8ne ou le lieu de la pi\u00e8ce.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 42000.7643699646,
+  "model": "mistral-small-latest"
+}

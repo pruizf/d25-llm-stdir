@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "525",
+      "category": "0",
+      "explanation": "Appelant un domestique est une action g\u00e9n\u00e9rale, relevant de la cat\u00e9gorie action.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "526",
+      "category": "9",
+      "explanation": "Cette didascalie d\u00e9crit une s\u00e9quence complexe d'entr\u00e9es, de d\u00e9placements et d'interactions, ce qui en fait une narration.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "527",
+      "category": "7",
+      "explanation": "L\u00e9on fait un grand mouvement est une description du d\u00e9placement d'un personnage.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "528",
+      "category": "8",
+      "explanation": "AIR. Allons donc, jouez violons r\u00e9f\u00e8re \u00e0 un air de musique.",
+      "stgdir": "AIR. Allons donc, jouez violons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "529",
+      "category": "12",
+      "explanation": "\u00c0 Euph\u00e9mon fils indique une direction vers qui la r\u00e9plique ou l'action est adress\u00e9e.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "530",
+      "category": "6",
+      "explanation": "Ils se pressent les mains est une interaction non verbale entre personnages.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "531",
+      "category": "12",
+      "explanation": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel indique des destinataires de l'action ou r\u00e9plique.",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "532",
+      "category": "12",
+      "explanation": "\u00c0 Ibrahim indique \u00e0 qui s'adresse la prochaine r\u00e9plique.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "533",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "534",
+      "category": "0",
+      "explanation": "Il la cherche de la main sans tourner la t\u00eate est une action du personnage.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "535",
+      "category": "4",
+      "explanation": "Mariette para\u00eet signale l'entr\u00e9e du personnage.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "536",
+      "category": "0",
+      "explanation": "D\u00e9signant du pied une dalle est une action effectu\u00e9e par le personnage.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "537",
+      "category": "6",
+      "explanation": "Elle reprend le bras de Phanor implique une interaction non verbale entre personnages.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "538",
+      "category": "3",
+      "explanation": "D'un ton s\u00e9v\u00e8re d\u00e9crit comment une r\u00e9plique est livr\u00e9e.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "539",
+      "category": "6",
+      "explanation": "Il lui serre la main plus fort est une interaction physique entre personnages.",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "540",
+      "category": "3",
+      "explanation": "Il dit ces quatre vers bas d\u00e9crit comment une r\u00e9plique est livr\u00e9e, sp\u00e9cifiquement d'une voix basse.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "541",
+      "category": "5",
+      "explanation": "Il sort par la porte de gauche indique une sortie de sc\u00e8ne.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "542",
+      "category": "12",
+      "explanation": "\u00c0 Madame Mondor indique le destinataire de la prochaine r\u00e9plique ou action.",
+      "stgdir": "\u00c0 Madame Mondor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "543",
+      "category": "12",
+      "explanation": "Aux Bergers indique les destinataires d'une r\u00e9plique ou action.",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "544",
+      "category": "3",
+      "explanation": "Il s'assied, et il \u00e9crit en chantant implique que le personnage chante, liant ceci \u00e0 'delivery'.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "545",
+      "category": "8",
+      "explanation": "Air du commencement est un titre ou une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "Air du commencement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "546",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit l'appartement de Rosine, donc elle traite du d\u00e9cor de sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "547",
+      "category": "10",
+      "explanation": "Il la donne indique une interaction avec un objet, probablement le donner.",
+      "stgdir": "Il la donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "548",
+      "category": "8",
+      "explanation": "AIR. Ah ! je vous trouve, Chevalier r\u00e9f\u00e8re \u00e0 un air de musique.",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "549",
+      "category": "8",
+      "explanation": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu est un titre d'air.",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "550",
+      "category": "10",
+      "explanation": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "551",
+      "category": "10",
+      "explanation": "Il arrache les papiers indique une interaction physique avec des objets.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "552",
+      "category": "0",
+      "explanation": "Il voit venir la Princesse est une action du personnage.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "553",
+      "category": "0",
+      "explanation": "Elle ferme la bible et va prendre le berceau est une action impliquant des objets.",
+      "stgdir": "Elle ferme la bible et va prendre le berceau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "554",
+      "category": "6",
+      "explanation": "Elle lui tape dans une main est une interaction physique entre personnages.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "555",
+      "category": "10",
+      "explanation": "Il ouvre l'\u00e9crin d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Il ouvre l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "556",
+      "category": "0",
+      "explanation": "Il regarde dans l'antichambre est une action simple du personnage.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "557",
+      "category": "2",
+      "explanation": "Se retournant vers les Spectateurs implique un apart\u00e9, parlant directement au public.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "558",
+      "category": "0",
+      "explanation": "Il lit la lettre de Damis implique l'action de lire.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "559",
+      "category": "6",
+      "explanation": "Ils se jettent \u00e0 genoux est une interaction/activit\u00e9 commune.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "560",
+      "category": "11",
+      "explanation": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre d\u00e9crit le d\u00e9cor.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "561",
+      "category": "7",
+      "explanation": "Revenant pr\u00e9s de son bureau d\u00e9crit un mouvement du personnage.",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "562",
+      "category": "8",
+      "explanation": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui r\u00e9f\u00e8re \u00e0 un air de musique.",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "563",
+      "category": "1",
+      "explanation": "On forme un combat \u00e0 la mani\u00e8re des anciens implique une action de combat.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "564",
+      "category": "8",
+      "explanation": "Air : Des fraises r\u00e9f\u00e8re \u00e0 un air musical.",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "565",
+      "category": "5",
+      "explanation": "Valentin sort signale la sortie d'un personnage.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "566",
+      "category": "7",
+      "explanation": "Il va vers la porte du cabinet indique le d\u00e9placement du personnage.",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "567",
+      "category": "0",
+      "explanation": "Il montre ses yeux poch\u00e9s est une action simple du personnage, montrant quelque chose.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "568",
+      "category": "10",
+      "explanation": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es d\u00e9crit l'action de donner un objet.",
+      "stgdir": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "569",
+      "category": "12",
+      "explanation": "\u00c0 C\u00e9lie, Galimatias indique le destinataire de l'interaction ou r\u00e9plique.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "570",
+      "category": "8",
+      "explanation": "Pr\u00e9lude r\u00e9f\u00e8re \u00e0 une section musicale.",
+      "stgdir": "Pr\u00e9lude.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "571",
+      "category": "8",
+      "explanation": "Air : Vivre sans amour d\u00e9signe un air de musique.",
+      "stgdir": "Air : Vivre sans amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "572",
+      "category": "3",
+      "explanation": "Criant tr\u00e8s fort indique une mani\u00e8re d'exprimer une \u00e9motion ou r\u00e9plique.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "573",
+      "category": "9",
+      "explanation": "Bruit de fer-blanc heurt\u00e9 d\u00e9crit un son ou ph\u00e9nom\u00e8ne, typiquement inclus dans des narrations.",
+      "stgdir": "Bruit de fer-blanc heurt\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "574",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte d\u00e9crit un changement de d\u00e9cor.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "575",
+      "category": "9",
+      "explanation": "Cette didascalie d\u00e9crit une sc\u00e8ne enti\u00e8re avec d\u00e9tails, ce qui en fait une narration.",
+      "stgdir": "L'Amour para\u00eet dans sa Gloire, environn\u00e9 de Gr\u00e2ces et de Plaisirs. Les Divinit\u00e9s de la Terre sont assises sur les ailes du Th\u00e9\u00e2tre, encha\u00een\u00e9es de Fleurs ; et les Divinit\u00e9s du Ciel sont au-dessus, assises sur des Nuages. On voit au fond l'Antre de la Jalousie, o\u00f9 elle est encha\u00een\u00e9e avec la Rage et le D\u00e9sespoir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "576",
+      "category": "8",
+      "explanation": "Air : Robin turelure r\u00e9f\u00e8re \u00e0 un air musical.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "577",
+      "category": "8",
+      "explanation": "PANTOMIME est un type de performance musicale ou mime.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "578",
+      "category": "1",
+      "explanation": "Dorante veut tirer son \u00e9p\u00e9e implique une intention agressive.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "579",
+      "category": "3",
+      "explanation": "Il r\u00e9p\u00e8te ces quatre vers d\u00e9crit comment une r\u00e9plique est livr\u00e9e via r\u00e9p\u00e9tition.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "580",
+      "category": "9",
+      "explanation": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me est une partie de narration du sc\u00e9nario.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "581",
+      "category": "6",
+      "explanation": "Il baise la main du Prince est une interaction non verbale.",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "582",
+      "category": "3",
+      "explanation": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine est une r\u00e9action/emotion.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "583",
+      "category": "9",
+      "explanation": "Cette didascalie d\u00e9taille une sc\u00e8ne enti\u00e8re avec beaucoup d'\u00e9l\u00e9ments, ce qui en fait une narration.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "584",
+      "category": "12",
+      "explanation": "\u00c0 Antiochus indique la destination d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "585",
+      "category": "0",
+      "explanation": "Il l\u00e8ve sa canne est une action simple impliquant un objet.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "586",
+      "category": "7",
+      "explanation": "Puis revenant \u00e0 Oronte d\u00e9crit un mouvement du personnage.",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "587",
+      "category": "0",
+      "explanation": "Regard \u00e0 la montre est une action simple.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "588",
+      "category": "10",
+      "explanation": "Lui montrant une lettre d\u00e9crit l'action de montrer un objet.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "589",
+      "category": "12",
+      "explanation": "\u00c0 un de ses suivants indique le destinataire d'une action ou d'une r\u00e9plique.",
+      "stgdir": "\u00c0 un de ses suivants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "590",
+      "category": "8",
+      "explanation": "Air. Menuet de Monsieur Grandval r\u00e9f\u00e8re \u00e0 un air musical.",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "591",
+      "category": "8",
+      "explanation": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose r\u00e9f\u00e8re \u00e0 un air musical.",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "592",
+      "category": "0",
+      "explanation": "Scapin et Monsieur Dumont pr\u00e9parent tout est une action g\u00e9n\u00e9ralis\u00e9e.",
+      "stgdir": "Scapin et Monsieur Dumont pr\u00e9parent tout.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "593",
+      "category": "7",
+      "explanation": "Elle rentre dans le ch\u00e2teau indique un mouvement du personnage, en sortant de la sc\u00e8ne principale.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "594",
+      "category": "8",
+      "explanation": "Air : Du haut en bas r\u00e9f\u00e8re \u00e0 un air musical.",
+      "stgdir": "Air : Du haut en bas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "595",
+      "category": "0",
+      "explanation": "Don Juan demande \u00e0 boire implique une action, suivie par boire.",
+      "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "596",
+      "category": "9",
+      "explanation": "On entend un grand bruit du c\u00f4t\u00e9 de la maison d\u00e9crit des sons ou \u00e9v\u00e9nements non visibles, propre \u00e0 la narration.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "597",
+      "category": "8",
+      "explanation": "AIR. tourne, tourne, tourne, c'est son paiement r\u00e9f\u00e8re \u00e0 un air musical.",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "598",
+      "category": "4",
+      "explanation": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre est une entr\u00e9e de sc\u00e8ne.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "599",
+      "category": "5",
+      "explanation": "Alcandre sort indique la sortie d'un personnage.",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 36912.17017173767,
+  "model": "gpt-4o"
+}

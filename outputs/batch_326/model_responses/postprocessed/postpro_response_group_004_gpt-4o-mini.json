@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": "9",
+      "explanation": "Cette didascalie d\u00e9crit une situation o\u00f9 des passants \u00e9coutent les derniers mots, ce qui donne un contexte narratif \u00e0 l'action.",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": "7",
+      "explanation": "Ici, les femmes sont en mouvement, indiquant qu'elles remontent, ce qui correspond \u00e0 la cat\u00e9gorie de d\u00e9placement.",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": "0",
+      "explanation": "Cette action consiste simplement \u00e0 finir une lettre, ce qui peut \u00eatre class\u00e9 sous des actions simples.",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": "8",
+      "explanation": "Cette didascalie pr\u00e9sente un air musical, indiqu\u00e9e par 'AIR'.",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": "8",
+      "explanation": "Il s'agit d'une indication musicale sur les instruments pr\u00e9sents \u00e0 l'orchestre.",
+      "stgdir": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": "0",
+      "explanation": "Montrant son front, cette action simple est class\u00e9e dans la cat\u00e9gorie d'actions.",
+      "stgdir": "Montrant son front.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": "5",
+      "explanation": "Il quitte le balcon indique une sortie, donc cela appartient \u00e0 la cat\u00e9gorie de sortie.",
+      "stgdir": "Il quitte le balcon.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": "6",
+      "explanation": "Cette didascalie d\u00e9crit une interaction non verbale entre deux personnages qui sortent de mani\u00e8re oppos\u00e9e.",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": "1",
+      "explanation": "Frappant la Chicanne indique une action de violence, ce qui correspond \u00e0 la cat\u00e9gorie d'agression.",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": "1",
+      "explanation": "Montrer son vit est une action qui pourrait \u00eatre interpr\u00e9t\u00e9e comme une agression ou une provocation.",
+      "stgdir": "Il montre son vit.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "310",
+      "category": "9",
+      "explanation": "Cette didascalie est descriptive et relate une s\u00e9quence complexe d'\u00e9v\u00e9nements, ce qui est typique de la narration.",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "311",
+      "category": "0",
+      "explanation": "Prendre la bouteille est une action simple, ce qui le place dans la cat\u00e9gorie d'action.",
+      "stgdir": "Prenant la bouteille.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "312",
+      "category": "6",
+      "explanation": "Cette didascalie d\u00e9crit une interaction non verbale entre deux personnages qui s'embrassent.",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "313",
+      "category": "8",
+      "explanation": "Comme pour d'autres, cette didascalie indique un air musical sp\u00e9cifique.",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "314",
+      "category": "12",
+      "explanation": "Cette didascalie d\u00e9note l'adresse d'une r\u00e9plique \u00e0 une personne sp\u00e9cifique, ce qui la classe dans 'toward'.",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "315",
+      "category": "0",
+      "explanation": "Il va aux fontaines et boit est une action basique, donc elle est class\u00e9e sous 'action'.",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "316",
+      "category": "8",
+      "explanation": "Ceci est une autre indication d'un air musical.",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "317",
+      "category": "0",
+      "explanation": "Il donne une ordonnance est une action simple, donc elle est incluse dans la cat\u00e9gorie d'action.",
+      "stgdir": "Il donne une ordonnance.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "318",
+      "category": "10",
+      "explanation": "Cette didascalie implique la remise d'une lettre, une interaction avec un objet.",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "319",
+      "category": "12",
+      "explanation": "Parlant au prince indique \u00e0 qui la r\u00e9plique est adress\u00e9e.",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "320",
+      "category": "8",
+      "explanation": "Ceci indique le titre d'un air, ce qui le classe dans la cat\u00e9gorie musique.",
+      "stgdir": "AIR Tu croyais, en aimant Colette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "12",
+      "explanation": "Il s'adresse \u00e0 Fr\u00e9missin, ce qui le place dans la cat\u00e9gorie 'toward'.",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "12",
+      "explanation": "Il indique clairement \u00e0 qui est destin\u00e9e la r\u00e9plique, ici \u00e0 Madame Dangeville.",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "9",
+      "explanation": "Cette didascalie d\u00e9crit une sc\u00e8ne impliquant plusieurs personnages, ce qui est narratif.",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "10",
+      "explanation": "Il montre un mur en interaction avec un objet, ce qui le classe ici.",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "3",
+      "explanation": "Il chante l'air en entier. Cela se r\u00e9f\u00e8re explicitement \u00e0 une action de livraison musicale.",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "0",
+      "explanation": "Elle l\u00e8ve ici son masque est une action simple.",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "0",
+      "explanation": "Se remettant est aussi une action simple.",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "1",
+      "explanation": "Frappant du pied, cela implique aussi une forme d'agression.",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "8",
+      "explanation": "Cela commence par le mot 'AIR', et d\u00e9signe un morceau musical.",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "330",
+      "category": "8",
+      "explanation": "Cette didascalie indique un titre d'air musical.",
+      "stgdir": "AIR. Au bout du monde, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "331",
+      "category": "5",
+      "explanation": "Elle s'en va indique une sortie, donc elle appartient au groupe des sorties.",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "332",
+      "category": "8",
+      "explanation": "Cela semble indiquer un air musical bas\u00e9 sur sa structure.",
+      "stgdir": "Air : Morgu\u00e9, la femme qui m'aura.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "333",
+      "category": "11",
+      "explanation": "Cette didascalie d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, class\u00e9 dans les param\u00e8tres.",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "334",
+      "category": "0",
+      "explanation": "Elle fouille dans ses poches est une action.",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "335",
+      "category": "4",
+      "explanation": "Ici, Phalante para\u00eet indique l'entr\u00e9e en sc\u00e8ne du personnage.",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "336",
+      "category": "7",
+      "explanation": "Ensemble indique une action collective ou un mouvement r\u00e9unissant plusieurs personnages.",
+      "stgdir": "Ensemble",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "337",
+      "category": "5",
+      "explanation": "Pysandre sort indique explicitement une sortie.",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "338",
+      "category": "0",
+      "explanation": "Ils boivent de nouveau est une action simple.",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "339",
+      "category": "9",
+      "explanation": "On entend un bruit de guerre d\u00e9crit un ph\u00e9nom\u00e8ne pouvant \u00eatre narratif.",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "340",
+      "category": "1",
+      "explanation": "Il frappe Arlequin repr\u00e9sente une action violente typique d'agression.",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "341",
+      "category": "12",
+      "explanation": "\u00c0 Placide indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "342",
+      "category": "8",
+      "explanation": "Cela est aussi class\u00e9 comme un air musical, puisqu'il commence par 'Air :'.",
+      "stgdir": "Air : Moi qui veux m'instruire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "343",
+      "category": "8",
+      "explanation": "Cette didascalie indique \u00e9galement un air musical.",
+      "stgdir": "Air : Sa ne vous va brin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "344",
+      "category": "8",
+      "explanation": "Cela d\u00e9bute par 'AIR', indiquant une r\u00e9f\u00e9rence musicale.",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "345",
+      "category": "12",
+      "explanation": "\u00c0 Hortensius montre bien que la didascalie est adress\u00e9e \u00e0 un personnage pr\u00e9cis.",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "346",
+      "category": "12",
+      "explanation": "\u00c0 Vasta s'inscrit dans la m\u00eame logique d'adresse que les pr\u00e9c\u00e9dentes.",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "347",
+      "category": "8",
+      "explanation": "Encore une indication d'air musical.",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "348",
+      "category": "6",
+      "explanation": "Montrer l'huissier implique une interaction non verbale.",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "349",
+      "category": "8",
+      "explanation": "Cela commence \u00e9galement par 'AIR', pointant vers un air musical.",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "350",
+      "category": "8",
+      "explanation": "Encore une didascalie musicale, indiqu\u00e9e par 'Air'.",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "351",
+      "category": "12",
+      "explanation": "\u00c0 Courtisan indique aussi bien l'adresse d'une r\u00e9plique.",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "352",
+      "category": "8",
+      "explanation": "Cela renvoie aussi \u00e0 une indication musicale.",
+      "stgdir": "Air : Va, va, Fanchon, J'irai en salle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "353",
+      "category": "0",
+      "explanation": "D'un air d'importance est une action teint\u00e9e de sentiment.",
+      "stgdir": "D'un air d'importance.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "354",
+      "category": "10",
+      "explanation": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte implique la manipulation d'un objet.",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "355",
+      "category": "5",
+      "explanation": "Baptiste se sauve est une action qui d\u00e9crit un d\u00e9part.",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "356",
+      "category": "10",
+      "explanation": "Il lui montre ce qui est \u00e9crit au bas du m\u00e9moire d\u00e9crit une interaction avec un objet.",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "357",
+      "category": "0",
+      "explanation": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve est une action d'interaction.",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "358",
+      "category": "6",
+      "explanation": "Ils parlent tous quatre en m\u00eame temps d\u00e9crit une interaction verbale active.",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "359",
+      "category": "6",
+      "explanation": "Cette didascalie d\u00e9crit une interaction non verbale impliquant plusieurs personnages.",
+      "stgdir": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "360",
+      "category": "1",
+      "explanation": "Frappant du pied indique une forme d'agression.",
+      "stgdir": "Frappant du pied.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "361",
+      "category": "8",
+      "explanation": "Ceci est une indication d'air musical comme les pr\u00e9c\u00e9dentes.",
+      "stgdir": "Air Par bonheur, ou par malheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "362",
+      "category": "12",
+      "explanation": "\u00c0 Albert est une adresse sp\u00e9cifique.",
+      "stgdir": "\u00c0 Albert.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "363",
+      "category": "9",
+      "explanation": "On entend le sifflet du tube acoustique pourrait \u00eatre consid\u00e9r\u00e9 comme un bruit descriptif.",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "364",
+      "category": "12",
+      "explanation": "\u00c0 Madame Duru indique clairement \u00e0 qui s\u2019adresse une r\u00e9plique.",
+      "stgdir": "\u00c0 Madame Duru.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "365",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente une sc\u00e8ne, indiquant le contexte et le cadre de l'action.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "366",
+      "category": "7",
+      "explanation": "Il sautille sous ces fen\u00eatres montre un mouvement dynamique.",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "367",
+      "category": "12",
+      "explanation": "\u00c0 Plisth\u00e8ne est aussi une adresse \u00e0 un personnage.",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "368",
+      "category": "4",
+      "explanation": "Flore et Blanche rentrent indique leur entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "369",
+      "category": "12",
+      "explanation": "\u00c0 Pierrot pr\u00e9cise \u00e0 qui s'adresse la ligne.",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "370",
+      "category": "0",
+      "explanation": "Il lui met le manteau royal est une action d'habillage.",
+      "stgdir": "Il lui met le manteau royal.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "371",
+      "category": "8",
+      "explanation": "Cela d\u00e9signe un air musical, similaire aux pr\u00e9c\u00e9dents.",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "372",
+      "category": "9",
+      "explanation": "Cette description des groupes de Bergers et de Berg\u00e8res implique un contexte narratif.",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "373",
+      "category": "6",
+      "explanation": "Ici, ils s'asseyent indique une interaction entre les personnages.",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "374",
+      "category": "5",
+      "explanation": "Elle entre dans son cabinet est une sortie.",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 37104.957580566406,
+  "model": "gpt-4o-mini"
+}

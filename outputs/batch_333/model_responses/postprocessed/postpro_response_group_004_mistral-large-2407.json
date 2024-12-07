@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "300",
+      "category": "0",
+      "explanation": "Des passants narquois entendent les derniers mots. // Category: 0 (Action - general character action)",
+      "stgdir": "Des passants narquois entendent les derniers mots.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "301",
+      "category": "7",
+      "explanation": "Les deux femmes remontent. // Category: 7 (Movement - character movement)",
+      "stgdir": "Les deux femmes remontent.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "302",
+      "category": "0",
+      "explanation": "Il finit sa lettre. // Category: 0 (Action - general character action)",
+      "stgdir": "Il finit sa lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "303",
+      "category": "8",
+      "explanation": "AIR. De la Royale, etc. // Category: 8 (Music - tune names)",
+      "stgdir": "AIR. De la Royale, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "304",
+      "category": "8",
+      "explanation": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes. // Category: 8 (Music - music description)",
+      "stgdir": "\u00c0 l'orchestre : fl\u00fbtes et clarinettes.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "305",
+      "category": "6",
+      "explanation": "Montrant son front. // Category: 6 (Interaction - non-verbal character interaction)",
+      "stgdir": "Montrant son front.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "306",
+      "category": "7",
+      "explanation": "Il quitte le balcon. // Category: 7 (Movement - character movement)",
+      "stgdir": "Il quitte le balcon.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "307",
+      "category": "5",
+      "explanation": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre. // Category: 5 (Exit - character exits)",
+      "stgdir": "Ils sortent tous deux, l'un d'un c\u00f4t\u00e9 et l'autre de l'autre.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "308",
+      "category": "1",
+      "explanation": "Frappant la Chicanne. // Category: 1 (Aggression - violent action)",
+      "stgdir": "Frappant la Chicanne.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "309",
+      "category": "10",
+      "explanation": "Il montre son vit. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Il montre son vit.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "310",
+      "category": "9",
+      "explanation": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9. // Category: 9 (Narration - long stage direction with narrative quality)",
+      "stgdir": "On le voit s'\u00e9lancer \u00e0 travers le portail, qui s'ouvre, avec fracas. Il entra\u00eene d'une main son amante, et de l'autre, toujours arm\u00e9, il menace quelques jardiniers du couvent, qui le poursuivent jusques sur la sc\u00e8ne. En m\u00eame temps Gilotin, du haut de la seconde colline, accourt \u00e0 la t\u00eate d'une troupe de villageois, arm\u00e9s, de pioches, de b\u00eaches, de r\u00e2teaux, etc. et qui, comme lui, restent saisis d'effroi sur la montagne, \u00e0 l'apparition subite d'un peloton de soldats, qui, arriv\u00e9 sur la sc\u00e8ne, et command\u00e9 par l'officier Fran\u00e7ais, les met vivement en joue. Monsieur de Saint-Yves, l'\u00e9p\u00e9e \u00e0 la main, court au devant du ravisseur ; l'oncle l'arr\u00eate au milieu du th\u00e9\u00e2tre ; la jeune tante oppose son corps au coup qu'il allait porter, et Kerkabon, mettant bas les armes, se pr\u00e9cipite, avec son amante, aux pieds d'un p\u00e8re irrit\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "311",
+      "category": "10",
+      "explanation": "Prenant la bouteille. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Prenant la bouteille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "312",
+      "category": "6",
+      "explanation": "Lui baisant la bouche. // Category: 6 (Interaction - non-verbal character interaction)",
+      "stgdir": "Lui baisant la bouche.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "313",
+      "category": "8",
+      "explanation": "Air : C'est au pays de Cocagne. // Category: 8 (Music - tune names)",
+      "stgdir": "Air : C'est au pays de Cocagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "314",
+      "category": "12",
+      "explanation": "\u00c0 Laurent. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Laurent.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "315",
+      "category": "0",
+      "explanation": "Il va aux fontaines et boit. // Category: 0 (Action - general character action)",
+      "stgdir": "Il va aux fontaines et boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "316",
+      "category": "8",
+      "explanation": "Air des Bossus. // Category: 8 (Music - tune names)",
+      "stgdir": "Air des Bossus.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "317",
+      "category": "10",
+      "explanation": "Il donne une ordonnance. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Il donne une ordonnance.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "318",
+      "category": "10",
+      "explanation": "Elle remet la lettre a Julie. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Elle remet la lettre a Julie.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "319",
+      "category": "12",
+      "explanation": "Parlant au prince. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "Parlant au prince.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "320",
+      "category": "8",
+      "explanation": "AIR Tu croyais, en aimant Colette. // Category: 8 (Music - tune names)",
+      "stgdir": "AIR Tu croyais, en aimant Colette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "321",
+      "category": "12",
+      "explanation": "\u00c0 Fr\u00e9missin. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Fr\u00e9missin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "322",
+      "category": "12",
+      "explanation": "\u00c0 Madame Dangeville. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Madame Dangeville.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "323",
+      "category": "9",
+      "explanation": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur. // Category: 9 (Narration - long stage direction with narrative quality)",
+      "stgdir": "ANNA et EUG\u00c9NIE \u00e9coutent chanter. Vers la fin du morceau, neuf choristes arrivent sur la sc\u00e8ne, \u00e0 la suite de leur ma\u00eetresse de choeur.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "324",
+      "category": "0",
+      "explanation": "Il leur montre un mur qu'on tourne sur un pivot de fer. // Category: 0 (Action - general character action)",
+      "stgdir": "Il leur montre un mur qu'on tourne sur un pivot de fer.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "325",
+      "category": "8",
+      "explanation": "Il chante l'air en entier. // Category: 8 (Music - tune names)",
+      "stgdir": "Il chante l'air en entier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "326",
+      "category": "10",
+      "explanation": "Elle l\u00e8ve ici son masque. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Elle l\u00e8ve ici son masque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "327",
+      "category": "0",
+      "explanation": "Se remettant. // Category: 0 (Action - general character action)",
+      "stgdir": "Se remettant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "328",
+      "category": "3",
+      "explanation": "Ronchaud prend un air s\u00e9v\u00e8re. // Category: 3 (Delivery - delivery manner)",
+      "stgdir": "Ronchaud prend un air s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "329",
+      "category": "8",
+      "explanation": "AIR. ( Attende-moi sous l'Orme. ) // Category: 8 (Music - tune names)",
+      "stgdir": "AIR. ( Attende-moi sous l'Orme. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "330",
+      "category": "8",
+      "explanation": "AIR. Au bout du monde, etc. // Category: 8 (Music - tune names)",
+      "stgdir": "AIR. Au bout du monde, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "331",
+      "category": "5",
+      "explanation": "Elle s'en va. // Category: 5 (Exit - character exits)",
+      "stgdir": "Elle s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "332",
+      "category": "8",
+      "explanation": "Air : Morgu\u00e9, la femme qui m'aura. // Category: 8 (Music - tune names)",
+      "stgdir": "Air : Morgu\u00e9, la femme qui m'aura.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "333",
+      "category": "8",
+      "explanation": "LE FLEUVE ET SA SOURCE // Category: 8 (Music - tune names)",
+      "stgdir": "LE FLEUVE ET SA SOURCE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "334",
+      "category": "10",
+      "explanation": "Elle fouille dans ses poches. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Elle fouille dans ses poches.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "335",
+      "category": "9",
+      "explanation": "Ici Phalante para\u00eet. // Category: 9 (Narration - long stage direction with narrative quality)",
+      "stgdir": "Ici Phalante para\u00eet.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "336",
+      "category": "8",
+      "explanation": "Ensemble // Category: 8 (Music - tune names)",
+      "stgdir": "Ensemble",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "337",
+      "category": "5",
+      "explanation": "Pysandre sort. // Category: 5 (Exit - character exits)",
+      "stgdir": "Pysandre sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "338",
+      "category": "0",
+      "explanation": "Ils boivent de nouveau. // Category: 0 (Action - general character action)",
+      "stgdir": "Ils boivent de nouveau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "339",
+      "category": "9",
+      "explanation": "On entend un bruit de guerre. // Category: 9 (Narration - long stage direction with narrative quality)",
+      "stgdir": "On entend un bruit de guerre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "340",
+      "category": "1",
+      "explanation": "Il frappe Arlequin. // Category: 1 (Aggression - violent action)",
+      "stgdir": "Il frappe Arlequin.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "341",
+      "category": "12",
+      "explanation": "\u00c0 Placide. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Placide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "342",
+      "category": "8",
+      "explanation": "Air : Moi qui veux m'instruire. // Category: 8 (Music - tune names)",
+      "stgdir": "Air : Moi qui veux m'instruire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "343",
+      "category": "8",
+      "explanation": "Air : Sa ne vous va brin. // Category: 8 (Music - tune names)",
+      "stgdir": "Air : Sa ne vous va brin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "344",
+      "category": "8",
+      "explanation": "AIR. Je crois Lison. // Category: 8 (Music - tune names)",
+      "stgdir": "AIR. Je crois Lison.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "345",
+      "category": "12",
+      "explanation": "\u00c0 Hortensius. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "346",
+      "category": "12",
+      "explanation": "\u00c0 Vasta. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Vasta.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "347",
+      "category": "8",
+      "explanation": "AIR : Agr\u00e9able esp\u00e9rance. // Category: 8 (Music - tune names)",
+      "stgdir": "AIR : Agr\u00e9able esp\u00e9rance.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "348",
+      "category": "6",
+      "explanation": "Montrant l'huissier. // Category: 6 (Interaction - non-verbal character interaction)",
+      "stgdir": "Montrant l'huissier.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "349",
+      "category": "8",
+      "explanation": "AIR : C'est Suson la camarde. // Category: 8 (Music - tune names)",
+      "stgdir": "AIR : C'est Suson la camarde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "350",
+      "category": "8",
+      "explanation": "Air Belle Brune, belle Brune. // Category: 8 (Music - tune names)",
+      "stgdir": "Air Belle Brune, belle Brune.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "351",
+      "category": "12",
+      "explanation": "Au Courtisan. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "Au Courtisan.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "352",
+      "category": "8",
+      "explanation": "Air : Va, va, Fanchon, J'irai en salle. // Category: 8 (Music - tune names)",
+      "stgdir": "Air : Va, va, Fanchon, J'irai en salle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "353",
+      "category": "3",
+      "explanation": "D'un air d'importance. // Category: 3 (Delivery - delivery manner)",
+      "stgdir": "D'un air d'importance.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "354",
+      "category": "10",
+      "explanation": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Lettre de Daphn\u00e9 \u00e0 Cl\u00e9onte.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "355",
+      "category": "5",
+      "explanation": "Baptiste se sauve. // Category: 5 (Exit - character exits)",
+      "stgdir": "Baptiste se sauve.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "356",
+      "category": "0",
+      "explanation": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire. // Category: 0 (Action - general character action)",
+      "stgdir": "Lui montrant ce qui est \u00e9crit au bas du m\u00e9moire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "357",
+      "category": "7",
+      "explanation": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve. // Category: 7 (Movement - character movement)",
+      "stgdir": "Il joint \u00c9tienne qui f\u00e9raille en reculant et se sauve.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "358",
+      "category": "0",
+      "explanation": "Ils parlent tous quatre en m\u00eame temps. // Category: 0 (Action - general character action)",
+      "stgdir": "Ils parlent tous quatre en m\u00eame temps.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "359",
+      "category": "10",
+      "explanation": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Il tire une bourse, en prends six Louis, et les donne \u00e0 Arlequin ; Arlequin les prends, met dans sa poche, et apr\u00e8s avoir observ\u00e9 un Diamant que le Docteur a \u00e0 son doigt, il lui prend la main, et lui demande de que c'est que cela. Le Docteur r\u00e9pond que c'est un Diamant qui \u00e9tait \u00e0 sa d\u00e9funte femme, et qui vaut bien soixante Louis.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "360",
+      "category": "0",
+      "explanation": "Frappant du pied. // Category: 0 (Action - general character action)",
+      "stgdir": "Frappant du pied.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "361",
+      "category": "8",
+      "explanation": "Air Par bonheur, ou par malheur. // Category: 8 (Music - tune names)",
+      "stgdir": "Air Par bonheur, ou par malheur.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "362",
+      "category": "12",
+      "explanation": "\u00c0 Albert. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Albert.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "363",
+      "category": "9",
+      "explanation": "On entend le sifflet du tube acoustique. // Category: 9 (Narration - long stage direction with narrative quality)",
+      "stgdir": "On entend le sifflet du tube acoustique.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "364",
+      "category": "12",
+      "explanation": "\u00c0 Madame Duru. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Madame Duru.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "365",
+      "category": "11",
+      "explanation": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc. // Category: 11 (Setting - stage description or play location)",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le Palais de l'Ocean, et de Th\u00e9tis, qui y sont accompagnez des Fleuves, des Rivi\u00e8res, des Fontaines, des Ruisseaux, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "366",
+      "category": "0",
+      "explanation": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.] // Category: 0 (Action - general character action)",
+      "stgdir": "Il sautille sous ces fen\u00eatres, [sa viole \u00e0 la main.]",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "367",
+      "category": "12",
+      "explanation": "\u00c0 Plisth\u00e8ne. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Plisth\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "368",
+      "category": "4",
+      "explanation": "Flore et Blanche rentrent. // Category: 4 (Entrance - character enters stage)",
+      "stgdir": "Flore et Blanche rentrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "369",
+      "category": "12",
+      "explanation": "\u00c0 Pierrot. // Category: 12 (Toward - indicates the addressee of a speech)",
+      "stgdir": "\u00c0 Pierrot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "370",
+      "category": "10",
+      "explanation": "Il lui met le manteau royal. // Category: 10 (Object - describes an object or character's interaction with an object)",
+      "stgdir": "Il lui met le manteau royal.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "371",
+      "category": "8",
+      "explanation": "Air : Nous autres bons villageois. // Category: 8 (Music - tune names)",
+      "stgdir": "Air : Nous autres bons villageois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "372",
+      "category": "11",
+      "explanation": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux. // Category: 11 (Setting - stage description or play location)",
+      "stgdir": "Plusieurs groupes de Bergers et de Berg\u00e8res jouant \u00e0 divers jeux.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "373",
+      "category": "0",
+      "explanation": "Ils s'asseyent. // Category: 0 (Action - general character action)",
+      "stgdir": "Ils s'asseyent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "374",
+      "category": "7",
+      "explanation": "Elle entre dans son cabinet. // Category: 7 (Movement - character movement)",
+      "stgdir": "Elle entre dans son cabinet.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 153778.06782722473,
+  "model": "mistral-large-2407"
+}

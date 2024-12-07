@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "525",
+      "category": "12",
+      "explanation": "L'indication 'Appelant un domestique' pr\u00e9cise le destinataire de l'appel.",
+      "stgdir": "Appelant un domestique.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "526",
+      "category": "4",
+      "explanation": "Il s'agit d'une entr\u00e9e collective de plusieurs personnages sur sc\u00e8ne.",
+      "stgdir": "La troisi\u00e8me porte du fond, \u00e0 droite, s'ouvre ; entrent Teissier, le bras pass\u00e9 \u00e0 celui de Marie, Madame_Vigneron derri\u00e8re eux ; Judith vient apr\u00e8s, Blanche la derni\u00e8re ; Rosalie s'est rang\u00e9e pour les laisser passer ; elle arr\u00eate Blanche, la rajuste et l'embrasse ; elle sort par la porte ouverte et la referme.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "527",
+      "category": "7",
+      "explanation": "Ceci d\u00e9crit un mouvement de L\u00e9on, sans mention d'une entr\u00e9e ou sortie.",
+      "stgdir": "L\u00e9on fait un grand mouvement.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "528",
+      "category": "8",
+      "explanation": "C'est une indication musicale qui annonce le d\u00e9but d'un morceau.",
+      "stgdir": "AIR. Allons donc, jouez violons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "529",
+      "category": "12",
+      "explanation": "Cette indication adresse sp\u00e9cifiquement Euph\u00e9mon fils.",
+      "stgdir": "\u00c0 Euph\u00e9mon fils.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "530",
+      "category": "6",
+      "explanation": "Cela implique une interaction physique entre les personnages, se pressant les mains.",
+      "stgdir": "Ils se pressent les mains.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "531",
+      "category": "12",
+      "explanation": "Indique que les personnages sont adress\u00e9s \u00e0 Marat, Robespierre, et Manuel.",
+      "stgdir": "\u00c0 Marat, \u00e0 Robespierre, \u00e0 Manuel.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "532",
+      "category": "12",
+      "explanation": "Ceci sp\u00e9cifie une adresse \u00e0 Ibrahim.",
+      "stgdir": "\u00c0 Ibrahim.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "533",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le d\u00e9cor du th\u00e9\u00e2tre, \u00e0 savoir un salon servant d'antichambre.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un salon servant d'antichambre et ayant deux portes d'entr\u00e9e. Celle qui est \u00e0 la droite des spectateurs est cens\u00e9e communiquer avec les appartements du palais; celle qui est \u00e0 la gauche est cens\u00e9e conduire au dehors. Sur le mur lat\u00e9ral qui est \u00e0 gauche, et \u00e0 une certaine hauteur, se trouve peint \u00e0 fresque un tableau repr\u00e9sentant trois portraits.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "534",
+      "category": "0",
+      "explanation": "Cela d\u00e9crit l'action de chercher sans pr\u00e9ciser d'entr\u00e9e ou de sortie.",
+      "stgdir": "Il la cherche de la main sans tourner la t\u00eate.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "535",
+      "category": "4",
+      "explanation": "Indique une entr\u00e9e d'un personnage sur sc\u00e8ne, ici Mariette.",
+      "stgdir": "Mariette parait.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "536",
+      "category": "0",
+      "explanation": "Indique une action de d\u00e9signer une dalle avec le pied.",
+      "stgdir": "D\u00e9signant du pied une dalle.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "537",
+      "category": "6",
+      "explanation": "Cela d\u00e9crit une interaction physique, reprenant le bras de Phanor.",
+      "stgdir": "Elle reprend le bras de Phanor.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "538",
+      "category": "3",
+      "explanation": "Un ton s\u00e9v\u00e8re indique une mani\u00e8re de d\u00e9livrer des paroles.",
+      "stgdir": "D'un ton s\u00e9v\u00e8re.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "539",
+      "category": "6",
+      "explanation": "Ce passage d\u00e9crit une interaction physique o\u00f9 il serre la main davantage.",
+      "stgdir": "Il lui serre la main plus fort.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "540",
+      "category": "3",
+      "explanation": "Il r\u00e9p\u00e8te des vers, ce qui concerne la mani\u00e8re de d\u00e9livrer une expression.",
+      "stgdir": "Il dit ces quatre vers bas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "541",
+      "category": "5",
+      "explanation": "Indique que le personnage sort par une porte, une direction de sortie.",
+      "stgdir": "Il sort par la porte de gauche.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "542",
+      "category": "12",
+      "explanation": "Cette indication fait r\u00e9f\u00e9rence \u00e0 une adresse \u00e0 Madame Mondor.",
+      "stgdir": "\u00c0 Madame Mondor.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "543",
+      "category": "12",
+      "explanation": "Une adresse \u00e0 un groupe de personnages, ici les Bergers.",
+      "stgdir": "Aux Bergers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "544",
+      "category": "0",
+      "explanation": "Le personnage s'assoit et \u00e9crit tout en chantant; cela d\u00e9crit une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il s'assied, et il \u00e9crit en chantant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "545",
+      "category": "8",
+      "explanation": "C'est une mention musicale qui indique un air du d\u00e9but.",
+      "stgdir": "Air du commencement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "546",
+      "category": "11",
+      "explanation": "Cette direction d\u00e9crit le cadre ou le d\u00e9cor de l'appartement de Rosine.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente l'appartement de Rosine. La crois\u00e9e dans le fond du th\u00e9\u00e2tre est ferm\u00e9e par une jalousie grill\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "547",
+      "category": "10",
+      "explanation": "Cela indique un acte de donner un objet \u00e0 un autre personnage.",
+      "stgdir": "Il la donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "548",
+      "category": "8",
+      "explanation": "C'est une indication musicale, sp\u00e9cifiant un air.",
+      "stgdir": "AIR. Ah ! je vous trouve , Chevalier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "549",
+      "category": "8",
+      "explanation": "C'est une mention musicale annon\u00e7ant un air.",
+      "stgdir": "AIR : Mathieu, gr\u00e2ce \u00e0 Dieu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "550",
+      "category": "0",
+      "explanation": "Cela implique un acte de retirer quelque chose avec une action g\u00e9n\u00e9rale.",
+      "stgdir": "Blanche retire \u00e0 elle la faveur, et fait remonter la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "551",
+      "category": "0",
+      "explanation": "Un acte d'arracher des papiers, qualifiant l'action du personnage.",
+      "stgdir": "Il arrache les papiers.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "552",
+      "category": "12",
+      "explanation": "Il voit venir la Princesse, indique une direction vers une personne.",
+      "stgdir": "Il voit venir la Princesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "553",
+      "category": "0",
+      "explanation": "Cela indique une action g\u00e9n\u00e9rale de fermer un livre et d'aller chercher quelque chose.",
+      "stgdir": "Elle ferme la bible et va prendre le berceau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "554",
+      "category": "6",
+      "explanation": "Une interaction physique o\u00f9 elle tape dans une main.",
+      "stgdir": "Elle lui tape dans une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "555",
+      "category": "10",
+      "explanation": "Cela implique l'ouverture d'un \u00e9crin, d\u00e9crivant une interaction avec un objet.",
+      "stgdir": "Il ouvre l'\u00e9crin.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "556",
+      "category": "0",
+      "explanation": "D\u00e9crit une action de regarder dans l'antichambre.",
+      "stgdir": "Il regarde dans l'antichambre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "557",
+      "category": "2",
+      "explanation": "Se retournant vers le public implique une adresse \u00e0 l'audience.",
+      "stgdir": "Se retournant vers les Spectateurs.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "558",
+      "category": "0",
+      "explanation": "Il lit la lettre de Damis, indiquant une action g\u00e9n\u00e9rale.",
+      "stgdir": "Il lit la lettre de Damis.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "559",
+      "category": "0",
+      "explanation": "Se jetant \u00e0 genoux d\u00e9crit une action simple sans complexe.",
+      "stgdir": "Ils se jettent \u00e0 genoux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "560",
+      "category": "11",
+      "explanation": "Cela d\u00e9crit un tableau qui est une partie fixe du d\u00e9cor.",
+      "stgdir": "Le Tableau qui repr\u00e9sente le portrait de Monsieur Cassandre, est pos\u00e9 sur un chevalet dans le fond du Th\u00e9\u00e2tre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "561",
+      "category": "7",
+      "explanation": "Description d'un mouvement vers le bureau.",
+      "stgdir": "Revenant pr\u00e9s de son bureau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "562",
+      "category": "8",
+      "explanation": "Indication d'un air musical, pr\u00e9cisant une composition.",
+      "stgdir": "Air nouveau, de M. MALPERTUIS, ou du Vaudeville de Jadis et Aujourd'hui.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "563",
+      "category": "0",
+      "explanation": "D\u00e9crit une action de formation d'un combat.",
+      "stgdir": "On forme un combat \u00e0 la mani\u00e8re des anciens.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "564",
+      "category": "8",
+      "explanation": "Mention d'un air musical, enclenchant un chant.",
+      "stgdir": "Air : Des fraises.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "565",
+      "category": "5",
+      "explanation": "Ces mots indiquent la sortie du personnage sur sc\u00e8ne.",
+      "stgdir": "Valentin sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "566",
+      "category": "7",
+      "explanation": "Cela d\u00e9crit un mouvement vers la porte du cabinet.",
+      "stgdir": "Il va vers la porte du cabinet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "567",
+      "category": "0",
+      "explanation": "Il montre ses yeux poch\u00e9s, une action descriptive.",
+      "stgdir": "Il montre ses yeux poch\u00e9s.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "568",
+      "category": "10",
+      "explanation": "Il pr\u00e9sente trois pailles, une interaction avec des objets.",
+      "stgdir": "Il pr\u00e9sente \u00e0 Junon trois pailles qu'il a ramass\u00e9es.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "569",
+      "category": "12",
+      "explanation": "Indication d'une adresse \u00e0 C\u00e9lie et Galimatias.",
+      "stgdir": "\u00c0 C\u00e9lie, Galimatias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "570",
+      "category": "8",
+      "explanation": "Indication d'un pr\u00e9lude musical.",
+      "stgdir": "Pr\u00e9lude.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "571",
+      "category": "8",
+      "explanation": "Ces mots indiquent une chanson ou un air au sujet de vivre sans amour.",
+      "stgdir": "Air : Vivre sans amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "572",
+      "category": "3",
+      "explanation": "Une indication de crier tr\u00e8s fort \u00e9nonce un mode de d\u00e9livrance.",
+      "stgdir": "Criant tr\u00e8s fort.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "573",
+      "category": "9",
+      "explanation": "Cela \u00e9voque un bruit sp\u00e9cifique, se qualifiant de narration.",
+      "stgdir": "Bruit de fer-blanc heurt\u00e9.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "574",
+      "category": "11",
+      "explanation": "Le changement de d\u00e9cor avec un d\u00e9sert et une grotte indique un nouveau cadre.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente un d\u00e9sert et une grotte.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "575",
+      "category": "9",
+      "explanation": "Longue description d'une sc\u00e8ne avec des \u00e9l\u00e9ments narratifs.",
+      "stgdir": "L'Amour para\u00eet dans sa Gloire, environn\u00e9 de Gr\u00e2ces et de Plaisirs. Les Divinit\u00e9s de la Terre sont assises sur les ailes du Th\u00e9\u00e2tre, encha\u00een\u00e9es de Fleurs ; et les Divinit\u00e9s du Ciel sont au-dessus, assises sur des Nuages. On voit au fond l'Antre de la Jalousie, o\u00f9 elle est encha\u00een\u00e9e avec la Rage et le D\u00e9sespoir.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "576",
+      "category": "8",
+      "explanation": "Ceci indique un air musical intitul\u00e9 'Robin turelure'.",
+      "stgdir": "Air : Robin turelure",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "577",
+      "category": "9",
+      "explanation": "Mention de pantomime, \u00e0 classifier dans les directions narratives.",
+      "stgdir": "PANTOMIME.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "578",
+      "category": "1",
+      "explanation": "Ceci \u00e9voque une action d'armement avec une intention agressive.",
+      "stgdir": "Dorante veut tirer son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "579",
+      "category": "3",
+      "explanation": "Cela indique une r\u00e9p\u00e9tition, qualifiant la mani\u00e8re de d\u00e9livrer des mots.",
+      "stgdir": "Il r\u00e9p\u00e8te ces quatre vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "580",
+      "category": "0",
+      "explanation": "Il se rend pr\u00e8s de Nicod\u00e8me, une action de mouvement g\u00e9n\u00e9ral.",
+      "stgdir": "Durant cela, Joseph le prud'homme s'\u00e9tait rendu pr\u00e8s de Nicod\u00e8me.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "581",
+      "category": "6",
+      "explanation": "Ce passage indique une interaction, car il baise la main du Prince.",
+      "stgdir": "Il baise la main du Prince.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "582",
+      "category": "6",
+      "explanation": "Cela d\u00e9montre une r\u00e9action collective des jeunes filles par le rire.",
+      "stgdir": "Toutes les jeunes filles rient, \u00e0 l'exception de Justine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "583",
+      "category": "4",
+      "explanation": "Junon fait une entr\u00e9e spectaculaire, d\u00e9crivant son apparition sur sc\u00e8ne.",
+      "stgdir": "Junon se fait voir dans un char superbe, tir\u00e9 par deux paons, et si bien enrichi, qu'il para\u00eet digne de l'orgueil de la d\u00e9esse qui s'y fait porter. Elle se prom\u00e8ne au milieu de l'air, dont nos po\u00e8tes lui attribuent l'empire, et y fait plusieurs tours, tant\u00f4t \u00e0 droite et tant\u00f4t \u00e0 gauche, cependant qu'elle assure Phin\u00e9e de sa protection.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "584",
+      "category": "12",
+      "explanation": "Il se r\u00e9f\u00e8re \u00e0 une adresse \u00e0 Antiochus.",
+      "stgdir": "\u00c0 Antiochus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "585",
+      "category": "7",
+      "explanation": "Cela indique un mouvement de lever sa canne.",
+      "stgdir": "Il l\u00e8ve sa canne.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "586",
+      "category": "0",
+      "explanation": "Revenir \u00e0 Oronte repr\u00e9sente une action, sans sp\u00e9cifier un mouvement vers une sortie/entr\u00e9e.",
+      "stgdir": "Puis revenant \u00e0 Oronte.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "587",
+      "category": "7",
+      "explanation": "Une indication de mouvement de regarder la montre.",
+      "stgdir": "Regard \u00e0 la montre.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "588",
+      "category": "10",
+      "explanation": "Cela d\u00e9crit une action o\u00f9 quelque chose est montr\u00e9 \u00e0 un autre personnage.",
+      "stgdir": "Lui montrant une lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "589",
+      "category": "12",
+      "explanation": "Cette direction indique une adresse \u00e0 un des suivants.",
+      "stgdir": "\u00c0 un de ses suivants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "590",
+      "category": "8",
+      "explanation": "Indique une composition musicale, en pr\u00e9cisant un air particulier.",
+      "stgdir": "Air. Menuet de Monsieur Grandval.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "591",
+      "category": "8",
+      "explanation": "C'est une indication musicale, mentionnant un air.",
+      "stgdir": "Air : Dans ma chaumi\u00e8re, ou Bouton de rose.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "592",
+      "category": "0",
+      "explanation": "Cela renvoie \u00e0 des actions pr\u00e9paratoires des personnages.",
+      "stgdir": "Scapin et Monsieur Dumont pr\u00e9parent tout.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "593",
+      "category": "5",
+      "explanation": "Indique que le personnage rentre dans le ch\u00e2teau, une sortie.",
+      "stgdir": "Elle rentre dans le ch\u00e2teau.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "594",
+      "category": "8",
+      "explanation": "C'est une mention musicale, sp\u00e9cifiant un air \u00e0 propos de mouvement.",
+      "stgdir": "Air : Du haut en bas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "595",
+      "category": "0",
+      "explanation": "Ce passage montre l'action de boire, d\u00e9crivant le comportement d'un personnage.",
+      "stgdir": "Don Juan demande \u00e0 boire, et, ses amis p\u00e9rissant, il quitte son verre. Mais apr\u00e8s le mot que l'Ombre dit : Qu'en dis-tu ? il boit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "596",
+      "category": "9",
+      "explanation": "Le grand bruit \u00e9voqu\u00e9 se rapporte \u00e0 une narration sonore.",
+      "stgdir": "On entend un grand bruit du c\u00f4t\u00e9 de la maison.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "597",
+      "category": "8",
+      "explanation": "Mention musicale qui d\u00e9crit une composition.",
+      "stgdir": "AIR. tourne, tourne, tourne, c'est son paiement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "598",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e de personnages qui viennent de diff\u00e9rents c\u00f4t\u00e9s.",
+      "stgdir": "Ils entrent par deux diff\u00e9rents c\u00f4t\u00e9s du th\u00e9\u00e2tre ; Pasquin le premier, et marchant fort vite.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "599",
+      "category": "5",
+      "explanation": "Il s'agit de la sortie du personnage Alcandre.",
+      "stgdir": "Alcandre sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 25603.57975959778,
+  "model": "gpt-4o-mini"
+}

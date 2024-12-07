@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "450",
+      "category": "7",
+      "explanation": "La stage direction 'Elle fait quelques pas pour sortir' d\u00e9crit un mouvement de la femme vers la sortie.",
+      "stgdir": "Elle fait quelques pas pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "451",
+      "category": "11",
+      "explanation": "La stage direction 'Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve' d\u00e9crit le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une chambre \u00e0 coucher, dans laquelle il y a une alc\u00f4ve.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "452",
+      "category": "7",
+      "explanation": "La stage direction 'Elle passe \u00e0 gauche' d\u00e9crit un mouvement de la femme vers la gauche.",
+      "stgdir": "Elle passe \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "453",
+      "category": "10",
+      "explanation": "La stage direction 'Il tire un habit de campagne' d\u00e9crit une interaction avec un objet, \u00e0 savoir un habit de campagne.",
+      "stgdir": "Il tire un habit de campagne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "454",
+      "category": "6",
+      "explanation": "La stage direction 'Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre' d\u00e9crit une interaction non-verbale entre les personnages.",
+      "stgdir": "Le petit Blandineau et sa soeur battent Jannot, qui se laisse battre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "455",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Zaide' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Zaide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "456",
+      "category": "8",
+      "explanation": "La stage direction 'Air, Ah le bel oiseau etc.' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Air, Ah le bel oiseau etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "457",
+      "category": "10",
+      "explanation": "La stage direction 'Il lui donne la lettre' d\u00e9crit la remise d'un objet, une lettre, \u00e0 quelqu'un.",
+      "stgdir": "Il lui donne la lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "458",
+      "category": "9",
+      "explanation": "La stage direction 'On entend une cloche derri\u00e8re le th\u00e9\u00e2tre' d\u00e9crit un bruit ou un son entendu sur la sc\u00e8ne.",
+      "stgdir": "On entend une cloche derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "459",
+      "category": "6",
+      "explanation": "La stage direction 'Don C\u00e9sar re\u00e7oit la main d'Isabelle' d\u00e9crit une interaction non-verbale entre les personnages.",
+      "stgdir": "Don C\u00e9sar re\u00e7oit la main d'Isabelle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "460",
+      "category": "6",
+      "explanation": "La stage direction 'Madame Dumond et le prieur sortent. H\u00e9l\u00e8ne va leur ouvrir la porte, et leur fait plusieurs r\u00e9v\u00e9rences, que Madame Dumond lui rend apr\u00e8s l'avoir embrass\u00e9e. Pendant ce temps Monique reste seule sur le devant du th\u00e9\u00e2tre' d\u00e9crit une s\u00e9rie d'interactions non-verbales entre les personnages.",
+      "stgdir": "Madame Dumond et le prieur sortent. H\u00e9l\u00e8ne va leur ouvrir la porte, et leur fait plusieurs r\u00e9v\u00e9rences, que Madame Dumond lui rend apr\u00e8s l'avoir embrass\u00e9e. Pendant ce temps Monique reste seule sur le devant du th\u00e9\u00e2tre.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "461",
+      "category": "5",
+      "explanation": "La stage direction 'Crispe se retire et l'on continue' indique qu'un personnage quitte la sc\u00e8ne.",
+      "stgdir": "Crispe se retire et l'on continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "462",
+      "category": "11",
+      "explanation": "La stage direction 'Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil, etc.' d\u00e9crit le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Un salon de coiffeur. Une toilette \u00e0 droite, premier plan. Une nuire toilette \u00e0 gauche, premier plan. Toutes deux ont des perruques sur champignons. Une table \u00e0 la gauche du fond, avec perruques, idem. \u2014 Un r\u00e9chaud sous la table. Une robe de chambre noire d'un c\u00f4t\u00e9 et d'une autre couleur de l'autre. Portes lat\u00e9rales ; porte d'entr\u00e9e au fond ; une crois\u00e9e \u00e0 droite. Chaises, fauteuil. etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "463",
+      "category": "4",
+      "explanation": "La stage direction 'ENTR\u00c9E' indique l'entr\u00e9e d'un personnage sur la sc\u00e8ne.",
+      "stgdir": "ENTR\u00c9E.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "464",
+      "category": "3",
+      "explanation": "La stage direction 'Il parle \u00e0 sa femme' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "Il parle \u00e0 sa femme.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "465",
+      "category": "3",
+      "explanation": "La stage direction 'Ouvrant une autre lettre' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion en lisant une lettre.",
+      "stgdir": "Ouvrant une autre lettre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "466",
+      "category": "6",
+      "explanation": "La stage direction 'Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol' d\u00e9crit une s\u00e9rie d'interactions non-verbales entre les personnages.",
+      "stgdir": "Charpentier entre. Il vient faire sa besogne. Arriv\u00e9e de la ma\u00eetresse. Elle le menace de le quitter. Elle le pousse au vol.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "467",
+      "category": "8",
+      "explanation": "La stage direction 'Air : Nous sommes pr\u00e9cepteurs d'amour' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Air : Nous sommes pr\u00e9cepteurs d'amour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "468",
+      "category": "11",
+      "explanation": "La stage direction 'Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de ville' d\u00e9crit le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente le vestibule d'un h\u00f4tel de villel.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "469",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Antonin' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Antonin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "470",
+      "category": "10",
+      "explanation": "La stage direction 'Il lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom' d\u00e9crit la remise d'un objet, une lettre, \u00e0 quelqu'un.",
+      "stgdir": "Elle lui pr\u00e9sente la lettre de Caliste r\u00e9-\u00e9crite de la main d'Agante, au bas de laquelle C\u00e9line avait son nom.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "471",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Coucy' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Coucy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "472",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 son cheval' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 son cheval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "473",
+      "category": "10",
+      "explanation": "La stage direction 'Il couvre le presse-papier avec le chapeau' d\u00e9crit une interaction avec un objet, \u00e0 savoir un presse-papier et un chapeau.",
+      "stgdir": "Il couvre le presse-papier avec le chapeau.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "474",
+      "category": "3",
+      "explanation": "La stage direction 'Solennel' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "Solennel.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "475",
+      "category": "1",
+      "explanation": "La stage direction 'Il montre le mari de la Vieille' d\u00e9crit une action agressive en montrant quelqu'un.",
+      "stgdir": "Il montre le mari de la Vieille.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "476",
+      "category": "8",
+      "explanation": "La stage direction 'Air 30 : Lanturlu' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Air 30 : Lanturlu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "477",
+      "category": "8",
+      "explanation": "La stage direction 'Air : R\u00e9formez ma musette' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Air : R\u00e9formez ma musette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "478",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Isabelle se touchant le front avec la main' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Isabelle se touchant le front avec la main.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "479",
+      "category": "6",
+      "explanation": "La stage direction 'Figaro passe le linge au cou de Bartholo' d\u00e9crit une interaction non-verbale entre les personnages.",
+      "stgdir": "Figaro passe le linge au cou de Bartholo.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "480",
+      "category": "8",
+      "explanation": "La stage direction 'Il chante un petit motet' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Il chante un petit motet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "481",
+      "category": "3",
+      "explanation": "La stage direction 'S'\u00e9chauffant' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "S'\u00e9chauffant.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "482",
+      "category": "7",
+      "explanation": "La stage direction 'Il est rest\u00e9 assis sur le remblai' d\u00e9crit une position ou un mouvement sur sc\u00e8ne.",
+      "stgdir": "Il est rest\u00e9 assis sur le remblai.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "483",
+      "category": "6",
+      "explanation": "La stage direction 'Il la retient encore par le bras, et, perdant tout respect' d\u00e9crit une interaction non-verbale entre les personnages.",
+      "stgdir": "Il la retient encore par le bras, et, perdant tout respect.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "484",
+      "category": "3",
+      "explanation": "La stage direction 'Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "Le Choeur des Bergers r\u00e9p\u00e8te ces deux derniers Vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "485",
+      "category": "1",
+      "explanation": "La stage direction 'En montrant Betti' d\u00e9crit une action agressive en montrant quelqu'un.",
+      "stgdir": "En montrant Betti.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "486",
+      "category": "7",
+      "explanation": "La stage direction '\u00c0 la balustrade' d\u00e9crit une position ou un mouvement sur sc\u00e8ne.",
+      "stgdir": "\u00c0 la balustrade.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "487",
+      "category": "4",
+      "explanation": "La stage direction 'Jean Poquelin sort du cabinet' indique l'entr\u00e9e d'un personnage sur la sc\u00e8ne.",
+      "stgdir": "Jean Poquelin sort du cabinet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "488",
+      "category": "6",
+      "explanation": "La stage direction 'Il la reprend' d\u00e9crit une interaction non-verbale entre les personnages.",
+      "stgdir": "Il la reprend.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "489",
+      "category": "8",
+      "explanation": "La stage direction 'AIR. Je voudrais bien me marier' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "AIR. Je voudrais bien me marier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "490",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Antoinette' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Antoinette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "491",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Tronquoy' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Tronquoy.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "492",
+      "category": "7",
+      "explanation": "La stage direction 'Il s'assied dans le fauteuil' d\u00e9crit une position ou un mouvement sur sc\u00e8ne.",
+      "stgdir": "Il s'assied dans le fauteuil.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "493",
+      "category": "11",
+      "explanation": "La stage direction 'Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes' d\u00e9crit le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change et repr\u00e9sente le Palais d'AEg\u00e9e roi d'Ath\u00e8nes.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "494",
+      "category": "1",
+      "explanation": "La stage direction 'Don Carlos tire son \u00e9p\u00e9e' d\u00e9crit une action agressive en tirant une \u00e9p\u00e9e.",
+      "stgdir": "Don Carlos tire son \u00e9p\u00e9e.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "495",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Madherbal' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Madherbal",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "496",
+      "category": "3",
+      "explanation": "La stage direction 'RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "RITIGER accompagn\u00e9 du Duc son Fr\u00e8re anime ses capitaines \u00e0 la d\u00e9fense de ses int\u00e9r\u00eats, leur donne les ordres pour ses gens de Guerre, et apr\u00e8s les avoir cong\u00e9di\u00e9s,",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "497",
+      "category": "10",
+      "explanation": "La stage direction 'Il prend une lettre dans sa poche et va la poser sur la b\u00fbche' d\u00e9crit une interaction avec un objet, \u00e0 savoir une lettre et une b\u00fbche.",
+      "stgdir": "Il prend une lettre dans sa poche et va la poser sur la b\u00fbche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "498",
+      "category": "11",
+      "explanation": "La stage direction 'La sc\u00e8ne repr\u00e9sente sur le devant un lieu champ\u00eatre, et dans l'enfoncement un rocher perc\u00e9 \u00e0 jour, \u00e0 travers duquel on voit la mer en \u00e9loignement. Flore para\u00eet au milieu du th\u00e9\u00e2tre, accompagn\u00e9 de Vertumne Dieu des Arbres et des Fruits, et de Palamon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinit\u00e9s ; l'un m\u00e8ne \u00e0 sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Na\u00efades, Flore chante ce r\u00e9cit pour inviter V\u00e9nus \u00e0 descendre en Terre' d\u00e9crit le d\u00e9cor de la sc\u00e8ne et une action de personnages.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente sur le devant un lieu champ\u00eatre, et dans l'enfoncement un rocher perc\u00e9 \u00e0 jour, \u00e0 travers duquel on voit la mer en \u00e9loignement. Flore para\u00eet au milieu du th\u00e9\u00e2tre, accompagn\u00e9 de Vertumne Dieu des Arbres et des Fruits, et de Palamon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinit\u00e9s ; l'un m\u00e8ne \u00e0 sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Na\u00efades, Flore chante ce r\u00e9cit pour inviter V\u00e9nus \u00e0 descendre en Terre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "499",
+      "category": "3",
+      "explanation": "La stage direction 'Frappant sur la table' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "Frappant sur la table.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "500",
+      "category": "8",
+      "explanation": "La stage direction 'AIR: Vaud[e]v[ille] d'Abuzar' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Air : Vaud[e]v[ille] d'Abuzar.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "501",
+      "category": "8",
+      "explanation": "La stage direction 'AIR: Ton petit minois' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "AIR: Ton petit minois.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "502",
+      "category": "8",
+      "explanation": "La stage direction 'III COUPLET' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "III COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "503",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Ardenie' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Ardenie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "504",
+      "category": "8",
+      "explanation": "La stage direction 'AIR. Un inconnu' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "AIR. Un inconnu.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "505",
+      "category": "11",
+      "explanation": "La stage direction 'Le palais du roi' d\u00e9crit le d\u00e9cor de la sc\u00e8ne.",
+      "stgdir": "Le palais du roi.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "506",
+      "category": "8",
+      "explanation": "La stage direction 'AIR. ( Ma raison s'en va beau train. )' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "AIR. ( Ma raison s'en va beau train. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "507",
+      "category": "9",
+      "explanation": "La stage direction 'Ils continuent a chercher le faux Proph\u00e8te, qui jette sur eux quantit\u00e9 de p\u00e9tards et d'autres feux d'artifice qui enflamment l'air. On voit en m\u00eame temps Arlequin dans sa machine qui traverse le th\u00e9\u00e2tre. Il a un pourpoint noir avec un turban et une longue barbe blanche. Le Roi et le Kam sont frapp\u00e9s de cette apparition ; et la Suivante profitant de la crainte dont elle voit le Roi saisi lui dit :' d\u00e9crit un long \u00e9v\u00e9nement narratif sur sc\u00e8ne.",
+      "stgdir": "Ils continuent a chercher le faux Proph\u00e8te, qui jette sur eux quantit\u00e9 de p\u00e9tards et d'autres feux d'artifice qui enflamment l'air. On voit en m\u00eame temps Arlequin dans sa machine qui traverse le th\u00e9\u00e2tre. Il a un pourpoint noir avec un turban et une longue barbe blanche. Le Roi et le Kam sont frapp\u00e9s de cette apparition ; et la Suivante profitant de la crainte dont elle voit le Roi saisi lui dit :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "508",
+      "category": "3",
+      "explanation": "La stage direction 'Troisi\u00e8me entr\u00e9e de ballet' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "Troisi\u00e8me entr\u00e9e de ballet",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "509",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 Philom\u00e8le' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 Philom\u00e8le.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "510",
+      "category": "8",
+      "explanation": "La stage direction 'Air : Non je ne ferai pas, etc.' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Air : Non je ne ferai pas, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "511",
+      "category": "10",
+      "explanation": "La stage direction 'Testament de L\u00e9once' d\u00e9crit la remise d'un objet, un testament, \u00e0 quelqu'un.",
+      "stgdir": "Testament de L\u00e9once.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "512",
+      "category": "10",
+      "explanation": "La stage direction 'Tirant un portefeuille de sa poche' d\u00e9crit une interaction avec un objet, \u00e0 savoir un portefeuille.",
+      "stgdir": "Tirant un portefeuille de sa poche.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "513",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 \u00c9sope' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 \u00c9sope.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "514",
+      "category": "7",
+      "explanation": "La stage direction 'Il veut partir' d\u00e9crit un mouvement de d\u00e9part de la sc\u00e8ne.",
+      "stgdir": "Il veut partir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "515",
+      "category": "7",
+      "explanation": "La stage direction 'Elle se l\u00e8ve pour sortir' d\u00e9crit un mouvement de d\u00e9part de la sc\u00e8ne.",
+      "stgdir": "Elle se l\u00e8ve pour sortir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "516",
+      "category": "10",
+      "explanation": "La stage direction 'Il laisse tomber sa lettre' d\u00e9crit une interaction avec un objet, \u00e0 savoir une lettre.",
+      "stgdir": "Il laisse tomber sa lettre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "517",
+      "category": "9",
+      "explanation": "La stage direction 'Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit' d\u00e9crit un long \u00e9v\u00e9nement narratif sur sc\u00e8ne.",
+      "stgdir": "Le ciel s'ouvre, avec des flammes, et une voix s'entend, qui dit.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "518",
+      "category": "3",
+      "explanation": "La stage direction 'Il r\u00e9p\u00e8te encore ces quatre derniers vers' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "Il r\u00e9p\u00e8te encore ces quatre derniers vers.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "519",
+      "category": "12",
+      "explanation": "La stage direction '\u00c0 \u00c9rix\u00e8ne' indique l'addressee d'une parole ou d'une action.",
+      "stgdir": "\u00c0 \u00c9rix\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "520",
+      "category": "8",
+      "explanation": "La stage direction 'Air de la Clef des champs (Deff\u00e8s)' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "Air de la Clef des champs (Deff\u00e8s)",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "521",
+      "category": "9",
+      "explanation": "La stage direction 'Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du th\u00e9\u00e2tre' d\u00e9crit un long \u00e9v\u00e9nement narratif sur sc\u00e8ne.",
+      "stgdir": "Alfred regarde avec d\u00e9sespoir les officiers qui sont au fond du the\u00e2tre.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "522",
+      "category": "3",
+      "explanation": "La stage direction 'S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "S'interrompant, en voyant Don Juan pr\u00eat \u00e0 se f\u00e2cher.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "523",
+      "category": "8",
+      "explanation": "La stage direction 'AIR : Va t'en voir s'ils viennent Jean' indique une chanson ou une m\u00e9lodie.",
+      "stgdir": "AIR : Va t'en voir s'ils viennent Jean.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "524",
+      "category": "3",
+      "explanation": "La stage direction 'Revenant promptement \u00e0 elle' indique une mani\u00e8re de parler ou d'exprimer une \u00e9motion.",
+      "stgdir": "Revenant promptement \u00e0 elle.",
+      "categFull": "delivery"
+    }
+  ],
+  "response_time": 79828.39012145996,
+  "model": "mistral-small-latest"
+}

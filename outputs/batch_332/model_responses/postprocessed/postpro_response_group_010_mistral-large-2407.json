@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": 750,
+      "category": 6,
+      "explanation": "Interaction non verbale entre les personnages.",
+      "stgdir": "Il la baise avec peine.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 751,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "On entend un bruit sourd de Timbales, de Trompettes, et d'autres Instruments.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 752,
+      "category": 4,
+      "explanation": "Le personnage entre en sc\u00e8ne.",
+      "stgdir": "Moli\u00e8re rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 753,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Clim\u00e8ne en action de se jeter aux pieds du Roi. Et Pamphilie, sa soeur aussi.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 754,
+      "category": 5,
+      "explanation": "Le personnage sort de la sc\u00e8ne.",
+      "stgdir": "Idas sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 755,
+      "category": 6,
+      "explanation": "Interaction non verbale entre les personnages.",
+      "stgdir": "Il veut lui prendre une main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 756,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "bis",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 757,
+      "category": 4,
+      "explanation": "Le personnage entre en sc\u00e8ne.",
+      "stgdir": "Timag\u00e8ne rentre sur le th\u00e9\u00e2tre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 758,
+      "category": 5,
+      "explanation": "Les personnages sortent de la sc\u00e8ne.",
+      "stgdir": "Ils sortent en causant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 759,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au laboureur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 760,
+      "category": 10,
+      "explanation": "Interaction avec un objet.",
+      "stgdir": "Il lui remet Sophie entre les bras.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 761,
+      "category": 10,
+      "explanation": "Interaction avec un objet.",
+      "stgdir": "Elle le met \u00e0 son corsage.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 762,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Mademoiselle Dumeny.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 763,
+      "category": 7,
+      "explanation": "D\u00e9placement du personnage.",
+      "stgdir": "Elle va au lit de la petite Dusault.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 764,
+      "category": 4,
+      "explanation": "Les personnages entrent en sc\u00e8ne.",
+      "stgdir": "L'Exempt et ses Gardes arrivent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 765,
+      "category": 5,
+      "explanation": "Le personnage veut sortir de la sc\u00e8ne.",
+      "stgdir": "Elle veut sortir.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 766,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Th\u00e9s\u00e9e reprend son \u00e9p\u00e9e. M\u00e9d\u00e9e continue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 767,
+      "category": 10,
+      "explanation": "Interaction avec un objet.",
+      "stgdir": "Il prend le livre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 768,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "R\u00c9CITATIF, par MONSIEUR LA RUETTE. N\u00b01",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 769,
+      "category": 4,
+      "explanation": "Les personnages entrent en sc\u00e8ne.",
+      "stgdir": "ENTR\u00c9E de toutes sortes de personnes amoureuse de la nouveaut\u00e9.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": 770,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 la comtesse.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 771,
+      "category": 3,
+      "explanation": "D\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "\u00c0 demi-voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 772,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "L'ancienne galerie des portraits seigneuriaux du burg de Heppenheff. Cette galerie, qui \u00e9tait circulaire, se d\u00e9veloppait autour du grand donjon, et communiquait avec le reste du ch\u00e2teau par quatre grandes portes situ\u00e9es aux quatre points cardinaux. Au lever du rideau, on aper\u00e7oit une partie de cette galerie, qui fait retour et qu'on voit se perdre derri\u00e8re le mur arrondi du donjon. A gauche, une des quatre grandes portes de communication. \u00c0 droite, une haute et large porte communiquant avec l'int\u00e9rieur du donjon, exhauss\u00e9e sur un degr\u00e9 de trois marches et accost\u00e9e d'une porte b\u00e2tarde. Au fond, un promenoir roman \u00e0 pleins cintres, \u00e0 piliers bas, \u00e0 chapiteaux bizarres, portant un deuxi\u00e8me \u00e9tage (praticable), et communiquant avec la galerie par un grand degr\u00e9 de six marches. \u00c0 travers les larges arcades de ce promenoir, on aper\u00e7oit le ciel et le reste du ch\u00e2teau, dont la plus haute tour est surmont\u00e9e d'un immense drapeau noir qui flotte au vent. \u00c0 gauche, pr\u00e8s de la grande porte \u00e0 deux battants, une petite fen\u00eatre ferm\u00e9e d'un vitrail haut en couleur. Pr\u00e8s de la fen\u00eatre, un fauteuil. Toute la galerie a l'aspect d\u00e9labr\u00e9 et inhabit\u00e9. Les murailles et les vo\u00fbtes de pierre, sur lesquelles on distingue quelques vestiges de fresques effac\u00e9es, sont verdies et moisies par le suintement des pluies. Les portraits suspendus dans les panneaux de la galerie sont tous retourn\u00e9s la face contre le mur. Au moment o\u00f9 le rideau se l\u00e8ve, le soir vient. La partie du ch\u00e2teau qu'on aper\u00e7oit par les archivoltes du promenoir au fond du th\u00e9\u00e2tre semble \u00e9clair\u00e9e et illumin\u00e9e \u00e0 l'int\u00e9rieur, quoiqu'il fasse encore-grand jour. On entend venir de ce c\u00f4t\u00e9 du burg un bruit de trompettes et de clairons, et par moments des Chansons chant\u00e9es \u00e0 pleines voix au cliquetis des verres. Plus pr\u00e8s on entend un froissement de ferrailles, comme si une troupe d'hommes encha\u00een\u00e9s allait et venait dans la portion du promenoir qu'on ne voit pas. Une femme, seule, vieille, \u00e0 demi cach\u00e9e par un long voile noir, v\u00eatue d'un sac de toile grise en lambeaux, encha\u00een\u00e9e d'une cha\u00eene qui se rattache par un double anneau \u00e0 sa ceinture et \u00e0 son pied nu, un collier de fer autour du cou, s'appuie contre la grande porte, et semble \u00e9couter les fanfares et les chants de la salle voisine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 773,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Dorante et Ang\u00e9lique se regardent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 774,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Delval.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 775,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Parlant \u00e0 Ninon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 776,
+      "category": 11,
+      "explanation": "Description de la sc\u00e8ne ou lieu de la pi\u00e8ce.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente un site pittoresque ; une habitation est \u00e0 la droite du spectateur ; parmi les arbres qui d\u00e9corent la sc\u00e8ne, on remarque un sumac du Canada, qui doit \u00eatre plus apparent que les autres.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 777,
+      "category": 1,
+      "explanation": "Action violente.",
+      "stgdir": "Il met la main \u00e0 un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 778,
+      "category": 6,
+      "explanation": "Interaction non verbale entre les personnages.",
+      "stgdir": "Il embrasse Fleur-de-Sauge.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 779,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Margot.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 780,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "CARTEL de Tygrane \u00e0 Eurim\u00e9don.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 781,
+      "category": 1,
+      "explanation": "Action violente.",
+      "stgdir": "Ils s'avancent tous quatre l'\u00e9p\u00e9e \u00e0 la main.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": 782,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air : Lampons.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 783,
+      "category": 3,
+      "explanation": "D\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Plus haut encore.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 784,
+      "category": 6,
+      "explanation": "Interaction non verbale entre les personnages.",
+      "stgdir": "Paquette lui serrant la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 785,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Plutus para\u00eet \u00e0 la place du sac.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 786,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "H\u00e9b\u00e9 et les nymphes re\u00e7oivent Io.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 787,
+      "category": 5,
+      "explanation": "Les personnages sortent de la sc\u00e8ne.",
+      "stgdir": "Tous s'en vont.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 788,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "Au Roi, en lui montrant Thamar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 789,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Il regarde dans un petit cabinet.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 790,
+      "category": 3,
+      "explanation": "D\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Le Mufti, apr\u00e8s l'avoir fait b\u00e2tonner, lui dit en chantant :",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 791,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Madame Leblanc montre successivement ses broderies.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 792,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "AIR : Quand on conspire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 793,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Se t\u00e2tant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 794,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air : Tout est dit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 795,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 Crassus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 796,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Octave veut secourir Colombine, Arlequin l'en emp\u00eache et emm\u00e8ne Colombine. Octave reste fort embarrass\u00e9. Le Docteur vient, qui le reconna\u00eet pour son fils. Octave feint de ne pas le reconna\u00eetre et s'\u00e9chappe. Le Docteur le suit. Apr\u00e8s cette Sc\u00e8ne, qui est toute en Italien, Arlequin revient sur le Th\u00e9\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 797,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "La toile se baisse.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 798,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Duo.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 799,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air 107 : Faites boire \u00e0 triple mesure.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 800,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air : Vaudeville de Jean Monnet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 801,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Elle s'\u00e9tend dans un fauteuil.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 802,
+      "category": 11,
+      "explanation": "Description de la sc\u00e8ne ou lieu de la pi\u00e8ce.",
+      "stgdir": "Le Prince est assis avec le Marquis d'Alfons devant une table charg\u00e9e de plans, de livres et de papiers, dont ils paraissent s'occuper, on entend un tumulte qui annonce une f\u00eate publique.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 803,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "AIR : O gu\u00e9 lan la, lanlaire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 804,
+      "category": 5,
+      "explanation": "Le personnage sort de la sc\u00e8ne.",
+      "stgdir": "Scanderberg sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 805,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air 211 : De Monsieur Gillier.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 806,
+      "category": 6,
+      "explanation": "Interaction non verbale entre les personnages.",
+      "stgdir": "Quatre lutins se jettent sur Arlequin et l'ayant mis dans une couverture ils le bernent.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": 807,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air : De la contredanse de la Fontaine de Jouvence : Non, je n'aimerai jamais que vous.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 808,
+      "category": 11,
+      "explanation": "Description de la sc\u00e8ne ou lieu de la pi\u00e8ce.",
+      "stgdir": "LE CH\u00c2TEAU DE SILVA. Dans les montagnes d'Aragon. La galerie des portraits de famille de Silva ; grande salle, dont ces portraits entour\u00e9s de riches bordures, et surmont\u00e9s de couronnes ducales et d'\u00e9cussons dor\u00e9s, font la d\u00e9coration. Au fond une haute porte gothique. Entre chaque portrait une panoplie compl\u00e8te, toutes ces armures de si\u00e8cles diff\u00e9rents.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 809,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air : \u00c0 l'ombre de ce vert bocage.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 810,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Il se retourne vers son fils et lui dit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 811,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Il les met en termes de combattre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 812,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Cependant Monsieur Hardouin \u00e9carte le mantelet de Madame Bertrand, et la met un peu en d\u00e9sordre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 813,
+      "category": 12,
+      "explanation": "Indique le destinataire d'une r\u00e9plique.",
+      "stgdir": "\u00c0 \u00c9liante et Philinte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": 814,
+      "category": 10,
+      "explanation": "Interaction avec un objet.",
+      "stgdir": "Rendant le flacon vide.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": 815,
+      "category": 11,
+      "explanation": "Description de la sc\u00e8ne ou lieu de la pi\u00e8ce.",
+      "stgdir": "Le camp sous Varsovie.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": 816,
+      "category": 3,
+      "explanation": "D\u00e9crit comment est interpr\u00e9t\u00e9e une r\u00e9plique.",
+      "stgdir": "Il dit ces mots derri\u00e8re le th\u00e9\u00e2tre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": 817,
+      "category": 7,
+      "explanation": "D\u00e9placement du personnage.",
+      "stgdir": "Il passe devant \u00c9velina.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": 818,
+      "category": 5,
+      "explanation": "Les personnages sortent de la sc\u00e8ne.",
+      "stgdir": "Oloodeme et Eristene se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 819,
+      "category": 5,
+      "explanation": "Le personnage sort de la sc\u00e8ne.",
+      "stgdir": "Elle sort avec Val\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 820,
+      "category": 0,
+      "explanation": "Action des personnages.",
+      "stgdir": "Il dispara\u00eet enti\u00e8rement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": 821,
+      "category": 5,
+      "explanation": "Les personnages sortent de la sc\u00e8ne.",
+      "stgdir": "Ils s'enfuient hors du Palais, et le Roi continue.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 822,
+      "category": 5,
+      "explanation": "Les personnages sortent de la sc\u00e8ne.",
+      "stgdir": "Julie entre chez le Cardinal, Lamperri\u00e8re sort par le fond.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": 823,
+      "category": 8,
+      "explanation": "Description de la musique.",
+      "stgdir": "Air : Quand on a prononc\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": 824,
+      "category": 11,
+      "explanation": "Description de la sc\u00e8ne ou lieu de la pi\u00e8ce.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente une campagne agr\u00e9able voisine de la maison du Baron : la sc\u00e8ne est au d\u00e9clin du jour.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 96336.69352531433,
+  "model": "mistral-large-2407"
+}

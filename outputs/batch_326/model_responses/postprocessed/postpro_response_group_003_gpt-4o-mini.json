@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "225",
+      "category": "9",
+      "explanation": "Il s'agit d'une narration qui fournit des informations sur une situation future en rapport avec un personnage.",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "0",
+      "explanation": "C'est une action simple, d\u00e9crivant le fait que Scarron continue \u00e0 \u00e9crire.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "12",
+      "explanation": "Il s'agit d'une indication de destination, o\u00f9 un personnage semble s'adresser aux femmes.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "0",
+      "explanation": "Une action, indiquant qu'un personnage retient Hernani, sans autre contexte.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "12",
+      "explanation": "Un rep\u00e8re montrant une interaction ou une attention port\u00e9e entre les personnages, Henri se situant probablement entre deux autres.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "230",
+      "category": "11",
+      "explanation": "Description d'un cadre sp\u00e9cifique o\u00f9 se d\u00e9roule l'action, ce qui en fait une indication de mise en sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "5",
+      "explanation": "Cela indique que le personnage de la didascalie sort de sc\u00e8ne, sp\u00e9cifiant un mouvement d'\u00e9loignement.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "Cette didascalie commence par 'AIR' et mentionne une pi\u00e8ce musicale, donc elle est class\u00e9e sous les musiques.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "1",
+      "explanation": "D\u00e9crit une action violente. L'\u00e9gorgement des victimes implique une agression.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "10",
+      "explanation": "Indique une interaction avec un objet, ici l'armoire qui est ouverte par un personnage.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "0",
+      "explanation": "C'est une action o\u00f9 le Marquis appara\u00eet dans le miroir, ce qui est une action visuelle.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "6",
+      "explanation": "D\u00e9crit une interaction non verbale avec le mouvement entre deux personnages.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "8",
+      "explanation": "Comme les pr\u00e9c\u00e9dentes, c'est une indication d'air,\u062a\u0645\u064a\u064a\u0632gr\u00f6\u00dfe musicale.",
+      "stgdir": "AIR : Changement pique l'app\u00e9tit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "4",
+      "explanation": "Indique que les personnages entrent, ce qui est une action de mise en sc\u00e8ne classique.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "8",
+      "explanation": "Une mention d' 'Air', ce qui confirme son affiliation \u00e0 la musique.",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "240",
+      "category": "11",
+      "explanation": "Didascalie qui d\u00e9crit la sc\u00e8ne en mentionnant les muses et leur disposition.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": "8",
+      "explanation": "Mentionne un AIR qui est une cat\u00e9gorie musicale.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": "8",
+      "explanation": "C'est une note d'air musical, classifi\u00e9e sous musique.",
+      "stgdir": "Air Not\u00e9, N\u00b03",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": "0",
+      "explanation": "Action d'observer, qui s'inscrit dans les actions consid\u00e9r\u00e9es.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": "11",
+      "explanation": "Description du d\u00e9cor o\u00f9 se d\u00e9roule l'action, impliquant des magiciens et d\u00e9mons.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": "0",
+      "explanation": "Observation qui fait partie des actions simples d\u00e9crivant un moment.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e de deux personnages, une action d'entr\u00e9e typique.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": "0",
+      "explanation": "C'est une action de lecture, une activit\u00e9 directe du personnage.",
+      "stgdir": "Lisant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": "11",
+      "explanation": "Description d'un changement de sc\u00e8ne, ce qui fait r\u00e9f\u00e9rence \u00e0 l'environnement de l'action.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": "0",
+      "explanation": "Indique un effort physique pour ouvrir un objet, ce qui est une action.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "250",
+      "category": "5",
+      "explanation": "Indique que Laurence quitte la sc\u00e8ne, qualifiant d'action de sortie.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "251",
+      "category": "4",
+      "explanation": "Indique une entr\u00e9e dans une maison.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "252",
+      "category": "0",
+      "explanation": "Action de frapper \u00e0 la porte, ce qui peut \u00eatre consid\u00e9r\u00e9 comme une action directe.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "253",
+      "category": "0",
+      "explanation": "Prendre une personne est une action simple directe.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "254",
+      "category": "0",
+      "explanation": "Indique l'intention d'un personnage de quitter, ce qui est une action.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "255",
+      "category": "0",
+      "explanation": "Regarder par la fen\u00eatre est une action.",
+      "stgdir": "Elle regarde par la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "256",
+      "category": "8",
+      "explanation": "Mention d'un air musical, qui rel\u00e8ve de la musique.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "257",
+      "category": "12",
+      "explanation": "\u00c0 Hernani indique une direction d'attention.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "258",
+      "category": "10",
+      "explanation": "Elle montre un objet, en l'occurrence un banc, impliquant une interaction avec cet objet.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "259",
+      "category": "9",
+      "explanation": "D\u00e9crit une situation temporelle o\u00f9 un \u00e9v\u00eaque murmure, ajoutant un \u00e9l\u00e9ment d'ambiance.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "260",
+      "category": "11",
+      "explanation": "C'est une description de l'environnement, indiquant une sc\u00e8ne hivernale.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "261",
+      "category": "0",
+      "explanation": "S'asseoir indique un changement de position, une action basique.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "262",
+      "category": "2",
+      "explanation": "\u00c0 part signifie qu'un personnage s'exprime seul ou en priv\u00e9.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "263",
+      "category": "12",
+      "explanation": "Indique que quelque chose est dit \u00e0 Ninias, une direction verbale.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "264",
+      "category": "4",
+      "explanation": "Les domestiques entrent, une action d'entr\u00e9e.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "265",
+      "category": "0",
+      "explanation": "C'est une action, avec un personnage se rapprochant apr\u00e8s avoir fait des efforts.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "266",
+      "category": "11",
+      "explanation": "Indication d'un cadre o\u00f9 se d\u00e9roule l'action, avec une photographie du Tibre.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "267",
+      "category": "12",
+      "explanation": "Direction associ\u00e9e \u00e0 une interaction avec la servante.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "268",
+      "category": "0",
+      "explanation": "Action de reprendre et de lire une lettre.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "269",
+      "category": "8",
+      "explanation": "Une mention d'air musical.",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "270",
+      "category": "3",
+      "explanation": "La voix qui reprend \u00e9voque une interpr\u00e9tation d'une r\u00e9plique.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": "9",
+      "explanation": "\u00c9v\u00e9nement climatique impliquant le ciel, ce qui en fait une narration.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": "7",
+      "explanation": "D\u00e9crit une action d'observation provoqu\u00e9e par une porte ferm\u00e9e.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": "12",
+      "explanation": "Apercevant r\u00e9v\u00e8le une attention dirig\u00e9e vers Ad\u00e9la\u00efde.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": "8",
+      "explanation": "D\u00e9crit un air, cat\u00e9gorisant en musique.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": "5",
+      "explanation": "Indique une sortie de Lucile et Damis.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": "9",
+      "explanation": "Son d'une pendule indiquant une heure, ce qui fait partie de la narration.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": "10",
+      "explanation": "Interaction avec des gants, impliquant une manipulation d'objet.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": "12",
+      "explanation": "Direction dans une sc\u00e8ne, en s'adressant \u00e0 Alcm\u00e8ne.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": "12",
+      "explanation": "Qui donne une indication d'attention pour le pr\u00e9sident.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "280",
+      "category": "12",
+      "explanation": "Une direction s'adressant \u00e0 Henri.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "3",
+      "explanation": "En politique, un personnage est ferme dans sa r\u00e9plique.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "0",
+      "explanation": "Regarder les fleurs est une action simple.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "0",
+      "explanation": "Rire est une action sociale qui peut appara\u00eetre de mani\u00e8re r\u00e9elle.",
+      "stgdir": "Ils rient.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "3",
+      "explanation": "La vielle joue doucement comme interpr\u00e9tation musicale.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "2",
+      "explanation": "Les apart\u00e9s t\u00e9moignent de la volont\u00e9 des personnages de s'adresser indirectement au public.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "0",
+      "explanation": "Action de donner et de prendre des chansons, qui impliquent un \u00e9change.",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "7",
+      "explanation": "Approche vers un tombeau, symbolisant un mouvement.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "8",
+      "explanation": "Mention d'AIR, qui est une cat\u00e9gorie musicale.",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "12",
+      "explanation": "\u00c0 N\u00e9optol\u00e9mus indique une direction vers ce personnage.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "290",
+      "category": "0",
+      "explanation": "Interruption de la lecture est une action directe.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "291",
+      "category": "9",
+      "explanation": "C'est une narration qui traite des effets symboliques d'Apollon et de Jupiter.",
+      "stgdir": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "292",
+      "category": "12",
+      "explanation": "Une direction envers les deux courtisans, une attention sp\u00e9cifique.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "293",
+      "category": "0",
+      "explanation": "Description d'une action de rire et de mouvement rapide, une interaction dynamique.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "294",
+      "category": "12",
+      "explanation": "Indiquer une direction vers l'Inspecteur des B\u00e2timents.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "295",
+      "category": "0",
+      "explanation": "Cela indique une interaction parent-enfant, s'approchant du p\u00e8re.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "296",
+      "category": "12",
+      "explanation": "Indiquer une attention vers le Jeune Homme.",
+      "stgdir": "Au Jeune Homme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "297",
+      "category": "6",
+      "explanation": "Indique une interaction intime entre les personnages, o\u00f9 elle l'embrasse.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "298",
+      "category": "0",
+      "explanation": "Action o\u00f9 Ma\u00eetre Godard presse quelqu'un, ce qui est une action directe.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "299",
+      "category": "11",
+      "explanation": "Description d'un paysage, selon les \u00e9l\u00e9ments visibles en sc\u00e8ne.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 28842.31948852539,
+  "model": "gpt-4o-mini"
+}

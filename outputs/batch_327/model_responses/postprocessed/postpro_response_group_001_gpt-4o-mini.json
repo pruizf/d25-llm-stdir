@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "75",
+      "category": "2",
+      "explanation": "Il s'agit d'un apart\u00e9, car le personnage s'exprime \u00e0 part apr\u00e8s avoir lu.",
+      "stgdir": "\u00c0 part, apr\u00e8s avoir lu.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "76",
+      "category": "6",
+      "explanation": "Cette direction d\u00e9crit une interaction non verbale entre Hilaire p\u00e8re et son fils, o\u00f9 l'on parle de gestes et d'une communication affectueuse.",
+      "stgdir": "Hilaire p\u00e8re s'avance par la porte \u00e0 demi-ouverte ; il est suivi de son fils. Il lui fait signe de ne pas faire du bruit. Ils marchent doucement ; leurs pas sont tremblants. Ils vont visiter en silence si la porte est bien ferm\u00e9e. Le p\u00e8re prend son fils par la main, la serre avec tendresse, le regarde les larmes aux yeux, et lui dit d'une voix alt\u00e9r\u00e9e et faible :",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "77",
+      "category": "8",
+      "explanation": "Les Symphonistes jouent une Ritournelle, ce qui fait r\u00e9f\u00e9rence \u00e0 de la musique.",
+      "stgdir": "Les Symphonistes jouent une Ritournelle.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "78",
+      "category": "12",
+      "explanation": "Ceci indique que le personnage s'adresse \u00e0 Lisimon, indiquant un destinataire de la parole.",
+      "stgdir": "\u00c0 Lisimon.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "79",
+      "category": "10",
+      "explanation": "Il s'agit d'une lettre, un objet manipulable en sc\u00e8ne.",
+      "stgdir": "Lettre de Florinde \u00e0 Filemon.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "80",
+      "category": "3",
+      "explanation": "Ce geste de montrer les doigts d\u00e9crit une fa\u00e7on de s'exprimer qui peut induire un ton ou une attitude dans le discours.",
+      "stgdir": "Il montre les deux premiers doigts de chaque main et les croise comme quand on excite les chats ou les chiens \u00e0 se battre.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "81",
+      "category": "8",
+      "explanation": "Un air est mentionn\u00e9, ce qui est une indication musicale.",
+      "stgdir": "Air : Je ne verrai plus ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "82",
+      "category": "12",
+      "explanation": "Ceci indique que le personnage s'adresse \u00e0 son \u00e9poux.",
+      "stgdir": "\u00c0 son \u00e9poux.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "83",
+      "category": "7",
+      "explanation": "Le mouvement pour aller au Chevalier indique un d\u00e9placement sur sc\u00e8ne.",
+      "stgdir": "Il fait un mouvement pour aller au Chevalier.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "84",
+      "category": "6",
+      "explanation": "Cette direction d\u00e9crit une interaction affectueuse, en serrant la main.",
+      "stgdir": "En lui serrant affectueusement la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "85",
+      "category": "12",
+      "explanation": "Le personnage s'adresse au Crocheteur, indiquant le destinataire de la parole.",
+      "stgdir": "Au Crocheteur.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "86",
+      "category": "12",
+      "explanation": "Le personnage s'adresse \u00e0 Spartacus, ce qui indique un destinataire de la parole.",
+      "stgdir": "\u00c0 Spartacus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "87",
+      "category": "12",
+      "explanation": "Le personnage s'adresse \u00e0 Marthe, indiquant un destinataire de la parole.",
+      "stgdir": "\u00c0 Marthe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "88",
+      "category": "12",
+      "explanation": "Le personnage s'adresse \u00e0 Philox\u00e8ne, ce qui indique un destinataire de la parole.",
+      "stgdir": "\u00c0 Philox\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "89",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "AIR : Sans cesse \u00e0 la Ville, \u00e0 ta Cour.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "90",
+      "category": "8",
+      "explanation": "Il s'agit d'un premier couplet, ce qui est une indication musicale.",
+      "stgdir": "PREMIER COUPLET.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "91",
+      "category": "6",
+      "explanation": "Le personnage parle \u00e0 ceux qui l'aident \u00e0 marcher, ce qui implique une interaction.",
+      "stgdir": "Il parle \u00e0 ceux qui lui veulent aider \u00e0 marcher.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "92",
+      "category": "10",
+      "explanation": "Durval donne quelque chose \u00e0 un autre personnage, ce qui implique la manipulation d'un objet.",
+      "stgdir": "Durval la lui donne.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "93",
+      "category": "5",
+      "explanation": "Algine sort, ce qui implique une sortie de sc\u00e8ne.",
+      "stgdir": "Algine sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "94",
+      "category": "6",
+      "explanation": "Il choque avec elle, indiquant une interaction non verbale.",
+      "stgdir": "Il choque avec elle.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "95",
+      "category": "12",
+      "explanation": "Le personnage s'adresse \u00e0 Valentin, indiquant le destinataire de la parole.",
+      "stgdir": "\u00c0 Valentin",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "96",
+      "category": "12",
+      "explanation": "Le personnage s'adresse \u00e0 Adario, indiquant un destinataire de la parole.",
+      "stgdir": "\u00c0 Adario.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "97",
+      "category": "12",
+      "explanation": "Le personnage s'adresse \u00e0 ses gardes, indiquant un destinataire de la parole.",
+      "stgdir": "\u00c0 ses gardes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "98",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "AIR : du Libera de la Bourbonnoise.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "99",
+      "category": "10",
+      "explanation": "Le personnage interagit avec un objet, un demi-cercle, ce qui implique la manipulation d'un objet.",
+      "stgdir": "Il tire de sa poche un demi Cercle, et le braque sur une canne qu'il tient \u00e0 la main, et qui sert d'appui.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "100",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "Air 179 : La faridondaine, gu\u00e9 !",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "101",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "Air : Quand on tient de ce jus d'octobre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "102",
+      "category": "0",
+      "explanation": "Montrer ses jambes est une action g\u00e9n\u00e9rale qui ne correspond pas aux autres cat\u00e9gories.",
+      "stgdir": "En montrant ses jambes.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "103",
+      "category": "3",
+      "explanation": "Il dit en riant, ce qui aborde le ton de sa parole.",
+      "stgdir": "Il dit en riant les derniers mots.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "104",
+      "category": "12",
+      "explanation": "Il rappelle Monsieur Oronte, indiquant un ajout de parole.",
+      "stgdir": "Il rappelle Monsieur Oronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "105",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "Air : Fidel \u00e9poux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "106",
+      "category": "1",
+      "explanation": "Elle tire un poignard, ce qui est une action violente.",
+      "stgdir": "Elle tire un poignard.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "107",
+      "category": "4",
+      "explanation": "Apercevant Monsieur Rossignol qui entre, cela indique une entr\u00e9e sur sc\u00e8ne.",
+      "stgdir": "Apercevant Monsieur Rossignol qui entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "108",
+      "category": "5",
+      "explanation": "Elle part en riant, ce qui constitue une sortie.",
+      "stgdir": "Elle part en riant.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "109",
+      "category": "3",
+      "explanation": "L'air mentionn\u00e9 indique le ton de la voix dans cette situation.",
+      "stgdir": "Air : Non, je ne ferai pas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "110",
+      "category": "5",
+      "explanation": "Don Quichotte se retire, ce qui signifie une sortie.",
+      "stgdir": "Don Quichotte se retire.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "111",
+      "category": "7",
+      "explanation": "Arlequin veut s'\u00e9chapper et se d\u00e9place, ce qui d\u00e9crit un mouvement.",
+      "stgdir": "Le Docteur le prend par la manche. Arlequin veut s'\u00e9chapper de ses mains, et son justaucorps reste au Docteur. Arlequin s'enfuit\u00a0; le Docteur le poursuit en parlant toujours ad libitum.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "112",
+      "category": "3",
+      "explanation": "Ceci d\u00e9crit la fa\u00e7on de d\u00e9livrer des paroles, impliquant un geste.",
+      "stgdir": "Couplet du P\u00e9dant en donnant le mouchoir \u00e0 Colombine pour cacher sa gorge, sur l'air : \u00ab\u00a0Morguienne de vous\u00a0\u00bb.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "113",
+      "category": "4",
+      "explanation": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre, ce qui indique une entr\u00e9e.",
+      "stgdir": "Fritelin et son Ma\u00eetre apparaissent sur le petit th\u00e9\u00e2tre. Fritelin descend dans la foule et la fait ranger en cercle. Un joueur de viole et un joueur de rebec sonnent de leurs instruments.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "114",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse \u00e0 la Vidame.",
+      "stgdir": "\u00c0 la Vidame.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "115",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse \u00e0 Hortensius.",
+      "stgdir": "Et \u00e0 Hortensius.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "116",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse \u00e0 G\u00e9ronte.",
+      "stgdir": "\u00c0 G\u00e9ronte.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "117",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse \u00e0 Poquelin.",
+      "stgdir": "\u00c0 Poquelin.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "118",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse \u00e0 Omphale.",
+      "stgdir": "\u00c0 Omphale.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "119",
+      "category": "3",
+      "explanation": "Avec feu indique un ton ou une \u00e9motion dans la mani\u00e8re de s'exprimer.",
+      "stgdir": "Avec feu.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "120",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse au duc d'Alcala.",
+      "stgdir": "Au duc d'Alcala.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "121",
+      "category": "8",
+      "explanation": "Indique un air, une indication musicale.",
+      "stgdir": "AIR : Ne m'entendez-vous pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "122",
+      "category": "10",
+      "explanation": "Le lui montrant d\u00e9crit l'interaction avec un objet.",
+      "stgdir": "Le lui montrant.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "123",
+      "category": "4",
+      "explanation": "Une porte se rouvre, ce qui implique un mouvement ou une entr\u00e9e potentielle.",
+      "stgdir": "La porte se rouvre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "124",
+      "category": "8",
+      "explanation": "Indique un air, une indication musicale.",
+      "stgdir": "AIR. Mon Papa toute la nuit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "125",
+      "category": "8",
+      "explanation": "Indique un air, une indication musicale.",
+      "stgdir": "AIR : Jupin d\u00e8s le matin.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "126",
+      "category": "6",
+      "explanation": "Elle lui donne un billet, ce qui indique un \u00e9change entre deux personnages.",
+      "stgdir": "Elle lui donne un billet.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "127",
+      "category": "9",
+      "explanation": "Il s'agit d'une indication narrative sur un \u00e9v\u00e9nement en cours.",
+      "stgdir": "Sixi\u00e8me interm\u00e8de ; Qui est la solennit\u00e9 des Jeux pythiens.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "128",
+      "category": "5",
+      "explanation": "Antelme s'en va, ce qui signifie une sortie.",
+      "stgdir": "Antelme s'en va.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "129",
+      "category": "4",
+      "explanation": "Cl\u00e9andre et Ferrande reviennent, ce qui implique une entr\u00e9e.",
+      "stgdir": "Cl\u00e9andre et Ferrande reviennent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "130",
+      "category": "6",
+      "explanation": "Le poussant du coude montre une interaction physique.",
+      "stgdir": "Le poussant du coude.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "131",
+      "category": "7",
+      "explanation": "S'asseyant sur une chaise montre un mouvement, mais sans sortie ou entr\u00e9e.",
+      "stgdir": "S'asseyant sur une chaise pr\u00e8s de la table \u00e0 gauche.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "132",
+      "category": "10",
+      "explanation": "Il jette sa bague \u00e0 terre, une interaction avec un objet.",
+      "stgdir": "Il jette sa bague \u00e0 terre.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "133",
+      "category": "9",
+      "explanation": "On n'entend pas le reste, indiquant une narration des \u00e9v\u00e9nements qui se passent.",
+      "stgdir": "On n'entend pas le reste.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "134",
+      "category": "11",
+      "explanation": "Une description de sc\u00e8ne indiquant les \u00e9l\u00e9ments pr\u00e9sents.",
+      "stgdir": "Une biblioth\u00e8que dont tous les rayons sont vides ; au milieu, Sainte-Beuve, et \u00e0 son c\u00f4t\u00e9 un diable, travesti en \u00e9tudiant.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "135",
+      "category": "6",
+      "explanation": "Tous reviennent et remettent la lampe, montrant une interaction collective.",
+      "stgdir": "Tous reviennent, et Madame Raquin remet la lampe sur la table.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "136",
+      "category": "8",
+      "explanation": "On entend une symphonie, ce qui est de la musique.",
+      "stgdir": "On entend un symphonie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "137",
+      "category": "5",
+      "explanation": "L\u00e9onor et Marine se retirent, indiquant une sortie.",
+      "stgdir": "L\u00e9onor et Marine se retirent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "138",
+      "category": "12",
+      "explanation": "Indique que le personnage s'adresse au peuple.",
+      "stgdir": "Au peuple.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "139",
+      "category": "1",
+      "explanation": "Il veut se percer, indiquant une action violente.",
+      "stgdir": "Il veut se percer.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "140",
+      "category": "12",
+      "explanation": "L\u00e9onore propose une entrevue avec Julie, indiquant une adresse \u00e0 un personnage.",
+      "stgdir": "L\u00e9onore lui propose une longue entrevue avec Julie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "141",
+      "category": "12",
+      "explanation": "Hortense les suit, indiquant une adresse \u00e0 la personne qui est suivie.",
+      "stgdir": "Hortense les suit.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "142",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "AIR. Oh ! Ricandaine.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "143",
+      "category": "6",
+      "explanation": "Il embrasse Argie, une interaction non verbale.",
+      "stgdir": "Il embrasse Argie.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "144",
+      "category": "3",
+      "explanation": "Baissant sa voix indique un aspect de la livraison des paroles.",
+      "stgdir": "Baissant sa voix.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "145",
+      "category": "12",
+      "explanation": "Cette direction indique que le personnage s'adresse \u00e0 sa voisine.",
+      "stgdir": "AIR. \u00c0 sa voisine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "146",
+      "category": "4",
+      "explanation": "Apercevant Octave qui entre, ce qui implique une entr\u00e9e.",
+      "stgdir": "Apercevant Octave.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "147",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "Air : Nos plaisirs seront peu durables.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "148",
+      "category": "8",
+      "explanation": "Il s'agit d'un air, une indication musicale.",
+      "stgdir": "Air : De Monsieur Doche.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "149",
+      "category": "7",
+      "explanation": "Elles traversent toutes deux, ce qui montre un mouvement.",
+      "stgdir": "Elles traversent toutes deux.",
+      "categFull": "movement"
+    }
+  ],
+  "response_time": 31686.56325340271,
+  "model": "gpt-4o-mini"
+}

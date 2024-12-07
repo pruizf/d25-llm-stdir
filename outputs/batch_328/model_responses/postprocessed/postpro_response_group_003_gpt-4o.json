@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "225",
+      "category": "8",
+      "explanation": "Stage direction starts with 'Air', indicating a music tune.",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "0",
+      "explanation": "Character action involving writing, which fits under general actions.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "12",
+      "explanation": "The direction 'Aux femmes' indicates the address towards the women.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "6",
+      "explanation": "The phrase 'Retenant Hernani' suggests a non-verbal interaction with another character.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "4",
+      "explanation": "The word 'Entre' indicates a character's entrance.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "230",
+      "category": "11",
+      "explanation": "A detailed stage setting description with a specific location.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "7",
+      "explanation": "Describes character movement as 's'\u00e9loigne'.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "Stage direction starts with 'AIR', indicating a named tune.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "1",
+      "explanation": "The phrase 'On \u00e9gorge les Victimes' indicates aggression.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "0",
+      "explanation": "Character action involving opening an object.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "0",
+      "explanation": "Describes a visible action where the Marquis appears in the mirror.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "7",
+      "explanation": "The movement described by 'Allant se mettre' involves positioning.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "8",
+      "explanation": "Stage direction starts with 'AIR', indicating a named tune.",
+      "stgdir": "AIR : Changement pique l'app\u00e9tit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "4",
+      "explanation": "The word 'Entre' (Elles entrent) indicates an entrance.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "8",
+      "explanation": "Stage direction starts with 'Air', indicating a music tune.",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "240",
+      "category": "11",
+      "explanation": "Describes characters' positions on stage, implying a setting description.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": "8",
+      "explanation": "Stage direction starts with 'AIR', indicating a named tune.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": "8",
+      "explanation": "Contains 'Air Not\u00e9', denoting a musical aspect.",
+      "stgdir": "Air Not\u00e9, N\u00b03",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": "0",
+      "explanation": "Describes an action of looking towards a character.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": "11",
+      "explanation": "Describes the stage setting with magical troops.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": "0",
+      "explanation": "Describes an action of looking towards a character.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": "4",
+      "explanation": "The word 'entrent' indicates an entrance.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": "0",
+      "explanation": "Describes the action of reading.",
+      "stgdir": "Lisant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": "11",
+      "explanation": "Describes a change in the stage setting to a garden.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": "0",
+      "explanation": "Describes the action of trying to open something.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "250",
+      "category": "5",
+      "explanation": "The word 'sort' indicates the character exits.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "251",
+      "category": "4",
+      "explanation": "The phrase 'il entre' indicates an entrance.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "252",
+      "category": "0",
+      "explanation": "Describes the action of knocking on a door.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "253",
+      "category": "6",
+      "explanation": "The phrase 'Il prend Albert' indicates an interaction.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "254",
+      "category": "7",
+      "explanation": "Describes the movement of attempting to flee.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "255",
+      "category": "0",
+      "explanation": "Describes the action of looking through a window.",
+      "stgdir": "Elle regarde par la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "256",
+      "category": "8",
+      "explanation": "Stage direction starts with 'Air', indicating a music tune.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "257",
+      "category": "12",
+      "explanation": "Indicates the direction '\u00c0 Hernani', suggesting the addressee.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "258",
+      "category": "0",
+      "explanation": "Describes the action of showing an object.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "259",
+      "category": "9",
+      "explanation": "Narrative description involving multiple actions and events.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "260",
+      "category": "11",
+      "explanation": "Describes the stage setting representing a snowy province.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "261",
+      "category": "0",
+      "explanation": "General character action involving standing up.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "262",
+      "category": "2",
+      "explanation": "Includes '[\u00c0 part]' which indicates that it's an aside.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "263",
+      "category": "12",
+      "explanation": "Indicates the direction '\u00c0 Ninias', suggesting the addressee.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "264",
+      "category": "4",
+      "explanation": "The word 'accourent' implies the entrance of characters.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "265",
+      "category": "7",
+      "explanation": "Describes movement and positioning of a character.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "266",
+      "category": "11",
+      "explanation": "Describes the stage setting with specific location details.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "267",
+      "category": "12",
+      "explanation": "Indicates the direction '\u00c0 la Servante', suggesting the addressee.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "268",
+      "category": "0",
+      "explanation": "Action involves reading the letter, which is a general action.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "269",
+      "category": "8",
+      "explanation": "Stage direction starts with 'Air', indicating a music tune.",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "270",
+      "category": "3",
+      "explanation": "Describes the recurrence of a voice, akin to a delivery aspect.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": "11",
+      "explanation": "Describes a change in the stage/weather setting.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": "0",
+      "explanation": "Describes the action of seeing the closed door.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": "0",
+      "explanation": "Notification includes the action of perceiving Ad\u00e9la\u00efde.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": "8",
+      "explanation": "Stage direction starts with 'AIR', indicating a music tune.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": "5",
+      "explanation": "The word 'sortent' indicates characters exiting the stage.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": "9",
+      "explanation": "Describes an auditory event, the sound of a clock.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": "10",
+      "explanation": "Describes interaction with an object, specifically gloves.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": "12",
+      "explanation": "Indicates the direction '\u00c0 Alcm\u00e8ne', suggesting the addressee.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": "12",
+      "explanation": "Indicates the direction 'Au pr\u00e9sident', suggesting the addressee.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "280",
+      "category": "12",
+      "explanation": "Indicates the direction '\u00c0 Henri', suggesting the addressee.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "8",
+      "explanation": "Starts with 'AIR', indicating it is referring to a music piece.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "0",
+      "explanation": "Describes a general action of looking at flowers.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "3",
+      "explanation": "Describes the action of laughing as part of delivery.",
+      "stgdir": "Ils rient.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "9",
+      "explanation": "Describes a sound event involving a musical instrument.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "2",
+      "explanation": "Includes '[\u00c0 part]' indicating it's delivered as an aside.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "10",
+      "explanation": "Describes objects (songs) being manipulated (given and received).",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "7",
+      "explanation": "Describes movement towards an object (a tomb).",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "8",
+      "explanation": "Mention of 'A I R' indicates a music piece direction.",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "12",
+      "explanation": "Indicates the direction '\u00c0 N\u00e9optol\u00e9mus', suggesting the addressee.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "290",
+      "category": "2",
+      "explanation": "Includes '[Il interrompt la lecture. ]' suggesting it's an aside.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "291",
+      "category": "9",
+      "explanation": "Long allegorical narrative involving abstract concepts aligned with setting and narration.",
+      "stgdir": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "292",
+      "category": "12",
+      "explanation": "Indicates the direction 'Aux deux courtisans', suggesting the addressees.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "293",
+      "category": "0",
+      "explanation": "Describes a sequence of actions involving Laurent.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "294",
+      "category": "12",
+      "explanation": "Indicates the direction '\u00c0 l'Inspecteur des B\u00e2timents', suggesting the addressee.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "295",
+      "category": "6",
+      "explanation": "Indicates a non-verbal interaction of seizing a father's hand.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "296",
+      "category": "12",
+      "explanation": "Indicates the direction 'Au Jeune Homme', suggesting the addressee.",
+      "stgdir": "Au Jeune Homme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "297",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction of passionately kissing.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "298",
+      "category": "6",
+      "explanation": "Describes a non-verbal interaction involving gestures.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "299",
+      "category": "11",
+      "explanation": "Describes the stage setting of a landscape with two farms.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 26794.78120803833,
+  "model": "gpt-4o"
+}

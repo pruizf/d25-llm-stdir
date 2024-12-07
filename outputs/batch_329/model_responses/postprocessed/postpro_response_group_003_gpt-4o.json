@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "225",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un titre musical, ce qui correspond \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "Air : Maman vous a dit, dans six ans.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "226",
+      "category": "3",
+      "explanation": "La didascalie 'Scarron continue d'\u00e9crire' rel\u00e8ve d'une continuation d'une action verbale, donc elle se rapproche de la cat\u00e9gorie delivery.",
+      "stgdir": "Scarron continue d'\u00e9crire.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "227",
+      "category": "12",
+      "explanation": "La didascalie 'Aux femmes' indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "Aux femmes.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "228",
+      "category": "6",
+      "explanation": "L'action 'Retenant Hernani' implique une interaction physique entre personnages, qui correspond \u00e0 la cat\u00e9gorie interaction.",
+      "stgdir": "Retenant Hernani.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "229",
+      "category": "4",
+      "explanation": "\u2018Entre Henri Bassou\u2019 d\u00e9crit un personnage entrant en sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie entrance.",
+      "stgdir": "Entre Henri Bassou.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "230",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit le d\u00e9cor de la sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie setting.",
+      "stgdir": "Le th\u00e9\u00e2tre repr\u00e9sente des prairies agr\u00e9ables o\u00f9 le Fleuve Inachus serpente.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "231",
+      "category": "7",
+      "explanation": "\u2018Elle s'\u00e9loigne avec Perillo\u2019 implique un d\u00e9placement de personnages, ce qui rel\u00e8ve de la cat\u00e9gorie movement.",
+      "stgdir": "Elle s'\u00e9loigne avec Perillo.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "232",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR' suivi d'un titre musical, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "AIR : Vaudeville des Visitandines.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "233",
+      "category": "1",
+      "explanation": "\u2018On \u00e9gorge les Victimes\u2019 implique une action violente, c'est une agression, qui correspond \u00e0 la cat\u00e9gorie aggression.",
+      "stgdir": "On \u00e9gorge les Victimes.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "234",
+      "category": "0",
+      "explanation": "\u2018Elle ouvre l'armoire\u2019 est une action simple engageant un objet, ce qui rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Elle ouvre l'armoire.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "235",
+      "category": "0",
+      "explanation": "\u2018On voit para\u00eetre le Marquis dans le miroir\u2019 implique une action passive d'observation, correspondant \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "On voit para\u00eetre le Marquis dans le miroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "236",
+      "category": "7",
+      "explanation": "\u2018Allant se mettre entre L\u00e9lie et sa ma\u00eetresse\u2019 d\u00e9crit un d\u00e9placement vers un positionnement sp\u00e9cifique, ce qui rel\u00e8ve de la cat\u00e9gorie movement.",
+      "stgdir": "Allant se mettre entre L\u00e9lie et sa ma\u00eetresse.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "237",
+      "category": "8",
+      "explanation": "La didascalie mentionne 'AIR', indiquant un titre musical ou une r\u00e9f\u00e9rence \u00e0 un air, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "AIR : Changement pique l'app\u00e9tit.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "238",
+      "category": "4",
+      "explanation": "\u2018Elles entrent\u2019 d\u00e9crit une entr\u00e9e en sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie entrance.",
+      "stgdir": "Elles entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "239",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un titre musical, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "Air : La Fustemberg.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "240",
+      "category": "11",
+      "explanation": "La didascalie d\u00e9crit la disposition des personnages sur sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie setting.",
+      "stgdir": "Melpom\u00e8ne sur l'aile droite du Th\u00e9\u00e2tre. Thalie sur l'aile gauche avec sa suite.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "241",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR', indiquant un titre musical, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "AIR : Monsieur le Pr\u00e9v\u00f4t des Marchands.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "242",
+      "category": "8",
+      "explanation": "La mention 'Air Not\u00e9, N\u00b03' indique une r\u00e9f\u00e9rence \u00e0 un air musical, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "Air Not\u00e9, N\u00b03",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "243",
+      "category": "7",
+      "explanation": "\u2018En regardant Terville\u2019 d\u00e9crit un mouvement du regard, ce qui est une forme subtile de d\u00e9placement, relevant de la cat\u00e9gorie movement.",
+      "stgdir": "En regardant Terville.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "244",
+      "category": "9",
+      "explanation": "La mention de 'Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables' est une description d'une sc\u00e8ne ou d'une situation, relevant de la cat\u00e9gorie narration.",
+      "stgdir": "Troupes de Magiciens et de D\u00e9mons sous des formes agr\u00e9ables.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "245",
+      "category": "7",
+      "explanation": "\u2018Puis regardant Dorinde\u2019 implique un mouvement de regard qui est une forme subtile de d\u00e9placement, relevant de la cat\u00e9gorie movement.",
+      "stgdir": "Puis regardant Dorinde.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "246",
+      "category": "4",
+      "explanation": "\u2018Blaise et G\u00e9rault entrent\u2019 d\u00e9crit une entr\u00e9e de sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie entrance.",
+      "stgdir": "Blaise et G\u00e9rault entrent.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "247",
+      "category": "0",
+      "explanation": "\u2018Lisant\u2019 est une action simple, correspondant \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Lisant :",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "248",
+      "category": "11",
+      "explanation": "\u2018La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e\u2019 d\u00e9crit le d\u00e9cor de la sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie setting.",
+      "stgdir": "La sc\u00e8ne change et repr\u00e9sente le jardin de la F\u00e9e.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "249",
+      "category": "0",
+      "explanation": "\u2018Il fait ses efforts pour l'ouvrir, mais inutilement\u2019 est une tentative d'action sur un objet, correspondant \u00e0 la cat\u00e9gorie action.",
+      "stgdir": "Il fait ses efforts pour l'ouvrir, mais inutilement.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "250",
+      "category": "5",
+      "explanation": "\u2018Laurence sort\u2019 d\u00e9crit une sortie de sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie exit.",
+      "stgdir": "Laurence sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "251",
+      "category": "4",
+      "explanation": "\u2018Il entre dans sa maison\u2019 d\u00e9crit une entr\u00e9e dans un lieu, ce qui rel\u00e8ve de la cat\u00e9gorie entrance.",
+      "stgdir": "Il entre dans sa maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "252",
+      "category": "0",
+      "explanation": "\u2018Elle frappe \u00e0 la porte en dehors\u2019 est une action, ce qui rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Elle frappe \u00e0 la porte en dehors.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "253",
+      "category": "6",
+      "explanation": "\u2018Il prend Albert\u2019 implique une interaction physique entre personnages, ce qui rel\u00e8ve de la cat\u00e9gorie interaction.",
+      "stgdir": "Il prend Albert.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "254",
+      "category": "7",
+      "explanation": "\u2018Elle veut s'enfuir\u2019 d\u00e9crit une intention de d\u00e9placement, relevant de la cat\u00e9gorie movement.",
+      "stgdir": "Elle veut s'enfuir.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "255",
+      "category": "0",
+      "explanation": "\u2018Elle regarde par la fen\u00eatre\u2019 est une action simple, ce qui rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Elle regarde par la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "256",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un titre musical, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "Air : Madame en v\u00e9rit\u00e9.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "257",
+      "category": "12",
+      "explanation": "\u2018\u00c0 Hernani\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Hernani.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "258",
+      "category": "0",
+      "explanation": "\u2018Elle montre le banc de pierre\u2019 est une action impliquant un geste, ce qui rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Elle montre le banc de pierre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "259",
+      "category": "9",
+      "explanation": "\u2018Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse...\u2019 est une description narrative d'une suite d'\u00e9v\u00e9nements, correspondant \u00e0 la cat\u00e9gorie narration.",
+      "stgdir": "Le portier sort pour revenir l'instant d'apr\u00e8s avec la vieille p\u00e9cheresse. Pendant ces minutes, l'\u00e9v\u00eaque \u00e0 mi-voix murmure :",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "260",
+      "category": "11",
+      "explanation": "\u2018La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige\u2019 d\u00e9crit le d\u00e9cor de la sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie setting.",
+      "stgdir": "La sc\u00e8ne repr\u00e9sente la province de Livonie couverte de neige.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "261",
+      "category": "0",
+      "explanation": "\u2018Ils se l\u00e8vent de table\u2019 est une action, ce qui rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Ils se l\u00e8vent de table.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "262",
+      "category": "2",
+      "explanation": "\u2018[\u00c0 part. Il ne parle point de Calatabellotte.]\u2019 est un apart\u00e9, indiquant que le personnage pense ou parle \u00e0 lui-m\u00eame, ce qui rel\u00e8ve de la cat\u00e9gorie aparte.",
+      "stgdir": "[\u00c0 part. Il ne parle point de Calatabellotte.]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "263",
+      "category": "12",
+      "explanation": "\u2018\u00c0 Ninias\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Ninias.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "264",
+      "category": "0",
+      "explanation": "\u2018Les domestiques accourent\u2019 est une action impliquant un mouvement rapide, relevant de la cat\u00e9gorie action.",
+      "stgdir": "Les domestiques accourent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "265",
+      "category": "7",
+      "explanation": "\u2018Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus\u2019 d\u00e9crit l'action de s'approcher, relevant de la cat\u00e9gorie movement.",
+      "stgdir": "Il s'approche apr\u00e8s avoir fait tout ce qu'il a dit ci-dessus.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "266",
+      "category": "11",
+      "explanation": "\u2018Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre\u2019 d\u00e9crit le d\u00e9cor de la sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie setting.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente les rivages du Tibre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "267",
+      "category": "12",
+      "explanation": "\u2018\u00c0 la Servante\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 la Servante.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "268",
+      "category": "0",
+      "explanation": "\u2018Elle reprend la lettre et lit\u2019 est une action impliquant la manipulation d'un objet et une action de lecture, relevant de la cat\u00e9gorie action.",
+      "stgdir": "Elle reprend la lettre et lit.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "269",
+      "category": "8",
+      "explanation": "La didascalie commence par 'Air', indiquant un titre musical, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "Air : Deux enfants s'aimaient d'amour tendre.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "270",
+      "category": "3",
+      "explanation": "\u2018La voix reprend\u2019 est une indication de reprise vocale, ce qui correspond \u00e0 la cat\u00e9gorie delivery.",
+      "stgdir": "La voix reprend.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "271",
+      "category": "9",
+      "explanation": "\u2018Le Ciel se referme\u2019 est une description d'un ph\u00e9nom\u00e8ne naturel ou \u00e9v\u00e9nement qui a lieu sur sc\u00e8ne, correspondant \u00e0 la cat\u00e9gorie narration.",
+      "stgdir": "Le Ciel se referme.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "272",
+      "category": "0",
+      "explanation": "\u2018En voyant la porte ferm\u00e9e\u2019 est une description de l'action de voir, relevant de la cat\u00e9gorie action.",
+      "stgdir": "En voyant la porte ferm\u00e9e.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "273",
+      "category": "7",
+      "explanation": "\u2018Apercevant Ad\u00e9la\u00efde\u2019 implique un mouvement de regard, qui est une action subtile de d\u00e9placement, correspondant \u00e0 la cat\u00e9gorie movement.",
+      "stgdir": "Apercevant Ad\u00e9la\u00efde.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "274",
+      "category": "8",
+      "explanation": "La didascalie commence par 'AIR' suivi d'un titre musical, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "AIR 61 : Les Trembleurs.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "275",
+      "category": "5",
+      "explanation": "\u2018Lucile et Damis sortent\u2019 d\u00e9crit une sortie de sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie exit.",
+      "stgdir": "Lucile et Damis sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "276",
+      "category": "11",
+      "explanation": "\u2018La pendule sonne six heures\u2019 donne une information contextuelle sur l'environnement de la sc\u00e8ne, ce qui rel\u00e8ve de la cat\u00e9gorie setting.",
+      "stgdir": "La pendule sonne six heures.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "277",
+      "category": "10",
+      "explanation": "\u2018Il \u00f4te ses gants puis les remet vivement\u2019 est une action concernant des objets (les gants), ce qui rel\u00e8ve de la cat\u00e9gorie object.",
+      "stgdir": "Il \u00f4te ses gants puis les remet vivement.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "278",
+      "category": "12",
+      "explanation": "\u2018\u00c0 Alcm\u00e8ne\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Alcm\u00e8ne.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "279",
+      "category": "12",
+      "explanation": "\u2018Au pr\u00e9sident\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "Au pr\u00e9sident.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "280",
+      "category": "12",
+      "explanation": "\u2018\u00c0 Henri\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 Henri.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "281",
+      "category": "3",
+      "explanation": "\u2018AIR. Non, je ne serai pas\u2019 indique que cette phrase est dite sur un air ou avec une intonation particuli\u00e8re, ce qui rel\u00e8ve de la cat\u00e9gorie delivery.",
+      "stgdir": "AIR. Non, je ne serai pas.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "282",
+      "category": "0",
+      "explanation": "\u2018Elle regarde les fleurs\u2019 est une action simple, ce qui rel\u00e8ve de la cat\u00e9gorie action.",
+      "stgdir": "Elle regarde les fleurs.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "283",
+      "category": "3",
+      "explanation": "\u2018Ils rient\u2019 est une expression vocale d'une \u00e9motion, ce qui rel\u00e8ve de la cat\u00e9gorie delivery.",
+      "stgdir": "Ils rient.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "284",
+      "category": "8",
+      "explanation": "\u2018La vielle joue tr\u00e8s doucement\u2019 d\u00e9crit une performance musicale, m\u00eame si elle r\u00e9f\u00e8re \u00e0 un instrument, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "La vielle joue tr\u00e8s doucement.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "285",
+      "category": "2",
+      "explanation": "\u2018\u00c0 part, avec ironie.\u2019 indique que le personnage s'adresse \u00e0 lui-m\u00eame, ce qui rel\u00e8ve de la cat\u00e9gorie aparte.",
+      "stgdir": "\u00c0 part, avec ironie.",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "286",
+      "category": "10",
+      "explanation": "\u2018Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue\u2019 d\u00e9crit une interaction sp\u00e9cifique avec des objets (sols et chansons), ce qui rel\u00e8ve de la cat\u00e9gorie object.",
+      "stgdir": "Nicaise donne ses 24 sols, et prend toutes les chansons qu'il distribue.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "287",
+      "category": "0",
+      "explanation": "\u2018Il s'approche d'un tombeau\u2019 est une action de mouvement vers quelque chose, mais en l'absence d'interaction, c'est class\u00e9 comme action.",
+      "stgdir": "Il s'approche d'un tombeau.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "288",
+      "category": "8",
+      "explanation": "\u2018A I R\u2019 est une indication claire d'une r\u00e9f\u00e9rence \u00e0 une musique ou air, ce qui rel\u00e8ve de la cat\u00e9gorie music.",
+      "stgdir": "A I R.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "289",
+      "category": "12",
+      "explanation": "\u2018\u00c0 N\u00e9optol\u00e9mus\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 N\u00e9optol\u00e9mus.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "290",
+      "category": "2",
+      "explanation": "\u2018[Il interrompt la lecture.]\u2019 indique une interruption qui est g\u00e9n\u00e9ralement exprim\u00e9e \u00e0 part, relevant de l'aparte.",
+      "stgdir": "[Il interrompt la lecture. ]",
+      "categFull": "aparte"
+    },
+    {
+      "stgdir_nbr": "291",
+      "category": "9",
+      "explanation": "\u2018All\u00e9gorie des effets d'Apollon et de Jupiter...\u2019 est une description narrative qui donne du contexte \u00e0 la sc\u00e8ne, relevant de la cat\u00e9gorie narration.",
+      "stgdir": "All\u00e9gorie des effets d'Apollon et de Jupiter, rapport\u00e9e au ch\u00e2timent et \u00e0 la punition des grands.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "292",
+      "category": "12",
+      "explanation": "\u2018Aux deux courtisans\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "Aux deux courtisans.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "293",
+      "category": "9",
+      "explanation": "\u2018Il rit. Laurent rentre vivement...\u2019 est une s\u00e9quence narrative d\u00e9crivant une s\u00e9rie d'actions et d'\u00e9motions, ce qui rel\u00e8ve de la cat\u00e9gorie narration.",
+      "stgdir": "Il rit. Laurent rentre vivement, l'oeil hagard, comme s'il \u00e9tait poursuivi ; il s'appuie un instant contre l'armoire.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "294",
+      "category": "12",
+      "explanation": "\u2018\u00c0 l'Inspecteur des B\u00e2timents\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 l'Inspecteur des B\u00e2timents.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "295",
+      "category": "6",
+      "explanation": "\u2018En saisissant la main de son p\u00e8re\u2019 d\u00e9crit une interaction physique, ce qui rel\u00e8ve de la cat\u00e9gorie interaction.",
+      "stgdir": "En saisissant la main de son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "296",
+      "category": "12",
+      "explanation": "\u2018Au Jeune Homme\u2019 indique le destinataire d'une r\u00e9plique, ce qui correspond \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "Au Jeune Homme.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "297",
+      "category": "6",
+      "explanation": "\u2018Elle l'embrasse passionn\u00e9ment\u2019 d\u00e9crit une interaction physique, ce qui rel\u00e8ve de la cat\u00e9gorie interaction.",
+      "stgdir": "Elle l'embrasse passionn\u00e9ment.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "298",
+      "category": "6",
+      "explanation": "\u2018Ma\u00eetre Godard la presse, encor, du geste, seulement\u2019 implique une interaction physique, ce qui rel\u00e8ve de la cat\u00e9gorie interaction.",
+      "stgdir": "Ma\u00eetre Godard la presse, encor, du geste, seulement.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "299",
+      "category": "11",
+      "explanation": "\u2018Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas...\u2019 d\u00e9crit le d\u00e9cor de la sc\u00e8ne, relevant de la cat\u00e9gorie setting.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente un paysage. D'un c\u00f4t\u00e9, la ferme de Thomas ; de l'autre, celle de Mathurin.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 41666.31579399109,
+  "model": "gpt-4o"
+}

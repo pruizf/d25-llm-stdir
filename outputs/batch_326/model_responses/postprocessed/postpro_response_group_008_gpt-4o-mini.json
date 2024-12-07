@@ -1,0 +1,531 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "600",
+      "category": "11",
+      "explanation": "Description de l'emplacement o\u00f9 l'action se d\u00e9roule, mentionnant une jeune Pucelle.",
+      "stgdir": "Air : Une jeune Pucelle, etc.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "601",
+      "category": "0",
+      "explanation": "Action simple : elle \u00f4te sa main.",
+      "stgdir": "Elle \u00f4te sa main.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "602",
+      "category": "0",
+      "explanation": "Action simple : il ouvre le tiroir.",
+      "stgdir": "Il ouvre le tiroir.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "603",
+      "category": "12",
+      "explanation": "Il parle \u00e0 Haly, indiquant le destinataire de son discours.",
+      "stgdir": "Il parle \u00e0 Haly.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "604",
+      "category": "11",
+      "explanation": "Fait r\u00e9f\u00e9rence \u00e0 un lieu, aux Chouans.",
+      "stgdir": "Aux Chouans.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "605",
+      "category": "5",
+      "explanation": "Indique une sortie de plusieurs personnages, sauf Babet.",
+      "stgdir": "Ils sortent tous, except\u00e9 Babet.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "606",
+      "category": "11",
+      "explanation": "Description de l'\u00e9tat du th\u00e9\u00e2tre, servant de d\u00e9cor pour la sc\u00e8ne.",
+      "stgdir": "Au lever du rideau le th\u00e9\u00e2tre est en d\u00e9sordre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "607",
+      "category": "12",
+      "explanation": "Indique aux autres conseillers, pr\u00e9cisant le destinataire.",
+      "stgdir": "Aux autres conseillers.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "608",
+      "category": "11",
+      "explanation": "Description du cadre de la sc\u00e8ne, ici l'Antre d'Aristandre.",
+      "stgdir": "Le Th\u00e9\u00e2tre repr\u00e9sente l'Antre d'Aristandre.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "609",
+      "category": "4",
+      "explanation": "Une entr\u00e9e de personnage : le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "stgdir": "Le chevalier Uladislas sort de l'h\u00f4tellerie.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "610",
+      "category": "8",
+      "explanation": "Indique un air dans la pi\u00e8ce th\u00e9\u00e2trale.",
+      "stgdir": "AIR Dans un Couvent bien-heureux.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "611",
+      "category": "12",
+      "explanation": "Il s'adresse aux Enfants, pr\u00e9cisant le groupe \u00e0 qui il parle.",
+      "stgdir": "Il s'adresse aux Enfants.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "612",
+      "category": "0",
+      "explanation": "Action simple : montrant les Muses.",
+      "stgdir": "Montrant les Muses.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "613",
+      "category": "0",
+      "explanation": "Action impliquant une sortie dynamique du personnage, accompagn\u00e9e des Paysans et des Paysannes.",
+      "stgdir": "Elle sort avec vivacit\u00e9 les Paysans et les Paysannes la suivent.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "614",
+      "category": "8",
+      "explanation": "Indique un passage musical.",
+      "stgdir": "Les violons jouent la marches des Bostangis.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "615",
+      "category": "7",
+      "explanation": "Il le suit, indique un d\u00e9placement.",
+      "stgdir": "Il le suit.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "616",
+      "category": "3",
+      "explanation": "Indique un dialogue musical entre deux personnages.",
+      "stgdir": "Il chante avec Galaor.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "617",
+      "category": "0",
+      "explanation": "Une indication d'un d\u00e9sir d'action, t\u00e9moignage d'intention.",
+      "stgdir": "Il t\u00e9moigne s'en vouloir aller.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "618",
+      "category": "6",
+      "explanation": "Action d'interaction non verbale, elle se met \u00e0 ses pieds.",
+      "stgdir": "Elle se met \u00e0 ses pieds.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "619",
+      "category": "9",
+      "explanation": "Indication sur l'ambiance de la sc\u00e8ne, ici un grand silence.",
+      "stgdir": "Ici un grand silence.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "620",
+      "category": "5",
+      "explanation": "Tous sortent, indication d'une sortie de groupe.",
+      "stgdir": "Tous sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "621",
+      "category": "8",
+      "explanation": "Indique un air chant\u00e9 par un personnage.",
+      "stgdir": "AIR. Je suis un bon soldat ti ta ta.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "622",
+      "category": "0",
+      "explanation": "Action de service, elle sert de la soupe.",
+      "stgdir": "Elle sert de la soupe dans l'assiette de Laurent et dans la sienne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "623",
+      "category": "0",
+      "explanation": "Action li\u00e9e \u00e0 un mouvement, il s'\u00e9loigne.",
+      "stgdir": "Il fait un mouvement pour s'\u00e9loigner.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "624",
+      "category": "8",
+      "explanation": "Description d'un dialogue musical sp\u00e9cifique, r\u00e9f\u00e9r\u00e9 comme une suite \u00e0 l'air.",
+      "stgdir": "Cet air chant\u00e9, le page de Phin\u00e9e et cette nymphe font un dialogue en musique, dont chaque couplet \u00e0 pour refrain l'oracle que V\u00e9nus a prononc\u00e9 au premier acte en faveur de ces deux amants, chant\u00e9 par les deux voies unies, et r\u00e9p\u00e9t\u00e9 par le choeur entier de la musique.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "625",
+      "category": "6",
+      "explanation": "Indication d'une interaction \u00e9motionnelle, il embrasse son p\u00e8re.",
+      "stgdir": "Embrassant son p\u00e8re.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "626",
+      "category": "12",
+      "explanation": "Indication d'interaction, ici \u00e0 Hiaskar.",
+      "stgdir": "\u00c0 Hiaskar.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "627",
+      "category": "8",
+      "explanation": "Indication d'un air de musique.",
+      "stgdir": "AIR : Le luth galant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "628",
+      "category": "0",
+      "explanation": "Action de mouvement et de position dans la sc\u00e8ne avec des personnages.",
+      "stgdir": "Pauline \u00e0 la rue avec une chandelle, et \u00c9lise \u00e0 la fen\u00eatre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "629",
+      "category": "10",
+      "explanation": "Interagir avec un objet, ici ouvrir un papier.",
+      "stgdir": "Il ouvre le papier, et y trouve une Ode sur un triomphe d'amour.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "630",
+      "category": "1",
+      "explanation": "Indication d'une action violente, il fait un massacre de Polonais.",
+      "stgdir": "Il fait un massacre de Polonais.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "631",
+      "category": "4",
+      "explanation": "Indication d'entr\u00e9e d'un personnage, ils paraissent tous trois.",
+      "stgdir": "Il paraissent tous trois.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "632",
+      "category": "0",
+      "explanation": "Action de manger entre deux personnages.",
+      "stgdir": "Air : L'occasion fait le larron.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "633",
+      "category": "8",
+      "explanation": "Indication d'un air musical sp\u00e9cifique.",
+      "stgdir": "AIR. ( De la Besogne. )",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "634",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui cela s'adresse, \u00e0 Zoroastre.",
+      "stgdir": "\u00c0 Zoroastre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "635",
+      "category": "5",
+      "explanation": "Indication de sortie des personnages, ici Jos\u00e9phine et Marthe.",
+      "stgdir": "Jos\u00e9phine et Marthe sortent.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "636",
+      "category": "0",
+      "explanation": "Action de manger, indiquant ce que font les personnages.",
+      "stgdir": "Ils mangent tous deux.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "637",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e d'un personnage, ici Val\u00e9rian.",
+      "stgdir": "Val\u00e9rian entre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "638",
+      "category": "8",
+      "explanation": "Indication d'un air sp\u00e9cifique li\u00e9 \u00e0 la musique.",
+      "stgdir": "AIR: Philis demande son portrait.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "639",
+      "category": "10",
+      "explanation": "Manipulation d'objet, Bernard prend le portefeuille.",
+      "stgdir": "Bernard prend le portefeuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "640",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui il s'adresse, en voyant Gaston.",
+      "stgdir": "Voyant Gaston.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "641",
+      "category": "7",
+      "explanation": "Indique un mouvement o\u00f9 la t\u00eate de Georges dispara\u00eet.",
+      "stgdir": "La t\u00eate de Georges dispara\u00eet.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "642",
+      "category": "5",
+      "explanation": "Indication de retrait, le petit Befor se retire de la danse.",
+      "stgdir": "Le petit Befor se retire de la danse.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "643",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui il s'adresse, ici aux Esclaves de son sexe.",
+      "stgdir": "Aux Esclaves de son sexe.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "644",
+      "category": "10",
+      "explanation": "Interaction avec un objet, il tire un porte-feuille.",
+      "stgdir": "Il tire un porte-feuille.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "645",
+      "category": "9",
+      "explanation": "Didascalie narrative long, expliquent la situation complexe des personnages.",
+      "stgdir": "On fait remarquer \u00e0 Monsieur de Saint-Yves dans quelle affreuse situation le parti qu'il vient de prendre plonge un jeune amoureux, qui, m\u00e9connaissant les usages, les moeurs du pays qu'il habite, n'a d'autres torts que ceux d'une \u00e2me br\u00fblante. Monsieur de Kerkabon ajoute que si son neveu a la t\u00eate un peu exalt\u00e9e, en revanche il poss\u00e8de un coeur excellent ; qu'il est vaillant, honn\u00eate, plein de franchise.... enfin, qu'il m\u00e9rite d'\u00eatre trait\u00e9 avec moins de rigueur. En achevant ces mots, il presse son ami dans ses bras ; la bonne tante imite son fr\u00e8re. Monsieur de Saint-Yves, d'abord inexorable, commence \u00e0 s'attendrir... On entend sonner l'alarme dans l'int\u00e9rieur du couvent. Le jeune Kerkabon, r\u00e9duit au d\u00e9sespoir, a form\u00e9 le dessein d'en lever sa maitresse. On l'a vu, pendant la sc\u00e8ne pr\u00e9c\u00e9dente, traverser le th\u00e9\u00e2tre, une hache \u00e0 la main, et escalader les murs du couvent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "646",
+      "category": "5",
+      "explanation": "Indication que les personnages se mettent \u00e0 table, ce qui peut \u00eatre consid\u00e9r\u00e9 comme une sortie de l'action.",
+      "stgdir": "Ils se mettent \u00e0 table.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "647",
+      "category": "0",
+      "explanation": "Action indiquant de montrer un personnage, ici Milady.",
+      "stgdir": "Montrant Milady.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "648",
+      "category": "1",
+      "explanation": "Indication d'une agression o\u00f9 Amadis combat contre Arcala\u00fcs.",
+      "stgdir": "Amadis combat contre Arcala\u00fcs.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "649",
+      "category": "10",
+      "explanation": "Interaction avec un objet, il tire un papier.",
+      "stgdir": "Il tire un Papier.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "650",
+      "category": "8",
+      "explanation": "Indique un air sp\u00e9cifique dans la pi\u00e8ce.",
+      "stgdir": "Air 62 : R\u00e9veillez-vous, belle Endormie.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "651",
+      "category": "8",
+      "explanation": "Indique un air dans la pi\u00e8ce th\u00e9\u00e2trale.",
+      "stgdir": "Air : Dans un bosquet.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "652",
+      "category": "11",
+      "explanation": "Description d'une interaction ou relation g\u00e9ographique, ici au turc et au Mogol.",
+      "stgdir": "Au turc et au Mogol.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "653",
+      "category": "0",
+      "explanation": "Action simple : regardant Ang\u00e9lique.",
+      "stgdir": "Regardant Ang\u00e9lique.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "654",
+      "category": "11",
+      "explanation": "Description d'un lieu, ici la salle du Conseil d'Ubu.",
+      "stgdir": "La salle du Conseil d'Ubu.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "655",
+      "category": "12",
+      "explanation": "Indique \u00e0 qui cela s'adresse, ici \u00e0 Dariolette.",
+      "stgdir": "\u00c0 Dariolette.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "656",
+      "category": "7",
+      "explanation": "Action de s'approcher, ici il s'approche de C\u00e9cile.",
+      "stgdir": "Il s'approche de C\u00e9cile.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "657",
+      "category": "11",
+      "explanation": "Description d'un changement de d\u00e9cor sur la sc\u00e8ne.",
+      "stgdir": "Le th\u00e9\u00e2tre change en cet endroit et repr\u00e9sente un bois et un ch\u00e2teau dans l'enfoncement. Un jeune Prince para\u00eet appuy\u00e9 contre un arbre dans l'attitude d'un homme accabl\u00e9 de douleur.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "658",
+      "category": "0",
+      "explanation": "Action simple : il \u00f4te son costume de vieillard.",
+      "stgdir": "Il \u00f4te son costume de vieillard.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "659",
+      "category": "8",
+      "explanation": "Indique un air li\u00e9 \u00e0 une \u00e9motion forte.",
+      "stgdir": "AIR. La mort de mon cher p\u00e8re.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "660",
+      "category": "6",
+      "explanation": "Action d'interaction, il embrasse Ducr\u00f4ne et Jenneval.",
+      "stgdir": "Il embrasse Ducr\u00f4ne et Jenneval.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "661",
+      "category": "0",
+      "explanation": "Description d'une action de mouvement au niveau d'un objet.",
+      "stgdir": "II ouvre le treillage, et l'on voit la Comtesse \u00e0 la place de la statue.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "662",
+      "category": "11",
+      "explanation": "Description d'une sc\u00e8ne sp\u00e9cifique.",
+      "stgdir": "CLOMIRE, PASTORALE.",
+      "categFull": "setting"
+    },
+    {
+      "stgdir_nbr": "663",
+      "category": "5",
+      "explanation": "Indication d'une sortie de personnage, ici Orphise sort.",
+      "stgdir": "Orphise sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "664",
+      "category": "4",
+      "explanation": "Indique l'entr\u00e9e de Julie au c\u00f4t\u00e9 de la maison.",
+      "stgdir": "Julie rentre du c\u00f4t\u00e9 de la maison.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "665",
+      "category": "8",
+      "explanation": "Indique un air chant\u00e9 par un personnage.",
+      "stgdir": "AIR. Di que st'alma, il fior tormento, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "666",
+      "category": "0",
+      "explanation": "Action d'un changement d'\u00e9motion, ici changeant de ton et suppliant.",
+      "stgdir": "Changeant de ton et suppliant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "667",
+      "category": "3",
+      "explanation": "Indication d'une action sonore de l'ext\u00e9rieur.",
+      "stgdir": "On entend crier de loin Ruflaut et Jeannot.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "668",
+      "category": "3",
+      "explanation": "Indication d'un son (cornet) interagissant dans la narration.",
+      "stgdir": "On lui corne aux oreilles avec une trompe de postillon.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "669",
+      "category": "8",
+      "explanation": "Indication d'une action musicale collective.",
+      "stgdir": "ENSEMBLE",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "670",
+      "category": "3",
+      "explanation": "Indication d'un son musical sur sc\u00e8ne.",
+      "stgdir": "On entend Sosie qui chante.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "671",
+      "category": "8",
+      "explanation": "Indication d'un air musical sp\u00e9cifique.",
+      "stgdir": "Air 26 : Talarire.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "672",
+      "category": "3",
+      "explanation": "Indication d'un son d'un outil.",
+      "stgdir": "On entend un outil qui fourrage dans la serrure.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "673",
+      "category": "8",
+      "explanation": "Indication d'un air relatant une action.",
+      "stgdir": "Air : La danse n'eslpas Ce que j'aime.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "674",
+      "category": "5",
+      "explanation": "Indication de sortie d'un personnage, ici Laure sort.",
+      "stgdir": "Laure sort.",
+      "categFull": "exit"
+    }
+  ],
+  "response_time": 33913.77592086792,
+  "model": "gpt-4o-mini"
+}

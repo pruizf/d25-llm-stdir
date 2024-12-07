@@ -1,0 +1,370 @@
+{
+  "result_list": [
+    {
+      "stgdir_nbr": "825",
+      "category": "5",
+      "explanation": "La didascalie indique que Duparc quitte la sc\u00e8ne, ce qui est une sortie.",
+      "stgdir": "Duparc sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "826",
+      "category": "4",
+      "explanation": "La didascalie indique que Staphyla entre, ce qui correspond \u00e0 une entr\u00e9e en sc\u00e8ne.",
+      "stgdir": "Staphyla rentre.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "827",
+      "category": "6",
+      "explanation": "Elle touche Picus est une interaction non verbale entre deux personnages.",
+      "stgdir": "Elle touche Picus.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "828",
+      "category": "12",
+      "explanation": "La didascalie \u00c0 la Reine indique le destinataire d'une r\u00e9plique ou d'une action, correspondant \u00e0 la cat\u00e9gorie toward.",
+      "stgdir": "\u00c0 la Reine.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "829",
+      "category": "3",
+      "explanation": "La mention AIR indique que la r\u00e9plique est chant\u00e9e, ce qui est une forme d'interpr\u00e9tation vocale.",
+      "stgdir": "AIR. Paris est au Roi, mon coeur est \u00e0 moi.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "830",
+      "category": "8",
+      "explanation": "La didascalie commence par AIR et fait r\u00e9f\u00e9rence \u00e0 un air sp\u00e9cifique, ce qui appartient \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "AIR : De Z\u00e9mire et Azor.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "831",
+      "category": "8",
+      "explanation": "De m\u00eame, AIR: de Joconde est une r\u00e9f\u00e9rence \u00e0 l'air de la pi\u00e8ce, appartenant \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "AIR : de Joconde.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "832",
+      "category": "9",
+      "explanation": "M\u00eame jeu que plus haut est une r\u00e9f\u00e9rence narrative \u00e0 une action pr\u00e9c\u00e9demment d\u00e9crite dans le texte.",
+      "stgdir": "m\u00eame jeu que plus haut.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "833",
+      "category": "9",
+      "explanation": "C'est une description d\u00e9taill\u00e9e de l'action et de la sc\u00e8ne, qui rel\u00e8ve de la narration.",
+      "stgdir": "Ici, Clarice les voit de sa fen\u00eatre ; et Lucr\u00e8ce, avec Isabelle, les voit aussi de la sienne.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "834",
+      "category": "4",
+      "explanation": "Entre Madame Dergos indique l'entr\u00e9e d'un personnage sur sc\u00e8ne.",
+      "stgdir": "Entre Madame Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "835",
+      "category": "0",
+      "explanation": "La didascalie d\u00e9crit une action g\u00e9n\u00e9rale o\u00f9 D'Orfeuil se rel\u00e8ve apr\u00e8s sa chute.",
+      "stgdir": "D'Orfeuil est rest\u00e9 un moment \u00e9tourdi de sa chute ; il se rel\u00e8ve.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "836",
+      "category": "0",
+      "explanation": "Montrer le Chef des fugitifs est une cat\u00e9gorie action, li\u00e9e \u00e0 une d\u00e9monstration sur sc\u00e8ne.",
+      "stgdir": "En montrant le Chef des fugitifs et le Pr\u00e9lat, qui doivent \u00eatre dans le fond du th\u00e9\u00e2tre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "837",
+      "category": "8",
+      "explanation": "Air : Colin un jour trouva Lisette fait r\u00e9f\u00e9rence \u00e0 un air musical de la pi\u00e8ce.",
+      "stgdir": "Air : Colin un jour trouva Lisette.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "838",
+      "category": "5",
+      "explanation": "Phoedime sort indique que le personnage quitte la sc\u00e8ne, correspondant donc \u00e0 une sortie.",
+      "stgdir": "Phoedime sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "839",
+      "category": "8",
+      "explanation": "Air : Du Feu d'Artifice est un titre d'air musical, appartenant \u00e0 la cat\u00e9gorie music.",
+      "stgdir": "Air 200. Du Feu d'Artifice.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "840",
+      "category": "9",
+      "explanation": "Ces deux divinit\u00e9s paraissent est une description de sc\u00e8ne, ce qui est narratif.",
+      "stgdir": "Ces deux divinit\u00e9s paraissent.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "841",
+      "category": "9",
+      "explanation": "C'est une description narrative de l'action du Duc Dessau, li\u00e9e \u00e0 son \u00e9motion et sa d\u00e9cision.",
+      "stgdir": "Mais le Duc Dessau impatient de la perte de son Fr\u00e8re, se r\u00e9sout de s'opposer \u00e0 ses desseins.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "842",
+      "category": "0",
+      "explanation": "Elle d\u00e9fait le papier est une action simple d\u00e9crite, relev\u00e9e de l'action g\u00e9n\u00e9rale.",
+      "stgdir": "Elle d\u00e9fait le papier.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "843",
+      "category": "4",
+      "explanation": "La didascalie indique que Dergos entre sur sc\u00e8ne.",
+      "stgdir": "Entre Dergos.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "844",
+      "category": "6",
+      "explanation": "Il pose la couronne, ce qui est une interaction avec un autre personnage ou un objet.",
+      "stgdir": "Il lui pose la couronne sur la t\u00eate.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "845",
+      "category": "5",
+      "explanation": "Elle sort en col\u00e8re d\u00e9crit la sortie de la sc\u00e8ne d'un personnage, incluant l'\u00e9motion.",
+      "stgdir": "Elle sort en col\u00e8re.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "846",
+      "category": "0",
+      "explanation": "Arlequin avec l'allumette indique une action ou un \u00e9tat, ici avec un objet.",
+      "stgdir": "Arlequin avec l'allumette.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "847",
+      "category": "6",
+      "explanation": "Elle aper\u00e7oit Dorval et change de ton est un exemple d'interaction initiale et vocale.",
+      "stgdir": "Elle aper\u00e7oit Dorval et change de ton.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "848",
+      "category": "3",
+      "explanation": "Triomphalement est une \u00e9motion ou un ton de voix suivant une action ou un discours.",
+      "stgdir": "Triomphalement.",
+      "categFull": "delivery"
+    },
+    {
+      "stgdir_nbr": "849",
+      "category": "6",
+      "explanation": "Pr\u00e9senter une couronne \u00e0 Voltaire est une interaction, accompagn\u00e9e d'un acte symbolique.",
+      "stgdir": "Madame_la_Marquise_de_Prie pr\u00e9sente \u00e0 Voltaire une couronne de laurier, et l'installe en chantant.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "850",
+      "category": "12",
+      "explanation": "Indique le mouvement ou l'adresse vers un personnage, ici Marie.",
+      "stgdir": "Allant \u00e0 Marie.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "851",
+      "category": "10",
+      "explanation": "Prendre les fleurs dans le tiroir est une interaction avec un objet.",
+      "stgdir": "Prenant des fleurs dans le tiroir.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "852",
+      "category": "7",
+      "explanation": "Se rapprochant de Rosalie indique un mouvement de proximit\u00e9 vers une autre personne.",
+      "stgdir": "Se rapprochant de Rosalie.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "853",
+      "category": "12",
+      "explanation": "\u00c0 Candide indique le destinataire d'une r\u00e9plique ou d'une attention.",
+      "stgdir": "\u00c0 Candide.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "854",
+      "category": "5",
+      "explanation": "Damon sort est une indication de sortie de sc\u00e8ne par un personnage.",
+      "stgdir": "Damon sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "855",
+      "category": "5",
+      "explanation": "Adrien sort, ce qui indique sa sortie de sc\u00e8ne.",
+      "stgdir": "Adrien sort.",
+      "categFull": "exit"
+    },
+    {
+      "stgdir_nbr": "856",
+      "category": "4",
+      "explanation": "Pasquin para\u00eet sur sc\u00e8ne, ce qui est une entr\u00e9e.",
+      "stgdir": "Pasquin para\u00eet.",
+      "categFull": "entrance"
+    },
+    {
+      "stgdir_nbr": "857",
+      "category": "8",
+      "explanation": "Air : Ce que j'\u00e9prouve en vous voyant est le nom d'un morceau musical.",
+      "stgdir": "Air : Ce que j'\u00e9prouve en vous voyant.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "858",
+      "category": "8",
+      "explanation": "Air : Folies d'Espagne r\u00e9f\u00e9rence un air sp\u00e9cifique, relevant de la musique.",
+      "stgdir": "Air : Folies d'Espagne.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "859",
+      "category": "0",
+      "explanation": "Porter la fiole \u00e0 sa bouche est une action g\u00e9n\u00e9rale impliquant un objet.",
+      "stgdir": "Il porte la fiole \u00e0 sa bouche.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "860",
+      "category": "0",
+      "explanation": "Parcourir la lettre est une action d\u00e9crite sans interaction notable.",
+      "stgdir": "Parcourant la lettre.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "861",
+      "category": "12",
+      "explanation": "\u00c0 Lycandre indique \u00e0 qui la r\u00e9plique ou l'attention est adress\u00e9e.",
+      "stgdir": "\u00c0 Lycandre.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "862",
+      "category": "8",
+      "explanation": "Le nom de l'air est Y a coups de pieds et appartient \u00e0 la cat\u00e9gorie Music.",
+      "stgdir": "AIR : Y a coups de pieds, etc.",
+      "categFull": "music"
+    },
+    {
+      "stgdir_nbr": "863",
+      "category": "12",
+      "explanation": "\u00c0 Mowbrai est une adresse vers le personnage en sc\u00e8ne.",
+      "stgdir": "\u00c0 Mowbrai.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "864",
+      "category": "12",
+      "explanation": "Allant \u00e0 elle indique un d\u00e9placement ou une adresse vers un personnage sp\u00e9cifique.",
+      "stgdir": "Allant \u00e0 elle.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "865",
+      "category": "6",
+      "explanation": "Parler \u00e0 l'oreille est une interaction physique sp\u00e9cifique.",
+      "stgdir": "Il lui parle \u00e0 l'oreille.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "866",
+      "category": "7",
+      "explanation": "S'en allant indique le mouvement de d\u00e9part d'un personnage, mais pas une sortie d\u00e9finitive.",
+      "stgdir": "S'en allant.",
+      "categFull": "movement"
+    },
+    {
+      "stgdir_nbr": "867",
+      "category": "12",
+      "explanation": "Adresse les Grands, indiquant l'adresse d'une r\u00e9plique ou attention.",
+      "stgdir": "Aux Grands.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "868",
+      "category": "12",
+      "explanation": "Au Sauvage indique \u00e0 qui s'adresse une r\u00e9plique ou une action.",
+      "stgdir": "Au Sauvage.",
+      "categFull": "toward"
+    },
+    {
+      "stgdir_nbr": "869",
+      "category": "0",
+      "explanation": "R\u00e9pondant est une action g\u00e9n\u00e9rique de r\u00e9ponse.",
+      "stgdir": "R\u00e9pondant.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "870",
+      "category": "10",
+      "explanation": "Action d'interaction avec un objet : mettre sa perruque.",
+      "stgdir": "Il met sa perruque.",
+      "categFull": "object"
+    },
+    {
+      "stgdir_nbr": "871",
+      "category": "9",
+      "explanation": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas constitue une s\u00e9quence narrative surnaturelle.",
+      "stgdir": "Un fant\u00f4me emporte l'\u00e9p\u00e9e d'Arcas.",
+      "categFull": "narration"
+    },
+    {
+      "stgdir_nbr": "872",
+      "category": "6",
+      "explanation": "Interaction impliquant remettre un objet \u00e0 une autre personne non verbalement.",
+      "stgdir": "Il lui met une bourse dans la main.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "873",
+      "category": "6",
+      "explanation": "Elle appelle Lubin est un acte d'interaction par l'appel.",
+      "stgdir": "Elle appelle Lubin.",
+      "categFull": "interaction"
+    },
+    {
+      "stgdir_nbr": "874",
+      "category": "1",
+      "explanation": "Les coups de b\u00e2ton sont une forme d'agression physique.",
+      "stgdir": "Les Turcs r\u00e9p\u00e8tent les m\u00eames vers, et lui donnent plusieurs coups de b\u00e2ton en cadence.",
+      "categFull": "aggression"
+    },
+    {
+      "stgdir_nbr": "875",
+      "category": "0",
+      "explanation": "Achever une t\u00e2che m\u00e9nag\u00e8re constitue une action, plus pr\u00e9cis\u00e9ment g\u00e9n\u00e9rale.",
+      "stgdir": "Elles ont achev\u00e9 de mettre la table, et elles viennent sur le devant de la sc\u00e8ne.",
+      "categFull": "action"
+    },
+    {
+      "stgdir_nbr": "876",
+      "category": "11",
+      "explanation": "La description d'une fontaine dans un bois est un cadre, donc un setting.",
+      "stgdir": "Une fontaine dans un bois.",
+      "categFull": "setting"
+    }
+  ],
+  "response_time": 23056.928396224976,
+  "model": "gpt-4o"
+}
