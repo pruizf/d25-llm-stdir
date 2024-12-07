@@ -177,7 +177,17 @@ if __name__ == "__main__":
           result["categFull"] = cf.categs_as13[int(result["category"])]
         # Category output as string, not number
         except ValueError:
-          assert result["category"] in cf.categs_as13, f"Category {result['category']} not in {cf.categs_as13}"
+          try:
+            assert result["category"] in cf.categs_as13, f"Category {result['category']} not in {cf.categs_as13}"
+          except AssertionError:
+            # saw one case where Mistral finds no suitable category and outputs the string 'null'
+            orig_categ = result["category"]
+            rand_categ = random.choice(cf.categs_as13)
+            print(f"- >>> Hallucinated category {result['stgdir_nbr']} filled with random category {rand_categ}")
+            result["category"] = rand_categ
+            with open(os.path.join("logs", f"hallucinated_categs_{args.batch_name}.txt"), "a") as out_ac:
+              out_ac.write(f"{result['stgdir_nbr']}\t{orig_categ}\t{rand_categ}\n")
+
           print(f"- >>> String label used, group index [{gidx}], group number [{grpn}], result number [{ridx}]")
           # bring back label to a numberic label (for evaluation)
           result["categFull"] = result["category"]
@@ -186,7 +196,7 @@ if __name__ == "__main__":
           print(f"- >>> Missing category, group index [{gidx}], group number [{grpn}], result number [{ridx}]")
           orig_categ = result["category"]
           rand_categ = random.choice(cf.categs_as13)
-          print(f"      Hallucinated category Replaced Missing stage direction {result['stgdir_nbr']} filled with random category {rand_choice}")
+          print(f"      Hallucinated category [{result['stgdir_nbr']}] filled with random category [{rand_categ}]")
           result["category"] = rand_categ
           with open(os.path.join("logs", f"hallucinated_categs_{args.batch_name}.txt"), "a") as out_ac:
             out_ac.write(f"{result['stgdir_nbr']}\t{orig_categ}\t{rand_categ}\n")

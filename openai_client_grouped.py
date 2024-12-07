@@ -65,6 +65,10 @@ if __name__ == "__main__":
   assert args.batch_name.startswith("batch_"), "Batch name must start with 'batch_'"
   assert args.prompt_mode in cf.prompting_modes, f"Prompting strategy {args.prompting} not in {cf.prompting_modes}"
   assert args.prompt_lang in cf.prompting_langs, f"Prompting language {args.prompt_lang} not in {cf.prompting_langs}"
+  # The 30% test corpus was sorted by type, make sure to use a shuffled version for few-shot
+  # (otherwise the model will see all examples of a category in sequence)
+  if args.prompt_mode == "few-shot" or args.prompt_mode == "def-few-shot" and "30" in args.corpus:
+    assert "shuf" in args.corpus
 
   print(f"{args.batch_name}: Running [{args.model}] on [{args.corpus}], mode [{args.prompt_mode}]\n")
 
