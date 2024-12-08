@@ -1,4 +1,4 @@
-# Stage direction classification in French theater with LLM
+# Stage direction classification in French theater with transfer learning and LLM prompting
 Pablo Ruiz Fabo & Alexia Schneider, Université de Strasbourg
 # Repository structure
 
