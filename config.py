@@ -50,3 +50,12 @@ llm_list = ["gpt-4o", "gpt-4o-mini", "llama-3.0", "llama-3.1", "mistral-small-la
 
 categ_col_map = {"gold": "goldStr", "sys": "sysStr", "label": "labelStr", "labelStr": "label"}
 categ_col_order = ["text", "gold", "goldStr", "text2", "sys", "sysStr", "cf_sents"]
+
+batches_for_stats = os.path.join(corpus_dir, "batches_for_stats.txt")
+batch_stats_fn_prefix = "batch_stats__"
+stat_suffixes_orig = ["zero-shot", "few-shot", "indiv", "grouped",
+                      "zero-shot-indiv", "zero-shot-grouped", "few-shot-indiv", "few-shot-grouped"]
+stat_suffixes = [x + "-fr" for x in stat_suffixes_orig] + [x + "-en" for x in stat_suffixes_orig]
+stat_suffixes += stat_suffixes_orig
+stat_suffixes = sorted(stat_suffixes)
+model_name_mappings = {"mistral-large-2407": "mistral-large-latest"}
