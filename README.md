@@ -130,26 +130,3 @@ We also tested prompts where, instead of asking to classify a single stage direc
 | 332    |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.728    | 0.727 |   ip    |
 | 333    |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.744    | 0.741 |   ip    |
 
-305 once bad batch (res does not match ref), but fixed
-
-306 same, now fixed
-
-318 is duplicated with 315
-
-Note that Mistral client sleeps for one second after each call.
-
-312 12 random categ replacement
-
-313 v high but may need to redo shuffled (may be analyzing the context of successive stage directions for clues)
-
-315 mistral small bad results, >80 random categs cos result does not have categ
-
-316 also bad, > 30 random categs
-
-317 37 random categs
-
-318 bad, 155 random
-
-325 v bad, > 400 random categs
-
-325_01 v bad, > 225 random categs
