@@ -152,4 +152,4 @@ Note that Mistral client sleeps for one second after each call.
 
 325 v bad, > 400 random categs
 
-325_01 v bad > 225 random categs
+325_01 v bad, > 225 random categs
