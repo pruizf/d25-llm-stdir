@@ -1,14 +1,25 @@
 # Stage direction classification in French theater with transfer learning and LLM prompting
-Pablo Ruiz Fabo & Alexia Schneider, Université de Strasbourg
+Pablo Ruiz Fabo (Université de Strasbourg) & Alexia Schneider (Université de Montréal)
 # Repository structure
+
+## Fine tuning experiments
+
+Notebooks where pre-trained language models (CamemBERT, M-BERT, FlauBERT, XML-RoBERTa) are finetuned to be added in the `fine-tuning` directory.
+
+## Prompting experiments
+
+In the `prompting` directory.
 
 - Clients to run the LLM are:
   - `openai_client.py`
+  - `openai_client_grouped.py`
   - `llama_client.py`
   - `mistral_client.py`
+  - `mistral_client_grouped.py`
 - For each batch, they create an output directory under `outputs`.
+- The clients with `_grouped` in the name are for grouped stage directions (i.e. having several stage directions to classify in the same prompt, we tested with 75 stage directions).
 - Evaluation scripts are:
-  - `evaluate.py` for GPT-4 and Mistral results
+  - `evaluation.py` for GPT-4 and Mistral results
   - `evaluate_llama.py` for Llama results
 - Configuration options are in `config.py`
 - Examples to classify are in `data`
@@ -31,13 +42,15 @@ CLI options can be seen in the `argparse` options in the clients.
 - The complete test-set (2923 examples) is used run in zero-shot batches, and a 30% fraction, stratified by category, is run in few-shot batches.
 
 # Prompts
-- The prompts, in both English and French, are in `prompts.py`. The prompts are templates with several fields, filled dynamically by the client with category definitions in all settings and, additionally, some examples in the few-shot setting.
+- The prompts, in both English and French, are in `prompts.py` and `prompts_grouped.py`. The prompts are templates with several fields, filled dynamically by the client with category definitions in all settings and, additionally, some examples in the few-shot setting.
 - Category definitions are in `data/category_info.py`.
 - In the case of few-shot batches, the examples in `data/sampled_df_for_prompts_0001.tsv` are added to the prompt.
+- `prompts_grouped.py` contains prompts for grouped stage directions, where the model is asked to classify a list of stage directions. The order of stage directions on the list does not follow a pattern (is shuffled). 
+
 
 # Evaluation
 
-- Script `evaluate.py` and `evaluate_llama.py` produce a classification report and confustion matrix for a batch, for GPT-4 and Llama 3.1 results respectively. Results are written to the `plots` directory in each batch's output directory.
+- Scripts `evaluate.py` and `evaluate_llama.py` produce a classification report and confustion matrix for a batch, for GPT or Mistral and Llama 3.1 results respectively. Results are written to the `plots` directory in each batch's output directory.
 
 # Result summary
 
