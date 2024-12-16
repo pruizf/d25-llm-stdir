@@ -1,4 +1,4 @@
-## Prompting experiments
+# Prompting experiments
 
 - Clients to run the LLM are:
   - `openai_client.py`
