@@ -1,6 +1,5 @@
 # Stage direction classification in French theater with transfer learning and LLM prompting
 Pablo Ruiz Fabo (Université de Strasbourg) & Alexia Schneider (Université de Montréal)
-# Repository structure
 
 ## Fine tuning experiments
 

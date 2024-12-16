@@ -1,14 +1,4 @@
-# Stage direction classification in French theater with transfer learning and LLM prompting
-Pablo Ruiz Fabo (Université de Strasbourg) & Alexia Schneider (Université de Montréal)
-# Repository structure
-
-## Fine tuning experiments
-
-The experiments were carried out on Colab and the directory contains the notebooks, see the [README](fine-tuning/README.md) there for details.
-
 ## Prompting experiments
-
-In the `prompting` directory.
 
 - Clients to run the LLM are:
   - `openai_client.py`
