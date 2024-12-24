@@ -49,11 +49,11 @@ CLI options can be seen in the `argparse` options in the clients.
 
 A description of column values follows the results tables.
 
+<a name="indiv-stgdir"></a>
+
 ## Individual stage direction prompts
 
 Batch IDs starting with 0 are for GPT-4 models, starting with 1 are for Llama models, and starting with 2 are for Mistral models.
-
-<a name="indiv-stgdir"></a>
 
 | id  | definition type  | prompt language |         example use         |     data split     |       model        | macro F1 | weighted F1 | acc  |
 |-----|:----------------:|:---------------:|:---------------------------:|:------------------:|:------------------:|:--------:|:-----------:|:----:|
@@ -87,11 +87,10 @@ Batch IDs starting with 0 are for GPT-4 models, starting with 1 are for Llama mo
 | 209 |     detailed     |       en        | few-shot<br/>(20 per class) |         0.3<br/>stratified          | mistral-small-2409 |   0.51   |    0.55     | 0.56 |
 | 210 |     detailed     |       en        | few-shot<br/>(20 per class) |         0.3<br/>stratified          | mistral-small-2409 |   0.51   |    0.56     | 0.56 |
 
+<a name="grouped-stgdir"></a>
 ##  Grouped prompts
 
 We also tested prompts where, instead of asking to classify a single stage direction, the model is asked to classify a list of stage directions with the same prompt. The table below summarizes such results.
-
-<a name="grouped-stgdir"></a>
 
 | id     | definition type | prompt language | stdir per prompt | example use |          data split           |        model         | macro F1 | weighted F1 |  acc  |  secs   | 
 |--------|:--------:|:---------------:|:----------------:|:-----------:|:-----------------------------:|:--------------------:|:--------:|:-----------:|:-----:|:-------:|
@@ -102,35 +101,31 @@ We also tested prompts where, instead of asking to classify a single stage direc
 | 306    | detailed |       en        |        10        |  zero-shot  |               1               |    mistral-large     |   0.69   |    0.726    | 0.726 | 5812.24 |
 | 307    | detailed |       en        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.696   |    0.745    | 0.735 | 2510.22 |
 | 308    | detailed |       fr        |        75        |  zero-shot  |               1               |    mistral-large     |  0.708   |    0.74     | 0.736 | 5244.82 |
-| 309    | detailed |       fr        |       100        |  zero-shot  |               1               |    mistral-large     |    ip    |     ip      |  ip   |   ip    |
-| 310    | detailed |       fr        |       100        |  zero-shot  |               1               |    mistral-small     |    ip    |     ip      |  ip   |   ip    |
-| 311    | detailed |       fr        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.734   |    0.797    | 0.796 |   ip    |
-| 312    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.717   |    0.761    | 0.759 |   ip    |
+| 309    | detailed |       fr        |       100        |  zero-shot  |               1               |    mistral-large     |          |             |       |         |
+| 310    | detailed |       fr        |       100        |  zero-shot  |               1               |    mistral-small     |          |             |       |         |
+| 311    | detailed |       fr        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.734   |    0.797    | 0.796 |         |
+| 312    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       |    mistral-large     |  0.717   |    0.761    | 0.759 |         |
 | 313    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       |        gpt-4o        |  0.765   |    0.826    | 0.818 | 973.99  |
 | 314    | detailed |       fr        |        75        |  few-shot   |       0.3<br>stratified       |        gpt-4o        |  0.744   |    0.802    | 0.791 | 747.69  |
 | 315    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.473   |    0.569    | 0.551 |  705.2  |
-| 316    | detailed |       fr        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.525   |    0.608    | 0.597 |   ip    |
-| 317    | detailed |       en        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.676    | 0.676 |   ip    |
-| 318    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.472   |    0.548    | 0.555 |   ip    |
+| 316    | detailed |       fr        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.525   |    0.608    | 0.597 |         |
+| 317    | detailed |       en        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.676    | 0.676 |         |
+| 318    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       | mistral-small-latest |  0.472   |    0.548    | 0.555 |         |
 | 319    | detailed |       fr        |        75        |  zero-shot  |               1               |     gpt-4o-mini      |  0.623   |    0.675    | 0.665 | 965.42  |
 | 320    | detailed |       en        |        75        |  zero-shot  |               1               |    mistral-large     |  0.683   |    0.714    | 0.713 | 1278.86 |
 | 321    | detailed |       fr        |        75        |  zero-shot  |               1               |        gpt-4o        |  0.691   |    0.742    | 0.732 | 1522.73 |
 | 322    | detailed |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |  0.616   |    0.692    | 0.686 | 1221.21 |
-| 323    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.705   |    0.764    | 0.753 |   ip    |
+| 323    | detailed |       en        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.705   |    0.764    | 0.753 |         |
 | 324    | detailed |       fr        |        75        |  few-shot   |       0.3<br>stratified       |     gpt-4o-mini      |  0.724   |    0.76     | 0.753 | 380.65  |
-| 325    | detailed |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |   0.61   |    0.674    | 0.675 |   ip    |
+| 325    | detailed |       fr        |        75        |  zero-shot  |               1               |    mistral-small     |   0.61   |    0.674    | 0.675 |         |
 | 326    | detailed |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |  0.621   |    0.666    | 0.657 | 374.07  |
 | 327    | detailed |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |     gpt-4o-mini      |   0.65   |    0.707    | 0.700 | 312.11  |
 | 328    | detailed |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.729   |    0.788    | 0.78  | 312.11  |
 | 329    | detailed |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |        gpt-4o        |  0.726   |    0.788    | 0.781 |         |
 | 330    | detailed |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-small     |  0.526   |    0.606    | 0.602 |         |
-| 331    | detailed |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled | mistral-small-latest |  0.592   |    0.66     | 0.652 |   ip    |
-| 332    | detailed |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.728    | 0.727 |   ip    |
-| 333    | detailed |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.744    | 0.741 |   ip    |
-
-
-
-All "grouped prompts" contained a definition for each category and a list of expressions that may be related to the category (but that are not direct examples).
+| 331    | detailed |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled | mistral-small-latest |  0.592   |    0.66     | 0.652 |         |
+| 332    | detailed |       fr        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.728    | 0.727 |         |
+| 333    | detailed |       en        |        75        |  few-shot   | 0.3<br>stratified<br>shuffled |    mistral-large     |  0.707   |    0.744    | 0.741 |       |
 
 
 ## Legend for the result summaries
