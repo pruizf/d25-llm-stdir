@@ -1,4 +1,4 @@
-# Stage direction classification in French theater with transfer learning and LLM prompting
+# Stage direction classification in French theater with pre-trained language models and LLM prompting
 Pablo Ruiz Fabo (Université de Strasbourg) & Alexia Schneider (Université de Montréal)
 
 ## Fine tuning experiments
